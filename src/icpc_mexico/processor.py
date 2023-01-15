@@ -5,7 +5,7 @@ import os
 from typing import List, Dict
 
 from icpc_mexico import api
-from icpc_mexico.data import ContestMetadata, Contest, Team
+from icpc_mexico.data import Contest, FinishedContest, TeamResult
 from icpc_mexico.errors import ProcessingError
 
 
@@ -14,19 +14,19 @@ def _get_relative_filename(filename: str) -> str:
     return os.path.join(script_dir, filename)
 
 
-def _get_contest_metadata(filename: str) -> List[ContestMetadata]:
-    contests: List[ContestMetadata] = []
+def _get_contests(filename: str) -> List[Contest]:
+    contests: List[Contest] = []
     with open(filename) as csv_file:
         csv_reader = csv.DictReader(csv_file)
         for csv_row in csv_reader:
-            contest = ContestMetadata.from_csv(csv_row)
+            contest = Contest.from_csv(csv_row)
             contests.append(contest)
 
     return contests
 
 
-def _remove_duplicate_teams(teams: List[Team]) -> List[Team]:
-    unique_teams: Dict[int, Team] = {}
+def _remove_duplicate_teams(teams: List[TeamResult]) -> List[TeamResult]:
+    unique_teams: Dict[int, TeamResult] = {}
     teams_without_rank = []
     for team in teams:
         if not team.rank:
@@ -64,25 +64,25 @@ def _remove_duplicate_teams(teams: List[Team]) -> List[Team]:
     return sorted_teams
 
 
-def get_mexico_contests() -> List[Contest]:
-    metadata = _get_contest_metadata(_get_relative_filename('icpc_mexico_contests.csv'))
-    print(f'Metadata size: {len(metadata)}')
+def get_mexico_contests() -> List[FinishedContest]:
+    contests = _get_contests(_get_relative_filename('icpc_mexico_contests.csv'))
+    print(f'Contest count: {len(contests)}')
 
-    contests = []
-    for contest_metadata in metadata:
-        if contest_metadata.name != 'The 2009 Mexico & Central America Contest':
+    finished_contests = []
+    for contest in contests:
+        if contest.name != 'The 2009 Mexico & Central America Contest':
             continue
-        print(f'Getting results for contest {contest_metadata.name}')
-        teams = api.get_contest_teams(contest_metadata.id)
+        print(f'Getting results for contest {contest.name}')
+        teams = api.get_contest_team_results(contest.id)
         if not teams:
-            raise ProcessLookupError(f'Contest {contest_metadata.name} has no team results')
+            raise ProcessLookupError(f'Contest {contest.name} has no team results')
 
         unique_teams = _remove_duplicate_teams(teams)
         if len(unique_teams) != len(teams):
             print(f'Removed {len(teams) - len(unique_teams)} ({len(teams)} -> {len(unique_teams)})'
-                  f' duplicate teams from contest {contest_metadata.name}')
+                  f' duplicate teams from contest {contest.name}')
 
-        contests.append(Contest(metadata=contest_metadata, teams=unique_teams))
+        finished_contests.append(FinishedContest.from_contest(contest=contest, team_results=unique_teams))
 
     # print(json.dumps(dataclasses.asdict(contests[0])))
-    return contests
+    return finished_contests

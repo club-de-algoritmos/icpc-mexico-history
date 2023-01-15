@@ -1,10 +1,10 @@
-from dataclasses import dataclass
+from dataclasses import asdict, dataclass
 from enum import Enum
 from typing import Optional, List, Any
 
 
 @dataclass(frozen=True)
-class Team:
+class TeamResult:
     id: int
     name: str
     institution: str
@@ -18,7 +18,7 @@ class Team:
 
     @staticmethod
     def from_json(json: Any):
-        return Team(
+        return TeamResult(
             id=json['teamId'],
             name=json['teamName'],
             institution=json['institution'],
@@ -41,7 +41,7 @@ class ContestType(str, Enum):
 
 
 @dataclass(frozen=True)
-class ContestMetadata:
+class Contest:
     id: int
     url_id: str
     name: str
@@ -52,7 +52,7 @@ class ContestMetadata:
 
     @staticmethod
     def from_csv(csv_row):
-        return ContestMetadata(
+        return Contest(
             id=int(csv_row['id']),
             url_id=csv_row['url_id'],
             name=csv_row['name'],
@@ -64,6 +64,9 @@ class ContestMetadata:
 
 
 @dataclass(frozen=True)
-class Contest:
-    metadata: ContestMetadata
-    teams: List[Team]
+class FinishedContest(Contest):
+    team_results: List[TeamResult]
+
+    @classmethod
+    def from_contest(cls, contest: Contest, **kwargs):
+        return cls(**asdict(contest), **kwargs)

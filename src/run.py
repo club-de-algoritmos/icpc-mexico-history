@@ -15,7 +15,5 @@ if __name__ == '__main__':
     store_contests(contests, contests_filename)
 
     loaded_contests = load_contests(contests_filename)
-    print(contests[0].team_results[0])
-    print(loaded_contests[0].team_results[0])
-    if contests[0].team_results[0] != loaded_contests[0].team_results[0]:
+    if contests != loaded_contests:
         raise Exception('Could not load correctly')

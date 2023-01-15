@@ -1,8 +1,11 @@
 from dataclasses import asdict, dataclass
 from enum import Enum
-from typing import Optional, List, Any
+from typing import Optional, List
+
+from dataclasses_json import dataclass_json
 
 
+@dataclass_json
 @dataclass(frozen=True)
 class TeamResult:
     id: int
@@ -25,6 +28,7 @@ class ContestType(str, Enum):
     WORLD = 'world'
 
 
+@dataclass_json
 @dataclass(frozen=True)
 class Contest:
     id: int
@@ -36,6 +40,7 @@ class Contest:
     comments: str
 
 
+@dataclass_json
 @dataclass(frozen=True)
 class FinishedContest(Contest):
     team_results: List[TeamResult]

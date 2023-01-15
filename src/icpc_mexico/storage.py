@@ -6,7 +6,7 @@ from icpc_mexico.data import FinishedContest
 
 
 def store_contests(contests: List[FinishedContest], filename: str) -> None:
-    contests_as_dicts = [dataclasses.asdict(contest) for contest in contests]
+    contests_as_dicts = [contest.to_dict() for contest in contests]
     with open(filename, 'w') as results_file:
         json.dump(contests_as_dicts, fp=results_file, indent=2, ensure_ascii=False)
 
@@ -17,5 +17,5 @@ def load_contests(filename: str) -> List[FinishedContest]:
 
     contests = []
     for contest_dict in contests_dicts:
-        contests.append(FinishedContest(**contest_dict))
+        contests.append(FinishedContest.from_dict(contest_dict))
     return contests

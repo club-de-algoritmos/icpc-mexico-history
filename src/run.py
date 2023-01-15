@@ -1,5 +1,5 @@
-from icpc_mexico.processor import query_contests
+from icpc_mexico.processor import get_mexico_contests
 
 
 if __name__ == '__main__':
-    query_contests()
+    get_mexico_contests()

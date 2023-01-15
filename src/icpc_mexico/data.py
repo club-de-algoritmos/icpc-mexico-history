@@ -32,7 +32,7 @@ class Team:
         )
 
 
-class ContestType(Enum):
+class ContestType(str, Enum):
     PROGRAMMING_BATTLE = 'programming_battle'
     GRAN_PREMIO = 'gran_premio'
     REGIONAL = 'regional'

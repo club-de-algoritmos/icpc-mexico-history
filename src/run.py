@@ -1,17 +1,21 @@
-import dataclasses
-import json
 import os
 
 from icpc_mexico.processor import get_mexico_contests
+from icpc_mexico.storage import store_contests, load_contests
 
 
-def _get_relative_filename(filename: str) -> str:
-    script_dir = os.path.dirname(__file__)
-    return os.path.join(script_dir, filename)
+def _get_data_filename(filename: str) -> str:
+    return os.path.join(os.getcwd(), 'data', filename)
 
 
 if __name__ == '__main__':
-    contests = get_mexico_contests(_get_relative_filename('icpc_mexico_contests.csv'))
-    contests_as_dicts = [dataclasses.asdict(contest) for contest in contests]
-    with open(_get_relative_filename('icpc_mexico_results.json'), 'w') as results_file:
-        results_file.write(json.dumps(contests_as_dicts, indent=2, ensure_ascii=False))
+    contests_filename = _get_data_filename('icpc_mexico_results.json')
+
+    contests = get_mexico_contests(_get_data_filename('icpc_mexico_contests.csv'))
+    store_contests(contests, contests_filename)
+
+    loaded_contests = load_contests(contests_filename)
+    print(contests[0].team_results[0])
+    print(loaded_contests[0].team_results[0])
+    if contests[0].team_results[0] != loaded_contests[0].team_results[0]:
+        raise Exception('Could not load correctly')

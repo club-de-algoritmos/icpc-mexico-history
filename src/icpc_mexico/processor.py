@@ -2,8 +2,20 @@ import csv
 from typing import List, Dict
 
 from icpc_mexico import api
-from icpc_mexico.data import Contest, FinishedContest, TeamResult
+from icpc_mexico.data import Contest, FinishedContest, TeamResult, ContestType
 from icpc_mexico.errors import ProcessingError
+
+
+def _from_csv_to_contest(csv_row: Dict) -> Contest:
+    return Contest(
+        id=int(csv_row['id']),
+        url_id=csv_row['url_id'],
+        name=csv_row['name'],
+        year=int(csv_row['year']),
+        date=csv_row['date'],
+        type=ContestType(csv_row['type']),
+        comments=csv_row['comments'],
+    )
 
 
 def _get_contests(filename: str) -> List[Contest]:
@@ -11,8 +23,7 @@ def _get_contests(filename: str) -> List[Contest]:
     with open(filename) as csv_file:
         csv_reader = csv.DictReader(csv_file)
         for csv_row in csv_reader:
-            contest = Contest.from_csv(csv_row)
-            contests.append(contest)
+            contests.append(_from_csv_to_contest(csv_row))
 
     return contests
 

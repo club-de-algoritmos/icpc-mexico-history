@@ -12,5 +12,6 @@ def _get_relative_filename(filename: str) -> str:
 
 if __name__ == '__main__':
     contests = get_mexico_contests(_get_relative_filename('icpc_mexico_contests.csv'))
+    contests_as_dicts = [dataclasses.asdict(contest) for contest in contests]
     with open(_get_relative_filename('icpc_mexico_results.json'), 'w') as results_file:
-        results_file.write(json.dumps([dataclasses.asdict(contest) for contest in contests]))
+        results_file.write(json.dumps(contests_as_dicts, indent=2, ensure_ascii=False))

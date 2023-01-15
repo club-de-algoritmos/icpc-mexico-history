@@ -2,7 +2,14 @@
 
 ## Desarrollo
 
-Recomendamos utilizar `asdf` para tener consistencia en las versiones de binarios. Ejecuta `asdf install`.
+Recomendamos utilizar `asdf` para tener consistencia en las versiones de binarios.
+
+Ejecuta `asdf install`, para instalar Python.
+
+Ejecuta `pip install -r requirements.txt` para instalar las dependencias.
+
+Ejecuta `python src/run.py` para ejecutar el script.
+
 
 ## Propósito
 

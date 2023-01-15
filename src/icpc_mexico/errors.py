@@ -1,0 +1,2 @@
+class IcpcApiError(Exception):
+    pass

@@ -1,17 +1,9 @@
 import csv
-import dataclasses
-import json
-import os
 from typing import List, Dict
 
 from icpc_mexico import api
 from icpc_mexico.data import Contest, FinishedContest, TeamResult
 from icpc_mexico.errors import ProcessingError
-
-
-def _get_relative_filename(filename: str) -> str:
-    script_dir = os.path.dirname(__file__)
-    return os.path.join(script_dir, filename)
 
 
 def _get_contests(filename: str) -> List[Contest]:
@@ -64,8 +56,8 @@ def _remove_duplicate_teams(teams: List[TeamResult]) -> List[TeamResult]:
     return sorted_teams
 
 
-def get_mexico_contests() -> List[FinishedContest]:
-    contests = _get_contests(_get_relative_filename('icpc_mexico_contests.csv'))
+def get_mexico_contests(contest_csv_filename: str) -> List[FinishedContest]:
+    contests = _get_contests(contest_csv_filename)
     print(f'Contest count: {len(contests)}')
 
     finished_contests = []
@@ -84,5 +76,4 @@ def get_mexico_contests() -> List[FinishedContest]:
 
         finished_contests.append(FinishedContest.from_contest(contest=contest, team_results=unique_teams))
 
-    # print(json.dumps(dataclasses.asdict(contests[0])))
     return finished_contests

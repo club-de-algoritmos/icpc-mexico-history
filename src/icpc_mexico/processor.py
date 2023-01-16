@@ -67,14 +67,12 @@ def _remove_duplicate_teams(teams: List[TeamResult]) -> List[TeamResult]:
     return sorted_teams
 
 
-def get_mexico_contests(contest_csv_filename: str) -> List[FinishedContest]:
+def get_finished_contests(contest_csv_filename: str) -> List[FinishedContest]:
     contests = _get_contests(contest_csv_filename)
-    print(f'Contest count: {len(contests)}')
+    print(f'Found {len(contests)} contests to query results for')
 
     finished_contests = []
     for contest in contests:
-        if contest.name != 'The 2009 Mexico & Central America Contest':
-            continue
         print(f'Getting results for contest {contest.name}')
         teams = api.get_contest_team_results(contest.id)
         if not teams:

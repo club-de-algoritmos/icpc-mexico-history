@@ -1,4 +1,5 @@
 import csv
+import dataclasses
 from typing import List, Dict
 
 from icpc_mexico import api
@@ -31,36 +32,35 @@ def _get_contests(filename: str) -> List[Contest]:
 def _remove_duplicate_teams(teams: List[TeamResult]) -> List[TeamResult]:
     unique_teams: Dict[int, TeamResult] = {}
     teams_without_rank = []
+    last_rank = 0
     for team in teams:
         if not team.rank:
             teams_without_rank.append(team)
             continue
 
+        last_rank = max(last_rank, team.rank)
         if team.id not in unique_teams:
             unique_teams[team.id] = team
             continue
         older_team = unique_teams[team.id]
-        if (older_team.rank > team.rank
-                or older_team.problems_solved < team.problems_solved
+        if (older_team.problems_solved < team.problems_solved
                 or older_team.total_time > team.total_time
                 or older_team.last_problem_time > team.last_problem_time):
-            print(f'A better team was found after in the list')
-            print(f'  Seen: {older_team}')
-            print(f'  Current: {team}')
             unique_teams[team.id] = team
 
+    # Some teams have no rank, so they should be after the largest rank seen
     for team in teams_without_rank:
         if team.id not in unique_teams:
-            raise ProcessingError(f'Team {team.name} does not have a rank at all')
+            unique_teams[team.id] = dataclasses.replace(team, rank=last_rank + 1)
 
     sorted_teams = sorted(unique_teams.values(), key=lambda t: t.rank)
-    last_rank = sorted_teams[-1].rank
     prev_team = None
     for idx, team in enumerate(sorted_teams):
         expected_rank = idx + 1
-        if team.rank != expected_rank and team.rank != prev_team.rank and team.rank != last_rank:
-            print(f'Team: {team}')
+        # Allow a rank offset of up to 5 places as that's how it is :(
+        if team.rank != expected_rank and not (prev_team.rank <= team.rank <= prev_team.rank + 5):
             print(f'Previous team: {prev_team}')
+            print(f'Team: {team}')
             raise ProcessingError(f'Unexpected rank for team {team.name}: {team.rank}, expected {expected_rank}')
         prev_team = team
 
@@ -73,6 +73,9 @@ def get_finished_contests(contest_csv_filename: str) -> List[FinishedContest]:
 
     finished_contests = []
     for contest in contests:
+        if contest.comments.startswith('TBD'):
+            continue
+
         print(f'Getting results for contest {contest.name}')
         teams = api.get_contest_team_results(contest.id)
         if not teams:

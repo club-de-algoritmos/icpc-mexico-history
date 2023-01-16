@@ -2,7 +2,7 @@ import csv
 import dataclasses
 from typing import List, Dict
 
-from icpc_mexico import api
+from icpc_mexico import icpc_api
 from icpc_mexico.data import Contest, FinishedContest, TeamResult, ContestType
 from icpc_mexico.errors import ProcessingError
 

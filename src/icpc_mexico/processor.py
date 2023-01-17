@@ -1,10 +1,12 @@
 import csv
 import dataclasses
+import json
 from typing import List, Dict
 
 from icpc_mexico import icpc_api
-from icpc_mexico.data import Contest, FinishedContest, TeamResult, ContestType
+from icpc_mexico.data import Contest, FinishedContest, TeamResult, ContestType, School, SchoolCommunity
 from icpc_mexico.errors import ProcessingError
+from icpc_mexico.utils import normalize_str
 
 
 def _from_csv_to_contest(csv_row: Dict) -> Contest:
@@ -77,7 +79,7 @@ def get_finished_contests(contest_csv_filename: str) -> List[FinishedContest]:
             continue
 
         print(f'Getting results for contest {contest.name}')
-        teams = api.get_contest_team_results(contest.id)
+        teams = icpc_api.get_contest_team_results(contest.id)
         if not teams:
             raise ProcessLookupError(f'Contest {contest.name} has no team results')
 
@@ -89,3 +91,77 @@ def get_finished_contests(contest_csv_filename: str) -> List[FinishedContest]:
         finished_contests.append(FinishedContest.from_contest(contest=contest, team_results=unique_teams))
 
     return finished_contests
+
+
+def get_schools(contests: List[FinishedContest]) -> List[School]:
+    print(f'Getting schools from {len(contests)} contests')
+    schools = [
+        School(
+            name='unknown',
+            is_eligible=False,
+        ),
+        School(
+            name='benemerita universidad autonoma de puebla',
+            alt_names=['buap facultad de ciencias de la computacion'],
+        ),
+        School(
+            name='instituto tecnologico superior de poza rica',
+            alt_names=['insituto tecnologico superior de poza rica'],
+        ),
+        School(
+            name='instituto tecnologico superior de irapuato',
+            alt_names=['instituto tecnologioco superior de irapuato'],
+        ),
+        School(
+            name='instituto tecnologico superior de la region de los llanos',
+            alt_names=['instituto tecnolãgico superior de la regiãn de los llanos'],
+        ),
+        School(
+            name='instituto tecnologico de san luis potosi',
+            alt_names=['institutuo technologico de san luis potosi'],
+        ),
+        School(
+            name='escuela preparatoria 5 universidad de guadalajara',
+            is_eligible=True,
+        ),
+        School(
+            name='instituto tecnologico de comitan',
+            alt_names=['tec. de comitan.'],
+            community=SchoolCommunity.TECNM,
+        ),
+    ]
+
+    school_names = set()
+    for contest in contests:
+        if contest.type == ContestType.WORLD:
+            continue
+        for team in contest.team_results:
+            school_names.add(normalize_str(team.institution))
+
+    for school_name in sorted(school_names):
+        if any((school.matches_name(school_name) for school in schools)):
+            continue
+
+        if (school_name.startswith('tecnologico nacional de mexico')
+                or school_name.startswith('tecnm')
+                or school_name.startswith('instituto tecnologico')
+                or school_name.startswith('instituto technologico')):
+            schools.append(School(name=school_name, community=SchoolCommunity.TECNM))
+            continue
+
+        if school_name.startswith('itesm'):
+            schools.append(School(name=school_name, community=SchoolCommunity.ITESM))
+            continue
+
+        if school_name.startswith('universidad politecnica'):
+            schools.append(School(name=school_name, community=SchoolCommunity.POLITECNICA))
+            continue
+
+        if school_name.startswith('olimpiada') or school_name.startswith('cetis') or school_name.startswith('cbtis'):
+            schools.append(School(name=school_name, is_eligible=False))
+            continue
+
+        schools.append(School(name=school_name))
+
+    print(f'Found {len(schools)} schools')
+    return sorted(schools, key=lambda s: s.name)

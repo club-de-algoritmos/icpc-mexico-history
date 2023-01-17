@@ -1,21 +1,32 @@
-import dataclasses
 import json
-from typing import List
+from typing import List, Any
 
-from icpc_mexico.data import FinishedContest
+from icpc_mexico.data import FinishedContest, School
+
+
+def _store(objects: List[Any], filename: str) -> None:
+    dicts = [obj.to_dict() for obj in objects]
+    with open(filename, 'w') as f:
+        json.dump(dicts, fp=f, indent=2, ensure_ascii=False)
+
+
+def _load(cls: Any, filename: str) -> List:
+    with open(filename, 'r') as f:
+        dicts = json.load(f)
+
+    objects = []
+    for d in dicts:
+        objects.append(cls.from_dict(d))
+    return objects
 
 
 def store_contests(contests: List[FinishedContest], filename: str) -> None:
-    contests_as_dicts = [contest.to_dict() for contest in contests]
-    with open(filename, 'w') as results_file:
-        json.dump(contests_as_dicts, fp=results_file, indent=2, ensure_ascii=False)
+    _store(contests, filename)
 
 
 def load_contests(filename: str) -> List[FinishedContest]:
-    with open(filename, 'r') as results_file:
-        contests_dicts = json.load(results_file)
+    return _load(FinishedContest, filename)
 
-    contests = []
-    for contest_dict in contests_dicts:
-        contests.append(FinishedContest.from_dict(contest_dict))
-    return contests
+
+def store_schools(schools: List[School], filename: str) -> None:
+    _store(schools, filename)

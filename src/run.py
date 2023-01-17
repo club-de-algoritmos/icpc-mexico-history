@@ -18,4 +18,4 @@ if __name__ == '__main__':
         storage.store_contests(contests, contests_filename)
 
     schools = processor.get_schools(contests)
-    storage.store_schools(schools, _get_data_filename('icpc_mexico_schools'))
+    storage.store_schools(schools, _get_data_filename('icpc_mexico_schools.json'))

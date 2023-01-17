@@ -1,0 +1,2636 @@
+[
+  {
+    "name": "benemerita universidad autonoma de puebla",
+    "alt_names": [
+      "buap facultad de ciencias de la computacion"
+    ],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "bina nusantara university",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "cbtis 217 salvador urrutia",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": false
+  },
+  {
+    "name": "cecytem 05",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "cecytem 20",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "centro cultural universitario justo sierra a.c.",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "centro de bachillerato tecnologico industrial de servicios",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "centro de bachillerato tecnologico no.55",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "centro de ensenanza tecnica industrial - plantel tonala",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "centro de estudios tecnologico industrial y de servicios 78",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "centro de estudios universitarios jean piaget",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "centro de nanociencias y micro y nanotecnologias",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "ceti colomos",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "cetis 120",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": false
+  },
+  {
+    "name": "cetys universidad",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "ciicap - universidad autonoma del estado de morelos",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "colegio anglo",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "colegio voluntad de acero",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "escuela preparatoria 5 universidad de guadalajara",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "escuela superior de computo instituto politecnico nacional",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "escuela superior de fisica y matematicas del instituto politecnico nacional",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "escuela superior de ingenieria mecanica y electrica del instituto politecnico nacional unidad azcapotzalco",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "faculdade metropolitana de belo horizonte",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "facultad de ciencias-universidad nacional autonoma de mexico",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "facultad de estudios superiores acatlan - unam",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "facultad de informatica mazatlan uas",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "facultad de ingenieria y tecnologia campus apizaquito",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "facultad de ingenieria, ciencias y arquitectura, universidad juarez del estado de durango",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "facultad de ingenieria-universidad nacional autonoma de mexico",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "facultad de medicina e ingenieria en sistemas computacionales de matamoros",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "faculty of mathematics",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "fundacion universidad de las amercias puebla",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "instituto de investigaciones en matematicas aplicadas y en sistemas-universidad nacional autonoma de mexico",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "instituto estudios superiores de tamaulipas",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "instituto technologico de comitan",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto technologico de morelia",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto technologico supeior de uruapan",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto technologico superior de chicontepec",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico autonomo de mexico",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de acapulco",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de agua prieta",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de aguascalientes",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de altamira",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de atitalaquia",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de cajeme",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de cancun",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de cd. altamirano",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de cd. cuauhtemoc",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de cd. juarez",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de cd. victoria",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de celaya",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de cerro azul",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de chetumal",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de chihuahua ii",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de china",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de ciudad guzman",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de ciudad juarez",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de ciudad madero",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de ciudad valles",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de ciudad victoria",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de colima",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de comitan",
+    "alt_names": [
+      "tec. de comitan."
+    ],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de costa rica campus alajuela",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de costa rica campus limon",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de costa rica campus san jose",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de cuautla",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de culiacan",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de delicias",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de durango",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de ensenada",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de estudios superiores de huixquilucan",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de estudios superiores de los cabos",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de estudios superiores de zamora",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de iguala",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de jiquilpan",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de la costa grande",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de la laguna",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de la piedad",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de las americas",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de lazaro cardenas",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de matamoros",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de merida",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de mexicali",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de milpa alta i",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de milpa alta ii",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de minatitlan",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de nuevo laredo",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de nuevo leon",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de oaxaca",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de ocotlan",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de orizaba",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de pachuca",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de parral",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de piedras negras",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de pochutla",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de puebla",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de queretaro",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de roque",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de saltillo",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de san juan del rio",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de san luis potosi",
+    "alt_names": [
+      "institutuo technologico de san luis potosi"
+    ],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de san marcos",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de santo domingo",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de sonora",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de tijuana",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de tizimin",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de tlahuac",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de tlahuac ii",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de tlahuac iii",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de tlaxiaco",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de toluca",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de tuxtepec",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de tuxtla gutierrez",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de veracruz",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de villa la venta",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de villahermosa",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de zacatecas",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de zacatepec",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de zitacuaro",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico del istmo",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico del sur de nayarit",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico del valle del guadiana",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico del valle del yaqui",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico forestal no 1",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico jose mario molina pasquel y henriquez campus zapopan",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico jose mario molina pasquel y henriquez ua zapotlanejo",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico nacional de mexico campus orizaba",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de acatlan de osorio",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de acayucan",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de alamo temapache",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de alvarado",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de apatzingan",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de arandas",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de atlixco",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de calkini",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de cd. constitucion",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de centla",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de champoton",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de chapala",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de cintalapa",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de ciudad acuna",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de ciudad hidalgo",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de ciudad serdan",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de coalcoman",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de coatzacoalcos",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de cocula",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de comalcalco",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de cosamaloapan",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de el grullo",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de el mante",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de escarcega",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de felipe carrillo puerto",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de fresnillo",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de guanajuato",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de huatusco",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de huauchinango",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de huetamo",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de huichapan",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de irapuato",
+    "alt_names": [
+      "instituto tecnologioco superior de irapuato"
+    ],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de irapuato campus purisima del rincon",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de jerez",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de jesus carranza",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de juan rodriguez clara",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de la huerta",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de la montana",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de la region de los llanos",
+    "alt_names": [
+      "instituto tecnolãgico superior de la regiãn de los llanos"
+    ],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de la region sierra",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de la sierra norte de puebla",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de lagos de moreno",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de lerdo",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de libres",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de loreto",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de los reyes",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de martinez de la torre",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de mascota",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de misantla",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de monclova",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de motul",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de muzquiz",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de naranjos",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de nochistlan",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de nuevo casas grandes",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de panuco",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de patzcuaro",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de poza rica",
+    "alt_names": [
+      "insituto tecnologico superior de poza rica"
+    ],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de puerto penasco",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de puerto vallarta",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de purisima del rincon",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de puruandiro",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de rioverde",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de salvatierra",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de san andres tuxtla",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de san martin texmelucan",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de san pedro",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de santiago papasquiaro",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de tacambaro",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de tala",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de tantoyuca",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de tepeaca",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de tepexi de rodriguez",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de teposcolula",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de tequila",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de teziutlan",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de tierra blanca",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de uruapan",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de valladolid",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de villa la venta",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de xalapa",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de zacapoaxtla",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de zapopan",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de zapotlanejo",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de zongolica",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior del occidente del estado de hidalgo",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior del oriente del estado de hidalgo",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior del sur de guanajuato",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior p'urhepecha",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior progreso",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior sombrerete zacatecas occidente",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior zacatecas norte",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior zacatecas sur",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "ipn juan de dios batiz paredes",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "itesm campus aguascalientes",
+    "alt_names": [],
+    "community": "Instituto Tecnologico y de Estudios Superiores de Monterrey",
+    "is_eligible": true
+  },
+  {
+    "name": "itesm campus central de veracruz",
+    "alt_names": [],
+    "community": "Instituto Tecnologico y de Estudios Superiores de Monterrey",
+    "is_eligible": true
+  },
+  {
+    "name": "itesm campus chihuahua",
+    "alt_names": [],
+    "community": "Instituto Tecnologico y de Estudios Superiores de Monterrey",
+    "is_eligible": true
+  },
+  {
+    "name": "itesm campus ciudad de mexico",
+    "alt_names": [],
+    "community": "Instituto Tecnologico y de Estudios Superiores de Monterrey",
+    "is_eligible": true
+  },
+  {
+    "name": "itesm campus cuernavaca",
+    "alt_names": [],
+    "community": "Instituto Tecnologico y de Estudios Superiores de Monterrey",
+    "is_eligible": true
+  },
+  {
+    "name": "itesm campus estado de mexico",
+    "alt_names": [],
+    "community": "Instituto Tecnologico y de Estudios Superiores de Monterrey",
+    "is_eligible": true
+  },
+  {
+    "name": "itesm campus guadalajara",
+    "alt_names": [],
+    "community": "Instituto Tecnologico y de Estudios Superiores de Monterrey",
+    "is_eligible": true
+  },
+  {
+    "name": "itesm campus laguna",
+    "alt_names": [],
+    "community": "Instituto Tecnologico y de Estudios Superiores de Monterrey",
+    "is_eligible": true
+  },
+  {
+    "name": "itesm campus leon",
+    "alt_names": [],
+    "community": "Instituto Tecnologico y de Estudios Superiores de Monterrey",
+    "is_eligible": true
+  },
+  {
+    "name": "itesm campus mazatlan",
+    "alt_names": [],
+    "community": "Instituto Tecnologico y de Estudios Superiores de Monterrey",
+    "is_eligible": true
+  },
+  {
+    "name": "itesm campus monterrey",
+    "alt_names": [],
+    "community": "Instituto Tecnologico y de Estudios Superiores de Monterrey",
+    "is_eligible": true
+  },
+  {
+    "name": "itesm campus morelia",
+    "alt_names": [],
+    "community": "Instituto Tecnologico y de Estudios Superiores de Monterrey",
+    "is_eligible": true
+  },
+  {
+    "name": "itesm campus puebla",
+    "alt_names": [],
+    "community": "Instituto Tecnologico y de Estudios Superiores de Monterrey",
+    "is_eligible": true
+  },
+  {
+    "name": "itesm campus queretaro",
+    "alt_names": [],
+    "community": "Instituto Tecnologico y de Estudios Superiores de Monterrey",
+    "is_eligible": true
+  },
+  {
+    "name": "itesm campus saltillo",
+    "alt_names": [],
+    "community": "Instituto Tecnologico y de Estudios Superiores de Monterrey",
+    "is_eligible": true
+  },
+  {
+    "name": "itesm campus san luis",
+    "alt_names": [],
+    "community": "Instituto Tecnologico y de Estudios Superiores de Monterrey",
+    "is_eligible": true
+  },
+  {
+    "name": "itesm campus santa fe",
+    "alt_names": [],
+    "community": "Instituto Tecnologico y de Estudios Superiores de Monterrey",
+    "is_eligible": true
+  },
+  {
+    "name": "itesm campus sonora norte",
+    "alt_names": [],
+    "community": "Instituto Tecnologico y de Estudios Superiores de Monterrey",
+    "is_eligible": true
+  },
+  {
+    "name": "itesm campus tampico",
+    "alt_names": [],
+    "community": "Instituto Tecnologico y de Estudios Superiores de Monterrey",
+    "is_eligible": true
+  },
+  {
+    "name": "itesm campus toluca",
+    "alt_names": [],
+    "community": "Instituto Tecnologico y de Estudios Superiores de Monterrey",
+    "is_eligible": true
+  },
+  {
+    "name": "itesm campus zacatecas",
+    "alt_names": [],
+    "community": "Instituto Tecnologico y de Estudios Superiores de Monterrey",
+    "is_eligible": true
+  },
+  {
+    "name": "iteso university",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "olimpiada de informatica de la ciudad de mexico",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": false
+  },
+  {
+    "name": "olimpiada femenina mexicana de informatica",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": false
+  },
+  {
+    "name": "olimpiada mexicana de informatica",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": false
+  },
+  {
+    "name": "olimpiada mexicana de informatica en aguascalientes",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": false
+  },
+  {
+    "name": "olimpiada mexicana de informatica en jalisco",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": false
+  },
+  {
+    "name": "olimpiada mexicana de informatica en zacatecas",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": false
+  },
+  {
+    "name": "politecnica de santa rosa jauregui",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "tec milenio - las torres",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "tecnm instituto tecnologico de apizaco",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "tecnm instituto tecnologico de ocotlan",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "tecnologico de cd. jimenez",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "tecnologico de costa rica",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "tecnologico de estudios superiores de chalco",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "tecnologico de estudios superiores de coacalco",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "tecnologico de estudios superiores de cuautitlan izcalli",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "tecnologico de estudios superiores de ecatepec",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "tecnologico de estudios superiores de ixtapaluca",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "tecnologico de estudios superiores de jilotepec",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "tecnologico de estudios superiores de jocotitlan",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "tecnologico nacional de mexico , instituto tecnologico de leon",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "tecnologico nacional de mexico / instituto tecnologico de mazatlan",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "tecnologico nacional de mexico / instituto tecnologico de tehuacan",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "tecnologico nacional de mexico campus chihuahua ii",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "tecnologico nacional de mexico campus instituto tecnologico de torreon",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "tecnologico nacional de mexico campus tlahuac",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "tecnologico nacional de mexico campus tlahuac ii",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "the american school foundation of guadalajara",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "unam centro de fisica aplicada y tecnologia avanzada campus juriquilla",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "unam escuela nacional de estudios superiores unidad morelia",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "unidad profesional interdisciplinaria de ingenieria campus zacatecas",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "unidad profesional interdisciplinaria de ingenieria y ciencias sociales y administrativas",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "unidad profesional interdisciplinaria en ingenieria y tecnologias avanzadas del instituto politecnico nacional",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad abierta y a distancia de mexico",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad americana",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad anahuac campus oaxaca",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad anahuac de xalapa",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad anahuac mayab",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad anahuac queretaro",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad autonoma de aguascalientes",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad autonoma de baja california",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad autonoma de baja california sur",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad autonoma de campeche",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad autonoma de chiapas",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad autonoma de chihuahua",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad autonoma de ciudad juarez",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad autonoma de coahuila",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad autonoma de coahuila facultad de sistemas unidad saltillo",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad autonoma de coahuila unidad norte",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad autonoma de coahuila unidad saltillo",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad autonoma de coahuila unidad torreon",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad autonoma de guadalajara",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad autonoma de nayarit",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad autonoma de nuevo leon",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad autonoma de occidente",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad autonoma de queretaro",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad autonoma de san luis potosi",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad autonoma de sinaloa",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad autonoma de tamaulipas",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad autonoma de tamaulipas uam mante",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad autonoma de tlaxcala",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad autonoma de yucatan",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad autonoma de yucatan - facultad de matematicas",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad autonoma de yucatan campus tizimin",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad autonoma de zacatecas",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad autonoma de zacatecas campus jalpa",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad autonoma del estado de hidalgo",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad autonoma del estado de mexico",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad autonoma metropolitana - unidad cuajimalpa",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad autonoma metropolitana azcapotzalco",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad bonaterra",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad central \"marta abreu\" de las villas",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad centroamericana",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad centroamericana \"jose simeon canas\"",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad de artes digitales",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad de camagüey",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad de cienfuegos",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad de colima",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad de costa rica",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad de costa rica campus pacifico",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad de cuautitlan izcalli",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad de granma - bayamo",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad de guadalajara",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad de guadalajara cualtos",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad de guadalajara cucea",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad de guadalajara cucei",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad de guadalajara cucienega",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad de guadalajara cucosta",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad de guadalajara cucsur",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad de guadalajara culagos",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad de guadalajara cunorte",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad de guadalajara cusur",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad de guadalajara cutonala",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad de guadalajara cuvalles",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad de guanajuato",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad de guanajuato - cimat",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad de guanajuato - dcea",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad de guanajuato - dcne",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad de guanajuato - dicis",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad de guanajuato, sede yuriria",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad de guantanamo",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad de holguin",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad de la habana",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad de la isla de la juventud",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad de la salle",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad de la salle bajio",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad de las americas-puebla",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad de las ciencias informaticas",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad de las ciencias informaticas - facultad regional de artemisa",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad de las ciencias informaticas - facultad regional de ciego",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad de las ciencias informaticas - facultad regional de granma",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad de matanzas",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad de monterrey",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad de occidente, unidad culiacan",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad de oriente - sede antonio maceo",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad de oriente - sede julio antonio mella",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad de panama",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad de pinar del rio",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad de san carlos de guatemala",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad de sonora unidad regional centro",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad del caribe",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad del istmo",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad del istmo, campus tehuantepec",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad del papaloapan",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad del pedregal",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad del sabes - irapuato",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad del valle de atemajac",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad del valle de mexico",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad del valle de mexico campus san rafael",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad del valle de puebla",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad enrique diaz de leon",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad gerardo barrios",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad iberoamericana ciudad de mexico",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad iberoamericana leon",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad iberoamericana plantel laguna",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad iberoamericana puebla",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad icep lazaro cardenas",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad interamericana para el desarrollo, sede saltillo",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad internacional de ciencia y tecnologia",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad la salle oaxaca",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad lasallista benavente",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad loyola del pacifico",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad mariano galvez de guatemala campus chiquimulilla",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad marista de guadalajara",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad mesoamericana",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad michoacana de san nicolas de hidalgo",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad nacional autonoma de mexico",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad nacional autonoma de nicaragua, managua",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad nacional de cordoba - famaf",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad nacional de costa rica",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad nacional de costa rica campus chorotega",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad nacional de ingenieria - fc",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad panamericana campus bonaterra",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad panamericana campus guadalajara",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad panamericana ciudad de mexico",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad politecnica de altamira",
+    "alt_names": [],
+    "community": "Universidad Politecnica",
+    "is_eligible": true
+  },
+  {
+    "name": "universidad politecnica de atlacomulco",
+    "alt_names": [],
+    "community": "Universidad Politecnica",
+    "is_eligible": true
+  },
+  {
+    "name": "universidad politecnica de chiapas",
+    "alt_names": [],
+    "community": "Universidad Politecnica",
+    "is_eligible": true
+  },
+  {
+    "name": "universidad politecnica de durango",
+    "alt_names": [],
+    "community": "Universidad Politecnica",
+    "is_eligible": true
+  },
+  {
+    "name": "universidad politecnica de gomez palacio",
+    "alt_names": [],
+    "community": "Universidad Politecnica",
+    "is_eligible": true
+  },
+  {
+    "name": "universidad politecnica de juventino rosas",
+    "alt_names": [],
+    "community": "Universidad Politecnica",
+    "is_eligible": true
+  },
+  {
+    "name": "universidad politecnica de penjamo",
+    "alt_names": [],
+    "community": "Universidad Politecnica",
+    "is_eligible": true
+  },
+  {
+    "name": "universidad politecnica de puebla",
+    "alt_names": [],
+    "community": "Universidad Politecnica",
+    "is_eligible": true
+  },
+  {
+    "name": "universidad politecnica de quintana roo",
+    "alt_names": [],
+    "community": "Universidad Politecnica",
+    "is_eligible": true
+  },
+  {
+    "name": "universidad politecnica de sinaloa",
+    "alt_names": [],
+    "community": "Universidad Politecnica",
+    "is_eligible": true
+  },
+  {
+    "name": "universidad politecnica de tapachula",
+    "alt_names": [],
+    "community": "Universidad Politecnica",
+    "is_eligible": true
+  },
+  {
+    "name": "universidad politecnica de tlaxcala",
+    "alt_names": [],
+    "community": "Universidad Politecnica",
+    "is_eligible": true
+  },
+  {
+    "name": "universidad politecnica de victoria",
+    "alt_names": [],
+    "community": "Universidad Politecnica",
+    "is_eligible": true
+  },
+  {
+    "name": "universidad politecnica de zacatecas",
+    "alt_names": [],
+    "community": "Universidad Politecnica",
+    "is_eligible": true
+  },
+  {
+    "name": "universidad popular autonoma del estado de puebla",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad rafael landivar",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad regional del sureste",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad san carlos",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad tecnica nacional de costa rica",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad tecnologica de durango",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad tecnologica de jalisco",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad tecnologica de la habana \"jose antonio echeverria\"",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad tecnologica de la huasteca hidalguense",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad tecnologica de la mixteca",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad tecnologica de la zona metropolitana de guadalajara",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad tecnologica de leon",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad tecnologica de leon, campus acambaro",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad tecnologica de mexico",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad tecnologica de morelia",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad tecnologica de panama",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad tecnologica del estado de zacatecas",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad tecnologica del suroeste de guanajuato",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad tecnologica emiliano zapata",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad valle del bravo",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad valle del bravo campus tampico",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad vasco de quiroga",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad veracruzana",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad veracruzana campus coatzacoalcos",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "university of technology- jamaica",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": true
+  },
+  {
+    "name": "unknown",
+    "alt_names": [],
+    "community": null,
+    "is_eligible": false
+  }
+]

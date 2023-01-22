@@ -26,11 +26,12 @@ if __name__ == '__main__':
         schools = processor.get_schools(contests)
         storage.store_schools(schools, schools_filename)
 
-    contests = processor.compute_extra_team_results(contests, schools)
-    analysis.analyze(contests)
+    with open(_get_data_filename('mexico_analysis.txt'), 'w') as analysis_file:
+        contests = processor.compute_extra_team_results(contests, schools)
+        analysis.analyze(contests, analysis_file)
 
-    for school_name in [
-            'Instituto Tecnológico de Ciudad Madero',
-            'Instituto Tecnológico de Culiacán',
-            'Instituto Tecnológico Superior del Sur de Guanajuato']:
-        analysis.analyze_school(school_name, contests)
+        for school_name in [
+                'Instituto Tecnológico de Ciudad Madero',
+                'Instituto Tecnológico de Culiacán',
+                'Instituto Tecnológico Superior del Sur de Guanajuato']:
+            analysis.analyze_school(school_name, contests, analysis_file)

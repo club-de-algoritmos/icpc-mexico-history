@@ -1,27 +1,30 @@
 from collections import defaultdict
-from typing import List, Dict, Optional
+from typing import List, Dict, Optional, TextIO
 
 from icpc_mexico.data import FinishedContest, ContestType, SchoolCommunity, TeamResult
 from icpc_mexico.utils import normalize_str
 
 
-def analyze(contests: List[FinishedContest]) -> None:
-    print(f'Analyzing results...')
+def analyze(contests: List[FinishedContest], analysis_file: TextIO) -> None:
+    print(f'Analyzing Mexico results')
 
-    print('Mexico in the World Finals:')
+    def write_line(line: str = '') -> None:
+        analysis_file.write(line + '\n')
+
+    analysis_file.write('Mexico in the World Finals:')
     for contest in contests:
         if contest.type != ContestType.WORLD:
             continue
 
-        print(f'  {contest.name}:')
+        write_line(f'  {contest.name}:')
         for team in contest.team_results:
             if team.country != 'mexico':
                 continue
             community_desc = f', {team.community}' if team.community else ''
-            print(f'    {team.rank} ({team.country_rank}) {team.name} ({team.institution}{community_desc})')
-    print()
+            write_line(f'    {team.rank} ({team.country_rank}) {team.name} ({team.institution}{community_desc})')
+    write_line()
 
-    print('TecNM in World Finals:')
+    write_line('TecNM in World Finals:')
     for contest in contests:
         if contest.type != ContestType.WORLD:
             continue
@@ -32,37 +35,37 @@ def analyze(contests: List[FinishedContest]) -> None:
                 continue
             if not participated:
                 participated = True
-                print(f'  {contest.name}:')
-            print(f'    {team.rank} ({team.country_rank}) {team.name} ({team.institution})')
-    print()
+                write_line(f'  {contest.name}:')
+            write_line(f'    {team.rank} ({team.country_rank}) {team.name} ({team.institution})')
+    write_line()
 
-    print('Top 20 TecNM in Mexico Finals:')
+    write_line('Top 20 TecNM in Mexico Finals:')
     for contest in contests:
         if contest.type != ContestType.REGIONAL:
             continue
 
-        print(f'  {contest.name}:')
+        write_line(f'  {contest.name}:')
         for team in contest.team_results:
             if team.community != SchoolCommunity.TECNM:
                 continue
             if team.community_rank > 20:
                 break
-            print(f'    {team.rank} ({team.community_rank}) {team.name} ({team.institution})')
-    print()
+            write_line(f'    {team.rank} ({team.community_rank}) {team.name} ({team.institution})')
+    write_line()
 
-    print('Top 10 TecNM in Mexico Qualifiers:')
+    write_line('Top 10 TecNM in Mexico Qualifiers:')
     for contest in contests:
         if contest.type not in [ContestType.GRAN_PREMIO, ContestType.PROGRAMMING_BATTLE]:
             continue
 
-        print(f'  {contest.name}:')
+        write_line(f'  {contest.name}:')
         for team in contest.team_results:
             if team.community != SchoolCommunity.TECNM:
                 continue
             if team.community_rank > 10:
                 break
-            print(f'    {team.rank} ({team.community_rank}) {team.name} ({team.institution})')
-    print()
+            write_line(f'    {team.rank} ({team.community_rank}) {team.name} ({team.institution})')
+    write_line()
 
 
 def _get_by_type(contest_type: ContestType, contests: List[FinishedContest]) -> Optional[FinishedContest]:
@@ -79,8 +82,11 @@ def _get_best_by_school(school_name: str, contest: FinishedContest) -> Optional[
     return None
 
 
-def analyze_school(school_name: str, all_contests: List[FinishedContest]) -> None:
-    print(f'Results for school {school_name}:')
+def analyze_school(school_name: str, all_contests: List[FinishedContest], analysis_file: TextIO) -> None:
+    def write_line(line: str = '') -> None:
+        analysis_file.write(line + '\n')
+
+    write_line(f'Results for school {school_name}:')
     contests_by_year: Dict[int, List[FinishedContest]] = defaultdict(list)
     for contest in all_contests:
         contests_by_year[contest.year].append(contest)
@@ -113,10 +119,10 @@ def analyze_school(school_name: str, all_contests: List[FinishedContest]) -> Non
         if not best_team and not wf_team:
             continue
 
-        print(f'  {year}-{year+1}:')
+        write_line(f'  {year}-{year+1}:')
         if best_team:
-            print(f'    {best_team.rank} ({best_team.community_rank}) {best_team.name} ({result_type})')
+            write_line(f'    {best_team.rank} ({best_team.community_rank}) {best_team.name} ({result_type})')
         if wf_team:
-            print('    Went to World Finals')
+            write_line('    Went to World Finals')
 
-    print()
+    write_line()

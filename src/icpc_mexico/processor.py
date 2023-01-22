@@ -232,7 +232,9 @@ def compute_extra_team_results(contests: List[FinishedContest], schools: List[Sc
     print(f'Computing extra team results for {len(contests)} contests')
     computed_contests = []
     for contest in contests:
+        community_last_team: Dict[SchoolCommunity, TeamResult] = {}
         community_rank: Dict[SchoolCommunity, int] = defaultdict(int)
+        country_last_team: Dict[str, TeamResult] = {}
         country_rank: Dict[str, int] = defaultdict(int)
         # TODO: Compute
         # super_region_ranking: Dict[SuperRegion, int] = defaultdict(int)
@@ -253,15 +255,27 @@ def compute_extra_team_results(contests: List[FinishedContest], schools: List[Sc
 
             if school.community:
                 community_rank[school.community] += 1
+                rank = community_rank[school.community]
+                last_team = community_last_team.get(school.community)
+                if last_team and last_team.rank == team.rank:
+                    rank = last_team.community_rank
+
                 team = dataclasses.replace(team,
                                            community=school.community,
-                                           community_rank=community_rank[school.community])
+                                           community_rank=rank)
+                community_last_team[school.community] = team
 
             if contest.type == ContestType.WORLD:
                 country_rank[school.country] += 1
+                rank = country_rank[school.country]
+                last_team = country_last_team.get(school.country)
+                if last_team and last_team.rank == team.rank:
+                    rank = last_team.country_rank
+
                 team = dataclasses.replace(team,
                                            country=school.country,
-                                           country_rank=country_rank[school.country])
+                                           country_rank=rank)
+                country_last_team[school.country] = team
 
             team_results.append(team)
 

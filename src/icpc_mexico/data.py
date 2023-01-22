@@ -6,6 +6,8 @@ from dataclasses_json import dataclass_json
 
 from icpc_mexico.utils import normalize_str
 
+MEXICO = 'mexico'
+
 
 @dataclass_json
 class SchoolCommunity(str, Enum):
@@ -23,6 +25,7 @@ class School:
     alt_names: List[str] = field(default_factory=list)
     # Community this school belongs to
     community: Optional[SchoolCommunity] = None
+    country: Optional[str] = None
     # Whether this school is eligible for ICPC (not high school, not unknown, etc.)
     is_eligible: bool = True
 

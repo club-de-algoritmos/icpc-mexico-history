@@ -5,7 +5,7 @@ from collections import defaultdict
 from typing import List, Dict, Optional
 
 from icpc_mexico import icpc_api
-from icpc_mexico.data import Contest, FinishedContest, TeamResult, ContestType, School, SchoolCommunity
+from icpc_mexico.data import Contest, FinishedContest, TeamResult, ContestType, School, SchoolCommunity, MEXICO
 from icpc_mexico.errors import ProcessingError
 from icpc_mexico.utils import normalize_str
 
@@ -110,41 +110,69 @@ def get_schools(contests: List[FinishedContest]) -> List[School]:
             is_eligible=False,
         ),
         School(
+            name='bina nusantara university',
+        ),
+        School(
+            name='instituto tecnologico de santo domingo',
+            country='dominican republic',
+        ),
+        School(
+            name='universidad nacional de cordoba - famaf',
+            country='argentina',
+        ),
+        School(
+            name='universidad nacional autonoma de nicaragua, managua',
+            country='nicaragua',
+        ),
+        School(
+            name='faculdade metropolitana de belo horizonte',
+            country='brazil',
+        ),
+        School(
             name='benemerita universidad autonoma de puebla',
             alt_names=['buap facultad de ciencias de la computacion'],
+            country=MEXICO,
         ),
         School(
             name='instituto tecnologico superior de poza rica',
             alt_names=['insituto tecnologico superior de poza rica'],
+            country=MEXICO,
         ),
         School(
             name='instituto tecnologico superior de irapuato',
             alt_names=['instituto tecnologioco superior de irapuato'],
+            country=MEXICO,
         ),
         School(
             name='instituto tecnologico superior de la region de los llanos',
             alt_names=['instituto tecnolãgico superior de la regiãn de los llanos'],
+            country=MEXICO,
         ),
         School(
             name='instituto tecnologico de san luis potosi',
             alt_names=['institutuo technologico de san luis potosi'],
+            country=MEXICO,
         ),
         School(
             name='escuela preparatoria 5 universidad de guadalajara',
             is_eligible=True,
+            country=MEXICO,
         ),
         School(
             name='instituto tecnologico de comitan',
             alt_names=['tec. de comitan.'],
             community=SchoolCommunity.TECNM,
+            country=MEXICO,
         ),
-        School(name='instituto tecnologico autonomo de mexico'),
-        School(name='instituto tecnologico de santo domingo'),
+        School(
+            name='instituto tecnologico autonomo de mexico',
+            country=MEXICO,
+        ),
     ]
 
     school_names = set()
     for contest in contests:
-        if contest.type == ContestType.WORLD:
+        if contest.type in [ContestType.WORLD, ContestType.CHAMPIONSHIP]:
             continue
         for team in contest.team_results:
             school_names.add(normalize_str(team.institution))
@@ -153,34 +181,30 @@ def get_schools(contests: List[FinishedContest]) -> List[School]:
         if _get_school(school_name, schools):
             continue
 
-        # Ignore some Mexico guest team results as they mess up results upstream
-        if school_name in ['bina nusantara university', 'universidad nacional de cordoba - famaf']:
-            continue
-
         if 'costa rica' in school_name:
-            schools.append(School(name=school_name))
+            schools.append(School(name=school_name, country='costa rica'))
             continue
 
         if (school_name.startswith('tecnologico nacional de mexico')
                 or school_name.startswith('tecnm')
                 or school_name.startswith('instituto tecnologico')
                 or school_name.startswith('instituto technologico')):
-            schools.append(School(name=school_name, community=SchoolCommunity.TECNM))
+            schools.append(School(name=school_name, community=SchoolCommunity.TECNM, country=MEXICO))
             continue
 
         if school_name.startswith('itesm'):
-            schools.append(School(name=school_name, community=SchoolCommunity.ITESM))
+            schools.append(School(name=school_name, community=SchoolCommunity.ITESM, country=MEXICO))
             continue
 
         if school_name.startswith('universidad politecnica'):
-            schools.append(School(name=school_name, community=SchoolCommunity.POLITECNICA))
+            schools.append(School(name=school_name, community=SchoolCommunity.POLITECNICA, country=MEXICO))
             continue
 
         if school_name.startswith('olimpiada') or school_name.startswith('cetis') or school_name.startswith('cbtis'):
-            schools.append(School(name=school_name, is_eligible=False))
+            schools.append(School(name=school_name, is_eligible=False, country=MEXICO))
             continue
 
-        schools.append(School(name=school_name))
+        schools.append(School(name=school_name, country=MEXICO))
 
     print(f'Found {len(schools)} schools')
     return sorted(schools, key=lambda s: s.name)

@@ -232,7 +232,7 @@
   {
     "name": "instituto tecnologico autonomo de mexico",
     "alt_names": [],
-    "community": "Tecnologico Nacional de Mexico",
+    "community": null,
     "is_eligible": true
   },
   {
@@ -378,19 +378,19 @@
   {
     "name": "instituto tecnologico de costa rica campus alajuela",
     "alt_names": [],
-    "community": "Tecnologico Nacional de Mexico",
+    "community": null,
     "is_eligible": true
   },
   {
     "name": "instituto tecnologico de costa rica campus limon",
     "alt_names": [],
-    "community": "Tecnologico Nacional de Mexico",
+    "community": null,
     "is_eligible": true
   },
   {
     "name": "instituto tecnologico de costa rica campus san jose",
     "alt_names": [],
-    "community": "Tecnologico Nacional de Mexico",
+    "community": null,
     "is_eligible": true
   },
   {
@@ -620,7 +620,7 @@
   {
     "name": "instituto tecnologico de santo domingo",
     "alt_names": [],
-    "community": "Tecnologico Nacional de Mexico",
+    "community": null,
     "is_eligible": true
   },
   {

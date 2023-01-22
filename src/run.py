@@ -1,6 +1,6 @@
 import os
 
-from icpc_mexico import processor, storage
+from icpc_mexico import processor, storage, analysis
 
 
 def _get_data_filename(filename: str) -> str:
@@ -27,3 +27,4 @@ if __name__ == '__main__':
         storage.store_schools(schools, schools_filename)
 
     contests = processor.compute_extra_team_results(contests, schools)
+    analysis.analyze(contests)

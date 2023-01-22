@@ -32,11 +32,11 @@ def _get_contests(filename: str) -> List[Contest]:
     return contests
 
 
-def _remove_duplicate_teams(teams: List[TeamResult]) -> List[TeamResult]:
+def _clean_up_teams(team_results: List[TeamResult], contest: Contest) -> List[TeamResult]:
     unique_teams: Dict[int, TeamResult] = {}
     teams_without_rank = []
     last_rank = 0
-    for team in teams:
+    for team in team_results:
         if not team.rank:
             teams_without_rank.append(team)
             continue
@@ -84,7 +84,7 @@ def get_finished_contests(contest_csv_filename: str) -> List[FinishedContest]:
         if not teams:
             raise ProcessLookupError(f'Contest {contest.name} has no team results')
 
-        unique_teams = _remove_duplicate_teams(teams)
+        unique_teams = _clean_up_teams(teams, contest)
         if len(unique_teams) != len(teams):
             print(f'Removed {len(teams) - len(unique_teams)} ({len(teams)} -> {len(unique_teams)})'
                   f' duplicate teams from contest {contest.name}')
@@ -92,6 +92,7 @@ def get_finished_contests(contest_csv_filename: str) -> List[FinishedContest]:
         finished_contests.append(FinishedContest.from_contest(contest=contest, team_results=unique_teams))
 
     return finished_contests
+
 
 def _get_school(school_name: str, schools: List[School]) -> Optional[School]:
     school_name = normalize_str(school_name)
@@ -137,6 +138,8 @@ def get_schools(contests: List[FinishedContest]) -> List[School]:
             alt_names=['tec. de comitan.'],
             community=SchoolCommunity.TECNM,
         ),
+        School(name='instituto tecnologico autonomo de mexico'),
+        School(name='instituto tecnologico de santo domingo'),
     ]
 
     school_names = set()
@@ -148,6 +151,14 @@ def get_schools(contests: List[FinishedContest]) -> List[School]:
 
     for school_name in sorted(school_names):
         if _get_school(school_name, schools):
+            continue
+
+        # Ignore some Mexico guest team results as they mess up results upstream
+        if school_name in ['bina nusantara university', 'universidad nacional de cordoba - famaf']:
+            continue
+
+        if 'costa rica' in school_name:
+            schools.append(School(name=school_name))
             continue
 
         if (school_name.startswith('tecnologico nacional de mexico')
@@ -186,11 +197,14 @@ def compute_extra_team_results(contests: List[FinishedContest], schools: List[Sc
         team_results = []
         for team in contest.team_results:
             school = _get_school(team.institution, schools)
+
             if school is None:
-                # This is OK right now as we're only interested in Mexico, do a simple check just in case
+                # We're only interested in Mexico, do a simple check just in case
                 if contest.type in [ContestType.GRAN_PREMIO, ContestType.PROGRAMMING_BATTLE]:
-                    raise ValueError(f'Unexpected team without a school: '
-                                     f'team {team.name} with school {team.institution}')
+                    if team.site_citation != 'Invitado':
+                        raise ValueError(f'Unexpected team without a school: '
+                                         f'team {team.name} with school {team.institution}')
+                    continue
 
                 team_results.append(team)
                 continue

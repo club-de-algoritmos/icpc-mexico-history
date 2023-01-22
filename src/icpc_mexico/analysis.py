@@ -21,7 +21,7 @@ def analyze(contests: List[FinishedContest], analysis_file: TextIO) -> None:
             if team.country != 'mexico':
                 continue
             community_desc = f', {team.community}' if team.community else ''
-            write_line(f'    #{team.rank} (#{team.country_rank} Mexico)'
+            write_line(f'    #{team.rank} (#{team.country_rank} Mexico) (solved {team.problems_solved})'
                        f' {team.name} ({team.institution}{community_desc})')
     write_line()
 
@@ -37,7 +37,8 @@ def analyze(contests: List[FinishedContest], analysis_file: TextIO) -> None:
             if not participated:
                 participated = True
                 write_line(f'  {contest.description()}:')
-            write_line(f'    #{team.rank} (#{team.country_rank} Mexico) {team.name} ({team.institution})')
+            write_line(f'    #{team.rank} (#{team.country_rank} Mexico) (solved {team.problems_solved})'
+                       f' {team.name} ({team.institution})')
     write_line()
 
     write_line('Top 20 TecNM in Mexico Finals:')
@@ -122,8 +123,11 @@ def analyze_school(school_name: str, all_contests: List[FinishedContest], analys
 
         write_line(f'  {year}-{year+1}:')
         if best_team:
-            write_line(f'    {best_team.rank} ({best_team.community_rank}) {best_team.name} ({result_type})')
+            community_rank = ''
+            if best_team.community == SchoolCommunity.TECNM:
+                community_rank = f' (#{best_team.community_rank} TecNM)'
+            write_line(f'    #{best_team.rank}{community_rank} {best_team.name} ({result_type})')
         if wf_team:
-            write_line('    Went to World Finals')
+            write_line(f'    Went to World Finals (solved {wf_team.problems_solved})')
 
     write_line()

@@ -28,3 +28,9 @@ if __name__ == '__main__':
 
     contests = processor.compute_extra_team_results(contests, schools)
     analysis.analyze(contests)
+
+    for school_name in [
+            'Instituto Tecnológico de Ciudad Madero',
+            'Instituto Tecnológico de Culiacán',
+            'Instituto Tecnológico Superior del Sur de Guanajuato']:
+        analysis.analyze_school(school_name, contests)

@@ -25,7 +25,7 @@ def _from_json_to_team_result(json: Any) -> TeamResult:
 
 def get_contest_team_results(contest_id: int) -> List[TeamResult]:
     url = (f'https://icpc.global/api/contest/public/search/contest/{contest_id}'
-           f'?q=sort:rank+asc'
+           f'?q=sort:rank+asc,problemsSolved+desc,totalTime+asc,lastProblemTime+asc'
            f'&page=1'
            f'&size={_PAGE_SIZE}')
     response = requests.get(url)

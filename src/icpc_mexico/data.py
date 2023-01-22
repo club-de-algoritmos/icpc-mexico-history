@@ -80,6 +80,9 @@ class Contest:
     type: ContestType
     comments: str
 
+    def description(self) -> str:
+        return f'{self.year}-{self.year+1} {self.name}'
+
 
 @dataclass_json
 @dataclass(frozen=True)

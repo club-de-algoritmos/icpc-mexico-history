@@ -18,7 +18,7 @@ if __name__ == '__main__':
         storage.store_contests(contests, contests_filename)
 
     schools_filename = _get_data_filename('icpc_mexico_schools.json')
-    if not os.path.exists(contests_filename):
+    if os.path.exists(contests_filename):
         print(f'School data found in file {schools_filename}, loading it')
         schools = storage.load_schools(schools_filename)
     else:

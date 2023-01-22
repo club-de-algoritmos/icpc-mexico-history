@@ -11,17 +11,18 @@ def analyze(contests: List[FinishedContest], analysis_file: TextIO) -> None:
     def write_line(line: str = '') -> None:
         analysis_file.write(line + '\n')
 
-    analysis_file.write('Mexico in the World Finals:')
+    write_line('Mexico in the World Finals:')
     for contest in contests:
         if contest.type != ContestType.WORLD:
             continue
 
-        write_line(f'  {contest.name}:')
+        write_line(f'  {contest.description()}:')
         for team in contest.team_results:
             if team.country != 'mexico':
                 continue
             community_desc = f', {team.community}' if team.community else ''
-            write_line(f'    {team.rank} ({team.country_rank}) {team.name} ({team.institution}{community_desc})')
+            write_line(f'    #{team.rank} (#{team.country_rank} Mexico)'
+                       f' {team.name} ({team.institution}{community_desc})')
     write_line()
 
     write_line('TecNM in World Finals:')
@@ -35,8 +36,8 @@ def analyze(contests: List[FinishedContest], analysis_file: TextIO) -> None:
                 continue
             if not participated:
                 participated = True
-                write_line(f'  {contest.name}:')
-            write_line(f'    {team.rank} ({team.country_rank}) {team.name} ({team.institution})')
+                write_line(f'  {contest.description()}:')
+            write_line(f'    #{team.rank} (#{team.country_rank} Mexico) {team.name} ({team.institution})')
     write_line()
 
     write_line('Top 20 TecNM in Mexico Finals:')
@@ -44,13 +45,13 @@ def analyze(contests: List[FinishedContest], analysis_file: TextIO) -> None:
         if contest.type != ContestType.REGIONAL:
             continue
 
-        write_line(f'  {contest.name}:')
+        write_line(f'  {contest.description()}:')
         for team in contest.team_results:
             if team.community != SchoolCommunity.TECNM:
                 continue
             if team.community_rank > 20:
                 break
-            write_line(f'    {team.rank} ({team.community_rank}) {team.name} ({team.institution})')
+            write_line(f'    #{team.rank} (#{team.community_rank} TecNM) {team.name} ({team.institution})')
     write_line()
 
     write_line('Top 10 TecNM in Mexico Qualifiers:')
@@ -58,13 +59,13 @@ def analyze(contests: List[FinishedContest], analysis_file: TextIO) -> None:
         if contest.type not in [ContestType.GRAN_PREMIO, ContestType.PROGRAMMING_BATTLE]:
             continue
 
-        write_line(f'  {contest.name}:')
+        write_line(f'  {contest.description()}:')
         for team in contest.team_results:
             if team.community != SchoolCommunity.TECNM:
                 continue
             if team.community_rank > 10:
                 break
-            write_line(f'    {team.rank} ({team.community_rank}) {team.name} ({team.institution})')
+            write_line(f'    #{team.rank} (#{team.community_rank} TecNM) {team.name} ({team.institution})')
     write_line()
 
 

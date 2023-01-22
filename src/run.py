@@ -17,5 +17,13 @@ if __name__ == '__main__':
         contests = processor.get_finished_contests(_get_data_filename('icpc_mexico_contests.csv'))
         storage.store_contests(contests, contests_filename)
 
-    schools = processor.get_schools(contests)
-    storage.store_schools(schools, _get_data_filename('icpc_mexico_schools.json'))
+    schools_filename = _get_data_filename('icpc_mexico_schools.json')
+    if os.path.exists(contests_filename):
+        print(f'School data found in file {schools_filename}, loading it')
+        schools = storage.load_schools(schools_filename)
+    else:
+        print(f'No school data found in file {schools_filename}, calculating it')
+        schools = processor.get_schools(contests)
+        storage.store_schools(schools, schools_filename)
+
+    contests = processor.compute_extra_team_results(contests, schools)

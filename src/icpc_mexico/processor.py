@@ -1,7 +1,8 @@
 import csv
 import dataclasses
 import json
-from typing import List, Dict
+from collections import defaultdict
+from typing import List, Dict, Optional
 
 from icpc_mexico import icpc_api
 from icpc_mexico.data import Contest, FinishedContest, TeamResult, ContestType, School, SchoolCommunity
@@ -92,6 +93,13 @@ def get_finished_contests(contest_csv_filename: str) -> List[FinishedContest]:
 
     return finished_contests
 
+def _get_school(school_name: str, schools: List[School]) -> Optional[School]:
+    school_name = normalize_str(school_name)
+    for school in schools:
+        if school.matches_name(school_name):
+            return school
+    return None
+
 
 def get_schools(contests: List[FinishedContest]) -> List[School]:
     print(f'Getting schools from {len(contests)} contests')
@@ -139,7 +147,7 @@ def get_schools(contests: List[FinishedContest]) -> List[School]:
             school_names.add(normalize_str(team.institution))
 
     for school_name in sorted(school_names):
-        if any((school.matches_name(school_name) for school in schools)):
+        if _get_school(school_name, schools):
             continue
 
         if (school_name.startswith('tecnologico nacional de mexico')
@@ -165,3 +173,43 @@ def get_schools(contests: List[FinishedContest]) -> List[School]:
 
     print(f'Found {len(schools)} schools')
     return sorted(schools, key=lambda s: s.name)
+
+
+def compute_extra_team_results(contests: List[FinishedContest], schools: List[School]) -> List[FinishedContest]:
+    print(f'Computing extra team results for {len(contests)} contests')
+    computed_contests = []
+    for contest in contests:
+        community_rank: Dict[SchoolCommunity, int] = defaultdict(int)
+        country_rank: Dict[str, int] = defaultdict(int)
+        # TODO: Compute
+        # super_region_ranking: Dict[SuperRegion, int] = defaultdict(int)
+        team_results = []
+        for team in contest.team_results:
+            school = _get_school(team.institution, schools)
+            if school is None:
+                # This is OK right now as we're only interested in Mexico, do a simple check just in case
+                if contest.type in [ContestType.GRAN_PREMIO, ContestType.PROGRAMMING_BATTLE]:
+                    raise ValueError(f'Unexpected team without a school: '
+                                     f'team {team.name} with school {team.institution}')
+
+                team_results.append(team)
+                continue
+
+            if school.community:
+                community_rank[school.community] += 1
+                team = dataclasses.replace(team,
+                                           community=school.community,
+                                           community_rank=community_rank[school.community])
+
+            if contest.type == ContestType.WORLD:
+                country = 'mexico'
+                country_rank[country] += 1
+                team = dataclasses.replace(team,
+                                           country=country,
+                                           country_rank=country_rank[country])
+
+            team_results.append(team)
+
+        computed_contests.append(dataclasses.replace(contest, team_results=team_results))
+
+    return computed_contests

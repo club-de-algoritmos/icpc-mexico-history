@@ -30,3 +30,7 @@ def load_contests(filename: str) -> List[FinishedContest]:
 
 def store_schools(schools: List[School], filename: str) -> None:
     _store(schools, filename)
+
+
+def load_schools(filename: str) -> List[School]:
+    return _load(School, filename)

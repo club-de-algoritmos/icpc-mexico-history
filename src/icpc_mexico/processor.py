@@ -133,6 +133,10 @@ def get_schools(contests: List[FinishedContest]) -> List[School]:
             country='cuba',
         ),
         School(
+            name='universidad de pinar del rio',
+            country='cuba',
+        ),
+        School(
             name='benemerita universidad autonoma de puebla',
             alt_names=['buap facultad de ciencias de la computacion'],
             country=MEXICO,
@@ -189,7 +193,9 @@ def get_schools(contests: List[FinishedContest]) -> List[School]:
             schools.append(School(name=school_name, country='costa rica'))
             continue
 
-        if 'habana' in school_name or school_name.startswith('universidad de las ciencias informaticas'):
+        if ('habana' in school_name
+                or school_name.startswith('universidad de las ciencias informaticas')
+                or school_name.startswith('universidad de oriente')):
             schools.append(School(name=school_name, country='cuba'))
             continue
 

@@ -13,8 +13,8 @@ Mexico in the World Finals:
     #47 (#1 Mexico) (solved 2) Los Pericos Brujos (ITESM Campus Monterrey, Instituto Tecnologico y de Estudios Superiores de Monterrey)
     #57 (#2 Mexico) (solved 0) Tec Madero (Instituto Tecnológico de Ciudad Madero, Tecnologico Nacional de Mexico)
   2002-2003 The 2003 ACM Programming Contest World Finals:
-    #56 (#1 Mexico) (solved 0) Mandelbrot (Universidad de Guanajuato)
     #56 (#1 Mexico) (solved 0) Los Novatos (Universidad de las Americas-Puebla)
+    #56 (#1 Mexico) (solved 0) Mandelbrot (Universidad de Guanajuato)
   2003-2004 The 2004 ACM Programming Contest World Finals:
     #68 (#1 Mexico) (solved 0) The Deadly Coding Squad (ITESM Campus Monterrey, Instituto Tecnologico y de Estudios Superiores de Monterrey)
     #68 (#1 Mexico) (solved 0) Los novatos reloaded (Universidad de las Americas-Puebla)
@@ -42,8 +42,8 @@ Mexico in the World Finals:
     #74 (#1 Mexico) (solved 2) Manowar (Universidad de Guanajuato - CIMAT)
   2011-2012 36th Annual World Finals of the ACM International Collegiate Programming Contest:
     #80 (#1 Mexico) (solved 2) Manowar (Universidad de Guanajuato - CIMAT)
-    #101 (#2 Mexico) (solved 1) C_mita (ITESM Campus Puebla, Instituto Tecnologico y de Estudios Superiores de Monterrey)
     #101 (#2 Mexico) (solved 1) Justice League (Universidad Tecnológica de la Mixteca)
+    #101 (#2 Mexico) (solved 1) C_mita (ITESM Campus Puebla, Instituto Tecnologico y de Estudios Superiores de Monterrey)
   2012-2013 37th Annual World Finals of the ACM International Collegiate Programming Contest:
     #76 (#1 Mexico) (solved 2) AEI (Universidad Panamericana Campus Bonaterra)
     #94 (#2 Mexico) (solved 1) Escoders (Escuela Superior De Computo Instituto Politecnico Nacional)
@@ -61,25 +61,25 @@ Mexico in the World Finals:
     #107 (#3 Mexico) (solved 2) HaKings (ITESM Campus Monterrey, Instituto Tecnologico y de Estudios Superiores de Monterrey)
   2016-2017 41st Annual World Finals of the ACM International Collegiate Programming Contest:
     #56 (#1 Mexico) (solved 4) Los Románticos (Instituto Tecnológico Autónomo de México)
-    #57 (#2 Mexico) (solved 3) Los A´S (Universidad Autónoma de Nuevo Leon)
     #57 (#2 Mexico) (solved 3) PU++ (Facultad de Ciencias-Universidad Nacional Autónoma de México)
+    #57 (#2 Mexico) (solved 3) Los A´S (Universidad Autónoma de Nuevo Leon)
   2017-2018 42nd Annual World Finals of the International Collegiate Programming Contest:
     #31 (#1 Mexico) (solved 5) PU++ (Facultad de Ciencias-Universidad Nacional Autónoma de México)
-    #57 (#2 Mexico) (solved 2) Pragma (ITESM Campus Queretaro, Instituto Tecnologico y de Estudios Superiores de Monterrey)
     #57 (#2 Mexico) (solved 3) Los A´s (Universidad Autónoma de Nuevo Leon)
+    #57 (#2 Mexico) (solved 2) Pragma (ITESM Campus Queretaro, Instituto Tecnologico y de Estudios Superiores de Monterrey)
   2018-2019 43rd Annual World Finals of the International Collegiate Programming Contest:
-    #63 (#1 Mexico) (solved 2) #define TriLCI(404.0) :v (Instituto Tecnológico Superior del Sur de Guanajuato, Tecnologico Nacional de Mexico)
-    #63 (#1 Mexico) (solved 2) The Beat Alls (Instituto Tecnológico Autónomo de México)
     #63 (#1 Mexico) (solved 2) lA_Criba de ceros y unos (Escuela Superior De Computo Instituto Politecnico Nacional)
+    #63 (#1 Mexico) (solved 2) The Beat Alls (Instituto Tecnológico Autónomo de México)
     #63 (#1 Mexico) (solved 2) Legendary Grandpupils (ITESM Campus Monterrey, Instituto Tecnologico y de Estudios Superiores de Monterrey)
+    #63 (#1 Mexico) (solved 2) #define TriLCI(404.0) :v (Instituto Tecnológico Superior del Sur de Guanajuato, Tecnologico Nacional de Mexico)
   2019-2020 44th Annual World Finals of the International Collegiate Programming Contest:
     #47 (#1 Mexico) (solved None) E3 (Universidad de Guanajuato - DCNE)
     #47 (#1 Mexico) (solved None) UPsolving (Universidad Panamericana Campus Bonaterra)
   2020-2021 45th Annual World Finals of the International Collegiate Programming Contest:
     #41 (#1 Mexico) (solved 5) UPsolving (Universidad Panamericana Campus Bonaterra)
-    #51 (#2 Mexico) (solved 2) FoundTheBug.ItsMe (Instituto Tecnológico Autónomo de México)
-    #51 (#2 Mexico) (solved 2) Legendary Grand Newbies (ITESM Campus Monterrey, Instituto Tecnologico y de Estudios Superiores de Monterrey)
     #51 (#2 Mexico) (solved 3) Leones(0,0,0) (Universidad de Guadalajara CUCEI)
+    #51 (#2 Mexico) (solved 2) Legendary Grand Newbies (ITESM Campus Monterrey, Instituto Tecnologico y de Estudios Superiores de Monterrey)
+    #51 (#2 Mexico) (solved 2) FoundTheBug.ItsMe (Instituto Tecnológico Autónomo de México)
 
 TecNM in World Finals:
   2000-2001 The 2001 ACM Programming Contest World Finals:
@@ -381,8 +381,8 @@ Top 20 TecNM in Mexico Finals:
     #80 (#10 TecNM) Success (Instituto Tecnológico de Cuautla)
     #84 (#11 TecNM) ITESZ02 (Instituto  Tecnológico de Estudios Superiores de Zamora )
     #88 (#12 TecNM) Coyotes Alpha (Instituto Tecnologico Superior de Los Reyes)
-    #90 (#13 TecNM) ITESZ03 (Instituto  Tecnológico de Estudios Superiores de Zamora )
     #90 (#13 TecNM) Unreal Coders (Instituto Tecnológico de Culiacán)
+    #90 (#13 TecNM) ITESZ03 (Instituto  Tecnológico de Estudios Superiores de Zamora )
     #95 (#15 TecNM) Malandros (Instituto Tecnológico de Querétaro)
     #96 (#16 TecNM) British steel (Instituto Tecnológico Superior de Uruapan)
     #101 (#17 TecNM) Exquisofrenia II (Instituto Tecnólogico Superior de Zapopan)

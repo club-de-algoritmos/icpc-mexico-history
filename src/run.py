@@ -12,15 +12,15 @@ def _get_data_filename(filename: str) -> str:
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument("--refresh-icpc", action='store_true', default=False,
+    parser.add_argument("--refresh-contests", action='store_true', default=False,
                         help="Refresh the contest data by querying the ICPC API")
     parser.add_argument("--refresh-schools", action='store_true', default=False,
                         help="Refresh the school data by rebuilding it")
     args = parser.parse_args()
 
     contests_filename = _get_data_filename('icpc_mexico_results.json')
-    if args.refresh_icpc or not os.path.exists(contests_filename):
-        if args.refresh_icpc:
+    if args.refresh_contests or not os.path.exists(contests_filename):
+        if args.refresh_contests:
             print('Refreshing contest data, querying the ICPC API')
         else:
             print(f'No contest data found in file {contests_filename}, querying the ICPC API')

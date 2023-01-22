@@ -10,6 +10,7 @@ def analyze(contests: List[FinishedContest]) -> None:
     for contest in contests:
         if contest.type != ContestType.WORLD:
             continue
+
         print(f'  {contest.name}:')
         for team in contest.team_results:
             if team.country != 'mexico':
@@ -22,10 +23,14 @@ def analyze(contests: List[FinishedContest]) -> None:
     for contest in contests:
         if contest.type != ContestType.WORLD:
             continue
-        print(f'  {contest.name}:')
+
+        participated = False
         for team in contest.team_results:
             if team.community != SchoolCommunity.TECNM:
                 continue
+            if not participated:
+                participated = True
+                print(f'  {contest.name}:')
             print(f'    {team.rank} ({team.country_rank}) {team.name} ({team.institution})')
     print()
 
@@ -33,6 +38,7 @@ def analyze(contests: List[FinishedContest]) -> None:
     for contest in contests:
         if contest.type != ContestType.REGIONAL:
             continue
+
         print(f'  {contest.name}:')
         for team in contest.team_results:
             if team.community != SchoolCommunity.TECNM:
@@ -46,6 +52,7 @@ def analyze(contests: List[FinishedContest]) -> None:
     for contest in contests:
         if contest.type not in [ContestType.GRAN_PREMIO, ContestType.PROGRAMMING_BATTLE]:
             continue
+
         print(f'  {contest.name}:')
         for team in contest.team_results:
             if team.community != SchoolCommunity.TECNM:

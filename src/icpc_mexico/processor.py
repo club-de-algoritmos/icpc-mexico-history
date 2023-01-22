@@ -129,6 +129,10 @@ def get_schools(contests: List[FinishedContest]) -> List[School]:
             country='brazil',
         ),
         School(
+            name='universidad central "marta abreu" de las villas',
+            country='cuba',
+        ),
+        School(
             name='benemerita universidad autonoma de puebla',
             alt_names=['buap facultad de ciencias de la computacion'],
             country=MEXICO,
@@ -183,6 +187,10 @@ def get_schools(contests: List[FinishedContest]) -> List[School]:
 
         if 'costa rica' in school_name:
             schools.append(School(name=school_name, country='costa rica'))
+            continue
+
+        if 'habana' in school_name or school_name.startswith('universidad de las ciencias informaticas'):
+            schools.append(School(name=school_name, country='cuba'))
             continue
 
         if (school_name.startswith('tecnologico nacional de mexico')
@@ -240,11 +248,10 @@ def compute_extra_team_results(contests: List[FinishedContest], schools: List[Sc
                                            community_rank=community_rank[school.community])
 
             if contest.type == ContestType.WORLD:
-                country = 'mexico'
-                country_rank[country] += 1
+                country_rank[school.country] += 1
                 team = dataclasses.replace(team,
-                                           country=country,
-                                           country_rank=country_rank[country])
+                                           country=school.country,
+                                           country_rank=country_rank[school.country])
 
             team_results.append(team)
 

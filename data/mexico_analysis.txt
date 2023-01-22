@@ -631,103 +631,250 @@ Top 10 TecNM in Mexico Qualifiers:
     #80 (#9 TecNM) Krakatoa (Instituto Tecnológico Superior del Sur de Guanajuato)
     #89 (#10 TecNM) Guerreros del Sol (Instituto Tecnológico de Lázaro Cárdenas)
 
-Results for school Instituto Tecnológico de Ciudad Madero:
-  2000-2001:
-    Went to World Finals (solved 0)
-  2001-2002:
-    #1 (#1 TecNM) Tec Madero (Mexico Regional)
-    Went to World Finals (solved 0)
-  2002-2003:
-    #4 (#1 TecNM) ITCM1 (Mexico Regional)
-  2003-2004:
-    #13 (#2 TecNM) ITCM3- The Ants (Mexico Regional)
-  2004-2005:
-    #26 (#5 TecNM) Ometochtli (Mexico Regional)
-  2005-2006:
-    #25 (#1 TecNM) Ometochtli (Mexico Regional)
-  2007-2008:
-    #61 (#15 TecNM) Hola (Mexico Regional)
-  2008-2009:
-    #90 (#22 TecNM) Hola (Mexico Regional)
-  2009-2010:
-    #32 (#3 TecNM) KCI (Mexico Regional)
-  2011-2012:
-    #44 (#5 TecNM) Yip Yip (Mexico Regional)
-  2012-2013:
-    #9 (#1 TecNM) Javadabadoo (Mexico Regional)
-  2013-2014:
-    #62 (#10 TecNM) JavaDabaDoo (Mexico Regional)
-  2014-2015:
-    #51 (#8 TecNM) HyVent (Mexico Regional)
-  2015-2016:
-    #108 (#28 TecNM) Tacodes (Mexico Qualifiers)
-  2016-2017:
-    #39 (#4 TecNM) leopardos (Mexico Regional)
-  2017-2018:
-    #241 (#48 TecNM) Teamgusgus (Mexico Qualifiers)
-  2019-2020:
-    #361 (#86 TecNM) Dejavu (Mexico Qualifiers)
-  2020-2021:
-    #351 (#65 TecNM) Getters (Mexico Qualifiers)
-  2021-2022:
-    #226 (#36 TecNM) Los Tlacuachos:v (Mexico Qualifiers)
-  2022-2023:
-    #381 (#75 TecNM) Runtime Terror (Mexico Qualifiers)
+History of each TecNM first place (9:
+  Instituto Tecnológico de Ciudad Madero:
+    2000-2001:
+      Went to World Finals (solved 0)
+    2001-2002:
+      #1 (#1 TecNM) Tec Madero (Mexico Regional)
+      Went to World Finals (solved 0)
+    2002-2003:
+      #4 (#1 TecNM) ITCM1 (Mexico Regional)
+    2003-2004:
+      #13 (#2 TecNM) ITCM3- The Ants (Mexico Regional)
+    2004-2005:
+      #26 (#5 TecNM) Ometochtli (Mexico Regional)
+    2005-2006:
+      #25 (#1 TecNM) Ometochtli (Mexico Regional)
+    2007-2008:
+      #61 (#15 TecNM) Hola (Mexico Regional)
+    2008-2009:
+      #90 (#22 TecNM) Hola (Mexico Regional)
+    2009-2010:
+      #32 (#3 TecNM) KCI (Mexico Regional)
+    2011-2012:
+      #44 (#5 TecNM) Yip Yip (Mexico Regional)
+    2012-2013:
+      #9 (#1 TecNM) Javadabadoo (Mexico Regional)
+    2013-2014:
+      #62 (#10 TecNM) JavaDabaDoo (Mexico Regional)
+    2014-2015:
+      #51 (#8 TecNM) HyVent (Mexico Regional)
+    2015-2016:
+      #108 (#28 TecNM) Tacodes (Mexico Qualifiers)
+    2016-2017:
+      #39 (#4 TecNM) leopardos (Mexico Regional)
+    2017-2018:
+      #241 (#48 TecNM) Teamgusgus (Mexico Qualifiers)
+    2019-2020:
+      #361 (#86 TecNM) Dejavu (Mexico Qualifiers)
+    2020-2021:
+      #351 (#65 TecNM) Getters (Mexico Qualifiers)
+    2021-2022:
+      #226 (#36 TecNM) Los Tlacuachos:v (Mexico Qualifiers)
+    2022-2023:
+      #381 (#75 TecNM) Runtime Terror (Mexico Qualifiers)
 
-Results for school Instituto Tecnológico de Culiacán:
-  2006-2007:
-    #27 (#6 TecNM) StackOverflow (Mexico Regional)
-  2007-2008:
-    #3 (#1 TecNM) ITC Turing Machines (Mexico Regional)
-    Went to World Finals (solved 0)
-  2008-2009:
-    #1 (#1 TecNM) Turing Machines (Mexico Regional)
-    Went to World Finals (solved 3)
-  2009-2010:
-    #16 (#1 TecNM) tec de Culiacán (Mexico Regional)
-  2010-2011:
-    #69 (#8 TecNM) Three Little Bits (Mexico Regional)
-  2011-2012:
-    #48 (#6 TecNM) Three Bits (Mexico Regional)
-  2012-2013:
-    #12 (#2 TecNM) Three Bits (Mexico Regional)
-  2013-2014:
-    #39 (#3 TecNM) Dynamic (Mexico Regional)
-  2014-2015:
-    #9 (#1 TecNM) JRA (Mexico Regional)
-  2015-2016:
-    #108 (#28 TecNM) EPN Y LOS 43? (Mexico Qualifiers)
-  2021-2022:
-    #36 (#5 TecNM) Ludus G++ (Mexico Regional)
-  2022-2023:
-    #39 (#3 TecNM) Ludus G++ (Mexico Qualifiers)
+  Instituto Technologico de Morelia:
+    2009-2010:
+      #67 (#12 TecNM) Fail (Mexico Regional)
+    2010-2011:
+      #102 (#18 TecNM) ITM 2 (Mexico Regional)
+    2011-2012:
+      #20 (#1 TecNM) ITM-3 (Mexico Regional)
+    2012-2013:
+      #46 (#17 TecNM) Tec Morelia 1 (Mexico Regional)
+    2013-2014:
+      #18 (#2 TecNM) TecMorelia2 (Mexico Regional)
+    2020-2021:
+      #273 (#32 TecNM) VISUAL DIM (Mexico Qualifiers)
+    2021-2022:
+      #226 (#36 TecNM) Rubber Duckies (Mexico Qualifiers)
+    2022-2023:
+      #381 (#75 TecNM) Pony Code (Mexico Qualifiers)
 
-Results for school Instituto Tecnológico Superior del Sur de Guanajuato:
-  2010-2011:
-    #131 (#33 TecNM) ITSUR-1 (Mexico Regional)
-  2011-2012:
-    #65 (#13 TecNM) ITSUR (Mexico Regional)
-  2012-2013:
-    #29 (#8 TecNM) ITSUR_1 (Mexico Regional)
-  2013-2014:
-    #8 (#1 TecNM) ITSUR-MIXLANG CODERS (Mexico Regional)
-  2014-2015:
-    #10 (#2 TecNM) ITSUR MIX LANG CODERS (Mexico Regional)
-  2015-2016:
-    #11 (#1 TecNM) Laughing Coffee (Mexico Regional)
-  2016-2017:
-    #14 (#2 TecNM) ITSUR MIX LANG COFFEE (Mexico Regional)
-  2017-2018:
-    #8 (#1 TecNM) define TriLCI 404 (Mexico Regional)
-  2018-2019:
-    #4 (#1 TecNM) #define TriLCI(404.0) :v (Mexico Regional)
-    Went to World Finals (solved 2)
-  2019-2020:
-    #3 (#1 TecNM) #define TriLCI(404.0) :v (Mexico Regional)
-  2020-2021:
-    #29 (#1 TecNM) 010 girls & 001 Mike (Mexico Regional)
-  2021-2022:
-    #30 (#2 TecNM) Too lazy to propagate (Mexico Regional)
-  2022-2023:
-    #16 (#1 TecNM) Hugs for Bugs (Mexico Qualifiers)
+  Instituto Tecnologico de Celaya:
+    2001-2002:
+      #16 (#4 TecNM) bichos (Mexico Regional)
+    2003-2004:
+      #8 (#1 TecNM) Infrabit (Mexico Regional)
+    2004-2005:
+      #56 (#11 TecNM) INFRABIT (Mexico Regional)
+    2005-2006:
+      #85 (#11 TecNM) InfraBit (Mexico Regional)
+    2006-2007:
+      #11 (#3 TecNM) Linces 2 (Mexico Regional)
+    2007-2008:
+      #61 (#15 TecNM) Linces Verde (Mexico Regional)
+    2014-2015:
+      #146 (#35 TecNM) Linces Blanco (Mexico Qualifiers)
+    2017-2018:
+      #274 (#61 TecNM) omegaUp-ITC (Mexico Qualifiers)
+    2018-2019:
+      #65 (#7 TecNM) Linx Celaya (Mexico Qualifiers)
+    2021-2022:
+      #226 (#36 TecNM) Mechalynxtronics (Mexico Qualifiers)
+    2022-2023:
+      #126 (#19 TecNM) Frameworks (Mexico Qualifiers)
+
+  Instituto Tecnológico de Querétaro:
+    2001-2002:
+      #55 (#13 TecNM) Zorros Naranja (Mexico Regional)
+    2003-2004:
+      #41 (#9 TecNM) Zorros Blanco (Mexico Regional)
+    2004-2005:
+      #36 (#7 TecNM) Zorros Blanco (Mexico Regional)
+    2006-2007:
+      #66 (#14 TecNM) Zorros Naranja (Mexico Regional)
+    2007-2008:
+      #38 (#7 TecNM) Black Fox Army (Mexico Regional)
+    2008-2009:
+      #42 (#4 TecNM) Haka (Mexico Regional)
+    2009-2010:
+      #20 (#2 TecNM) Haka ITQ (Mexico Regional)
+    2010-2011:
+      #38 (#1 TecNM) Haka - ITQ (Mexico Regional)
+    2011-2012:
+      #98 (#29 TecNM) Haka 2.0 (Mexico Regional)
+    2012-2013:
+      #70 (#27 TecNM) HAKA 2.0 (Mexico Regional)
+    2016-2017:
+      #121 (#20 TecNM) NWA (Mexico Qualifiers)
+    2018-2019:
+      #201 (#31 TecNM) R00T (Mexico Qualifiers)
+    2019-2020:
+      #382 (#98 TecNM) BaalCode (Mexico Qualifiers)
+    2020-2021:
+      #38 (#3 TecNM) PañaleraSquad (Mexico Regional)
+    2021-2022:
+      #190 (#22 TecNM) Los 3 reyes magos (Mexico Qualifiers)
+
+  Instituto Tecnológico Superior de Guanajuato:
+    2014-2015:
+      #30 (#3 TecNM) Legio I Germania (Mexico Regional)
+    2015-2016:
+      #47 (#6 TecNM) Moyos (Mexico Regional)
+    2016-2017:
+      #34 (#3 TecNM) Los religiosos (Mexico Regional)
+    2017-2018:
+      #39 (#5 TecNM) LOS RELIGIOSOS (Mexico Regional)
+    2018-2019:
+      #27 (#3 TecNM) Promised Rinascimento (Mexico Regional)
+    2019-2020:
+      #25 (#4 TecNM) Promised Rinascimento (Mexico Regional)
+    2020-2021:
+      #282 (#35 TecNM) Promised Rinascimento (Mexico Qualifiers)
+    2021-2022:
+      #19 (#1 TecNM) Promised Rinascimento (Mexico Regional)
+    2022-2023:
+      #381 (#75 TecNM) White Hat (Mexico Qualifiers)
+
+  Instituto Tecnológico Superior del Sur de Guanajuato:
+    2010-2011:
+      #131 (#33 TecNM) ITSUR-1 (Mexico Regional)
+    2011-2012:
+      #65 (#13 TecNM) ITSUR (Mexico Regional)
+    2012-2013:
+      #29 (#8 TecNM) ITSUR_1 (Mexico Regional)
+    2013-2014:
+      #8 (#1 TecNM) ITSUR-MIXLANG CODERS (Mexico Regional)
+    2014-2015:
+      #10 (#2 TecNM) ITSUR MIX LANG CODERS (Mexico Regional)
+    2015-2016:
+      #11 (#1 TecNM) Laughing Coffee (Mexico Regional)
+    2016-2017:
+      #14 (#2 TecNM) ITSUR MIX LANG COFFEE (Mexico Regional)
+    2017-2018:
+      #8 (#1 TecNM) define TriLCI 404 (Mexico Regional)
+    2018-2019:
+      #4 (#1 TecNM) #define TriLCI(404.0) :v (Mexico Regional)
+      Went to World Finals (solved 2)
+    2019-2020:
+      #3 (#1 TecNM) #define TriLCI(404.0) :v (Mexico Regional)
+    2020-2021:
+      #29 (#1 TecNM) 010 girls & 001 Mike (Mexico Regional)
+    2021-2022:
+      #30 (#2 TecNM) Too lazy to propagate (Mexico Regional)
+    2022-2023:
+      #16 (#1 TecNM) Hugs for Bugs (Mexico Qualifiers)
+
+  Instituto Tecnológico de Culiacán:
+    2006-2007:
+      #27 (#6 TecNM) StackOverflow (Mexico Regional)
+    2007-2008:
+      #3 (#1 TecNM) ITC Turing Machines (Mexico Regional)
+      Went to World Finals (solved 0)
+    2008-2009:
+      #1 (#1 TecNM) Turing Machines (Mexico Regional)
+      Went to World Finals (solved 3)
+    2009-2010:
+      #16 (#1 TecNM) tec de Culiacán (Mexico Regional)
+    2010-2011:
+      #69 (#8 TecNM) Three Little Bits (Mexico Regional)
+    2011-2012:
+      #48 (#6 TecNM) Three Bits (Mexico Regional)
+    2012-2013:
+      #12 (#2 TecNM) Three Bits (Mexico Regional)
+    2013-2014:
+      #39 (#3 TecNM) Dynamic (Mexico Regional)
+    2014-2015:
+      #9 (#1 TecNM) JRA (Mexico Regional)
+    2015-2016:
+      #108 (#28 TecNM) EPN Y LOS 43? (Mexico Qualifiers)
+    2021-2022:
+      #36 (#5 TecNM) Ludus G++ (Mexico Regional)
+    2022-2023:
+      #39 (#3 TecNM) Ludus G++ (Mexico Qualifiers)
+
+  Instituto Tecnologico de Mexicali:
+    2004-2005:
+      #8 (#1 TecNM) bufalos (Mexico Regional)
+    2005-2006:
+      #85 (#11 TecNM) bufaloITM (Mexico Regional)
+    2006-2007:
+      #4 (#1 TecNM) marikatu (Mexico Regional)
+    2007-2008:
+      #41 (#8 TecNM) mani (Mexico Regional)
+    2008-2009:
+      #70 (#11 TecNM) J-UNIT RELOADED (Mexico Regional)
+    2010-2011:
+      #156 (#44 TecNM) MXL 7.2 (Mexico Regional)
+    2011-2012:
+      #72 (#16 TecNM) ACM1PTPLZ (Mexico Regional)
+    2012-2013:
+      #45 (#16 TecNM) ++TEC (Mexico Regional)
+    2013-2014:
+      #85 (#17 TecNM) ++TPython (Mexico Regional)
+    2020-2021:
+      #351 (#65 TecNM) SLEEK_STYLE (Mexico Qualifiers)
+    2021-2022:
+      #226 (#36 TecNM) Niños_Buenos (Mexico Qualifiers)
+    2022-2023:
+      #381 (#75 TecNM) EquiPaco 1.9 (Mexico Qualifiers)
+
+  Instituto Tecnológico de Veracruz:
+    2006-2007:
+      #85 (#19 TecNM) IT-Veracruz (Mexico Regional)
+    2012-2013:
+      #31 (#10 TecNM) ACMIPT (Mexico Regional)
+    2013-2014:
+      #67 (#11 TecNM) El Equipo Rocket (Mexico Regional)
+    2014-2015:
+      #39 (#5 TecNM) Long-aniza (Mexico Regional)
+    2015-2016:
+      #34 (#3 TecNM) FastFingers lml (Mexico Regional)
+    2016-2017:
+      #13 (#1 TecNM) FastFingers lml (Mexico Regional)
+    2017-2018:
+      #28 (#2 TecNM) Warriors Z (Mexico Regional)
+    2018-2019:
+      #36 (#4 TecNM) Code4Life (Mexico Regional)
+    2019-2020:
+      #167 (#23 TecNM) <CodeBreakers/> (Mexico Qualifiers)
+    2020-2021:
+      #43 (#5 TecNM) <CodeBreakers/> (Mexico Regional)
+    2021-2022:
+      #226 (#36 TecNM) Pollos in Pantuflas (Mexico Qualifiers)
+    2022-2023:
+      #44 (#5 TecNM) fe++ (Mexico Qualifiers)
 

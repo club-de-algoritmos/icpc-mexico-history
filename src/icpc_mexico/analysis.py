@@ -1,5 +1,5 @@
 from collections import defaultdict
-from typing import List, Dict, Optional, TextIO
+from typing import List, Dict, Optional, TextIO, Set
 
 from icpc_mexico.data import FinishedContest, ContestType, SchoolCommunity, TeamResult
 from icpc_mexico.utils import normalize_str
@@ -42,6 +42,7 @@ def analyze(contests: List[FinishedContest], analysis_file: TextIO) -> None:
     write_line()
 
     write_line('Top 20 TecNM in Mexico Finals:')
+    first_place_tecnm_schools: Set[str] = set()
     for contest in contests:
         if contest.type != ContestType.REGIONAL:
             continue
@@ -52,6 +53,8 @@ def analyze(contests: List[FinishedContest], analysis_file: TextIO) -> None:
                 continue
             if team.community_rank > 20:
                 break
+            if team.community_rank == 1:
+                first_place_tecnm_schools.add(team.institution)
             write_line(f'    #{team.rank} (#{team.community_rank} TecNM) {team.name} ({team.institution})')
     write_line()
 
@@ -68,6 +71,10 @@ def analyze(contests: List[FinishedContest], analysis_file: TextIO) -> None:
                 break
             write_line(f'    #{team.rank} (#{team.community_rank} TecNM) {team.name} ({team.institution})')
     write_line()
+
+    write_line(f'History of each TecNM first place ({len(first_place_tecnm_schools)}:')
+    for school_name in first_place_tecnm_schools:
+        analyze_school(school_name, contests, analysis_file)
 
 
 def _get_by_type(contest_type: ContestType, contests: List[FinishedContest]) -> Optional[FinishedContest]:
@@ -88,7 +95,7 @@ def analyze_school(school_name: str, all_contests: List[FinishedContest], analys
     def write_line(line: str = '') -> None:
         analysis_file.write(line + '\n')
 
-    write_line(f'Results for school {school_name}:')
+    write_line(f'  {school_name}:')
     contests_by_year: Dict[int, List[FinishedContest]] = defaultdict(list)
     for contest in all_contests:
         contests_by_year[contest.year].append(contest)
@@ -121,13 +128,13 @@ def analyze_school(school_name: str, all_contests: List[FinishedContest], analys
         if not best_team and not wf_team:
             continue
 
-        write_line(f'  {year}-{year+1}:')
+        write_line(f'    {year}-{year+1}:')
         if best_team:
             community_rank = ''
             if best_team.community == SchoolCommunity.TECNM:
                 community_rank = f' (#{best_team.community_rank} TecNM)'
-            write_line(f'    #{best_team.rank}{community_rank} {best_team.name} ({result_type})')
+            write_line(f'      #{best_team.rank}{community_rank} {best_team.name} ({result_type})')
         if wf_team:
-            write_line(f'    Went to World Finals (solved {wf_team.problems_solved})')
+            write_line(f'      Went to World Finals (solved {wf_team.problems_solved})')
 
     write_line()

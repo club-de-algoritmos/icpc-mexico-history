@@ -880,42 +880,44 @@ History of each TecNM first place (9:
 
 Mexico teams ranking by place percentile in World Finals:
 Ranking of Mexican teams in World Finals:
-  78% PU++ (Facultad de Ciencias-Universidad Nacional Autónoma de México), solved 5 in 2018, getting place 31
-  69% UPsolving (Universidad Panamericana Campus Bonaterra), solved 5 in 2021, getting place 41
-  64% Los Chidory (Universidad Panamericana Campus Bonaterra), solved 2 in 2014, getting place 45
-  62% Leones(0,0,0) (Universidad de Guadalajara CUCEI), solved 3 in 2021, getting place 51
-  62% FoundTheBug.ItsMe (Instituto Tecnológico Autónomo de México), solved 2 in 2021, getting place 51
-  62% Legendary Grand Newbies (ITESM Campus Monterrey), solved 2 in 2021, getting place 51
-  60% Los A´s (Universidad Autónoma de Nuevo Leon), solved 3 in 2018, getting place 57
-  60% Pragma (ITESM Campus Queretaro), solved 2 in 2018, getting place 57
-  58% Los Románticos (Instituto Tecnológico Autónomo de México), solved 4 in 2017, getting place 56
-  58% Los A´S (Universidad Autónoma de Nuevo Leon), solved 3 in 2017, getting place 57
-  58% PU++ (Facultad de Ciencias-Universidad Nacional Autónoma de México), solved 3 in 2017, getting place 57
-  54% #define TriLCI(404.0) :v (Instituto Tecnológico Superior del Sur de Guanajuato), solved 2 in 2019, getting place 63
-  54% Legendary Grandpupils (ITESM Campus Monterrey), solved 2 in 2019, getting place 63
-  54% The Beat Alls (Instituto Tecnológico Autónomo de México), solved 2 in 2019, getting place 63
-  54% lA_Criba de ceros y unos (Escuela Superior De Computo Instituto Politecnico Nacional), solved 2 in 2019, getting place 63
-  52% Turing Machines (Instituto Tecnológico de Culiacán), solved 3 in 2009, getting place 49
-  46% Los Románticos (Instituto Tecnológico Autónomo de México), solved 4 in 2016, getting place 69
-  36% AEI (Universidad Panamericana Campus Bonaterra), solved 2 in 2013, getting place 76
-  35% U de G ACM Problem Solvers (Universidad de Guadalajara), solved 2 in 2008, getting place 65
-  35% Hurones Pwneadores (Escuela Superior De Computo Instituto Politecnico Nacional), solved 1 in 2014, getting place 80
-  33% UTMixteca NONAME (Universidad Tecnológica de la Mixteca), solved 1 in 2006, getting place 56
-  30% Manowar (Universidad de Guanajuato - CIMAT), solved 2 in 2011, getting place 74
-  29% Manowar (Universidad de Guanajuato - CIMAT), solved 2 in 2012, getting place 80
-  28% La Carabina del AC (Escuela Superior De Computo Instituto Politecnico Nacional), solved 3 in 2016, getting place 92
-  27% Los Pericos Brujos (ITESM Campus Monterrey), solved 2 in 2002, getting place 47
-  26% ITESM Queretaro Los punteros (ITESM Campus Queretaro), solved 2 in 2010, getting place 76
-  25% U Guanajuato Hausdorff (Universidad de Guanajuato), solved 2 in 2010, getting place 77
-  25% Escoolers (Escuela Superior De Computo Instituto Politecnico Nacional), solved 3 in 2015, getting place 96
-  21% Escoders (Escuela Superior De Computo Instituto Politecnico Nacional), solved 1 in 2013, getting place 94
-  17% HaKings (ITESM Campus Monterrey), solved 2 in 2016, getting place 107
-  15% U de las Americas (Universidad de las Americas-Puebla), solved 1 in 1999, getting place 53
-  14% Peludos (Universidad Autónoma de Aguascalientes), solved 2 in 2015, getting place 110
-  12% BUA de Puebla - Los Alfalfas (Benemérita Universidad Autónoma de Puebla), solved 2 in 2005, getting place 69
-  10% C_mita (ITESM Campus Puebla), solved 1 in 2012, getting place 101
-  10% Justice League (Universidad Tecnológica de la Mixteca), solved 1 in 2012, getting place 101
-  10% ITESM ProZac (ITESM Campus Monterrey), solved 1 in 1999, getting place 56
-  8% SWART (ITESM Campus Monterrey), solved 1 in 2001, getting place 59
-  6% Locos (ITESM Campus Monterrey), solved 1 in 2015, getting place 121
-  5% UTMixteca Poor Dogs (Universidad Tecnológica de la Mixteca), solved 1 in 2005, getting place 74
+  Ranked in the top half:
+    78% PU++ (Facultad de Ciencias-Universidad Nacional Autónoma de México), solved 5 in 2018, getting place 31
+    69% UPsolving (Universidad Panamericana Campus Bonaterra), solved 5 in 2021, getting place 41
+    64% Los Chidory (Universidad Panamericana Campus Bonaterra), solved 2 in 2014, getting place 45
+    58% Los Románticos (Instituto Tecnológico Autónomo de México), solved 4 in 2017, getting place 56
+    52% Turing Machines (Instituto Tecnológico de Culiacán), solved 3 in 2009, getting place 49
+  With honorable mention (solving at least one problem):
+    62% Leones(0,0,0) (Universidad de Guadalajara CUCEI), solved 3 in 2021, getting place 51
+    62% FoundTheBug.ItsMe (Instituto Tecnológico Autónomo de México), solved 2 in 2021, getting place 51
+    62% Legendary Grand Newbies (ITESM Campus Monterrey), solved 2 in 2021, getting place 51
+    60% Los A´s (Universidad Autónoma de Nuevo Leon), solved 3 in 2018, getting place 57
+    60% Pragma (ITESM Campus Queretaro), solved 2 in 2018, getting place 57
+    58% Los A´S (Universidad Autónoma de Nuevo Leon), solved 3 in 2017, getting place 57
+    58% PU++ (Facultad de Ciencias-Universidad Nacional Autónoma de México), solved 3 in 2017, getting place 57
+    54% #define TriLCI(404.0) :v (Instituto Tecnológico Superior del Sur de Guanajuato), solved 2 in 2019, getting place 63
+    54% Legendary Grandpupils (ITESM Campus Monterrey), solved 2 in 2019, getting place 63
+    54% The Beat Alls (Instituto Tecnológico Autónomo de México), solved 2 in 2019, getting place 63
+    54% lA_Criba de ceros y unos (Escuela Superior De Computo Instituto Politecnico Nacional), solved 2 in 2019, getting place 63
+    46% Los Románticos (Instituto Tecnológico Autónomo de México), solved 4 in 2016, getting place 69
+    36% AEI (Universidad Panamericana Campus Bonaterra), solved 2 in 2013, getting place 76
+    35% U de G ACM Problem Solvers (Universidad de Guadalajara), solved 2 in 2008, getting place 65
+    35% Hurones Pwneadores (Escuela Superior De Computo Instituto Politecnico Nacional), solved 1 in 2014, getting place 80
+    33% UTMixteca NONAME (Universidad Tecnológica de la Mixteca), solved 1 in 2006, getting place 56
+    30% Manowar (Universidad de Guanajuato - CIMAT), solved 2 in 2011, getting place 74
+    29% Manowar (Universidad de Guanajuato - CIMAT), solved 2 in 2012, getting place 80
+    28% La Carabina del AC (Escuela Superior De Computo Instituto Politecnico Nacional), solved 3 in 2016, getting place 92
+    27% Los Pericos Brujos (ITESM Campus Monterrey), solved 2 in 2002, getting place 47
+    26% ITESM Queretaro Los punteros (ITESM Campus Queretaro), solved 2 in 2010, getting place 76
+    25% U Guanajuato Hausdorff (Universidad de Guanajuato), solved 2 in 2010, getting place 77
+    25% Escoolers (Escuela Superior De Computo Instituto Politecnico Nacional), solved 3 in 2015, getting place 96
+    21% Escoders (Escuela Superior De Computo Instituto Politecnico Nacional), solved 1 in 2013, getting place 94
+    17% HaKings (ITESM Campus Monterrey), solved 2 in 2016, getting place 107
+    15% U de las Americas (Universidad de las Americas-Puebla), solved 1 in 1999, getting place 53
+    14% Peludos (Universidad Autónoma de Aguascalientes), solved 2 in 2015, getting place 110
+    12% BUA de Puebla - Los Alfalfas (Benemérita Universidad Autónoma de Puebla), solved 2 in 2005, getting place 69
+    10% C_mita (ITESM Campus Puebla), solved 1 in 2012, getting place 101
+    10% Justice League (Universidad Tecnológica de la Mixteca), solved 1 in 2012, getting place 101
+    10% ITESM ProZac (ITESM Campus Monterrey), solved 1 in 1999, getting place 56
+    8% SWART (ITESM Campus Monterrey), solved 1 in 2001, getting place 59
+    6% Locos (ITESM Campus Monterrey), solved 1 in 2015, getting place 121
+    5% UTMixteca Poor Dogs (Universidad Tecnológica de la Mixteca), solved 1 in 2005, getting place 74

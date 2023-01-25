@@ -240,34 +240,6 @@
     "is_eligible": true
   },
   {
-    "name": "instituto technologico de comitan",
-    "alt_names": [],
-    "community": "Tecnologico Nacional de Mexico",
-    "country": "mexico",
-    "is_eligible": true
-  },
-  {
-    "name": "instituto technologico de morelia",
-    "alt_names": [],
-    "community": "Tecnologico Nacional de Mexico",
-    "country": "mexico",
-    "is_eligible": true
-  },
-  {
-    "name": "instituto technologico supeior de uruapan",
-    "alt_names": [],
-    "community": "Tecnologico Nacional de Mexico",
-    "country": "mexico",
-    "is_eligible": true
-  },
-  {
-    "name": "instituto technologico superior de chicontepec",
-    "alt_names": [],
-    "community": "Tecnologico Nacional de Mexico",
-    "country": "mexico",
-    "is_eligible": true
-  },
-  {
     "name": "instituto tecnologico autonomo de mexico",
     "alt_names": [],
     "community": null,
@@ -438,6 +410,15 @@
     "is_eligible": true
   },
   {
+    "name": "instituto tecnologico de comitan",
+    "alt_names": [
+      "instituto technologico de comitan"
+    ],
+    "community": "Tecnologico Nacional de Mexico",
+    "country": "mexico",
+    "is_eligible": true
+  },
+  {
     "name": "instituto tecnologico de costa rica campus alajuela",
     "alt_names": [],
     "community": null,
@@ -601,6 +582,15 @@
   {
     "name": "instituto tecnologico de minatitlan",
     "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "country": "mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico de morelia",
+    "alt_names": [
+      "instituto technologico de morelia"
+    ],
     "community": "Tecnologico Nacional de Mexico",
     "country": "mexico",
     "is_eligible": true
@@ -895,6 +885,15 @@
     "is_eligible": true
   },
   {
+    "name": "instituto tecnologico supeior de uruapan",
+    "alt_names": [
+      "instituto technologico supeior de uruapan"
+    ],
+    "community": "Tecnologico Nacional de Mexico",
+    "country": "mexico",
+    "is_eligible": true
+  },
+  {
     "name": "instituto tecnologico superior de acatlan de osorio",
     "alt_names": [],
     "community": "Tecnologico Nacional de Mexico",
@@ -974,6 +973,15 @@
   {
     "name": "instituto tecnologico superior de chapala",
     "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "country": "mexico",
+    "is_eligible": true
+  },
+  {
+    "name": "instituto tecnologico superior de chicontepec",
+    "alt_names": [
+      "instituto technologico superior de chicontepec"
+    ],
     "community": "Tecnologico Nacional de Mexico",
     "country": "mexico",
     "is_eligible": true

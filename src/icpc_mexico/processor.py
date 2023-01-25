@@ -7,6 +7,7 @@ from typing import List, Dict, Optional
 from icpc_mexico import icpc_api
 from icpc_mexico.data import Contest, FinishedContest, TeamResult, ContestType, School, SchoolCommunity, MEXICO
 from icpc_mexico.errors import ProcessingError
+from icpc_mexico.queries import get_school
 from icpc_mexico.utils import normalize_str
 
 
@@ -92,14 +93,6 @@ def get_finished_contests(contest_csv_filename: str) -> List[FinishedContest]:
         finished_contests.append(FinishedContest.from_contest(contest=contest, team_results=unique_teams))
 
     return finished_contests
-
-
-def _get_school(school_name: str, schools: List[School]) -> Optional[School]:
-    school_name = normalize_str(school_name)
-    for school in schools:
-        if school.matches_name(school_name):
-            return school
-    return None
 
 
 def get_schools(contests: List[FinishedContest]) -> List[School]:
@@ -190,7 +183,7 @@ def get_schools(contests: List[FinishedContest]) -> List[School]:
             school_names.add(normalize_str(team.institution))
 
     for school_name in sorted(school_names):
-        if _get_school(school_name, schools):
+        if get_school(school_name, schools):
             continue
 
         if 'costa rica' in school_name:
@@ -203,10 +196,17 @@ def get_schools(contests: List[FinishedContest]) -> List[School]:
             schools.append(School(name=school_name, country='cuba'))
             continue
 
+        if school_name.startswith('instituto technologico'):
+            normalized_name = school_name.replace('technologico', 'tecnologico')
+            schools.append(School(name=normalized_name,
+                                  alt_names=[school_name],
+                                  community=SchoolCommunity.TECNM,
+                                  country=MEXICO))
+            continue
+
         if (school_name.startswith('tecnologico nacional de mexico')
                 or school_name.startswith('tecnm')
-                or school_name.startswith('instituto tecnologico')
-                or school_name.startswith('instituto technologico')):
+                or school_name.startswith('instituto tecnologico')):
             schools.append(School(name=school_name, community=SchoolCommunity.TECNM, country=MEXICO))
             continue
 
@@ -240,7 +240,7 @@ def compute_extra_team_results(contests: List[FinishedContest], schools: List[Sc
         # super_region_ranking: Dict[SuperRegion, int] = defaultdict(int)
         team_results = []
         for team in contest.team_results:
-            school = _get_school(team.institution, schools)
+            school = get_school(team.institution, schools)
 
             if school is None:
                 # We're only interested in Mexico, do a simple check just in case

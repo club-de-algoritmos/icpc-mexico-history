@@ -54,4 +54,4 @@ if __name__ == '__main__':
     all_schools = _get_schools(args.refresh_schools, all_contests)
     with open(_get_data_filename('mexico_analysis.txt'), 'w') as analysis_file:
         all_contests = processor.compute_extra_team_results(all_contests, all_schools)
-        analysis.analyze(all_contests, analysis_file)
+        analysis.analyze(all_contests, all_schools, analysis_file)

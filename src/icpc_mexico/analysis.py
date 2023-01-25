@@ -1,11 +1,11 @@
 from collections import defaultdict
-from typing import List, Dict, Optional, TextIO, Set
+from typing import List, Dict, TextIO, Set
 
-from icpc_mexico.data import FinishedContest, ContestType, SchoolCommunity, TeamResult
-from icpc_mexico.utils import normalize_str
+from icpc_mexico.data import FinishedContest, ContestType, SchoolCommunity, School
+from icpc_mexico.queries import get_by_type, get_best_by_school, get_school
 
 
-def analyze(contests: List[FinishedContest], analysis_file: TextIO) -> None:
+def analyze(contests: List[FinishedContest], schools: List[School], analysis_file: TextIO) -> None:
     print(f'Analyzing Mexico results')
 
     def write_line(line: str = '') -> None:
@@ -42,7 +42,8 @@ def analyze(contests: List[FinishedContest], analysis_file: TextIO) -> None:
     write_line()
 
     write_line('Top 20 TecNM in Mexico Finals:')
-    first_place_tecnm_schools: Set[str] = set()
+    first_place_tecnm_school_names: Set[str] = set()
+    first_place_tecnm_schools: List[School] = []
     for contest in contests:
         if contest.type != ContestType.REGIONAL:
             continue
@@ -54,7 +55,10 @@ def analyze(contests: List[FinishedContest], analysis_file: TextIO) -> None:
             if team.community_rank > 20:
                 break
             if team.community_rank == 1:
-                first_place_tecnm_schools.add(team.institution)
+                school = get_school(team.institution, schools)
+                if school.name not in first_place_tecnm_school_names:
+                    first_place_tecnm_school_names.add(school.name)
+                    first_place_tecnm_schools.append(school)
             write_line(f'    #{team.rank} (#{team.community_rank} TecNM) {team.name} ({team.institution})')
     write_line()
 
@@ -73,29 +77,15 @@ def analyze(contests: List[FinishedContest], analysis_file: TextIO) -> None:
     write_line()
 
     write_line(f'History of each TecNM first place ({len(first_place_tecnm_schools)}:')
-    for school_name in first_place_tecnm_schools:
-        analyze_school(school_name, contests, analysis_file)
+    for school in sorted(first_place_tecnm_schools, key=lambda s: s.name):
+        analyze_school(school, contests, analysis_file)
 
 
-def _get_by_type(contest_type: ContestType, contests: List[FinishedContest]) -> Optional[FinishedContest]:
-    for contest in contests:
-        if contest.type == contest_type:
-            return contest
-    return None
-
-
-def _get_best_by_school(school_name: str, contest: FinishedContest) -> Optional[TeamResult]:
-    for team in contest.team_results:
-        if normalize_str(team.institution) == normalize_str(school_name):
-            return team
-    return None
-
-
-def analyze_school(school_name: str, all_contests: List[FinishedContest], analysis_file: TextIO) -> None:
+def analyze_school(school: School, all_contests: List[FinishedContest], analysis_file: TextIO) -> None:
     def write_line(line: str = '') -> None:
         analysis_file.write(line + '\n')
 
-    write_line(f'  {school_name}:')
+    write_line(f'  {school.name.title()}:')
     contests_by_year: Dict[int, List[FinishedContest]] = defaultdict(list)
     for contest in all_contests:
         contests_by_year[contest.year].append(contest)
@@ -104,26 +94,26 @@ def analyze_school(school_name: str, all_contests: List[FinishedContest], analys
         result_type = ''
         best_team = None
 
-        regional = _get_by_type(ContestType.REGIONAL, contests)
+        regional = get_by_type(ContestType.REGIONAL, contests)
         if regional:
-            best_team = _get_best_by_school(school_name, regional)
+            best_team = get_best_by_school(school, regional)
             if best_team:
                 result_type = 'Mexico Regional'
 
         if not best_team:
-            qualifier = _get_by_type(ContestType.GRAN_PREMIO, contests)
+            qualifier = get_by_type(ContestType.GRAN_PREMIO, contests)
             if not qualifier:
-                qualifier = _get_by_type(ContestType.PROGRAMMING_BATTLE, contests)
+                qualifier = get_by_type(ContestType.PROGRAMMING_BATTLE, contests)
 
             if qualifier:
-                best_team = _get_best_by_school(school_name, qualifier)
+                best_team = get_best_by_school(school, qualifier)
                 if best_team:
                     result_type = 'Mexico Qualifiers'
 
         wf_team = None
-        world = _get_by_type(ContestType.WORLD, contests)
+        world = get_by_type(ContestType.WORLD, contests)
         if world:
-            wf_team = _get_best_by_school(school_name, world)
+            wf_team = get_best_by_school(school, world)
 
         if not best_team and not wf_team:
             continue

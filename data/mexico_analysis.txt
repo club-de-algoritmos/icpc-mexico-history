@@ -878,7 +878,6 @@ History of each TecNM first place (9:
     2022-2023:
       #16 (#1 TecNM) Hugs for Bugs (Mexico Qualifiers)
 
-Mexico teams ranking by place percentile in World Finals:
 Ranking of Mexican teams in World Finals:
   Ranked in the top half:
     78% PU++ (Facultad de Ciencias-Universidad Nacional Autónoma de México), solved 5 in 2018, getting place 31

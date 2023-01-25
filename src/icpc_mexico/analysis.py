@@ -85,8 +85,6 @@ def analyze(contests: List[FinishedContest], schools: List[School], analysis_fil
     for school in sorted(first_place_tecnm_schools, key=lambda s: s.name):
         _analyze_school(school, contests, write_line)
 
-    write_line('Mexico teams ranking by place percentile in World Finals:')
-
     _analyze_team_rank(contests, write_line)
 
 

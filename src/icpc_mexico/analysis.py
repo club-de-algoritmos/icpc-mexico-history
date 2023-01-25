@@ -1,8 +1,13 @@
 from collections import defaultdict
-from typing import List, Dict, TextIO, Set
+from typing import List, Dict, TextIO, Set, Callable, Optional, Union, Protocol
 
-from icpc_mexico.data import FinishedContest, ContestType, SchoolCommunity, School
+from icpc_mexico.data import FinishedContest, ContestType, SchoolCommunity, School, MEXICO
 from icpc_mexico.queries import get_by_type, get_best_by_school, get_school
+
+
+class WriteLineFunction(Protocol):
+    def __call__(self, line: str = '') -> None:
+        pass
 
 
 def analyze(contests: List[FinishedContest], schools: List[School], analysis_file: TextIO) -> None:
@@ -78,13 +83,14 @@ def analyze(contests: List[FinishedContest], schools: List[School], analysis_fil
 
     write_line(f'History of each TecNM first place ({len(first_place_tecnm_schools)}:')
     for school in sorted(first_place_tecnm_schools, key=lambda s: s.name):
-        analyze_school(school, contests, analysis_file)
+        _analyze_school(school, contests, write_line)
+
+    write_line('Mexico teams ranking by place percentile in World Finals:')
+
+    _analyze_team_rank(contests, write_line)
 
 
-def analyze_school(school: School, all_contests: List[FinishedContest], analysis_file: TextIO) -> None:
-    def write_line(line: str = '') -> None:
-        analysis_file.write(line + '\n')
-
+def _analyze_school(school: School, all_contests: List[FinishedContest], write_line: WriteLineFunction) -> None:
     write_line(f'  {school.name.title()}:')
     contests_by_year: Dict[int, List[FinishedContest]] = defaultdict(list)
     for contest in all_contests:
@@ -128,3 +134,30 @@ def analyze_school(school: School, all_contests: List[FinishedContest], analysis
             write_line(f'      Went to World Finals (solved {wf_team.problems_solved})')
 
     write_line()
+
+
+def _analyze_team_rank(all_contests: List[FinishedContest], write_line: WriteLineFunction) -> None:
+    teams = []
+    for contest in all_contests:
+        if contest.type != ContestType.WORLD:
+            continue
+
+        team_count = len(contest.team_results)
+        for team in contest.team_results:
+            if team.country != MEXICO or not team.problems_solved:
+                continue
+
+            percentile = (team_count - team.rank) / (team_count - 1)
+            teams.append((percentile, contest, team))
+
+    def team_sort(values):
+        percentile, contest, team = values
+        return (1 - percentile, team.rank, -team.problems_solved, contest.year, team.name)
+    teams.sort(key=team_sort)
+
+    write_line('Ranking of Mexican teams in World Finals:')
+    for (percentile, contest, team) in teams:
+        perc = round(percentile * 100)
+        write_line(f'  {perc}% {team.name} ({team.institution}), '
+                   f'solved {team.problems_solved} in {contest.year+1}, getting place {team.rank}')
+        print(team)

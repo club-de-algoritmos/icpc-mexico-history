@@ -30,7 +30,7 @@ def analyze(contests: List[FinishedContest], schools: List[School], analysis_fil
             if team.country != 'mexico':
                 continue
             community_desc = f', {team.community}' if team.community else ''
-            write_line(f'- #{team.rank} (#{team.country_rank} Mexico) (solved {team.problems_solved})'
+            write_line(f'- #{team.rank} (#{team.country_rank} México) (resolvió {team.problems_solved})'
                        f' {team.name} ({team.institution}{community_desc})')
         write_line()
 
@@ -56,7 +56,7 @@ def analyze(contests: List[FinishedContest], schools: List[School], analysis_fil
                 participated = True
                 write_line(f'### {contest.description()}')
                 write_line()
-            write_line(f'- #{team.rank} (#{team.country_rank} Mexico) (solved {team.problems_solved})'
+            write_line(f'- #{team.rank} (#{team.country_rank} México) (resolvió {team.problems_solved})'
                        f' {team.name} ({team.institution})')
 
             school = get_school(team.institution, schools)

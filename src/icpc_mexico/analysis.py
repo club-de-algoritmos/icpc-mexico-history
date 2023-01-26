@@ -97,14 +97,15 @@ def analyze(contests: List[FinishedContest], schools: List[School], analysis_fil
             write_line(f'- #{team.rank} (#{team.community_rank} TecNM) {team.name} ({team.institution})')
         write_line()
 
-    write_line(f'## Historial de cada primer lugar entre los TecNM ({len(first_place_tecnm_schools)}')
+    write_line('## Historial de cada primer lugar entre los TecNM')
     write_line()
     for school in sorted(first_place_tecnm_schools, key=lambda s: s.name):
         _analyze_school(school, contests, write_line)
 
 
 def _analyze_school(school: School, all_contests: List[FinishedContest], write_line: WriteLineFunction) -> None:
-    write_line(f'### {school.name.title()}')
+    write_line('<details>')
+    write_line(f'<summary>{school.name.title()}</summary>')
     write_line()
     contests_by_year: Dict[int, List[FinishedContest]] = defaultdict(list)
     for contest in all_contests:
@@ -148,6 +149,9 @@ def _analyze_school(school: School, all_contests: List[FinishedContest], write_l
         if wf_team:
             write_line(f'  - Avanzó a la final mundial (resolvió {wf_team.problems_solved})')
         write_line()
+
+    write_line('</details>')
+    write_line()
 
 
 TeamRank = Tuple[float, FinishedContest, TeamResult]

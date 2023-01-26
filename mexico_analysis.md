@@ -139,6 +139,7 @@
 - 64% Los Chidory (Universidad Panamericana Campus Bonaterra), resolvió 2 en 2014, obteniendo el lugar #45
 - 58% Los Románticos (Instituto Tecnológico Autónomo de México), resolvió 4 en 2017, obteniendo el lugar #56
 - 52% Turing Machines (Instituto Tecnológico de Culiacán), resolvió 3 en 2009, obteniendo el lugar #49
+
 ### Mención honorífica
 
 - 62% Leones(0,0,0) (Universidad de Guadalajara CUCEI), resolvió 3 en 2021, obteniendo el lugar #51
@@ -776,7 +777,8 @@
 
 ## Historial de cada primer lugar entre los TecNM (9
 
-### Instituto Tecnologico De Celaya
+<details>
+<summary>Instituto Tecnologico De Celaya</summary>
 
 #### 2001-2002
 
@@ -822,7 +824,10 @@
 
 - #126 (#19 TecNM) Frameworks (Clasificatorio)
 
-### Instituto Tecnologico De Ciudad Madero
+</details>
+
+<details>
+<summary>Instituto Tecnologico De Ciudad Madero</summary>
 
 #### 2000-2001
 
@@ -905,7 +910,10 @@
 
 - #381 (#75 TecNM) Runtime Terror (Clasificatorio)
 
-### Instituto Tecnologico De Culiacan
+</details>
+
+<details>
+<summary>Instituto Tecnologico De Culiacan</summary>
 
 #### 2006-2007
 
@@ -957,7 +965,10 @@
 
 - #39 (#3 TecNM) Ludus G++ (Clasificatorio)
 
-### Instituto Tecnologico De Mexicali
+</details>
+
+<details>
+<summary>Instituto Tecnologico De Mexicali</summary>
 
 #### 2004-2005
 
@@ -1007,7 +1018,10 @@
 
 - #381 (#75 TecNM) EquiPaco 1.9 (Clasificatorio)
 
-### Instituto Tecnologico De Morelia
+</details>
+
+<details>
+<summary>Instituto Tecnologico De Morelia</summary>
 
 #### 2009-2010
 
@@ -1041,7 +1055,10 @@
 
 - #381 (#75 TecNM) Pony Code (Clasificatorio)
 
-### Instituto Tecnologico De Queretaro
+</details>
+
+<details>
+<summary>Instituto Tecnologico De Queretaro</summary>
 
 #### 2001-2002
 
@@ -1103,7 +1120,10 @@
 
 - #190 (#22 TecNM) Los 3 reyes magos (Clasificatorio)
 
-### Instituto Tecnologico De Veracruz
+</details>
+
+<details>
+<summary>Instituto Tecnologico De Veracruz</summary>
 
 #### 2006-2007
 
@@ -1153,7 +1173,10 @@
 
 - #44 (#5 TecNM) fe++ (Clasificatorio)
 
-### Instituto Tecnologico Superior De Guanajuato
+</details>
+
+<details>
+<summary>Instituto Tecnologico Superior De Guanajuato</summary>
 
 #### 2014-2015
 
@@ -1191,7 +1214,10 @@
 
 - #381 (#75 TecNM) White Hat (Clasificatorio)
 
-### Instituto Tecnologico Superior Del Sur De Guanajuato
+</details>
+
+<details>
+<summary>Instituto Tecnologico Superior Del Sur De Guanajuato</summary>
 
 #### 2010-2011
 
@@ -1245,4 +1271,6 @@
 #### 2022-2023
 
 - #16 (#1 TecNM) Hugs for Bugs (Clasificatorio)
+
+</details>
 

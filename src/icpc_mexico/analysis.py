@@ -34,11 +34,16 @@ def analyze(contests: List[FinishedContest], schools: List[School], analysis_fil
                        f' {team.name} ({team.institution}{community_desc})')
         write_line()
 
+    _analyze_team_rank(contests, write_line)
+
     write_line('# Resultados del TecNM en el ICPC')
     write_line()
 
     write_line('## Final Mundial')
     write_line()
+
+    wf_tecnm_school_names: Set[str] = set()
+    wf_tecnm_schools: List[School] = []
     for contest in contests:
         if contest.type != ContestType.WORLD:
             continue
@@ -53,15 +58,17 @@ def analyze(contests: List[FinishedContest], schools: List[School], analysis_fil
                 write_line()
             write_line(f'- #{team.rank} (#{team.country_rank} Mexico) (solved {team.problems_solved})'
                        f' {team.name} ({team.institution})')
+
+            school = get_school(team.institution, schools)
+            if school.name not in wf_tecnm_school_names:
+                wf_tecnm_school_names.add(school.name)
+                wf_tecnm_schools.append(school)
+
         if participated:
             write_line()
 
-    _analyze_team_rank(contests, write_line)
-
-    write_line('## Top 20 en el regional de México')
+    write_line('## Top 5 en el regional de México')
     write_line()
-    first_place_tecnm_school_names: Set[str] = set()
-    first_place_tecnm_schools: List[School] = []
     for contest in contests:
         if contest.type != ContestType.REGIONAL:
             continue
@@ -71,35 +78,14 @@ def analyze(contests: List[FinishedContest], schools: List[School], analysis_fil
         for team in contest.team_results:
             if team.community != SchoolCommunity.TECNM:
                 continue
-            if team.community_rank > 20:
-                break
-            if team.community_rank == 1:
-                school = get_school(team.institution, schools)
-                if school.name not in first_place_tecnm_school_names:
-                    first_place_tecnm_school_names.add(school.name)
-                    first_place_tecnm_schools.append(school)
-            write_line(f'- #{team.rank} (#{team.community_rank} TecNM) {team.name} ({team.institution})')
-        write_line()
-
-    write_line('## Top 10 en el clasificatorio de México')
-    write_line()
-    for contest in contests:
-        if contest.type not in [ContestType.GRAN_PREMIO, ContestType.PROGRAMMING_BATTLE]:
-            continue
-
-        write_line(f'### {contest.description()}')
-        write_line()
-        for team in contest.team_results:
-            if team.community != SchoolCommunity.TECNM:
-                continue
-            if team.community_rank > 10:
+            if team.community_rank > 5:
                 break
             write_line(f'- #{team.rank} (#{team.community_rank} TecNM) {team.name} ({team.institution})')
         write_line()
 
-    write_line('## Historial de cada primer lugar entre los TecNM')
+    write_line('## Historial de cada TecNM que ha llegado a la final mundial')
     write_line()
-    for school in sorted(first_place_tecnm_schools, key=lambda s: s.name):
+    for school in sorted(wf_tecnm_schools, key=lambda s: s.name):
         _analyze_school(school, contests, write_line)
 
 

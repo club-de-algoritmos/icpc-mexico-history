@@ -16,21 +16,29 @@ def analyze(contests: List[FinishedContest], schools: List[School], analysis_fil
     def write_line(line: str = '') -> None:
         analysis_file.write(line + '\n')
 
-    write_line('Mexico in the World Finals:')
+    write_line('# Resultados de México en el ICPC')
+    write_line()
+
+    write_line('## Final Mundial')
+    write_line()
     for contest in contests:
         if contest.type != ContestType.WORLD:
             continue
 
-        write_line(f'  {contest.description()}:')
+        write_line(f'### {contest.description()}')
         for team in contest.team_results:
             if team.country != 'mexico':
                 continue
             community_desc = f', {team.community}' if team.community else ''
-            write_line(f'    #{team.rank} (#{team.country_rank} Mexico) (solved {team.problems_solved})'
+            write_line(f'- #{team.rank} (#{team.country_rank} Mexico) (solved {team.problems_solved})'
                        f' {team.name} ({team.institution}{community_desc})')
     write_line()
 
-    write_line('TecNM in World Finals:')
+    write_line('# Resultados del TecNM en el ICPC')
+    write_line()
+
+    write_line('## Final Mundial')
+    write_line()
     for contest in contests:
         if contest.type != ContestType.WORLD:
             continue
@@ -41,19 +49,24 @@ def analyze(contests: List[FinishedContest], schools: List[School], analysis_fil
                 continue
             if not participated:
                 participated = True
-                write_line(f'  {contest.description()}:')
-            write_line(f'    #{team.rank} (#{team.country_rank} Mexico) (solved {team.problems_solved})'
+                write_line(f'### {contest.description()}')
+                write_line()
+            write_line(f'- #{team.rank} (#{team.country_rank} Mexico) (solved {team.problems_solved})'
                        f' {team.name} ({team.institution})')
     write_line()
 
-    write_line('Top 20 TecNM in Mexico Finals:')
+    _analyze_team_rank(contests, write_line)
+
+    write_line('## Top 20 en el regional de México')
+    write_line()
     first_place_tecnm_school_names: Set[str] = set()
     first_place_tecnm_schools: List[School] = []
     for contest in contests:
         if contest.type != ContestType.REGIONAL:
             continue
 
-        write_line(f'  {contest.description()}:')
+        write_line(f'### {contest.description()}')
+        write_line()
         for team in contest.team_results:
             if team.community != SchoolCommunity.TECNM:
                 continue
@@ -64,32 +77,34 @@ def analyze(contests: List[FinishedContest], schools: List[School], analysis_fil
                 if school.name not in first_place_tecnm_school_names:
                     first_place_tecnm_school_names.add(school.name)
                     first_place_tecnm_schools.append(school)
-            write_line(f'    #{team.rank} (#{team.community_rank} TecNM) {team.name} ({team.institution})')
+            write_line(f'- #{team.rank} (#{team.community_rank} TecNM) {team.name} ({team.institution})')
     write_line()
 
-    write_line('Top 10 TecNM in Mexico Qualifiers:')
+    write_line('## Top 10 en el clasificatorio de México')
+    write_line()
     for contest in contests:
         if contest.type not in [ContestType.GRAN_PREMIO, ContestType.PROGRAMMING_BATTLE]:
             continue
 
-        write_line(f'  {contest.description()}:')
+        write_line(f'### {contest.description()}')
+        write_line()
         for team in contest.team_results:
             if team.community != SchoolCommunity.TECNM:
                 continue
             if team.community_rank > 10:
                 break
-            write_line(f'    #{team.rank} (#{team.community_rank} TecNM) {team.name} ({team.institution})')
+            write_line(f'- #{team.rank} (#{team.community_rank} TecNM) {team.name} ({team.institution})')
     write_line()
 
-    write_line(f'History of each TecNM first place ({len(first_place_tecnm_schools)}:')
+    write_line(f'## Historial de cada primer lugar entre los TecNM ({len(first_place_tecnm_schools)}')
+    write_line()
     for school in sorted(first_place_tecnm_schools, key=lambda s: s.name):
         _analyze_school(school, contests, write_line)
 
-    _analyze_team_rank(contests, write_line)
-
 
 def _analyze_school(school: School, all_contests: List[FinishedContest], write_line: WriteLineFunction) -> None:
-    write_line(f'  {school.name.title()}:')
+    write_line(f'### {school.name.title()}')
+    write_line()
     contests_by_year: Dict[int, List[FinishedContest]] = defaultdict(list)
     for contest in all_contests:
         contests_by_year[contest.year].append(contest)
@@ -102,7 +117,7 @@ def _analyze_school(school: School, all_contests: List[FinishedContest], write_l
         if regional:
             best_team = get_best_by_school(school, regional)
             if best_team:
-                result_type = 'Mexico Regional'
+                result_type = 'Regional'
 
         if not best_team:
             qualifier = get_by_type(ContestType.GRAN_PREMIO, contests)
@@ -112,7 +127,7 @@ def _analyze_school(school: School, all_contests: List[FinishedContest], write_l
             if qualifier:
                 best_team = get_best_by_school(school, qualifier)
                 if best_team:
-                    result_type = 'Mexico Qualifiers'
+                    result_type = 'Clasificatorio'
 
         wf_team = None
         world = get_by_type(ContestType.WORLD, contests)
@@ -122,14 +137,15 @@ def _analyze_school(school: School, all_contests: List[FinishedContest], write_l
         if not best_team and not wf_team:
             continue
 
-        write_line(f'    {year}-{year+1}:')
+        write_line(f'#### {year}-{year+1}')
+        write_line()
         if best_team:
             community_rank = ''
             if best_team.community == SchoolCommunity.TECNM:
                 community_rank = f' (#{best_team.community_rank} TecNM)'
-            write_line(f'      #{best_team.rank}{community_rank} {best_team.name} ({result_type})')
+            write_line(f'- #{best_team.rank}{community_rank} {best_team.name} ({result_type})')
         if wf_team:
-            write_line(f'      Went to World Finals (solved {wf_team.problems_solved})')
+            write_line(f'  - Avanzó a la final mundial (resolvió {wf_team.problems_solved})')
 
     write_line()
 
@@ -169,13 +185,16 @@ def _analyze_team_rank(all_contests: List[FinishedContest], write_line: WriteLin
     def print_team(team_rank: TeamRank) -> None:
         percentile, contest, team = team_rank
         perc = round(percentile * 100)
-        write_line(f'    {perc}% {team.name} ({team.institution}), '
-                   f'solved {team.problems_solved} in {contest.year+1}, getting place {team.rank}')
+        write_line(f'- {perc}% {team.name} ({team.institution}), '
+                   f'resolvió {team.problems_solved} en {contest.year+1}, obteniendo el lugar #{team.rank}')
 
-    write_line('Ranking of Mexican teams in World Finals:')
-    write_line('  Ranked in the top half:')
+    write_line('## Ranking de equipos')
+    write_line()
+    write_line('### Sobresalientes')
+    write_line()
     for team in high_teams:
         print_team(team)
-    write_line('  With honorable mention (solving at least one problem):')
+    write_line('### Mención honorífica')
+    write_line()
     for team in honorable_teams:
         print_team(team)

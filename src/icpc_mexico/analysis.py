@@ -30,7 +30,7 @@ def analyze(contests: List[FinishedContest], schools: List[School], analysis_fil
             if team.country != 'mexico':
                 continue
             community_desc = f', {team.community}' if team.community else ''
-            write_line(f'- #{team.rank} (#{team.country_rank} México) (resolvió {team.problems_solved})'
+            write_line(f'- #{team.rank} (#{team.country_rank} de México, resolvió {team.problems_solved})'
                        f' {team.name} ({team.institution}{community_desc})')
         write_line()
 
@@ -56,7 +56,7 @@ def analyze(contests: List[FinishedContest], schools: List[School], analysis_fil
                 participated = True
                 write_line(f'### {contest.description()}')
                 write_line()
-            write_line(f'- #{team.rank} (#{team.country_rank} México) (resolvió {team.problems_solved})'
+            write_line(f'- #{team.rank} (#{team.country_rank} de México, resolvió {team.problems_solved})'
                        f' {team.name} ({team.institution})')
 
             school = get_school(team.institution, schools)
@@ -80,7 +80,7 @@ def analyze(contests: List[FinishedContest], schools: List[School], analysis_fil
                 continue
             if team.community_rank > 5:
                 break
-            write_line(f'- #{team.rank} (#{team.community_rank} TecNM) {team.name} ({team.institution})')
+            write_line(f'- #{team.rank} (#{team.community_rank} de TecNM) {team.name} ({team.institution})')
         write_line()
 
     write_line('## Historial de cada TecNM que ha llegado a la final mundial')
@@ -130,10 +130,10 @@ def _analyze_school(school: School, all_contests: List[FinishedContest], write_l
         if best_team:
             community_rank = ''
             if best_team.community == SchoolCommunity.TECNM:
-                community_rank = f' (#{best_team.community_rank} TecNM)'
+                community_rank = f' (#{best_team.community_rank} de TecNM)'
             write_line(f'- #{best_team.rank}{community_rank} {best_team.name} ({result_type})')
         if wf_team:
-            write_line(f'  - Avanzó a la final mundial (resolvió {wf_team.problems_solved})')
+            write_line(f'  - Avanzó a la final mundial, donde resolvió {wf_team.problems_solved} problemas')
         write_line()
 
     write_line('</details>')

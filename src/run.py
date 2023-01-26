@@ -8,18 +8,18 @@ from icpc_mexico import processor, storage, analysis
 from icpc_mexico.data import FinishedContest, School
 
 
-def _get_data_filename(filename: str) -> str:
-    return os.path.join(os.getcwd(), 'data', filename)
+def _get_filename(filename: str, path: str = 'data') -> str:
+    return os.path.join(os.getcwd(), path, filename)
 
 
 def _get_contests(refresh_contests: bool) -> List[FinishedContest]:
-    contests_filename = _get_data_filename('icpc_mexico_results.json')
+    contests_filename = _get_filename('icpc_mexico_results.json')
     if refresh_contests or not os.path.exists(contests_filename):
         if refresh_contests:
             print('Refreshing contest data, querying the ICPC API')
         else:
             print(f'No contest data found in file {contests_filename}, querying the ICPC API')
-        contests = processor.get_finished_contests(_get_data_filename('icpc_mexico_contests.csv'))
+        contests = processor.get_finished_contests(_get_filename('icpc_mexico_contests.csv'))
         storage.store_contests(contests, contests_filename)
     else:
         print(f'Contest data found in file {contests_filename}, loading it')
@@ -28,7 +28,7 @@ def _get_contests(refresh_contests: bool) -> List[FinishedContest]:
 
 
 def _get_schools(refresh_schools: bool, contests: List[FinishedContest]) -> List[School]:
-    schools_filename = _get_data_filename('icpc_mexico_schools.json')
+    schools_filename = _get_filename('icpc_mexico_schools.json')
     if refresh_schools or not os.path.exists(schools_filename):
         if refresh_schools:
             print('Refreshing school data, calculating it')
@@ -52,6 +52,6 @@ if __name__ == '__main__':
 
     all_contests = _get_contests(args.refresh_contests)
     all_schools = _get_schools(args.refresh_schools, all_contests)
-    with open(_get_data_filename('mexico_analysis.txt'), 'w') as analysis_file:
+    with open(_get_filename('mexico_analysis.md', path=''), 'w') as analysis_file:
         all_contests = processor.compute_extra_team_results(all_contests, all_schools)
         analysis.analyze(all_contests, all_schools, analysis_file)

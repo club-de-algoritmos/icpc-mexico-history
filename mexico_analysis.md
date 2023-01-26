@@ -6,78 +6,100 @@
 - #53 (#1 Mexico) (solved 1) U de las Americas (Universidad de las Americas-Puebla)
 - #56 (#2 Mexico) (solved 1) ITESM ProZac (ITESM Campus Monterrey, Instituto Tecnologico y de Estudios Superiores de Monterrey)
 - #60 (#3 Mexico) (solved 0) ITESM GaToZ LoCoZ (ITESM Campus Estado de Mexico, Instituto Tecnologico y de Estudios Superiores de Monterrey)
+
 ### 1999-2000 The 2000 ACM Programming Contest World Finals
 - #22 (#1 Mexico) (solved 0) ITESM CEM GaToZ LoCoZ (ITESM Campus Estado de Mexico, Instituto Tecnologico y de Estudios Superiores de Monterrey)
 - #47 (#2 Mexico) (solved 0) U de las Americas Waxtron (Universidad de las Americas-Puebla)
+
 ### 2000-2001 The 2001 ACM Programming Contest World Finals
 - #59 (#1 Mexico) (solved 1) SWART (ITESM Campus Monterrey, Instituto Tecnologico y de Estudios Superiores de Monterrey)
 - #60 (#2 Mexico) (solved 0) IT. Madero (Instituto Tecnológico de Ciudad Madero, Tecnologico Nacional de Mexico)
+
 ### 2001-2002 The 2002 ACM Programming Contest World Finals
 - #47 (#1 Mexico) (solved 2) Los Pericos Brujos (ITESM Campus Monterrey, Instituto Tecnologico y de Estudios Superiores de Monterrey)
 - #57 (#2 Mexico) (solved 0) Tec Madero (Instituto Tecnológico de Ciudad Madero, Tecnologico Nacional de Mexico)
+
 ### 2002-2003 The 2003 ACM Programming Contest World Finals
 - #56 (#1 Mexico) (solved 0) Los Novatos (Universidad de las Americas-Puebla)
 - #56 (#1 Mexico) (solved 0) Mandelbrot (Universidad de Guanajuato)
+
 ### 2003-2004 The 2004 ACM Programming Contest World Finals
 - #68 (#1 Mexico) (solved 0) The Deadly Coding Squad (ITESM Campus Monterrey, Instituto Tecnologico y de Estudios Superiores de Monterrey)
 - #68 (#1 Mexico) (solved 0) Los novatos reloaded (Universidad de las Americas-Puebla)
+
 ### 2004-2005 The 2005 ACM Programming Contest World Finals
 - #69 (#1 Mexico) (solved 2) BUA de Puebla - Los Alfalfas (Benemérita Universidad Autónoma de Puebla)
 - #74 (#2 Mexico) (solved 1) UTMixteca Poor Dogs (Universidad Tecnológica de la Mixteca)
+
 ### 2005-2006 The 2006 ACM Programming Contest World Finals
 - #56 (#1 Mexico) (solved 1) UTMixteca NONAME (Universidad Tecnológica de la Mixteca)
 - #82 (#2 Mexico) (solved 0) UAT The Tlaxcallan Kings (Universidad Autónoma de Tlaxcala)
+
 ### 2006-2007 The 2007 ACM Programming Contest World Finals
 - #86 (#1 Mexico) (solved 0) Death Match (Benemérita Universidad Autónoma de Puebla)
 - #86 (#1 Mexico) (solved 0) Poor Dogs (Universidad Tecnológica de la Mixteca)
+
 ### 2007-2008 The 2008 ACM Programming Contest World Finals
 - #65 (#1 Mexico) (solved 2) U de G ACM Problem Solvers (Universidad de Guadalajara)
 - #90 (#2 Mexico) (solved 0) ITC Turing Machines (Instituto Tecnológico de Culiacán, Tecnologico Nacional de Mexico)
 - #90 (#2 Mexico) (solved 0) U de Guanajuato Hausdorff (Universidad de Guanajuato)
+
 ### 2008-2009 33rd Annual World Finals of the ACM International Collegiate Programming Contest
 - #49 (#1 Mexico) (solved 3) Turing Machines (Instituto Tecnológico de Culiacán, Tecnologico Nacional de Mexico)
 - #68 (#2 Mexico) (solved 0) MTY03 (ITESM Campus Monterrey, Instituto Tecnologico y de Estudios Superiores de Monterrey)
 - #68 (#2 Mexico) (solved 0) grajam (Universidad Tecnológica de la Mixteca)
+
 ### 2009-2010 34th Annual World Finals of the ACM International Collegiate Programming Contest
 - #76 (#1 Mexico) (solved 2) ITESM Queretaro Los punteros (ITESM Campus Queretaro, Instituto Tecnologico y de Estudios Superiores de Monterrey)
 - #77 (#2 Mexico) (solved 2) U Guanajuato Hausdorff (Universidad de Guanajuato)
+
 ### 2010-2011 35th Annual World Finals of the ACM International Collegiate Programming Contest
 - #74 (#1 Mexico) (solved 2) Manowar (Universidad de Guanajuato - CIMAT)
+
 ### 2011-2012 36th Annual World Finals of the ACM International Collegiate Programming Contest
 - #80 (#1 Mexico) (solved 2) Manowar (Universidad de Guanajuato - CIMAT)
 - #101 (#2 Mexico) (solved 1) Justice League (Universidad Tecnológica de la Mixteca)
 - #101 (#2 Mexico) (solved 1) C_mita (ITESM Campus Puebla, Instituto Tecnologico y de Estudios Superiores de Monterrey)
+
 ### 2012-2013 37th Annual World Finals of the ACM International Collegiate Programming Contest
 - #76 (#1 Mexico) (solved 2) AEI (Universidad Panamericana Campus Bonaterra)
 - #94 (#2 Mexico) (solved 1) Escoders (Escuela Superior De Computo Instituto Politecnico Nacional)
+
 ### 2013-2014 38th Annual World Finals of the ACM International Collegiate Programming Contest
 - #45 (#1 Mexico) (solved 2) Los Chidory (Universidad Panamericana Campus Bonaterra)
 - #80 (#2 Mexico) (solved 1) Hurones Pwneadores (Escuela Superior De Computo Instituto Politecnico Nacional)
 - #103 (#3 Mexico) (solved 0) Peludos (Universidad Autónoma de Aguascalientes)
+
 ### 2014-2015 39th Annual World Finals of the ACM International Collegiate Programming Contest
 - #96 (#1 Mexico) (solved 3) Escoolers (Escuela Superior De Computo Instituto Politecnico Nacional)
 - #110 (#2 Mexico) (solved 2) Peludos (Universidad Autónoma de Aguascalientes)
 - #121 (#3 Mexico) (solved 1) Locos (ITESM Campus Monterrey, Instituto Tecnologico y de Estudios Superiores de Monterrey)
+
 ### 2015-2016 40th Annual World Finals of the ACM International Collegiate Programming Contest
 - #69 (#1 Mexico) (solved 4) Los Románticos (Instituto Tecnológico Autónomo de México)
 - #92 (#2 Mexico) (solved 3) La Carabina del AC (Escuela Superior De Computo Instituto Politecnico Nacional)
 - #107 (#3 Mexico) (solved 2) HaKings (ITESM Campus Monterrey, Instituto Tecnologico y de Estudios Superiores de Monterrey)
+
 ### 2016-2017 41st Annual World Finals of the ACM International Collegiate Programming Contest
 - #56 (#1 Mexico) (solved 4) Los Románticos (Instituto Tecnológico Autónomo de México)
 - #57 (#2 Mexico) (solved 3) PU++ (Facultad de Ciencias-Universidad Nacional Autónoma de México)
 - #57 (#2 Mexico) (solved 3) Los A´S (Universidad Autónoma de Nuevo Leon)
+
 ### 2017-2018 42nd Annual World Finals of the International Collegiate Programming Contest
 - #31 (#1 Mexico) (solved 5) PU++ (Facultad de Ciencias-Universidad Nacional Autónoma de México)
 - #57 (#2 Mexico) (solved 3) Los A´s (Universidad Autónoma de Nuevo Leon)
 - #57 (#2 Mexico) (solved 2) Pragma (ITESM Campus Queretaro, Instituto Tecnologico y de Estudios Superiores de Monterrey)
+
 ### 2018-2019 43rd Annual World Finals of the International Collegiate Programming Contest
 - #63 (#1 Mexico) (solved 2) lA_Criba de ceros y unos (Escuela Superior De Computo Instituto Politecnico Nacional)
 - #63 (#1 Mexico) (solved 2) The Beat Alls (Instituto Tecnológico Autónomo de México)
 - #63 (#1 Mexico) (solved 2) Legendary Grandpupils (ITESM Campus Monterrey, Instituto Tecnologico y de Estudios Superiores de Monterrey)
 - #63 (#1 Mexico) (solved 2) #define TriLCI(404.0) :v (Instituto Tecnológico Superior del Sur de Guanajuato, Tecnologico Nacional de Mexico)
+
 ### 2019-2020 44th Annual World Finals of the International Collegiate Programming Contest
 - #47 (#1 Mexico) (solved None) E3 (Universidad de Guanajuato - DCNE)
 - #47 (#1 Mexico) (solved None) UPsolving (Universidad Panamericana Campus Bonaterra)
+
 ### 2020-2021 45th Annual World Finals of the International Collegiate Programming Contest
 - #41 (#1 Mexico) (solved 5) UPsolving (Universidad Panamericana Campus Bonaterra)
 - #51 (#2 Mexico) (solved 3) Leones(0,0,0) (Universidad de Guadalajara CUCEI)
@@ -91,15 +113,19 @@
 ### 2000-2001 The 2001 ACM Programming Contest World Finals
 
 - #60 (#2 Mexico) (solved 0) IT. Madero (Instituto Tecnológico de Ciudad Madero)
+
 ### 2001-2002 The 2002 ACM Programming Contest World Finals
 
 - #57 (#2 Mexico) (solved 0) Tec Madero (Instituto Tecnológico de Ciudad Madero)
+
 ### 2007-2008 The 2008 ACM Programming Contest World Finals
 
 - #90 (#2 Mexico) (solved 0) ITC Turing Machines (Instituto Tecnológico de Culiacán)
+
 ### 2008-2009 33rd Annual World Finals of the ACM International Collegiate Programming Contest
 
 - #49 (#1 Mexico) (solved 3) Turing Machines (Instituto Tecnológico de Culiacán)
+
 ### 2018-2019 43rd Annual World Finals of the International Collegiate Programming Contest
 
 - #63 (#1 Mexico) (solved 2) #define TriLCI(404.0) :v (Instituto Tecnológico Superior del Sur de Guanajuato)
@@ -149,6 +175,7 @@
 - 8% SWART (ITESM Campus Monterrey), resolvió 1 en 2001, obteniendo el lugar #59
 - 6% Locos (ITESM Campus Monterrey), resolvió 1 en 2015, obteniendo el lugar #121
 - 5% UTMixteca Poor Dogs (Universidad Tecnológica de la Mixteca), resolvió 1 en 2005, obteniendo el lugar #74
+
 ## Top 20 en el regional de México
 
 ### 2001-2002 The 2001 ACM Mexico and Central America Programming Contest
@@ -178,6 +205,7 @@
 - #55 (#13 TecNM) GATOS (Instituto Tecnologico de la Laguna)
 - #55 (#13 TecNM) Mapaches1 (Instituto Tecnológico de Zacatecas)
 - #55 (#13 TecNM) Zorros Blanco (Instituto Tecnológico de Querétaro)
+
 ### 2002-2003 The 2002 ACM Mexico and Central America Programming Contest
 
 - #4 (#1 TecNM) ITCM1 (Instituto Tecnológico de Ciudad Madero)
@@ -206,6 +234,7 @@
 - #27 (#3 TecNM) Black Cats II (Instituto Tecnologico de la Laguna)
 - #27 (#3 TecNM) Los Ponedores del ITL # 13 (Instituto Tecnologico de la Laguna)
 - #27 (#3 TecNM) ITL Black Cats (Instituto Tecnologico de la Laguna)
+
 ### 2003-2004 The 2003 ACM Mexico and Central America Programming Contest
 
 - #8 (#1 TecNM) Infrabit (Instituto Tecnologico de Celaya)
@@ -238,6 +267,7 @@
 - #41 (#9 TecNM) The Warriors (Instituto Tecnológico de Tuxtepec)
 - #41 (#9 TecNM) The What? (Instituto Tecnológico de Tuxtepec)
 - #41 (#9 TecNM) DOKARACY (Instituto Tecnologico de Celaya)
+
 ### 2004-2005 The 2004 ACM Mexico and Central America Programming Contest
 
 - #8 (#1 TecNM) bufalos (Instituto Tecnologico de Mexicali)
@@ -260,6 +290,7 @@
 - #79 (#18 TecNM) Zorros Naranja (Instituto Tecnológico de Querétaro)
 - #81 (#19 TecNM) Marco-Joel-Sergio (Instituto Tecnológico de Zacatecas)
 - #84 (#20 TecNM) Cuervos Sys (Instituto Tecnologico de Nuevo Leon)
+
 ### 2005-2006 The 2005 ACM Mexico and Central America Programming Contest
 
 - #25 (#1 TecNM) Ometochtli (Instituto Tecnológico de Ciudad Madero)
@@ -312,6 +343,7 @@
 - #85 (#11 TecNM) Jaguares I (Instituto Tecnologico Superior de Ciudad Hidalgo)
 - #85 (#11 TecNM) ITESZB (Instituto  Tecnológico de Estudios Superiores de Zamora )
 - #85 (#11 TecNM) ITSCe (Instituto Tecnológico Superior de Centla)
+
 ### 2006-2007 The 2006 ACM Mexico and Central America Programming Contest
 
 - #4 (#1 TecNM) marikatu (Instituto Tecnologico de Mexicali)
@@ -345,6 +377,7 @@
 - #85 (#19 TecNM) Halcones 2 (Instituto Tecnologico Superior de Loreto)
 - #85 (#19 TecNM) Halcones 1 (Instituto Tecnologico Superior de Loreto)
 - #85 (#19 TecNM) WASD (Instituto Tecnologico de Durango)
+
 ### 2007-2008 The 2007 ACM Mexico and Central America Programming Contest
 
 - #3 (#1 TecNM) ITC Turing Machines (Instituto Tecnológico de Culiacán)
@@ -390,6 +423,7 @@
 - #61 (#15 TecNM) Linces Blanco (Instituto Tecnologico de Celaya)
 - #61 (#15 TecNM) Haka (Instituto Tecnológico de Querétaro)
 - #61 (#15 TecNM) The Razorblade Fox Team (Instituto Tecnológico de Querétaro)
+
 ### 2008-2009 The 2008 Mexico & Central America Contest
 
 - #1 (#1 TecNM) Turing Machines (Instituto Tecnológico de Culiacán)
@@ -412,6 +446,7 @@
 - #84 (#18 TecNM) AlphaTeam (Instituto Tecnologico de Durango)
 - #85 (#19 TecNM) itesz02 (Instituto  Tecnológico de Estudios Superiores de Zamora )
 - #87 (#20 TecNM) Burritos-3 (Instituto Tecnológico de Saltillo)
+
 ### 2009-2010 The 2009 Mexico & Central America Contest
 
 - #16 (#1 TecNM) tec de Culiacán (Instituto Tecnológico de Culiacán)
@@ -434,6 +469,7 @@
 - #84 (#18 TecNM) 01 F1 Coders (Instituto Tecnológico Superior de Calkiní)
 - #85 (#19 TecNM) Fenix (Instituto Tecnólogico Superior de Zapopan)
 - #87 (#20 TecNM) Buchanans (Instituto Tecnologico Superior de Fresnillo)
+
 ### 2010-2011 The 2010 Mexico & Central America Regional Contest
 
 - #38 (#1 TecNM) Haka - ITQ (Instituto Tecnológico de Querétaro)
@@ -456,6 +492,7 @@
 - #102 (#18 TecNM) ITM 2 (Instituto Technologico de Morelia)
 - #102 (#18 TecNM) simpus_itsa (Instituto Tecnológico Superior de Apatzingan)
 - #106 (#20 TecNM) Autómatas (Instituto Tecnológico Superior de Calkiní)
+
 ### 2011-2012 The 2011 Mexico & Central America Regional Contest
 
 - #20 (#1 TecNM) ITM-3 (Instituto Technologico de Morelia)
@@ -478,6 +515,7 @@
 - #75 (#18 TecNM) Hamburgesa Feliz (Instituto Tecnologico de Nuevo Leon)
 - #77 (#19 TecNM) LOS OBLIGADOS (Instituto Tecnologico Superior de Lerdo)
 - #78 (#20 TecNM) Ardillas Cuanticas (Instituto Tecnológico de Saltillo)
+
 ### 2012-2013 The 2012 Mexico & Central America Regional Contest
 
 - #9 (#1 TecNM) Javadabadoo (Instituto Tecnológico de Ciudad Madero)
@@ -500,6 +538,7 @@
 - #46 (#17 TecNM) Tec Morelia 1 (Instituto Technologico de Morelia)
 - #52 (#19 TecNM) Los Mininos (Instituto Tecnologico Superior de Fresnillo)
 - #53 (#20 TecNM) SIMPUS YGGDRASIL (Instituto Tecnológico Superior de Apatzingan)
+
 ### 2013-2014 The 2013 Mexico & Central America Regional Contest
 
 - #8 (#1 TecNM) ITSUR-MIXLANG CODERS (Instituto Tecnológico Superior del Sur de Guanajuato)
@@ -522,6 +561,7 @@
 - #86 (#18 TecNM) Coyotes Betha (Instituto Tecnologico Superior de Los Reyes)
 - #87 (#19 TecNM) Los viajeros del ITSP (Instituto Tecnológico Superior de Pánuco)
 - #89 (#20 TecNM) HashTable (Instituto Tecnológico Superior de Calkiní)
+
 ### 2014-2015 The 2014 ACM-ICPC Mexico and Central America Finals
 
 - #9 (#1 TecNM) JRA (Instituto Tecnológico de Culiacán)
@@ -537,6 +577,7 @@
 - #58 (#11 TecNM) Last_Generation (Instituto Tecnologico Superior de Ciudad Hidalgo)
 - #59 (#12 TecNM) Mozzart (Instituto Tecnologico Superior de Los Reyes)
 - #60 (#13 TecNM) COYOTES BeTha (Instituto Tecnologico Superior de Los Reyes)
+
 ### 2015-2016 The 2015 ACM-ICPC Mexico and Central America Finals
 
 - #11 (#1 TecNM) Laughing Coffee (Instituto Tecnológico Superior del Sur de Guanajuato)
@@ -554,6 +595,7 @@
 - #70 (#13 TecNM) Badrock Team (Instituto Tecnologico Superior de Ciudad Hidalgo)
 - #74 (#14 TecNM) RAL Machine (Instituto Tecnológico Superior de El Mante)
 - #76 (#15 TecNM) MASTER.NET (Instituto Tecnologico Superior de Lerdo)
+
 ### 2016-2017 The 2016 ACM-ICPC Mexico and Central America Finals
 
 - #13 (#1 TecNM) FastFingers lml (Instituto Tecnológico de Veracruz)
@@ -569,6 +611,7 @@
 - #75 (#11 TecNM) MASTER.NET (Instituto Tecnologico Superior de Lerdo)
 - #76 (#12 TecNM) Las Chonchas (Instituto Tecnologico Superior de Los Reyes)
 - #83 (#13 TecNM) Brave System (Instituto Tecnológico Superior del Sur de Guanajuato)
+
 ### 2017-2018 The 2017 ACM-ICPC Mexico and Central America Finals
 
 - #8 (#1 TecNM) define TriLCI 404 (Instituto Tecnológico Superior del Sur de Guanajuato)
@@ -577,6 +620,7 @@
 - #38 (#4 TecNM) Eternity (Instituto Tecnológico de Veracruz)
 - #39 (#5 TecNM) LOS RELIGIOSOS (Instituto Tecnológico Superior de Guanajuato)
 - #70 (#6 TecNM) Los Rolones (Instituto Tecnologico Superior de Los Reyes)
+
 ### 2018-2019 The 2018 ICPC Mexico and Central America Finals
 
 - #4 (#1 TecNM) #define TriLCI(404.0) :v (Instituto Tecnológico Superior del Sur de Guanajuato)
@@ -585,6 +629,7 @@
 - #36 (#4 TecNM) Code4Life (Instituto Tecnológico de Veracruz)
 - #51 (#5 TecNM) Base16 (Instituto Tecnológico de Lázaro Cárdenas)
 - #70 (#6 TecNM) Los R3y3s (Instituto Tecnologico Superior de Los Reyes)
+
 ### 2019-2020 The 2019 ICPC Mexico Finals
 
 - #3 (#1 TecNM) #define TriLCI(404.0) :v (Instituto Tecnológico Superior del Sur de Guanajuato)
@@ -592,6 +637,7 @@
 - #24 (#3 TecNM) Another Day, another AC (Instituto Tecnológico Superior del Sur de Guanajuato)
 - #25 (#4 TecNM) Promised Rinascimento (Instituto Tecnológico Superior de Guanajuato)
 - #51 (#5 TecNM) Ti-Tanis (Instituto Tecnológico de Ciudad Guzmán)
+
 ### 2020-2021 The 2020 ICPC Mexico Finals
 
 - #29 (#1 TecNM) 010 girls & 001 Mike (Instituto Tecnológico Superior del Sur de Guanajuato)
@@ -599,6 +645,7 @@
 - #38 (#3 TecNM) PañaleraSquad (Instituto Tecnológico de Querétaro)
 - #39 (#4 TecNM) A verdad me engañe (Instituto Tecnologico de Nuevo Leon)
 - #43 (#5 TecNM) <CodeBreakers/> (Instituto Tecnológico de Veracruz)
+
 ### 2021-2022 The 2021 ICPC Mexico Finals
 
 - #19 (#1 TecNM) Promised Rinascimento (Instituto Tecnológico Superior de Guanajuato)
@@ -622,6 +669,7 @@
 - #63 (#8 TecNM) New cholos nazis (Instituto Tecnológico de Veracruz)
 - #68 (#9 TecNM) Legio I Germania (Instituto Tecnológico Superior de Guanajuato)
 - #75 (#10 TecNM) Javadabadoo (Instituto Tecnológico de Ciudad Madero)
+
 ### 2015-2016 Gran Premio de Mexico & Centroamerica
 
 - #13 (#1 TecNM) Laughing Coffee (Instituto Tecnológico Superior del Sur de Guanajuato)
@@ -634,6 +682,7 @@
 - #55 (#8 TecNM) The Winner Pattern (Instituto Tecnológico Superior del Sur de Guanajuato)
 - #58 (#9 TecNM) silumgar (Instituto Tecnologico de Nuevo Leon)
 - #60 (#10 TecNM) FastFingers lml (Instituto Tecnológico de Veracruz)
+
 ### 2016-2017 Gran Premio de Mexico & Centroamerica
 
 - #11 (#1 TecNM) ITSUR MIX LANG COFFEE (Instituto Tecnológico Superior del Sur de Guanajuato)
@@ -646,6 +695,7 @@
 - #64 (#8 TecNM) LoboWar (Instituto Tecnologico Superior de Ciudad Hidalgo)
 - #76 (#9 TecNM) Brave System (Instituto Tecnológico Superior del Sur de Guanajuato)
 - #78 (#10 TecNM) Legio I (Instituto Tecnológico Superior de Guanajuato)
+
 ### 2017-2018 Gran Premio de Mexico & Centroamerica 2017
 
 - #2 (#1 TecNM) define TriLCI 404 (Instituto Tecnológico Superior del Sur de Guanajuato)
@@ -658,6 +708,7 @@
 - #83 (#8 TecNM) HeavyMachineGun (Instituto Tecnológico de Veracruz)
 - #91 (#9 TecNM) Ustedes (Instituto Tecnológico de Ciudad Guzmán)
 - #102 (#10 TecNM) LosMenosUno (Instituto Tecnologico Superior de Los Reyes)
+
 ### 2018-2019 Gran Premio de Mexico 2018
 
 - #2 (#1 TecNM) #define TriLCI(404.0) :v (Instituto Tecnológico Superior del Sur de Guanajuato)
@@ -670,6 +721,7 @@
 - #81 (#8 TecNM) LoboGuar (Instituto Tecnologico Superior de Ciudad Hidalgo)
 - #89 (#9 TecNM) Davi`s team (Instituto Tecnológico Superior del Sur de Guanajuato)
 - #92 (#10 TecNM) jaguares++ (Instituto Tecnologico Superior de Ciudad Hidalgo)
+
 ### 2019-2020 Gran Premio de Mexico 2019
 
 - #3 (#1 TecNM) #define TriLCI(404.0) :v (Instituto Tecnológico Superior del Sur de Guanajuato)
@@ -682,6 +734,7 @@
 - #65 (#8 TecNM) Los Bad Bunny (Instituto Tecnológico Superior del Sur de Guanajuato)
 - #66 (#9 TecNM) C#io (Instituto Tecnologico Superior de Los Reyes)
 - #89 (#10 TecNM) SYSTEM 32 (Instituto Tecnológico de Ciudad Guzmán)
+
 ### 2020-2021 Gran Premio de Mexico 2020
 
 - #19 (#1 TecNM) Too lazy to propagate (Instituto Tecnológico Superior del Sur de Guanajuato)
@@ -694,6 +747,7 @@
 - #79 (#8 TecNM) base16 (Instituto Tecnológico de Lázaro Cárdenas)
 - #81 (#9 TecNM) THE MASTER (Instituto Tecnologico Superior de Lerdo)
 - #135 (#10 TecNM) GrafosSolution (Instituto Tecnológico de Veracruz)
+
 ### 2021-2022 The 2021 ICPC Gran Premio de Mexico
 
 - #32 (#1 TecNM) 010 girls & 001 Mike (Instituto Tecnológico Superior del Sur de Guanajuato)
@@ -706,6 +760,7 @@
 - #99 (#8 TecNM) Peter-O-Clown (Instituto Tecnológico Superior del Sur de Guanajuato)
 - #105 (#9 TecNM) Los Estafados de Talan (Instituto Tecnológico Superior del Sur de Guanajuato)
 - #121 (#10 TecNM) G2 (Instituto Tecnologico Superior de Lerdo)
+
 ### 2022-2023 The 2022 ICPC Gran Premio de Mexico
 
 - #16 (#1 TecNM) Hugs for Bugs (Instituto Tecnológico Superior del Sur de Guanajuato)
@@ -726,33 +781,43 @@
 #### 2001-2002
 
 - #16 (#4 TecNM) bichos (Regional)
+
 #### 2003-2004
 
 - #8 (#1 TecNM) Infrabit (Regional)
+
 #### 2004-2005
 
 - #56 (#11 TecNM) INFRABIT (Regional)
+
 #### 2005-2006
 
 - #85 (#11 TecNM) InfraBit (Regional)
+
 #### 2006-2007
 
 - #11 (#3 TecNM) Linces 2 (Regional)
+
 #### 2007-2008
 
 - #61 (#15 TecNM) Linces Verde (Regional)
+
 #### 2014-2015
 
 - #146 (#35 TecNM) Linces Blanco (Clasificatorio)
+
 #### 2017-2018
 
 - #274 (#61 TecNM) omegaUp-ITC (Clasificatorio)
+
 #### 2018-2019
 
 - #65 (#7 TecNM) Linx Celaya (Clasificatorio)
+
 #### 2021-2022
 
 - #226 (#36 TecNM) Mechalynxtronics (Clasificatorio)
+
 #### 2022-2023
 
 - #126 (#19 TecNM) Frameworks (Clasificatorio)
@@ -762,61 +827,80 @@
 #### 2000-2001
 
   - Avanzó a la final mundial (resolvió 0)
+
 #### 2001-2002
 
 - #1 (#1 TecNM) Tec Madero (Regional)
   - Avanzó a la final mundial (resolvió 0)
+
 #### 2002-2003
 
 - #4 (#1 TecNM) ITCM1 (Regional)
+
 #### 2003-2004
 
 - #13 (#2 TecNM) ITCM3- The Ants (Regional)
+
 #### 2004-2005
 
 - #26 (#5 TecNM) Ometochtli (Regional)
+
 #### 2005-2006
 
 - #25 (#1 TecNM) Ometochtli (Regional)
+
 #### 2007-2008
 
 - #61 (#15 TecNM) Hola (Regional)
+
 #### 2008-2009
 
 - #90 (#22 TecNM) Hola (Regional)
+
 #### 2009-2010
 
 - #32 (#3 TecNM) KCI (Regional)
+
 #### 2011-2012
 
 - #44 (#5 TecNM) Yip Yip (Regional)
+
 #### 2012-2013
 
 - #9 (#1 TecNM) Javadabadoo (Regional)
+
 #### 2013-2014
 
 - #62 (#10 TecNM) JavaDabaDoo (Regional)
+
 #### 2014-2015
 
 - #51 (#8 TecNM) HyVent (Regional)
+
 #### 2015-2016
 
 - #108 (#28 TecNM) Tacodes (Clasificatorio)
+
 #### 2016-2017
 
 - #39 (#4 TecNM) leopardos (Regional)
+
 #### 2017-2018
 
 - #241 (#48 TecNM) Teamgusgus (Clasificatorio)
+
 #### 2019-2020
 
 - #361 (#86 TecNM) Dejavu (Clasificatorio)
+
 #### 2020-2021
 
 - #351 (#65 TecNM) Getters (Clasificatorio)
+
 #### 2021-2022
 
 - #226 (#36 TecNM) Los Tlacuachos:v (Clasificatorio)
+
 #### 2022-2023
 
 - #381 (#75 TecNM) Runtime Terror (Clasificatorio)
@@ -826,38 +910,49 @@
 #### 2006-2007
 
 - #27 (#6 TecNM) StackOverflow (Regional)
+
 #### 2007-2008
 
 - #3 (#1 TecNM) ITC Turing Machines (Regional)
   - Avanzó a la final mundial (resolvió 0)
+
 #### 2008-2009
 
 - #1 (#1 TecNM) Turing Machines (Regional)
   - Avanzó a la final mundial (resolvió 3)
+
 #### 2009-2010
 
 - #16 (#1 TecNM) tec de Culiacán (Regional)
+
 #### 2010-2011
 
 - #69 (#8 TecNM) Three Little Bits (Regional)
+
 #### 2011-2012
 
 - #48 (#6 TecNM) Three Bits (Regional)
+
 #### 2012-2013
 
 - #12 (#2 TecNM) Three Bits (Regional)
+
 #### 2013-2014
 
 - #39 (#3 TecNM) Dynamic (Regional)
+
 #### 2014-2015
 
 - #9 (#1 TecNM) JRA (Regional)
+
 #### 2015-2016
 
 - #108 (#28 TecNM) EPN Y LOS 43? (Clasificatorio)
+
 #### 2021-2022
 
 - #36 (#5 TecNM) Ludus G++ (Regional)
+
 #### 2022-2023
 
 - #39 (#3 TecNM) Ludus G++ (Clasificatorio)
@@ -867,36 +962,47 @@
 #### 2004-2005
 
 - #8 (#1 TecNM) bufalos (Regional)
+
 #### 2005-2006
 
 - #85 (#11 TecNM) bufaloITM (Regional)
+
 #### 2006-2007
 
 - #4 (#1 TecNM) marikatu (Regional)
+
 #### 2007-2008
 
 - #41 (#8 TecNM) mani (Regional)
+
 #### 2008-2009
 
 - #70 (#11 TecNM) J-UNIT RELOADED (Regional)
+
 #### 2010-2011
 
 - #156 (#44 TecNM) MXL 7.2 (Regional)
+
 #### 2011-2012
 
 - #72 (#16 TecNM) ACM1PTPLZ (Regional)
+
 #### 2012-2013
 
 - #45 (#16 TecNM) ++TEC (Regional)
+
 #### 2013-2014
 
 - #85 (#17 TecNM) ++TPython (Regional)
+
 #### 2020-2021
 
 - #351 (#65 TecNM) SLEEK_STYLE (Clasificatorio)
+
 #### 2021-2022
 
 - #226 (#36 TecNM) Niños_Buenos (Clasificatorio)
+
 #### 2022-2023
 
 - #381 (#75 TecNM) EquiPaco 1.9 (Clasificatorio)
@@ -906,24 +1012,31 @@
 #### 2009-2010
 
 - #67 (#12 TecNM) Fail (Regional)
+
 #### 2010-2011
 
 - #102 (#18 TecNM) ITM 2 (Regional)
+
 #### 2011-2012
 
 - #20 (#1 TecNM) ITM-3 (Regional)
+
 #### 2012-2013
 
 - #46 (#17 TecNM) Tec Morelia 1 (Regional)
+
 #### 2013-2014
 
 - #18 (#2 TecNM) TecMorelia2 (Regional)
+
 #### 2020-2021
 
 - #273 (#32 TecNM) VISUAL DIM (Clasificatorio)
+
 #### 2021-2022
 
 - #226 (#36 TecNM) Rubber Duckies (Clasificatorio)
+
 #### 2022-2023
 
 - #381 (#75 TecNM) Pony Code (Clasificatorio)
@@ -933,45 +1046,59 @@
 #### 2001-2002
 
 - #55 (#13 TecNM) Zorros Naranja (Regional)
+
 #### 2003-2004
 
 - #41 (#9 TecNM) Zorros Blanco (Regional)
+
 #### 2004-2005
 
 - #36 (#7 TecNM) Zorros Blanco (Regional)
+
 #### 2006-2007
 
 - #66 (#14 TecNM) Zorros Naranja (Regional)
+
 #### 2007-2008
 
 - #38 (#7 TecNM) Black Fox Army (Regional)
+
 #### 2008-2009
 
 - #42 (#4 TecNM) Haka (Regional)
+
 #### 2009-2010
 
 - #20 (#2 TecNM) Haka ITQ (Regional)
+
 #### 2010-2011
 
 - #38 (#1 TecNM) Haka - ITQ (Regional)
+
 #### 2011-2012
 
 - #98 (#29 TecNM) Haka 2.0 (Regional)
+
 #### 2012-2013
 
 - #70 (#27 TecNM) HAKA 2.0 (Regional)
+
 #### 2016-2017
 
 - #121 (#20 TecNM) NWA (Clasificatorio)
+
 #### 2018-2019
 
 - #201 (#31 TecNM) R00T (Clasificatorio)
+
 #### 2019-2020
 
 - #382 (#98 TecNM) BaalCode (Clasificatorio)
+
 #### 2020-2021
 
 - #38 (#3 TecNM) PañaleraSquad (Regional)
+
 #### 2021-2022
 
 - #190 (#22 TecNM) Los 3 reyes magos (Clasificatorio)
@@ -981,36 +1108,47 @@
 #### 2006-2007
 
 - #85 (#19 TecNM) IT-Veracruz (Regional)
+
 #### 2012-2013
 
 - #31 (#10 TecNM) ACMIPT (Regional)
+
 #### 2013-2014
 
 - #67 (#11 TecNM) El Equipo Rocket (Regional)
+
 #### 2014-2015
 
 - #39 (#5 TecNM) Long-aniza (Regional)
+
 #### 2015-2016
 
 - #34 (#3 TecNM) FastFingers lml (Regional)
+
 #### 2016-2017
 
 - #13 (#1 TecNM) FastFingers lml (Regional)
+
 #### 2017-2018
 
 - #28 (#2 TecNM) Warriors Z (Regional)
+
 #### 2018-2019
 
 - #36 (#4 TecNM) Code4Life (Regional)
+
 #### 2019-2020
 
 - #167 (#23 TecNM) <CodeBreakers/> (Clasificatorio)
+
 #### 2020-2021
 
 - #43 (#5 TecNM) <CodeBreakers/> (Regional)
+
 #### 2021-2022
 
 - #226 (#36 TecNM) Pollos in Pantuflas (Clasificatorio)
+
 #### 2022-2023
 
 - #44 (#5 TecNM) fe++ (Clasificatorio)
@@ -1020,27 +1158,35 @@
 #### 2014-2015
 
 - #30 (#3 TecNM) Legio I Germania (Regional)
+
 #### 2015-2016
 
 - #47 (#6 TecNM) Moyos (Regional)
+
 #### 2016-2017
 
 - #34 (#3 TecNM) Los religiosos (Regional)
+
 #### 2017-2018
 
 - #39 (#5 TecNM) LOS RELIGIOSOS (Regional)
+
 #### 2018-2019
 
 - #27 (#3 TecNM) Promised Rinascimento (Regional)
+
 #### 2019-2020
 
 - #25 (#4 TecNM) Promised Rinascimento (Regional)
+
 #### 2020-2021
 
 - #282 (#35 TecNM) Promised Rinascimento (Clasificatorio)
+
 #### 2021-2022
 
 - #19 (#1 TecNM) Promised Rinascimento (Regional)
+
 #### 2022-2023
 
 - #381 (#75 TecNM) White Hat (Clasificatorio)
@@ -1050,40 +1196,52 @@
 #### 2010-2011
 
 - #131 (#33 TecNM) ITSUR-1 (Regional)
+
 #### 2011-2012
 
 - #65 (#13 TecNM) ITSUR (Regional)
+
 #### 2012-2013
 
 - #29 (#8 TecNM) ITSUR_1 (Regional)
+
 #### 2013-2014
 
 - #8 (#1 TecNM) ITSUR-MIXLANG CODERS (Regional)
+
 #### 2014-2015
 
 - #10 (#2 TecNM) ITSUR MIX LANG CODERS (Regional)
+
 #### 2015-2016
 
 - #11 (#1 TecNM) Laughing Coffee (Regional)
+
 #### 2016-2017
 
 - #14 (#2 TecNM) ITSUR MIX LANG COFFEE (Regional)
+
 #### 2017-2018
 
 - #8 (#1 TecNM) define TriLCI 404 (Regional)
+
 #### 2018-2019
 
 - #4 (#1 TecNM) #define TriLCI(404.0) :v (Regional)
   - Avanzó a la final mundial (resolvió 2)
+
 #### 2019-2020
 
 - #3 (#1 TecNM) #define TriLCI(404.0) :v (Regional)
+
 #### 2020-2021
 
 - #29 (#1 TecNM) 010 girls & 001 Mike (Regional)
+
 #### 2021-2022
 
 - #30 (#2 TecNM) Too lazy to propagate (Regional)
+
 #### 2022-2023
 
 - #16 (#1 TecNM) Hugs for Bugs (Clasificatorio)

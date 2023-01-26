@@ -32,7 +32,7 @@ def analyze(contests: List[FinishedContest], schools: List[School], analysis_fil
             community_desc = f', {team.community}' if team.community else ''
             write_line(f'- #{team.rank} (#{team.country_rank} Mexico) (solved {team.problems_solved})'
                        f' {team.name} ({team.institution}{community_desc})')
-    write_line()
+        write_line()
 
     write_line('# Resultados del TecNM en el ICPC')
     write_line()
@@ -53,7 +53,8 @@ def analyze(contests: List[FinishedContest], schools: List[School], analysis_fil
                 write_line()
             write_line(f'- #{team.rank} (#{team.country_rank} Mexico) (solved {team.problems_solved})'
                        f' {team.name} ({team.institution})')
-    write_line()
+        if participated:
+            write_line()
 
     _analyze_team_rank(contests, write_line)
 
@@ -78,7 +79,7 @@ def analyze(contests: List[FinishedContest], schools: List[School], analysis_fil
                     first_place_tecnm_school_names.add(school.name)
                     first_place_tecnm_schools.append(school)
             write_line(f'- #{team.rank} (#{team.community_rank} TecNM) {team.name} ({team.institution})')
-    write_line()
+        write_line()
 
     write_line('## Top 10 en el clasificatorio de México')
     write_line()
@@ -94,7 +95,7 @@ def analyze(contests: List[FinishedContest], schools: List[School], analysis_fil
             if team.community_rank > 10:
                 break
             write_line(f'- #{team.rank} (#{team.community_rank} TecNM) {team.name} ({team.institution})')
-    write_line()
+        write_line()
 
     write_line(f'## Historial de cada primer lugar entre los TecNM ({len(first_place_tecnm_schools)}')
     write_line()
@@ -146,8 +147,7 @@ def _analyze_school(school: School, all_contests: List[FinishedContest], write_l
             write_line(f'- #{best_team.rank}{community_rank} {best_team.name} ({result_type})')
         if wf_team:
             write_line(f'  - Avanzó a la final mundial (resolvió {wf_team.problems_solved})')
-
-    write_line()
+        write_line()
 
 
 TeamRank = Tuple[float, FinishedContest, TeamResult]
@@ -190,11 +190,15 @@ def _analyze_team_rank(all_contests: List[FinishedContest], write_line: WriteLin
 
     write_line('## Ranking de equipos')
     write_line()
+
     write_line('### Sobresalientes')
     write_line()
     for team in high_teams:
         print_team(team)
+    write_line()
+
     write_line('### Mención honorífica')
     write_line()
     for team in honorable_teams:
         print_team(team)
+    write_line()

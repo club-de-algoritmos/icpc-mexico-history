@@ -1,5 +1,7 @@
 # Instituto Tecnologico De Parral
 
+:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
+
 ## 2003-2004
 
 - #41 (#9 de TecNM) ITParral (Regional)
@@ -31,10 +33,18 @@
 ## 2019-2020
 
 - #255 (#47 de TecNM) Espartanos (Clasificatorio)
+- #382 (#98 de TecNM) Fenixoft (Clasificatorio)
+- #382 (#98 de TecNM) Helljumpers [maruchan] (Clasificatorio)
+- #382 (#98 de TecNM) DE COMPUTO 3.0 (Clasificatorio)
+- #382 (#98 de TecNM) Codigo de Rehuso (Clasificatorio)
+- #382 (#98 de TecNM) ALT+F4 (Clasificatorio)
 
 ## 2020-2021
 
 - #178 (#18 de TecNM) Spacetacular (Clasificatorio)
+- #211 (#23 de TecNM) Bichologos (Clasificatorio)
+- #245 (#27 de TecNM) Camisas Rojas (Clasificatorio)
+- #351 (#65 de TecNM) Espartanos_itp (Clasificatorio)
 
 ## 2021-2022
 

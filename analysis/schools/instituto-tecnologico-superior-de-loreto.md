@@ -1,12 +1,18 @@
 # Instituto Tecnologico Superior De Loreto
 
+:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
+
 ## 2005-2006
 
 - #85 (#11 de TecNM) ZORRO1 (Regional)
+- #85 (#11 de TecNM) ZORRO2 (Regional)
+- #85 (#11 de TecNM) ZORRO3 (Regional)
 
 ## 2006-2007
 
 - #85 (#19 de TecNM) Halcones2 (Regional)
+- #85 (#19 de TecNM) Halcones 2 (Regional)
+- #85 (#19 de TecNM) Halcones 1 (Regional)
 
 ## 2008-2009
 
@@ -19,5 +25,12 @@
 ## 2018-2019
 
 - #377 (#90 de TecNM) Beaners_Loreto (Clasificatorio)
+- #381 (#93 de TecNM) Heavy Metal (Clasificatorio)
+- #387 (#96 de TecNM) Fenix (Clasificatorio)
+- #394 (#103 de TecNM) Alcontec (Clasificatorio)
+- #394 (#103 de TecNM) bloodfallel (Clasificatorio)
+- #394 (#103 de TecNM) J&H (Clasificatorio)
+- #394 (#103 de TecNM) Picateclas (Clasificatorio)
+- #394 (#103 de TecNM) Scorpions_Loreto (Clasificatorio)
 
 

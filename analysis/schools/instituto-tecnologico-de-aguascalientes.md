@@ -1,5 +1,7 @@
 # Instituto Tecnologico De Aguascalientes
 
+:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
+
 ## 2013-2014
 
 - #94 (#23 de TecNM) Encoded (Regional)
@@ -7,6 +9,8 @@
 ## 2019-2020
 
 - #382 (#98 de TecNM) GC: Geek Code (Clasificatorio)
+- #382 (#98 de TecNM) Discípulos de Ponce (Clasificatorio)
+- #382 (#98 de TecNM) DVS (Clasificatorio)
 
 ## 2020-2021
 

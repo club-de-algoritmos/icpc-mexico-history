@@ -19,8 +19,12 @@ def get_by_type(contest_type: ContestType, contests: List[FinishedContest]) -> O
     return None
 
 
+def get_by_school(school: School, contest: FinishedContest) -> List[TeamResult]:
+    return [team for team in contest.team_results if school.matches_name(team.institution)]
+
+
 def get_best_by_school(school: School, contest: FinishedContest) -> Optional[TeamResult]:
-    for team in contest.team_results:
-        if school.matches_name(team.institution):
-            return team
+    teams = get_by_school(school, contest)
+    if teams:
+        return teams[0]
     return None

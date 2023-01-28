@@ -1,5 +1,7 @@
 # Itesm Campus Cuernavaca
 
+:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
+
 ## 2003-2004
 
 - #35 Cuernavaca (Regional)
@@ -11,10 +13,13 @@
 ## 2006-2007
 
 - #18 Chevaliers (Regional)
+- #72 Le Cancer (Regional)
 
 ## 2008-2009
 
 - #23 Cancer (Regional)
+- #82 S.T.A.R.S.  (Regional)
+- #86 Happy Hippo (Regional)
 
 ## 2009-2010
 
@@ -27,22 +32,34 @@
 ## 2015-2016
 
 - #107 Hardcoding (Clasificatorio)
+- #107 Thunders (Clasificatorio)
 
 ## 2016-2017
 
 - #121 Los destructores (Clasificatorio)
+- #121 STL Team (Clasificatorio)
+- #121 Neto y los OMI (Clasificatorio)
+- #121 Espartanos (Clasificatorio)
 
 ## 2017-2018
 
 - #100 EpicTeam (Clasificatorio)
+- #123 Los que no vinieron (Clasificatorio)
+- #140 Olympus (Clasificatorio)
+- #299 For Honor (Clasificatorio)
+- #344 MBuzdalovers (Clasificatorio)
+- #405 DreamTeam (Clasificatorio)
+- #405 Charmanders (Clasificatorio)
 
 ## 2018-2019
 
 - #26 RAM (Regional)
+- #122 Team.jar (Clasificatorio)
 
 ## 2019-2020
 
 - #43 Los que no vinieron (Regional)
+- #192 Rike Polle de 10 pesitos (Clasificatorio)
 
 ## 2020-2021
 
@@ -55,5 +72,7 @@
 ## 2022-2023
 
 - #56 Los que SÍ vinieron (Clasificatorio)
+- #194 Armadillos (Clasificatorio)
+- #343 Pythonist (Clasificatorio)
 
 

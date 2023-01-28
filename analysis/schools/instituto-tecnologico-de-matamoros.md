@@ -1,5 +1,7 @@
 # Instituto Tecnologico De Matamoros
 
+:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
+
 ## 2006-2007
 
 - #85 (#19 de TecNM) Gorilas (Regional)
@@ -7,14 +9,23 @@
 ## 2007-2008
 
 - #61 (#15 de TecNM) ITM_Gorilas1 (Regional)
+- #61 (#15 de TecNM) ITM_Gorilas2 (Regional)
 
 ## 2018-2019
 
 - #395 (#159 de TecNM) The Winter (Clasificatorio)
+- #395 (#159 de TecNM) √ELOALPHA (Clasificatorio)
+- #395 (#159 de TecNM) IRSSALO (Clasificatorio)
+- #395 (#159 de TecNM) Team Informatic (Clasificatorio)
+- #395 (#159 de TecNM) Dark knight’s (Clasificatorio)
 
 ## 2019-2020
 
 - #334 (#76 de TecNM) Tacos++ (Clasificatorio)
+- #382 (#98 de TecNM) TheTokens (Clasificatorio)
+- #382 (#98 de TecNM) Televisa Presenta (Clasificatorio)
+- #382 (#98 de TecNM) Los Fishados (Clasificatorio)
+- #382 (#98 de TecNM) Hawks (Clasificatorio)
 
 ## 2020-2021
 

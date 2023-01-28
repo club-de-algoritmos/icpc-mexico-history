@@ -1,5 +1,7 @@
 # Universidad Autonoma De San Luis Potosi
 
+:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
+
 ## 2002-2003
 
 - #19 Bichos (Regional)
@@ -11,21 +13,76 @@
 ## 2018-2019
 
 - #45 Equipo (Regional)
+- #209 Compi-uters (Clasificatorio)
+- #262 Qubits (Clasificatorio)
+- #265 Opilimpicos (Clasificatorio)
 
 ## 2019-2020
 
 - #33 ¿Qué? (Regional)
+- #47 Opilimpicos (Regional)
+- #105 Los Testigos de Botello (Clasificatorio)
+- #122 Holmes (Clasificatorio)
+- #132 Dinosaurios (Clasificatorio)
+- #144 The Untouchables (Clasificatorio)
+- #180 Maravilla Team (Clasificatorio)
+- #208 ChillaKillers (Clasificatorio)
+- #216 Byte by Byte (Clasificatorio)
+- #274 Random Name (Clasificatorio)
+- #277 LSB (Clasificatorio)
+- #287 Gumaca (Clasificatorio)
+- #326 FC Biome´s (Clasificatorio)
+- #328 Suzanahorias (Clasificatorio)
+- #373 Screenprint (Clasificatorio)
+- #382 Omega Q-Bits (Clasificatorio)
+- #382 Los Lord Llama de la Ciencia (Clasificatorio)
+- #382 Infocompas (Clasificatorio)
+- #382 Cheatcodes+ (Clasificatorio)
 
 ## 2020-2021
 
 - #13 !nullptr (Regional)
+- #103 Say my name (Clasificatorio)
+- #129 Infocompas (Clasificatorio)
+- #155 Holmes (Clasificatorio)
+- #195 The Untouchables (Clasificatorio)
+- #244 Screenprint (Clasificatorio)
+- #251 Schottkies (Clasificatorio)
+- #287 Michitos tristes (Clasificatorio)
+- #289 timeForce (Clasificatorio)
+- #305 Code compilers (Clasificatorio)
+- #351 Equipo alfa buena maravilla onda dinamita escuadrón lobo (Clasificatorio)
+- #351 Los nahuales masacuatos adictos al código (Clasificatorio)
+- #351 SmartDucks (Clasificatorio)
+- #351 GAG (Clasificatorio)
 
 ## 2021-2022
 
 - #7 !nullptr (Regional)
+- #127 NaN (Clasificatorio)
+- #181 Nopers (Clasificatorio)
+- #206 NameNotFoundException (Clasificatorio)
+- #226 Los Pixis (Clasificatorio)
+- #226 timeForce (Clasificatorio)
 
 ## 2022-2023
 
 - #23 !nullptr (Clasificatorio)
+- #58 js++ (Clasificatorio)
+- #61 camel_case (Clasificatorio)
+- #68 Algorítmicos (Clasificatorio)
+- #92 Exception:TeamNotFound (Clasificatorio)
+- #100 Jelicopter (Clasificatorio)
+- #114 soul_segmentation (Clasificatorio)
+- #131 Los Edwins (Clasificatorio)
+- #150 Los Prichos (Clasificatorio)
+- #172 Buff3r0v3rfl0w (Clasificatorio)
+- #184 LAMBDA SUPERIOR (Clasificatorio)
+- #196 JLE (Clasificatorio)
+- #298 Ace++ (Clasificatorio)
+- #310 MED (Clasificatorio)
+- #315 Vodka Juniors (Clasificatorio)
+- #363 ThreeAmigos (Clasificatorio)
+- #377 programeitors (Clasificatorio)
 
 

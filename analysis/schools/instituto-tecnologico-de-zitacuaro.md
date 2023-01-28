@@ -1,20 +1,29 @@
 # Instituto Tecnologico De Zitacuaro
 
+:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
+
 ## 2010-2011
 
 - #130 (#32 de TecNM) ITZit2 (Regional)
+- #138 (#37 de TecNM) ITZit1 (Regional)
+- #139 (#38 de TecNM) ITZit3 (Regional)
 
 ## 2011-2012
 
 - #104 (#33 de TecNM) ITZitacuaro3 (Regional)
+- #104 (#33 de TecNM) ITZitacuaro1 (Regional)
+- #104 (#33 de TecNM) ITZitacuaro2 (Regional)
 
 ## 2012-2013
 
 - #116 (#44 de TecNM) itzitacuaro 2 (Regional)
+- #134 (#53 de TecNM) itzitacuaro 1 (Regional)
 
 ## 2018-2019
 
 - #267 (#56 de TecNM) EquipoZit1 (Clasificatorio)
+- #343 (#80 de TecNM) EquipoZit3 (Clasificatorio)
+- #352 (#85 de TecNM) EquipoZit2 (Clasificatorio)
 
 ## 2022-2023
 

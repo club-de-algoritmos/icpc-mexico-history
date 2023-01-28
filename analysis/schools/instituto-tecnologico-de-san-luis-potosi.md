@@ -1,8 +1,11 @@
 # Instituto Tecnologico De San Luis Potosi
 
+:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
+
 ## 2019-2020
 
 - #382 Error 405 (Clasificatorio)
+- #382 An0maly (Clasificatorio)
 
 ## 2020-2021
 

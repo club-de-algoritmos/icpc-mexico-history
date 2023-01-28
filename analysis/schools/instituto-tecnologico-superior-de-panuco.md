@@ -1,20 +1,27 @@
 # Instituto Tecnologico Superior De Panuco
 
+:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
+
 ## 2002-2003
 
 - #27 (#3 de TecNM) ITSP1 (Regional)
+- #27 (#3 de TecNM) ITSP2 (Regional)
+- #27 (#3 de TecNM) ITSP3 (Regional)
 
 ## 2003-2004
 
 - #41 (#9 de TecNM) ITSP-1 (Regional)
+- #41 (#9 de TecNM) ITSP2 (Regional)
 
 ## 2004-2005
 
 - #54 (#10 de TecNM) ITSPánuco 1 (Regional)
+- #90 (#22 de TecNM) ITSPánuco 2 (Regional)
 
 ## 2005-2006
 
 - #37 (#3 de TecNM) Hackers (Regional)
+- #79 (#10 de TecNM) puntero (Regional)
 
 ## 2006-2007
 
@@ -23,6 +30,7 @@
 ## 2007-2008
 
 - #61 (#15 de TecNM) ITSPanuco (Regional)
+- #61 (#15 de TecNM) The JMV (Regional)
 
 ## 2011-2012
 
@@ -51,5 +59,7 @@
 ## 2022-2023
 
 - #381 (#75 de TecNM) Breakers (Clasificatorio)
+- #381 (#75 de TecNM) TECNO CAIMANES (Clasificatorio)
+- #381 (#75 de TecNM) TECNO BOYS (Clasificatorio)
 
 

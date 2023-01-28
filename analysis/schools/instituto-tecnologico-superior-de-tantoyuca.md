@@ -1,5 +1,7 @@
 # Instituto Tecnologico Superior De Tantoyuca
 
+:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
+
 ## 2007-2008
 
 - #61 (#15 de TecNM) IO EXCEPTION (Regional)
@@ -7,6 +9,7 @@
 ## 2010-2011
 
 - #156 (#44 de TecNM) SIMULADORES (Regional)
+- #156 (#44 de TecNM) HIMAGA (Regional)
 
 ## 2011-2012
 
@@ -15,6 +18,7 @@
 ## 2012-2013
 
 - #104 (#40 de TecNM) working (Regional)
+- #128 (#49 de TecNM) s-black (Regional)
 
 ## 2013-2014
 
@@ -27,6 +31,7 @@
 ## 2015-2016
 
 - #108 (#28 de TecNM) TUX (Clasificatorio)
+- #108 (#28 de TecNM) GIGASHARK (Clasificatorio)
 
 ## 2017-2018
 

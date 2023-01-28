@@ -44,6 +44,10 @@ class Markdown:
         self._write_line()
         self.context.pop()
 
+    def paragraph(self, text: str) -> None:
+        self._write_line(text)
+        self._write_line()
+
     def section(self, title: str):
         section_indent = self.indent + 1
         self.context.append(MarkdownContext.SECTION)

@@ -1,5 +1,7 @@
 # Universidad Michoacana De San Nicolas De Hidalgo
 
+:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
+
 ## 2005-2006
 
 - #77 Los twinkis (Regional)
@@ -27,6 +29,7 @@
 ## 2013-2014
 
 - #15 Fismateros (Regional)
+- #23 Lerak Team (Regional)
 
 ## 2014-2015
 
@@ -39,6 +42,7 @@
 ## 2017-2018
 
 - #315 coders (Clasificatorio)
+- #405 FISMAT2 (Clasificatorio)
 
 ## 2019-2020
 

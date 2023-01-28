@@ -1,34 +1,55 @@
 # Universidad De Las Americas-Puebla
 
+:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
+
 ## 1998-1999
 
+- U de las Americas
   - Avanzó a la final mundial, donde resolvió 1 problemas
 
 ## 1999-2000
 
+- U de las Americas Waxtron
   - Avanzó a la final mundial, donde resolvió 0 problemas
 
 ## 2001-2002
 
 - #43 UDLAP1 (Regional)
+- #47 UDLAP2 (Regional)
+- #51 UDLAP3 (Regional)
 
 ## 2002-2003
 
 - #1 Los Novatos (Regional)
   - Avanzó a la final mundial, donde resolvió 0 problemas
+- #12 UDLAP4-NoName (Regional)
+- #20 UDLAP2-Sith (Regional)
+- #26 UDLAP3-Padawans (Regional)
 
 ## 2003-2004
 
 - #1 Los novatos reloaded (Regional)
   - Avanzó a la final mundial, donde resolvió 0 problemas
+- #23 UDLAP2-Sith (Regional)
+- #24 Yar revolutions (Regional)
+- #41 UDLAP4-The Mayas (Regional)
 
 ## 2004-2005
 
 - #3 NO-NAME (Regional)
+- #27 UDLAP100-NeU (Regional)
+- #46 UDLAP1-0xFFFFFFFF (Regional)
+- #52 UDLAP2-10% de la Calificacion (Regional)
 
 ## 2005-2006
 
 - #21 UDLAP2-IO-PROMPT (Regional)
+- #29 UDLAP5-EOF (Regional)
+- #33 UDLAP3-TGO (Regional)
+- #39 UDLAP4-AcidSoft (Regional)
+- #60 UDLAP1-0x0A (Regional)
+- #85 UDLAP6-el orgullo por el suelo (Regional)
+- #85 UDLAP7 (Regional)
 
 ## 2006-2007
 

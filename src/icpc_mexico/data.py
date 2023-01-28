@@ -61,6 +61,28 @@ class TeamResult:
     # super_region_rank: Optional[int] = None
 
 
+@dataclass_json
+@dataclass(frozen=True)
+class ContestSiteTeam:
+    id: int
+    name: str
+    status: Optional[str]
+    country: str
+    institution: str
+
+
+
+@dataclass_json
+@dataclass(frozen=True)
+class ContestSite:
+    id: int
+    name: str
+    homepage: Optional[str]
+    date: Optional[str]
+    email: str
+    type: str
+
+
 class ContestType(str, Enum):
     PROGRAMMING_BATTLE = 'programming_battle'
     GRAN_PREMIO = 'gran_premio'

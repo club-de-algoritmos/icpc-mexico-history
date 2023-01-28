@@ -1,0 +1,35 @@
+# Instituto Tecnologico Superior De Tantoyuca
+
+## 2007-2008
+
+- #61 (#15 de TecNM) IO EXCEPTION (Regional)
+
+## 2010-2011
+
+- #156 (#44 de TecNM) SIMULADORES (Regional)
+
+## 2011-2012
+
+- #104 (#33 de TecNM) HINAGA (Regional)
+
+## 2012-2013
+
+- #104 (#40 de TecNM) working (Regional)
+
+## 2013-2014
+
+- #95 (#24 de TecNM) SHARK (Regional)
+
+## 2014-2015
+
+- #135 (#27 de TecNM) Giga Shark (Clasificatorio)
+
+## 2015-2016
+
+- #108 (#28 de TecNM) TUX (Clasificatorio)
+
+## 2017-2018
+
+- #405 (#97 de TecNM) JAVALINUX (Clasificatorio)
+
+

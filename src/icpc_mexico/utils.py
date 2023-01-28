@@ -15,3 +15,9 @@ def normalize_str(value: str) -> str:
     for letter, normalized_letter in _NORMALIZED_LETTERS.items():
         normalized_value = normalized_value.replace(letter, normalized_letter)
     return normalized_value
+
+
+def normalize_as_filename(value: str) -> str:
+    normalized_value = normalize_str(value).replace(' ', '-').replace('/', '-')
+    normalized_value = re.sub('-+', '-', normalized_value)
+    return normalized_value

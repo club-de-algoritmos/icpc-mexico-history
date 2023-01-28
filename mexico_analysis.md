@@ -3,108 +3,132 @@
 ## Final Mundial
 
 ### 1998-1999 The 1999 ACM Programming Contest World Finals
+
 - #53 (#1 de México, resolvió 1) U de las Americas (Universidad de las Americas-Puebla)
 - #56 (#2 de México, resolvió 1) ITESM ProZac (ITESM Campus Monterrey, Instituto Tecnologico y de Estudios Superiores de Monterrey)
 - #60 (#3 de México, resolvió 0) ITESM GaToZ LoCoZ (ITESM Campus Estado de Mexico, Instituto Tecnologico y de Estudios Superiores de Monterrey)
 
 ### 1999-2000 The 2000 ACM Programming Contest World Finals
+
 - #22 (#1 de México, resolvió 0) ITESM CEM GaToZ LoCoZ (ITESM Campus Estado de Mexico, Instituto Tecnologico y de Estudios Superiores de Monterrey)
 - #47 (#2 de México, resolvió 0) U de las Americas Waxtron (Universidad de las Americas-Puebla)
 
 ### 2000-2001 The 2001 ACM Programming Contest World Finals
+
 - #59 (#1 de México, resolvió 1) SWART (ITESM Campus Monterrey, Instituto Tecnologico y de Estudios Superiores de Monterrey)
 - #60 (#2 de México, resolvió 0) IT. Madero (Instituto Tecnológico de Ciudad Madero, Tecnologico Nacional de Mexico)
 
 ### 2001-2002 The 2002 ACM Programming Contest World Finals
+
 - #47 (#1 de México, resolvió 2) Los Pericos Brujos (ITESM Campus Monterrey, Instituto Tecnologico y de Estudios Superiores de Monterrey)
 - #57 (#2 de México, resolvió 0) Tec Madero (Instituto Tecnológico de Ciudad Madero, Tecnologico Nacional de Mexico)
 
 ### 2002-2003 The 2003 ACM Programming Contest World Finals
+
 - #56 (#1 de México, resolvió 0) Los Novatos (Universidad de las Americas-Puebla)
 - #56 (#1 de México, resolvió 0) Mandelbrot (Universidad de Guanajuato)
 
 ### 2003-2004 The 2004 ACM Programming Contest World Finals
+
 - #68 (#1 de México, resolvió 0) The Deadly Coding Squad (ITESM Campus Monterrey, Instituto Tecnologico y de Estudios Superiores de Monterrey)
 - #68 (#1 de México, resolvió 0) Los novatos reloaded (Universidad de las Americas-Puebla)
 
 ### 2004-2005 The 2005 ACM Programming Contest World Finals
+
 - #69 (#1 de México, resolvió 2) BUA de Puebla - Los Alfalfas (Benemérita Universidad Autónoma de Puebla)
 - #74 (#2 de México, resolvió 1) UTMixteca Poor Dogs (Universidad Tecnológica de la Mixteca)
 
 ### 2005-2006 The 2006 ACM Programming Contest World Finals
+
 - #56 (#1 de México, resolvió 1) UTMixteca NONAME (Universidad Tecnológica de la Mixteca)
 - #82 (#2 de México, resolvió 0) UAT The Tlaxcallan Kings (Universidad Autónoma de Tlaxcala)
 
 ### 2006-2007 The 2007 ACM Programming Contest World Finals
+
 - #86 (#1 de México, resolvió 0) Death Match (Benemérita Universidad Autónoma de Puebla)
 - #86 (#1 de México, resolvió 0) Poor Dogs (Universidad Tecnológica de la Mixteca)
 
 ### 2007-2008 The 2008 ACM Programming Contest World Finals
+
 - #65 (#1 de México, resolvió 2) U de G ACM Problem Solvers (Universidad de Guadalajara)
 - #90 (#2 de México, resolvió 0) ITC Turing Machines (Instituto Tecnológico de Culiacán, Tecnologico Nacional de Mexico)
 - #90 (#2 de México, resolvió 0) U de Guanajuato Hausdorff (Universidad de Guanajuato)
 
 ### 2008-2009 33rd Annual World Finals of the ACM International Collegiate Programming Contest
+
 - #49 (#1 de México, resolvió 3) Turing Machines (Instituto Tecnológico de Culiacán, Tecnologico Nacional de Mexico)
 - #68 (#2 de México, resolvió 0) MTY03 (ITESM Campus Monterrey, Instituto Tecnologico y de Estudios Superiores de Monterrey)
 - #68 (#2 de México, resolvió 0) grajam (Universidad Tecnológica de la Mixteca)
 
 ### 2009-2010 34th Annual World Finals of the ACM International Collegiate Programming Contest
+
 - #76 (#1 de México, resolvió 2) ITESM Queretaro Los punteros (ITESM Campus Queretaro, Instituto Tecnologico y de Estudios Superiores de Monterrey)
 - #77 (#2 de México, resolvió 2) U Guanajuato Hausdorff (Universidad de Guanajuato)
 
 ### 2010-2011 35th Annual World Finals of the ACM International Collegiate Programming Contest
+
 - #74 (#1 de México, resolvió 2) Manowar (Universidad de Guanajuato - CIMAT)
 
 ### 2011-2012 36th Annual World Finals of the ACM International Collegiate Programming Contest
+
 - #80 (#1 de México, resolvió 2) Manowar (Universidad de Guanajuato - CIMAT)
 - #101 (#2 de México, resolvió 1) Justice League (Universidad Tecnológica de la Mixteca)
 - #101 (#2 de México, resolvió 1) C_mita (ITESM Campus Puebla, Instituto Tecnologico y de Estudios Superiores de Monterrey)
 
 ### 2012-2013 37th Annual World Finals of the ACM International Collegiate Programming Contest
+
 - #76 (#1 de México, resolvió 2) AEI (Universidad Panamericana Campus Bonaterra)
 - #94 (#2 de México, resolvió 1) Escoders (Escuela Superior De Computo Instituto Politecnico Nacional)
 
 ### 2013-2014 38th Annual World Finals of the ACM International Collegiate Programming Contest
+
 - #45 (#1 de México, resolvió 2) Los Chidory (Universidad Panamericana Campus Bonaterra)
 - #80 (#2 de México, resolvió 1) Hurones Pwneadores (Escuela Superior De Computo Instituto Politecnico Nacional)
 - #103 (#3 de México, resolvió 0) Peludos (Universidad Autónoma de Aguascalientes)
 
 ### 2014-2015 39th Annual World Finals of the ACM International Collegiate Programming Contest
+
 - #96 (#1 de México, resolvió 3) Escoolers (Escuela Superior De Computo Instituto Politecnico Nacional)
 - #110 (#2 de México, resolvió 2) Peludos (Universidad Autónoma de Aguascalientes)
 - #121 (#3 de México, resolvió 1) Locos (ITESM Campus Monterrey, Instituto Tecnologico y de Estudios Superiores de Monterrey)
 
 ### 2015-2016 40th Annual World Finals of the ACM International Collegiate Programming Contest
+
 - #69 (#1 de México, resolvió 4) Los Románticos (Instituto Tecnológico Autónomo de México)
 - #92 (#2 de México, resolvió 3) La Carabina del AC (Escuela Superior De Computo Instituto Politecnico Nacional)
 - #107 (#3 de México, resolvió 2) HaKings (ITESM Campus Monterrey, Instituto Tecnologico y de Estudios Superiores de Monterrey)
 
 ### 2016-2017 41st Annual World Finals of the ACM International Collegiate Programming Contest
+
 - #56 (#1 de México, resolvió 4) Los Románticos (Instituto Tecnológico Autónomo de México)
 - #57 (#2 de México, resolvió 3) PU++ (Facultad de Ciencias-Universidad Nacional Autónoma de México)
 - #57 (#2 de México, resolvió 3) Los A´S (Universidad Autónoma de Nuevo Leon)
 
 ### 2017-2018 42nd Annual World Finals of the International Collegiate Programming Contest
+
 - #31 (#1 de México, resolvió 5) PU++ (Facultad de Ciencias-Universidad Nacional Autónoma de México)
 - #57 (#2 de México, resolvió 3) Los A´s (Universidad Autónoma de Nuevo Leon)
 - #57 (#2 de México, resolvió 2) Pragma (ITESM Campus Queretaro, Instituto Tecnologico y de Estudios Superiores de Monterrey)
 
 ### 2018-2019 43rd Annual World Finals of the International Collegiate Programming Contest
+
 - #63 (#1 de México, resolvió 2) lA_Criba de ceros y unos (Escuela Superior De Computo Instituto Politecnico Nacional)
 - #63 (#1 de México, resolvió 2) The Beat Alls (Instituto Tecnológico Autónomo de México)
 - #63 (#1 de México, resolvió 2) Legendary Grandpupils (ITESM Campus Monterrey, Instituto Tecnologico y de Estudios Superiores de Monterrey)
 - #63 (#1 de México, resolvió 2) #define TriLCI(404.0) :v (Instituto Tecnológico Superior del Sur de Guanajuato, Tecnologico Nacional de Mexico)
 
 ### 2019-2020 44th Annual World Finals of the International Collegiate Programming Contest
+
 - #47 (#1 de México, resolvió None) E3 (Universidad de Guanajuato - DCNE)
 - #47 (#1 de México, resolvió None) UPsolving (Universidad Panamericana Campus Bonaterra)
 
 ### 2020-2021 45th Annual World Finals of the International Collegiate Programming Contest
+
 - #41 (#1 de México, resolvió 5) UPsolving (Universidad Panamericana Campus Bonaterra)
 - #51 (#2 de México, resolvió 3) Leones(0,0,0) (Universidad de Guadalajara CUCEI)
 - #51 (#2 de México, resolvió 2) Legendary Grand Newbies (ITESM Campus Monterrey, Instituto Tecnologico y de Estudios Superiores de Monterrey)
 - #51 (#2 de México, resolvió 2) FoundTheBug.ItsMe (Instituto Tecnológico Autónomo de México)
+
 
 ## Ranking de equipos
 
@@ -153,6 +177,8 @@
 - 6% Locos (ITESM Campus Monterrey), resolvió 1 en 2015, obteniendo el lugar #121
 - 5% UTMixteca Poor Dogs (Universidad Tecnológica de la Mixteca), resolvió 1 en 2005, obteniendo el lugar #74
 
+
+
 # Resultados del TecNM en el ICPC
 
 ## Final Mundial
@@ -176,6 +202,7 @@
 ### 2018-2019 43rd Annual World Finals of the International Collegiate Programming Contest
 
 - #63 (#1 de México, resolvió 2) #define TriLCI(404.0) :v (Instituto Tecnológico Superior del Sur de Guanajuato)
+
 
 ## Top 5 en el regional de México
 
@@ -368,89 +395,90 @@
 - #33 (#4 de TecNM) 010 girls & 001 Mike (Instituto Tecnológico Superior del Sur de Guanajuato)
 - #36 (#5 de TecNM) Ludus G++ (Instituto Tecnológico de Culiacán)
 
+
 ## Historial de cada TecNM que ha llegado a la final mundial
 
 <details>
 <summary>Instituto Tecnologico De Ciudad Madero</summary>
 
-#### 2000-2001
+### 2000-2001
 
   - Avanzó a la final mundial, donde resolvió 0 problemas
 
-#### 2001-2002
+### 2001-2002
 
 - #1 (#1 de TecNM) Tec Madero (Regional)
   - Avanzó a la final mundial, donde resolvió 0 problemas
 
-#### 2002-2003
+### 2002-2003
 
 - #4 (#1 de TecNM) ITCM1 (Regional)
 
-#### 2003-2004
+### 2003-2004
 
 - #13 (#2 de TecNM) ITCM3- The Ants (Regional)
 
-#### 2004-2005
+### 2004-2005
 
 - #26 (#5 de TecNM) Ometochtli (Regional)
 
-#### 2005-2006
+### 2005-2006
 
 - #25 (#1 de TecNM) Ometochtli (Regional)
 
-#### 2007-2008
+### 2007-2008
 
 - #61 (#15 de TecNM) Hola (Regional)
 
-#### 2008-2009
+### 2008-2009
 
 - #90 (#22 de TecNM) Hola (Regional)
 
-#### 2009-2010
+### 2009-2010
 
 - #32 (#3 de TecNM) KCI (Regional)
 
-#### 2011-2012
+### 2011-2012
 
 - #44 (#5 de TecNM) Yip Yip (Regional)
 
-#### 2012-2013
+### 2012-2013
 
 - #9 (#1 de TecNM) Javadabadoo (Regional)
 
-#### 2013-2014
+### 2013-2014
 
 - #62 (#10 de TecNM) JavaDabaDoo (Regional)
 
-#### 2014-2015
+### 2014-2015
 
 - #51 (#8 de TecNM) HyVent (Regional)
 
-#### 2015-2016
+### 2015-2016
 
 - #108 (#28 de TecNM) Tacodes (Clasificatorio)
 
-#### 2016-2017
+### 2016-2017
 
 - #39 (#4 de TecNM) leopardos (Regional)
 
-#### 2017-2018
+### 2017-2018
 
 - #241 (#48 de TecNM) Teamgusgus (Clasificatorio)
 
-#### 2019-2020
+### 2019-2020
 
 - #361 (#86 de TecNM) Dejavu (Clasificatorio)
 
-#### 2020-2021
+### 2020-2021
 
 - #351 (#65 de TecNM) Getters (Clasificatorio)
 
-#### 2021-2022
+### 2021-2022
 
 - #226 (#36 de TecNM) Los Tlacuachos:v (Clasificatorio)
 
-#### 2022-2023
+### 2022-2023
 
 - #381 (#75 de TecNM) Runtime Terror (Clasificatorio)
 
@@ -459,53 +487,53 @@
 <details>
 <summary>Instituto Tecnologico De Culiacan</summary>
 
-#### 2006-2007
+### 2006-2007
 
 - #27 (#6 de TecNM) StackOverflow (Regional)
 
-#### 2007-2008
+### 2007-2008
 
 - #3 (#1 de TecNM) ITC Turing Machines (Regional)
   - Avanzó a la final mundial, donde resolvió 0 problemas
 
-#### 2008-2009
+### 2008-2009
 
 - #1 (#1 de TecNM) Turing Machines (Regional)
   - Avanzó a la final mundial, donde resolvió 3 problemas
 
-#### 2009-2010
+### 2009-2010
 
 - #16 (#1 de TecNM) tec de Culiacán (Regional)
 
-#### 2010-2011
+### 2010-2011
 
 - #69 (#8 de TecNM) Three Little Bits (Regional)
 
-#### 2011-2012
+### 2011-2012
 
 - #48 (#6 de TecNM) Three Bits (Regional)
 
-#### 2012-2013
+### 2012-2013
 
 - #12 (#2 de TecNM) Three Bits (Regional)
 
-#### 2013-2014
+### 2013-2014
 
 - #39 (#3 de TecNM) Dynamic (Regional)
 
-#### 2014-2015
+### 2014-2015
 
 - #9 (#1 de TecNM) JRA (Regional)
 
-#### 2015-2016
+### 2015-2016
 
 - #108 (#28 de TecNM) EPN Y LOS 43? (Clasificatorio)
 
-#### 2021-2022
+### 2021-2022
 
 - #36 (#5 de TecNM) Ludus G++ (Regional)
 
-#### 2022-2023
+### 2022-2023
 
 - #39 (#3 de TecNM) Ludus G++ (Clasificatorio)
 
@@ -514,58 +542,60 @@
 <details>
 <summary>Instituto Tecnologico Superior Del Sur De Guanajuato</summary>
 
-#### 2010-2011
+### 2010-2011
 
 - #131 (#33 de TecNM) ITSUR-1 (Regional)
 
-#### 2011-2012
+### 2011-2012
 
 - #65 (#13 de TecNM) ITSUR (Regional)
 
-#### 2012-2013
+### 2012-2013
 
 - #29 (#8 de TecNM) ITSUR_1 (Regional)
 
-#### 2013-2014
+### 2013-2014
 
 - #8 (#1 de TecNM) ITSUR-MIXLANG CODERS (Regional)
 
-#### 2014-2015
+### 2014-2015
 
 - #10 (#2 de TecNM) ITSUR MIX LANG CODERS (Regional)
 
-#### 2015-2016
+### 2015-2016
 
 - #11 (#1 de TecNM) Laughing Coffee (Regional)
 
-#### 2016-2017
+### 2016-2017
 
 - #14 (#2 de TecNM) ITSUR MIX LANG COFFEE (Regional)
 
-#### 2017-2018
+### 2017-2018
 
 - #8 (#1 de TecNM) define TriLCI 404 (Regional)
 
-#### 2018-2019
+### 2018-2019
 
 - #4 (#1 de TecNM) #define TriLCI(404.0) :v (Regional)
   - Avanzó a la final mundial, donde resolvió 2 problemas
 
-#### 2019-2020
+### 2019-2020
 
 - #3 (#1 de TecNM) #define TriLCI(404.0) :v (Regional)
 
-#### 2020-2021
+### 2020-2021
 
 - #29 (#1 de TecNM) 010 girls & 001 Mike (Regional)
 
-#### 2021-2022
+### 2021-2022
 
 - #30 (#2 de TecNM) Too lazy to propagate (Regional)
 
-#### 2022-2023
+### 2022-2023
 
 - #16 (#1 de TecNM) Hugs for Bugs (Clasificatorio)
 
 </details>
+
+
 

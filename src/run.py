@@ -6,6 +6,7 @@ from typing import List
 
 from icpc_mexico import processor, storage, analysis
 from icpc_mexico.data import FinishedContest, School
+from icpc_mexico.markdown import MarkdownFile
 
 
 def _get_filename(filename: str, path: str = 'data') -> str:
@@ -52,6 +53,6 @@ if __name__ == '__main__':
 
     all_contests = _get_contests(args.refresh_contests)
     all_schools = _get_schools(args.refresh_schools, all_contests)
-    with open(_get_filename('mexico_analysis.md', path=''), 'w') as analysis_file:
+    with MarkdownFile(_get_filename('mexico_analysis.md', path='')) as analysis_markdown:
         all_contests = processor.compute_extra_team_results(all_contests, all_schools)
-        analysis.analyze(all_contests, all_schools, analysis_file)
+        analysis.analyze(all_contests, all_schools, analysis_markdown)

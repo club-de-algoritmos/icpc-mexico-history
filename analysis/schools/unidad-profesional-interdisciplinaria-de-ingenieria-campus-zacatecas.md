@@ -2,13 +2,28 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## 2014-2015
+## Top 10 equipos
+
+- #35 Printfers, resolvió 3 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
+- #40 Las pistas de nullptr, resolvió 3 problemas en The 2020 ICPC Mexico Finals
+- #45 Las pistas de NULL, resolvió 1 problemas en The 2019 ICPC Mexico Finals
+- #45 Los charlies de Angel, resolvió 1 problemas en The 2021 ICPC Mexico Finals
+- #46 3idiotas, resolvió 2 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
+- #48 404 Not Found, resolvió 2 problemas en The 2015 ACM-ICPC Mexico and Central America Finals
+- #50 SNCB, resolvió 1 problemas en The 2014 ACM-ICPC Mexico and Central America Finals
+- #53 solo_dos_idiotas_y_lalo, resolvió 1 problemas en The 2017 ACM-ICPC Mexico and Central America Finals
+- #55 Printfers, resolvió 1 problemas en The 2017 ACM-ICPC Mexico and Central America Finals
+- #66 SNBC&D, resolvió 2 problemas en The 2015 ACM-ICPC Mexico and Central America Finals
+
+## Participaciones
+
+### 2014-2015
 
 - #50 SNCB (Regional)
 - #204 SISTEMAS_IPN_X (Clasificatorio)
 - #204 Burros_dragones (Clasificatorio)
 
-## 2015-2016
+### 2015-2016
 
 - #48 404 Not Found (Regional)
 - #66 SNBC&D (Regional)
@@ -18,7 +33,7 @@
 - #108 javaswitnesses (Clasificatorio)
 - #108 Maquinas Digitales (Clasificatorio)
 
-## 2016-2017
+### 2016-2017
 
 - #35 Printfers (Regional)
 - #46 3idiotas (Regional)
@@ -28,7 +43,7 @@
 - #121 Los nuevos (Clasificatorio)
 - #121 Internautas por amor (Clasificatorio)
 
-## 2017-2018
+### 2017-2018
 
 - #53 solo_dos_idiotas_y_lalo (Regional)
 - #55 Printfers (Regional)
@@ -39,7 +54,7 @@
 - #316 dedsek (Clasificatorio)
 - #405 asinus++ (Clasificatorio)
 
-## 2018-2019
+### 2018-2019
 
 - #67 Concilio de ancianos (Clasificatorio)
 - #90 pi22 (Clasificatorio)
@@ -47,7 +62,7 @@
 - #214 Atom (Clasificatorio)
 - #246 Mecatrochos (Clasificatorio)
 
-## 2019-2020
+### 2019-2020
 
 - #45 Las pistas de NULL (Regional)
 - #83 Escuadron alpha lobo dinamita (Clasificatorio)
@@ -55,7 +70,7 @@
 - #272 Bynamite (Clasificatorio)
 - #382 Los H4ck3rs (Clasificatorio)
 
-## 2020-2021
+### 2020-2021
 
 - #40 Las pistas de nullptr (Regional)
 - #125 D3dSec.exe (Clasificatorio)
@@ -63,13 +78,14 @@
 - #340 AwA de UwU sabor OwO (Clasificatorio)
 - #351 PainCoders (Clasificatorio)
 
-## 2021-2022
+### 2021-2022
 
 - #45 Los charlies de Angel (Regional)
 - #88 D3dSec.exe (Clasificatorio)
 
-## 2022-2023
+### 2022-2023
 
 - #161 Siglo XIII (Clasificatorio)
+
 
 

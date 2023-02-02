@@ -2,7 +2,22 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## 2001-2002
+## Top 10 equipos
+
+- #27 Black Cats I, resolvió 0 problemas en The 2002 ACM Mexico and Central America Programming Contest
+- #27 Black Cats II, resolvió 0 problemas en The 2002 ACM Mexico and Central America Programming Contest
+- #27 Gatos Negros I, resolvió 0 problemas en The 2002 ACM Mexico and Central America Programming Contest
+- #27 Gatos Negros II, resolvió 0 problemas en The 2002 ACM Mexico and Central America Programming Contest
+- #27 Gatos Negros III, resolvió 0 problemas en The 2002 ACM Mexico and Central America Programming Contest
+- #27 Gatos Negros IV, resolvió 0 problemas en The 2002 ACM Mexico and Central America Programming Contest
+- #27 Gatos Negros V, resolvió 0 problemas en The 2002 ACM Mexico and Central America Programming Contest
+- #27 Gatos Negros VI, resolvió 0 problemas en The 2002 ACM Mexico and Central America Programming Contest
+- #27 ITL Black Cats, resolvió 0 problemas en The 2002 ACM Mexico and Central America Programming Contest
+- #27 Los Ponedores del ITL # 13, resolvió 0 problemas en The 2002 ACM Mexico and Central America Programming Contest
+
+## Participaciones
+
+### 2001-2002
 
 - #55 (#13 de TecNM) GATOS NEGROS 4 (Regional)
 - #55 (#13 de TecNM) GATOS NEGROS 5 (Regional)
@@ -11,7 +26,7 @@
 - #55 (#13 de TecNM) GATOS NEGROS 2 (Regional)
 - #55 (#13 de TecNM) GATOS (Regional)
 
-## 2002-2003
+### 2002-2003
 
 - #27 (#3 de TecNM) TecLaguna - 1 (Regional)
 - #27 (#3 de TecNM) TecLaguna - 2 (Regional)
@@ -27,18 +42,18 @@
 - #27 (#3 de TecNM) Los Ponedores del ITL # 13 (Regional)
 - #27 (#3 de TecNM) ITL Black Cats (Regional)
 
-## 2013-2014
+### 2013-2014
 
 - #95 (#24 de TecNM) Tec Laguna 2 (Regional)
 - #95 (#24 de TecNM) Tec Laguna 1 (Regional)
 
-## 2014-2015
+### 2014-2015
 
 - #48 (#6 de TecNM) Navy (Regional)
 - #110 (#16 de TecNM) Syntax Error (Clasificatorio)
 - #133 (#25 de TecNM) PERROS DEL MAL (Clasificatorio)
 
-## 2017-2018
+### 2017-2018
 
 - #105 (#11 de TecNM) ITLN (Clasificatorio)
 - #129 (#18 de TecNM) Mega Equipo del Tio Oswi (Clasificatorio)
@@ -48,7 +63,7 @@
 - #251 (#53 de TecNM) LSK-ITL (Clasificatorio)
 - #371 (#86 de TecNM) Ternarios (Clasificatorio)
 
-## 2018-2019
+### 2018-2019
 
 - #196 (#29 de TecNM) ITLN (Clasificatorio)
 - #221 (#35 de TecNM) Ad Honorum (Clasificatorio)
@@ -58,7 +73,7 @@
 - #345 (#81 de TecNM) NULL POINTER EXCEPTION (Clasificatorio)
 - #394 (#103 de TecNM) TipoElem (Clasificatorio)
 
-## 2019-2020
+### 2019-2020
 
 - #101 (#12 de TecNM) ITLN (Clasificatorio)
 - #311 (#67 de TecNM) TecLaguna1 (Clasificatorio)
@@ -67,7 +82,7 @@
 - #382 (#98 de TecNM) ULTIMO LUGAR (Clasificatorio)
 - #382 (#98 de TecNM) RAM (Clasificatorio)
 
-## 2022-2023
+### 2022-2023
 
 - #41 (#4 de TecNM) EspantaBugs (Clasificatorio)
 - #171 (#28 de TecNM) VectorRaptor's (Clasificatorio)
@@ -96,5 +111,6 @@
 - #381 (#75 de TecNM) LafCoding (Clasificatorio)
 - #381 (#75 de TecNM) Los Testigos de Ciseña (Clasificatorio)
 - #381 (#75 de TecNM) CODING PALS (Clasificatorio)
+
 
 

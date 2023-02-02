@@ -2,12 +2,17 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## 2014-2015
+## Top 10 equipos
+
+
+## Participaciones
+
+### 2014-2015
 
 - #143 (#33 de TecNM) Picazo's Develop (Clasificatorio)
 - #172 (#41 de TecNM) Fito's Team (Clasificatorio)
 
-## 2017-2018
+### 2017-2018
 
 - #143 (#22 de TecNM) Zorros (Clasificatorio)
 - #199 (#37 de TecNM) Error 404 (Clasificatorio)
@@ -21,7 +26,7 @@
 - #405 (#97 de TecNM) Luchana´s Team (Clasificatorio)
 - #405 (#97 de TecNM) TeraByts (Clasificatorio)
 
-## 2018-2019
+### 2018-2019
 
 - #240 (#44 de TecNM) Java-Lieron (Clasificatorio)
 - #241 (#45 de TecNM) Survivor_Team (Clasificatorio)
@@ -30,7 +35,7 @@
 - #394 (#103 de TecNM) Luchana's Team (Clasificatorio)
 - #394 (#103 de TecNM) SYSTEM SRL (Clasificatorio)
 
-## 2019-2020
+### 2019-2020
 
 - #188 (#25 de TecNM) LAS 3 GEMAS DEL INFINITO (Clasificatorio)
 - #189 (#26 de TecNM) Jalapeños Developer Team (Clasificatorio)
@@ -38,5 +43,6 @@
 - #382 (#98 de TecNM) Los nuevos vengadores (Clasificatorio)
 - #382 (#98 de TecNM) innombrables (Clasificatorio)
 - #382 (#98 de TecNM) Atletico San Pancho (Clasificatorio)
+
 
 

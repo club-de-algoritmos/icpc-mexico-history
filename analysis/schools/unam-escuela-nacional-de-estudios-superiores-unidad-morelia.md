@@ -2,19 +2,32 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## 2017-2018
+## Top 10 equipos
+
+- #13 La cabaña del tio Raggi, resolvió 3 problemas en The 2017 ACM-ICPC Mexico and Central America Finals
+- #27 BatchNorm3d, resolvió 3 problemas en The 2019 ICPC Mexico Finals
+- #33 Tupla de Camarones, resolvió 3 problemas en The 2018 ICPC Mexico and Central America Finals
+- #34 La Tremenda Chimichanga, resolvió 2 problemas en The 2021 ICPC Mexico Finals
+- #37 ProgramaLovers, resolvió 2 problemas en The 2019 ICPC Mexico Finals
+- #42 Los de arriba son tramposos, resolvió 2 problemas en The 2020 ICPC Mexico Finals
+- #42 Los Horchatos, resolvió 3 problemas en The 2018 ICPC Mexico and Central America Finals
+- #47 Las neuronas, resolvió 1 problemas en The 2019 ICPC Mexico Finals
+
+## Participaciones
+
+### 2017-2018
 
 - #13 La cabaña del tio Raggi (Regional)
 - #109 Arkanan (Clasificatorio)
 - #167 Lomitos Suavecitos (Clasificatorio)
 
-## 2018-2019
+### 2018-2019
 
 - #33 Tupla de Camarones (Regional)
 - #42 Los Horchatos (Regional)
 - #87 La Trifecta (Clasificatorio)
 
-## 2019-2020
+### 2019-2020
 
 - #27 BatchNorm3d (Regional)
 - #37 ProgramaLovers (Regional)
@@ -25,7 +38,7 @@
 - #175 Las chicas superpoderosas (Clasificatorio)
 - #251 Los Purepechas (Clasificatorio)
 
-## 2020-2021
+### 2020-2021
 
 - #42 Los de arriba son tramposos (Regional)
 - #165 Los pixies 2.0 (Clasificatorio)
@@ -34,17 +47,18 @@
 - #180 Las neuronas (Clasificatorio)
 - #205 MichExoTic's (Clasificatorio)
 
-## 2021-2022
+### 2021-2022
 
 - #34 La Tremenda Chimichanga (Regional)
 - #108 Las Bichotas (Clasificatorio)
 
-## 2022-2023
+### 2022-2023
 
 - #35 Bugbusters (Clasificatorio)
 - #175 Los papacitos (Clasificatorio)
 - #228 Pythones (Clasificatorio)
 - #243 Spaguetti Casero (Clasificatorio)
 - #284 Miribka (Clasificatorio)
+
 
 

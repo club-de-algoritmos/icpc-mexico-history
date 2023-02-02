@@ -2,50 +2,65 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## 2005-2006
+## Top 10 equipos
+
+- #12 f(i)=Smat, resolvió 3 problemas en The 2011 Mexico & Central America Regional Contest
+- #13 Lerak Team, resolvió 4 problemas en The 2014 ACM-ICPC Mexico and Central America Finals
+- #15 Fismateros, resolvió 2 problemas en The 2013 Mexico & Central America Regional Contest
+- #19 Fismateros, resolvió 3 problemas en The 2012 Mexico & Central America Regional Contest
+- #23 Lerak Team, resolvió 2 problemas en The 2013 Mexico & Central America Regional Contest
+- #30 FISMAT exception, resolvió 1 problemas en The 2007 ACM Mexico and Central America Programming Contest
+- #56 Compilando..., resolvió 2 problemas en The 2009 Mexico & Central America Contest
+- #77 Los twinkis, resolvió 1 problemas en The 2005 ACM Mexico and Central America Programming Contest
+- #89 fismateros, resolvió 2 problemas en The 2010 Mexico & Central America Regional Contest
+
+## Participaciones
+
+### 2005-2006
 
 - #77 Los twinkis (Regional)
 
-## 2007-2008
+### 2007-2008
 
 - #30 FISMAT exception (Regional)
 
-## 2009-2010
+### 2009-2010
 
 - #56 Compilando... (Regional)
 
-## 2010-2011
+### 2010-2011
 
 - #89 fismateros (Regional)
 
-## 2011-2012
+### 2011-2012
 
 - #12 f(i)=Smat (Regional)
 
-## 2012-2013
+### 2012-2013
 
 - #19 Fismateros (Regional)
 
-## 2013-2014
+### 2013-2014
 
 - #15 Fismateros (Regional)
 - #23 Lerak Team (Regional)
 
-## 2014-2015
+### 2014-2015
 
 - #13 Lerak Team (Regional)
 
-## 2015-2016
+### 2015-2016
 
 - #108 lerak team (Clasificatorio)
 
-## 2017-2018
+### 2017-2018
 
 - #315 coders (Clasificatorio)
 - #405 FISMAT2 (Clasificatorio)
 
-## 2019-2020
+### 2019-2020
 
 - #382 Elvis (Clasificatorio)
+
 
 

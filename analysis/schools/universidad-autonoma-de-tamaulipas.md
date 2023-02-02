@@ -2,21 +2,36 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## 2001-2002
+## Top 10 equipos
+
+- #28 Pinky_Pie, resolvió 3 problemas en The 2015 ACM-ICPC Mexico and Central America Finals
+- #31 UAM2S 3, resolvió 1 problemas en The 2001 ACM Mexico and Central America Programming Contest
+- #45 Ami-UbiCom, resolvió 1 problemas en The 2014 ACM-ICPC Mexico and Central America Finals
+- #55 UAM2S 1, resolvió 0 problemas en The 2001 ACM Mexico and Central America Programming Contest
+- #55 UAM2S 2, resolvió 0 problemas en The 2001 ACM Mexico and Central America Programming Contest
+- #56 Pinki pie, resolvió 1 problemas en The 2014 ACM-ICPC Mexico and Central America Finals
+- #75 AmI-UbiCom, resolvió 1 problemas en The 2015 ACM-ICPC Mexico and Central America Finals
+- #79 AmI-UbiCom, resolvió 2 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
+- #85 MDS, resolvió 0 problemas en The 2006 ACM Mexico and Central America Programming Contest
+- #85 UAT, resolvió 0 problemas en The 2005 ACM Mexico and Central America Programming Contest
+
+## Participaciones
+
+### 2001-2002
 
 - #31 UAM2S 3 (Regional)
 - #55 UAM2S 1 (Regional)
 - #55 UAM2S 2 (Regional)
 
-## 2005-2006
+### 2005-2006
 
 - #85 UAT (Regional)
 
-## 2006-2007
+### 2006-2007
 
 - #85 MDS (Regional)
 
-## 2012-2013
+### 2012-2013
 
 - #108 Softluciones (Regional)
 - #111 Skynet (Regional)
@@ -24,14 +39,14 @@
 - #131 IntsystXXI (Regional)
 - #134 Teamwork (Regional)
 
-## 2013-2014
+### 2013-2014
 
 - #88 Ubicuo (Regional)
 - #95 InSyst (Regional)
 - #95 TeamWork (Regional)
 - #95 System.GC (Regional)
 
-## 2014-2015
+### 2014-2015
 
 - #45 Ami-UbiCom (Regional)
 - #56 Pinki pie (Regional)
@@ -41,7 +56,7 @@
 - #204 Spiders (Clasificatorio)
 - #204 Sin apoyo (Clasificatorio)
 
-## 2015-2016
+### 2015-2016
 
 - #28 Pinky_Pie (Regional)
 - #75 AmI-UbiCom (Regional)
@@ -57,7 +72,7 @@
 - #108 WhileTrue (Clasificatorio)
 - #108 TeamWork (Clasificatorio)
 
-## 2016-2017
+### 2016-2017
 
 - #79 AmI-UbiCom (Regional)
 - #121 The masters (Clasificatorio)
@@ -70,7 +85,7 @@
 - #121 Babaloo (Clasificatorio)
 - #121 Los de Civil (Clasificatorio)
 
-## 2017-2018
+### 2017-2018
 
 - #78 AmIUbiCom-Rojo (Clasificatorio)
 - #122 AmIUbiCom-Azul (Clasificatorio)
@@ -85,7 +100,7 @@
 - #405 Codenant (Clasificatorio)
 - #405 TheProgrammersLeague (Clasificatorio)
 
-## 2018-2019
+### 2018-2019
 
 - #73 AmI-UbiCom Cafe (Clasificatorio)
 - #215 AmI-UbiCom Verde (Clasificatorio)
@@ -103,7 +118,7 @@
 - #394 Soso's Team (Clasificatorio)
 - #394 Team Rocket (Clasificatorio)
 
-## 2019-2020
+### 2019-2020
 
 - #140 JAVAlimos (Clasificatorio)
 - #143 Origins (Clasificatorio)
@@ -126,7 +141,7 @@
 - #382 Team mo (Clasificatorio)
 - #382 Tony's Team (Clasificatorio)
 
-## 2022-2023
+### 2022-2023
 
 - #187 Tiburoncin U AH! AH! (Clasificatorio)
 - #212 Pingüinos Loco (Clasificatorio)
@@ -134,5 +149,6 @@
 - #301 For each (Clasificatorio)
 - #316 Castores media (Clasificatorio)
 - #334 Miramar raccoons (Clasificatorio)
+
 
 

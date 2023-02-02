@@ -2,48 +2,63 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## 1998-1999
+## Top 10 equipos
+
+- #51 Legendary Grand Newbies, resolvió 2 problemas en 45th Annual World Finals of the International Collegiate Programming Contest
+- #63 Legendary Grandpupils, resolvió 2 problemas en 43rd Annual World Finals of the International Collegiate Programming Contest
+- #68 MTY03, resolvió 0 problemas en 33rd Annual World Finals of the ACM International Collegiate Programming Contest
+- #47 Los Pericos Brujos, resolvió 2 problemas en The 2002 ACM Programming Contest World Finals
+- #107 HaKings, resolvió 2 problemas en 40th Annual World Finals of the ACM International Collegiate Programming Contest
+- #56 ITESM ProZac, resolvió 1 problemas en The 1999 ACM Programming Contest World Finals
+- #59 SWART, resolvió 1 problemas en The 2001 ACM Programming Contest World Finals
+- #68 The Deadly Coding Squad, resolvió 0 problemas en The 2004 ACM Programming Contest World Finals
+- #121 Locos, resolvió 1 problemas en 39th Annual World Finals of the ACM International Collegiate Programming Contest
+- #3 TopCoder, resolvió 4 problemas en The 2006 ACM Mexico and Central America Programming Contest
+
+## Participaciones
+
+### 1998-1999
 
 - ITESM ProZac
   - Avanzó a la final mundial, donde resolvió 1 problemas
 
-## 2000-2001
+### 2000-2001
 
 - SWART
   - Avanzó a la final mundial, donde resolvió 1 problemas
 
-## 2001-2002
+### 2001-2002
 
 - #2 Los Pericos Brujos (Regional)
   - Avanzó a la final mundial, donde resolvió 2 problemas
 - #5 Los miserables (Regional)
 - #13 SWART (Regional)
 
-## 2002-2003
+### 2002-2003
 
 - #6 Les Miserables (Regional)
 - #9 Monterrey 2002 (Regional)
 
-## 2003-2004
+### 2003-2004
 
 - #2 The Deadly Coding Squad (Regional)
   - Avanzó a la final mundial, donde resolvió 0 problemas
 - #18 Monterrey01 (Regional)
 - #41 Monterrey02 (Regional)
 
-## 2004-2005
+### 2004-2005
 
 - #33 Nazgul (Regional)
 - #47 lusers (Regional)
 
-## 2006-2007
+### 2006-2007
 
 - #3 TopCoder (Regional)
 - #34 Echelon (Regional)
 - #42 Aesir (Regional)
 - #53 Flotador (Regional)
 
-## 2008-2009
+### 2008-2009
 
 - #3 MTY03 (Regional)
   - Avanzó a la final mundial, donde resolvió 0 problemas
@@ -52,13 +67,13 @@
 - #29 Cubers (Regional)
 - #52 MTY01 (Regional)
 
-## 2009-2010
+### 2009-2010
 
 - #9 MTY01 (Regional)
 - #11 MTY03 (Regional)
 - #27 MTY02 (Regional)
 
-## 2010-2011
+### 2010-2011
 
 - #5 Los Punteros (Regional)
 - #7 ITESM Pointers (Regional)
@@ -70,7 +85,7 @@
 - #54 Hot Code (Regional)
 - #97 NibbleSOFt (Regional)
 
-## 2011-2012
+### 2011-2012
 
 - #10 Super Pointers (Regional)
 - #16 Geekstra (Regional)
@@ -80,7 +95,7 @@
 - #67 JavaPros++ (Regional)
 - #68 Felipe El Pato (Regional)
 
-## 2012-2013
+### 2012-2013
 
 - #25 Los Queries (Regional)
 - #39 Iterators (Regional)
@@ -95,7 +110,7 @@
 - #117 Pampasmitas (Regional)
 - #123 Los Saiyayin (Regional)
 
-## 2013-2014
+### 2013-2014
 
 - #4 Locos (Regional)
 - #20 Modelo entidad-relación (Regional)
@@ -108,7 +123,7 @@
 - #95 Death Or Alive (Regional)
 - #95 The three amigos (Regional)
 
-## 2014-2015
+### 2014-2015
 
 - #2 Locos (Regional)
   - Avanzó a la final mundial, donde resolvió 1 problemas
@@ -118,7 +133,7 @@
 - #62 Cyborg Raccoons (Clasificatorio)
 - #104 J - LAD (Clasificatorio)
 
-## 2015-2016
+### 2015-2016
 
 - #3 HaKings (Regional)
   - Avanzó a la final mundial, donde resolvió 2 problemas
@@ -135,7 +150,7 @@
 - #108 PeLaDos (Clasificatorio)
 - #108 BorregosDelNorte (Clasificatorio)
 
-## 2016-2017
+### 2016-2017
 
 - #5 Locos (Regional)
 - #19 Greedies (Regional)
@@ -171,7 +186,7 @@
 - #121 Galleta (Clasificatorio)
 - #121 Mean Girls (Clasificatorio)
 
-## 2017-2018
+### 2017-2018
 
 - #24 AC-Knights (Regional)
 - #29 Bitwise (Regional)
@@ -199,7 +214,7 @@
 - #369 i=3 (Clasificatorio)
 - #405 Los innombrables (Clasificatorio)
 
-## 2018-2019
+### 2018-2019
 
 - #1 Legendary Grandpupils (Regional)
   - Avanzó a la final mundial, donde resolvió 2 problemas
@@ -244,7 +259,7 @@
 - #394 PinkPanthers (Clasificatorio)
 - #395 Bissingzeile 11 (Clasificatorio)
 
-## 2019-2020
+### 2019-2020
 
 - #5 We put the D in DP (Regional)
 - #6 Heaps Dont Lie (Regional)
@@ -277,7 +292,7 @@
 - #382 blue char-manders (Clasificatorio)
 - #382 Omega (Clasificatorio)
 
-## 2020-2021
+### 2020-2021
 
 - #1 Legendary Grand Newbies (Regional)
   - Avanzó a la final mundial, donde resolvió 2 problemas
@@ -345,7 +360,7 @@
 - #351 flamingFlamingos (Clasificatorio)
 - #351 BABBAGE (Clasificatorio)
 
-## 2021-2022
+### 2021-2022
 
 - #14 AC’Holics (Regional)
 - #17 O(3 bugs) (Regional)
@@ -372,7 +387,7 @@
 - #226 Tajillos (Clasificatorio)
 - #226 C+++ (Clasificatorio)
 
-## 2022-2023
+### 2022-2023
 
 - #17 team.cpp (Clasificatorio)
 - #28 O(1) (Clasificatorio)
@@ -405,5 +420,6 @@
 - #337 NextWave (Clasificatorio)
 - #347 C+Tec (Clasificatorio)
 - #381 SegmentationFault (Clasificatorio)
+
 
 

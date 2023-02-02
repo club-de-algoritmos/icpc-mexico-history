@@ -2,35 +2,50 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## 2009-2010
+## Top 10 equipos
+
+- #18 TecMorelia2, resolvió 2 problemas en The 2013 Mexico & Central America Regional Contest
+- #20 ITM-3, resolvió 3 problemas en The 2011 Mexico & Central America Regional Contest
+- #46 Tec Morelia 1, resolvió 2 problemas en The 2012 Mexico & Central America Regional Contest
+- #63 ITM - Tec Morelia 2, resolvió 2 problemas en The 2012 Mexico & Central America Regional Contest
+- #64 ITM-2, resolvió 2 problemas en The 2011 Mexico & Central America Regional Contest
+- #67 Fail, resolvió 1 problemas en The 2009 Mexico & Central America Contest
+- #75 TecMorelia1, resolvió 1 problemas en The 2013 Mexico & Central America Regional Contest
+- #79 ITM-1, resolvió 1 problemas en The 2011 Mexico & Central America Regional Contest
+- #81 ITM - Tec Morelia 3, resolvió 2 problemas en The 2012 Mexico & Central America Regional Contest
+- #95 Tuxinator, resolvió 1 problemas en The 2009 Mexico & Central America Contest
+
+## Participaciones
+
+### 2009-2010
 
 - #67 (#12 de TecNM) Fail (Regional)
 - #95 (#24 de TecNM) Tuxinator (Regional)
 
-## 2010-2011
+### 2010-2011
 
 - #102 (#18 de TecNM) ITM 2 (Regional)
 - #110 (#23 de TecNM) ITM1 (Regional)
 - #156 (#44 de TecNM) ITM3 (Regional)
 
-## 2011-2012
+### 2011-2012
 
 - #20 (#1 de TecNM) ITM-3 (Regional)
 - #64 (#12 de TecNM) ITM-2 (Regional)
 - #79 (#21 de TecNM) ITM-1 (Regional)
 
-## 2012-2013
+### 2012-2013
 
 - #46 (#17 de TecNM) Tec Morelia 1 (Regional)
 - #63 (#24 de TecNM) ITM - Tec Morelia 2 (Regional)
 - #81 (#31 de TecNM) ITM - Tec Morelia 3 (Regional)
 
-## 2013-2014
+### 2013-2014
 
 - #18 (#2 de TecNM) TecMorelia2 (Regional)
 - #75 (#13 de TecNM) TecMorelia1 (Regional)
 
-## 2020-2021
+### 2020-2021
 
 - #273 (#32 de TecNM) VISUAL DIM (Clasificatorio)
 - #351 (#65 de TecNM) Bugueadores (Clasificatorio)
@@ -44,14 +59,15 @@
 - #351 (#65 de TecNM) JavaTrue (Clasificatorio)
 - #351 (#65 de TecNM) PonyCode (Clasificatorio)
 
-## 2021-2022
+### 2021-2022
 
 - #226 (#36 de TecNM) Rubber Duckies (Clasificatorio)
 - #226 (#36 de TecNM) Los Pixies (Clasificatorio)
 
-## 2022-2023
+### 2022-2023
 
 - #381 (#75 de TecNM) Pony Code (Clasificatorio)
 - #381 (#75 de TecNM) PyJava++ (Clasificatorio)
+
 
 

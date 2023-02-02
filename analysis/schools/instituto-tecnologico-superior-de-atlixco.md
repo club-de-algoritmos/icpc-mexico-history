@@ -2,7 +2,12 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## 2019-2020
+## Top 10 equipos
+
+
+## Participaciones
+
+### 2019-2020
 
 - #382 (#98 de TecNM) El+Malo (Clasificatorio)
 - #382 (#98 de TecNM) Team JJS (Clasificatorio)
@@ -16,7 +21,7 @@
 - #382 (#98 de TecNM) punto y coma (Clasificatorio)
 - #382 (#98 de TecNM) Código Templario (Clasificatorio)
 
-## 2020-2021
+### 2020-2021
 
 - #351 (#65 de TecNM) X-Code (Clasificatorio)
 - #351 (#65 de TecNM)  Wonder Pets (Clasificatorio)
@@ -31,7 +36,7 @@
 - #351 (#65 de TecNM) Programadores 01 (Clasificatorio)
 - #351 (#65 de TecNM) Los 3 Mosqueteros (Clasificatorio)
 
-## 2021-2022
+### 2021-2022
 
 - #226 (#36 de TecNM) Team NAE (Clasificatorio)
 - #226 (#36 de TecNM) Los Nahum's (Clasificatorio)
@@ -42,7 +47,7 @@
 - #226 (#36 de TecNM) X-Force (Clasificatorio)
 - #226 (#36 de TecNM) Walking soft (Clasificatorio)
 
-## 2022-2023
+### 2022-2023
 
 - #381 (#75 de TecNM) Anonimus Power (Clasificatorio)
 - #381 (#75 de TecNM) Tecnotuners (Clasificatorio)
@@ -57,5 +62,6 @@
 - #381 (#75 de TecNM) .Zip (Clasificatorio)
 - #381 (#75 de TecNM) THE JOBS (Clasificatorio)
 - #381 (#75 de TecNM) Java lisT (Clasificatorio)
+
 
 

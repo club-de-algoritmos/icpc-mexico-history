@@ -2,8 +2,15 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## 2003-2004
+## Top 10 equipos
+
+- #41 uax-t, resolvió 0 problemas en The 2003 ACM Mexico and Central America Programming Contest
+
+## Participaciones
+
+### 2003-2004
 
 - #41 uax-t (Regional)
+
 
 

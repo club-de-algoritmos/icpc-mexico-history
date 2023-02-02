@@ -2,22 +2,34 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## 2002-2003
+## Top 10 equipos
+
+- #7 !nullptr, resolvió 4 problemas en The 2021 ICPC Mexico Finals
+- #13 !nullptr, resolvió 4 problemas en The 2020 ICPC Mexico Finals
+- #19 Bichos, resolvió 1 problemas en The 2002 ACM Mexico and Central America Programming Contest
+- #33 ¿Qué?, resolvió 3 problemas en The 2019 ICPC Mexico Finals
+- #45 Equipo, resolvió 3 problemas en The 2018 ICPC Mexico and Central America Finals
+- #47 Opilimpicos, resolvió 1 problemas en The 2019 ICPC Mexico Finals
+- #71 Cominf, resolvió 2 problemas en The 2012 Mexico & Central America Regional Contest
+
+## Participaciones
+
+### 2002-2003
 
 - #19 Bichos (Regional)
 
-## 2012-2013
+### 2012-2013
 
 - #71 Cominf (Regional)
 
-## 2018-2019
+### 2018-2019
 
 - #45 Equipo (Regional)
 - #209 Compi-uters (Clasificatorio)
 - #262 Qubits (Clasificatorio)
 - #265 Opilimpicos (Clasificatorio)
 
-## 2019-2020
+### 2019-2020
 
 - #33 ¿Qué? (Regional)
 - #47 Opilimpicos (Regional)
@@ -39,7 +51,7 @@
 - #382 Infocompas (Clasificatorio)
 - #382 Cheatcodes+ (Clasificatorio)
 
-## 2020-2021
+### 2020-2021
 
 - #13 !nullptr (Regional)
 - #103 Say my name (Clasificatorio)
@@ -56,7 +68,7 @@
 - #351 SmartDucks (Clasificatorio)
 - #351 GAG (Clasificatorio)
 
-## 2021-2022
+### 2021-2022
 
 - #7 !nullptr (Regional)
 - #127 NaN (Clasificatorio)
@@ -65,7 +77,7 @@
 - #226 Los Pixis (Clasificatorio)
 - #226 timeForce (Clasificatorio)
 
-## 2022-2023
+### 2022-2023
 
 - #23 !nullptr (Clasificatorio)
 - #58 js++ (Clasificatorio)
@@ -84,5 +96,6 @@
 - #315 Vodka Juniors (Clasificatorio)
 - #363 ThreeAmigos (Clasificatorio)
 - #377 programeitors (Clasificatorio)
+
 
 

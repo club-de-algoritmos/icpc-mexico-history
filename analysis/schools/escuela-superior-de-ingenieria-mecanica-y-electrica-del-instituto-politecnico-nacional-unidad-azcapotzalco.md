@@ -2,16 +2,22 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## 2015-2016
+## Top 10 equipos
+
+
+## Participaciones
+
+### 2015-2016
 
 - #107 RoboCode (Clasificatorio)
 
-## 2016-2017
+### 2016-2017
 
 - #121 Robocode (Clasificatorio)
 
-## 2017-2018
+### 2017-2018
 
 - #307 shrek is love (Clasificatorio)
+
 
 

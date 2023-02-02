@@ -2,29 +2,44 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## 2005-2006
+## Top 10 equipos
+
+- #103 Peludos, resolvió 0 problemas en 38th Annual World Finals of the ACM International Collegiate Programming Contest
+- #110 Peludos, resolvió 2 problemas en 39th Annual World Finals of the ACM International Collegiate Programming Contest
+- #3 Peludos, resolvió 5 problemas en The 2012 Mexico & Central America Regional Contest
+- #7 Leulz, resolvió 4 problemas en The 2015 ACM-ICPC Mexico and Central America Finals
+- #15 Epsilon, resolvió 4 problemas en The 2014 ACM-ICPC Mexico and Central America Finals
+- #15 cagUAA++, resolvió 4 problemas en The 2020 ICPC Mexico Finals
+- #19 Leviathan, resolvió 2 problemas en The 2013 Mexico & Central America Regional Contest
+- #21 nac-OS, resolvió 2 problemas en The 2017 ACM-ICPC Mexico and Central America Finals
+- #24 Team Puzzles, resolvió 3 problemas en The 2021 ICPC Mexico Finals
+- #24 WA de WAccepted, resolvió 4 problemas en The 2018 ICPC Mexico and Central America Finals
+
+## Participaciones
+
+### 2005-2006
 
 - #85 Kerus (Regional)
 
-## 2009-2010
+### 2009-2010
 
 - #43 gallos uaa (Regional)
 - #116 UAA- 2 (Regional)
 - #116 UAA-1 (Regional)
 
-## 2010-2011
+### 2010-2011
 
 - #74 Ne_Ne!_ISC (Regional)
 - #140 ICI (Regional)
 - #145 gallos uaa (Regional)
 
-## 2011-2012
+### 2011-2012
 
 - #33 ne_ne!_isc (Regional)
 - #57 LTI-LMA (Regional)
 - #83 ICI (Regional)
 
-## 2012-2013
+### 2012-2013
 
 - #3 Peludos (Regional)
 - #51 Anomcodes (Regional)
@@ -34,7 +49,7 @@
 - #83 UAA_Masters. (Regional)
 - #99 UAA_Builders (Regional)
 
-## 2013-2014
+### 2013-2014
 
 - #2 Peludos (Regional)
   - Avanzó a la final mundial, donde resolvió 0 problemas
@@ -46,7 +61,7 @@
 - #95 LTI-UAANDROIDES (Regional)
 - #95 Lyon Programing (Regional)
 
-## 2014-2015
+### 2014-2015
 
 - #1 Peludos (Regional)
   - Avanzó a la final mundial, donde resolvió 2 problemas
@@ -64,7 +79,7 @@
 - #176 KOTLIN (Clasificatorio)
 - #193 BOB'S (Clasificatorio)
 
-## 2015-2016
+### 2015-2016
 
 - #7 Leulz (Regional)
 - #54 The Mikers (Regional)
@@ -83,7 +98,7 @@
 - #108 Master program (Clasificatorio)
 - #108 BUILDERS (Clasificatorio)
 
-## 2016-2017
+### 2016-2017
 
 - #31 Nac-OS (Regional)
 - #56 Chinchanpu (Regional)
@@ -99,7 +114,7 @@
 - #121 Los Pelones de Breizers (Clasificatorio)
 - #121 Comegalletas (Clasificatorio)
 
-## 2017-2018
+### 2017-2018
 
 - #21 nac-OS (Regional)
 - #34 greñud-OS (Regional)
@@ -117,7 +132,7 @@
 - #405 jaguaar (Clasificatorio)
 - #405 Los judas Iscariote (Clasificatorio)
 
-## 2018-2019
+### 2018-2019
 
 - #24 WA de WAccepted (Regional)
 - #68 CTVS (Clasificatorio)
@@ -130,7 +145,7 @@
 - #375 APA (Clasificatorio)
 - #394 NO.C (Clasificatorio)
 
-## 2019-2020
+### 2019-2020
 
 - #32 Los testigos de Aarón (Regional)
 - #134 Percepctrón (Clasificatorio)
@@ -139,18 +154,18 @@
 - #344 SoftTrooper (Clasificatorio)
 - #382 Tower Code (Clasificatorio)
 
-## 2020-2021
+### 2020-2021
 
 - #15 cagUAA++ (Regional)
 - #41 Los testigos de Aarón - Aarón (Regional)
 - #150 Infinabyte (Clasificatorio)
 
-## 2021-2022
+### 2021-2022
 
 - #24 Team Puzzles (Regional)
 - #226 Infinabyte (Clasificatorio)
 
-## 2022-2023
+### 2022-2023
 
 - #48 TREE(3) (Clasificatorio)
 - #64 Gallos (Clasificatorio)
@@ -159,5 +174,6 @@
 - #209 Fluffy boys (Clasificatorio)
 - #213 Enchiladas Mexicanas (Clasificatorio)
 - #226 IDK (Clasificatorio)
+
 
 

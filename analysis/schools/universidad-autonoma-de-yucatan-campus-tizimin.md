@@ -2,7 +2,12 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## 2014-2015
+## Top 10 equipos
+
+
+## Participaciones
+
+### 2014-2015
 
 - #100 Los Colosales (Clasificatorio)
 - #168 Shinigamis (Clasificatorio)
@@ -11,7 +16,7 @@
 - #204 UMT-3 (Clasificatorio)
 - #204 UMT-2 (Clasificatorio)
 
-## 2016-2017
+### 2016-2017
 
 - #121 EquipoX (Clasificatorio)
 - #121 The Sharks (Clasificatorio)
@@ -20,7 +25,7 @@
 - #121 ABE (Clasificatorio)
 - #121 The One (Clasificatorio)
 
-## 2017-2018
+### 2017-2018
 
 - #342 Valaks (Clasificatorio)
 - #384 LCCs (Clasificatorio)
@@ -30,7 +35,7 @@
 - #405 LIS-2 (Clasificatorio)
 - #405 Fairy Tail (Clasificatorio)
 
-## 2018-2019
+### 2018-2019
 
 - #395 Coders (Clasificatorio)
 - #395 Steelers (Clasificatorio)
@@ -38,22 +43,23 @@
 - #395 Roquet (Clasificatorio)
 - #395 Ragnarok_Tizimin (Clasificatorio)
 
-## 2019-2020
+### 2019-2020
 
 - #308 UMT-UADY (Clasificatorio)
 - #349 UcReAyCode (Clasificatorio)
 - #382 UMT_UADY2 (Clasificatorio)
 - #382 Aguilas_Calvas (Clasificatorio)
 
-## 2020-2021
+### 2020-2021
 
 - #249 OUTATIME (Clasificatorio)
 - #295 EquipoUMT2 (Clasificatorio)
 - #351 EquipoUMT (Clasificatorio)
 - #351  CodersPST (Clasificatorio)
 
-## 2022-2023
+### 2022-2023
 
 - #381 UMT (Clasificatorio)
+
 
 

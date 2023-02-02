@@ -2,50 +2,65 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## 2009-2010
+## Top 10 equipos
+
+- #66 itsu_uruapan1, resolvió 2 problemas en The 2011 Mexico & Central America Regional Contest
+- #90 itsu1, resolvió 2 problemas en The 2012 Mexico & Central America Regional Contest
+- #95 itsu01, resolvió 0 problemas en The 2013 Mexico & Central America Regional Contest
+- #96 British steel, resolvió 2 problemas en The 2010 Mexico & Central America Regional Contest
+- #97 ITESU01, resolvió 1 problemas en The 2009 Mexico & Central America Contest
+- #103 ITESU03, resolvió 1 problemas en The 2009 Mexico & Central America Contest
+- #104 itsu_uruapan2, resolvió 0 problemas en The 2011 Mexico & Central America Regional Contest
+- #104 itsu_uruapan3, resolvió 0 problemas en The 2011 Mexico & Central America Regional Contest
+- #116 ITESU02, resolvió 0 problemas en The 2009 Mexico & Central America Contest
+- #129 itsu3, resolvió 1 problemas en The 2012 Mexico & Central America Regional Contest
+
+## Participaciones
+
+### 2009-2010
 
 - #97 (#25 de TecNM) ITESU01 (Regional)
 - #103 (#27 de TecNM) ITESU03 (Regional)
 - #116 (#31 de TecNM) ITESU02 (Regional)
 
-## 2010-2011
+### 2010-2011
 
 - #96 (#16 de TecNM) British steel (Regional)
 - #135 (#35 de TecNM) Quantum Team (Regional)
 - #154 (#42 de TecNM) ITESU001 (Regional)
 
-## 2011-2012
+### 2011-2012
 
 - #66 (#14 de TecNM) itsu_uruapan1 (Regional)
 - #104 (#33 de TecNM) itsu_uruapan3 (Regional)
 - #104 (#33 de TecNM) itsu_uruapan2 (Regional)
 
-## 2012-2013
+### 2012-2013
 
 - #90 (#34 de TecNM) itsu1 (Regional)
 - #129 (#50 de TecNM) itsu3 (Regional)
 - #134 (#53 de TecNM) itsu2 (Regional)
 
-## 2013-2014
+### 2013-2014
 
 - #95 (#24 de TecNM) itsu01 (Regional)
 
-## 2016-2017
+### 2016-2017
 
 - #121 (#20 de TecNM) Quantus (Clasificatorio)
 
-## 2017-2018
+### 2017-2018
 
 - #325 (#69 de TecNM) Quantum (Clasificatorio)
 - #353 (#78 de TecNM) Armexx (Clasificatorio)
 
-## 2019-2020
+### 2019-2020
 
 - #382 (#98 de TecNM) MBP (Clasificatorio)
 - #382 (#98 de TecNM) Otro equipo de 3 (Clasificatorio)
 - #382 (#98 de TecNM) Equipo7 (Clasificatorio)
 
-## 2020-2021
+### 2020-2021
 
 - #351 (#65 de TecNM) UnknownITSU (Clasificatorio)
 - #351 (#65 de TecNM) ikimenhani (Clasificatorio)
@@ -54,7 +69,7 @@
 - #351 (#65 de TecNM) BRODING (Clasificatorio)
 - #351 (#65 de TecNM) Traponeitor3000 (Clasificatorio)
 
-## 2021-2022
+### 2021-2022
 
 - #226 (#36 de TecNM) Juramuti (Clasificatorio)
 - #226 (#36 de TecNM) HUYSA (Clasificatorio)
@@ -63,7 +78,7 @@
 - #226 (#36 de TecNM) Beni's Club (Clasificatorio)
 - #226 (#36 de TecNM) UINHAPINI (Clasificatorio)
 
-## 2022-2023
+### 2022-2023
 
 - #381 (#75 de TecNM) Mapaches Locos (Clasificatorio)
 - #381 (#75 de TecNM) Pentacode (Clasificatorio)
@@ -85,5 +100,6 @@
 - #381 (#75 de TecNM) CIA (Clasificatorio)
 - #381 (#75 de TecNM) Tec team (Clasificatorio)
 - #381 (#75 de TecNM) Mr. Chava  (Clasificatorio)
+
 
 

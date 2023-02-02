@@ -2,14 +2,25 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## 2013-2014
+## Top 10 equipos
+
+- #59 Triforce, resolvió 2 problemas en The 2015 ACM-ICPC Mexico and Central America Finals
+- #74 RAL Machine, resolvió 1 problemas en The 2015 ACM-ICPC Mexico and Central America Finals
+- #95 !Java, resolvió 0 problemas en The 2013 Mexico & Central America Regional Contest
+- #95 FreeCode, resolvió 0 problemas en The 2013 Mexico & Central America Regional Contest
+- #95 Full-Time Programmers, resolvió 0 problemas en The 2013 Mexico & Central America Regional Contest
+- #95 Skynett, resolvió 0 problemas en The 2013 Mexico & Central America Regional Contest
+
+## Participaciones
+
+### 2013-2014
 
 - #95 (#24 de TecNM) FreeCode (Regional)
 - #95 (#24 de TecNM) Skynett (Regional)
 - #95 (#24 de TecNM) Full-Time Programmers (Regional)
 - #95 (#24 de TecNM) !Java (Regional)
 
-## 2015-2016
+### 2015-2016
 
 - #59 (#10 de TecNM) Triforce (Regional)
 - #74 (#14 de TecNM) RAL Machine (Regional)
@@ -17,7 +28,7 @@
 - #108 (#28 de TecNM) Control Machete (Clasificatorio)
 - #108 (#28 de TecNM) Wolfies (Clasificatorio)
 
-## 2016-2017
+### 2016-2017
 
 - #121 (#20 de TecNM) Zurdok (Clasificatorio)
 - #121 (#20 de TecNM) Reach (Clasificatorio)
@@ -25,13 +36,13 @@
 - #121 (#20 de TecNM) Los Osados (Clasificatorio)
 - #121 (#20 de TecNM) Programmers Squad (Clasificatorio)
 
-## 2017-2018
+### 2017-2018
 
 - #355 (#79 de TecNM) 3TNT (Clasificatorio)
 - #378 (#88 de TecNM) Team-ANG (Clasificatorio)
 - #405 (#97 de TecNM) Blue Fire (Clasificatorio)
 
-## 2018-2019
+### 2018-2019
 
 - #395 (#159 de TecNM) MKL (Clasificatorio)
 - #395 (#159 de TecNM) Dinamita (Clasificatorio)
@@ -46,7 +57,7 @@
 - #395 (#159 de TecNM) CKT (Clasificatorio)
 - #395 (#159 de TecNM) Quack squad (Clasificatorio)
 
-## 2019-2020
+### 2019-2020
 
 - #128 (#16 de TecNM) CKT (Clasificatorio)
 - #141 (#19 de TecNM) 3.1416T* (Clasificatorio)
@@ -71,7 +82,7 @@
 - #382 (#98 de TecNM) Comando Cloud (Clasificatorio)
 - #382 (#98 de TecNM) The Best Programmers (Clasificatorio)
 
-## 2020-2021
+### 2020-2021
 
 - #141 (#11 de TecNM) Segmentation Fault (Clasificatorio)
 - #274 (#33 de TecNM) CKT (Clasificatorio)
@@ -90,7 +101,7 @@
 - #351 (#65 de TecNM) Team Mancos (Clasificatorio)
 - #351 (#65 de TecNM) International Elite (Clasificatorio)
 
-## 2021-2022
+### 2021-2022
 
 - #179 (#19 de TecNM) Sin pisto no existo (Clasificatorio)
 - #185 (#20 de TecNM) OneCodeMan (Clasificatorio)
@@ -105,7 +116,7 @@
 - #226 (#36 de TecNM) Onda Software (Clasificatorio)
 - #226 (#36 de TecNM) RAD (Clasificatorio)
 
-## 2022-2023
+### 2022-2023
 
 - #263 (#45 de TecNM) Los tilines (Clasificatorio)
 - #360 (#65 de TecNM) The switch (Clasificatorio)
@@ -121,5 +132,6 @@
 - #381 (#75 de TecNM) Flaming Hot (Clasificatorio)
 - #381 (#75 de TecNM) TilinesSUS (Clasificatorio)
 - #381 (#75 de TecNM) Index out of bounds (Clasificatorio)
+
 
 

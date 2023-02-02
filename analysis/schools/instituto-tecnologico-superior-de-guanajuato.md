@@ -2,18 +2,32 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## 2014-2015
+## Top 10 equipos
+
+- #19 Promised Rinascimento, resolvió 3 problemas en The 2021 ICPC Mexico Finals
+- #25 Promised Rinascimento, resolvió 3 problemas en The 2019 ICPC Mexico Finals
+- #27 Promised Rinascimento, resolvió 4 problemas en The 2018 ICPC Mexico and Central America Finals
+- #30 Legio I Germania, resolvió 2 problemas en The 2014 ACM-ICPC Mexico and Central America Finals
+- #34 Los religiosos, resolvió 3 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
+- #39 LOS RELIGIOSOS, resolvió 2 problemas en The 2017 ACM-ICPC Mexico and Central America Finals
+- #41 Legio I, resolvió 2 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
+- #47 Moyos, resolvió 2 problemas en The 2015 ACM-ICPC Mexico and Central America Finals
+- #51 Legio I, resolvió 2 problemas en The 2015 ACM-ICPC Mexico and Central America Finals
+
+## Participaciones
+
+### 2014-2015
 
 - #30 (#3 de TecNM) Legio I Germania (Regional)
 - #108 (#15 de TecNM) Legio IX Hispana (Clasificatorio)
 - #204 (#52 de TecNM) Legio IV Scythia (Clasificatorio)
 
-## 2015-2016
+### 2015-2016
 
 - #47 (#6 de TecNM) Moyos (Regional)
 - #51 (#8 de TecNM) Legio I (Regional)
 
-## 2016-2017
+### 2016-2017
 
 - #34 (#3 de TecNM) Los religiosos (Regional)
 - #41 (#5 de TecNM) Legio I (Regional)
@@ -21,7 +35,7 @@
 - #121 (#20 de TecNM) Los Chufuys (Clasificatorio)
 - #121 (#20 de TecNM) Black Dragons (Clasificatorio)
 
-## 2017-2018
+### 2017-2018
 
 - #39 (#5 de TecNM) LOS RELIGIOSOS (Regional)
 - #222 (#43 de TecNM) LVL (Clasificatorio)
@@ -29,14 +43,14 @@
 - #405 (#97 de TecNM) HIKERS (Clasificatorio)
 - #405 (#97 de TecNM) 65536 (Clasificatorio)
 
-## 2018-2019
+### 2018-2019
 
 - #27 (#3 de TecNM) Promised Rinascimento (Regional)
 - #248 (#48 de TecNM) Triforce (Clasificatorio)
 - #259 (#52 de TecNM) Los Acrobáticos (Clasificatorio)
 - #331 (#76 de TecNM) La Liga del Código (Clasificatorio)
 
-## 2019-2020
+### 2019-2020
 
 - #25 (#4 de TecNM) Promised Rinascimento (Regional)
 - #269 (#50 de TecNM) Triforce (Clasificatorio)
@@ -48,14 +62,14 @@
 - #382 (#98 de TecNM) 404 NOT FOUND (Clasificatorio)
 - #382 (#98 de TecNM) PECESESES (Clasificatorio)
 
-## 2020-2021
+### 2020-2021
 
 - #282 (#35 de TecNM) Promised Rinascimento (Clasificatorio)
 - #351 (#65 de TecNM) Los Tripulantes (Clasificatorio)
 - #351 (#65 de TecNM) RanasITESG (Clasificatorio)
 - #351 (#65 de TecNM) Triforce (Clasificatorio)
 
-## 2021-2022
+### 2021-2022
 
 - #19 (#1 de TecNM) Promised Rinascimento (Regional)
 - #226 (#36 de TecNM) cron-OS (Clasificatorio)
@@ -66,7 +80,7 @@
 - #226 (#36 de TecNM) Los Kuasoos (Clasificatorio)
 - #226 (#36 de TecNM) Threebites (Clasificatorio)
 
-## 2022-2023
+### 2022-2023
 
 - #381 (#75 de TecNM) White Hat (Clasificatorio)
 - #381 (#75 de TecNM) The UNIXS (Clasificatorio)
@@ -76,5 +90,6 @@
 - #381 (#75 de TecNM) PDM (Clasificatorio)
 - #381 (#75 de TecNM) Ranas ITESG (Clasificatorio)
 - #381 (#75 de TecNM) Las .rawr (Clasificatorio)
+
 
 

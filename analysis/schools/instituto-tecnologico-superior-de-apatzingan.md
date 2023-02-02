@@ -2,50 +2,65 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## 2009-2010
+## Top 10 equipos
+
+- #35 NISC, resolvió 3 problemas en The 2011 Mexico & Central America Regional Contest
+- #43 java knights, resolvió 1 problemas en The 2013 Mexico & Central America Regional Contest
+- #53 SIMPUS YGGDRASIL, resolvió 2 problemas en The 2012 Mexico & Central America Regional Contest
+- #58 SIMPUS_ITSA, resolvió 2 problemas en The 2011 Mexico & Central America Regional Contest
+- #81 SIMPUS-ITSA, resolvió 1 problemas en The 2009 Mexico & Central America Contest
+- #92 GNU-ITSA, resolvió 1 problemas en The 2009 Mexico & Central America Contest
+- #95 Mugiwara, resolvió 0 problemas en The 2013 Mexico & Central America Regional Contest
+- #95 los bastardos, resolvió 0 problemas en The 2013 Mexico & Central America Regional Contest
+- #95 minions, resolvió 0 problemas en The 2013 Mexico & Central America Regional Contest
+- #102 simpus_itsa, resolvió 1 problemas en The 2010 Mexico & Central America Regional Contest
+
+## Participaciones
+
+### 2009-2010
 
 - #81 (#16 de TecNM) SIMPUS-ITSA (Regional)
 - #92 (#22 de TecNM) GNU-ITSA (Regional)
 
-## 2010-2011
+### 2010-2011
 
 - #102 (#18 de TecNM) simpus_itsa (Regional)
 - #112 (#25 de TecNM) NISC (Regional)
 - #155 (#43 de TecNM) Los caballeros de Java (Regional)
 - #156 (#44 de TecNM) Digital Fortress (Regional)
 
-## 2011-2012
+### 2011-2012
 
 - #35 (#2 de TecNM) NISC (Regional)
 - #58 (#9 de TecNM) SIMPUS_ITSA (Regional)
 - #104 (#33 de TecNM) CABALLEROS DE JAVA (Regional)
 
-## 2012-2013
+### 2012-2013
 
 - #53 (#20 de TecNM) SIMPUS YGGDRASIL (Regional)
 - #120 (#46 de TecNM) Nopal warriors (Regional)
 - #127 (#48 de TecNM) Equipo Kakashi (Regional)
 - #130 (#51 de TecNM) NISC (Regional)
 
-## 2013-2014
+### 2013-2014
 
 - #43 (#4 de TecNM) java knights (Regional)
 - #95 (#24 de TecNM) Mugiwara (Regional)
 - #95 (#24 de TecNM) minions (Regional)
 - #95 (#24 de TecNM) los bastardos (Regional)
 
-## 2015-2016
+### 2015-2016
 
 - #108 (#28 de TecNM) ANONYMOUS (Clasificatorio)
 - #108 (#28 de TecNM) Los yerenas (Clasificatorio)
 - #108 (#28 de TecNM) Los Bastardos (Clasificatorio)
 
-## 2017-2018
+### 2017-2018
 
 - #289 (#64 de TecNM) Los mayas (Clasificatorio)
 - #405 (#97 de TecNM) LOS BIG INTEGERS (Clasificatorio)
 
-## 2019-2020
+### 2019-2020
 
 - #382 (#98 de TecNM) ISC TEAM (Clasificatorio)
 - #382 (#98 de TecNM) MexiCode (Clasificatorio)
@@ -60,7 +75,7 @@
 - #382 (#98 de TecNM) Los Judas ITSA (Clasificatorio)
 - #382 (#98 de TecNM) Team Gorditos ITSA (Clasificatorio)
 
-## 2022-2023
+### 2022-2023
 
 - #381 (#75 de TecNM) JavaCoders (Clasificatorio)
 - #381 (#75 de TecNM) Triple Punto Muerto (Clasificatorio)
@@ -70,5 +85,6 @@
 - #381 (#75 de TecNM) Lithium++ (Clasificatorio)
 - #381 (#75 de TecNM) OREO (Clasificatorio)
 - #381 (#75 de TecNM) ADISA (Clasificatorio)
+
 
 

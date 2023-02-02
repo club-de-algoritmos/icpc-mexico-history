@@ -2,24 +2,38 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## 2011-2012
+## Top 10 equipos
+
+- #44 anonymous, resolvió 2 problemas en The 2012 Mexico & Central America Regional Contest
+- #51 Base16, resolvió 3 problemas en The 2018 ICPC Mexico and Central America Finals
+- #95 Error 404 Programmers NF, resolvió 0 problemas en The 2013 Mexico & Central America Regional Contest
+- #95 KUINIKES, resolvió 0 problemas en The 2013 Mexico & Central America Regional Contest
+- #95 Recyclers Coders, resolvió 0 problemas en The 2013 Mexico & Central America Regional Contest
+- #104 Delfines, resolvió 0 problemas en The 2011 Mexico & Central America Regional Contest
+- #104 Tiburones, resolvió 0 problemas en The 2011 Mexico & Central America Regional Contest
+- #134 Delfines, resolvió 0 problemas en The 2012 Mexico & Central America Regional Contest
+- #134 KAME, resolvió 0 problemas en The 2012 Mexico & Central America Regional Contest
+
+## Participaciones
+
+### 2011-2012
 
 - #104 (#33 de TecNM) Delfines (Regional)
 - #104 (#33 de TecNM) Tiburones (Regional)
 
-## 2012-2013
+### 2012-2013
 
 - #44 (#15 de TecNM) anonymous (Regional)
 - #134 (#53 de TecNM) Delfines (Regional)
 - #134 (#53 de TecNM) KAME (Regional)
 
-## 2013-2014
+### 2013-2014
 
 - #95 (#24 de TecNM) Recyclers Coders (Regional)
 - #95 (#24 de TecNM) KUINIKES (Regional)
 - #95 (#24 de TecNM) Error 404 Programmers NF (Regional)
 
-## 2017-2018
+### 2017-2018
 
 - #131 (#19 de TecNM) Base16 (Clasificatorio)
 - #298 (#65 de TecNM) itlac4 (Clasificatorio)
@@ -32,7 +46,7 @@
 - #405 (#97 de TecNM) The Fast (Clasificatorio)
 - #405 (#97 de TecNM) Error404 (Clasificatorio)
 
-## 2018-2019
+### 2018-2019
 
 - #51 (#5 de TecNM) Base16 (Regional)
 - #251 (#49 de TecNM) Shark Code (Clasificatorio)
@@ -51,7 +65,7 @@
 - #394 (#103 de TecNM) SysTeCode3.0 (Clasificatorio)
 - #394 (#103 de TecNM) The Insiders (Clasificatorio)
 
-## 2019-2020
+### 2019-2020
 
 - #130 (#18 de TecNM) Base16 (Clasificatorio)
 - #184 (#24 de TecNM) Innombrables (Clasificatorio)
@@ -63,13 +77,13 @@
 - #375 (#95 de TecNM) charizar; (Clasificatorio)
 - #382 (#98 de TecNM) lossuperconocidos (Clasificatorio)
 
-## 2020-2021
+### 2020-2021
 
 - #79 (#8 de TecNM) base16 (Clasificatorio)
 - #160 (#14 de TecNM) char mander (Clasificatorio)
 - #301 (#40 de TecNM) The Powerpuff Girls (Clasificatorio)
 
-## 2021-2022
+### 2021-2022
 
 - #156 (#16 de TecNM) KND: Los chicos sin barrio (Clasificatorio)
 - #226 (#36 de TecNM) Los Electro (Clasificatorio)
@@ -78,7 +92,7 @@
 - #226 (#36 de TecNM) Javalimos 2.0 (Clasificatorio)
 - #226 (#36 de TecNM) Los renegados del ITLAC (Clasificatorio)
 
-## 2022-2023
+### 2022-2023
 
 - #89 (#10 de TecNM) Guerreros del Sol (Clasificatorio)
 - #277 (#48 de TecNM) char mander (Clasificatorio)
@@ -87,5 +101,6 @@
 - #381 (#75 de TecNM) Cocodrilos (Clasificatorio)
 - #381 (#75 de TecNM) Magda&Friends (Clasificatorio)
 - #381 (#75 de TecNM) BLINKS (Clasificatorio)
+
 
 

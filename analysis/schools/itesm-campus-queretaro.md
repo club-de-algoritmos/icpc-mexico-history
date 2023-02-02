@@ -2,28 +2,43 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## 2001-2002
+## Top 10 equipos
+
+- #57 Pragma, resolvió 2 problemas en 42nd Annual World Finals of the International Collegiate Programming Contest
+- #76 ITESM Queretaro Los punteros, resolvió 2 problemas en 34th Annual World Finals of the ACM International Collegiate Programming Contest
+- #1 Los punteros, resolvió 8 problemas en The 2009 Mexico & Central America Contest
+- #4 Deadly Coding Squad =), resolvió 4 problemas en The 2008 Mexico & Central America Contest
+- #5 MachineGun, resolvió 4 problemas en The 2008 Mexico & Central America Contest
+- #7 Code Templars, resolvió 4 problemas en The 2008 Mexico & Central America Contest
+- #8 Arrolladores ASCIIs, resolvió 3 problemas en The 2007 ACM Mexico and Central America Programming Contest
+- #11 lEFTaSaNeXERCISE, resolvió 5 problemas en The 2019 ICPC Mexico Finals
+- #12 wlog, resolvió 4 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
+- #13 Anonymous, resolvió 3 problemas en The 2011 Mexico & Central America Regional Contest
+
+## Participaciones
+
+### 2001-2002
 
 - #25 maxeii (Regional)
 - #32 Mexican Boys (Regional)
 - #41 Cafe Caliente (Regional)
 - #54 The Empire (Regional)
 
-## 2002-2003
+### 2002-2003
 
 - #14 ISE TEAM (Regional)
 
-## 2004-2005
+### 2004-2005
 
 - #22 NARF (Regional)
 - #61 The Enigma Thread Alliance (Regional)
 
-## 2005-2006
+### 2005-2006
 
 - #13 ETA v2.0:The Whole Enchilada! (Regional)
 - #66 D-CODERS =>ITESM-CQ (Regional)
 
-## 2006-2007
+### 2006-2007
 
 - #16 ITESM-CQ1 Dream Catcher =) (Regional)
 - #38 ITESM-CQ6 (Regional)
@@ -32,7 +47,7 @@
 - #64 ITESM-CQ4 while ((2B)||(!(2B)  (Regional)
 - #85 ITESM-CQ3 (Regional)
 
-## 2007-2008
+### 2007-2008
 
 - #8 Arrolladores ASCIIs (Regional)
 - #15 Deadly Coding Squad (Regional)
@@ -48,7 +63,7 @@
 - #61 ITESM-CQ1 (Regional)
 - #61 Son of a Bit (Regional)
 
-## 2008-2009
+### 2008-2009
 
 - #4 Deadly Coding Squad =) (Regional)
 - #5 MachineGun (Regional)
@@ -61,7 +76,7 @@
 - #44 ITESM CQ2 (Regional)
 - #101  Its Hammer Time!! (Regional)
 
-## 2009-2010
+### 2009-2010
 
 - #1 Los punteros (Regional)
 - #19 TheHiveClusterIsUnderAttack!!! (Regional)
@@ -70,7 +85,7 @@
 - #69 StupidUserException (Regional)
 - #72 NullPointerException (Regional)
 
-## 2010-2011
+### 2010-2011
 
 - #28 Villanos Favoritos (Regional)
 - #34 (>^.^)> ((°\(^,^)/°)) <(^.^<) (Regional)
@@ -78,26 +93,26 @@
 - #50 Machine Gun (Regional)
 - #85 FLDSMDFR (Regional)
 
-## 2011-2012
+### 2011-2012
 
 - #13 Anonymous (Regional)
 - #38 PowerMilk (Regional)
 - #54 Pastafarians (Regional)
 - #93 JoBeLu (Regional)
 
-## 2012-2013
+### 2012-2013
 
 - #16 Tribonacci (Regional)
 - #73 IOT (Regional)
 
-## 2013-2014
+### 2013-2014
 
 - #27 Dudes (Regional)
 - #52 Tribonacci (Regional)
 - #59 Perrys (Regional)
 - #95 nCodersQro (Regional)
 
-## 2015-2016
+### 2015-2016
 
 - #20 Coder::Dash (Regional)
 - #21 Aleph (Regional)
@@ -105,14 +120,14 @@
 - #108 Babuinos (Clasificatorio)
 - #108 ABM (Clasificatorio)
 
-## 2016-2017
+### 2016-2017
 
 - #12 wlog (Regional)
 - #17 Code'n'play (Regional)
 - #121 Glitchs (Clasificatorio)
 - #121 ANT (Clasificatorio)
 
-## 2017-2018
+### 2017-2018
 
 - #3 Pragma (Regional)
   - Avanzó a la final mundial, donde resolvió 2 problemas
@@ -122,7 +137,7 @@
 - #397 Pizza Atomica (Clasificatorio)
 - #404 LPRK (Clasificatorio)
 
-## 2018-2019
+### 2018-2019
 
 - #13 c+vga (Regional)
 - #16 pragma++ (Regional)
@@ -137,7 +152,7 @@
 - #394 Sigma (Clasificatorio)
 - #395 Tacos del Infinito (Clasificatorio)
 
-## 2019-2020
+### 2019-2020
 
 - #11 lEFTaSaNeXERCISE (Regional)
 - #257 Nionic (Clasificatorio)
@@ -145,9 +160,10 @@
 - #366 Sovie (Clasificatorio)
 - #382 Team E. Turner (Clasificatorio)
 
-## 2020-2021
+### 2020-2021
 
 - #269 ARF (Clasificatorio)
 - #303 Dexter (Clasificatorio)
+
 
 

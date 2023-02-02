@@ -2,27 +2,42 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## 2010-2011
+## Top 10 equipos
+
+- #63 #define TriLCI(404.0) :v, resolvió 2 problemas en 43rd Annual World Finals of the International Collegiate Programming Contest
+- #3 #define TriLCI(404.0) :v, resolvió 6 problemas en The 2019 ICPC Mexico Finals
+- #8 ITSUR-MIXLANG CODERS, resolvió 3 problemas en The 2013 Mexico & Central America Regional Contest
+- #8 define TriLCI 404, resolvió 5 problemas en The 2017 ACM-ICPC Mexico and Central America Finals
+- #10 ITSUR MIX LANG CODERS, resolvió 5 problemas en The 2014 ACM-ICPC Mexico and Central America Finals
+- #11 Laughing Coffee, resolvió 4 problemas en The 2015 ACM-ICPC Mexico and Central America Finals
+- #14 ITSUR MIX LANG COFFEE, resolvió 4 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
+- #24 Another Day, another AC, resolvió 3 problemas en The 2019 ICPC Mexico Finals
+- #29 ITSUR_1, resolvió 3 problemas en The 2012 Mexico & Central America Regional Contest
+- #29 010 girls & 001 Mike, resolvió 4 problemas en The 2020 ICPC Mexico Finals
+
+## Participaciones
+
+### 2010-2011
 
 - #131 (#33 de TecNM) ITSUR-1 (Regional)
 - #134 (#34 de TecNM) ITSUR-2 (Regional)
 - #156 (#44 de TecNM) CRUZ AZUL (Regional)
 
-## 2011-2012
+### 2011-2012
 
 - #65 (#13 de TecNM) ITSUR (Regional)
 
-## 2012-2013
+### 2012-2013
 
 - #29 (#8 de TecNM) ITSUR_1 (Regional)
 - #134 (#53 de TecNM) ITSUR-2 (Regional)
 
-## 2013-2014
+### 2013-2014
 
 - #8 (#1 de TecNM) ITSUR-MIXLANG CODERS (Regional)
 - #49 (#7 de TecNM) ITSUR 2 (Regional)
 
-## 2014-2015
+### 2014-2015
 
 - #10 (#2 de TecNM) ITSUR MIX LANG CODERS (Regional)
 - #81 (#12 de TecNM) SISTEMA MJE (Clasificatorio)
@@ -34,7 +49,7 @@
 - #204 (#52 de TecNM) Vector (Clasificatorio)
 - #204 (#52 de TecNM) Informatica ONE (Clasificatorio)
 
-## 2015-2016
+### 2015-2016
 
 - #11 (#1 de TecNM) Laughing Coffee (Regional)
 - #33 (#2 de TecNM) ITSUR MIXLANG CODERS (Regional)
@@ -46,7 +61,7 @@
 - #108 (#28 de TecNM) ProgAmando (Clasificatorio)
 - #108 (#28 de TecNM) TheBestCREW (Clasificatorio)
 
-## 2016-2017
+### 2016-2017
 
 - #14 (#2 de TecNM) ITSUR MIX LANG COFFEE (Regional)
 - #83 (#13 de TecNM) Brave System (Regional)
@@ -65,7 +80,7 @@
 - #121 (#20 de TecNM) No Vodka No Life (Clasificatorio)
 - #121 (#20 de TecNM) LOS ETERNOS (Clasificatorio)
 
-## 2017-2018
+### 2017-2018
 
 - #8 (#1 de TecNM) define TriLCI 404 (Regional)
 - #113 (#14 de TecNM) Wild System (Clasificatorio)
@@ -91,7 +106,7 @@
 - #405 (#97 de TecNM) PPPalvC (Clasificatorio)
 - #405 (#97 de TecNM) Titan Code (Clasificatorio)
 
-## 2018-2019
+### 2018-2019
 
 - #4 (#1 de TecNM) #define TriLCI(404.0) :v (Regional)
   - Avanzó a la final mundial, donde resolvió 2 problemas
@@ -114,7 +129,7 @@
 - #394 (#103 de TecNM) FenixBit (Clasificatorio)
 - #394 (#103 de TecNM) Kuhaku (Clasificatorio)
 
-## 2019-2020
+### 2019-2020
 
 - #3 (#1 de TecNM) #define TriLCI(404.0) :v (Regional)
 - #24 (#3 de TecNM) Another Day, another AC (Regional)
@@ -145,7 +160,7 @@
 - #382 (#98 de TecNM) X-FORCE (Clasificatorio)
 - #382 (#98 de TecNM) Ecorp (Clasificatorio)
 
-## 2020-2021
+### 2020-2021
 
 - #29 (#1 de TecNM) 010 girls & 001 Mike (Regional)
 - #36 (#2 de TecNM) Too lazy to propagate (Regional)
@@ -172,7 +187,7 @@
 - #351 (#65 de TecNM) Code Breakers (Clasificatorio)
 - #351 (#65 de TecNM) Panaderos con el pan (Clasificatorio)
 
-## 2021-2022
+### 2021-2022
 
 - #30 (#2 de TecNM) Too lazy to propagate (Regional)
 - #31 (#3 de TecNM) Los picateclas (Regional)
@@ -192,7 +207,7 @@
 - #226 (#36 de TecNM) Akatsuki (Clasificatorio)
 - #226 (#36 de TecNM) Code PAM (Clasificatorio)
 
-## 2022-2023
+### 2022-2023
 
 - #16 (#1 de TecNM) Hugs for Bugs (Clasificatorio)
 - #26 (#2 de TecNM) Javamonos (Clasificatorio)
@@ -223,5 +238,6 @@
 - #381 (#75 de TecNM) JGA (Clasificatorio)
 - #381 (#75 de TecNM) Movimento naranja (Clasificatorio)
 - #381 (#75 de TecNM) Code Killer (Clasificatorio)
+
 
 

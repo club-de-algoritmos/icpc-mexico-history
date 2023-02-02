@@ -2,7 +2,12 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## 2019-2020
+## Top 10 equipos
+
+
+## Participaciones
+
+### 2019-2020
 
 - #382 (#98 de TecNM) Progra-Masters (Clasificatorio)
 - #382 (#98 de TecNM) TEAM CAP (Clasificatorio)
@@ -32,7 +37,7 @@
 - #382 (#98 de TecNM) LOS EXILIADOS (Clasificatorio)
 - #382 (#98 de TecNM) Siriusmx (Clasificatorio)
 
-## 2020-2021
+### 2020-2021
 
 - #157 (#13 de TecNM) Trivial ITESCO (Clasificatorio)
 - #312 (#45 de TecNM) Recursivos ITESCO (Clasificatorio)
@@ -41,11 +46,11 @@
 - #351 (#65 de TecNM) kamikaze (Clasificatorio)
 - #351 (#65 de TecNM) TeamISC (Clasificatorio)
 
-## 2021-2022
+### 2021-2022
 
 - #226 (#36 de TecNM) ITESCO-MECATRONICA (Clasificatorio)
 
-## 2022-2023
+### 2022-2023
 
 - #381 (#75 de TecNM) Astek power (Clasificatorio)
 - #381 (#75 de TecNM) Escorpions (Clasificatorio)
@@ -70,5 +75,6 @@
 - #381 (#75 de TecNM) RED-COSV (Clasificatorio)
 - #381 (#75 de TecNM) La Serpientitas del Sureste (Clasificatorio)
 - #381 (#75 de TecNM) Sirius Marvel (Clasificatorio)
+
 
 

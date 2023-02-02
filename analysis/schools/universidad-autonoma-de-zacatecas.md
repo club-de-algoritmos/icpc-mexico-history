@@ -2,38 +2,53 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## 2004-2005
+## Top 10 equipos
+
+- #18 #include<uaz>, resolvió 4 problemas en The 2018 ICPC Mexico and Central America Finals
+- #21 #include<uaz>, resolvió 3 problemas en The 2021 ICPC Mexico Finals
+- #22 #include <uaz>, resolvió 4 problemas en The 2019 ICPC Mexico Finals
+- #25 Los Ases, resolvió 2 problemas en The 2013 Mexico & Central America Regional Contest
+- #30 #include<uaz>, resolvió 3 problemas en The 2020 ICPC Mexico Finals
+- #34 Developers, resolvió 1 problemas en The 2013 Mexico & Central America Regional Contest
+- #35 jarcores, resolvió 2 problemas en The 2014 ACM-ICPC Mexico and Central America Finals
+- #40 SourceCode, resolvió 2 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
+- #42 ProgrammersOP, resolvió 1 problemas en The 2014 ACM-ICPC Mexico and Central America Finals
+- #48 Sudo Programmers, resolvió 1 problemas en The 2021 ICPC Mexico Finals
+
+## Participaciones
+
+### 2004-2005
 
 - #81 UAZ2 (Regional)
 - #90 UAZ (Regional)
 - #90 UAZ3 (Regional)
 
-## 2005-2006
+### 2005-2006
 
 - #64 UAZ E2 (Regional)
 - #85 UAZ E1 (Regional)
 - #85 UAZ E3 (Regional)
 
-## 2006-2007
+### 2006-2007
 
 - #86 Mezcal lnside (Regional)
 
-## 2008-2009
+### 2008-2009
 
 - #101 Protozoos (Regional)
 
-## 2012-2013
+### 2012-2013
 
 - #125 NULLSOFT (Regional)
 
-## 2013-2014
+### 2013-2014
 
 - #25 Los Ases (Regional)
 - #34 Developers (Regional)
 - #63 Overflow (Regional)
 - #95 Plugins (Regional)
 
-## 2014-2015
+### 2014-2015
 
 - #35 jarcores (Regional)
 - #42 ProgrammersOP (Regional)
@@ -51,7 +66,7 @@
 - #204 Los Novatos (Clasificatorio)
 - #204 IronCode (Clasificatorio)
 
-## 2015-2016
+### 2015-2016
 
 - #53 Winter Wolves (Regional)
 - #108 Elite (Clasificatorio)
@@ -61,7 +76,7 @@
 - #108 IBC (Clasificatorio)
 - #108 FGZ (Clasificatorio)
 
-## 2016-2017
+### 2016-2017
 
 - #40 SourceCode (Regional)
 - #50 Cnoobs (Regional)
@@ -77,7 +92,7 @@
 - #121 TeamCobres (Clasificatorio)
 - #121 Only Inhuman (Clasificatorio)
 
-## 2017-2018
+### 2017-2018
 
 - #66 #include<uaz.h> (Clasificatorio)
 - #81 CMessMess (Clasificatorio)
@@ -93,7 +108,7 @@
 - #351 El equipo papa (Clasificatorio)
 - #381 NebroSoft (Clasificatorio)
 
-## 2018-2019
+### 2018-2019
 
 - #18 #include<uaz> (Regional)
 - #116 Bug Makers (Clasificatorio)
@@ -115,7 +130,7 @@
 - #373 TheSortOfTheDevil (Clasificatorio)
 - #376 TLER (Clasificatorio)
 
-## 2019-2020
+### 2019-2020
 
 - #22 #include <uaz> (Regional)
 - #87 El Bueno, el Malo y el Feo (Clasificatorio)
@@ -144,7 +159,7 @@
 - #382 Tonche's (Clasificatorio)
 - #382 C++sters (Clasificatorio)
 
-## 2020-2021
+### 2020-2021
 
 - #30 #include<uaz> (Regional)
 - #55 Newbies (Regional)
@@ -170,7 +185,7 @@
 - #351 Virtual reality (Clasificatorio)
 - #351 Escuadrón lobo (Clasificatorio)
 
-## 2021-2022
+### 2021-2022
 
 - #21 #include<uaz> (Regional)
 - #48 Sudo Programmers (Regional)
@@ -191,7 +206,7 @@
 - #226 [Sin nombre] (Clasificatorio)
 - #226 LOS MEM (Clasificatorio)
 
-## 2022-2023
+### 2022-2023
 
 - #38 #include <uaz> (Clasificatorio)
 - #45 Ice and Fire (Clasificatorio)
@@ -212,5 +227,6 @@
 - #324 Power Rangers Megaforce (Clasificatorio)
 - #365 The Voids (Clasificatorio)
 - #381 Null (Clasificatorio)
+
 
 

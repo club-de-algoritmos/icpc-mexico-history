@@ -2,12 +2,17 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## 2017-2018
+## Top 10 equipos
+
+
+## Participaciones
+
+### 2017-2018
 
 - #153 Flowers Team (Clasificatorio)
 - #154 UNIPOLI-ISW (Clasificatorio)
 
-## 2018-2019
+### 2018-2019
 
 - #185 The triforce (Clasificatorio)
 - #217 newcode (Clasificatorio)
@@ -17,7 +22,7 @@
 - #338 Los Súper Conocidos (Clasificatorio)
 - #340 Bit Brothers (Clasificatorio)
 
-## 2019-2020
+### 2019-2020
 
 - #179 OldCode (Clasificatorio)
 - #350 The Skulls (Clasificatorio)
@@ -48,7 +53,7 @@
 - #382 LINK (Clasificatorio)
 - #382 IRT5 (Clasificatorio)
 
-## 2020-2021
+### 2020-2021
 
 - #206 ISW PRoS (Clasificatorio)
 - #266 New Era (Clasificatorio)
@@ -59,5 +64,6 @@
 - #351 7de Código (Clasificatorio)
 - #351 Los Furuladores (Clasificatorio)
 - #351 Los pitufos ISW (Clasificatorio)
+
 
 

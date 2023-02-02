@@ -2,21 +2,28 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## 2014-2015
+## Top 10 equipos
+
+- #48 CaribbeanCoders, resolvió 2 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
+- #49 CaribbeanCoders, resolvió 1 problemas en The 2020 ICPC Mexico Finals
+
+## Participaciones
+
+### 2014-2015
 
 - #175 8Bits (Clasificatorio)
 
-## 2016-2017
+### 2016-2017
 
 - #48 CaribbeanCoders (Regional)
 
-## 2017-2018
+### 2017-2018
 
 - #80 Caribbean Coders (Clasificatorio)
 - #119 Mariachi (Clasificatorio)
 - #337 Los Mariks (Clasificatorio)
 
-## 2018-2019
+### 2018-2019
 
 - #76 Caribbean Coders (Clasificatorio)
 - #168 Mariachi (Clasificatorio)
@@ -24,7 +31,7 @@
 - #239 BOOLdogs (Clasificatorio)
 - #268 Los Gatos de Schrödinger (Clasificatorio)
 
-## 2019-2020
+### 2019-2020
 
 - #96 Mariachi (Clasificatorio)
 - #107 Caribbean Coders (Clasificatorio)
@@ -33,7 +40,7 @@
 - #171 Apóstol Cahazu (Clasificatorio)
 - #382 BOOLdogs (Clasificatorio)
 
-## 2020-2021
+### 2020-2021
 
 - #49 CaribbeanCoders (Regional)
 - #124 Los Mariks (Clasificatorio)
@@ -42,5 +49,6 @@
 - #271 Apóstol Cahazu (Clasificatorio)
 - #275 Traficantes de #'s (Clasificatorio)
 - #320 Adictos a las Líneas (Clasificatorio)
+
 
 

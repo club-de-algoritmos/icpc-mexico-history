@@ -2,7 +2,12 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## 2019-2020
+## Top 10 equipos
+
+
+## Participaciones
+
+### 2019-2020
 
 - #382 (#98 de TecNM) ito1s5 (Clasificatorio)
 - #382 (#98 de TecNM) ITO3S3 (Clasificatorio)
@@ -26,7 +31,7 @@
 - #382 (#98 de TecNM) ito1s11 (Clasificatorio)
 - #382 (#98 de TecNM) Los Javasonicos (Clasificatorio)
 
-## 2020-2021
+### 2020-2021
 
 - #313 (#46 de TecNM) Los MM (Clasificatorio)
 - #351 (#65 de TecNM) EnsaladaDeC (Clasificatorio)
@@ -34,7 +39,7 @@
 - #351 (#65 de TecNM) PlayWix (Clasificatorio)
 - #351 (#65 de TecNM) Delta (Clasificatorio)
 
-## 2022-2023
+### 2022-2023
 
 - #381 (#75 de TecNM) " ;Mortal " (Clasificatorio)
 - #381 (#75 de TecNM) Los Molletes (Clasificatorio)
@@ -44,5 +49,6 @@
 - #381 (#75 de TecNM) Fishing hook (Clasificatorio)
 - #381 (#75 de TecNM) Los egocéntricos (Clasificatorio)
 - #381 (#75 de TecNM) Aldeanos (Clasificatorio)
+
 
 

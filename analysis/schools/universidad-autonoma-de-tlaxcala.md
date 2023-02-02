@@ -2,91 +2,106 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## 2002-2003
+## Top 10 equipos
+
+- #82 UAT The Tlaxcallan Kings, resolvió 0 problemas en The 2006 ACM Programming Contest World Finals
+- #14 Tlacuaches, resolvió 2 problemas en The 2003 ACM Mexico and Central America Programming Contest
+- #15 Smart Survivors, resolvió 1 problemas en The 2002 ACM Mexico and Central America Programming Contest
+- #19 Los Rabales, resolvió 2 problemas en The 2004 ACM Mexico and Central America Programming Contest
+- #20 Survival Machines, resolvió 2 problemas en The 2004 ACM Mexico and Central America Programming Contest
+- #20 C.java, resolvió 3 problemas en The 2006 ACM Mexico and Central America Programming Contest
+- #24 RAM, resolvió 2 problemas en The 2007 ACM Mexico and Central America Programming Contest
+- #26 Maze Minds, resolvió 3 problemas en The 2009 Mexico & Central America Contest
+- #27 Mapaches, resolvió 0 problemas en The 2002 ACM Mexico and Central America Programming Contest
+- #27 Programming Fury, resolvió 0 problemas en The 2002 ACM Mexico and Central America Programming Contest
+
+## Participaciones
+
+### 2002-2003
 
 - #15 Smart Survivors (Regional)
 - #27 Mapaches (Regional)
 - #27 Programming Fury (Regional)
 
-## 2003-2004
+### 2003-2004
 
 - #14 Tlacuaches (Regional)
 - #41 Smart Survivors (Regional)
 - #41 Los Rabales (Regional)
 
-## 2004-2005
+### 2004-2005
 
 - #19 Los Rabales (Regional)
 - #20 Survival Machines (Regional)
 
-## 2005-2006
+### 2005-2006
 
 - #2 UAT The Tlaxcallan Kings (Regional)
   - Avanzó a la final mundial, donde resolvió 0 problemas
 - #65 ragnarok (Regional)
 
-## 2006-2007
+### 2006-2007
 
 - #20 C.java (Regional)
 - #85 Survival Machines (Regional)
 - #85 Encriptados (Regional)
 
-## 2007-2008
+### 2007-2008
 
 - #24 RAM (Regional)
 - #32 Codec (Regional)
 - #61 Kiut (Regional)
 - #61 JAV''s (Regional)
 
-## 2008-2009
+### 2008-2009
 
 - #27 Mapaches UATx (Regional)
 - #77 Omi's UATx (Regional)
 - #101 ICC UATx (Regional)
 
-## 2009-2010
+### 2009-2010
 
 - #26 Maze Minds (Regional)
 - #74 Fire Code (Regional)
 - #116 UAT-D.S. Corp. (Regional)
 
-## 2010-2011
+### 2010-2011
 
 - #104 FIRE CODE (Regional)
 - #149 ALU (Regional)
 - #156 QLAN (Regional)
 
-## 2011-2012
+### 2011-2012
 
 - #50 AJM (Regional)
 - #104 QLAN (Regional)
 - #104 3L (Regional)
 
-## 2012-2013
+### 2012-2013
 
 - #43 Vigorexia Total (Regional)
 - #68 QLAN v2 (Regional)
 - #95 G++ (Regional)
 
-## 2013-2014
+### 2013-2014
 
 - #80 AM JAI (Regional)
 - #95 ACM1PT. (Regional)
 - #95 404-NotFound (Regional)
 
-## 2015-2016
+### 2015-2016
 
 - #108 IEEA (Clasificatorio)
 - #108 Do-for (Clasificatorio)
 
-## 2016-2017
+### 2016-2017
 
 - #121 NO-VATOS (Clasificatorio)
 - #121 IEEA (Clasificatorio)
 - #121 DO-FOR (Clasificatorio)
 - #121 Cerbero (Clasificatorio)
 
-## 2017-2018
+### 2017-2018
 
 - #168 UAT (Clasificatorio)
 - #220 RAM (Clasificatorio)
@@ -103,7 +118,7 @@
 - #405 MAPACHES (Clasificatorio)
 - #405 MG (Clasificatorio)
 
-## 2018-2019
+### 2018-2019
 
 - #394 Cheese (Clasificatorio)
 - #394 EL pro xD (Clasificatorio)
@@ -115,7 +130,7 @@
 - #394 Progranerds (Clasificatorio)
 - #394 The steals (Clasificatorio)
 
-## 2019-2020
+### 2019-2020
 
 - #320 Gree_You (Clasificatorio)
 - #341 Los Charks (Clasificatorio)
@@ -128,10 +143,11 @@
 - #382 Traitors (Clasificatorio)
 - #382 Los Padrotes (Clasificatorio)
 
-## 2020-2021
+### 2020-2021
 
 - #241 Akatsuki (Clasificatorio)
 - #351 ANBU (Clasificatorio)
 - #351 Titanes JEN (Clasificatorio)
+
 
 

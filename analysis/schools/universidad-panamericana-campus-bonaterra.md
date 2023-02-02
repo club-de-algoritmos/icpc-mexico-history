@@ -2,44 +2,59 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## 2007-2008
+## Top 10 equipos
+
+- #41 UPsolving, resolvió 5 problemas en 45th Annual World Finals of the International Collegiate Programming Contest
+- #45 Los Chidory, resolvió 2 problemas en 38th Annual World Finals of the ACM International Collegiate Programming Contest
+- #47 UPsolving, resolvió None problemas en 44th Annual World Finals of the International Collegiate Programming Contest
+- #76 AEI, resolvió 2 problemas en 37th Annual World Finals of the ACM International Collegiate Programming Contest
+- #5 UPsolving, resolvió 7 problemas en The 2018 ICPC Mexico and Central America Finals
+- #6 ICPCrikos, resolvió 4 problemas en The 2021 ICPC Mexico Finals
+- #7 Time limit exceeded, resolvió 3 problemas en The 2007 ACM Mexico and Central America Programming Contest
+- #7 Sopa de pingüino, resolvió 5 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
+- #8 Lla++, resolvió 4 problemas en The 2015 ACM-ICPC Mexico and Central America Finals
+- #9 Easy-PC, resolvió 4 problemas en The 2021 ICPC Mexico Finals
+
+## Participaciones
+
+### 2007-2008
 
 - #7 Time limit exceeded (Regional)
 
-## 2008-2009
+### 2008-2009
 
 - #13 Time Limit Exceeded (Regional)
 - #61 MPT3 (Regional)
 - #101 QWERTY (Regional)
 
-## 2009-2010
+### 2009-2010
 
 - #52 qwerty (Regional)
 
-## 2010-2011
+### 2010-2011
 
 - #36 Los No Primos (Regional)
 - #55 Los Primos (Regional)
 
-## 2011-2012
+### 2011-2012
 
 - #17 Dos Primos y un Nacho (Regional)
 
-## 2012-2013
+### 2012-2013
 
 - #2 AEI (Regional)
   - Avanzó a la final mundial, donde resolvió 2 problemas
 - #36 PHP (Regional)
 - #50 Los Guapos (Regional)
 
-## 2013-2014
+### 2013-2014
 
 - #3 Los Chidory (Regional)
   - Avanzó a la final mundial, donde resolvió 2 problemas
 - #31 Logic Bytes (Regional)
 - #55 Los Greñuditos (Regional)
 
-## 2014-2015
+### 2014-2015
 
 - #17 Imaginationless (Regional)
 - #47 esetedio.h (Clasificatorio)
@@ -47,7 +62,7 @@
 - #91 Los Greñuditos (Clasificatorio)
 - #92 Chicolitos (Clasificatorio)
 
-## 2015-2016
+### 2015-2016
 
 - #8 Lla++ (Regional)
 - #30 dic.h (Regional)
@@ -58,7 +73,7 @@
 - #108 Los indecisos (Clasificatorio)
 - #108 #include<RIK.h> (Clasificatorio)
 
-## 2016-2017
+### 2016-2017
 
 - #7 Sopa de pingüino (Regional)
 - #11 Pinguinos de sopa (Regional)
@@ -69,7 +84,7 @@
 - #121 U.P. NES (Clasificatorio)
 - #121 Expendables (Clasificatorio)
 
-## 2017-2018
+### 2017-2018
 
 - #11 UPdated (Regional)
 - #20 Team Processing (Regional)
@@ -77,7 +92,7 @@
 - #50 Por decidir (Clasificatorio)
 - #306 SeisDosSeis (Clasificatorio)
 
-## 2018-2019
+### 2018-2019
 
 - #5 UPsolving (Regional)
 - #25 YaSabesQuien (Regional)
@@ -85,7 +100,7 @@
 - #57 Los Sustitutos (Clasificatorio)
 - #153 MonMarPe (Clasificatorio)
 
-## 2019-2020
+### 2019-2020
 
 - #8 UPsolving (Regional)
   - Avanzó a la final mundial, donde resolvió None problemas
@@ -101,7 +116,7 @@
 - #382 FaAnPa (Clasificatorio)
 - #382 Iktan (Clasificatorio)
 
-## 2020-2021
+### 2020-2021
 
 - #5 UPsolving (Regional)
   - Avanzó a la final mundial, donde resolvió 5 problemas
@@ -114,7 +129,7 @@
 - #184 Las pistas del bug (Clasificatorio)
 - #214 Mictlantecuhtli (Clasificatorio)
 
-## 2021-2022
+### 2021-2022
 
 - #6 ICPCrikos (Regional)
 - #9 Easy-PC (Regional)
@@ -127,7 +142,7 @@
 - #104 TinMarin (Clasificatorio)
 - #202 INCoders (Clasificatorio)
 
-## 2022-2023
+### 2022-2023
 
 - #3 UPsolving (Clasificatorio)
 - #4 ICPCrikos (Clasificatorio)
@@ -141,5 +156,6 @@
 - #86 Tazaki (Clasificatorio)
 - #112 CPU Destroyers (Clasificatorio)
 - #350 CodeBuggers (Clasificatorio)
+
 
 

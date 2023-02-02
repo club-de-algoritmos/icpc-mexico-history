@@ -2,7 +2,22 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## 2016-2017
+## Top 10 equipos
+
+- #37 ORION, resolvió 2 problemas en The 2017 ACM-ICPC Mexico and Central America Finals
+- #43 Blank[], resolvió 3 problemas en The 2018 ICPC Mexico and Central America Finals
+- #44 ORION, resolvió 3 problemas en The 2018 ICPC Mexico and Central America Finals
+- #49 Socket-ES, resolvió 3 problemas en The 2018 ICPC Mexico and Central America Finals
+- #51 Hello World, resolvió 2 problemas en The 2017 ACM-ICPC Mexico and Central America Finals
+- #54 Los petroleros del oriente, resolvió 1 problemas en The 2017 ACM-ICPC Mexico and Central America Finals
+- #58 SOCKET-ES, resolvió 1 problemas en The 2017 ACM-ICPC Mexico and Central America Finals
+- #62 GLHF, resolvió 2 problemas en The 2018 ICPC Mexico and Central America Finals
+- #63 Los petroleros del oriente 2.0, resolvió 2 problemas en The 2018 ICPC Mexico and Central America Finals
+- #65 Exp++, resolvió 1 problemas en The 2017 ACM-ICPC Mexico and Central America Finals
+
+## Participaciones
+
+### 2016-2017
 
 - #74 ORION (Regional)
 - #121 Amalgam (Clasificatorio)
@@ -10,7 +25,7 @@
 - #121 Machtiani (Clasificatorio)
 - #121 Deitos (Clasificatorio)
 
-## 2017-2018
+### 2017-2018
 
 - #37 ORION (Regional)
 - #51 Hello World (Regional)
@@ -32,7 +47,7 @@
 - #405 TNightmare (Clasificatorio)
 - #405 RatasGordasInformaticas (Clasificatorio)
 
-## 2018-2019
+### 2018-2019
 
 - #43 Blank[] (Regional)
 - #44 ORION (Regional)
@@ -54,5 +69,6 @@
 - #88 Los Violadores de Segmento (Regional)
 - #89 HyperTypers (Regional)
 - #90 Martin Router King (Regional)
+
 
 

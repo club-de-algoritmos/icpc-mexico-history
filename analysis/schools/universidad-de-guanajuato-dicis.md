@@ -2,13 +2,27 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## 2016-2017
+## Top 10 equipos
+
+- #9 Wolves, resolvió 5 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
+- #10 Wolves, resolvió 5 problemas en The 2019 ICPC Mexico Finals
+- #15 Wolves, resolvió 3 problemas en The 2017 ACM-ICPC Mexico and Central America Finals
+- #21 Wolves, resolvió 4 problemas en The 2020 ICPC Mexico Finals
+- #22 Los tres jinetes, resolvió 2 problemas en The 2017 ACM-ICPC Mexico and Central America Finals
+- #29 Wolves, resolvió 4 problemas en The 2018 ICPC Mexico and Central America Finals
+- #31 Los tres jinetes, resolvió 4 problemas en The 2018 ICPC Mexico and Central America Finals
+- #36 Los Tres Jinetes, resolvió 2 problemas en The 2019 ICPC Mexico Finals
+- #68 Penguins, resolvió 2 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
+
+## Participaciones
+
+### 2016-2017
 
 - #9 Wolves (Regional)
 - #68 Penguins (Regional)
 - #115 Los tres jinetes (Clasificatorio)
 
-## 2017-2018
+### 2017-2018
 
 - #15 Wolves (Regional)
 - #22 Los tres jinetes (Regional)
@@ -19,7 +33,7 @@
 - #405 Team C++ (Clasificatorio)
 - #405 The dark (and strange) side (Clasificatorio)
 
-## 2018-2019
+### 2018-2019
 
 - #29 Wolves (Regional)
 - #31 Los tres jinetes (Regional)
@@ -33,14 +47,15 @@
 - #371 Escuadron 201 (Clasificatorio)
 - #394 Los Contendientes (Clasificatorio)
 
-## 2019-2020
+### 2019-2020
 
 - #10 Wolves (Regional)
 - #36 Los Tres Jinetes (Regional)
 - #110 Sistemos (Clasificatorio)
 
-## 2020-2021
+### 2020-2021
 
 - #21 Wolves (Regional)
+
 
 

@@ -2,13 +2,28 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## 2008-2009
+## Top 10 equipos
+
+- #101 C_mita, resolvió 1 problemas en 36th Annual World Finals of the ACM International Collegiate Programming Contest
+- #4 C-mita, resolvió 3 problemas en The 2011 Mexico & Central America Regional Contest
+- #11 C-mita, resolvió 4 problemas en The 2012 Mexico & Central America Regional Contest
+- #15 Clfies, resolvió 4 problemas en The 2015 ACM-ICPC Mexico and Central America Finals
+- #16 Los Flotantes, resolvió 3 problemas en The 2017 ACM-ICPC Mexico and Central America Finals
+- #16 char mander;, resolvió 3 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
+- #18 Clfies, resolvió 3 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
+- #19 bool basaur, resolvió 2 problemas en The 2017 ACM-ICPC Mexico and Central America Finals
+- #27 Easycode, resolvió 2 problemas en The 2014 ACM-ICPC Mexico and Central America Finals
+- #28 D06, resolvió 3 problemas en The 2008 Mexico & Central America Contest
+
+## Participaciones
+
+### 2008-2009
 
 - #28 D06 (Regional)
 - #62 Kill -9 132 (Regional)
 - #101 Svarogih (Regional)
 
-## 2010-2011
+### 2010-2011
 
 - #40 C-mita (Regional)
 - #52 Unicoders (Regional)
@@ -17,23 +32,23 @@
 - #156 ICE (Regional)
 - #156 Aguilas (Regional)
 
-## 2011-2012
+### 2011-2012
 
 - #4 C-mita (Regional)
 - #4 C_mita (Regional)
   - Avanzó a la final mundial, donde resolvió 1 problemas
 
-## 2012-2013
+### 2012-2013
 
 - #11 C-mita (Regional)
 
-## 2014-2015
+### 2014-2015
 
 - #27 Easycode (Regional)
 - #74 Cmita++ (Clasificatorio)
 - #80 Cemita# (Clasificatorio)
 
-## 2015-2016
+### 2015-2016
 
 - #15 Clfies (Regional)
 - #35 TacOS (Regional)
@@ -41,7 +56,7 @@
 - #102 easycode (Clasificatorio)
 - #103 Quantum Code (Clasificatorio)
 
-## 2016-2017
+### 2016-2017
 
 - #16 char mander; (Regional)
 - #18 Clfies (Regional)
@@ -49,7 +64,7 @@
 - #68 Los Lunas (Clasificatorio)
 - #121 SpaceMonkeys (Clasificatorio)
 
-## 2017-2018
+### 2017-2018
 
 - #16 Los Flotantes (Regional)
 - #19 bool basaur (Regional)
@@ -63,7 +78,7 @@
 - #213 The Team (Clasificatorio)
 - #256 Linces (Clasificatorio)
 
-## 2018-2019
+### 2018-2019
 
 - #28 int ensos; (Regional)
 - #60 Gekko (Regional)
@@ -71,14 +86,14 @@
 - #115 Los Fanys (Clasificatorio)
 - #253 BimBams (Clasificatorio)
 
-## 2019-2020
+### 2019-2020
 
 - #63 Gekko (Clasificatorio)
 - #67 char izard; (Clasificatorio)
 - #93 name not found (Clasificatorio)
 - #254 Tornados Tlaquepaque (Clasificatorio)
 
-## 2020-2021
+### 2020-2021
 
 - #47 Oblivion (Regional)
 - #133 Quantum Coders (Clasificatorio)
@@ -91,14 +106,14 @@
 - #280 Sinonymous (Clasificatorio)
 - #351 JurassicHackers (Clasificatorio)
 
-## 2021-2022
+### 2021-2022
 
 - #136 Programadioses (Clasificatorio)
 - #188 Océano Atlántico (Clasificatorio)
 - #226 Patos de Hule (Clasificatorio)
 - #226 Mexastech (Clasificatorio)
 
-## 2022-2023
+### 2022-2023
 
 - #205 DoS Attack (Clasificatorio)
 - #270 Equipo_Progra4 (Clasificatorio)
@@ -106,5 +121,6 @@
 - #364 Ionicos (Clasificatorio)
 - #381 Ajolotes (Clasificatorio)
 - #381 Patos de Hule (Clasificatorio)
+
 
 

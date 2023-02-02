@@ -2,7 +2,15 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## 2017-2018
+## Top 10 equipos
+
+- #12 Supernovas, resolvió 3 problemas en The 2017 ACM-ICPC Mexico and Central America Finals
+- #15 Los Choquistas 2.0, resolvió 5 problemas en The 2018 ICPC Mexico and Central America Finals
+- #77 Grafoliebers (╯°□°)╯︵ ɹoɹɹƎ, resolvió 1 problemas en The 2017 ACM-ICPC Mexico and Central America Finals
+
+## Participaciones
+
+### 2017-2018
 
 - #12 Supernovas (Regional)
 - #77 Grafoliebers (╯°□°)╯︵ ɹoɹɹƎ (Regional)
@@ -14,7 +22,7 @@
 - #405 CHJJ (Clasificatorio)
 - #405 Debug's (Clasificatorio)
 
-## 2018-2019
+### 2018-2019
 
 - #15 Los Choquistas 2.0 (Regional)
 - #70 Grafoliebers (Clasificatorio)
@@ -24,7 +32,7 @@
 - #394 CHJJ (Clasificatorio)
 - #394 One Code MEN (Clasificatorio)
 
-## 2019-2020
+### 2019-2020
 
 - #100 Let it C (Clasificatorio)
 - #106 Error (╯°□°)╯︵ ┻━┻ ɹoɹɹƎ (Clasificatorio)
@@ -37,7 +45,7 @@
 - #331 QBITS (Clasificatorio)
 - #359 Los primos de Fermat (Clasificatorio)
 
-## 2020-2021
+### 2020-2021
 
 - #116 Oozma Kappa (Clasificatorio)
 - #130 ExcelOverFlow (Clasificatorio)
@@ -46,5 +54,6 @@
 - #253 world.execute(me); (Clasificatorio)
 - #259 Pitones (Clasificatorio)
 - #300 Duck Bang (Clasificatorio)
+
 
 

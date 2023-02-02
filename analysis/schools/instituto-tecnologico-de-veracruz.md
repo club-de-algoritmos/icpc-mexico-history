@@ -2,26 +2,41 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## 2006-2007
+## Top 10 equipos
+
+- #13 FastFingers lml, resolvió 4 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
+- #28 Warriors Z, resolvió 2 problemas en The 2017 ACM-ICPC Mexico and Central America Finals
+- #31 ACMIPT, resolvió 2 problemas en The 2012 Mexico & Central America Regional Contest
+- #34 FastFingers lml, resolvió 3 problemas en The 2015 ACM-ICPC Mexico and Central America Finals
+- #36 Code4Life, resolvió 3 problemas en The 2018 ICPC Mexico and Central America Finals
+- #38 Eternity, resolvió 2 problemas en The 2017 ACM-ICPC Mexico and Central America Finals
+- #39 Long-aniza, resolvió 1 problemas en The 2014 ACM-ICPC Mexico and Central America Finals
+- #39 Warriors LEL, resolvió 3 problemas en The 2015 ACM-ICPC Mexico and Central America Finals
+- #43 <CodeBreakers/>, resolvió 2 problemas en The 2020 ICPC Mexico Finals
+- #52 HeavyMachineGun, resolvió 2 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
+
+## Participaciones
+
+### 2006-2007
 
 - #85 (#19 de TecNM) IT-Veracruz (Regional)
 
-## 2012-2013
+### 2012-2013
 
 - #31 (#10 de TecNM) ACMIPT (Regional)
 - #91 (#35 de TecNM) java 2g (Regional)
 
-## 2013-2014
+### 2013-2014
 
 - #67 (#11 de TecNM) El Equipo Rocket (Regional)
 - #71 (#12 de TecNM) ACM1PT (Regional)
 
-## 2014-2015
+### 2014-2015
 
 - #39 (#5 de TecNM) Long-aniza (Regional)
 - #63 (#8 de TecNM) New cholos nazis (Clasificatorio)
 
-## 2015-2016
+### 2015-2016
 
 - #34 (#3 de TecNM) FastFingers lml (Regional)
 - #39 (#4 de TecNM) Warriors LEL (Regional)
@@ -30,7 +45,7 @@
 - #83 (#20 de TecNM) INCAUTOS.cpp (Clasificatorio)
 - #108 (#28 de TecNM) Metamorfcodeados (Clasificatorio)
 
-## 2016-2017
+### 2016-2017
 
 - #13 (#1 de TecNM) FastFingers lml (Regional)
 - #52 (#8 de TecNM) HeavyMachineGun (Regional)
@@ -41,7 +56,7 @@
 - #121 (#20 de TecNM) BasicTeam (Clasificatorio)
 - #121 (#20 de TecNM) Fullmetal Alchemist (Clasificatorio)
 
-## 2017-2018
+### 2017-2018
 
 - #28 (#2 de TecNM) Warriors Z (Regional)
 - #38 (#4 de TecNM) Eternity (Regional)
@@ -50,14 +65,14 @@
 - #107 (#12 de TecNM) Toshinovo (Clasificatorio)
 - #200 (#38 de TecNM) ByteMe (Clasificatorio)
 
-## 2018-2019
+### 2018-2019
 
 - #36 (#4 de TecNM) Code4Life (Regional)
 - #105 (#14 de TecNM) ByteMe (Clasificatorio)
 - #124 (#18 de TecNM) CodeBreakers (Clasificatorio)
 - #245 (#47 de TecNM) Shax (Clasificatorio)
 
-## 2019-2020
+### 2019-2020
 
 - #167 (#23 de TecNM) <CodeBreakers/> (Clasificatorio)
 - #224 (#38 de TecNM) G.E.N.E.S.I.S (Clasificatorio)
@@ -71,21 +86,21 @@
 - #382 (#98 de TecNM) Team Ultimate (Clasificatorio)
 - #382 (#98 de TecNM) C-TEC (Clasificatorio)
 
-## 2020-2021
+### 2020-2021
 
 - #43 (#5 de TecNM) <CodeBreakers/> (Regional)
 - #135 (#10 de TecNM) GrafosSolution (Clasificatorio)
 - #182 (#19 de TecNM) The Hackers (Clasificatorio)
 - #255 (#29 de TecNM) TroubleShooters Itver(TSI) (Clasificatorio)
 
-## 2021-2022
+### 2021-2022
 
 - #226 (#36 de TecNM) Pollos in Pantuflas (Clasificatorio)
 - #226 (#36 de TecNM) AzteCoders (Clasificatorio)
 - #226 (#36 de TecNM) 5 Tacos x 10 pesos (Clasificatorio)
 - #226 (#36 de TecNM) Las vacas de Jalisco (Clasificatorio)
 
-## 2022-2023
+### 2022-2023
 
 - #44 (#5 de TecNM) fe++ (Clasificatorio)
 - #137 (#23 de TecNM) Programadores Noob (Clasificatorio)
@@ -93,5 +108,6 @@
 - #381 (#75 de TecNM) Los Seguidores de Karely (Clasificatorio)
 - #381 (#75 de TecNM) ProgramamosConLosPies (Clasificatorio)
 - #381 (#75 de TecNM) Javarianos (Clasificatorio)
+
 
 

@@ -2,7 +2,12 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## 2017-2018
+## Top 10 equipos
+
+
+## Participaciones
+
+### 2017-2018
 
 - #364 (#84 de TecNM) HAL 9000 (Clasificatorio)
 - #405 (#97 de TecNM) ISC "RCI" (Clasificatorio)
@@ -26,7 +31,7 @@
 - #405 (#97 de TecNM) El Equipo 7 (Clasificatorio)
 - #405 (#97 de TecNM) Burberry (Clasificatorio)
 
-## 2018-2019
+### 2018-2019
 
 - #307 (#69 de TecNM) Sintaxis Error (Clasificatorio)
 - #365 (#87 de TecNM) Turing (Clasificatorio)
@@ -48,7 +53,7 @@
 - #394 (#103 de TecNM) The Honkai (Clasificatorio)
 - #394 (#103 de TecNM) Return Live (Clasificatorio)
 
-## 2019-2020
+### 2019-2020
 
 - #275 (#51 de TecNM) los chicos del tec (Clasificatorio)
 - #382 (#98 de TecNM) Grupo Ma-Ma-Marrano (Clasificatorio)
@@ -77,5 +82,6 @@
 - #382 (#98 de TecNM) EFE (Clasificatorio)
 - #382 (#98 de TecNM) Error 404 (Clasificatorio)
 - #382 (#98 de TecNM) los negros (Clasificatorio)
+
 
 

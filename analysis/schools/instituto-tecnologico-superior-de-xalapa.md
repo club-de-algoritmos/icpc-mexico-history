@@ -2,12 +2,19 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## 2001-2002
+## Top 10 equipos
+
+- #55 ITSX, resolvió 0 problemas en The 2001 ACM Mexico and Central America Programming Contest
+
+## Participaciones
+
+### 2001-2002
 
 - #55 (#13 de TecNM) ITSX (Regional)
 
-## 2020-2021
+### 2020-2021
 
 - #351 (#65 de TecNM) JuniorsITSX (Clasificatorio)
+
 
 

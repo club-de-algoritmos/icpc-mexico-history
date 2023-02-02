@@ -2,67 +2,82 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## 2001-2002
+## Top 10 equipos
+
+- #63 lA_Criba de ceros y unos, resolvió 2 problemas en 43rd Annual World Finals of the International Collegiate Programming Contest
+- #80 Hurones Pwneadores, resolvió 1 problemas en 38th Annual World Finals of the ACM International Collegiate Programming Contest
+- #92 La Carabina del AC, resolvió 3 problemas en 40th Annual World Finals of the ACM International Collegiate Programming Contest
+- #96 Escoolers, resolvió 3 problemas en 39th Annual World Finals of the ACM International Collegiate Programming Contest
+- #94 Escoders, resolvió 1 problemas en 37th Annual World Finals of the ACM International Collegiate Programming Contest
+- #1 Chilaquiles con pollo, resolvió 5 problemas en The 2021 ICPC Mexico Finals
+- #1 Norman is Hunting, resolvió 9 problemas en The 2019 ICPC Mexico Finals
+- #4 New avengers, resolvió 6 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
+- #5 Hurones FTW!, resolvió 4 problemas en The 2012 Mexico & Central America Regional Contest
+- #5 Escom56, resolvió 6 problemas en The 2009 Mexico & Central America Contest
+
+## Participaciones
+
+### 2001-2002
 
 - #11 Escom Tepoztlan (Regional)
 - #40 ESCOMI (Regional)
 
-## 2002-2003
+### 2002-2003
 
 - #23 quitajtohuilia (Regional)
 - #27 Escomi (Regional)
 
-## 2003-2004
+### 2003-2004
 
 - #41 ESCOMI (Regional)
 
-## 2004-2005
+### 2004-2005
 
 - #7 ESCOM UNO (Regional)
 - #51 ESCOM DOS (Regional)
 - #90 ESCOM B (Regional)
 - #90 ESCOM A (Regional)
 
-## 2005-2006
+### 2005-2006
 
 - #7 ESCOM-1 (Regional)
 
-## 2006-2007
+### 2006-2007
 
 - #9 ESCOM1 (Regional)
 - #24 ESCOM2 (Regional)
 
-## 2007-2008
+### 2007-2008
 
 - #12 ESCOM1 (Regional)
 - #52 ESCOM2 (Regional)
 - #61 ESCOM3 (Regional)
 
-## 2008-2009
+### 2008-2009
 
 - #20 ESCOM56 (Regional)
 - #24 ESCOM2 (Regional)
 
-## 2009-2010
+### 2009-2010
 
 - #5 Escom56 (Regional)
 - #25 Escom (Regional)
 - #64 Burros Blancos (Regional)
 
-## 2011-2012
+### 2011-2012
 
 - #6 Escoders. (Regional)
 - #19 Hurones salvajes. (Regional)
 - #52 Dragones. (Regional)
 
-## 2012-2013
+### 2012-2013
 
 - #1 Escoders (Regional)
   - Avanzó a la final mundial, donde resolvió 1 problemas
 - #5 Hurones FTW! (Regional)
 - #8 Dragones (Regional)
 
-## 2013-2014
+### 2013-2014
 
 - #1 Hurones Pwneadores (Regional)
   - Avanzó a la final mundial, donde resolvió 1 problemas
@@ -73,7 +88,7 @@
 - #49 Los Chimpas Felices (Regional)
 - #74 Fatal Error (Regional)
 
-## 2014-2015
+### 2014-2015
 
 - #3 Escoolers (Regional)
   - Avanzó a la final mundial, donde resolvió 3 problemas
@@ -87,7 +102,7 @@
 - #82 ESCOMOMOS (Clasificatorio)
 - #89 The Wolves of CodeStreet (Clasificatorio)
 
-## 2015-2016
+### 2015-2016
 
 - #1 La Carabina del AC (Regional)
   - Avanzó a la final mundial, donde resolvió 3 problemas
@@ -102,7 +117,7 @@
 - #107 Momos++ (Clasificatorio)
 - #107 The Punishers (Clasificatorio)
 
-## 2016-2017
+### 2016-2017
 
 - #4 New avengers (Regional)
 - #10 Quetzal.h (Regional)
@@ -118,7 +133,7 @@
 - #121 New Team (Clasificatorio)
 - #121 Xirosame (Clasificatorio)
 
-## 2017-2018
+### 2017-2018
 
 - #6 Rocky IV (Regional)
 - #7 ManiAC (Regional)
@@ -137,7 +152,7 @@
 - #294 CpiJava (Clasificatorio)
 - #295 burrOS (Clasificatorio)
 
-## 2018-2019
+### 2018-2019
 
 - #2 lA_Criba de ceros y unos (Regional)
   - Avanzó a la final mundial, donde resolvió 2 problemas
@@ -165,7 +180,7 @@
 - #329 BORMAP (Clasificatorio)
 - #330 Smittywerberjagermanjensen (Clasificatorio)
 
-## 2019-2020
+### 2019-2020
 
 - #1 Norman is Hunting (Regional)
 - #7 Error: "Team Name" not defined (Regional)
@@ -192,7 +207,7 @@
 - #380 Las Colorburgers (Clasificatorio)
 - #382 Los ESCOMpas (Clasificatorio)
 
-## 2020-2021
+### 2020-2021
 
 - #7 Cámara Ya Súbelo Asi w (Regional)
 - #8 Escuela Superior de Comedia (Regional)
@@ -208,7 +223,7 @@
 - #89 TLE (Clasificatorio)
 - #192 lasCuries (Clasificatorio)
 
-## 2021-2022
+### 2021-2022
 
 - #1 Chilaquiles con pollo (Regional)
 - #13 Discípulos de Marckess (Regional)
@@ -223,7 +238,7 @@
 - #120 Norbertos Cibernéticos (Clasificatorio)
 - #192 No nos funen plox (Clasificatorio)
 
-## 2022-2023
+### 2022-2023
 
 - #5 Exceso de Fé (Clasificatorio)
 - #6 Crustáceos Cascarudos (Clasificatorio)
@@ -237,5 +252,6 @@
 - #117 Las Picafresas (Clasificatorio)
 - #265 A de AC (Clasificatorio)
 - #332 Pandora (Clasificatorio)
+
 
 

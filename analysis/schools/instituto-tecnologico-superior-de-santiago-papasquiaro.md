@@ -2,51 +2,66 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## 2004-2005
+## Top 10 equipos
+
+- #34 Linces, resolvió 2 problemas en The 2012 Mexico & Central America Regional Contest
+- #53 Linces, resolvió 1 problemas en The 2013 Mexico & Central America Regional Contest
+- #68 LINCES, resolvió 2 problemas en The 2010 Mexico & Central America Regional Contest
+- #80 LINCES1, resolvió 1 problemas en The 2011 Mexico & Central America Regional Contest
+- #85 BETAS, resolvió 0 problemas en The 2005 ACM Mexico and Central America Programming Contest
+- #85 Linces, resolvió 0 problemas en The 2006 ACM Mexico and Central America Programming Contest
+- #85 linces, resolvió 0 problemas en The 2005 ACM Mexico and Central America Programming Contest
+- #90 Linces Tec, resolvió 0 problemas en The 2004 ACM Mexico and Central America Programming Contest
+- #90 RiDaGreMo, resolvió 0 problemas en The 2004 ACM Mexico and Central America Programming Contest
+- #90 itssp, resolvió 0 problemas en The 2004 ACM Mexico and Central America Programming Contest
+
+## Participaciones
+
+### 2004-2005
 
 - #90 (#22 de TecNM) Linces Tec (Regional)
 - #90 (#22 de TecNM) linces (Regional)
 - #90 (#22 de TecNM) RiDaGreMo (Regional)
 - #90 (#22 de TecNM) itssp (Regional)
 
-## 2005-2006
+### 2005-2006
 
 - #85 (#11 de TecNM) BETAS (Regional)
 - #85 (#11 de TecNM) linces (Regional)
 
-## 2006-2007
+### 2006-2007
 
 - #85 (#19 de TecNM) Linces (Regional)
 
-## 2009-2010
+### 2009-2010
 
 - #114 (#30 de TecNM) Tec Linces (Regional)
 
-## 2010-2011
+### 2010-2011
 
 - #68 (#7 de TecNM) LINCES (Regional)
 
-## 2011-2012
+### 2011-2012
 
 - #80 (#22 de TecNM) LINCES1 (Regional)
 
-## 2012-2013
+### 2012-2013
 
 - #34 (#12 de TecNM) Linces (Regional)
 
-## 2013-2014
+### 2013-2014
 
 - #53 (#8 de TecNM) Linces (Regional)
 
-## 2014-2015
+### 2014-2015
 
 - #35 (#5 de TecNM) ITSSP (Clasificatorio)
 
-## 2015-2016
+### 2015-2016
 
 - #108 (#28 de TecNM) Linces (Clasificatorio)
 
-## 2019-2020
+### 2019-2020
 
 - #382 (#98 de TecNM) Los Pollos (Clasificatorio)
 - #382 (#98 de TecNM) Los ITIC's1 (Clasificatorio)
@@ -66,7 +81,7 @@
 - #382 (#98 de TecNM) Chisco Programmers (Clasificatorio)
 - #382 (#98 de TecNM) Kroywen (Clasificatorio)
 
-## 2022-2023
+### 2022-2023
 
 - #381 (#75 de TecNM) Los Tesla (Clasificatorio)
 - #381 (#75 de TecNM) Pythem (Clasificatorio)
@@ -77,5 +92,6 @@
 - #381 (#75 de TecNM) Platinos (Clasificatorio)
 - #381 (#75 de TecNM) McLovins (Clasificatorio)
 - #381 (#75 de TecNM) Linces ITSSP (Clasificatorio)
+
 
 

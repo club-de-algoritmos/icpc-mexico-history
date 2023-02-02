@@ -2,23 +2,38 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## 1998-1999
+## Top 10 equipos
+
+- #47 U de las Americas Waxtron, resolvió 0 problemas en The 2000 ACM Programming Contest World Finals
+- #56 Los Novatos, resolvió 0 problemas en The 2003 ACM Programming Contest World Finals
+- #53 U de las Americas, resolvió 1 problemas en The 1999 ACM Programming Contest World Finals
+- #68 Los novatos reloaded, resolvió 0 problemas en The 2004 ACM Programming Contest World Finals
+- #3 NO-NAME, resolvió 4 problemas en The 2004 ACM Mexico and Central America Programming Contest
+- #12 UDLAP4-NoName, resolvió 2 problemas en The 2002 ACM Mexico and Central America Programming Contest
+- #20 UDLAP2-Sith, resolvió 1 problemas en The 2002 ACM Mexico and Central America Programming Contest
+- #21 UDLAP2-IO-PROMPT, resolvió 2 problemas en The 2005 ACM Mexico and Central America Programming Contest
+- #23 UDLAP2-Sith, resolvió 1 problemas en The 2003 ACM Mexico and Central America Programming Contest
+- #24 Yar revolutions, resolvió 1 problemas en The 2003 ACM Mexico and Central America Programming Contest
+
+## Participaciones
+
+### 1998-1999
 
 - U de las Americas
   - Avanzó a la final mundial, donde resolvió 1 problemas
 
-## 1999-2000
+### 1999-2000
 
 - U de las Americas Waxtron
   - Avanzó a la final mundial, donde resolvió 0 problemas
 
-## 2001-2002
+### 2001-2002
 
 - #43 UDLAP1 (Regional)
 - #47 UDLAP2 (Regional)
 - #51 UDLAP3 (Regional)
 
-## 2002-2003
+### 2002-2003
 
 - #1 Los Novatos (Regional)
   - Avanzó a la final mundial, donde resolvió 0 problemas
@@ -26,7 +41,7 @@
 - #20 UDLAP2-Sith (Regional)
 - #26 UDLAP3-Padawans (Regional)
 
-## 2003-2004
+### 2003-2004
 
 - #1 Los novatos reloaded (Regional)
   - Avanzó a la final mundial, donde resolvió 0 problemas
@@ -34,14 +49,14 @@
 - #24 Yar revolutions (Regional)
 - #41 UDLAP4-The Mayas (Regional)
 
-## 2004-2005
+### 2004-2005
 
 - #3 NO-NAME (Regional)
 - #27 UDLAP100-NeU (Regional)
 - #46 UDLAP1-0xFFFFFFFF (Regional)
 - #52 UDLAP2-10% de la Calificacion (Regional)
 
-## 2005-2006
+### 2005-2006
 
 - #21 UDLAP2-IO-PROMPT (Regional)
 - #29 UDLAP5-EOF (Regional)
@@ -51,8 +66,9 @@
 - #85 UDLAP6-el orgullo por el suelo (Regional)
 - #85 UDLAP7 (Regional)
 
-## 2006-2007
+### 2006-2007
 
 - #26 Beta Version (Regional)
+
 
 

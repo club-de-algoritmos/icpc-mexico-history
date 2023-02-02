@@ -2,7 +2,12 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## 2019-2020
+## Top 10 equipos
+
+
+## Participaciones
+
+### 2019-2020
 
 - #382 (#98 de TecNM) Los bugs (Clasificatorio)
 - #382 (#98 de TecNM) ROCKET (Clasificatorio)
@@ -20,7 +25,7 @@
 - #382 (#98 de TecNM) Progamer (Clasificatorio)
 - #382 (#98 de TecNM) Troyanos007 (Clasificatorio)
 
-## 2020-2021
+### 2020-2021
 
 - #351 (#65 de TecNM) SantiagoySuGrupoIlusion (Clasificatorio)
 - #351 (#65 de TecNM) El tridente (Clasificatorio)
@@ -30,7 +35,7 @@
 - #351 (#65 de TecNM) RocketISC (Clasificatorio)
 - #351 (#65 de TecNM) Los programitas (Clasificatorio)
 
-## 2021-2022
+### 2021-2022
 
 - #226 (#36 de TecNM) All For One  (Clasificatorio)
 - #226 (#36 de TecNM) Los Programitas (Clasificatorio)
@@ -39,7 +44,7 @@
 - #226 (#36 de TecNM) ROCKETISC (Clasificatorio)
 - #226 (#36 de TecNM) Ctrl Intelligence (Clasificatorio)
 
-## 2022-2023
+### 2022-2023
 
 - #381 (#75 de TecNM) LAS INDECISAS (Clasificatorio)
 - #381 (#75 de TecNM) LUBAYA (Clasificatorio)
@@ -79,5 +84,6 @@
 - #381 (#75 de TecNM) CoyotesDinamita (Clasificatorio)
 - #381 (#75 de TecNM) Jeaggers (Clasificatorio)
 - #381 (#75 de TecNM) Carnaval (Clasificatorio)
+
 
 

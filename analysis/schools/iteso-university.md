@@ -2,7 +2,22 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## 2002-2003
+## Top 10 equipos
+
+- #6 ACRUX, resolvió 4 problemas en The 2004 ACM Mexico and Central America Programming Contest
+- #6 Mezcla, resolvió 4 problemas en The 2008 Mexico & Central America Contest
+- #7 ACRUX, resolvió 3 problemas en The 2003 ACM Mexico and Central America Programming Contest
+- #9 Code Dream, resolvió 4 problemas en The 2008 Mexico & Central America Contest
+- #13 LOL, resolvió 4 problemas en The 2010 Mexico & Central America Regional Contest
+- #19 LOL, resolvió 3 problemas en The 2008 Mexico & Central America Contest
+- #21 Olimpicos, resolvió 3 problemas en The 2010 Mexico & Central America Regional Contest
+- #23 Cheerios, resolvió 3 problemas en The 2011 Mexico & Central America Regional Contest
+- #24 Parabolic Octopi, resolvió 3 problemas en The 2012 Mexico & Central America Regional Contest
+- #27 ITESO_1, resolvió 0 problemas en The 2002 ACM Mexico and Central America Programming Contest
+
+## Participaciones
+
+### 2002-2003
 
 - #27 ITESO_2 (Regional)
 - #27 ITESO_3 (Regional)
@@ -10,19 +25,19 @@
 - #27 Therionizer (Regional)
 - #27 Origen (Regional)
 
-## 2003-2004
+### 2003-2004
 
 - #7 ACRUX (Regional)
 - #27 Iteso (Regional)
 - #41 ITESO ++ (Regional)
 
-## 2004-2005
+### 2004-2005
 
 - #6 ACRUX (Regional)
 - #44 UDACHA (Regional)
 - #48 ItesoX (Regional)
 
-## 2008-2009
+### 2008-2009
 
 - #6 Mezcla (Regional)
 - #9 Code Dream (Regional)
@@ -46,38 +61,38 @@
 - #101 Los tres ... (Regional)
 - #101 Cornolio (Regional)
 
-## 2009-2010
+### 2009-2010
 
 - #39 Seven (Regional)
 - #43 Tezcatlipoca (Regional)
 - #61 Sylber Dynamics (Regional)
 
-## 2010-2011
+### 2010-2011
 
 - #13 LOL (Regional)
 - #21 Olimpicos (Regional)
 - #75 Tezcaltlipoca (Regional)
 - #120 Overcloaked (Regional)
 
-## 2011-2012
+### 2011-2012
 
 - #23 Cheerios (Regional)
 - #104 Quorum (Regional)
 - #104 10 geeks 100 ever (Regional)
 
-## 2012-2013
+### 2012-2013
 
 - #24 Parabolic Octopi (Regional)
 - #86 m3xicanos (Regional)
 - #102 Default Default (Regional)
 - #110 LA RÉSISTANCE (Regional)
 
-## 2013-2014
+### 2013-2014
 
 - #29 Automatoes (Regional)
 - #42 Los hijos de Piza (Regional)
 
-## 2014-2015
+### 2014-2015
 
 - #45 Los Hijos de Piza (Regional)
 - #37 Time Limit Exceeded (Clasificatorio)
@@ -85,7 +100,7 @@
 - #161 DAN (Clasificatorio)
 - #177 Automatoes (Clasificatorio)
 
-## 2015-2016
+### 2015-2016
 
 - #40 KDT (Regional)
 - #50 Überclock (Regional)
@@ -102,7 +117,7 @@
 - #108 Macsus (Clasificatorio)
 - #108 Los hijos de Piza (Clasificatorio)
 
-## 2016-2017
+### 2016-2017
 
 - #55 MachineGuns (Regional)
 - #81 KDT (Regional)
@@ -194,7 +209,7 @@
 - #121 Tepic y Miguel (Clasificatorio)
 - #121 Error 404 (Clasificatorio)
 
-## 2017-2018
+### 2017-2018
 
 - #30 KDT (Regional)
 - #56 MachineGuns (Regional)
@@ -315,7 +330,7 @@
 - #405 Como sea (Clasificatorio)
 - #405 FAS (Clasificatorio)
 
-## 2018-2019
+### 2018-2019
 
 - #35 KDT (Regional)
 - #69 Alivianados (Clasificatorio)
@@ -549,7 +564,7 @@
 - #395 FORLOPIES (Clasificatorio)
 - #395 GISEL5 (Clasificatorio)
 
-## 2019-2020
+### 2019-2020
 
 - #162 Las comadres (Clasificatorio)
 - #382 Alvin y las ardillas_jorgemr (Clasificatorio)
@@ -763,11 +778,11 @@
 - #382 N0_N4M3D (Clasificatorio)
 - #382 ARizo-Equipo01 (Clasificatorio)
 
-## 2020-2021
+### 2020-2021
 
 - #351 Sistemas ITESO (Clasificatorio)
 
-## 2021-2022
+### 2021-2022
 
 - #151 BAL-Force (Clasificatorio)
 - #173 Neko beasts (Clasificatorio)
@@ -776,8 +791,9 @@
 - #223 Red Squadron (Clasificatorio)
 - #226 JAB (Clasificatorio)
 
-## 2022-2023
+### 2022-2023
 
 - #197 Minions the rise of code (Clasificatorio)
+
 
 

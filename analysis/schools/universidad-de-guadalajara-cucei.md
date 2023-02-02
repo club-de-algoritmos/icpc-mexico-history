@@ -2,14 +2,29 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## 2003-2004
+## Top 10 equipos
+
+- #51 Leones(0,0,0), resolvió 3 problemas en 45th Annual World Finals of the International Collegiate Programming Contest
+- #2 Leones(0,0,0), resolvió 5 problemas en The 2021 ICPC Mexico Finals
+- #6 ACM Problem Solvers, resolvió 4 problemas en The 2010 Mexico & Central America Regional Contest
+- #6 Vini Programmi Victi, resolvió 4 problemas en The 2006 ACM Mexico and Central America Programming Contest
+- #8 ACM Problem Solvers, resolvió 5 problemas en The 2009 Mexico & Central America Contest
+- #9 Digital Advance, resolvió 3 problemas en The 2005 ACM Mexico and Central America Programming Contest
+- #11 Ciberleones de Guadalajara, resolvió 2 problemas en The 2003 ACM Mexico and Central America Programming Contest
+- #13 fishbowlHead, resolvió 3 problemas en The 2004 ACM Mexico and Central America Programming Contest
+- #14 The Empire Strikes Back, resolvió 4 problemas en The 2020 ICPC Mexico Finals
+- #15 A New Hope, resolvió 3 problemas en The 2021 ICPC Mexico Finals
+
+## Participaciones
+
+### 2003-2004
 
 - #11 Ciberleones de Guadalajara (Regional)
 - #18 Digital Advance (Regional)
 - #41 Patitox CUCEI (Regional)
 - #41 Leones Negros (Regional)
 
-## 2004-2005
+### 2004-2005
 
 - #13 fishbowlHead (Regional)
 - #16 Caballo Negro (Regional)
@@ -18,7 +33,7 @@
 - #37 LionSoft (Regional)
 - #68 Leones Negros (Regional)
 
-## 2005-2006
+### 2005-2006
 
 - #9 Digital Advance (Regional)
 - #23 1000%wapos (Regional)
@@ -28,50 +43,50 @@
 - #85      (Regional)
 - #85 Warner Brothers (Regional)
 
-## 2006-2007
+### 2006-2007
 
 - #6 Vini Programmi Victi (Regional)
 - #48 1.5H (Regional)
 - #73 A7X (Regional)
 
-## 2008-2009
+### 2008-2009
 
 - #38 ACM PROBLEM SOLVERS (Regional)
 - #101 The Creepers (Regional)
 - #101 Leones Negros (Regional)
 - #101 Swordfish (Regional)
 
-## 2009-2010
+### 2009-2010
 
 - #8 ACM Problem Solvers (Regional)
 - #62 CUCEI People (Regional)
 - #88 Null Breakers (Regional)
 
-## 2010-2011
+### 2010-2011
 
 - #6 ACM Problem Solvers (Regional)
 - #83 Crazy Coders (Regional)
 
-## 2011-2012
+### 2011-2012
 
 - #26 (void *) 0 (Regional)
 - #46 Crazy Coders (Regional)
 - #56 The Assemblers (Regional)
 
-## 2012-2013
+### 2012-2013
 
 - #27 Astrum (Regional)
 - #77 Little bobby nully (Regional)
 - #121 Drunkard´s Walk (Regional)
 
-## 2013-2014
+### 2013-2014
 
 - #16 Astrum (Regional)
 - #17 Épsilon (Regional)
 - #33 Floyd (Regional)
 - #36 Krieger (Regional)
 
-## 2014-2015
+### 2014-2015
 
 - #20 Astrum (Regional)
 - #32 Épsilon (Regional)
@@ -90,7 +105,7 @@
 - #167 Beep (Clasificatorio)
 - #202 Betaguys**** (Clasificatorio)
 
-## 2015-2016
+### 2015-2016
 
 - #25 LaUltimaYNosVamos (Regional)
 - #93 Error404 (Clasificatorio)
@@ -104,7 +119,7 @@
 - #108 Team Turing (Clasificatorio)
 - #108 Floyd (Clasificatorio)
 
-## 2016-2017
+### 2016-2017
 
 - #29 Entscheidungsteam (Regional)
 - #121 Evelia & Friends (Clasificatorio)
@@ -125,7 +140,7 @@
 - #121 Los amos del universo (Clasificatorio)
 - #121 Key (Clasificatorio)
 
-## 2017-2018
+### 2017-2018
 
 - #68 BinaryThree (Clasificatorio)
 - #82 Leones (0,0,0) (Clasificatorio)
@@ -141,7 +156,7 @@
 - #405 Gearpower (Clasificatorio)
 - #405 Los Linces (Clasificatorio)
 
-## 2018-2019
+### 2018-2019
 
 - #52 Leones (0,0,0) (Regional)
 - #82 Binary Three (Clasificatorio)
@@ -155,7 +170,7 @@
 - #395 La Manzana De Dana (Clasificatorio)
 - #395 Desintegradores de almas (Clasificatorio)
 
-## 2019-2020
+### 2019-2020
 
 - #17 Leones(0,0,0); (Regional)
 - #40 Code Wizards (Regional)
@@ -175,7 +190,7 @@
 - #382 Put_Infos (Clasificatorio)
 - #382 Chilaquilovers (Clasificatorio)
 
-## 2020-2021
+### 2020-2021
 
 - #4 Leones(0,0,0) (Regional)
   - Avanzó a la final mundial, donde resolvió 3 problemas
@@ -186,7 +201,7 @@
 - #65 JRM-E (Clasificatorio)
 - #80 BroCode (Clasificatorio)
 
-## 2021-2022
+### 2021-2022
 
 - #2 Leones(0,0,0) (Regional)
 - #15 A New Hope (Regional)
@@ -196,7 +211,7 @@
 - #141 Develoopers (Clasificatorio)
 - #226 Mr. Asimov (Clasificatorio)
 
-## 2022-2023
+### 2022-2023
 
 - #25 Almost Retired (Clasificatorio)
 - #36 Los Mismísimos Carajillos (Clasificatorio)
@@ -218,5 +233,6 @@
 - #381 Torombolos (Clasificatorio)
 - #381 Uploading... (Clasificatorio)
 - #381 Los magos del barrio (Clasificatorio)
+
 
 

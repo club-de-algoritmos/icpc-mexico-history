@@ -4,7 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _COSTA4_: resolvió 1 problemas y obtuvo el lugar #80 en The 2018 ICPC Mexico and Central America Finals
+1. _COSTA4_: resolvió 1 problemas y obtuvo el lugar #80 (91%) en The 2018 ICPC Mexico and Central America Finals
+1. _COSTA8_: resolvió 3 problemas y obtuvo el lugar #202 (84%) en Gran Premio de Mexico 2019
+1. _Ya nos vamos_: resolvió 3 problemas y obtuvo el lugar #205 (84%) en Gran Premio de Mexico 2019
+1. _COSTA7_: resolvió 2 problemas y obtuvo el lugar #225 (83%) en Gran Premio de Mexico 2019
+1. _COSTA10_: resolvió 2 problemas y obtuvo el lugar #244 (81%) en Gran Premio de Mexico 2019
+1. _COSTA9_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _Por la anecdota_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _COSTA2_: resolvió 2 problemas y obtuvo el lugar #249 (70%) en Gran Premio de Mexico 2018
+1. _COSTA1_: resolvió 1 problemas y obtuvo el lugar #334 (60%) en Gran Premio de Mexico 2018
+1. _CLM_: resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 

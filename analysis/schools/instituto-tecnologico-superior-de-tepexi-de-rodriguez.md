@@ -4,6 +4,16 @@
 
 ## Mejores 10 equipos
 
+1. _A.A.G_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _Class_Leccion_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _E.F.C_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _ESCUADRON SISTEMAS_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _J.A.E_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _Procod_: resolvió 0 problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _RAF_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _TLITCOALTL_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _CGA TEAM_: resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _SHERPA_: resolvió 0 problemas y obtuvo el lugar #226 (55%) en The 2021 ICPC Gran Premio de Mexico
 
 ## Participaciones
 

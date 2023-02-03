@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _#include<uaz>_: resolvió 4 problemas y obtuvo el lugar #18 en The 2018 ICPC Mexico and Central America Finals
-1. _#include<uaz>_: resolvió 3 problemas y obtuvo el lugar #21 en The 2021 ICPC Mexico Finals
-1. _#include <uaz>_: resolvió 4 problemas y obtuvo el lugar #22 en The 2019 ICPC Mexico Finals
-1. _Los Ases_: resolvió 2 problemas y obtuvo el lugar #25 en The 2013 Mexico & Central America Regional Contest
-1. _#include<uaz>_: resolvió 3 problemas y obtuvo el lugar #30 en The 2020 ICPC Mexico Finals
-1. _Developers_: resolvió 1 problemas y obtuvo el lugar #34 en The 2013 Mexico & Central America Regional Contest
-1. _jarcores_: resolvió 2 problemas y obtuvo el lugar #35 en The 2014 ACM-ICPC Mexico and Central America Finals
-1. _SourceCode_: resolvió 2 problemas y obtuvo el lugar #40 en The 2016 ACM-ICPC Mexico and Central America Finals
-1. _ProgrammersOP_: resolvió 1 problemas y obtuvo el lugar #42 en The 2014 ACM-ICPC Mexico and Central America Finals
-1. _Sudo Programmers_: resolvió 1 problemas y obtuvo el lugar #48 en The 2021 ICPC Mexico Finals
+1. _#include <uaz>_: resolvió 4 problemas y obtuvo el lugar #22 (98%) en The 2019 ICPC Mexico Finals
+1. _#include<uaz>_: resolvió 4 problemas y obtuvo el lugar #18 (98%) en The 2018 ICPC Mexico and Central America Finals
+1. _#include<uaz>_: resolvió 3 problemas y obtuvo el lugar #21 (96%) en The 2021 ICPC Mexico Finals
+1. _#include <uaz>_: resolvió 12 problemas y obtuvo el lugar #38 (96%) en The 2022 ICPC Gran Premio de Mexico
+1. _#include<uaz>_: resolvió 3 problemas y obtuvo el lugar #30 (96%) en The 2020 ICPC Mexico Finals
+1. _Ice and Fire_: resolvió 7 problemas y obtuvo el lugar #45 (95%) en The 2022 ICPC Gran Premio de Mexico
+1. _El Bueno, el Malo y el Feo_: resolvió 5 problemas y obtuvo el lugar #87 (93%) en Gran Premio de Mexico 2019
+1. _Bug Makers_: resolvió 5 problemas y obtuvo el lugar #88 (93%) en Gran Premio de Mexico 2019
+1. _Sudo Programmers_: resolvió 9 problemas y obtuvo el lugar #67 (93%) en The 2022 ICPC Gran Premio de Mexico
+1. _Newbies_: resolvió 1 problemas y obtuvo el lugar #55 (92%) en The 2020 ICPC Mexico Finals
 
 ## Participaciones
 

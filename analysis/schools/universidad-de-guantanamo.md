@@ -4,8 +4,8 @@
 
 ## Mejores 10 equipos
 
-1. _cug-3ro_: resolvió 0 problemas y obtuvo el lugar #116 en The 2009 Mexico & Central America Contest
-1. _cug-4to_: resolvió 0 problemas y obtuvo el lugar #116 en The 2009 Mexico & Central America Contest
+1. _cug-3ro_: resolvió 0 problemas y obtuvo el lugar #116 (29%) en The 2009 Mexico & Central America Contest
+1. _cug-4to_: resolvió 0 problemas y obtuvo el lugar #116 (29%) en The 2009 Mexico & Central America Contest
 
 ## Participaciones
 

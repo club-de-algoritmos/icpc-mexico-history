@@ -4,10 +4,13 @@
 
 ## Mejores 10 equipos
 
-1. _USAC_: resolvió 2 problemas y obtuvo el lugar #45 en The 2015 ACM-ICPC Mexico and Central America Finals
-1. _Repechaje_: resolvió 2 problemas y obtuvo el lugar #53 en The 2016 ACM-ICPC Mexico and Central America Finals
-1. _HardCore Code_: resolvió 2 problemas y obtuvo el lugar #58 en The 2018 ICPC Mexico and Central America Finals
-1. _HardCore Code_: resolvió 1 problemas y obtuvo el lugar #75 en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _HardCore Code_: resolvió 2 problemas y obtuvo el lugar #58 (93%) en The 2018 ICPC Mexico and Central America Finals
+1. _Repechaje_: resolvió 2 problemas y obtuvo el lugar #53 (90%) en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _HardCore Code_: resolvió 1 problemas y obtuvo el lugar #75 (89%) en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _USAC_: resolvió 2 problemas y obtuvo el lugar #45 (86%) en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _Dwes GT_: resolvió 0 problemas y obtuvo el lugar #405 (41%) en Gran Premio de Mexico & Centroamerica 2017
+1. _Rinocerontes_: resolvió 0 problemas y obtuvo el lugar #405 (41%) en Gran Premio de Mexico & Centroamerica 2017
+1. _UsaC++_: resolvió 0 problemas y obtuvo el lugar #405 (41%) en Gran Premio de Mexico & Centroamerica 2017
 
 ## Participaciones
 

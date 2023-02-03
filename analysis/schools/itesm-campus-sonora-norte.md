@@ -4,10 +4,10 @@
 
 ## Mejores 10 equipos
 
-1. _Sonoran Supremacy_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
-1. _Sonora Technologies_: resolvió 1 problemas y obtuvo el lugar #77 en The 2006 ACM Mexico and Central America Programming Contest
-1. _LosTres_: resolvió 0 problemas y obtuvo el lugar #85 en The 2005 ACM Mexico and Central America Programming Contest
-1. _OmegaDelta_: resolvió 0 problemas y obtuvo el lugar #85 en The 2005 ACM Mexico and Central America Programming Contest
+1. _Sonoran Supremacy_: resolvió 0 problemas y obtuvo el lugar #41 (62%) en The 2003 ACM Mexico and Central America Programming Contest
+1. _LosTres_: resolvió 0 problemas y obtuvo el lugar #85 (40%) en The 2005 ACM Mexico and Central America Programming Contest
+1. _OmegaDelta_: resolvió 0 problemas y obtuvo el lugar #85 (40%) en The 2005 ACM Mexico and Central America Programming Contest
+1. _Sonora Technologies_: resolvió 1 problemas y obtuvo el lugar #77 (39%) en The 2006 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

@@ -4,6 +4,16 @@
 
 ## Mejores 10 equipos
 
+1. _Pandilla_: resolvió 5 problemas y obtuvo el lugar #145 (89%) en Gran Premio de Mexico 2019
+1. _Cytma_: resolvió 2 problemas y obtuvo el lugar #233 (82%) en Gran Premio de Mexico 2019
+1. _Coyote13_: resolvió 5 problemas y obtuvo el lugar #126 (82%) en Gran Premio de Mexico & Centroamerica 2017
+1. _Coyote 14_: resolvió 4 problemas y obtuvo el lugar #154 (82%) en Gran Premio de Mexico 2018
+1. _Coyotes Guerreros_: resolvió 2 problemas y obtuvo el lugar #278 (79%) en Gran Premio de Mexico 2019
+1. _Coyote 13_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _La Onda_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _Team 9_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _Irresponsables_: resolvió 1 problemas y obtuvo el lugar #316 (76%) en Gran Premio de Mexico 2019
+1. _Los PROgramadores_: resolvió 6 problemas y obtuvo el lugar #174 (76%) en Gran Premio de Mexico 2020
 
 ## Participaciones
 

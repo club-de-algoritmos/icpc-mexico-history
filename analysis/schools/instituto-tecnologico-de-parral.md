@@ -4,13 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _Los Otros_: resolvió 3 problemas y obtuvo el lugar #12 en The 2004 ACM Mexico and Central America Programming Contest
-1. _ITParral_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
-1. _Venados07_: resolvió 1 problemas y obtuvo el lugar #44 en The 2007 ACM Mexico and Central America Programming Contest
-1. _TIMOGA2006_: resolvió 1 problemas y obtuvo el lugar #59 en The 2006 ACM Mexico and Central America Programming Contest
-1. _ITPARRAL_: resolvió 0 problemas y obtuvo el lugar #85 en The 2005 ACM Mexico and Central America Programming Contest
-1. _Omega 2012_: resolvió 0 problemas y obtuvo el lugar #101 en The 2008 Mexico & Central America Contest
-1. _Los Osados_: resolvió 0 problemas y obtuvo el lugar #156 en The 2010 Mexico & Central America Regional Contest
+1. _Los Otros_: resolvió 3 problemas y obtuvo el lugar #12 (90%) en The 2004 ACM Mexico and Central America Programming Contest
+1. _ALT + F4_: resolvió 6 problemas y obtuvo el lugar #109 (88%) en The 2022 ICPC Gran Premio de Mexico
+1. _ALT + F4_: resolvió 3 problemas y obtuvo el lugar #95 (81%) en The 2021 ICPC Gran Premio de Mexico
+1. _Espartanos_: resolvió 2 problemas y obtuvo el lugar #255 (80%) en Gran Premio de Mexico 2019
+1. _Spacetacular_: resolvió 5 problemas y obtuvo el lugar #178 (75%) en Gran Premio de Mexico 2020
+1. _Venados07_: resolvió 1 problemas y obtuvo el lugar #44 (71%) en The 2007 ACM Mexico and Central America Programming Contest
+1. _ALT+F4_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _Codigo de Rehuso_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _DE COMPUTO 3.0_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _Fenixoft_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 

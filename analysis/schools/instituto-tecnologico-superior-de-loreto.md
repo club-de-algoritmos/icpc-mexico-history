@@ -4,14 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _Halcones 1_: resolvió 0 problemas y obtuvo el lugar #85 en The 2006 ACM Mexico and Central America Programming Contest
-1. _Halcones 2_: resolvió 0 problemas y obtuvo el lugar #85 en The 2006 ACM Mexico and Central America Programming Contest
-1. _Halcones2_: resolvió 0 problemas y obtuvo el lugar #85 en The 2006 ACM Mexico and Central America Programming Contest
-1. _ZORRO1_: resolvió 0 problemas y obtuvo el lugar #85 en The 2005 ACM Mexico and Central America Programming Contest
-1. _ZORRO2_: resolvió 0 problemas y obtuvo el lugar #85 en The 2005 ACM Mexico and Central America Programming Contest
-1. _ZORRO3_: resolvió 0 problemas y obtuvo el lugar #85 en The 2005 ACM Mexico and Central America Programming Contest
-1. _GALAXIS_: resolvió 2 problemas y obtuvo el lugar #89 en The 2012 Mexico & Central America Regional Contest
-1. _Halcones_: resolvió 0 problemas y obtuvo el lugar #101 en The 2008 Mexico & Central America Contest
+1. _Beaners_Loreto_: resolvió 1 problemas y obtuvo el lugar #377 (55%) en Gran Premio de Mexico 2018
+1. _Heavy Metal_: resolvió 1 problemas y obtuvo el lugar #381 (55%) en Gran Premio de Mexico 2018
+1. _Fenix_: resolvió 1 problemas y obtuvo el lugar #387 (54%) en Gran Premio de Mexico 2018
+1. _Alcontec_: resolvió 0 problemas y obtuvo el lugar #394 (53%) en Gran Premio de Mexico 2018
+1. _J&H_: resolvió 0 problemas y obtuvo el lugar #394 (53%) en Gran Premio de Mexico 2018
+1. _Picateclas_: resolvió 0 problemas y obtuvo el lugar #394 (53%) en Gran Premio de Mexico 2018
+1. _Scorpions_Loreto_: resolvió 0 problemas y obtuvo el lugar #394 (53%) en Gran Premio de Mexico 2018
+1. _bloodfallel_: resolvió 0 problemas y obtuvo el lugar #394 (53%) en Gran Premio de Mexico 2018
+1. _GALAXIS_: resolvió 2 problemas y obtuvo el lugar #89 (46%) en The 2012 Mexico & Central America Regional Contest
+1. _Halcones_: resolvió 0 problemas y obtuvo el lugar #101 (40%) en The 2008 Mexico & Central America Contest
 
 ## Participaciones
 

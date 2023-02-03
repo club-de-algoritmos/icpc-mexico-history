@@ -4,8 +4,10 @@
 
 ## Mejores 10 equipos
 
-1. _Lions_: resolvió 2 problemas y obtuvo el lugar #41 en The 2017 ACM-ICPC Mexico and Central America Finals
-1. _Chichén <int> zá_: resolvió 1 problemas y obtuvo el lugar #49 en The 2019 ICPC Mexico Finals
+1. _Chichén <int> zá_: resolvió 1 problemas y obtuvo el lugar #49 (96%) en The 2019 ICPC Mexico Finals
+1. _Lions_: resolvió 2 problemas y obtuvo el lugar #41 (94%) en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _Chichén <int> zá_: resolvió 8 problemas y obtuvo el lugar #126 (82%) en Gran Premio de Mexico 2020
+1. _#include <BAD>_: resolvió 5 problemas y obtuvo el lugar #161 (81%) en Gran Premio de Mexico 2018
 
 ## Participaciones
 

@@ -4,9 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _ITSAT_: resolvió 0 problemas y obtuvo el lugar #90 en The 2004 ACM Mexico and Central America Programming Contest
-1. _Galvantulas_: resolvió 0 problemas y obtuvo el lugar #95 en The 2013 Mexico & Central America Regional Contest
-1. _Galvantulas_: resolvió 0 problemas y obtuvo el lugar #134 en The 2012 Mexico & Central America Regional Contest
+1. _Los 5 Métodos_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _Los Romies_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _The Mirror's_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _Conejos digitales_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _Warriors_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _ITSAT 2_: resolvió 2 problemas y obtuvo el lugar #236 (66%) en Gran Premio de Mexico & Centroamerica 2017
+1. _ITSAT 3_: resolvió 2 problemas y obtuvo el lugar #250 (64%) en Gran Premio de Mexico & Centroamerica 2017
+1. _BitCodeOne_: resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _CodeOne_: resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _CodeOne_: resolvió 0 problemas y obtuvo el lugar #226 (55%) en The 2021 ICPC Gran Premio de Mexico
 
 ## Participaciones
 

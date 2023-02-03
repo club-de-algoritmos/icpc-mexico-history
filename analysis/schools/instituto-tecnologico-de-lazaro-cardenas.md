@@ -4,15 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _anonymous_: resolvió 2 problemas y obtuvo el lugar #44 en The 2012 Mexico & Central America Regional Contest
-1. _Base16_: resolvió 3 problemas y obtuvo el lugar #51 en The 2018 ICPC Mexico and Central America Finals
-1. _Error 404 Programmers NF_: resolvió 0 problemas y obtuvo el lugar #95 en The 2013 Mexico & Central America Regional Contest
-1. _KUINIKES_: resolvió 0 problemas y obtuvo el lugar #95 en The 2013 Mexico & Central America Regional Contest
-1. _Recyclers Coders_: resolvió 0 problemas y obtuvo el lugar #95 en The 2013 Mexico & Central America Regional Contest
-1. _Delfines_: resolvió 0 problemas y obtuvo el lugar #104 en The 2011 Mexico & Central America Regional Contest
-1. _Tiburones_: resolvió 0 problemas y obtuvo el lugar #104 en The 2011 Mexico & Central America Regional Contest
-1. _Delfines_: resolvió 0 problemas y obtuvo el lugar #134 en The 2012 Mexico & Central America Regional Contest
-1. _KAME_: resolvió 0 problemas y obtuvo el lugar #134 en The 2012 Mexico & Central America Regional Contest
+1. _Base16_: resolvió 3 problemas y obtuvo el lugar #51 (94%) en The 2018 ICPC Mexico and Central America Finals
+1. _Guerreros del Sol_: resolvió 7 problemas y obtuvo el lugar #89 (90%) en The 2022 ICPC Gran Premio de Mexico
+1. _Base16_: resolvió 5 problemas y obtuvo el lugar #130 (90%) en Gran Premio de Mexico 2019
+1. _base16_: resolvió 10 problemas y obtuvo el lugar #79 (89%) en Gran Premio de Mexico 2020
+1. _Innombrables_: resolvió 4 problemas y obtuvo el lugar #184 (86%) en Gran Premio de Mexico 2019
+1. _Eabel_: resolvió 3 problemas y obtuvo el lugar #207 (84%) en Gran Premio de Mexico 2019
+1. _Base16_: resolvió 4 problemas y obtuvo el lugar #131 (81%) en Gran Premio de Mexico & Centroamerica 2017
+1. _charmander;_: resolvió 2 problemas y obtuvo el lugar #281 (78%) en Gran Premio de Mexico 2019
+1. _char mander_: resolvió 6 problemas y obtuvo el lugar #160 (78%) en Gran Premio de Mexico 2020
+1. _Dinamita_: resolvió 2 problemas y obtuvo el lugar #294 (77%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 

@@ -4,13 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _IO EXCEPTION_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
-1. _SHARK_: resolvió 0 problemas y obtuvo el lugar #95 en The 2013 Mexico & Central America Regional Contest
-1. _HINAGA_: resolvió 0 problemas y obtuvo el lugar #104 en The 2011 Mexico & Central America Regional Contest
-1. _working_: resolvió 2 problemas y obtuvo el lugar #104 en The 2012 Mexico & Central America Regional Contest
-1. _s-black_: resolvió 1 problemas y obtuvo el lugar #128 en The 2012 Mexico & Central America Regional Contest
-1. _HIMAGA_: resolvió 0 problemas y obtuvo el lugar #156 en The 2010 Mexico & Central America Regional Contest
-1. _SIMULADORES_: resolvió 0 problemas y obtuvo el lugar #156 en The 2010 Mexico & Central America Regional Contest
+1. _GIGASHARK_: resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
+1. _TUX_: resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
+1. _IO EXCEPTION_: resolvió 0 problemas y obtuvo el lugar #61 (59%) en The 2007 ACM Mexico and Central America Programming Contest
+1. _Giga Shark_: resolvió 2 problemas y obtuvo el lugar #135 (46%) en Mexico and Central America Finals - Programming Battle
+1. _SHARK_: resolvió 0 problemas y obtuvo el lugar #95 (46%) en The 2013 Mexico & Central America Regional Contest
+1. _JAVALINUX_: resolvió 0 problemas y obtuvo el lugar #405 (41%) en Gran Premio de Mexico & Centroamerica 2017
+1. _working_: resolvió 2 problemas y obtuvo el lugar #104 (36%) en The 2012 Mexico & Central America Regional Contest
+1. _HINAGA_: resolvió 0 problemas y obtuvo el lugar #104 (36%) en The 2011 Mexico & Central America Regional Contest
+1. _HIMAGA_: resolvió 0 problemas y obtuvo el lugar #156 (22%) en The 2010 Mexico & Central America Regional Contest
+1. _SIMULADORES_: resolvió 0 problemas y obtuvo el lugar #156 (22%) en The 2010 Mexico & Central America Regional Contest
 
 ## Participaciones
 

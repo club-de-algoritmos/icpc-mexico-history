@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _Drink Team_: resolvió 2 problemas y obtuvo el lugar #15 en The 2001 ACM Mexico and Central America Programming Contest
-1. _Drink Team_: resolvió 1 problemas y obtuvo el lugar #29 en The 2003 ACM Mexico and Central America Programming Contest
-1. _Web-ones_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
-1. _Laguna 3_: resolvió 2 problemas y obtuvo el lugar #42 en The 2009 Mexico & Central America Contest
-1. _PMR 4000_: resolvió 1 problemas y obtuvo el lugar #53 en The 2007 ACM Mexico and Central America Programming Contest
-1. _Ctrl+Alt+Supr_: resolvió 0 problemas y obtuvo el lugar #55 en The 2001 ACM Mexico and Central America Programming Contest
-1. _Javalio_: resolvió 1 problemas y obtuvo el lugar #58 en The 2006 ACM Mexico and Central America Programming Contest
-1. _LPT_: resolvió 1 problemas y obtuvo el lugar #60 en The 2006 ACM Mexico and Central America Programming Contest
-1. _COF_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
-1. _Los intensos_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
+1. _Drink Team_: resolvió 2 problemas y obtuvo el lugar #15 (82%) en The 2001 ACM Mexico and Central America Programming Contest
+1. _Laguna 3_: resolvió 2 problemas y obtuvo el lugar #42 (75%) en The 2009 Mexico & Central America Contest
+1. _Drink Team_: resolvió 1 problemas y obtuvo el lugar #29 (73%) en The 2003 ACM Mexico and Central America Programming Contest
+1. _PMR 4000_: resolvió 1 problemas y obtuvo el lugar #53 (65%) en The 2007 ACM Mexico and Central America Programming Contest
+1. _Web-ones_: resolvió 0 problemas y obtuvo el lugar #41 (62%) en The 2003 ACM Mexico and Central America Programming Contest
+1. _COF_: resolvió 0 problemas y obtuvo el lugar #61 (59%) en The 2007 ACM Mexico and Central America Programming Contest
+1. _Los intensos_: resolvió 0 problemas y obtuvo el lugar #61 (59%) en The 2007 ACM Mexico and Central America Programming Contest
+1. _Javalio_: resolvió 1 problemas y obtuvo el lugar #58 (54%) en The 2006 ACM Mexico and Central America Programming Contest
+1. _Laguna 1_: resolvió 1 problemas y obtuvo el lugar #77 (53%) en The 2009 Mexico & Central America Contest
+1. _LPT_: resolvió 1 problemas y obtuvo el lugar #60 (53%) en The 2006 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

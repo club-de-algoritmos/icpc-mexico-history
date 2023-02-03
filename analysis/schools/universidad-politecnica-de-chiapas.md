@@ -4,6 +4,12 @@
 
 ## Mejores 10 equipos
 
+1. _chomsky_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _Dev's Team_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _RTD-3_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _TDF_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _TURIN_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _Upworks_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 

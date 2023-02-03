@@ -4,10 +4,10 @@
 
 ## Mejores 10 equipos
 
-1. _UPSIN DELTA_: resolvió 1 problemas y obtuvo el lugar #92 en The 2011 Mexico & Central America Regional Contest
-1. _UPSIN GAMMA_: resolvió 1 problemas y obtuvo el lugar #101 en The 2011 Mexico & Central America Regional Contest
-1. _UPSIN ALFA_: resolvió 0 problemas y obtuvo el lugar #104 en The 2011 Mexico & Central America Regional Contest
-1. _UPSIN BETA_: resolvió 0 problemas y obtuvo el lugar #104 en The 2011 Mexico & Central America Regional Contest
+1. _UPSIN DELTA_: resolvió 1 problemas y obtuvo el lugar #92 (43%) en The 2011 Mexico & Central America Regional Contest
+1. _UPSIN GAMMA_: resolvió 1 problemas y obtuvo el lugar #101 (38%) en The 2011 Mexico & Central America Regional Contest
+1. _UPSIN ALFA_: resolvió 0 problemas y obtuvo el lugar #104 (36%) en The 2011 Mexico & Central America Regional Contest
+1. _UPSIN BETA_: resolvió 0 problemas y obtuvo el lugar #104 (36%) en The 2011 Mexico & Central America Regional Contest
 
 ## Participaciones
 

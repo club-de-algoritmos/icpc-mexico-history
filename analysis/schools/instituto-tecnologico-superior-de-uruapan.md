@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _itsu_uruapan1_: resolvió 2 problemas y obtuvo el lugar #66 en The 2011 Mexico & Central America Regional Contest
-1. _itsu1_: resolvió 2 problemas y obtuvo el lugar #90 en The 2012 Mexico & Central America Regional Contest
-1. _itsu01_: resolvió 0 problemas y obtuvo el lugar #95 en The 2013 Mexico & Central America Regional Contest
-1. _British steel_: resolvió 2 problemas y obtuvo el lugar #96 en The 2010 Mexico & Central America Regional Contest
-1. _ITESU01_: resolvió 1 problemas y obtuvo el lugar #97 en The 2009 Mexico & Central America Contest
-1. _ITESU03_: resolvió 1 problemas y obtuvo el lugar #103 en The 2009 Mexico & Central America Contest
-1. _itsu_uruapan2_: resolvió 0 problemas y obtuvo el lugar #104 en The 2011 Mexico & Central America Regional Contest
-1. _itsu_uruapan3_: resolvió 0 problemas y obtuvo el lugar #104 en The 2011 Mexico & Central America Regional Contest
-1. _ITESU02_: resolvió 0 problemas y obtuvo el lugar #116 en The 2009 Mexico & Central America Contest
-1. _itsu3_: resolvió 1 problemas y obtuvo el lugar #129 en The 2012 Mexico & Central America Regional Contest
+1. _Quantus_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _Equipo7_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _MBP_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _Otro equipo de 3_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _itsu_uruapan1_: resolvió 2 problemas y obtuvo el lugar #66 (59%) en The 2011 Mexico & Central America Regional Contest
+1. _3B_: resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _AlphaTeam_: resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _CIA_: resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _Debugger_: resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _DeeRNet_: resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 

@@ -4,7 +4,7 @@
 
 ## Mejores 10 equipos
 
-1. _Tzotzes_: resolvió 0 problemas y obtuvo el lugar #85 en The 2005 ACM Mexico and Central America Programming Contest
+1. _Tzotzes_: resolvió 0 problemas y obtuvo el lugar #85 (40%) en The 2005 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

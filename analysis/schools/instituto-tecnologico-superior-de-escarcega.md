@@ -4,6 +4,16 @@
 
 ## Mejores 10 equipos
 
+1. _Alpha Team_: resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _CRIABKE TEAM_: resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _Freak Brawlers_: resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _Jaguarundis_: resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _Los guardianes_: resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _SAJUMI TEAM_: resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _TeamInges_: resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _Tlacuaches_: resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _JAGUARES_A_: resolvió 0 problemas y obtuvo el lugar #226 (55%) en The 2021 ICPC Gran Premio de Mexico
+1. _JAGUARES_B_: resolvió 0 problemas y obtuvo el lugar #226 (55%) en The 2021 ICPC Gran Premio de Mexico
 
 ## Participaciones
 

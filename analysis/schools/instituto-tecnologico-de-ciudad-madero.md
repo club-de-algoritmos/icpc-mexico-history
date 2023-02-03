@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _Tec Madero_: resolvió 0 problemas y obtuvo el lugar #57 en The 2002 ACM Programming Contest World Finals
-1. _IT. Madero_: resolvió 0 problemas y obtuvo el lugar #60 en The 2001 ACM Programming Contest World Finals
-1. _ITCM1_: resolvió 2 problemas y obtuvo el lugar #4 en The 2002 ACM Mexico and Central America Programming Contest
-1. _ITCM 4_: resolvió 2 problemas y obtuvo el lugar #9 en The 2001 ACM Mexico and Central America Programming Contest
-1. _Javadabadoo_: resolvió 4 problemas y obtuvo el lugar #9 en The 2012 Mexico & Central America Regional Contest
-1. _Tec Madero 3_: resolvió 2 problemas y obtuvo el lugar #10 en The 2001 ACM Mexico and Central America Programming Contest
-1. _ITCM3- The Ants_: resolvió 2 problemas y obtuvo el lugar #13 en The 2003 ACM Mexico and Central America Programming Contest
-1. _HyVent_: resolvió 4 problemas y obtuvo el lugar #13 en The 2012 Mexico & Central America Regional Contest
-1. _ITCM4 - Aztec Warriors_: resolvió 1 problemas y obtuvo el lugar #17 en The 2003 ACM Mexico and Central America Programming Contest
-1. _Tec Madero 2_: resolvió 1 problemas y obtuvo el lugar #20 en The 2001 ACM Mexico and Central America Programming Contest
+1. _Tec Madero_: resolvió 0 problemas y obtuvo el lugar #57 (11%) en The 2002 ACM Programming Contest World Finals
+1. _IT. Madero_: resolvió 0 problemas y obtuvo el lugar #60 (6%) en The 2001 ACM Programming Contest World Finals
+1. _ITCM1_: resolvió 2 problemas y obtuvo el lugar #4 (97%) en The 2002 ACM Mexico and Central America Programming Contest
+1. _Javadabadoo_: resolvió 4 problemas y obtuvo el lugar #9 (95%) en The 2012 Mexico & Central America Regional Contest
+1. _HyVent_: resolvió 4 problemas y obtuvo el lugar #13 (93%) en The 2012 Mexico & Central America Regional Contest
+1. _leopardos_: resolvió 2 problemas y obtuvo el lugar #39 (93%) en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _ITCM 4_: resolvió 2 problemas y obtuvo el lugar #9 (90%) en The 2001 ACM Mexico and Central America Programming Contest
+1. _Tec Madero 3_: resolvió 2 problemas y obtuvo el lugar #10 (89%) en The 2001 ACM Mexico and Central America Programming Contest
+1. _ITCM3- The Ants_: resolvió 2 problemas y obtuvo el lugar #13 (89%) en The 2003 ACM Mexico and Central America Programming Contest
+1. _Yep Yep_: resolvió 3 problemas y obtuvo el lugar #23 (86%) en The 2012 Mexico & Central America Regional Contest
 
 ## Participaciones
 

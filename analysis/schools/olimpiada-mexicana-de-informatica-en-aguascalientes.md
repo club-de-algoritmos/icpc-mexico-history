@@ -4,8 +4,8 @@
 
 ## Mejores 10 equipos
 
-1. _Nomen nescio_: resolvió 3 problemas y obtuvo el lugar #27 en The 2010 Mexico & Central America Regional Contest
-1. _aguascalientitos_: resolvió 2 problemas y obtuvo el lugar #42 en The 2012 Mexico & Central America Regional Contest
+1. _Nomen nescio_: resolvió 3 problemas y obtuvo el lugar #27 (87%) en The 2010 Mexico & Central America Regional Contest
+1. _aguascalientitos_: resolvió 2 problemas y obtuvo el lugar #42 (75%) en The 2012 Mexico & Central America Regional Contest
 
 ## Participaciones
 

@@ -4,6 +4,10 @@
 
 ## Mejores 10 equipos
 
+1. _CODEX-UPTAP_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _Loopers_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _RAM-UPTAP_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _Soft7_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 

@@ -4,13 +4,15 @@
 
 ## Mejores 10 equipos
 
-1. _CRUX_: resolvió 0 problemas y obtuvo el lugar #95 en The 2013 Mexico & Central America Regional Contest
-1. _Kaus_: resolvió 0 problemas y obtuvo el lugar #95 en The 2013 Mexico & Central America Regional Contest
-1. _POLARIS_: resolvió 0 problemas y obtuvo el lugar #95 en The 2013 Mexico & Central America Regional Contest
-1. _Antrax_: resolvió 0 problemas y obtuvo el lugar #104 en The 2011 Mexico & Central America Regional Contest
-1. _Back Track_: resolvió 0 problemas y obtuvo el lugar #104 en The 2011 Mexico & Central America Regional Contest
-1. _alfa_: resolvió 0 problemas y obtuvo el lugar #134 en The 2012 Mexico & Central America Regional Contest
-1. _beta_: resolvió 0 problemas y obtuvo el lugar #134 en The 2012 Mexico & Central America Regional Contest
+1. _keri_1_: resolvió 0 problemas y obtuvo el lugar #351 (51%) en Gran Premio de Mexico 2020
+1. _keri_2_: resolvió 0 problemas y obtuvo el lugar #351 (51%) en Gran Premio de Mexico 2020
+1. _CRUX_: resolvió 0 problemas y obtuvo el lugar #95 (46%) en The 2013 Mexico & Central America Regional Contest
+1. _Kaus_: resolvió 0 problemas y obtuvo el lugar #95 (46%) en The 2013 Mexico & Central America Regional Contest
+1. _POLARIS_: resolvió 0 problemas y obtuvo el lugar #95 (46%) en The 2013 Mexico & Central America Regional Contest
+1. _Antrax_: resolvió 0 problemas y obtuvo el lugar #104 (36%) en The 2011 Mexico & Central America Regional Contest
+1. _Back Track_: resolvió 0 problemas y obtuvo el lugar #104 (36%) en The 2011 Mexico & Central America Regional Contest
+1. _alfa_: resolvió 0 problemas y obtuvo el lugar #134 (18%) en The 2012 Mexico & Central America Regional Contest
+1. _beta_: resolvió 0 problemas y obtuvo el lugar #134 (18%) en The 2012 Mexico & Central America Regional Contest
 
 ## Participaciones
 

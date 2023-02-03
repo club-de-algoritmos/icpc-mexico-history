@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _UTMixteca NONAME_: resolvió 1 problemas y obtuvo el lugar #56 en The 2006 ACM Programming Contest World Finals
-1. _grajam_: resolvió 0 problemas y obtuvo el lugar #68 en 33rd Annual World Finals of the ACM International Collegiate Programming Contest
-1. _Justice League_: resolvió 1 problemas y obtuvo el lugar #101 en 36th Annual World Finals of the ACM International Collegiate Programming Contest
-1. _UTMixteca Poor Dogs_: resolvió 1 problemas y obtuvo el lugar #74 en The 2005 ACM Programming Contest World Finals
-1. _Poor Dogs_: resolvió 0 problemas y obtuvo el lugar #86 en The 2007 ACM Programming Contest World Finals
-1. _Faith + 1_: resolvió 4 problemas y obtuvo el lugar #4 en The 2012 Mexico & Central America Regional Contest
-1. _Batch Mode_: resolvió 4 problemas y obtuvo el lugar #5 en The 2007 ACM Mexico and Central America Programming Contest
-1. _Anti-Grajam_: resolvió 4 problemas y obtuvo el lugar #8 en The 2008 Mexico & Central America Contest
-1. _Granja_: resolvió 4 problemas y obtuvo el lugar #8 en The 2010 Mexico & Central America Regional Contest
-1. _Mictlan Guardians_: resolvió 2 problemas y obtuvo el lugar #9 en The 2013 Mexico & Central America Regional Contest
+1. _UTMixteca NONAME_: resolvió 1 problemas y obtuvo el lugar #56 (33%) en The 2006 ACM Programming Contest World Finals
+1. _grajam_: resolvió 0 problemas y obtuvo el lugar #68 (32%) en 33rd Annual World Finals of the ACM International Collegiate Programming Contest
+1. _Justice League_: resolvió 1 problemas y obtuvo el lugar #101 (10%) en 36th Annual World Finals of the ACM International Collegiate Programming Contest
+1. _UTMixteca Poor Dogs_: resolvió 1 problemas y obtuvo el lugar #74 (5%) en The 2005 ACM Programming Contest World Finals
+1. _Poor Dogs_: resolvió 0 problemas y obtuvo el lugar #86 (2%) en The 2007 ACM Programming Contest World Finals
+1. _Faith + 1_: resolvió 4 problemas y obtuvo el lugar #4 (98%) en The 2012 Mexico & Central America Regional Contest
+1. _K-bezones_: resolvió 3 problemas y obtuvo el lugar #31 (98%) en The 2019 ICPC Mexico Finals
+1. _Alcachofis_: resolvió 4 problemas y obtuvo el lugar #19 (97%) en The 2020 ICPC Mexico Finals
+1. _Batch Mode_: resolvió 4 problemas y obtuvo el lugar #5 (97%) en The 2007 ACM Mexico and Central America Programming Contest
+1. _the foos_: resolvió 3 problemas y obtuvo el lugar #15 (97%) en The 2016 ACM-ICPC Mexico and Central America Finals
 
 ## Participaciones
 

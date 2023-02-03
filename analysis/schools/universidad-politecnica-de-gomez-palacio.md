@@ -4,6 +4,7 @@
 
 ## Mejores 10 equipos
 
+1. _CodeCrafters_: resolvió 1 problemas y obtuvo el lugar #319 (62%) en Gran Premio de Mexico 2018
 
 ## Participaciones
 

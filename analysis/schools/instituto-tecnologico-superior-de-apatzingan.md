@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _NISC_: resolvió 3 problemas y obtuvo el lugar #35 en The 2011 Mexico & Central America Regional Contest
-1. _java knights_: resolvió 1 problemas y obtuvo el lugar #43 en The 2013 Mexico & Central America Regional Contest
-1. _SIMPUS YGGDRASIL_: resolvió 2 problemas y obtuvo el lugar #53 en The 2012 Mexico & Central America Regional Contest
-1. _SIMPUS_ITSA_: resolvió 2 problemas y obtuvo el lugar #58 en The 2011 Mexico & Central America Regional Contest
-1. _SIMPUS-ITSA_: resolvió 1 problemas y obtuvo el lugar #81 en The 2009 Mexico & Central America Contest
-1. _GNU-ITSA_: resolvió 1 problemas y obtuvo el lugar #92 en The 2009 Mexico & Central America Contest
-1. _Mugiwara_: resolvió 0 problemas y obtuvo el lugar #95 en The 2013 Mexico & Central America Regional Contest
-1. _los bastardos_: resolvió 0 problemas y obtuvo el lugar #95 en The 2013 Mexico & Central America Regional Contest
-1. _minions_: resolvió 0 problemas y obtuvo el lugar #95 en The 2013 Mexico & Central America Regional Contest
-1. _simpus_itsa_: resolvió 1 problemas y obtuvo el lugar #102 en The 2010 Mexico & Central America Regional Contest
+1. _NISC_: resolvió 3 problemas y obtuvo el lugar #35 (79%) en The 2011 Mexico & Central America Regional Contest
+1. _java knights_: resolvió 1 problemas y obtuvo el lugar #43 (76%) en The 2013 Mexico & Central America Regional Contest
+1. _Anthem ITSA_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _Ctos ITSA_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _ISC TEAM_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _Informáticos01_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _Informáticos02_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _Los Fieles_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _Los Judas_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _Los Judas ITSA_: resolvió 0 problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 

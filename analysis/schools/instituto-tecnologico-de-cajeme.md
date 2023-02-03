@@ -4,6 +4,10 @@
 
 ## Mejores 10 equipos
 
+1. _Itesca 1_: resolvió 2 problemas y obtuvo el lugar #284 (60%) en Gran Premio de Mexico 2020
+1. _La dinastia Norteña_: resolvió 1 problemas y obtuvo el lugar #331 (53%) en Gran Premio de Mexico 2020
+1. _Code not found_: resolvió 1 problemas y obtuvo el lugar #348 (51%) en Gran Premio de Mexico 2020
+1. _Los Coricos_: resolvió 0 problemas y obtuvo el lugar #351 (51%) en Gran Premio de Mexico 2020
 
 ## Participaciones
 

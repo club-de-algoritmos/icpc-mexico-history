@@ -4,6 +4,11 @@
 
 ## Mejores 10 equipos
 
+1. _Procoders_: resolvió 5 problemas y obtuvo el lugar #131 (84%) en Gran Premio de Mexico 2018
+1. _TICIIS_: resolvió 5 problemas y obtuvo el lugar #132 (84%) en Gran Premio de Mexico 2018
+1. _Procoders_: resolvió 4 problemas y obtuvo el lugar #150 (78%) en Gran Premio de Mexico & Centroamerica 2017
+1. _tics.RAR_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _TICIIS_: resolvió 2 problemas y obtuvo el lugar #253 (63%) en Gran Premio de Mexico & Centroamerica 2017
 
 ## Participaciones
 

@@ -4,8 +4,8 @@
 
 ## Mejores 10 equipos
 
-1. _URL-Excelencia_: resolvió 2 problemas y obtuvo el lugar #8 en The 2001 ACM Mexico and Central America Programming Contest
-1. _URL-DAC_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
+1. _URL-Excelencia_: resolvió 2 problemas y obtuvo el lugar #8 (91%) en The 2001 ACM Mexico and Central America Programming Contest
+1. _URL-DAC_: resolvió 0 problemas y obtuvo el lugar #41 (62%) en The 2003 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

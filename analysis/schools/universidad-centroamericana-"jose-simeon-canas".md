@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _ORION_: resolvió 2 problemas y obtuvo el lugar #37 en The 2017 ACM-ICPC Mexico and Central America Finals
-1. _Blank[]_: resolvió 3 problemas y obtuvo el lugar #43 en The 2018 ICPC Mexico and Central America Finals
-1. _ORION_: resolvió 3 problemas y obtuvo el lugar #44 en The 2018 ICPC Mexico and Central America Finals
-1. _Socket-ES_: resolvió 3 problemas y obtuvo el lugar #49 en The 2018 ICPC Mexico and Central America Finals
-1. _Hello World_: resolvió 2 problemas y obtuvo el lugar #51 en The 2017 ACM-ICPC Mexico and Central America Finals
-1. _Los petroleros del oriente_: resolvió 1 problemas y obtuvo el lugar #54 en The 2017 ACM-ICPC Mexico and Central America Finals
-1. _SOCKET-ES_: resolvió 1 problemas y obtuvo el lugar #58 en The 2017 ACM-ICPC Mexico and Central America Finals
-1. _GLHF_: resolvió 2 problemas y obtuvo el lugar #62 en The 2018 ICPC Mexico and Central America Finals
-1. _Los petroleros del oriente 2.0_: resolvió 2 problemas y obtuvo el lugar #63 en The 2018 ICPC Mexico and Central America Finals
-1. _Exp++_: resolvió 1 problemas y obtuvo el lugar #65 en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _Blank[]_: resolvió 3 problemas y obtuvo el lugar #43 (95%) en The 2018 ICPC Mexico and Central America Finals
+1. _ORION_: resolvió 3 problemas y obtuvo el lugar #44 (95%) en The 2018 ICPC Mexico and Central America Finals
+1. _ORION_: resolvió 2 problemas y obtuvo el lugar #37 (95%) en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _Socket-ES_: resolvió 3 problemas y obtuvo el lugar #49 (94%) en The 2018 ICPC Mexico and Central America Finals
+1. _Hello World_: resolvió 2 problemas y obtuvo el lugar #51 (93%) en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _GLHF_: resolvió 2 problemas y obtuvo el lugar #62 (93%) en The 2018 ICPC Mexico and Central America Finals
+1. _Los petroleros del oriente 2.0_: resolvió 2 problemas y obtuvo el lugar #63 (93%) en The 2018 ICPC Mexico and Central America Finals
+1. _Los petroleros del oriente_: resolvió 1 problemas y obtuvo el lugar #54 (92%) en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _tapioca++_: resolvió 2 problemas y obtuvo el lugar #68 (92%) en The 2018 ICPC Mexico and Central America Finals
+1. _TimeSages_: resolvió 2 problemas y obtuvo el lugar #69 (92%) en The 2018 ICPC Mexico and Central America Finals
 
 ## Participaciones
 

@@ -4,6 +4,9 @@
 
 ## Mejores 10 equipos
 
+1. _Robocode_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _RoboCode_: resolvió 0 problemas y obtuvo el lugar #107 (67%) en Gran Premio de Mexico & Centroamerica
+1. _shrek is love_: resolvió 1 problemas y obtuvo el lugar #307 (56%) en Gran Premio de Mexico & Centroamerica 2017
 
 ## Participaciones
 

@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _TecMorelia2_: resolvió 2 problemas y obtuvo el lugar #18 en The 2013 Mexico & Central America Regional Contest
-1. _ITM-3_: resolvió 3 problemas y obtuvo el lugar #20 en The 2011 Mexico & Central America Regional Contest
-1. _Tec Morelia 1_: resolvió 2 problemas y obtuvo el lugar #46 en The 2012 Mexico & Central America Regional Contest
-1. _ITM - Tec Morelia 2_: resolvió 2 problemas y obtuvo el lugar #63 en The 2012 Mexico & Central America Regional Contest
-1. _ITM-2_: resolvió 2 problemas y obtuvo el lugar #64 en The 2011 Mexico & Central America Regional Contest
-1. _Fail_: resolvió 1 problemas y obtuvo el lugar #67 en The 2009 Mexico & Central America Contest
-1. _TecMorelia1_: resolvió 1 problemas y obtuvo el lugar #75 en The 2013 Mexico & Central America Regional Contest
-1. _ITM-1_: resolvió 1 problemas y obtuvo el lugar #79 en The 2011 Mexico & Central America Regional Contest
-1. _ITM - Tec Morelia 3_: resolvió 2 problemas y obtuvo el lugar #81 en The 2012 Mexico & Central America Regional Contest
-1. _Tuxinator_: resolvió 1 problemas y obtuvo el lugar #95 en The 2009 Mexico & Central America Contest
+1. _TecMorelia2_: resolvió 2 problemas y obtuvo el lugar #18 (90%) en The 2013 Mexico & Central America Regional Contest
+1. _ITM-3_: resolvió 3 problemas y obtuvo el lugar #20 (88%) en The 2011 Mexico & Central America Regional Contest
+1. _Tec Morelia 1_: resolvió 2 problemas y obtuvo el lugar #46 (72%) en The 2012 Mexico & Central America Regional Contest
+1. _ITM - Tec Morelia 2_: resolvió 2 problemas y obtuvo el lugar #63 (62%) en The 2012 Mexico & Central America Regional Contest
+1. _VISUAL DIM_: resolvió 3 problemas y obtuvo el lugar #273 (62%) en Gran Premio de Mexico 2020
+1. _ITM-2_: resolvió 2 problemas y obtuvo el lugar #64 (61%) en The 2011 Mexico & Central America Regional Contest
+1. _Fail_: resolvió 1 problemas y obtuvo el lugar #67 (59%) en The 2009 Mexico & Central America Contest
+1. _Pony Code_: resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _PyJava++_: resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _TecMorelia1_: resolvió 1 problemas y obtuvo el lugar #75 (57%) en The 2013 Mexico & Central America Regional Contest
 
 ## Participaciones
 

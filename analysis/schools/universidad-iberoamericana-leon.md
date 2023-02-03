@@ -4,12 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _Iberoleon_: resolvió 1 problemas y obtuvo el lugar #54 en The 2014 ACM-ICPC Mexico and Central America Finals
-1. _ibero leon_: resolvió 0 problemas y obtuvo el lugar #95 en The 2013 Mexico & Central America Regional Contest
-1. _ISC 2 Ibero León_: resolvió 0 problemas y obtuvo el lugar #104 en The 2011 Mexico & Central America Regional Contest
-1. _Virtual Java León_: resolvió 0 problemas y obtuvo el lugar #116 en The 2009 Mexico & Central America Contest
-1. _Best Mecatronics_: resolvió 0 problemas y obtuvo el lugar #134 en The 2012 Mexico & Central America Regional Contest
-1. _Programming eWoks_: resolvió 0 problemas y obtuvo el lugar #134 en The 2012 Mexico & Central America Regional Contest
+1. _Iberoleon_: resolvió 1 problemas y obtuvo el lugar #54 (79%) en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _INSLeon_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _Ibero_leon_1_: resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
+1. _Ibero_leon_2_: resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
+1. _Ibero Leon Equipo 1_: resolvió 2 problemas y obtuvo el lugar #302 (64%) en Gran Premio de Mexico 2018
+1. _Ibero Leon Equipo 2_: resolvió 2 problemas y obtuvo el lugar #309 (63%) en Gran Premio de Mexico 2018
+1. _Ibero Leon Equipo 3_: resolvió 0 problemas y obtuvo el lugar #394 (53%) en Gran Premio de Mexico 2018
+1. _Ibero Leon Equipo 4_: resolvió 0 problemas y obtuvo el lugar #394 (53%) en Gran Premio de Mexico 2018
+1. _Ibero Leon Equipo 5_: resolvió 0 problemas y obtuvo el lugar #394 (53%) en Gran Premio de Mexico 2018
+1. _Ibero Leon Equipo 6_: resolvió 0 problemas y obtuvo el lugar #394 (53%) en Gran Premio de Mexico 2018
 
 ## Participaciones
 

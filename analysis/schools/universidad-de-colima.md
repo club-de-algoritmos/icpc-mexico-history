@@ -4,6 +4,9 @@
 
 ## Mejores 10 equipos
 
+1. _ACM amo_: resolvió 4 problemas y obtuvo el lugar #268 (62%) en Gran Premio de Mexico 2020
+1. _G3_: resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _Dumas_: resolvió 0 problemas y obtuvo el lugar #395 (53%) en Gran Premio de Mexico 2018
 
 ## Participaciones
 

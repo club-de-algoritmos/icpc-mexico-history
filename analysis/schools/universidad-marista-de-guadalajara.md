@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _LasalleGRC_: resolvió 1 problemas y obtuvo el lugar #60 en The 2004 ACM Mexico and Central America Programming Contest
-1. _LasalleDDE_: resolvió 1 problemas y obtuvo el lugar #63 en The 2004 ACM Mexico and Central America Programming Contest
-1. _Lasalle 2_: resolvió 1 problemas y obtuvo el lugar #69 en The 2005 ACM Mexico and Central America Programming Contest
-1. _LasalleFAI_: resolvió 1 problemas y obtuvo el lugar #77 en The 2004 ACM Mexico and Central America Programming Contest
-1. _Lasalle 1_: resolvió 0 problemas y obtuvo el lugar #85 en The 2005 ACM Mexico and Central America Programming Contest
-1. _LasallePKB_: resolvió 0 problemas y obtuvo el lugar #90 en The 2004 ACM Mexico and Central America Programming Contest
-1. _Marista Three_: resolvió 2 problemas y obtuvo el lugar #93 en The 2010 Mexico & Central America Regional Contest
-1. _DeltaUMG_: resolvió 0 problemas y obtuvo el lugar #95 en The 2013 Mexico & Central America Regional Contest
-1. _Marista White_: resolvió 0 problemas y obtuvo el lugar #104 en The 2011 Mexico & Central America Regional Contest
-1. _UMG - ALFA_: resolvió 0 problemas y obtuvo el lugar #134 en The 2012 Mexico & Central America Regional Contest
+1. _UMG++_: resolvió 0 problemas y obtuvo el lugar #226 (55%) en The 2021 ICPC Gran Premio de Mexico
+1. _Marista Three_: resolvió 2 problemas y obtuvo el lugar #93 (54%) en The 2010 Mexico & Central America Regional Contest
+1. _Lasalle 2_: resolvió 1 problemas y obtuvo el lugar #69 (51%) en The 2005 ACM Mexico and Central America Programming Contest
+1. _LasalleGRC_: resolvió 1 problemas y obtuvo el lugar #60 (47%) en The 2004 ACM Mexico and Central America Programming Contest
+1. _DeltaUMG_: resolvió 0 problemas y obtuvo el lugar #95 (46%) en The 2013 Mexico & Central America Regional Contest
+1. _LasalleDDE_: resolvió 1 problemas y obtuvo el lugar #63 (45%) en The 2004 ACM Mexico and Central America Programming Contest
+1. _Como Sea_: resolvió 2 problemas y obtuvo el lugar #149 (40%) en Mexico and Central America Finals - Programming Battle
+1. _Lasalle 1_: resolvió 0 problemas y obtuvo el lugar #85 (40%) en The 2005 ACM Mexico and Central America Programming Contest
+1. _SWCB_: resolvió 2 problemas y obtuvo el lugar #152 (39%) en Mexico and Central America Finals - Programming Battle
+1. _The Last Kingdom_: resolvió 2 problemas y obtuvo el lugar #155 (38%) en Mexico and Central America Finals - Programming Battle
 
 ## Participaciones
 

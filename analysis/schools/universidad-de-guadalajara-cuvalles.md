@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _Equipo CUValles_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
-1. _La Tribu_: resolvió 2 problemas y obtuvo el lugar #66 en The 2018 ICPC Mexico and Central America Finals
-1. _LOS DAERON_: resolvió 1 problemas y obtuvo el lugar #89 en The 2011 Mexico & Central America Regional Contest
-1. _Gomora_: resolvió 0 problemas y obtuvo el lugar #101 en The 2008 Mexico & Central America Contest
-1. _Los Trabajosos_: resolvió 0 problemas y obtuvo el lugar #101 en The 2008 Mexico & Central America Contest
-1. _UMI_: resolvió 0 problemas y obtuvo el lugar #101 en The 2008 Mexico & Central America Contest
-1. _VTS_: resolvió 0 problemas y obtuvo el lugar #101 en The 2008 Mexico & Central America Contest
-1. _TriForce_: resolvió 1 problemas y obtuvo el lugar #107 en The 2009 Mexico & Central America Contest
-1. _T.D.D.O._: resolvió 0 problemas y obtuvo el lugar #116 en The 2009 Mexico & Central America Contest
-1. _TriForce_: resolvió 1 problemas y obtuvo el lugar #151 en The 2010 Mexico & Central America Regional Contest
+1. _La Tribu_: resolvió 6 problemas y obtuvo el lugar #82 (94%) en Gran Premio de Mexico 2019
+1. _La Tribu_: resolvió 2 problemas y obtuvo el lugar #66 (92%) en The 2018 ICPC Mexico and Central America Finals
+1. _Cuvalles_: resolvió 6 problemas y obtuvo el lugar #104 (89%) en The 2022 ICPC Gran Premio de Mexico
+1. _Connectia_: resolvió 4 problemas y obtuvo el lugar #156 (88%) en Gran Premio de Mexico 2019
+1. _Programamistas_: resolvió 5 problemas y obtuvo el lugar #138 (85%) en The 2022 ICPC Gran Premio de Mexico
+1. _Team Warriors_: resolvió 3 problemas y obtuvo el lugar #203 (84%) en Gran Premio de Mexico 2019
+1. _Alpha & Omega_: resolvió 3 problemas y obtuvo el lugar #155 (82%) en Gran Premio de Mexico 2018
+1. _Alpha & Omega_: resolvió 1 problemas y obtuvo el lugar #302 (77%) en Gran Premio de Mexico 2019
+1. _The Noobs_: resolvió 1 problemas y obtuvo el lugar #313 (76%) en Gran Premio de Mexico 2019
+1. _Noobs_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 

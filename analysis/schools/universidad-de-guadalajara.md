@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _U de G ACM Problem Solvers_: resolvió 2 problemas y obtuvo el lugar #65 en The 2008 ACM Programming Contest World Finals
-1. _Leones de Guadalajara_: resolvió 2 problemas y obtuvo el lugar #11 en The 2002 ACM Mexico and Central America Programming Contest
-1. _Patitox CUCEI_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
-1. _AmictiaMentis_: resolvió 1 problemas y obtuvo el lugar #34 en The 2007 ACM Mexico and Central America Programming Contest
-1. _Leones Rechazados_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
-1. _Veni Programmi Victi_: resolvió 1 problemas y obtuvo el lugar #51 en The 2007 ACM Mexico and Central America Programming Contest
-1. _Untitled_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
-1. _Cuvalles UdeG_: resolvió 0 problemas y obtuvo el lugar #85 en The 2005 ACM Mexico and Central America Programming Contest
-1. _Cuvallitos_: resolvió 0 problemas y obtuvo el lugar #85 en The 2005 ACM Mexico and Central America Programming Contest
-1. _Valles UdeG_: resolvió 1 problemas y obtuvo el lugar #85 en The 2004 ACM Mexico and Central America Programming Contest
+1. _U de G ACM Problem Solvers_: resolvió 2 problemas y obtuvo el lugar #65 (35%) en The 2008 ACM Programming Contest World Finals
+1. _Leones de Guadalajara_: resolvió 2 problemas y obtuvo el lugar #11 (89%) en The 2002 ACM Mexico and Central America Programming Contest
+1. _AmictiaMentis_: resolvió 1 problemas y obtuvo el lugar #34 (78%) en The 2007 ACM Mexico and Central America Programming Contest
+1. _Patitox CUCEI_: resolvió 0 problemas y obtuvo el lugar #27 (72%) en The 2002 ACM Mexico and Central America Programming Contest
+1. _Veni Programmi Victi_: resolvió 1 problemas y obtuvo el lugar #51 (66%) en The 2007 ACM Mexico and Central America Programming Contest
+1. _Leones Rechazados_: resolvió 0 problemas y obtuvo el lugar #41 (62%) en The 2003 ACM Mexico and Central America Programming Contest
+1. _Untitled_: resolvió 0 problemas y obtuvo el lugar #61 (59%) en The 2007 ACM Mexico and Central America Programming Contest
+1. _Sons Of Tanenbaum_: resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _Cuvalles UdeG_: resolvió 0 problemas y obtuvo el lugar #85 (40%) en The 2005 ACM Mexico and Central America Programming Contest
+1. _Cuvallitos_: resolvió 0 problemas y obtuvo el lugar #85 (40%) en The 2005 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

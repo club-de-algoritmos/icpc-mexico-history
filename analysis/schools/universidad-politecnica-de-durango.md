@@ -4,6 +4,16 @@
 
 ## Mejores 10 equipos
 
+1. _OldCode_: resolvió 4 problemas y obtuvo el lugar #179 (86%) en Gran Premio de Mexico 2019
+1. _The triforce_: resolvió 4 problemas y obtuvo el lugar #185 (78%) en Gran Premio de Mexico 2018
+1. _Flowers Team_: resolvió 4 problemas y obtuvo el lugar #153 (78%) en Gran Premio de Mexico & Centroamerica 2017
+1. _UNIPOLI-ISW_: resolvió 4 problemas y obtuvo el lugar #154 (78%) en Gran Premio de Mexico & Centroamerica 2017
+1. _newcode_: resolvió 3 problemas y obtuvo el lugar #217 (74%) en Gran Premio de Mexico 2018
+1. _The Skulls_: resolvió 1 problemas y obtuvo el lugar #350 (73%) en Gran Premio de Mexico 2019
+1. _ISW PRoS_: resolvió 3 problemas y obtuvo el lugar #206 (71%) en Gran Premio de Mexico 2020
+1. _Andromeda_: resolvió 2 problemas y obtuvo el lugar #244 (71%) en Gran Premio de Mexico 2018
+1. _1A_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _ALV (Alumnos listos para vencer)_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 

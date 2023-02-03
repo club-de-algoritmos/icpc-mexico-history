@@ -4,7 +4,7 @@
 
 ## Mejores 10 equipos
 
-1. _Tonala-1_: resolvió 0 problemas y obtuvo el lugar #156 en The 2010 Mexico & Central America Regional Contest
+1. _Tonala-1_: resolvió 0 problemas y obtuvo el lugar #156 (22%) en The 2010 Mexico & Central America Regional Contest
 
 ## Participaciones
 

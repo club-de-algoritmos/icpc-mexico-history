@@ -4,12 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _Triforce_: resolvió 2 problemas y obtuvo el lugar #59 en The 2015 ACM-ICPC Mexico and Central America Finals
-1. _RAL Machine_: resolvió 1 problemas y obtuvo el lugar #74 en The 2015 ACM-ICPC Mexico and Central America Finals
-1. _!Java_: resolvió 0 problemas y obtuvo el lugar #95 en The 2013 Mexico & Central America Regional Contest
-1. _FreeCode_: resolvió 0 problemas y obtuvo el lugar #95 en The 2013 Mexico & Central America Regional Contest
-1. _Full-Time Programmers_: resolvió 0 problemas y obtuvo el lugar #95 en The 2013 Mexico & Central America Regional Contest
-1. _Skynett_: resolvió 0 problemas y obtuvo el lugar #95 en The 2013 Mexico & Central America Regional Contest
+1. _CKT_: resolvió 5 problemas y obtuvo el lugar #128 (90%) en Gran Premio de Mexico 2019
+1. _3.1416T*_: resolvió 5 problemas y obtuvo el lugar #141 (89%) en Gran Premio de Mexico 2019
+1. _Dinamita2_: resolvió 3 problemas y obtuvo el lugar #199 (85%) en Gran Premio de Mexico 2019
+1. _Los Ansiosos_: resolvió 3 problemas y obtuvo el lugar #213 (84%) en Gran Premio de Mexico 2019
+1. _Constelacion_: resolvió 3 problemas y obtuvo el lugar #215 (83%) en Gran Premio de Mexico 2019
+1. _Triforce_: resolvió 2 problemas y obtuvo el lugar #59 (82%) en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _Segmentation Fault_: resolvió 8 problemas y obtuvo el lugar #141 (80%) en Gran Premio de Mexico 2020
+1. _Los Padrinos_: resolvió 2 problemas y obtuvo el lugar #276 (79%) en Gran Premio de Mexico 2019
+1. _Black Mens_: resolvió 2 problemas y obtuvo el lugar #292 (77%) en Gran Premio de Mexico 2019
+1. _RAL Machine_: resolvió 1 problemas y obtuvo el lugar #74 (77%) en The 2015 ACM-ICPC Mexico and Central America Finals
 
 ## Participaciones
 

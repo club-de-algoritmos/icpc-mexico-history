@@ -4,10 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _CSF1_: resolvió 3 problemas y obtuvo el lugar #16 en The 2015 ACM-ICPC Mexico and Central America Finals
-1. _Assassin Bugs_: resolvió 4 problemas y obtuvo el lugar #26 en The 2020 ICPC Mexico Finals
-1. _CSF1_: resolvió 2 problemas y obtuvo el lugar #38 en The 2016 ACM-ICPC Mexico and Central America Finals
-1. _The Brewskis_: resolvió 2 problemas y obtuvo el lugar #54 en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _Assassin Bugs_: resolvió 4 problemas y obtuvo el lugar #26 (96%) en The 2020 ICPC Mexico Finals
+1. _CSF1_: resolvió 3 problemas y obtuvo el lugar #16 (95%) en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _CSF1_: resolvió 2 problemas y obtuvo el lugar #38 (93%) en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _Assassin Bugs_: resolvió 9 problemas y obtuvo el lugar #67 (90%) en Gran Premio de Mexico & Centroamerica 2017
+1. _The Brewskis_: resolvió 2 problemas y obtuvo el lugar #54 (90%) en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _ITCrew_: resolvió 8 problemas y obtuvo el lugar #79 (89%) en Gran Premio de Mexico & Centroamerica 2017
+1. _C-nadores_: resolvió 6 problemas y obtuvo el lugar #102 (88%) en Gran Premio de Mexico 2018
+1. _C-nadores_: resolvió 4 problemas y obtuvo el lugar #181 (86%) en Gran Premio de Mexico 2019
+1. _Trinidad_: resolvió 6 problemas y obtuvo el lugar #118 (86%) en Gran Premio de Mexico 2018
+1. _C buscan_: resolvió 5 problemas y obtuvo el lugar #126 (85%) en Gran Premio de Mexico 2018
 
 ## Participaciones
 

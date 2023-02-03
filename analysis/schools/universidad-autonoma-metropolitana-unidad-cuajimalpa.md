@@ -4,14 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _UAMC A_: resolvió 3 problemas y obtuvo el lugar #26 en The 2016 ACM-ICPC Mexico and Central America Finals
-1. _UAM Cuajimalpa 2015 A_: resolvió 3 problemas y obtuvo el lugar #32 en The 2015 ACM-ICPC Mexico and Central America Finals
-1. _UAM Cuajimalpa 2014-Compu_: resolvió 1 problemas y obtuvo el lugar #39 en The 2014 ACM-ICPC Mexico and Central America Finals
-1. _UAMC A_: resolvió 1 problemas y obtuvo el lugar #59 en The 2017 ACM-ICPC Mexico and Central America Finals
-1. _UAM Cuajimalpa_: resolvió 2 problemas y obtuvo el lugar #63 en The 2011 Mexico & Central America Regional Contest
-1. _UAM Cuajimalpa 2015 B_: resolvió 1 problemas y obtuvo el lugar #78 en The 2015 ACM-ICPC Mexico and Central America Finals
-1. _UAM Iztapalapa_: resolvió 1 problemas y obtuvo el lugar #81 en The 2006 ACM Mexico and Central America Programming Contest
-1. _UAM CUAJIMALPA 2013_: resolvió 1 problemas y obtuvo el lugar #92 en The 2013 Mexico & Central America Regional Contest
+1. _UAMC A_: resolvió 3 problemas y obtuvo el lugar #26 (95%) en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _UAMC A_: resolvió 1 problemas y obtuvo el lugar #59 (92%) en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _UAM Cuajimalpa 2015 A_: resolvió 3 problemas y obtuvo el lugar #32 (90%) en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _UAM Cuajimalpa 2014-Compu_: resolvió 1 problemas y obtuvo el lugar #39 (85%) en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _UAMC 2016 A_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _UAMC 2016 B_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _UAMC 2016 C_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _UAMC 2016 D_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _UAMC 2016 E_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _UAM Cuajimalpa 2015 B_: resolvió 1 problemas y obtuvo el lugar #78 (76%) en The 2015 ACM-ICPC Mexico and Central America Finals
 
 ## Participaciones
 

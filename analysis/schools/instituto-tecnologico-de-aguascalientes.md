@@ -4,7 +4,11 @@
 
 ## Mejores 10 equipos
 
-1. _Encoded_: resolvió 1 problemas y obtuvo el lugar #94 en The 2013 Mexico & Central America Regional Contest
+1. _DVS_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _Discípulos de Ponce_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _GC: Geek Code_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _Java for Rookies_: resolvió 0 problemas y obtuvo el lugar #351 (51%) en Gran Premio de Mexico 2020
+1. _Encoded_: resolvió 1 problemas y obtuvo el lugar #94 (46%) en The 2013 Mexico & Central America Regional Contest
 
 ## Participaciones
 

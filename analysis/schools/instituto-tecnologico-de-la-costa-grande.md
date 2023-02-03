@@ -4,6 +4,8 @@
 
 ## Mejores 10 equipos
 
+1. _Cocodrilos1_: resolvió 0 problemas y obtuvo el lugar #394 (53%) en Gran Premio de Mexico 2018
+1. _Cocodrilos2_: resolvió 0 problemas y obtuvo el lugar #394 (53%) en Gran Premio de Mexico 2018
 
 ## Participaciones
 

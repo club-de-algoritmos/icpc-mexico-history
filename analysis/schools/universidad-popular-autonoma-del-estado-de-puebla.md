@@ -4,13 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _Hakunas_: resolvió 2 problemas y obtuvo el lugar #51 en The 2016 ACM-ICPC Mexico and Central America Finals
-1. _Hakuna matata_: resolvió 2 problemas y obtuvo el lugar #57 en The 2015 ACM-ICPC Mexico and Central America Finals
-1. _CCeros_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
-1. _Javeros_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
-1. _Agilas de Hierro_: resolvió 1 problemas y obtuvo el lugar #76 en The 2006 ACM Mexico and Central America Programming Contest
-1. _Turbodedos_: resolvió 1 problemas y obtuvo el lugar #78 en The 2008 Mexico & Central America Contest
-1. _Los Tomates_: resolvió 0 problemas y obtuvo el lugar #101 en The 2008 Mexico & Central America Contest
+1. _Array of clowns_: resolvió 10 problemas y obtuvo el lugar #73 (94%) en Gran Premio de Mexico 2019
+1. _CPU;_: resolvió 7 problemas y obtuvo el lugar #81 (91%) en The 2022 ICPC Gran Premio de Mexico
+1. _Hakunas_: resolvió 2 problemas y obtuvo el lugar #51 (90%) en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _Array of clowns[]_: resolvió 7 problemas y obtuvo el lugar #95 (89%) en Gran Premio de Mexico 2018
+1. _Array of clowns_: resolvió 7 problemas y obtuvo el lugar #86 (88%) en Gran Premio de Mexico & Centroamerica 2017
+1. _3 de asada_: resolvió 5 problemas y obtuvo el lugar #115 (87%) en The 2022 ICPC Gran Premio de Mexico
+1. _<bits/team.h>_: resolvió 5 problemas y obtuvo el lugar #118 (87%) en The 2022 ICPC Gran Premio de Mexico
+1. _Formato APA_: resolvió 10 problemas y obtuvo el lugar #112 (84%) en Gran Premio de Mexico 2020
+1. _La máquina de turing_: resolvió 5 problemas y obtuvo el lugar #116 (83%) en Gran Premio de Mexico & Centroamerica 2017
+1. _JPC_: resolvió 5 problemas y obtuvo el lugar #142 (83%) en Gran Premio de Mexico 2018
 
 ## Participaciones
 

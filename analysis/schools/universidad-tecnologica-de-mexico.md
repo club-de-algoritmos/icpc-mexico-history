@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _senorbac_: resolvió 1 problemas y obtuvo el lugar #22 en The 2002 ACM Mexico and Central America Programming Contest
-1. _Equis V.2.0_: resolvió 2 problemas y obtuvo el lugar #25 en The 2004 ACM Mexico and Central America Programming Contest
-1. _swordfish_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
-1. _Equis Ver. 3.0_: resolvió 2 problemas y obtuvo el lugar #40 en The 2006 ACM Mexico and Central America Programming Contest
-1. _EDEDNO_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
-1. _EQUIS_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
-1. _RAIDERS_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
-1. _EQUIS v.4.0_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
-1. _UNITEC 2_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
-1. _Trial Core_: resolvió 0 problemas y obtuvo el lugar #85 en The 2006 ACM Mexico and Central America Programming Contest
+1. _Equis V.2.0_: resolvió 2 problemas y obtuvo el lugar #25 (79%) en The 2004 ACM Mexico and Central America Programming Contest
+1. _senorbac_: resolvió 1 problemas y obtuvo el lugar #22 (77%) en The 2002 ACM Mexico and Central America Programming Contest
+1. _swordfish_: resolvió 0 problemas y obtuvo el lugar #27 (72%) en The 2002 ACM Mexico and Central America Programming Contest
+1. _Equis Ver. 3.0_: resolvió 2 problemas y obtuvo el lugar #40 (69%) en The 2006 ACM Mexico and Central America Programming Contest
+1. _EDEDNO_: resolvió 0 problemas y obtuvo el lugar #41 (62%) en The 2003 ACM Mexico and Central America Programming Contest
+1. _EQUIS_: resolvió 0 problemas y obtuvo el lugar #41 (62%) en The 2003 ACM Mexico and Central America Programming Contest
+1. _RAIDERS_: resolvió 0 problemas y obtuvo el lugar #41 (62%) en The 2003 ACM Mexico and Central America Programming Contest
+1. _EQUIS v.4.0_: resolvió 0 problemas y obtuvo el lugar #61 (59%) en The 2007 ACM Mexico and Central America Programming Contest
+1. _UNITEC 2_: resolvió 0 problemas y obtuvo el lugar #61 (59%) en The 2007 ACM Mexico and Central America Programming Contest
+1. _Trial Core_: resolvió 0 problemas y obtuvo el lugar #85 (33%) en The 2006 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

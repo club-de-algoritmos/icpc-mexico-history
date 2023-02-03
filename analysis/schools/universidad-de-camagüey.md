@@ -4,9 +4,9 @@
 
 ## Mejores 10 equipos
 
-1. _Equipo 2 - Quinto_: resolvió 2 problemas y obtuvo el lugar #61 en The 2010 Mexico & Central America Regional Contest
-1. _Equipo 1 - Quinto_: resolvió 2 problemas y obtuvo el lugar #92 en The 2010 Mexico & Central America Regional Contest
-1. _Agramontinos_: resolvió 0 problemas y obtuvo el lugar #116 en The 2009 Mexico & Central America Contest
+1. _Equipo 2 - Quinto_: resolvió 2 problemas y obtuvo el lugar #61 (70%) en The 2010 Mexico & Central America Regional Contest
+1. _Equipo 1 - Quinto_: resolvió 2 problemas y obtuvo el lugar #92 (54%) en The 2010 Mexico & Central America Regional Contest
+1. _Agramontinos_: resolvió 0 problemas y obtuvo el lugar #116 (29%) en The 2009 Mexico & Central America Contest
 
 ## Participaciones
 

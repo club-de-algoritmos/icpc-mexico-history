@@ -4,6 +4,8 @@
 
 ## Mejores 10 equipos
 
+1. _3code_: resolvió 0 problemas y obtuvo el lugar #226 (55%) en The 2021 ICPC Gran Premio de Mexico
+1. _3code_: resolvió 0 problemas y obtuvo el lugar #351 (51%) en Gran Premio de Mexico 2020
 
 ## Participaciones
 

@@ -4,8 +4,8 @@
 
 ## Mejores 10 equipos
 
-1. _OMIJAL - CETI_: resolvió 1 problemas y obtuvo el lugar #89 en The 2009 Mexico & Central America Contest
-1. _CETI Guan_: resolvió 1 problemas y obtuvo el lugar #127 en The 2010 Mexico & Central America Regional Contest
+1. _OMIJAL - CETI_: resolvió 1 problemas y obtuvo el lugar #89 (46%) en The 2009 Mexico & Central America Contest
+1. _CETI Guan_: resolvió 1 problemas y obtuvo el lugar #127 (36%) en The 2010 Mexico & Central America Regional Contest
 
 ## Participaciones
 

@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _Los que no vinieron_: resolvió 4 problemas y obtuvo el lugar #10 en The 2021 ICPC Mexico Finals
-1. _Los que no vinieron_: resolvió 5 problemas y obtuvo el lugar #12 en The 2020 ICPC Mexico Finals
-1. _javaglets_: resolvió 2 problemas y obtuvo el lugar #17 en The 2004 ACM Mexico and Central America Programming Contest
-1. _Chevaliers_: resolvió 3 problemas y obtuvo el lugar #18 en The 2006 ACM Mexico and Central America Programming Contest
-1. _Cancer_: resolvió 3 problemas y obtuvo el lugar #23 en The 2008 Mexico & Central America Contest
-1. _RAM_: resolvió 4 problemas y obtuvo el lugar #26 en The 2018 ICPC Mexico and Central America Finals
-1. _Cuernavaca_: resolvió 1 problemas y obtuvo el lugar #35 en The 2003 ACM Mexico and Central America Programming Contest
-1. _Los que no vinieron_: resolvió 1 problemas y obtuvo el lugar #43 en The 2019 ICPC Mexico Finals
-1. _Le Cancer_: resolvió 1 problemas y obtuvo el lugar #72 en The 2006 ACM Mexico and Central America Programming Contest
-1. _S.T.A.R.S. _: resolvió 1 problemas y obtuvo el lugar #82 en The 2008 Mexico & Central America Contest
+1. _Los que no vinieron_: resolvió 5 problemas y obtuvo el lugar #12 (98%) en The 2020 ICPC Mexico Finals
+1. _Los que no vinieron_: resolvió 4 problemas y obtuvo el lugar #10 (98%) en The 2021 ICPC Mexico Finals
+1. _RAM_: resolvió 4 problemas y obtuvo el lugar #26 (97%) en The 2018 ICPC Mexico and Central America Finals
+1. _Los que no vinieron_: resolvió 1 problemas y obtuvo el lugar #43 (97%) en The 2019 ICPC Mexico Finals
+1. _Los que SÍ vinieron_: resolvió 9 problemas y obtuvo el lugar #56 (94%) en The 2022 ICPC Gran Premio de Mexico
+1. _Cancer_: resolvió 3 problemas y obtuvo el lugar #23 (87%) en The 2008 Mexico & Central America Contest
+1. _Chevaliers_: resolvió 3 problemas y obtuvo el lugar #18 (86%) en The 2006 ACM Mexico and Central America Programming Contest
+1. _javaglets_: resolvió 2 problemas y obtuvo el lugar #17 (86%) en The 2004 ACM Mexico and Central America Programming Contest
+1. _EpicTeam_: resolvió 7 problemas y obtuvo el lugar #100 (86%) en Gran Premio de Mexico & Centroamerica 2017
+1. _Team.jar_: resolvió 5 problemas y obtuvo el lugar #122 (86%) en Gran Premio de Mexico 2018
 
 ## Participaciones
 

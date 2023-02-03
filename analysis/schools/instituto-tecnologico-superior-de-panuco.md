@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _ITSP1_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
-1. _ITSP2_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
-1. _ITSP3_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
-1. _Hackers_: resolvió 2 problemas y obtuvo el lugar #37 en The 2005 ACM Mexico and Central America Programming Contest
-1. _ITSP-1_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
-1. _ITSP2_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
-1. _ITSPánuco 1_: resolvió 1 problemas y obtuvo el lugar #54 en The 2004 ACM Mexico and Central America Programming Contest
-1. _ITSPanuco_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
-1. _The JMV_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
-1. _puntero_: resolvió 1 problemas y obtuvo el lugar #79 en The 2005 ACM Mexico and Central America Programming Contest
+1. _Hackers_: resolvió 2 problemas y obtuvo el lugar #37 (74%) en The 2005 ACM Mexico and Central America Programming Contest
+1. _ITSP1_: resolvió 0 problemas y obtuvo el lugar #27 (72%) en The 2002 ACM Mexico and Central America Programming Contest
+1. _ITSP2_: resolvió 0 problemas y obtuvo el lugar #27 (72%) en The 2002 ACM Mexico and Central America Programming Contest
+1. _ITSP3_: resolvió 0 problemas y obtuvo el lugar #27 (72%) en The 2002 ACM Mexico and Central America Programming Contest
+1. _hard disk_: resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
+1. _ITSP-1_: resolvió 0 problemas y obtuvo el lugar #41 (62%) en The 2003 ACM Mexico and Central America Programming Contest
+1. _ITSP2_: resolvió 0 problemas y obtuvo el lugar #41 (62%) en The 2003 ACM Mexico and Central America Programming Contest
+1. _ITSPanuco_: resolvió 0 problemas y obtuvo el lugar #61 (59%) en The 2007 ACM Mexico and Central America Programming Contest
+1. _The JMV_: resolvió 0 problemas y obtuvo el lugar #61 (59%) en The 2007 ACM Mexico and Central America Programming Contest
+1. _Breakers_: resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 

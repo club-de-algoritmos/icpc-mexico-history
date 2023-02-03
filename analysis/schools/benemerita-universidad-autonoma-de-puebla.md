@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _BUA de Puebla - Los Alfalfas_: resolvió 2 problemas y obtuvo el lugar #69 en The 2005 ACM Programming Contest World Finals
-1. _Death Match_: resolvió 0 problemas y obtuvo el lugar #86 en The 2007 ACM Programming Contest World Finals
-1. _Terna Dorada_: resolvió 3 problemas y obtuvo el lugar #6 en The 2003 ACM Mexico and Central America Programming Contest
-1. _Call C Team_: resolvió 4 problemas y obtuvo el lugar #6 en The 2005 ACM Mexico and Central America Programming Contest
-1. _SAG AM_: resolvió 3 problemas y obtuvo el lugar #9 en The 2011 Mexico & Central America Regional Contest
-1. _Algoholics_: resolvió 4 problemas y obtuvo el lugar #14 en The 2009 Mexico & Central America Contest
-1. _Codeslayer_: resolvió 4 problemas y obtuvo el lugar #14 en The 2014 ACM-ICPC Mexico and Central America Finals
-1. _->BUAPXTRON_: resolvió 2 problemas y obtuvo el lugar #15 en The 2003 ACM Mexico and Central America Programming Contest
-1. _Drink Team_: resolvió 3 problemas y obtuvo el lugar #17 en The 2012 Mexico & Central America Regional Contest
-1. _Aediat upin_: resolvió 4 problemas y obtuvo el lugar #17 en The 2009 Mexico & Central America Contest
+1. _BUA de Puebla - Los Alfalfas_: resolvió 2 problemas y obtuvo el lugar #69 (12%) en The 2005 ACM Programming Contest World Finals
+1. _Death Match_: resolvió 0 problemas y obtuvo el lugar #86 (2%) en The 2007 ACM Programming Contest World Finals
+1. _Call C Team_: resolvió 4 problemas y obtuvo el lugar #6 (96%) en The 2005 ACM Mexico and Central America Programming Contest
+1. _Terna Dorada_: resolvió 3 problemas y obtuvo el lugar #6 (95%) en The 2003 ACM Mexico and Central America Programming Contest
+1. _SAG AM_: resolvió 3 problemas y obtuvo el lugar #9 (95%) en The 2011 Mexico & Central America Regional Contest
+1. _Codeslayer_: resolvió 4 problemas y obtuvo el lugar #14 (95%) en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _Algoholics_: resolvió 4 problemas y obtuvo el lugar #14 (92%) en The 2009 Mexico & Central America Contest
+1. _Es team a2 2_: resolvió 3 problemas y obtuvo el lugar #20 (90%) en The 2010 Mexico & Central America Regional Contest
+1. _Drink Team_: resolvió 3 problemas y obtuvo el lugar #17 (90%) en The 2012 Mexico & Central America Regional Contest
+1. _Aediat upin_: resolvió 4 problemas y obtuvo el lugar #17 (90%) en The 2009 Mexico & Central America Contest
 
 ## Participaciones
 

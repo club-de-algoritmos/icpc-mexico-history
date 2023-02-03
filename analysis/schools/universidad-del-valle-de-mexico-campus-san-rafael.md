@@ -4,6 +4,9 @@
 
 ## Mejores 10 equipos
 
+1. _{W1LDC4TS_SR} 1_: resolvió 1 problemas y obtuvo el lugar #345 (51%) en Gran Premio de Mexico 2020
+1. _{W1LDC4TS_SR} 2_: resolvió 0 problemas y obtuvo el lugar #351 (51%) en Gran Premio de Mexico 2020
+1. _{W1LDC4TS_SR} 3_: resolvió 0 problemas y obtuvo el lugar #351 (51%) en Gran Premio de Mexico 2020
 
 ## Participaciones
 

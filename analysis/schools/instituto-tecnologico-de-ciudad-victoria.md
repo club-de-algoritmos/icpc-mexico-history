@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _Tec Victoria 2_: resolvió 1 problemas y obtuvo el lugar #19 en The 2001 ACM Mexico and Central America Programming Contest
-1. _Code Poets_: resolvió 1 problemas y obtuvo el lugar #26 en The 2007 ACM Mexico and Central America Programming Contest
-1. _MAI Team_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
-1. _X-NET_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
-1. _Worms_: resolvió 2 problemas y obtuvo el lugar #38 en The 2005 ACM Mexico and Central America Programming Contest
-1. _ITCV-1_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
-1. _ITCV-2_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
-1. _ITCV-3_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
-1. _ITCV-4_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
-1. _Tec Victoria 1_: resolvió 0 problemas y obtuvo el lugar #55 en The 2001 ACM Mexico and Central America Programming Contest
+1. _Code Poets_: resolvió 1 problemas y obtuvo el lugar #26 (83%) en The 2007 ACM Mexico and Central America Programming Contest
+1. _Tec Victoria 2_: resolvió 1 problemas y obtuvo el lugar #19 (77%) en The 2001 ACM Mexico and Central America Programming Contest
+1. _Worms_: resolvió 2 problemas y obtuvo el lugar #38 (73%) en The 2005 ACM Mexico and Central America Programming Contest
+1. _MAI Team_: resolvió 0 problemas y obtuvo el lugar #27 (72%) en The 2002 ACM Mexico and Central America Programming Contest
+1. _X-NET_: resolvió 0 problemas y obtuvo el lugar #27 (72%) en The 2002 ACM Mexico and Central America Programming Contest
+1. _ITCV-1_: resolvió 0 problemas y obtuvo el lugar #41 (62%) en The 2003 ACM Mexico and Central America Programming Contest
+1. _ITCV-2_: resolvió 0 problemas y obtuvo el lugar #41 (62%) en The 2003 ACM Mexico and Central America Programming Contest
+1. _ITCV-3_: resolvió 0 problemas y obtuvo el lugar #41 (62%) en The 2003 ACM Mexico and Central America Programming Contest
+1. _ITCV-4_: resolvió 0 problemas y obtuvo el lugar #41 (62%) en The 2003 ACM Mexico and Central America Programming Contest
+1. _Code Team_: resolvió 0 problemas y obtuvo el lugar #61 (59%) en The 2007 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

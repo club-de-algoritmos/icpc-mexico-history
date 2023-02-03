@@ -4,6 +4,8 @@
 
 ## Mejores 10 equipos
 
+1. _Rpower3_: resolvió 4 problemas y obtuvo el lugar #180 (79%) en Gran Premio de Mexico 2018
+1. _HashTAG_: resolvió 3 problemas y obtuvo el lugar #231 (73%) en Gran Premio de Mexico 2018
 
 ## Participaciones
 

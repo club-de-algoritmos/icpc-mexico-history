@@ -4,6 +4,16 @@
 
 ## Mejores 10 equipos
 
+1. _LAS 3 GEMAS DEL INFINITO_: resolvió 4 problemas y obtuvo el lugar #188 (86%) en Gran Premio de Mexico 2019
+1. _Jalapeños Developer Team_: resolvió 4 problemas y obtuvo el lugar #189 (85%) en Gran Premio de Mexico 2019
+1. _Zorros_: resolvió 4 problemas y obtuvo el lugar #143 (79%) en Gran Premio de Mexico & Centroamerica 2017
+1. _LAS INEVITABLES_: resolvió 2 problemas y obtuvo el lugar #289 (78%) en Gran Premio de Mexico 2019
+1. _Java-Lieron_: resolvió 2 problemas y obtuvo el lugar #240 (71%) en Gran Premio de Mexico 2018
+1. _Survivor_Team_: resolvió 2 problemas y obtuvo el lugar #241 (71%) en Gran Premio de Mexico 2018
+1. _Error 404_: resolvió 3 problemas y obtuvo el lugar #199 (71%) en Gran Premio de Mexico & Centroamerica 2017
+1. _Atletico San Pancho_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _Los nuevos vengadores_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _innombrables_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 

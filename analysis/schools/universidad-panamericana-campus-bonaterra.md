@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _UPsolving_: resolvió 5 problemas y obtuvo el lugar #41 en 45th Annual World Finals of the International Collegiate Programming Contest
-1. _Los Chidory_: resolvió 2 problemas y obtuvo el lugar #45 en 38th Annual World Finals of the ACM International Collegiate Programming Contest
-1. _UPsolving_: resolvió None problemas y obtuvo el lugar #47 en 44th Annual World Finals of the International Collegiate Programming Contest
-1. _AEI_: resolvió 2 problemas y obtuvo el lugar #76 en 37th Annual World Finals of the ACM International Collegiate Programming Contest
-1. _UPsolving_: resolvió 7 problemas y obtuvo el lugar #5 en The 2018 ICPC Mexico and Central America Finals
-1. _ICPCrikos_: resolvió 4 problemas y obtuvo el lugar #6 en The 2021 ICPC Mexico Finals
-1. _Time limit exceeded_: resolvió 3 problemas y obtuvo el lugar #7 en The 2007 ACM Mexico and Central America Programming Contest
-1. _Sopa de pingüino_: resolvió 5 problemas y obtuvo el lugar #7 en The 2016 ACM-ICPC Mexico and Central America Finals
-1. _Lla++_: resolvió 4 problemas y obtuvo el lugar #8 en The 2015 ACM-ICPC Mexico and Central America Finals
-1. _Easy-PC_: resolvió 4 problemas y obtuvo el lugar #9 en The 2021 ICPC Mexico Finals
+1. _UPsolving_: resolvió 5 problemas y obtuvo el lugar #41 (69%) en 45th Annual World Finals of the International Collegiate Programming Contest
+1. _Los Chidory_: resolvió 2 problemas y obtuvo el lugar #45 (64%) en 38th Annual World Finals of the ACM International Collegiate Programming Contest
+1. _UPsolving_: resolvió None problemas y obtuvo el lugar #47 (61%) en 44th Annual World Finals of the International Collegiate Programming Contest
+1. _AEI_: resolvió 2 problemas y obtuvo el lugar #76 (36%) en 37th Annual World Finals of the ACM International Collegiate Programming Contest
+1. _UPsolving_: resolvió 22 problemas y obtuvo el lugar #3 (100%) en The 2022 ICPC Gran Premio de Mexico
+1. _ICPCrikos_: resolvió 19 problemas y obtuvo el lugar #4 (100%) en The 2022 ICPC Gran Premio de Mexico
+1. _UPsolving_: resolvió 7 problemas y obtuvo el lugar #5 (100%) en The 2018 ICPC Mexico and Central America Finals
+1. _Chilakillers_: resolvió 5 problemas y obtuvo el lugar #12 (99%) en The 2019 ICPC Mexico Finals
+1. _ICPCrikos_: resolvió 4 problemas y obtuvo el lugar #6 (99%) en The 2021 ICPC Mexico Finals
+1. _Sopa de pingüino_: resolvió 5 problemas y obtuvo el lugar #7 (99%) en The 2016 ACM-ICPC Mexico and Central America Finals
 
 ## Participaciones
 

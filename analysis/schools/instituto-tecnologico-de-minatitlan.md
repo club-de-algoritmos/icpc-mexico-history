@@ -4,7 +4,8 @@
 
 ## Mejores 10 equipos
 
-1. _HALCONES_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
+1. _Lambdaf_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _HALCONES_: resolvió 0 problemas y obtuvo el lugar #41 (62%) en The 2003 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

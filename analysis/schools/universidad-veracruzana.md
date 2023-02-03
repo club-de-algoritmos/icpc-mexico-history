@@ -4,13 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _C-NEWS_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
-1. _Turigers_: resolvió 1 problemas y obtuvo el lugar #45 en The 2014 ACM-ICPC Mexico and Central America Finals
-1. _Turingers_: resolvió 1 problemas y obtuvo el lugar #84 en The 2013 Mexico & Central America Regional Contest
-1. _cripTux_: resolvió 2 problemas y obtuvo el lugar #85 en The 2012 Mexico & Central America Regional Contest
-1. _BugKillers_: resolvió 0 problemas y obtuvo el lugar #95 en The 2013 Mexico & Central America Regional Contest
-1. _FEI_UV_: resolvió 1 problemas y obtuvo el lugar #99 en The 2009 Mexico & Central America Contest
-1. _Dukes_: resolvió 0 problemas y obtuvo el lugar #116 en The 2009 Mexico & Central America Contest
+1. _Turigers_: resolvió 1 problemas y obtuvo el lugar #45 (82%) en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _AnotherCreativeName_: resolvió 8 problemas y obtuvo el lugar #137 (81%) en Gran Premio de Mexico 2020
+1. _Flagship_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _LAC team_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _bitwise_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _javalimos_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _quetzal_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _the xtreme programmers_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _Trouble hunters_: resolvió 5 problemas y obtuvo el lugar #188 (74%) en Gran Premio de Mexico 2020
+1. _C-NEWS_: resolvió 0 problemas y obtuvo el lugar #27 (72%) en The 2002 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

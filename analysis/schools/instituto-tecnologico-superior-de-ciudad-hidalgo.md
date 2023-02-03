@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _LoboWar_: resolvió 2 problemas y obtuvo el lugar #47 en The 2016 ACM-ICPC Mexico and Central America Finals
-1. _Sooner_Or_Later_: resolvió 2 problemas y obtuvo el lugar #56 en The 2015 ACM-ICPC Mexico and Central America Finals
-1. _Last_Generation_: resolvió 1 problemas y obtuvo el lugar #58 en The 2014 ACM-ICPC Mexico and Central America Finals
-1. _Jaguares_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
-1. _Power Machine_: resolvió 1 problemas y obtuvo el lugar #65 en The 2006 ACM Mexico and Central America Programming Contest
-1. _Badrock Team_: resolvió 2 problemas y obtuvo el lugar #70 en The 2015 ACM-ICPC Mexico and Central America Finals
-1. _Jaguares 2_: resolvió 2 problemas y obtuvo el lugar #79 en The 2012 Mexico & Central America Regional Contest
-1. _Jaguares I_: resolvió 0 problemas y obtuvo el lugar #85 en The 2005 ACM Mexico and Central America Programming Contest
-1. _Jaguares II_: resolvió 0 problemas y obtuvo el lugar #85 en The 2005 ACM Mexico and Central America Programming Contest
-1. _Jaguares 1_: resolvió 2 problemas y obtuvo el lugar #86 en The 2012 Mexico & Central America Regional Contest
+1. _LoboWar_: resolvió 2 problemas y obtuvo el lugar #47 (91%) en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _LoboGuar_: resolvió 9 problemas y obtuvo el lugar #81 (90%) en Gran Premio de Mexico 2018
+1. _jaguares++_: resolvió 8 problemas y obtuvo el lugar #92 (89%) en Gran Premio de Mexico 2018
+1. _Sooner_Or_Later_: resolvió 2 problemas y obtuvo el lugar #56 (83%) en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _Badrock Team_: resolvió 2 problemas y obtuvo el lugar #70 (78%) en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _Last_Generation_: resolvió 1 problemas y obtuvo el lugar #58 (77%) en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _Pass Of Death_: resolvió 1 problemas y obtuvo el lugar #299 (77%) en Gran Premio de Mexico 2019
+1. _BadBoys_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _Badrock Team_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _BitCoder_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
 
 ## Participaciones
 

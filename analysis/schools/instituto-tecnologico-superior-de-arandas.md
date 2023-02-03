@@ -4,7 +4,12 @@
 
 ## Mejores 10 equipos
 
-1. _Arandas1_: resolvió 1 problemas y obtuvo el lugar #55 en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _Arandas1_: resolvió 1 problemas y obtuvo el lugar #55 (78%) en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _Arandas 1_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _CODE BREAKERS_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _Arandas1_: resolvió 0 problemas y obtuvo el lugar #405 (41%) en Gran Premio de Mexico & Centroamerica 2017
+1. _Arandas2_: resolvió 0 problemas y obtuvo el lugar #405 (41%) en Gran Premio de Mexico & Centroamerica 2017
+1. _Arandas_: resolvió 1 problemas y obtuvo el lugar #180 (28%) en Mexico and Central America Finals - Programming Battle
 
 ## Participaciones
 

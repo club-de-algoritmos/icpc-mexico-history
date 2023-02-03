@@ -4,9 +4,12 @@
 
 ## Mejores 10 equipos
 
-1. _Coders4Life_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
-1. _AlCEMY.C_: resolvió 0 problemas y obtuvo el lugar #101 en The 2008 Mexico & Central America Contest
-1. _RiEdAl.H_: resolvió 0 problemas y obtuvo el lugar #101 en The 2008 Mexico & Central America Contest
+1. _Los Programadoruskis_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _Coders4Life_: resolvió 0 problemas y obtuvo el lugar #61 (59%) en The 2007 ACM Mexico and Central America Programming Contest
+1. _Los Bytes_: resolvió 0 problemas y obtuvo el lugar #394 (53%) en Gran Premio de Mexico 2018
+1. _IngCode_: resolvió 0 problemas y obtuvo el lugar #351 (51%) en Gran Premio de Mexico 2020
+1. _AlCEMY.C_: resolvió 0 problemas y obtuvo el lugar #101 (40%) en The 2008 Mexico & Central America Contest
+1. _RiEdAl.H_: resolvió 0 problemas y obtuvo el lugar #101 (40%) en The 2008 Mexico & Central America Contest
 
 ## Participaciones
 

@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _EliteC_: resolvió 4 problemas y obtuvo el lugar #4 en The 2007 ACM Mexico and Central America Programming Contest
-1. _Elite_C_: resolvió 4 problemas y obtuvo el lugar #5 en The 2006 ACM Mexico and Central America Programming Contest
-1. _Nosotros_: resolvió 3 problemas y obtuvo el lugar #15 en The 2004 ACM Mexico and Central America Programming Contest
-1. _EliteC_: resolvió 3 problemas y obtuvo el lugar #18 en The 2008 Mexico & Central America Contest
-1. _nosotros_: resolvió 2 problemas y obtuvo el lugar #35 en The 2006 ACM Mexico and Central America Programming Contest
-1. _Bit-less_: resolvió 2 problemas y obtuvo el lugar #42 en The 2006 ACM Mexico and Central America Programming Contest
-1. _ORIONES_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
-1. _Nabucodonosor_: resolvió 1 problemas y obtuvo el lugar #76 en The 2004 ACM Mexico and Central America Programming Contest
-1. _AlphaTeam_: resolvió 1 problemas y obtuvo el lugar #84 en The 2008 Mexico & Central America Contest
-1. _Cabezas de Jarro_: resolvió 0 problemas y obtuvo el lugar #85 en The 2005 ACM Mexico and Central America Programming Contest
+1. _EliteC_: resolvió 4 problemas y obtuvo el lugar #4 (98%) en The 2007 ACM Mexico and Central America Programming Contest
+1. _Elite_C_: resolvió 4 problemas y obtuvo el lugar #5 (97%) en The 2006 ACM Mexico and Central America Programming Contest
+1. _EliteC_: resolvió 3 problemas y obtuvo el lugar #18 (90%) en The 2008 Mexico & Central America Contest
+1. _Nosotros_: resolvió 3 problemas y obtuvo el lugar #15 (88%) en The 2004 ACM Mexico and Central America Programming Contest
+1. _nosotros_: resolvió 2 problemas y obtuvo el lugar #35 (73%) en The 2006 ACM Mexico and Central America Programming Contest
+1. _Bit-less_: resolvió 2 problemas y obtuvo el lugar #42 (67%) en The 2006 ACM Mexico and Central America Programming Contest
+1. _ORIONES_: resolvió 0 problemas y obtuvo el lugar #61 (59%) en The 2007 ACM Mexico and Central America Programming Contest
+1. _AlphaTeam_: resolvió 1 problemas y obtuvo el lugar #84 (51%) en The 2008 Mexico & Central America Contest
+1. _exCPart_: resolvió 0 problemas y obtuvo el lugar #351 (51%) en Gran Premio de Mexico 2020
+1. _BigBangTeam_: resolvió 0 problemas y obtuvo el lugar #101 (40%) en The 2008 Mexico & Central America Contest
 
 ## Participaciones
 

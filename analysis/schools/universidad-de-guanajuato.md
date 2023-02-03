@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _U Guanajuato Hausdorff_: resolvió 2 problemas y obtuvo el lugar #77 en 34th Annual World Finals of the ACM International Collegiate Programming Contest
-1. _Mandelbrot_: resolvió 0 problemas y obtuvo el lugar #56 en The 2003 ACM Programming Contest World Finals
-1. _U de Guanajuato Hausdorff_: resolvió 0 problemas y obtuvo el lugar #90 en The 2008 ACM Programming Contest World Finals
-1. _Koch_: resolvió 4 problemas y obtuvo el lugar #2 en The 2011 Mexico & Central America Regional Contest
-1. _Hausdorff_: resolvió 7 problemas y obtuvo el lugar #2 en The 2009 Mexico & Central America Contest
-1. _Mandelbrot_: resolvió 3 problemas y obtuvo el lugar #4 en The 2003 ACM Mexico and Central America Programming Contest
-1. _Mandelbrot_: resolvió 3 problemas y obtuvo el lugar #7 en The 2001 ACM Mexico and Central America Programming Contest
-1. _Hausdorff_: resolvió 4 problemas y obtuvo el lugar #7 en The 2006 ACM Mexico and Central America Programming Contest
-1. _sierPiNsKi_: resolvió 4 problemas y obtuvo el lugar #8 en The 2006 ACM Mexico and Central America Programming Contest
-1. _Dragon Kurve_: resolvió 4 problemas y obtuvo el lugar #9 en The 2010 Mexico & Central America Regional Contest
+1. _U Guanajuato Hausdorff_: resolvió 2 problemas y obtuvo el lugar #77 (25%) en 34th Annual World Finals of the ACM International Collegiate Programming Contest
+1. _Mandelbrot_: resolvió 0 problemas y obtuvo el lugar #56 (18%) en The 2003 ACM Programming Contest World Finals
+1. _U de Guanajuato Hausdorff_: resolvió 0 problemas y obtuvo el lugar #90 (10%) en The 2008 ACM Programming Contest World Finals
+1. _Hausdorff_: resolvió 7 problemas y obtuvo el lugar #2 (99%) en The 2009 Mexico & Central America Contest
+1. _Koch_: resolvió 4 problemas y obtuvo el lugar #2 (99%) en The 2011 Mexico & Central America Regional Contest
+1. _Mandelbrot_: resolvió 3 problemas y obtuvo el lugar #4 (97%) en The 2003 ACM Mexico and Central America Programming Contest
+1. _Dragon Kurve_: resolvió 4 problemas y obtuvo el lugar #9 (96%) en The 2010 Mexico & Central America Regional Contest
+1. _Hausdorff_: resolvió 4 problemas y obtuvo el lugar #7 (95%) en The 2006 ACM Mexico and Central America Programming Contest
+1. _sierPiNsKi_: resolvió 4 problemas y obtuvo el lugar #8 (94%) en The 2006 ACM Mexico and Central America Programming Contest
+1. _Wolves_: resolvió 3 problemas y obtuvo el lugar #19 (94%) en The 2015 ACM-ICPC Mexico and Central America Finals
 
 ## Participaciones
 

@@ -4,8 +4,8 @@
 
 ## Mejores 10 equipos
 
-1. _Sistemas Loyola_: resolvió 0 problemas y obtuvo el lugar #116 en The 2009 Mexico & Central America Contest
-1. _Univ Loyola Tecnologías_: resolvió 0 problemas y obtuvo el lugar #156 en The 2010 Mexico & Central America Regional Contest
+1. _Sistemas Loyola_: resolvió 0 problemas y obtuvo el lugar #116 (29%) en The 2009 Mexico & Central America Contest
+1. _Univ Loyola Tecnologías_: resolvió 0 problemas y obtuvo el lugar #156 (22%) en The 2010 Mexico & Central America Regional Contest
 
 ## Participaciones
 

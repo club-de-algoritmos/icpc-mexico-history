@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _last_generation_itesz_: resolvió 4 problemas y obtuvo el lugar #14 en The 2012 Mexico & Central America Regional Contest
-1. _ITESZ01_: resolvió 2 problemas y obtuvo el lugar #35 en The 2012 Mexico & Central America Regional Contest
-1. _ITESZ01_: resolvió 2 problemas y obtuvo el lugar #40 en The 2011 Mexico & Central America Regional Contest
-1. _ITESZ01_: resolvió 3 problemas y obtuvo el lugar #43 en The 2010 Mexico & Central America Regional Contest
-1. _ITESZ01_: resolvió 2 problemas y obtuvo el lugar #46 en The 2009 Mexico & Central America Contest
-1. _Monkey Error_: resolvió 1 problemas y obtuvo el lugar #81 en The 2013 Mexico & Central America Regional Contest
-1. _ITESZ02_: resolvió 2 problemas y obtuvo el lugar #84 en The 2010 Mexico & Central America Regional Contest
-1. _ITESZA_: resolvió 0 problemas y obtuvo el lugar #85 en The 2005 ACM Mexico and Central America Programming Contest
-1. _ITESZB_: resolvió 0 problemas y obtuvo el lugar #85 en The 2005 ACM Mexico and Central America Programming Contest
-1. _ITESZ02_: resolvió 1 problemas y obtuvo el lugar #85 en The 2011 Mexico & Central America Regional Contest
+1. _last_generation_itesz_: resolvió 4 problemas y obtuvo el lugar #14 (92%) en The 2012 Mexico & Central America Regional Contest
+1. _ITESZ01_: resolvió 2 problemas y obtuvo el lugar #35 (79%) en The 2012 Mexico & Central America Regional Contest
+1. _ITESZ01_: resolvió 3 problemas y obtuvo el lugar #43 (79%) en The 2010 Mexico & Central America Regional Contest
+1. _ITESZ01_: resolvió 2 problemas y obtuvo el lugar #40 (76%) en The 2011 Mexico & Central America Regional Contest
+1. _Chinguetas_: resolvió 3 problemas y obtuvo el lugar #211 (75%) en Gran Premio de Mexico 2018
+1. _ITESZ01_: resolvió 2 problemas y obtuvo el lugar #46 (72%) en The 2009 Mexico & Central America Contest
+1. _afk_: resolvió 2 problemas y obtuvo el lugar #300 (64%) en Gran Premio de Mexico 2018
+1. _ITESZ02_: resolvió 2 problemas y obtuvo el lugar #84 (58%) en The 2010 Mexico & Central America Regional Contest
+1. _4Mims_: resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _TecnoZorros_: resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 

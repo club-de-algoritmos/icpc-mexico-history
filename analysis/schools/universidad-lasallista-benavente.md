@@ -4,7 +4,7 @@
 
 ## Mejores 10 equipos
 
-1. _Dexters_: resolvió 1 problemas y obtuvo el lugar #42 en The 2001 ACM Mexico and Central America Programming Contest
+1. _Dexters_: resolvió 1 problemas y obtuvo el lugar #42 (48%) en The 2001 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

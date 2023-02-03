@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _U de las Americas Waxtron_: resolvió 0 problemas y obtuvo el lugar #47 en The 2000 ACM Programming Contest World Finals
-1. _Los Novatos_: resolvió 0 problemas y obtuvo el lugar #56 en The 2003 ACM Programming Contest World Finals
-1. _U de las Americas_: resolvió 1 problemas y obtuvo el lugar #53 en The 1999 ACM Programming Contest World Finals
-1. _Los novatos reloaded_: resolvió 0 problemas y obtuvo el lugar #68 en The 2004 ACM Programming Contest World Finals
-1. _NO-NAME_: resolvió 4 problemas y obtuvo el lugar #3 en The 2004 ACM Mexico and Central America Programming Contest
-1. _UDLAP4-NoName_: resolvió 2 problemas y obtuvo el lugar #12 en The 2002 ACM Mexico and Central America Programming Contest
-1. _UDLAP2-Sith_: resolvió 1 problemas y obtuvo el lugar #20 en The 2002 ACM Mexico and Central America Programming Contest
-1. _UDLAP2-IO-PROMPT_: resolvió 2 problemas y obtuvo el lugar #21 en The 2005 ACM Mexico and Central America Programming Contest
-1. _UDLAP2-Sith_: resolvió 1 problemas y obtuvo el lugar #23 en The 2003 ACM Mexico and Central America Programming Contest
-1. _Yar revolutions_: resolvió 1 problemas y obtuvo el lugar #24 en The 2003 ACM Mexico and Central America Programming Contest
+1. _U de las Americas Waxtron_: resolvió 0 problemas y obtuvo el lugar #47 (22%) en The 2000 ACM Programming Contest World Finals
+1. _Los Novatos_: resolvió 0 problemas y obtuvo el lugar #56 (18%) en The 2003 ACM Programming Contest World Finals
+1. _U de las Americas_: resolvió 1 problemas y obtuvo el lugar #53 (15%) en The 1999 ACM Programming Contest World Finals
+1. _Los novatos reloaded_: resolvió 0 problemas y obtuvo el lugar #68 (7%) en The 2004 ACM Programming Contest World Finals
+1. _NO-NAME_: resolvió 4 problemas y obtuvo el lugar #3 (98%) en The 2004 ACM Mexico and Central America Programming Contest
+1. _UDLAP4-NoName_: resolvió 2 problemas y obtuvo el lugar #12 (88%) en The 2002 ACM Mexico and Central America Programming Contest
+1. _UDLAP2-IO-PROMPT_: resolvió 2 problemas y obtuvo el lugar #21 (86%) en The 2005 ACM Mexico and Central America Programming Contest
+1. _Beta Version_: resolvió 3 problemas y obtuvo el lugar #26 (80%) en The 2006 ACM Mexico and Central America Programming Contest
+1. _UDLAP5-EOF_: resolvió 2 problemas y obtuvo el lugar #29 (80%) en The 2005 ACM Mexico and Central America Programming Contest
+1. _UDLAP2-Sith_: resolvió 1 problemas y obtuvo el lugar #20 (79%) en The 2002 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

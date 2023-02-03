@@ -4,7 +4,7 @@
 
 ## Mejores 10 equipos
 
-1. _Javaagarrandolosuyo_: resolvió 1 problemas y obtuvo el lugar #84 en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _Javaagarrandolosuyo_: resolvió 1 problemas y obtuvo el lugar #84 (88%) en The 2017 ACM-ICPC Mexico and Central America Finals
 
 ## Participaciones
 

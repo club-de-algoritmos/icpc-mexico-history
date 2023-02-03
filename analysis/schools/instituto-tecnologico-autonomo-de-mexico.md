@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _FoundTheBug.ItsMe_: resolvió 2 problemas y obtuvo el lugar #51 en 45th Annual World Finals of the International Collegiate Programming Contest
-1. _Los Románticos_: resolvió 4 problemas y obtuvo el lugar #56 en 41st Annual World Finals of the ACM International Collegiate Programming Contest
-1. _The Beat Alls_: resolvió 2 problemas y obtuvo el lugar #63 en 43rd Annual World Finals of the International Collegiate Programming Contest
-1. _Los Románticos_: resolvió 4 problemas y obtuvo el lugar #69 en 40th Annual World Finals of the ACM International Collegiate Programming Contest
-1. _Radical Sweep_: resolvió 5 problemas y obtuvo el lugar #3 en The 2021 ICPC Mexico Finals
-1. _Los románticos_: resolvió 6 problemas y obtuvo el lugar #4 en The 2014 ACM-ICPC Mexico and Central America Finals
-1. _The Beat Alls_: resolvió 7 problemas y obtuvo el lugar #4 en The 2017 ACM-ICPC Mexico and Central America Finals
-1. _ITAM_: resolvió 3 problemas y obtuvo el lugar #5 en The 2003 ACM Mexico and Central America Programming Contest
-1. _Coachella++_: resolvió 5 problemas y obtuvo el lugar #9 en The 2020 ICPC Mexico Finals
-1. _Einsteam_: resolvió 5 problemas y obtuvo el lugar #9 en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _FoundTheBug.ItsMe_: resolvió 2 problemas y obtuvo el lugar #51 (62%) en 45th Annual World Finals of the International Collegiate Programming Contest
+1. _Los Románticos_: resolvió 4 problemas y obtuvo el lugar #56 (58%) en 41st Annual World Finals of the ACM International Collegiate Programming Contest
+1. _The Beat Alls_: resolvió 2 problemas y obtuvo el lugar #63 (54%) en 43rd Annual World Finals of the International Collegiate Programming Contest
+1. _Los Románticos_: resolvió 4 problemas y obtuvo el lugar #69 (46%) en 40th Annual World Finals of the ACM International Collegiate Programming Contest
+1. _Los Románticos_: resolvió 9 problemas y obtuvo el lugar #1 (100%) en Mexico and Central America Finals - Programming Battle
+1. _Radical Sweep_: resolvió 5 problemas y obtuvo el lugar #3 (100%) en The 2021 ICPC Mexico Finals
+1. _The Beat Alls_: resolvió 7 problemas y obtuvo el lugar #4 (100%) en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _Coachella++_: resolvió 5 problemas y obtuvo el lugar #9 (99%) en The 2020 ICPC Mexico Finals
+1. _Einsteam_: resolvió 5 problemas y obtuvo el lugar #9 (99%) en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _Los románticos_: resolvió 6 problemas y obtuvo el lugar #4 (99%) en The 2014 ACM-ICPC Mexico and Central America Finals
 
 ## Participaciones
 

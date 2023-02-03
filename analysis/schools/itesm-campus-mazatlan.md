@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _MTY01_: resolvió 5 problemas y obtuvo el lugar #4 en The 2005 ACM Mexico and Central America Programming Contest
-1. _MTY1_: resolvió 4 problemas y obtuvo el lugar #5 en The 2004 ACM Mexico and Central America Programming Contest
-1. _los punteros_: resolvió 4 problemas y obtuvo el lugar #6 en The 2007 ACM Mexico and Central America Programming Contest
-1. _Campus Mazatlán_: resolvió 2 problemas y obtuvo el lugar #7 en The 2002 ACM Mexico and Central America Programming Contest
-1. _javaglets_: resolvió 3 problemas y obtuvo el lugar #8 en The 2005 ACM Mexico and Central America Programming Contest
-1. _MTY2_: resolvió 3 problemas y obtuvo el lugar #11 en The 2004 ACM Mexico and Central America Programming Contest
-1. _Sapphire_: resolvió 3 problemas y obtuvo el lugar #11 en The 2005 ACM Mexico and Central America Programming Contest
-1. _HMJ21_: resolvió 2 problemas y obtuvo el lugar #13 en The 2002 ACM Mexico and Central America Programming Contest
-1. _MTY03_: resolvió 3 problemas y obtuvo el lugar #16 en The 2005 ACM Mexico and Central America Programming Contest
-1. _Deth-Therion_: resolvió 2 problemas y obtuvo el lugar #18 en The 2001 ACM Mexico and Central America Programming Contest
+1. _MTY01_: resolvió 5 problemas y obtuvo el lugar #4 (98%) en The 2005 ACM Mexico and Central America Programming Contest
+1. _los punteros_: resolvió 4 problemas y obtuvo el lugar #6 (97%) en The 2007 ACM Mexico and Central America Programming Contest
+1. _MTY1_: resolvió 4 problemas y obtuvo el lugar #5 (96%) en The 2004 ACM Mexico and Central America Programming Contest
+1. _javaglets_: resolvió 3 problemas y obtuvo el lugar #8 (95%) en The 2005 ACM Mexico and Central America Programming Contest
+1. _Campus Mazatlán_: resolvió 2 problemas y obtuvo el lugar #7 (93%) en The 2002 ACM Mexico and Central America Programming Contest
+1. _Sapphire_: resolvió 3 problemas y obtuvo el lugar #11 (93%) en The 2005 ACM Mexico and Central America Programming Contest
+1. _MTY2_: resolvió 3 problemas y obtuvo el lugar #11 (91%) en The 2004 ACM Mexico and Central America Programming Contest
+1. _MTY03_: resolvió 3 problemas y obtuvo el lugar #16 (89%) en The 2005 ACM Mexico and Central America Programming Contest
+1. _ITESM CEM_: resolvió 2 problemas y obtuvo el lugar #19 (88%) en The 2007 ACM Mexico and Central America Programming Contest
+1. _MTY02_: resolvió 3 problemas y obtuvo el lugar #18 (88%) en The 2005 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

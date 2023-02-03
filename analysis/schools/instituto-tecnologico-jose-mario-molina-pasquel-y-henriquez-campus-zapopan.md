@@ -4,6 +4,10 @@
 
 ## Mejores 10 equipos
 
+1. _Packeros_: resolvió 7 problemas y obtuvo el lugar #149 (79%) en Gran Premio de Mexico 2020
+1. _ Axolototl_: resolvió 5 problemas y obtuvo el lugar #186 (74%) en Gran Premio de Mexico 2020
+1. _TGang_: resolvió 3 problemas y obtuvo el lugar #258 (64%) en Gran Premio de Mexico 2020
+1. _Peripatéticos_: resolvió 1 problemas y obtuvo el lugar #334 (53%) en Gran Premio de Mexico 2020
 
 ## Participaciones
 

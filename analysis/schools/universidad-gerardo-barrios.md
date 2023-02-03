@@ -4,7 +4,7 @@
 
 ## Mejores 10 equipos
 
-1. _Scorpions_: resolvió 0 problemas y obtuvo el lugar #91 en The 2018 ICPC Mexico and Central America Finals
+1. _Scorpions_: resolvió 0 problemas y obtuvo el lugar #91 (89%) en The 2018 ICPC Mexico and Central America Finals
 
 ## Participaciones
 

@@ -4,6 +4,7 @@
 
 ## Mejores 10 equipos
 
+1. _Team-Capi_: resolvió 1 problemas y obtuvo el lugar #354 (73%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 

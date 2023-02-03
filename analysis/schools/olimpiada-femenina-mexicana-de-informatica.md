@@ -4,8 +4,8 @@
 
 ## Mejores 10 equipos
 
-1. _Azul (OFMI Nacional)_: resolvió 1 problemas y obtuvo el lugar #55 en The 2021 ICPC Mexico Finals
-1. _Rojo (OFMI Guanajuato)_: resolvió 3 problemas y obtuvo el lugar #55 en The 2021 ICPC Mexico Finals
+1. _Azul (OFMI Nacional)_: resolvió 1 problemas y obtuvo el lugar #55 (89%) en The 2021 ICPC Mexico Finals
+1. _Rojo (OFMI Guanajuato)_: resolvió 3 problemas y obtuvo el lugar #55 (89%) en The 2021 ICPC Mexico Finals
 
 ## Participaciones
 

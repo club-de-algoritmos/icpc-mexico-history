@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _marikatu_: resolvió 4 problemas y obtuvo el lugar #4 en The 2006 ACM Mexico and Central America Programming Contest
-1. _bufalos_: resolvió 4 problemas y obtuvo el lugar #8 en The 2004 ACM Mexico and Central America Programming Contest
-1. _JavaTek_: resolvió 3 problemas y obtuvo el lugar #22 en The 2006 ACM Mexico and Central America Programming Contest
-1. _mani_: resolvió 1 problemas y obtuvo el lugar #41 en The 2007 ACM Mexico and Central America Programming Contest
-1. _++TEC_: resolvió 2 problemas y obtuvo el lugar #45 en The 2012 Mexico & Central America Regional Contest
-1. _JUnit_: resolvió 1 problemas y obtuvo el lugar #46 en The 2007 ACM Mexico and Central America Programming Contest
-1. _CACHORA'S TEAM_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
-1. _J-UNIT RELOADED_: resolvió 1 problemas y obtuvo el lugar #70 en The 2008 Mexico & Central America Contest
-1. _ACM1PTPLZ_: resolvió 2 problemas y obtuvo el lugar #72 en The 2011 Mexico & Central America Regional Contest
-1. _CHRONOS_: resolvió 1 problemas y obtuvo el lugar #81 en The 2008 Mexico & Central America Contest
+1. _marikatu_: resolvió 4 problemas y obtuvo el lugar #4 (98%) en The 2006 ACM Mexico and Central America Programming Contest
+1. _bufalos_: resolvió 4 problemas y obtuvo el lugar #8 (94%) en The 2004 ACM Mexico and Central America Programming Contest
+1. _JavaTek_: resolvió 3 problemas y obtuvo el lugar #22 (83%) en The 2006 ACM Mexico and Central America Programming Contest
+1. _mani_: resolvió 1 problemas y obtuvo el lugar #41 (73%) en The 2007 ACM Mexico and Central America Programming Contest
+1. _++TEC_: resolvió 2 problemas y obtuvo el lugar #45 (73%) en The 2012 Mexico & Central America Regional Contest
+1. _JUnit_: resolvió 1 problemas y obtuvo el lugar #46 (70%) en The 2007 ACM Mexico and Central America Programming Contest
+1. _CACHORA'S TEAM_: resolvió 0 problemas y obtuvo el lugar #61 (59%) en The 2007 ACM Mexico and Central America Programming Contest
+1. _J-UNIT RELOADED_: resolvió 1 problemas y obtuvo el lugar #70 (59%) en The 2008 Mexico & Central America Contest
+1. _BetaMasters_: resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _EquiPaco 1.9_: resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 

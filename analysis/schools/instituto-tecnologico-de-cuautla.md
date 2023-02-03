@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _TecCuautla2_: resolvió 1 problemas y obtuvo el lugar #29 en The 2001 ACM Mexico and Central America Programming Contest
-1. _TecCuautla1_: resolvió 1 problemas y obtuvo el lugar #34 en The 2001 ACM Mexico and Central America Programming Contest
-1. _TecCuautla3_: resolvió 1 problemas y obtuvo el lugar #34 en The 2003 ACM Mexico and Central America Programming Contest
-1. _TecCuautla1_: resolvió 1 problemas y obtuvo el lugar #37 en The 2003 ACM Mexico and Central America Programming Contest
-1. _Success_: resolvió 2 problemas y obtuvo el lugar #38 en The 2009 Mexico & Central America Contest
-1. _TecCuautla2_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
-1. _Success_: resolvió 2 problemas y obtuvo el lugar #60 en The 2011 Mexico & Central America Regional Contest
-1. _Success_: resolvió 1 problemas y obtuvo el lugar #79 en The 2008 Mexico & Central America Contest
-1. _Success_: resolvió 2 problemas y obtuvo el lugar #80 en The 2010 Mexico & Central America Regional Contest
-1. _itCuautla2_: resolvió 1 problemas y obtuvo el lugar #93 en The 2009 Mexico & Central America Contest
+1. _Success_: resolvió 2 problemas y obtuvo el lugar #38 (77%) en The 2009 Mexico & Central America Contest
+1. _TecCuautla3_: resolvió 1 problemas y obtuvo el lugar #34 (69%) en The 2003 ACM Mexico and Central America Programming Contest
+1. _TecCuautla1_: resolvió 1 problemas y obtuvo el lugar #37 (66%) en The 2003 ACM Mexico and Central America Programming Contest
+1. _TecCuautla2_: resolvió 1 problemas y obtuvo el lugar #29 (65%) en The 2001 ACM Mexico and Central America Programming Contest
+1. _Success_: resolvió 2 problemas y obtuvo el lugar #60 (63%) en The 2011 Mexico & Central America Regional Contest
+1. _TecCuautla2_: resolvió 0 problemas y obtuvo el lugar #41 (62%) en The 2003 ACM Mexico and Central America Programming Contest
+1. _Success_: resolvió 2 problemas y obtuvo el lugar #80 (60%) en The 2010 Mexico & Central America Regional Contest
+1. _TecCuautla1_: resolvió 1 problemas y obtuvo el lugar #34 (58%) en The 2001 ACM Mexico and Central America Programming Contest
+1. _>TeamNameGoesHere<_: resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _Apple_: resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 

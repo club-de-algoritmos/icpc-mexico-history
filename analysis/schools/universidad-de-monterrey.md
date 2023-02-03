@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _Troyanos_: resolvió 3 problemas y obtuvo el lugar #10 en The 2004 ACM Mexico and Central America Programming Contest
-1. _UDEM1_: resolvió 2 problemas y obtuvo el lugar #20 en The 2005 ACM Mexico and Central America Programming Contest
-1. _Vodka Jrs._: resolvió 3 problemas y obtuvo el lugar #25 en The 2006 ACM Mexico and Central America Programming Contest
-1. _Los Amarillos_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
-1. _Los Negros_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
-1. _UDEM I_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
-1. _UDEM II_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
-1. _Los Tarda2_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
-1. _Javadabadu_: resolvió 0 problemas y obtuvo el lugar #85 en The 2005 ACM Mexico and Central America Programming Contest
-1. _Los Mind Masters_: resolvió 0 problemas y obtuvo el lugar #85 en The 2006 ACM Mexico and Central America Programming Contest
+1. _Raptors_: resolvió 7 problemas y obtuvo el lugar #54 (94%) en The 2022 ICPC Gran Premio de Mexico
+1. _Equipo alfa buena maravilla onda dinamita escuadrón lobo_: resolvió 6 problemas y obtuvo el lugar #66 (93%) en The 2022 ICPC Gran Premio de Mexico
+1. _Troyanos_: resolvió 3 problemas y obtuvo el lugar #10 (92%) en The 2004 ACM Mexico and Central America Programming Contest
+1. _Serendipia_: resolvió 6 problemas y obtuvo el lugar #113 (88%) en The 2022 ICPC Gran Premio de Mexico
+1. _Los Tres Amigos_: resolvió 6 problemas y obtuvo el lugar #110 (87%) en Gran Premio de Mexico 2018
+1. _UDEM1_: resolvió 2 problemas y obtuvo el lugar #20 (86%) en The 2005 ACM Mexico and Central America Programming Contest
+1. _trying_: resolvió 4 problemas y obtuvo el lugar #183 (86%) en Gran Premio de Mexico 2019
+1. _aoc_: resolvió 3 problemas y obtuvo el lugar #196 (85%) en Gran Premio de Mexico 2019
+1. _echo_: resolvió 5 problemas y obtuvo el lugar #133 (84%) en Gran Premio de Mexico 2018
+1. _Tobe Fly_: resolvió 5 problemas y obtuvo el lugar #138 (84%) en Gran Premio de Mexico 2018
 
 ## Participaciones
 

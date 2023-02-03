@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _Wasabi_: resolvió 3 problemas y obtuvo el lugar #21 en The 2016 ACM-ICPC Mexico and Central America Finals
-1. _DeBugs_: resolvió 3 problemas y obtuvo el lugar #23 en The 2015 ACM-ICPC Mexico and Central America Finals
-1. _TsZuuuaaaah_: resolvió 2 problemas y obtuvo el lugar #51 en The 2015 ACM-ICPC Mexico and Central America Finals
-1. _extreme coders_: resolvió 2 problemas y obtuvo el lugar #60 en The 2012 Mexico & Central America Regional Contest
-1. _error 404_: resolvió 2 problemas y obtuvo el lugar #61 en The 2012 Mexico & Central America Regional Contest
-1. _Kawabonga_: resolvió 1 problemas y obtuvo el lugar #68 en The 2013 Mexico & Central America Regional Contest
-1. _Error 404_: resolvió 2 problemas y obtuvo el lugar #69 en The 2011 Mexico & Central America Regional Contest
-1. _Team FisMat_: resolvió 2 problemas y obtuvo el lugar #82 en The 2016 ACM-ICPC Mexico and Central America Finals
-1. _Pumas 1_: resolvió 0 problemas y obtuvo el lugar #85 en The 2005 ACM Mexico and Central America Programming Contest
-1. _Pumas 2_: resolvió 0 problemas y obtuvo el lugar #85 en The 2005 ACM Mexico and Central America Programming Contest
+1. _Wasabi_: resolvió 3 problemas y obtuvo el lugar #21 (96%) en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _DeBugs_: resolvió 3 problemas y obtuvo el lugar #23 (93%) en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _TsZuuuaaaah_: resolvió 2 problemas y obtuvo el lugar #51 (84%) en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _Team FisMat_: resolvió 2 problemas y obtuvo el lugar #82 (84%) en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _Monroyliebers_: resolvió 4 problemas y obtuvo el lugar #98 (81%) en Gran Premio de Mexico & Centroamerica
+1. _Code-Breaker_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _Die schnellen und witzigen_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _Foraneos Team_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _Guardians_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _Los AFK_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
 
 ## Participaciones
 

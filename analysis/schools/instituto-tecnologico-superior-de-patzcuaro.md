@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _LOS JAVEROS_: resolvió 2 problemas y obtuvo el lugar #46 en The 2012 Mexico & Central America Regional Contest
-1. _Los Apóstoles_: resolvió 1 problemas y obtuvo el lugar #77 en The 2013 Mexico & Central America Regional Contest
-1. _Los Jack's_: resolvió 0 problemas y obtuvo el lugar #95 en The 2013 Mexico & Central America Regional Contest
-1. _kappa_: resolvió 0 problemas y obtuvo el lugar #95 en The 2013 Mexico & Central America Regional Contest
-1. _Espartanos_: resolvió 0 problemas y obtuvo el lugar #104 en The 2011 Mexico & Central America Regional Contest
-1. _LOS JAVEROS_: resolvió 0 problemas y obtuvo el lugar #104 en The 2011 Mexico & Central America Regional Contest
-1. _NEOCUANTIC_: resolvió 0 problemas y obtuvo el lugar #104 en The 2011 Mexico & Central America Regional Contest
-1. _MIBARRAESPACIADORANOSIRVE_: resolvió 1 problemas y obtuvo el lugar #126 en The 2010 Mexico & Central America Regional Contest
-1. _NEO_CUANTIC_: resolvió 1 problemas y obtuvo el lugar #127 en The 2010 Mexico & Central America Regional Contest
-1. _Birds_: resolvió 0 problemas y obtuvo el lugar #134 en The 2012 Mexico & Central America Regional Contest
+1. _Equipapoi_: resolvió 5 problemas y obtuvo el lugar #134 (85%) en The 2022 ICPC Gran Premio de Mexico
+1. _Spartans_: resolvió 4 problemas y obtuvo el lugar #146 (79%) en Gran Premio de Mexico & Centroamerica 2017
+1. _Team Masters_: resolvió 3 problemas y obtuvo el lugar #157 (77%) en Gran Premio de Mexico & Centroamerica 2017
+1. _Dinamita AEO_: resolvió 3 problemas y obtuvo el lugar #159 (77%) en Gran Premio de Mexico & Centroamerica 2017
+1. _Los luquines_: resolvió 3 problemas y obtuvo el lugar #161 (77%) en Gran Premio de Mexico & Centroamerica 2017
+1. _Ragnarok_: resolvió 1 problemas y obtuvo el lugar #303 (77%) en Gran Premio de Mexico 2019
+1. _Anonimos_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _Biorenegados_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _Los Héroes del Norte_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _Los fabulosos Cadillacs_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
 
 ## Participaciones
 

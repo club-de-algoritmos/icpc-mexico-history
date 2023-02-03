@@ -4,14 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _La cabaña del tio Raggi_: resolvió 3 problemas y obtuvo el lugar #13 en The 2017 ACM-ICPC Mexico and Central America Finals
-1. _BatchNorm3d_: resolvió 3 problemas y obtuvo el lugar #27 en The 2019 ICPC Mexico Finals
-1. _Tupla de Camarones_: resolvió 3 problemas y obtuvo el lugar #33 en The 2018 ICPC Mexico and Central America Finals
-1. _La Tremenda Chimichanga_: resolvió 2 problemas y obtuvo el lugar #34 en The 2021 ICPC Mexico Finals
-1. _ProgramaLovers_: resolvió 2 problemas y obtuvo el lugar #37 en The 2019 ICPC Mexico Finals
-1. _Los de arriba son tramposos_: resolvió 2 problemas y obtuvo el lugar #42 en The 2020 ICPC Mexico Finals
-1. _Los Horchatos_: resolvió 3 problemas y obtuvo el lugar #42 en The 2018 ICPC Mexico and Central America Finals
-1. _Las neuronas_: resolvió 1 problemas y obtuvo el lugar #47 en The 2019 ICPC Mexico Finals
+1. _La cabaña del tio Raggi_: resolvió 3 problemas y obtuvo el lugar #13 (98%) en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _BatchNorm3d_: resolvió 3 problemas y obtuvo el lugar #27 (98%) en The 2019 ICPC Mexico Finals
+1. _ProgramaLovers_: resolvió 2 problemas y obtuvo el lugar #37 (97%) en The 2019 ICPC Mexico Finals
+1. _Las neuronas_: resolvió 1 problemas y obtuvo el lugar #47 (96%) en The 2019 ICPC Mexico Finals
+1. _Bugbusters_: resolvió 13 problemas y obtuvo el lugar #35 (96%) en The 2022 ICPC Gran Premio de Mexico
+1. _Tupla de Camarones_: resolvió 3 problemas y obtuvo el lugar #33 (96%) en The 2018 ICPC Mexico and Central America Finals
+1. _Los Horchatos_: resolvió 3 problemas y obtuvo el lugar #42 (95%) en The 2018 ICPC Mexico and Central America Finals
+1. _Los de arriba son tramposos_: resolvió 2 problemas y obtuvo el lugar #42 (94%) en The 2020 ICPC Mexico Finals
+1. _La Tremenda Chimichanga_: resolvió 2 problemas y obtuvo el lugar #34 (93%) en The 2021 ICPC Mexico Finals
+1. _Los pixies_: resolvió 8 problemas y obtuvo el lugar #98 (92%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 

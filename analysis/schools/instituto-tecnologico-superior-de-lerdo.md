@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _The Last Fad_: resolvió 3 problemas y obtuvo el lugar #26 en The 2012 Mexico & Central America Regional Contest
-1. _correcaminos_: resolvió 1 problemas y obtuvo el lugar #35 en The 2007 ACM Mexico and Central America Programming Contest
-1. _THE  FAD_: resolvió 3 problemas y obtuvo el lugar #49 en The 2010 Mexico & Central America Regional Contest
-1. _The FAD_: resolvió 2 problemas y obtuvo el lugar #51 en The 2011 Mexico & Central America Regional Contest
-1. _kyubis team_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
-1. _return this_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
-1. _Pok_: resolvió 2 problemas y obtuvo el lugar #66 en The 2012 Mexico & Central America Regional Contest
-1. _Develovers_: resolvió 1 problemas y obtuvo el lugar #68 en The 2009 Mexico & Central America Contest
-1. _MASTER.NET_: resolvió 2 problemas y obtuvo el lugar #75 en The 2016 ACM-ICPC Mexico and Central America Finals
-1. _MASTER.NET_: resolvió 1 problemas y obtuvo el lugar #76 en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _MASTER.NET_: resolvió 6 problemas y obtuvo el lugar #113 (91%) en Gran Premio de Mexico 2019
+1. _THE MASTER_: resolvió 9 problemas y obtuvo el lugar #81 (89%) en Gran Premio de Mexico 2020
+1. _MASTER.NET_: resolvió 2 problemas y obtuvo el lugar #75 (85%) en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _The Last Fad_: resolvió 3 problemas y obtuvo el lugar #26 (85%) en The 2012 Mexico & Central America Regional Contest
+1. _The Walker_: resolvió 5 problemas y obtuvo el lugar #141 (85%) en The 2022 ICPC Gran Premio de Mexico
+1. _MASTER.NET_: resolvió 5 problemas y obtuvo el lugar #111 (84%) en Gran Premio de Mexico & Centroamerica 2017
+1. _Guardians_: resolvió 4 problemas y obtuvo el lugar #148 (84%) en The 2022 ICPC Gran Premio de Mexico
+1. _Hi Universe_: resolvió 3 problemas y obtuvo el lugar #156 (83%) en The 2022 ICPC Gran Premio de Mexico
+1. _WHITE_SPACE_: resolvió 3 problemas y obtuvo el lugar #223 (83%) en Gran Premio de Mexico 2019
+1. _TEAM PORRAS.CS_: resolvió 2 problemas y obtuvo el lugar #246 (81%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 

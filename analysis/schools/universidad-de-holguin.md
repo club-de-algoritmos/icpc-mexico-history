@@ -4,12 +4,12 @@
 
 ## Mejores 10 equipos
 
-1. _UHo-01_: resolvió 2 problemas y obtuvo el lugar #57 en The 2010 Mexico & Central America Regional Contest
-1. _UHo_Team01_: resolvió 1 problemas y obtuvo el lugar #64 en The 2009 Mexico & Central America Contest
-1. _UHo-Soap_: resolvió 2 problemas y obtuvo el lugar #65 en The 2010 Mexico & Central America Regional Contest
-1. _UHo_Team02_: resolvió 1 problemas y obtuvo el lugar #90 en The 2009 Mexico & Central America Contest
-1. _UHo_Team04_: resolvió 1 problemas y obtuvo el lugar #111 en The 2009 Mexico & Central America Contest
-1. _UHo_Team03_: resolvió 0 problemas y obtuvo el lugar #116 en The 2009 Mexico & Central America Contest
+1. _UHo-01_: resolvió 2 problemas y obtuvo el lugar #57 (72%) en The 2010 Mexico & Central America Regional Contest
+1. _UHo-Soap_: resolvió 2 problemas y obtuvo el lugar #65 (68%) en The 2010 Mexico & Central America Regional Contest
+1. _UHo_Team01_: resolvió 1 problemas y obtuvo el lugar #64 (61%) en The 2009 Mexico & Central America Contest
+1. _UHo_Team02_: resolvió 1 problemas y obtuvo el lugar #90 (45%) en The 2009 Mexico & Central America Contest
+1. _UHo_Team04_: resolvió 1 problemas y obtuvo el lugar #111 (32%) en The 2009 Mexico & Central America Contest
+1. _UHo_Team03_: resolvió 0 problemas y obtuvo el lugar #116 (29%) en The 2009 Mexico & Central America Contest
 
 ## Participaciones
 

@@ -4,10 +4,11 @@
 
 ## Mejores 10 equipos
 
-1. _OMIJal_Prepa_: resolvió 3 problemas y obtuvo el lugar #34 en The 2011 Mexico & Central America Regional Contest
-1. _OMIJAL - Gira Jalisco_: resolvió 1 problemas y obtuvo el lugar #80 en The 2009 Mexico & Central America Contest
-1. _OMIJAL - ASFG_: resolvió 0 problemas y obtuvo el lugar #101 en The 2008 Mexico & Central America Contest
-1. _OMIJal - Preparatoria_: resolvió 0 problemas y obtuvo el lugar #156 en The 2010 Mexico & Central America Regional Contest
+1. _OMIJal_Prepa_: resolvió 3 problemas y obtuvo el lugar #34 (79%) en The 2011 Mexico & Central America Regional Contest
+1. _OMIJAL_: resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _OMIJAL - Gira Jalisco_: resolvió 1 problemas y obtuvo el lugar #80 (51%) en The 2009 Mexico & Central America Contest
+1. _OMIJAL - ASFG_: resolvió 0 problemas y obtuvo el lugar #101 (40%) en The 2008 Mexico & Central America Contest
+1. _OMIJal - Preparatoria_: resolvió 0 problemas y obtuvo el lugar #156 (22%) en The 2010 Mexico & Central America Regional Contest
 
 ## Participaciones
 

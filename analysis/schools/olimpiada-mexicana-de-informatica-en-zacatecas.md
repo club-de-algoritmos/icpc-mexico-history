@@ -4,8 +4,8 @@
 
 ## Mejores 10 equipos
 
-1. _OMIZAC_: resolvió 1 problemas y obtuvo el lugar #55 en The 2021 ICPC Mexico Finals
-1. _OMIZAC_: resolvió 1 problemas y obtuvo el lugar #59 en The 2020 ICPC Mexico Finals
+1. _OMIZAC_: resolvió 1 problemas y obtuvo el lugar #59 (92%) en The 2020 ICPC Mexico Finals
+1. _OMIZAC_: resolvió 1 problemas y obtuvo el lugar #55 (89%) en The 2021 ICPC Mexico Finals
 
 ## Participaciones
 

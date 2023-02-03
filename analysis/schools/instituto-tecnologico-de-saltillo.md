@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _Burros Pardos_: resolvió 2 problemas y obtuvo el lugar #18 en The 2004 ACM Mexico and Central America Programming Contest
-1. _A-I-ES_: resolvió 1 problemas y obtuvo el lugar #40 en The 2003 ACM Mexico and Central America Programming Contest
-1. _Tec Guindas_: resolvió 2 problemas y obtuvo el lugar #40 en The 2005 ACM Mexico and Central America Programming Contest
-1. _I T S_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
-1. _burritos13_: resolvió 1 problemas y obtuvo el lugar #50 en The 2007 ACM Mexico and Central America Programming Contest
-1. _Burritos-1_: resolvió 2 problemas y obtuvo el lugar #55 en The 2008 Mexico & Central America Contest
-1. _Gungir_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
-1. _Gnutella_: resolvió 2 problemas y obtuvo el lugar #71 en The 2011 Mexico & Central America Regional Contest
-1. _Pardos_: resolvió 1 problemas y obtuvo el lugar #72 en The 2005 ACM Mexico and Central America Programming Contest
-1. _Los Borbotones_: resolvió 1 problemas y obtuvo el lugar #75 en The 2004 ACM Mexico and Central America Programming Contest
+1. _BLUJS_: resolvió 6 problemas y obtuvo el lugar #109 (87%) en Gran Premio de Mexico 2018
+1. _QubITS_: resolvió 4 problemas y obtuvo el lugar #190 (85%) en Gran Premio de Mexico 2019
+1. _Burros Pardos_: resolvió 2 problemas y obtuvo el lugar #18 (85%) en The 2004 ACM Mexico and Central America Programming Contest
+1. _Blujs_: resolvió 3 problemas y obtuvo el lugar #211 (84%) en Gran Premio de Mexico 2019
+1. _QUBIT_: resolvió 4 problemas y obtuvo el lugar #148 (82%) en Gran Premio de Mexico 2018
+1. _Planificados_: resolvió 4 problemas y obtuvo el lugar #152 (82%) en Gran Premio de Mexico 2018
+1. _QubITSn't_: resolvió 2 problemas y obtuvo el lugar #249 (81%) en Gran Premio de Mexico 2019
+1. _Tec Guindas_: resolvió 2 problemas y obtuvo el lugar #40 (72%) en The 2005 ACM Mexico and Central America Programming Contest
+1. _Burritos-1_: resolvió 2 problemas y obtuvo el lugar #55 (68%) en The 2008 Mexico & Central America Contest
+1. _burritos13_: resolvió 1 problemas y obtuvo el lugar #50 (67%) en The 2007 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

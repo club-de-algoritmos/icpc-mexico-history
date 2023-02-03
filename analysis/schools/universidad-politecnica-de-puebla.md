@@ -4,6 +4,10 @@
 
 ## Mejores 10 equipos
 
+1. _LogBuhos 2.0_: resolvió 2 problemas y obtuvo el lugar #330 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _HWorld!_: resolvió 0 problemas y obtuvo el lugar #226 (55%) en The 2021 ICPC Gran Premio de Mexico
+1. _LogBuhos_: resolvió 0 problemas y obtuvo el lugar #226 (55%) en The 2021 ICPC Gran Premio de Mexico
+1. _Los Juanchitos_: resolvió 0 problemas y obtuvo el lugar #226 (55%) en The 2021 ICPC Gran Premio de Mexico
 
 ## Participaciones
 

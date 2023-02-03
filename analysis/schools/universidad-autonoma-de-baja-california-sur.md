@@ -4,7 +4,9 @@
 
 ## Mejores 10 equipos
 
-1. _GATOS SALVAJES_: resolvió 1 problemas y obtuvo el lugar #60 en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _GATOS SALVAJES_: resolvió 1 problemas y obtuvo el lugar #60 (76%) en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _Wild Cats_: resolvió 0 problemas y obtuvo el lugar #226 (55%) en The 2021 ICPC Gran Premio de Mexico
+1. _masterExploder_: resolvió 0 problemas y obtuvo el lugar #226 (55%) en The 2021 ICPC Gran Premio de Mexico
 
 ## Participaciones
 

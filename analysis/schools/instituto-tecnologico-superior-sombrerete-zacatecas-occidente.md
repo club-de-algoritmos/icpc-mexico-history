@@ -4,11 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _Topos I.T.S.Z.O_: resolvió 1 problemas y obtuvo el lugar #42 en The 2007 ACM Mexico and Central America Programming Contest
-1. _Topos ITSZO_: resolvió 1 problemas y obtuvo el lugar #61 en The 2006 ACM Mexico and Central America Programming Contest
-1. _TopoSIS_: resolvió 0 problemas y obtuvo el lugar #85 en The 2005 ACM Mexico and Central America Programming Contest
-1. _TOPOS-SIS_: resolvió 0 problemas y obtuvo el lugar #90 en The 2004 ACM Mexico and Central America Programming Contest
-1. _Topos_: resolvió 0 problemas y obtuvo el lugar #101 en The 2008 Mexico & Central America Contest
+1. _CXC Code_: resolvió 3 problemas y obtuvo el lugar #193 (79%) en The 2022 ICPC Gran Premio de Mexico
+1. _Topos_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _Lobos del Escuadrón_: resolvió 2 problemas y obtuvo el lugar #240 (74%) en The 2022 ICPC Gran Premio de Mexico
+1. _Topos I.T.S.Z.O_: resolvió 1 problemas y obtuvo el lugar #42 (72%) en The 2007 ACM Mexico and Central America Programming Contest
+1. _ITSZO1_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _PyCo_: resolvió 1 problemas y obtuvo el lugar #337 (60%) en Gran Premio de Mexico 2018
+1. _insultin y unaceptabol_: resolvió 1 problemas y obtuvo el lugar #347 (59%) en Gran Premio de Mexico 2018
+1. _#IncludeITSZO_: resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _ITSZOCoding_: resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _Topos ITSZO_: resolvió 1 problemas y obtuvo el lugar #61 (52%) en The 2006 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

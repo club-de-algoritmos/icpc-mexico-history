@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _Javeros_: resolvió 2 problemas y obtuvo el lugar #52 en The 2011 Mexico & Central America Regional Contest
-1. _Los Mininos_: resolvió 2 problemas y obtuvo el lugar #52 en The 2012 Mexico & Central America Regional Contest
-1. _Felinos del ITSF_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
-1. _Gatos del ITSF_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
-1. _Novatos_: resolvió 2 problemas y obtuvo el lugar #74 en The 2011 Mexico & Central America Regional Contest
-1. _the cats_: resolvió 1 problemas y obtuvo el lugar #83 en The 2008 Mexico & Central America Contest
-1. _Buchanans_: resolvió 1 problemas y obtuvo el lugar #87 en The 2009 Mexico & Central America Contest
-1. _the dragons_: resolvió 0 problemas y obtuvo el lugar #101 en The 2008 Mexico & Central America Contest
-1. _ThunderTecs_: resolvió 2 problemas y obtuvo el lugar #105 en The 2012 Mexico & Central America Regional Contest
-1. _Gatos Salvajes_: resolvió 1 problemas y obtuvo el lugar #110 en The 2010 Mexico & Central America Regional Contest
+1. _Los Mininos_: resolvió 2 problemas y obtuvo el lugar #52 (69%) en The 2012 Mexico & Central America Regional Contest
+1. _Javeros_: resolvió 2 problemas y obtuvo el lugar #52 (68%) en The 2011 Mexico & Central America Regional Contest
+1. _Felinos del ITSF_: resolvió 0 problemas y obtuvo el lugar #61 (59%) en The 2007 ACM Mexico and Central America Programming Contest
+1. _Gatos del ITSF_: resolvió 0 problemas y obtuvo el lugar #61 (59%) en The 2007 ACM Mexico and Central America Programming Contest
+1. _Dev Wild Cats_: resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _Lombax TEAM_: resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _Los Confucios_: resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _Program_Ar_: resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _Program_As_: resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _Tech Savvy_: resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 

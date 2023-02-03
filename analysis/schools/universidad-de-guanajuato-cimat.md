@@ -4,15 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _Manowar_: resolvió 2 problemas y obtuvo el lugar #74 en 35th Annual World Finals of the ACM International Collegiate Programming Contest
-1. _Manowar_: resolvió 2 problemas y obtuvo el lugar #80 en 36th Annual World Finals of the ACM International Collegiate Programming Contest
-1. _NNN No es Nautilus_: resolvió 6 problemas y obtuvo el lugar #5 en The 2014 ACM-ICPC Mexico and Central America Finals
-1. _Nautilus_: resolvió 4 problemas y obtuvo el lugar #6 en The 2012 Mexico & Central America Regional Contest
-1. _#include "Shell.h"_: resolvió 5 problemas y obtuvo el lugar #6 en The 2015 ACM-ICPC Mexico and Central America Finals
-1. _DragonCurve_: resolvió 4 problemas y obtuvo el lugar #7 en The 2012 Mexico & Central America Regional Contest
-1. _Delta_: resolvió 5 problemas y obtuvo el lugar #8 en The 2014 ACM-ICPC Mexico and Central America Finals
-1. _Nautilus_: resolvió 2 problemas y obtuvo el lugar #11 en The 2013 Mexico & Central America Regional Contest
-1. _E3_: resolvió 4 problemas y obtuvo el lugar #13 en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _Manowar_: resolvió 2 problemas y obtuvo el lugar #74 (30%) en 35th Annual World Finals of the ACM International Collegiate Programming Contest
+1. _Manowar_: resolvió 2 problemas y obtuvo el lugar #80 (29%) en 36th Annual World Finals of the ACM International Collegiate Programming Contest
+1. _#include "Shell.h"_: resolvió 5 problemas y obtuvo el lugar #6 (98%) en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _NNN No es Nautilus_: resolvió 6 problemas y obtuvo el lugar #5 (98%) en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _Delta_: resolvió 5 problemas y obtuvo el lugar #8 (97%) en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _Nautilus_: resolvió 4 problemas y obtuvo el lugar #6 (97%) en The 2012 Mexico & Central America Regional Contest
+1. _DragonCurve_: resolvió 4 problemas y obtuvo el lugar #7 (96%) en The 2012 Mexico & Central America Regional Contest
+1. _E3_: resolvió 4 problemas y obtuvo el lugar #13 (96%) en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _Nautilus_: resolvió 2 problemas y obtuvo el lugar #11 (94%) en The 2013 Mexico & Central America Regional Contest
+1. _Los otros del cimat_: resolvió 4 problemas y obtuvo el lugar #23 (91%) en Mexico and Central America Finals - Programming Battle
 
 ## Participaciones
 

@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _Los Babasónicos_: resolvió 2 problemas y obtuvo el lugar #44 en The 2006 ACM Mexico and Central America Programming Contest
-1. _Los Mañosos_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
-1. _RJ45_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
-1. _SUKAL_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
-1. _Univa2_: resolvió 1 problemas y obtuvo el lugar #65 en The 2013 Mexico & Central America Regional Contest
-1. _Contraste_: resolvió 1 problemas y obtuvo el lugar #70 en The 2006 ACM Mexico and Central America Programming Contest
-1. _Legítimo_: resolvió 0 problemas y obtuvo el lugar #85 en The 2006 ACM Mexico and Central America Programming Contest
-1. _sukal_: resolvió 1 problemas y obtuvo el lugar #98 en The 2008 Mexico & Central America Contest
-1. _Programming no-sainto_: resolvió 0 problemas y obtuvo el lugar #101 en The 2008 Mexico & Central America Contest
-1. _Team 77_: resolvió 0 problemas y obtuvo el lugar #101 en The 2008 Mexico & Central America Contest
+1. _univa3_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _Univa1_: resolvió 1 problemas y obtuvo el lugar #166 (67%) en The 2021 ICPC Gran Premio de Mexico
+1. _univa1_: resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
+1. _univa2_: resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
+1. _univa3_: resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
+1. _univa4_: resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
+1. _univa5_: resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
+1. _Los Babasónicos_: resolvió 2 problemas y obtuvo el lugar #44 (66%) en The 2006 ACM Mexico and Central America Programming Contest
+1. _Univa2_: resolvió 1 problemas y obtuvo el lugar #65 (63%) en The 2013 Mexico & Central America Regional Contest
+1. _Los Mañosos_: resolvió 0 problemas y obtuvo el lugar #61 (59%) en The 2007 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

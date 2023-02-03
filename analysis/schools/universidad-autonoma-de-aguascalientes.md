@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _Peludos_: resolvió 0 problemas y obtuvo el lugar #103 en 38th Annual World Finals of the ACM International Collegiate Programming Contest
-1. _Peludos_: resolvió 2 problemas y obtuvo el lugar #110 en 39th Annual World Finals of the ACM International Collegiate Programming Contest
-1. _Peludos_: resolvió 5 problemas y obtuvo el lugar #3 en The 2012 Mexico & Central America Regional Contest
-1. _Leulz_: resolvió 4 problemas y obtuvo el lugar #7 en The 2015 ACM-ICPC Mexico and Central America Finals
-1. _Epsilon_: resolvió 4 problemas y obtuvo el lugar #15 en The 2014 ACM-ICPC Mexico and Central America Finals
-1. _cagUAA++_: resolvió 4 problemas y obtuvo el lugar #15 en The 2020 ICPC Mexico Finals
-1. _Leviathan_: resolvió 2 problemas y obtuvo el lugar #19 en The 2013 Mexico & Central America Regional Contest
-1. _nac-OS_: resolvió 2 problemas y obtuvo el lugar #21 en The 2017 ACM-ICPC Mexico and Central America Finals
-1. _Team Puzzles_: resolvió 3 problemas y obtuvo el lugar #24 en The 2021 ICPC Mexico Finals
-1. _WA de WAccepted_: resolvió 4 problemas y obtuvo el lugar #24 en The 2018 ICPC Mexico and Central America Finals
+1. _Peludos_: resolvió 0 problemas y obtuvo el lugar #103 (16%) en 38th Annual World Finals of the ACM International Collegiate Programming Contest
+1. _Peludos_: resolvió 2 problemas y obtuvo el lugar #110 (14%) en 39th Annual World Finals of the ACM International Collegiate Programming Contest
+1. _Peludos_: resolvió 5 problemas y obtuvo el lugar #3 (99%) en The 2012 Mexico & Central America Regional Contest
+1. _Leulz_: resolvió 4 problemas y obtuvo el lugar #7 (98%) en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _cagUAA++_: resolvió 4 problemas y obtuvo el lugar #15 (98%) en The 2020 ICPC Mexico Finals
+1. _Los testigos de Aarón_: resolvió 3 problemas y obtuvo el lugar #32 (98%) en The 2019 ICPC Mexico Finals
+1. _WA de WAccepted_: resolvió 4 problemas y obtuvo el lugar #24 (97%) en The 2018 ICPC Mexico and Central America Finals
+1. _nac-OS_: resolvió 2 problemas y obtuvo el lugar #21 (97%) en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _Team Puzzles_: resolvió 3 problemas y obtuvo el lugar #24 (95%) en The 2021 ICPC Mexico Finals
+1. _greñud-OS_: resolvió 2 problemas y obtuvo el lugar #34 (95%) en The 2017 ACM-ICPC Mexico and Central America Finals
 
 ## Participaciones
 

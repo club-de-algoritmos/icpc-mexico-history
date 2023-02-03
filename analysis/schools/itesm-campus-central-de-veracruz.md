@@ -4,15 +4,15 @@
 
 ## Mejores 10 equipos
 
-1. _booleanos_: resolvió 2 problemas y obtuvo el lugar #21 en The 2004 ACM Mexico and Central America Programming Contest
-1. _Los Booleanos_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
-1. _Tina Co._: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
-1. _Tinquin in LLaBA_: resolvió 1 problemas y obtuvo el lugar #50 en The 2004 ACM Mexico and Central America Programming Contest
-1. _Los Niguas_: resolvió 0 problemas y obtuvo el lugar #55 en The 2001 ACM Mexico and Central America Programming Contest
-1. _CCV DP_: resolvió 2 problemas y obtuvo el lugar #77 en The 2010 Mexico & Central America Regional Contest
-1. _Null name exception_: resolvió 0 problemas y obtuvo el lugar #85 en The 2005 ACM Mexico and Central America Programming Contest
-1. _Tinquin in llaba tim_: resolvió 0 problemas y obtuvo el lugar #85 en The 2005 ACM Mexico and Central America Programming Contest
-1. _CCV TTLS_: resolvió 1 problemas y obtuvo el lugar #148 en The 2010 Mexico & Central America Regional Contest
+1. _booleanos_: resolvió 2 problemas y obtuvo el lugar #21 (82%) en The 2004 ACM Mexico and Central America Programming Contest
+1. _Los Booleanos_: resolvió 0 problemas y obtuvo el lugar #27 (72%) en The 2002 ACM Mexico and Central America Programming Contest
+1. _Tina Co._: resolvió 0 problemas y obtuvo el lugar #27 (72%) en The 2002 ACM Mexico and Central America Programming Contest
+1. _CCV DP_: resolvió 2 problemas y obtuvo el lugar #77 (62%) en The 2010 Mexico & Central America Regional Contest
+1. _Tinquin in LLaBA_: resolvió 1 problemas y obtuvo el lugar #50 (56%) en The 2004 ACM Mexico and Central America Programming Contest
+1. _Null name exception_: resolvió 0 problemas y obtuvo el lugar #85 (40%) en The 2005 ACM Mexico and Central America Programming Contest
+1. _Tinquin in llaba tim_: resolvió 0 problemas y obtuvo el lugar #85 (40%) en The 2005 ACM Mexico and Central America Programming Contest
+1. _Los Niguas_: resolvió 0 problemas y obtuvo el lugar #55 (32%) en The 2001 ACM Mexico and Central America Programming Contest
+1. _CCV TTLS_: resolvió 1 problemas y obtuvo el lugar #148 (26%) en The 2010 Mexico & Central America Regional Contest
 
 ## Participaciones
 

@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _Legendary Grand Newbies_: resolvió 2 problemas y obtuvo el lugar #51 en 45th Annual World Finals of the International Collegiate Programming Contest
-1. _Legendary Grandpupils_: resolvió 2 problemas y obtuvo el lugar #63 en 43rd Annual World Finals of the International Collegiate Programming Contest
-1. _MTY03_: resolvió 0 problemas y obtuvo el lugar #68 en 33rd Annual World Finals of the ACM International Collegiate Programming Contest
-1. _Los Pericos Brujos_: resolvió 2 problemas y obtuvo el lugar #47 en The 2002 ACM Programming Contest World Finals
-1. _HaKings_: resolvió 2 problemas y obtuvo el lugar #107 en 40th Annual World Finals of the ACM International Collegiate Programming Contest
-1. _ITESM ProZac_: resolvió 1 problemas y obtuvo el lugar #56 en The 1999 ACM Programming Contest World Finals
-1. _SWART_: resolvió 1 problemas y obtuvo el lugar #59 en The 2001 ACM Programming Contest World Finals
-1. _The Deadly Coding Squad_: resolvió 0 problemas y obtuvo el lugar #68 en The 2004 ACM Programming Contest World Finals
-1. _Locos_: resolvió 1 problemas y obtuvo el lugar #121 en 39th Annual World Finals of the ACM International Collegiate Programming Contest
-1. _TopCoder_: resolvió 4 problemas y obtuvo el lugar #3 en The 2006 ACM Mexico and Central America Programming Contest
+1. _Legendary Grand Newbies_: resolvió 2 problemas y obtuvo el lugar #51 (62%) en 45th Annual World Finals of the International Collegiate Programming Contest
+1. _Legendary Grandpupils_: resolvió 2 problemas y obtuvo el lugar #63 (54%) en 43rd Annual World Finals of the International Collegiate Programming Contest
+1. _MTY03_: resolvió 0 problemas y obtuvo el lugar #68 (32%) en 33rd Annual World Finals of the ACM International Collegiate Programming Contest
+1. _Los Pericos Brujos_: resolvió 2 problemas y obtuvo el lugar #47 (27%) en The 2002 ACM Programming Contest World Finals
+1. _HaKings_: resolvió 2 problemas y obtuvo el lugar #107 (17%) en 40th Annual World Finals of the ACM International Collegiate Programming Contest
+1. _ITESM ProZac_: resolvió 1 problemas y obtuvo el lugar #56 (10%) en The 1999 ACM Programming Contest World Finals
+1. _SWART_: resolvió 1 problemas y obtuvo el lugar #59 (8%) en The 2001 ACM Programming Contest World Finals
+1. _The Deadly Coding Squad_: resolvió 0 problemas y obtuvo el lugar #68 (7%) en The 2004 ACM Programming Contest World Finals
+1. _Locos_: resolvió 1 problemas y obtuvo el lugar #121 (6%) en 39th Annual World Finals of the ACM International Collegiate Programming Contest
+1. _We put the D in DP_: resolvió 6 problemas y obtuvo el lugar #5 (100%) en The 2019 ICPC Mexico Finals
 
 ## Participaciones
 

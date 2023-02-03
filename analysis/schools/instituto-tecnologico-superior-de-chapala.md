@@ -4,8 +4,15 @@
 
 ## Mejores 10 equipos
 
-1. _Chapala 3_: resolvió 0 problemas y obtuvo el lugar #104 en The 2011 Mexico & Central America Regional Contest
-1. _Los Truchas_: resolvió 0 problemas y obtuvo el lugar #134 en The 2012 Mexico & Central America Regional Contest
+1. _Chapala 1_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _Chapala 2_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _Chapala1_: resolvió 0 problemas y obtuvo el lugar #405 (41%) en Gran Premio de Mexico & Centroamerica 2017
+1. _Chapala2_: resolvió 0 problemas y obtuvo el lugar #405 (41%) en Gran Premio de Mexico & Centroamerica 2017
+1. _Rumba_: resolvió 0 problemas y obtuvo el lugar #405 (41%) en Gran Premio de Mexico & Centroamerica 2017
+1. _Tecno Team_: resolvió 0 problemas y obtuvo el lugar #405 (41%) en Gran Premio de Mexico & Centroamerica 2017
+1. _mmTeam_: resolvió 0 problemas y obtuvo el lugar #405 (41%) en Gran Premio de Mexico & Centroamerica 2017
+1. _Chapala 3_: resolvió 0 problemas y obtuvo el lugar #104 (36%) en The 2011 Mexico & Central America Regional Contest
+1. _Los Truchas_: resolvió 0 problemas y obtuvo el lugar #134 (18%) en The 2012 Mexico & Central America Regional Contest
 
 ## Participaciones
 

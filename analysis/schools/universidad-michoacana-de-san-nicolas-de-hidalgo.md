@@ -4,15 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _f(i)=Smat_: resolvió 3 problemas y obtuvo el lugar #12 en The 2011 Mexico & Central America Regional Contest
-1. _Lerak Team_: resolvió 4 problemas y obtuvo el lugar #13 en The 2014 ACM-ICPC Mexico and Central America Finals
-1. _Fismateros_: resolvió 2 problemas y obtuvo el lugar #15 en The 2013 Mexico & Central America Regional Contest
-1. _Fismateros_: resolvió 3 problemas y obtuvo el lugar #19 en The 2012 Mexico & Central America Regional Contest
-1. _Lerak Team_: resolvió 2 problemas y obtuvo el lugar #23 en The 2013 Mexico & Central America Regional Contest
-1. _FISMAT exception_: resolvió 1 problemas y obtuvo el lugar #30 en The 2007 ACM Mexico and Central America Programming Contest
-1. _Compilando..._: resolvió 2 problemas y obtuvo el lugar #56 en The 2009 Mexico & Central America Contest
-1. _Los twinkis_: resolvió 1 problemas y obtuvo el lugar #77 en The 2005 ACM Mexico and Central America Programming Contest
-1. _fismateros_: resolvió 2 problemas y obtuvo el lugar #89 en The 2010 Mexico & Central America Regional Contest
+1. _Lerak Team_: resolvió 4 problemas y obtuvo el lugar #13 (95%) en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _f(i)=Smat_: resolvió 3 problemas y obtuvo el lugar #12 (93%) en The 2011 Mexico & Central America Regional Contest
+1. _Fismateros_: resolvió 2 problemas y obtuvo el lugar #15 (92%) en The 2013 Mexico & Central America Regional Contest
+1. _Fismateros_: resolvió 3 problemas y obtuvo el lugar #19 (89%) en The 2012 Mexico & Central America Regional Contest
+1. _Lerak Team_: resolvió 2 problemas y obtuvo el lugar #23 (87%) en The 2013 Mexico & Central America Regional Contest
+1. _FISMAT exception_: resolvió 1 problemas y obtuvo el lugar #30 (80%) en The 2007 ACM Mexico and Central America Programming Contest
+1. _Elvis_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _lerak team_: resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
+1. _Compilando..._: resolvió 2 problemas y obtuvo el lugar #56 (66%) en The 2009 Mexico & Central America Contest
+1. _fismateros_: resolvió 2 problemas y obtuvo el lugar #89 (56%) en The 2010 Mexico & Central America Regional Contest
 
 ## Participaciones
 

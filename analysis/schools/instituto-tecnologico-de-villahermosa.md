@@ -4,9 +4,9 @@
 
 ## Mejores 10 equipos
 
-1. _Jawares_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
-1. _The Matrix : Reloaded_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
-1. _ITVM Durango_: resolvió 1 problemas y obtuvo el lugar #67 en The 2006 ACM Mexico and Central America Programming Contest
+1. _Jawares_: resolvió 0 problemas y obtuvo el lugar #27 (72%) en The 2002 ACM Mexico and Central America Programming Contest
+1. _The Matrix : Reloaded_: resolvió 0 problemas y obtuvo el lugar #41 (62%) en The 2003 ACM Mexico and Central America Programming Contest
+1. _ITVM Durango_: resolvió 1 problemas y obtuvo el lugar #67 (47%) en The 2006 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

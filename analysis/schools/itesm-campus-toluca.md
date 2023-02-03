@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _TTTeam_: resolvió 3 problemas y obtuvo el lugar #44 en The 2010 Mexico & Central America Regional Contest
-1. _BugHunterAddicts_: resolvió 1 problemas y obtuvo el lugar #49 en The 2021 ICPC Mexico Finals
-1. _Temerarios_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
-1. _Arigato_: resolvió 1 problemas y obtuvo el lugar #81 en The 2009 Mexico & Central America Contest
-1. _QueEquipo_: resolvió 1 problemas y obtuvo el lugar #96 en The 2008 Mexico & Central America Contest
-1. _CualEquipo_: resolvió 0 problemas y obtuvo el lugar #101 en The 2008 Mexico & Central America Contest
-1. _WhataTeam_: resolvió 0 problemas y obtuvo el lugar #101 en The 2008 Mexico & Central America Contest
-1. _QueEquipo_: resolvió 0 problemas y obtuvo el lugar #116 en The 2009 Mexico & Central America Contest
-1. _losrivas_: resolvió 1 problemas y obtuvo el lugar #119 en The 2012 Mexico & Central America Regional Contest
-1. _losparces_: resolvió 1 problemas y obtuvo el lugar #121 en The 2012 Mexico & Central America Regional Contest
+1. _BugHunterAddicts_: resolvió 1 problemas y obtuvo el lugar #49 (90%) en The 2021 ICPC Mexico Finals
+1. _Lxs Pixies_: resolvió 7 problemas y obtuvo el lugar #94 (90%) en The 2022 ICPC Gran Premio de Mexico
+1. _Googol_: resolvió 7 problemas y obtuvo el lugar #88 (87%) en Gran Premio de Mexico & Centroamerica 2017
+1. _ARM_: resolvió 4 problemas y obtuvo el lugar #134 (81%) en Gran Premio de Mexico & Centroamerica 2017
+1. _TTTeam_: resolvió 3 problemas y obtuvo el lugar #44 (78%) en The 2010 Mexico & Central America Regional Contest
+1. _ITESM TOLUCA_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _Los Tlacuaches de Turín_: resolvió 3 problemas y obtuvo el lugar #223 (75%) en The 2022 ICPC Gran Premio de Mexico
+1. _AjoloTechs_: resolvió 2 problemas y obtuvo el lugar #126 (75%) en The 2021 ICPC Gran Premio de Mexico
+1. _Siuuu++_: resolvió 4 problemas y obtuvo el lugar #244 (73%) en The 2022 ICPC Gran Premio de Mexico
+1. _Abelord's Children_: resolvió 3 problemas y obtuvo el lugar #210 (70%) en Gran Premio de Mexico & Centroamerica 2017
 
 ## Participaciones
 

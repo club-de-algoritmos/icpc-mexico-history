@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _Pragma_: resolvió 2 problemas y obtuvo el lugar #57 en 42nd Annual World Finals of the International Collegiate Programming Contest
-1. _ITESM Queretaro Los punteros_: resolvió 2 problemas y obtuvo el lugar #76 en 34th Annual World Finals of the ACM International Collegiate Programming Contest
-1. _Los punteros_: resolvió 8 problemas y obtuvo el lugar #1 en The 2009 Mexico & Central America Contest
-1. _Deadly Coding Squad =)_: resolvió 4 problemas y obtuvo el lugar #4 en The 2008 Mexico & Central America Contest
-1. _MachineGun_: resolvió 4 problemas y obtuvo el lugar #5 en The 2008 Mexico & Central America Contest
-1. _Code Templars_: resolvió 4 problemas y obtuvo el lugar #7 en The 2008 Mexico & Central America Contest
-1. _Arrolladores ASCIIs_: resolvió 3 problemas y obtuvo el lugar #8 en The 2007 ACM Mexico and Central America Programming Contest
-1. _lEFTaSaNeXERCISE_: resolvió 5 problemas y obtuvo el lugar #11 en The 2019 ICPC Mexico Finals
-1. _wlog_: resolvió 4 problemas y obtuvo el lugar #12 en The 2016 ACM-ICPC Mexico and Central America Finals
-1. _Anonymous_: resolvió 3 problemas y obtuvo el lugar #13 en The 2011 Mexico & Central America Regional Contest
+1. _Pragma_: resolvió 2 problemas y obtuvo el lugar #57 (60%) en 42nd Annual World Finals of the International Collegiate Programming Contest
+1. _ITESM Queretaro Los punteros_: resolvió 2 problemas y obtuvo el lugar #76 (26%) en 34th Annual World Finals of the ACM International Collegiate Programming Contest
+1. _Los punteros_: resolvió 8 problemas y obtuvo el lugar #1 (100%) en The 2009 Mexico & Central America Contest
+1. _lEFTaSaNeXERCISE_: resolvió 5 problemas y obtuvo el lugar #11 (99%) en The 2019 ICPC Mexico Finals
+1. _pragma_: resolvió 23 problemas y obtuvo el lugar #7 (99%) en Gran Premio de Mexico & Centroamerica 2017
+1. _c+vga_: resolvió 5 problemas y obtuvo el lugar #13 (99%) en The 2018 ICPC Mexico and Central America Finals
+1. _Deadly Coding Squad =)_: resolvió 4 problemas y obtuvo el lugar #4 (98%) en The 2008 Mexico & Central America Contest
+1. _pragma++_: resolvió 5 problemas y obtuvo el lugar #16 (98%) en The 2018 ICPC Mexico and Central America Finals
+1. _wlog_: resolvió 4 problemas y obtuvo el lugar #12 (98%) en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _MachineGun_: resolvió 4 problemas y obtuvo el lugar #5 (98%) en The 2008 Mexico & Central America Contest
 
 ## Participaciones
 

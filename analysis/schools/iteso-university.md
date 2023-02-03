@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _ACRUX_: resolvió 4 problemas y obtuvo el lugar #6 en The 2004 ACM Mexico and Central America Programming Contest
-1. _Mezcla_: resolvió 4 problemas y obtuvo el lugar #6 en The 2008 Mexico & Central America Contest
-1. _ACRUX_: resolvió 3 problemas y obtuvo el lugar #7 en The 2003 ACM Mexico and Central America Programming Contest
-1. _Code Dream_: resolvió 4 problemas y obtuvo el lugar #9 en The 2008 Mexico & Central America Contest
-1. _LOL_: resolvió 4 problemas y obtuvo el lugar #13 en The 2010 Mexico & Central America Regional Contest
-1. _LOL_: resolvió 3 problemas y obtuvo el lugar #19 en The 2008 Mexico & Central America Contest
-1. _Olimpicos_: resolvió 3 problemas y obtuvo el lugar #21 en The 2010 Mexico & Central America Regional Contest
-1. _Cheerios_: resolvió 3 problemas y obtuvo el lugar #23 en The 2011 Mexico & Central America Regional Contest
-1. _Parabolic Octopi_: resolvió 3 problemas y obtuvo el lugar #24 en The 2012 Mexico & Central America Regional Contest
-1. _ITESO_1_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
+1. _Mezcla_: resolvió 4 problemas y obtuvo el lugar #6 (97%) en The 2008 Mexico & Central America Contest
+1. _KDT_: resolvió 3 problemas y obtuvo el lugar #35 (96%) en The 2018 ICPC Mexico and Central America Finals
+1. _KDT_: resolvió 2 problemas y obtuvo el lugar #30 (96%) en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _ACRUX_: resolvió 4 problemas y obtuvo el lugar #6 (96%) en The 2004 ACM Mexico and Central America Programming Contest
+1. _Code Dream_: resolvió 4 problemas y obtuvo el lugar #9 (95%) en The 2008 Mexico & Central America Contest
+1. _ACRUX_: resolvió 3 problemas y obtuvo el lugar #7 (94%) en The 2003 ACM Mexico and Central America Programming Contest
+1. _LOL_: resolvió 4 problemas y obtuvo el lugar #13 (94%) en The 2010 Mexico & Central America Regional Contest
+1. _MachineGuns_: resolvió 1 problemas y obtuvo el lugar #56 (92%) en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _Alivianados_: resolvió 10 problemas y obtuvo el lugar #69 (92%) en Gran Premio de Mexico 2018
+1. _Olimpicos_: resolvió 3 problemas y obtuvo el lugar #21 (90%) en The 2010 Mexico & Central America Regional Contest
 
 ## Participaciones
 

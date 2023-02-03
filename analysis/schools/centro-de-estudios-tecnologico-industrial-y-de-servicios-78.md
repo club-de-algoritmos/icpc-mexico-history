@@ -4,7 +4,7 @@
 
 ## Mejores 10 equipos
 
-1. _ZORROS_: resolvió 2 problemas y obtuvo el lugar #14 en The 2001 ACM Mexico and Central America Programming Contest
+1. _ZORROS_: resolvió 2 problemas y obtuvo el lugar #14 (84%) en The 2001 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

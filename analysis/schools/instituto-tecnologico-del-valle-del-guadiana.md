@@ -4,8 +4,8 @@
 
 ## Mejores 10 equipos
 
-1. _ITVG_: resolvió 1 problemas y obtuvo el lugar #75 en The 2008 Mexico & Central America Contest
-1. _ITVG_: resolvió 0 problemas y obtuvo el lugar #156 en The 2010 Mexico & Central America Regional Contest
+1. _ITVG_: resolvió 1 problemas y obtuvo el lugar #75 (56%) en The 2008 Mexico & Central America Contest
+1. _ITVG_: resolvió 0 problemas y obtuvo el lugar #156 (22%) en The 2010 Mexico & Central America Regional Contest
 
 ## Participaciones
 

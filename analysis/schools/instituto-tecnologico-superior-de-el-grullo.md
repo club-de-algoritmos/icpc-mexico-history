@@ -4,12 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _TecGrullo_: resolvió 2 problemas y obtuvo el lugar #37 en The 2014 ACM-ICPC Mexico and Central America Finals
-1. _El Grullo1_: resolvió 0 problemas y obtuvo el lugar #101 en The 2008 Mexico & Central America Contest
-1. _El Grullo2_: resolvió 0 problemas y obtuvo el lugar #101 en The 2008 Mexico & Central America Contest
-1. _JOVAvsJAVA_: resolvió 0 problemas y obtuvo el lugar #104 en The 2011 Mexico & Central America Regional Contest
-1. _TecGrullo_: resolvió 0 problemas y obtuvo el lugar #116 en The 2009 Mexico & Central America Contest
-1. _El Grullo_: resolvió 0 problemas y obtuvo el lugar #156 en The 2010 Mexico & Central America Regional Contest
+1. _TecGrullo_: resolvió 2 problemas y obtuvo el lugar #37 (85%) en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _TecGrullo2_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _TecGrullo2_2_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _TecGrullo3_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _TecMM Grullo 2_: resolvió 1 problemas y obtuvo el lugar #369 (72%) en Gran Premio de Mexico 2019
+1. _TecMM Grullo 1_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _TecMM Grullo 3_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _TecMM Grullo 4_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _TMMGrullo2_: resolvió 3 problemas y obtuvo el lugar #263 (69%) en Gran Premio de Mexico 2018
+1. _TMMGrullo3_: resolvió 2 problemas y obtuvo el lugar #276 (67%) en Gran Premio de Mexico 2018
 
 ## Participaciones
 

@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _Turing Machines_: resolvió 3 problemas y obtuvo el lugar #49 en 33rd Annual World Finals of the ACM International Collegiate Programming Contest
-1. _ITC Turing Machines_: resolvió 0 problemas y obtuvo el lugar #90 en The 2008 ACM Programming Contest World Finals
-1. _JRA_: resolvió 5 problemas y obtuvo el lugar #9 en The 2014 ACM-ICPC Mexico and Central America Finals
-1. _Three Bits_: resolvió 4 problemas y obtuvo el lugar #12 en The 2012 Mexico & Central America Regional Contest
-1. _tec de Culiacán_: resolvió 4 problemas y obtuvo el lugar #16 en The 2009 Mexico & Central America Contest
-1. _StackOverflow_: resolvió 3 problemas y obtuvo el lugar #27 en The 2006 ACM Mexico and Central America Programming Contest
-1. _Ludus G++_: resolvió 2 problemas y obtuvo el lugar #36 en The 2021 ICPC Mexico Finals
-1. _Dynamic_: resolvió 1 problemas y obtuvo el lugar #39 en The 2013 Mexico & Central America Regional Contest
-1. _Salchipulpos_: resolvió 2 problemas y obtuvo el lugar #47 en The 2008 Mexico & Central America Contest
-1. _Three Bits_: resolvió 2 problemas y obtuvo el lugar #48 en The 2011 Mexico & Central America Regional Contest
+1. _Turing Machines_: resolvió 3 problemas y obtuvo el lugar #49 (52%) en 33rd Annual World Finals of the ACM International Collegiate Programming Contest
+1. _ITC Turing Machines_: resolvió 0 problemas y obtuvo el lugar #90 (10%) en The 2008 ACM Programming Contest World Finals
+1. _JRA_: resolvió 5 problemas y obtuvo el lugar #9 (97%) en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _Ludus G++_: resolvió 12 problemas y obtuvo el lugar #39 (96%) en The 2022 ICPC Gran Premio de Mexico
+1. _Three Bits_: resolvió 4 problemas y obtuvo el lugar #12 (93%) en The 2012 Mexico & Central America Regional Contest
+1. _Ludus G++_: resolvió 2 problemas y obtuvo el lugar #36 (93%) en The 2021 ICPC Mexico Finals
+1. _tec de Culiacán_: resolvió 4 problemas y obtuvo el lugar #16 (91%) en The 2009 Mexico & Central America Contest
+1. _Hijos de Honor_: resolvió 7 problemas y obtuvo el lugar #93 (90%) en The 2022 ICPC Gran Premio de Mexico
+1. _Team Belico_: resolvió 6 problemas y obtuvo el lugar #110 (88%) en The 2022 ICPC Gran Premio de Mexico
+1. _Broncos4Life_: resolvió 5 problemas y obtuvo el lugar #116 (87%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 

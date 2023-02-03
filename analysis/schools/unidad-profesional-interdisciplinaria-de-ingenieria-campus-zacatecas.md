@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _Printfers_: resolvió 3 problemas y obtuvo el lugar #35 en The 2016 ACM-ICPC Mexico and Central America Finals
-1. _Las pistas de nullptr_: resolvió 3 problemas y obtuvo el lugar #40 en The 2020 ICPC Mexico Finals
-1. _Las pistas de NULL_: resolvió 1 problemas y obtuvo el lugar #45 en The 2019 ICPC Mexico Finals
-1. _Los charlies de Angel_: resolvió 1 problemas y obtuvo el lugar #45 en The 2021 ICPC Mexico Finals
-1. _3idiotas_: resolvió 2 problemas y obtuvo el lugar #46 en The 2016 ACM-ICPC Mexico and Central America Finals
-1. _404 Not Found_: resolvió 2 problemas y obtuvo el lugar #48 en The 2015 ACM-ICPC Mexico and Central America Finals
-1. _SNCB_: resolvió 1 problemas y obtuvo el lugar #50 en The 2014 ACM-ICPC Mexico and Central America Finals
-1. _solo_dos_idiotas_y_lalo_: resolvió 1 problemas y obtuvo el lugar #53 en The 2017 ACM-ICPC Mexico and Central America Finals
-1. _Printfers_: resolvió 1 problemas y obtuvo el lugar #55 en The 2017 ACM-ICPC Mexico and Central America Finals
-1. _SNBC&D_: resolvió 2 problemas y obtuvo el lugar #66 en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _Las pistas de NULL_: resolvió 1 problemas y obtuvo el lugar #45 (97%) en The 2019 ICPC Mexico Finals
+1. _Las pistas de nullptr_: resolvió 3 problemas y obtuvo el lugar #40 (94%) en The 2020 ICPC Mexico Finals
+1. _Escuadron alpha lobo dinamita_: resolvió 6 problemas y obtuvo el lugar #83 (94%) en Gran Premio de Mexico 2019
+1. _Printfers_: resolvió 3 problemas y obtuvo el lugar #35 (93%) en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _solo_dos_idiotas_y_lalo_: resolvió 1 problemas y obtuvo el lugar #53 (92%) en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _Printfers_: resolvió 1 problemas y obtuvo el lugar #55 (92%) en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _Concilio de ancianos_: resolvió 12 problemas y obtuvo el lugar #67 (92%) en Gran Premio de Mexico 2018
+1. _Los charlies de Angel_: resolvió 1 problemas y obtuvo el lugar #45 (91%) en The 2021 ICPC Mexico Finals
+1. _3idiotas_: resolvió 2 problemas y obtuvo el lugar #46 (91%) en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _Donas's Team_: resolvió 5 problemas y obtuvo el lugar #138 (89%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 

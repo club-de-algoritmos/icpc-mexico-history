@@ -4,7 +4,8 @@
 
 ## Mejores 10 equipos
 
-1. _ITSX_: resolvió 0 problemas y obtuvo el lugar #55 en The 2001 ACM Mexico and Central America Programming Contest
+1. _JuniorsITSX_: resolvió 0 problemas y obtuvo el lugar #351 (51%) en Gran Premio de Mexico 2020
+1. _ITSX_: resolvió 0 problemas y obtuvo el lugar #55 (32%) en The 2001 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

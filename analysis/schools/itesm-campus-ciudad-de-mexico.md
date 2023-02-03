@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _ITCCM_: resolvió 4 problemas y obtuvo el lugar #12 en The 2009 Mexico & Central America Contest
-1. _EOF_: resolvió 3 problemas y obtuvo el lugar #18 en The 2015 ACM-ICPC Mexico and Central America Finals
-1. _mdp_: resolvió 3 problemas y obtuvo el lugar #23 en The 2019 ICPC Mexico Finals
-1. _make sandwich_: resolvió 3 problemas y obtuvo el lugar #30 en The 2016 ACM-ICPC Mexico and Central America Finals
-1. _M3_: resolvió 3 problemas y obtuvo el lugar #32 en The 2016 ACM-ICPC Mexico and Central America Finals
-1. _BrUwUs_: resolvió 3 problemas y obtuvo el lugar #35 en The 2020 ICPC Mexico Finals
-1. _SA²_: resolvió 3 problemas y obtuvo el lugar #37 en The 2011 Mexico & Central America Regional Contest
-1. _Itsenautas_: resolvió 2 problemas y obtuvo el lugar #40 en The 2009 Mexico & Central America Contest
-1. _Byte-me_: resolvió 3 problemas y obtuvo el lugar #41 en The 2015 ACM-ICPC Mexico and Central America Finals
-1. _Echo_: resolvió 2 problemas y obtuvo el lugar #47 en The 2011 Mexico & Central America Regional Contest
+1. _mdp_: resolvió 3 problemas y obtuvo el lugar #23 (98%) en The 2019 ICPC Mexico Finals
+1. _BrUwUs_: resolvió 3 problemas y obtuvo el lugar #35 (95%) en The 2020 ICPC Mexico Finals
+1. _EOF_: resolvió 3 problemas y obtuvo el lugar #18 (95%) en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _make sandwich_: resolvió 3 problemas y obtuvo el lugar #30 (94%) en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _M3_: resolvió 3 problemas y obtuvo el lugar #32 (94%) en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _ITCCM_: resolvió 4 problemas y obtuvo el lugar #12 (93%) en The 2009 Mexico & Central America Contest
+1. _MDP_: resolvió 11 problemas y obtuvo el lugar #72 (92%) en Gran Premio de Mexico 2018
+1. _The Screens_: resolvió 1 problemas y obtuvo el lugar #60 (91%) en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _Elite Penguin Force_: resolvió 6 problemas y obtuvo el lugar #120 (91%) en Gran Premio de Mexico 2019
+1. _Team extends God_: resolvió 5 problemas y obtuvo el lugar #136 (90%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 

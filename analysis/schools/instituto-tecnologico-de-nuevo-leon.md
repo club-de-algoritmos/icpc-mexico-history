@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _Cuervo Fénix_: resolvió 1 problemas y obtuvo el lugar #24 en The 2001 ACM Mexico and Central America Programming Contest
-1. _ITNL - 1_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
-1. _ITNL - 2_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
-1. _A verdad me engañe_: resolvió 3 problemas y obtuvo el lugar #39 en The 2020 ICPC Mexico Finals
-1. _Rule34_: resolvió 1 problemas y obtuvo el lugar #43 en The 2013 Mexico & Central America Regional Contest
-1. _The 3 Elements_: resolvió 2 problemas y obtuvo el lugar #48 en The 2008 Mexico & Central America Contest
-1. _0xBests_: resolvió 0 problemas y obtuvo el lugar #50 en The 2021 ICPC Mexico Finals
-1. _ARKADIC_: resolvió 0 problemas y obtuvo el lugar #55 en The 2001 ACM Mexico and Central America Programming Contest
-1. _C and C_: resolvió 1 problemas y obtuvo el lugar #57 en The 2007 ACM Mexico and Central America Programming Contest
-1. _Bloques de Lego_: resolvió 2 problemas y obtuvo el lugar #59 en The 2010 Mexico & Central America Regional Contest
+1. _A verdad me engañe_: resolvió 3 problemas y obtuvo el lugar #39 (95%) en The 2020 ICPC Mexico Finals
+1. _OxBests_: resolvió 8 problemas y obtuvo el lugar #69 (92%) en The 2022 ICPC Gran Premio de Mexico
+1. _0xBests_: resolvió 0 problemas y obtuvo el lugar #50 (90%) en The 2021 ICPC Mexico Finals
+1. _A verdad me engañe_: resolvió 5 problemas y obtuvo el lugar #129 (90%) en Gran Premio de Mexico 2019
+1. _silumgar_: resolvió 2 problemas y obtuvo el lugar #63 (81%) en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _silumgar_: resolvió 4 problemas y obtuvo el lugar #145 (79%) en Gran Premio de Mexico & Centroamerica 2017
+1. _#FuerzaJuanga_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _ANtRAX_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _CrowSys_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _Pichones_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
 
 ## Participaciones
 

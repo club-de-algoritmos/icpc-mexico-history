@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _Haka ITQ_: resolvió 3 problemas y obtuvo el lugar #20 en The 2009 Mexico & Central America Contest
-1. _Zorros Blanco_: resolvió 2 problemas y obtuvo el lugar #36 en The 2004 ACM Mexico and Central America Programming Contest
-1. _Black Fox Army_: resolvió 1 problemas y obtuvo el lugar #38 en The 2007 ACM Mexico and Central America Programming Contest
-1. _Haka - ITQ_: resolvió 3 problemas y obtuvo el lugar #38 en The 2010 Mexico & Central America Regional Contest
-1. _PañaleraSquad_: resolvió 3 problemas y obtuvo el lugar #38 en The 2020 ICPC Mexico Finals
-1. _Zorros Blanco_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
-1. _Haka_: resolvió 2 problemas y obtuvo el lugar #42 en The 2008 Mexico & Central America Contest
-1. _Zorros Negro_: resolvió 1 problemas y obtuvo el lugar #49 en The 2004 ACM Mexico and Central America Programming Contest
-1. _Zorros Blanco_: resolvió 0 problemas y obtuvo el lugar #55 en The 2001 ACM Mexico and Central America Programming Contest
-1. _Zorros Naranja_: resolvió 0 problemas y obtuvo el lugar #55 en The 2001 ACM Mexico and Central America Programming Contest
+1. _PañaleraSquad_: resolvió 3 problemas y obtuvo el lugar #38 (95%) en The 2020 ICPC Mexico Finals
+1. _Haka ITQ_: resolvió 3 problemas y obtuvo el lugar #20 (88%) en The 2009 Mexico & Central America Contest
+1. _Haka - ITQ_: resolvió 3 problemas y obtuvo el lugar #38 (81%) en The 2010 Mexico & Central America Regional Contest
+1. _Binary Agents_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _Fox code_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _NWA_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _puntoycoma_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _R00T_: resolvió 4 problemas y obtuvo el lugar #201 (76%) en Gran Premio de Mexico 2018
+1. _Haka_: resolvió 2 problemas y obtuvo el lugar #42 (76%) en The 2008 Mexico & Central America Contest
+1. _Black Fox Army_: resolvió 1 problemas y obtuvo el lugar #38 (75%) en The 2007 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

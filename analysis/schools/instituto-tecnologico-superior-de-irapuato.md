@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _ITESI Tres_: resolvió 1 problemas y obtuvo el lugar #22 en The 2001 ACM Mexico and Central America Programming Contest
-1. _ITESI-fundadores_: resolvió 1 problemas y obtuvo el lugar #26 en The 2001 ACM Mexico and Central America Programming Contest
-1. _ITESI Fundadores_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
-1. _ITESI Revelacion_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
-1. _ITESI LI_: resolvió 1 problemas y obtuvo el lugar #39 en The 2003 ACM Mexico and Central America Programming Contest
-1. _ITESI ISC_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
-1. _ITESI-El ultimo_: resolvió 1 problemas y obtuvo el lugar #46 en The 2001 ACM Mexico and Central America Programming Contest
-1. _ITESI 2_: resolvió 1 problemas y obtuvo el lugar #54 en The 2007 ACM Mexico and Central America Programming Contest
-1. _Los peques_: resolvió 1 problemas y obtuvo el lugar #60 en The 2005 ACM Mexico and Central America Programming Contest
-1. _ITESI 1_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
+1. _Buhos_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _Rocket_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _TeamM101_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _búhosblancos_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _mortifagos_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _ITESI Tres_: resolvió 1 problemas y obtuvo el lugar #22 (73%) en The 2001 ACM Mexico and Central America Programming Contest
+1. _ITESI Fundadores_: resolvió 0 problemas y obtuvo el lugar #27 (72%) en The 2002 ACM Mexico and Central America Programming Contest
+1. _ITESI Revelacion_: resolvió 0 problemas y obtuvo el lugar #27 (72%) en The 2002 ACM Mexico and Central America Programming Contest
+1. _ITESI-fundadores_: resolvió 1 problemas y obtuvo el lugar #26 (68%) en The 2001 ACM Mexico and Central America Programming Contest
+1. _ITESI_01_: resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
 
 ## Participaciones
 

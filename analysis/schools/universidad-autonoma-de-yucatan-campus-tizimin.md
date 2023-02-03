@@ -4,6 +4,16 @@
 
 ## Mejores 10 equipos
 
+1. _ABE_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _EquipoX_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _TeamR_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _The Jokers_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _The One_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _The Sharks_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _UMT-UADY_: resolvió 1 problemas y obtuvo el lugar #308 (76%) en Gran Premio de Mexico 2019
+1. _UcReAyCode_: resolvió 1 problemas y obtuvo el lugar #349 (73%) en Gran Premio de Mexico 2019
+1. _Aguilas_Calvas_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _UMT_UADY2_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 

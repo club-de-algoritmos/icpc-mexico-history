@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _lA_Criba de ceros y unos_: resolvió 2 problemas y obtuvo el lugar #63 en 43rd Annual World Finals of the International Collegiate Programming Contest
-1. _Hurones Pwneadores_: resolvió 1 problemas y obtuvo el lugar #80 en 38th Annual World Finals of the ACM International Collegiate Programming Contest
-1. _La Carabina del AC_: resolvió 3 problemas y obtuvo el lugar #92 en 40th Annual World Finals of the ACM International Collegiate Programming Contest
-1. _Escoolers_: resolvió 3 problemas y obtuvo el lugar #96 en 39th Annual World Finals of the ACM International Collegiate Programming Contest
-1. _Escoders_: resolvió 1 problemas y obtuvo el lugar #94 en 37th Annual World Finals of the ACM International Collegiate Programming Contest
-1. _Chilaquiles con pollo_: resolvió 5 problemas y obtuvo el lugar #1 en The 2021 ICPC Mexico Finals
-1. _Norman is Hunting_: resolvió 9 problemas y obtuvo el lugar #1 en The 2019 ICPC Mexico Finals
-1. _New avengers_: resolvió 6 problemas y obtuvo el lugar #4 en The 2016 ACM-ICPC Mexico and Central America Finals
-1. _Hurones FTW!_: resolvió 4 problemas y obtuvo el lugar #5 en The 2012 Mexico & Central America Regional Contest
-1. _Escom56_: resolvió 6 problemas y obtuvo el lugar #5 en The 2009 Mexico & Central America Contest
+1. _lA_Criba de ceros y unos_: resolvió 2 problemas y obtuvo el lugar #63 (54%) en 43rd Annual World Finals of the International Collegiate Programming Contest
+1. _Hurones Pwneadores_: resolvió 1 problemas y obtuvo el lugar #80 (35%) en 38th Annual World Finals of the ACM International Collegiate Programming Contest
+1. _La Carabina del AC_: resolvió 3 problemas y obtuvo el lugar #92 (28%) en 40th Annual World Finals of the ACM International Collegiate Programming Contest
+1. _Escoolers_: resolvió 3 problemas y obtuvo el lugar #96 (25%) en 39th Annual World Finals of the ACM International Collegiate Programming Contest
+1. _Escoders_: resolvió 1 problemas y obtuvo el lugar #94 (21%) en 37th Annual World Finals of the ACM International Collegiate Programming Contest
+1. _Chilaquiles con pollo_: resolvió 5 problemas y obtuvo el lugar #1 (100%) en The 2021 ICPC Mexico Finals
+1. _Norman is Hunting_: resolvió 9 problemas y obtuvo el lugar #1 (100%) en The 2019 ICPC Mexico Finals
+1. _Exceso de Fé_: resolvió 21 problemas y obtuvo el lugar #5 (100%) en The 2022 ICPC Gran Premio de Mexico
+1. _Error: "Team Name" not defined_: resolvió 6 problemas y obtuvo el lugar #7 (100%) en The 2019 ICPC Mexico Finals
+1. _Crustáceos Cascarudos_: resolvió 16 problemas y obtuvo el lugar #6 (99%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 

@@ -4,7 +4,7 @@
 
 ## Mejores 10 equipos
 
-1. _conejos_: resolvió 1 problemas y obtuvo el lugar #102 en The 2011 Mexico & Central America Regional Contest
+1. _conejos_: resolvió 1 problemas y obtuvo el lugar #102 (37%) en The 2011 Mexico & Central America Regional Contest
 
 ## Participaciones
 

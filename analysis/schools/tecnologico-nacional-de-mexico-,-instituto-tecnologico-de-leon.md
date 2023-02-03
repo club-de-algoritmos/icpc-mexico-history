@@ -4,8 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _ITL-1_: resolvió 2 problemas y obtuvo el lugar #43 en The 2015 ACM-ICPC Mexico and Central America Finals
-1. _ITLeón_1_: resolvió 2 problemas y obtuvo el lugar #70 en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _ITL-1_: resolvió 2 problemas y obtuvo el lugar #43 (87%) en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _ITLeón_1_: resolvió 2 problemas y obtuvo el lugar #70 (86%) en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _El_equipo_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _Elk Cloner_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _ITLeon_2_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _Include-Stdio_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _Include-String_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _JDK_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _Multivac_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _VIPOC SYC_: resolvió 6 problemas y obtuvo el lugar #169 (76%) en Gran Premio de Mexico 2020
 
 ## Participaciones
 

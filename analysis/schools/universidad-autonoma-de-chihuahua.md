@@ -4,13 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _Grecos_: resolvió 5 problemas y obtuvo el lugar #17 en The 2018 ICPC Mexico and Central America Finals
-1. _Are ya winning son?_: resolvió 4 problemas y obtuvo el lugar #25 en The 2020 ICPC Mexico Finals
-1. _PatodaLaVida_: resolvió 3 problemas y obtuvo el lugar #26 en The 2021 ICPC Mexico Finals
-1. _3Loko_: resolvió 4 problemas y obtuvo el lugar #27 en The 2020 ICPC Mexico Finals
-1. _PatodaLaVida_: resolvió 2 problemas y obtuvo el lugar #34 en The 2019 ICPC Mexico Finals
-1. _3Loko_: resolvió 1 problemas y obtuvo el lugar #49 en The 2019 ICPC Mexico Finals
-1. _Wajakos_: resolvió 0 problemas y obtuvo el lugar #50 en The 2021 ICPC Mexico Finals
+1. _Grecos_: resolvió 5 problemas y obtuvo el lugar #17 (98%) en The 2018 ICPC Mexico and Central America Finals
+1. _PatodaLaVida_: resolvió 2 problemas y obtuvo el lugar #34 (97%) en The 2019 ICPC Mexico Finals
+1. _Are ya winning son?_: resolvió 4 problemas y obtuvo el lugar #25 (97%) en The 2020 ICPC Mexico Finals
+1. _3Loko_: resolvió 4 problemas y obtuvo el lugar #27 (96%) en The 2020 ICPC Mexico Finals
+1. _3Loko_: resolvió 1 problemas y obtuvo el lugar #49 (96%) en The 2019 ICPC Mexico Finals
+1. _PatodaLaVida_: resolvió 3 problemas y obtuvo el lugar #26 (95%) en The 2021 ICPC Mexico Finals
+1. _Wajakos_: resolvió 10 problemas y obtuvo el lugar #50 (95%) en The 2022 ICPC Gran Premio de Mexico
+1. _QuesadillasLlevanQueso_: resolvió 8 problemas y obtuvo el lugar #76 (94%) en Gran Premio de Mexico 2019
+1. _Cruz Azul_: resolvió 8 problemas y obtuvo el lugar #79 (91%) en The 2022 ICPC Gran Premio de Mexico
+1. _PatodaLaVida_: resolvió 11 problemas y obtuvo el lugar #67 (91%) en Gran Premio de Mexico 2020
 
 ## Participaciones
 

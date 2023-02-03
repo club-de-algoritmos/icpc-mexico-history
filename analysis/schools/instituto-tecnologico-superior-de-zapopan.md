@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _Esquisofrenia_: resolvió 3 problemas y obtuvo el lugar #10 en The 2007 ACM Mexico and Central America Programming Contest
-1. _ITSZ_: resolvió 2 problemas y obtuvo el lugar #27 en The 2005 ACM Mexico and Central America Programming Contest
-1. _Jimmy Team_: resolvió 1 problemas y obtuvo el lugar #33 en The 2007 ACM Mexico and Central America Programming Contest
-1. _TECZAPOPAN_: resolvió 2 problemas y obtuvo el lugar #40 en The 2004 ACM Mexico and Central America Programming Contest
-1. _LOBOS III_: resolvió 3 problemas y obtuvo el lugar #42 en The 2010 Mexico & Central America Regional Contest
-1. _EXQUIZOFRENIA_: resolvió 1 problemas y obtuvo el lugar #51 en The 2006 ACM Mexico and Central America Programming Contest
-1. _Esquizofrenia_: resolvió 2 problemas y obtuvo el lugar #51 en The 2009 Mexico & Central America Contest
-1. _TECZAPOPAN_: resolvió 1 problemas y obtuvo el lugar #56 en The 2005 ACM Mexico and Central America Programming Contest
-1. _ZENTINELAS_: resolvió 1 problemas y obtuvo el lugar #56 en The 2007 ACM Mexico and Central America Programming Contest
-1. _Los Rojos_: resolvió 2 problemas y obtuvo el lugar #58 en The 2008 Mexico & Central America Contest
+1. _Esquisofrenia_: resolvió 3 problemas y obtuvo el lugar #10 (94%) en The 2007 ACM Mexico and Central America Programming Contest
+1. _Lobocoders_: resolvió 2 problemas y obtuvo el lugar #227 (83%) en Gran Premio de Mexico 2019
+1. _ITSZ_: resolvió 2 problemas y obtuvo el lugar #27 (81%) en The 2005 ACM Mexico and Central America Programming Contest
+1. _LOBOS III_: resolvió 3 problemas y obtuvo el lugar #42 (79%) en The 2010 Mexico & Central America Regional Contest
+1. _Jimmy Team_: resolvió 1 problemas y obtuvo el lugar #33 (78%) en The 2007 ACM Mexico and Central America Programming Contest
+1. _Aristogatos_: resolvió 1 problemas y obtuvo el lugar #297 (77%) en Gran Premio de Mexico 2019
+1. _DDOS_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _TECZAPOPAN V. 2.2_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _MMLOBOS_: resolvió 3 problemas y obtuvo el lugar #164 (76%) en Gran Premio de Mexico & Centroamerica 2017
+1. _Esquizofrenia_: resolvió 2 problemas y obtuvo el lugar #51 (69%) en The 2009 Mexico & Central America Contest
 
 ## Participaciones
 

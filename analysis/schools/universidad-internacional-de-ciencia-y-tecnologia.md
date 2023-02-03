@@ -4,7 +4,7 @@
 
 ## Mejores 10 equipos
 
-1. _UNICYT-1_: resolvió 0 problemas y obtuvo el lugar #86 en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _UNICYT-1_: resolvió 0 problemas y obtuvo el lugar #86 (88%) en The 2017 ACM-ICPC Mexico and Central America Finals
 
 ## Participaciones
 

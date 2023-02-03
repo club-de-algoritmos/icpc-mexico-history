@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _Linces_: resolvió 2 problemas y obtuvo el lugar #34 en The 2012 Mexico & Central America Regional Contest
-1. _Linces_: resolvió 1 problemas y obtuvo el lugar #53 en The 2013 Mexico & Central America Regional Contest
-1. _LINCES_: resolvió 2 problemas y obtuvo el lugar #68 en The 2010 Mexico & Central America Regional Contest
-1. _LINCES1_: resolvió 1 problemas y obtuvo el lugar #80 en The 2011 Mexico & Central America Regional Contest
-1. _BETAS_: resolvió 0 problemas y obtuvo el lugar #85 en The 2005 ACM Mexico and Central America Programming Contest
-1. _Linces_: resolvió 0 problemas y obtuvo el lugar #85 en The 2006 ACM Mexico and Central America Programming Contest
-1. _linces_: resolvió 0 problemas y obtuvo el lugar #85 en The 2005 ACM Mexico and Central America Programming Contest
-1. _Linces Tec_: resolvió 0 problemas y obtuvo el lugar #90 en The 2004 ACM Mexico and Central America Programming Contest
-1. _RiDaGreMo_: resolvió 0 problemas y obtuvo el lugar #90 en The 2004 ACM Mexico and Central America Programming Contest
-1. _itssp_: resolvió 0 problemas y obtuvo el lugar #90 en The 2004 ACM Mexico and Central America Programming Contest
+1. _ITSSP_: resolvió 3 problemas y obtuvo el lugar #35 (86%) en Mexico and Central America Finals - Programming Battle
+1. _Linces_: resolvió 2 problemas y obtuvo el lugar #34 (80%) en The 2012 Mexico & Central America Regional Contest
+1. _Black Power_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _Bryan´s Programmers _: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _Chisco Programmers_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _Energy_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _Kroywen_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _Las blue_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _Los Brownies_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _Los ITIC's1_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 

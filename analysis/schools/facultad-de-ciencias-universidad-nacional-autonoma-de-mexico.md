@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _PU++_: resolvió 5 problemas y obtuvo el lugar #31 en 42nd Annual World Finals of the International Collegiate Programming Contest
-1. _PU++_: resolvió 3 problemas y obtuvo el lugar #57 en 41st Annual World Finals of the ACM International Collegiate Programming Contest
-1. _PumOMM_: resolvió 10 problemas y obtuvo el lugar #2 en The 2020 ICPC Mexico Finals
-1. _pu+os_: resolvió 6 problemas y obtuvo el lugar #4 en The 2019 ICPC Mexico Finals
-1. _pu++_: resolvió 5 problemas y obtuvo el lugar #5 en The 2015 ACM-ICPC Mexico and Central America Finals
-1. _PU++_: resolvió 5 problemas y obtuvo el lugar #7 en The 2014 ACM-ICPC Mexico and Central America Finals
-1. _UNAM Amada_: resolvió 7 problemas y obtuvo el lugar #9 en The 2018 ICPC Mexico and Central America Finals
-1. _Pumas+_: resolvió 4 problemas y obtuvo el lugar #11 en The 2021 ICPC Mexico Finals
-1. _pu++e2_: resolvió 4 problemas y obtuvo el lugar #14 en The 2015 ACM-ICPC Mexico and Central America Finals
-1. _Pumas+_: resolvió 4 problemas y obtuvo el lugar #15 en The 2019 ICPC Mexico Finals
+1. _PU++_: resolvió 5 problemas y obtuvo el lugar #31 (78%) en 42nd Annual World Finals of the International Collegiate Programming Contest
+1. _PU++_: resolvió 3 problemas y obtuvo el lugar #57 (58%) en 41st Annual World Finals of the ACM International Collegiate Programming Contest
+1. _PumOMM_: resolvió 10 problemas y obtuvo el lugar #2 (100%) en The 2020 ICPC Mexico Finals
+1. _pu+os_: resolvió 6 problemas y obtuvo el lugar #4 (100%) en The 2019 ICPC Mexico Finals
+1. _Pumas+_: resolvió 19 problemas y obtuvo el lugar #9 (99%) en The 2022 ICPC Gran Premio de Mexico
+1. _UNAM Amada_: resolvió 7 problemas y obtuvo el lugar #9 (99%) en The 2018 ICPC Mexico and Central America Finals
+1. _Pumas+_: resolvió 4 problemas y obtuvo el lugar #15 (99%) en The 2019 ICPC Mexico Finals
+1. _Cagua++_: resolvió 16 problemas y obtuvo el lugar #11 (99%) en The 2022 ICPC Gran Premio de Mexico
+1. _pu++_: resolvió 5 problemas y obtuvo el lugar #5 (99%) en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _EZLN_: resolvió 13 problemas y obtuvo el lugar #19 (99%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 

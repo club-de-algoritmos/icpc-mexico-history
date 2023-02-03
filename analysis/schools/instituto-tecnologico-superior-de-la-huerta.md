@@ -4,6 +4,8 @@
 
 ## Mejores 10 equipos
 
+1. _Hello World_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _HUERTA´S CREW_: resolvió 0 problemas y obtuvo el lugar #405 (41%) en Gran Premio de Mexico & Centroamerica 2017
 
 ## Participaciones
 

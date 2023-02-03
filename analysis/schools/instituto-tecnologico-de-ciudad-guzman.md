@@ -4,12 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _Kachibombos ++_: resolvió 3 problemas y obtuvo el lugar #33 en The 2008 Mexico & Central America Contest
-1. _Ti-Tanis_: resolvió 1 problemas y obtuvo el lugar #51 en The 2019 ICPC Mexico Finals
-1. _Kachibombos ++_: resolvió 1 problemas y obtuvo el lugar #66 en The 2009 Mexico & Central America Contest
-1. _Los 11 Mosqueteros_: resolvió 1 problemas y obtuvo el lugar #75 en The 2009 Mexico & Central America Contest
-1. _1UP_: resolvió 0 problemas y obtuvo el lugar #104 en The 2011 Mexico & Central America Regional Contest
-1. _STONE CODE_: resolvió 1 problemas y obtuvo el lugar #114 en The 2010 Mexico & Central America Regional Contest
+1. _Ti-Tanis_: resolvió 1 problemas y obtuvo el lugar #51 (96%) en The 2019 ICPC Mexico Finals
+1. _SYSTEM 32_: resolvió 5 problemas y obtuvo el lugar #89 (93%) en Gran Premio de Mexico 2019
+1. _Titanes_: resolvió 8 problemas y obtuvo el lugar #94 (89%) en Gran Premio de Mexico 2018
+1. _Ustedes_: resolvió 7 problemas y obtuvo el lugar #100 (88%) en Gran Premio de Mexico 2018
+1. _Taurina_: resolvió 3 problemas y obtuvo el lugar #160 (88%) en Gran Premio de Mexico 2019
+1. _LOS VIGILANTES_: resolvió 3 problemas y obtuvo el lugar #161 (88%) en Gran Premio de Mexico 2019
+1. _Ustedes_: resolvió 7 problemas y obtuvo el lugar #91 (87%) en Gran Premio de Mexico & Centroamerica 2017
+1. _Los vigilantes_: resolvió 5 problemas y obtuvo el lugar #144 (83%) en Gran Premio de Mexico 2018
+1. _ESCUADRON LOBO_: resolvió 5 problemas y obtuvo el lugar #127 (82%) en Gran Premio de Mexico & Centroamerica 2017
+1. _Kachibombos ++_: resolvió 3 problemas y obtuvo el lugar #33 (81%) en The 2008 Mexico & Central America Contest
 
 ## Participaciones
 

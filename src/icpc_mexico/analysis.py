@@ -148,41 +148,63 @@ class Analyzer:
 
                 teams: List[Tuple[float, Contest, TeamResult]] = []
                 for year, contests in contests_by_year.items():
+                    qualifier = (get_by_type(ContestType.GRAN_PREMIO, contests) or
+                                 get_by_type(ContestType.PROGRAMMING_BATTLE, contests))
                     regional = get_by_type(ContestType.REGIONAL, contests)
                     world = get_by_type(ContestType.WORLD, contests)
                     wf_team = get_best_by_school(school, world) if world else None
-                    regional_teams: List[TeamResult] = []
+                    qualifier_teams = get_by_school(school, qualifier) if qualifier else []
+                    regional_teams = get_by_school(school, regional) if regional else []
+
+                    all_teams = []
+                    if qualifier:
+                        all_teams.extend(qualifier.team_results)
                     if regional:
-                        regional_teams = get_by_school(school, regional)
+                        all_teams.extend(regional.team_results)
+                    all_team_names: Set[str] = set()
+                    for team in all_teams:
+                        all_team_names.add(team.name)
 
                     if wf_team:
                         team_count = len(world.team_results)
                         percentile = (team_count - wf_team.rank) / (team_count - 1)
-                        teams.append((1 - percentile, world, wf_team))
+                        teams.append((percentile, world, wf_team))
 
-                    for team in regional_teams:
-                        if wf_team and wf_team.name == team.name:
+                    added_teams: Set[str] = set()
+                    if wf_team:
+                        added_teams.add(wf_team.name)
+
+                    teams_with_contest: List[Tuple[TeamResult, Contest]] = []
+                    if regional:
+                        teams_with_contest.extend([(team, regional) for team in regional_teams])
+                    if qualifier:
+                        teams_with_contest.extend([(team, qualifier) for team in qualifier_teams])
+                    for team, contest in teams_with_contest:
+                        if team.name in added_teams:
                             continue
-                        teams.append((team.rank, regional, team))
+                        added_teams.add(team.name)
 
-                # TODO: Sort by regional percentile instead of rank (need to make the union out of the qualifier
-                #  and the regional teams to get a proper count, taking repechaje into account)
+                        team_count = len(all_team_names)
+                        percentile = (team_count - team.rank) / (team_count - 1)
+                        teams.append((percentile, contest, team))
+
                 def sort_team(team: Tuple[float, Contest, TeamResult]):
-                    rank_or_percentile, contest, team_result = team
+                    percentile, contest, team_result = team
                     return (
                         1 if contest.type == ContestType.WORLD else 2,
-                        rank_or_percentile,
-                        team_result.problems_solved,
+                        1 - percentile,
+                        team_result.problems_solved or 0,
                         team_result.name,
                     )
 
                 teams.sort(key=sort_team)
                 with markdown.section('Mejores 10 equipos'):
                     for team in teams[:10]:
-                        _, contest, team_result = team
+                        percentile, contest, team_result = team
+                        perc = round(percentile * 100)
                         markdown.numbered_bullet_point(
                             f'_{team_result.name}_: resolvió {team_result.problems_solved} problemas'
-                            f' y obtuvo el lugar #{team_result.rank} en {contest.name}')
+                            f' y obtuvo el lugar #{team_result.rank} ({perc}%) en {contest.name}')
 
                 with markdown.section('Participaciones'):
                     for year, contests in contests_by_year.items():

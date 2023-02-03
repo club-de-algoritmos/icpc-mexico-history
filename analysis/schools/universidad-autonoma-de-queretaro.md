@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _CACHARPAS_: resolvió 2 problemas y obtuvo el lugar #20 en The 2007 ACM Mexico and Central America Programming Contest
-1. _Informatica-UAQ_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
-1. _wildcat_: resolvió 1 problemas y obtuvo el lugar #38 en The 2003 ACM Mexico and Central America Programming Contest
-1. _The Best Skynet_: resolvió 2 problemas y obtuvo el lugar #38 en The 2019 ICPC Mexico Finals
-1. _Galacticos_: resolvió 2 problemas y obtuvo el lugar #39 en The 2004 ACM Mexico and Central America Programming Contest
-1. _albertos_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
-1. _cadavezc- -_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
-1. _Delfinos_: resolvió 1 problemas y obtuvo el lugar #41 en The 2004 ACM Mexico and Central America Programming Contest
-1. _Hattrick Team_: resolvió 2 problemas y obtuvo el lugar #41 en The 2006 ACM Mexico and Central America Programming Contest
-1. _fast and fourier_: resolvió 3 problemas y obtuvo el lugar #48 en The 2018 ICPC Mexico and Central America Finals
+1. _The Best Skynet_: resolvió 2 problemas y obtuvo el lugar #38 (97%) en The 2019 ICPC Mexico Finals
+1. _fast and fourier_: resolvió 3 problemas y obtuvo el lugar #48 (94%) en The 2018 ICPC Mexico and Central America Finals
+1. _Beat bit_: resolvió 2 problemas y obtuvo el lugar #52 (93%) en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _Skynet_: resolvió 9 problemas y obtuvo el lugar #83 (90%) en Gran Premio de Mexico 2018
+1. _Triforce.h_: resolvió 8 problemas y obtuvo el lugar #77 (89%) en Gran Premio de Mexico & Centroamerica 2017
+1. _XYZ_: resolvió 6 problemas y obtuvo el lugar #104 (88%) en Gran Premio de Mexico 2018
+1. _CACHARPAS_: resolvió 2 problemas y obtuvo el lugar #20 (87%) en The 2007 ACM Mexico and Central America Programming Contest
+1. _Troyanos UAQ_: resolvió 2 problemas y obtuvo el lugar #288 (78%) en Gran Premio de Mexico 2019
+1. _7071_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _Engix_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
 
 ## Participaciones
 

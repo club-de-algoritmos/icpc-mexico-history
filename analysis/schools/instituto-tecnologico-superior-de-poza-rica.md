@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _TEC POZA RICA_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
-1. _ITSPR1_: resolvió 3 problemas y obtuvo el lugar #37 en The 2016 ACM-ICPC Mexico and Central America Finals
-1. _ITSPR DEVELOPERS_: resolvió 2 problemas y obtuvo el lugar #38 en The 2004 ACM Mexico and Central America Programming Contest
-1. _ITSPR-3_: resolvió 3 problemas y obtuvo el lugar #39 en The 2010 Mexico & Central America Regional Contest
-1. _ITS Poza Rica_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
-1. _ITSPR-1_: resolvió 2 problemas y obtuvo el lugar #42 en The 2011 Mexico & Central America Regional Contest
-1. _itspr_: resolvió 2 problemas y obtuvo el lugar #49 en The 2008 Mexico & Central America Contest
-1. _ITSPR2_: resolvió 1 problemas y obtuvo el lugar #51 en The 2014 ACM-ICPC Mexico and Central America Finals
-1. _TECPOZAR_: resolvió 0 problemas y obtuvo el lugar #55 en The 2001 ACM Mexico and Central America Programming Contest
-1. _Eclipse_: resolvió 1 problemas y obtuvo el lugar #55 en The 2007 ACM Mexico and Central America Programming Contest
+1. _ITSPR1_: resolvió 3 problemas y obtuvo el lugar #37 (93%) en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _ITSPR2_: resolvió 2 problemas y obtuvo el lugar #71 (86%) en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _Three Ocean_: resolvió 4 problemas y obtuvo el lugar #154 (83%) en The 2022 ICPC Gran Premio de Mexico
+1. _ITSPR-3_: resolvió 3 problemas y obtuvo el lugar #39 (81%) en The 2010 Mexico & Central America Regional Contest
+1. _ITSPR2_: resolvió 1 problemas y obtuvo el lugar #51 (80%) en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _Cometa azul_: resolvió 2 problemas y obtuvo el lugar #293 (77%) en Gran Premio de Mexico 2019
+1. _ITSPR3_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _ITSPR4_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _ITSPR-1_: resolvió 2 problemas y obtuvo el lugar #42 (74%) en The 2011 Mexico & Central America Regional Contest
+1. _TEC POZA RICA_: resolvió 0 problemas y obtuvo el lugar #27 (72%) en The 2002 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

@@ -4,7 +4,7 @@
 
 ## Mejores 10 equipos
 
-1. _ITLA_: resolvió 1 problemas y obtuvo el lugar #91 en The 2009 Mexico & Central America Contest
+1. _ITLA_: resolvió 1 problemas y obtuvo el lugar #91 (44%) en The 2009 Mexico & Central America Contest
 
 ## Participaciones
 

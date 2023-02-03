@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _E3_: resolvió None problemas y obtuvo el lugar #47 en 44th Annual World Finals of the International Collegiate Programming Contest
-1. _OWO_: resolvió 4 problemas y obtuvo el lugar #5 en The 2021 ICPC Mexico Finals
-1. _E3_: resolvió 7 problemas y obtuvo el lugar #5 en The 2017 ACM-ICPC Mexico and Central America Finals
-1. _E3_: resolvió 5 problemas y obtuvo el lugar #6 en The 2016 ACM-ICPC Mexico and Central America Finals
-1. _E3_: resolvió 7 problemas y obtuvo el lugar #6 en The 2018 ICPC Mexico and Central America Finals
-1. _EEE_: resolvió 7 problemas y obtuvo el lugar #6 en The 2020 ICPC Mexico Finals
-1. _Ug+es_: resolvió 4 problemas y obtuvo el lugar #8 en The 2021 ICPC Mexico Finals
-1. _Perrillos_: resolvió 5 problemas y obtuvo el lugar #8 en The 2016 ACM-ICPC Mexico and Central America Finals
-1. _Duel a morte con coitelos_: resolvió 7 problemas y obtuvo el lugar #8 en The 2018 ICPC Mexico and Central America Finals
-1. _Hypercube Destroyers_: resolvió 6 problemas y obtuvo el lugar #9 en The 2019 ICPC Mexico Finals
+1. _E3_: resolvió None problemas y obtuvo el lugar #47 (61%) en 44th Annual World Finals of the International Collegiate Programming Contest
+1. _OWO_: resolvió 31 problemas y obtuvo el lugar #1 (100%) en The 2022 ICPC Gran Premio de Mexico
+1. _Ug+es;_: resolvió 22 problemas y obtuvo el lugar #2 (100%) en The 2022 ICPC Gran Premio de Mexico
+1. _E3_: resolvió 7 problemas y obtuvo el lugar #5 (99%) en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _E3_: resolvió 7 problemas y obtuvo el lugar #6 (99%) en The 2018 ICPC Mexico and Central America Finals
+1. _Hypercube Destroyers_: resolvió 6 problemas y obtuvo el lugar #9 (99%) en The 2019 ICPC Mexico Finals
+1. _JoJoJo’S_: resolvió 19 problemas y obtuvo el lugar #7 (99%) en The 2022 ICPC Gran Premio de Mexico
+1. _EEE_: resolvió 7 problemas y obtuvo el lugar #6 (99%) en The 2020 ICPC Mexico Finals
+1. _OWO_: resolvió 4 problemas y obtuvo el lugar #5 (99%) en The 2021 ICPC Mexico Finals
+1. _Duel a morte con coitelos_: resolvió 7 problemas y obtuvo el lugar #8 (99%) en The 2018 ICPC Mexico and Central America Finals
 
 ## Participaciones
 

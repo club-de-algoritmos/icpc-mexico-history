@@ -4,7 +4,7 @@
 
 ## Mejores 10 equipos
 
-1. _SAPNA-PONY_: resolvió 2 problemas y obtuvo el lugar #99 en The 2010 Mexico & Central America Regional Contest
+1. _SAPNA-PONY_: resolvió 2 problemas y obtuvo el lugar #99 (51%) en The 2010 Mexico & Central America Regional Contest
 
 ## Participaciones
 

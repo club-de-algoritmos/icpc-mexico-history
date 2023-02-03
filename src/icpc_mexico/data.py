@@ -26,6 +26,7 @@ class School:
     # Community this school belongs to
     community: Optional[SchoolCommunity] = None
     country: Optional[str] = None
+    state: Optional[str] = None
     # Whether this school is eligible for ICPC (not high school, not unknown, etc.)
     is_eligible: bool = True
 

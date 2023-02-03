@@ -58,7 +58,6 @@ if __name__ == '__main__':
     all_contests = _get_contests(args.refresh_contests)
     all_schools = _get_schools(args.refresh_schools, all_contests)
     queries = Queries(all_contests, all_schools)
-    all_contests = processor.compute_extra_team_results(all_contests, queries)
 
-    analyzer = Analyzer(contests=all_contests, schools=all_schools, analysis_path=_get_filename('', path='analysis'))
+    analyzer = Analyzer(queries=queries, analysis_path=_get_filename('', path='analysis'))
     analyzer.analyze()

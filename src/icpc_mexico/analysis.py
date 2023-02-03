@@ -1,19 +1,17 @@
 import os
-from collections import defaultdict
-from typing import List, Dict, Set, Tuple
+from typing import List, Set, Tuple
 
 from icpc_mexico.data import FinishedContest, ContestType, SchoolCommunity, School, MEXICO, TeamResult, Contest
 from icpc_mexico.markdown import Markdown, MarkdownFile
-from icpc_mexico.queries import get_by_type, get_best_by_school, get_school, get_by_school
+from icpc_mexico.queries import get_best_by_school, get_by_school, Queries
 from icpc_mexico.utils import normalize_as_filename, log_run_time
 
 TeamRank = Tuple[float, FinishedContest, TeamResult]
 
 
 class Analyzer:
-    def __init__(self, contests: List[FinishedContest], schools: List[School], analysis_path: str):
-        self.contests = contests
-        self.schools = schools
+    def __init__(self, queries: Queries, analysis_path: str):
+        self._queries = queries
         self.analysis_path = analysis_path
 
     def _get_filename(self, *filepath: str) -> str:
@@ -25,7 +23,7 @@ class Analyzer:
         self._analyze_community(SchoolCommunity.TECNM, 'TecNM')
         self._analyze_state('sinaloa')
 
-        mexican_schools = [school for school in self.schools if school.country == MEXICO]
+        mexican_schools = self._queries.get_schools_by_country(MEXICO)
         print(f'Analyzing {len(mexican_schools)} Mexican schools')
         for school in mexican_schools:
             self._analyze_school(school)
@@ -36,10 +34,7 @@ class Analyzer:
         with MarkdownFile(self._get_filename('mexico.md')) as markdown:
             with markdown.section('Resultados de México en el ICPC'):
                 with markdown.section('Final Mundial'):
-                    for contest in self.contests:
-                        if contest.type != ContestType.WORLD:
-                            continue
-
+                    for contest in self._queries.get_contests_by_type(ContestType.WORLD):
                         with markdown.section(contest.description()):
                             for team in contest.team_results:
                                 if team.country != 'mexico':
@@ -55,10 +50,7 @@ class Analyzer:
     def _analyze_team_rank(self, markdown: Markdown) -> None:
         honorable_teams: List[TeamRank] = []
         high_teams: List[TeamRank] = []
-        for contest in self.contests:
-            if contest.type != ContestType.WORLD:
-                continue
-
+        for contest in self._queries.get_contests_by_type(ContestType.WORLD):
             last_rank = 0
             for team in contest.team_results:
                 last_rank = max(last_rank, team.rank)
@@ -104,10 +96,7 @@ class Analyzer:
                 with markdown.section('Final Mundial'):
                     wf_school_names: Set[str] = set()
                     wf_schools: List[School] = []
-                    for contest in self.contests:
-                        if contest.type != ContestType.WORLD:
-                            continue
-
+                    for contest in self._queries.get_contests_by_type(ContestType.WORLD):
                         participations = []
                         for team in contest.team_results:
                             if team.community != community:
@@ -115,7 +104,7 @@ class Analyzer:
                             participations.append(f'#{team.rank} (#{team.country_rank} de México,'
                                                   f' resolvió {team.problems_solved}) {team.name} ({team.institution})')
 
-                            school = get_school(team.institution, self.schools)
+                            school = self._queries.get_school(team.institution)
                             if school.name not in wf_school_names:
                                 wf_school_names.add(school.name)
                                 wf_schools.append(school)
@@ -126,10 +115,7 @@ class Analyzer:
                                     markdown.bullet_point(participation)
 
                 with markdown.section('Top 5 en el regional de México'):
-                    for contest in self.contests:
-                        if contest.type != ContestType.REGIONAL:
-                            continue
-
+                    for contest in self._queries.get_contests_by_type(ContestType.REGIONAL):
                         with markdown.section(contest.description()):
                             for team in contest.team_results:
                                 if team.community != community:
@@ -147,13 +133,10 @@ class Analyzer:
                 with markdown.section('Final Mundial'):
                     wf_school_names: Set[str] = set()
                     wf_schools: List[School] = []
-                    for contest in self.contests:
-                        if contest.type != ContestType.WORLD:
-                            continue
-
+                    for contest in self._queries.get_contests_by_type(ContestType.WORLD):
                         participations = []
                         for team in contest.team_results:
-                            school = get_school(team.institution, self.schools)
+                            school = self._queries.get_school(team.institution)
                             if school is None or school.state != state:
                                 continue
                             participations.append(f'#{team.rank} (#{team.country_rank} de México,'
@@ -168,15 +151,12 @@ class Analyzer:
                                     markdown.bullet_point(participation)
 
                 with markdown.section('Top 5 en México'):
-                    for contest in self.contests:
-                        # TODO: Get overall rank to take qualifiers into account
-                        if contest.type != ContestType.REGIONAL:
-                            continue
-
+                    # TODO: Get overall rank to take qualifiers into account
+                    for contest in self._queries.get_contests_by_type(ContestType.REGIONAL):
                         contest_teams = []
                         rank = 0
                         for team in contest.team_results:
-                            school = get_school(team.institution, self.schools)
+                            school = self._queries.get_school(team.institution)
                             if school is None or school.state != state:
                                 continue
 
@@ -198,43 +178,35 @@ class Analyzer:
                                        'Gran Premio de México no están registrados oficialmente en el ICPC, '
                                        'por lo que no aparecerán aquí.')
 
-                contests_by_year: Dict[int, List[FinishedContest]] = defaultdict(list)
-                for contest in self.contests:
-                    contests_by_year[contest.year].append(contest)
-
                 teams: List[Tuple[float, Contest, TeamResult]] = []
-                for year, contests in contests_by_year.items():
-                    qualifier = (get_by_type(ContestType.GRAN_PREMIO, contests) or
-                                 get_by_type(ContestType.PROGRAMMING_BATTLE, contests))
-                    regional = get_by_type(ContestType.REGIONAL, contests)
-                    world = get_by_type(ContestType.WORLD, contests)
-                    wf_team = get_best_by_school(school, world) if world else None
-                    qualifier_teams = get_by_school(school, qualifier) if qualifier else []
-                    regional_teams = get_by_school(school, regional) if regional else []
+                for season in self._queries.contest_seasons:
+                    wf_team = get_best_by_school(school, season.world) if season.world else None
+                    qualifier_teams = get_by_school(school, season.qualifier) if season.qualifier else []
+                    regional_teams = get_by_school(school, season.regional) if season.regional else []
 
                     all_teams = []
-                    if qualifier:
-                        all_teams.extend(qualifier.team_results)
-                    if regional:
-                        all_teams.extend(regional.team_results)
+                    if season.qualifier:
+                        all_teams.extend(season.qualifier.team_results)
+                    if season.regional:
+                        all_teams.extend(season.regional.team_results)
                     all_team_names: Set[str] = set()
                     for team in all_teams:
                         all_team_names.add(team.name)
 
                     if wf_team:
-                        team_count = len(world.team_results)
+                        team_count = len(season.world.team_results)
                         percentile = (team_count - wf_team.rank) / (team_count - 1)
-                        teams.append((percentile, world, wf_team))
+                        teams.append((percentile, season.world, wf_team))
 
                     added_teams: Set[str] = set()
                     if wf_team:
                         added_teams.add(wf_team.name)
 
                     teams_with_contest: List[Tuple[TeamResult, Contest]] = []
-                    if regional:
-                        teams_with_contest.extend([(team, regional) for team in regional_teams])
-                    if qualifier:
-                        teams_with_contest.extend([(team, qualifier) for team in qualifier_teams])
+                    if season.regional:
+                        teams_with_contest.extend([(team, season.regional) for team in regional_teams])
+                    if season.qualifier:
+                        teams_with_contest.extend([(team, season.qualifier) for team in qualifier_teams])
                     for team, contest in teams_with_contest:
                         if team.name in added_teams:
                             continue
@@ -263,40 +235,34 @@ class Analyzer:
                             f' y obtuvo el lugar #{team_result.rank} ({perc}%) en {contest.name}')
 
                 with markdown.section('Participaciones'):
-                    for year, contests in contests_by_year.items():
-                        regional = get_by_type(ContestType.REGIONAL, contests)
-                        qualifier = (get_by_type(ContestType.GRAN_PREMIO, contests) or
-                                     get_by_type(ContestType.PROGRAMMING_BATTLE, contests))
-                        world = get_by_type(ContestType.WORLD, contests)
-                        wf_team = get_best_by_school(school, world) if world else None
-
-                        section_title = f'{year}-{year + 1}'
+                    for season in self._queries.contest_seasons:
+                        wf_team = get_best_by_school(school, season.world) if season.world else None
                         wf_team_desc = None
                         if wf_team:
                             wf_team_desc = (f'Avanzó a la final mundial, donde resolvió '
                                             f'{wf_team.problems_solved} problemas')
 
                         # Special case for when we have data from the world finals but not from the regional
-                        if wf_team and not regional:
-                            with markdown.section(section_title):
+                        if wf_team and not season.regional:
+                            with markdown.section(season.name):
                                 markdown.bullet_point(wf_team.name)
                                 markdown.bullet_point(wf_team_desc, indent=1)
                             continue
 
                         # Rank the teams by phase progress and contest rank (implicitly)
                         regional_teams: List[(TeamResult, str)] = []
-                        if regional:
-                            regional_teams = [(school, 'Regional') for school in get_by_school(school, regional)]
+                        if season.regional:
+                            regional_teams = [(school, 'Regional') for school in get_by_school(school, season.regional)]
                         qualifier_teams: List[(TeamResult, str)] = []
-                        if qualifier:
-                            qualifier_teams = [(school, 'Clasificatorio') for school in get_by_school(school, qualifier)]
+                        if season.qualifier:
+                            qualifier_teams = [(school, 'Clasificatorio') for school in get_by_school(school, season.qualifier)]
                         year_teams = regional_teams + qualifier_teams
 
                         if not year_teams:
                             # School did not participate this year
                             continue
 
-                        with markdown.section(section_title):
+                        with markdown.section(season.name):
                             # Only show the top appearance of every team
                             seen_teams: Set[str] = set()
                             for team, contest_type in year_teams:

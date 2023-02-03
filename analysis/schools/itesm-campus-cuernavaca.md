@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #10 Los que no vinieron, resolvió 4 problemas en The 2021 ICPC Mexico Finals
-- #12 Los que no vinieron, resolvió 5 problemas en The 2020 ICPC Mexico Finals
-- #17 javaglets, resolvió 2 problemas en The 2004 ACM Mexico and Central America Programming Contest
-- #18 Chevaliers, resolvió 3 problemas en The 2006 ACM Mexico and Central America Programming Contest
-- #23 Cancer, resolvió 3 problemas en The 2008 Mexico & Central America Contest
-- #26 RAM, resolvió 4 problemas en The 2018 ICPC Mexico and Central America Finals
-- #35 Cuernavaca, resolvió 1 problemas en The 2003 ACM Mexico and Central America Programming Contest
-- #43 Los que no vinieron, resolvió 1 problemas en The 2019 ICPC Mexico Finals
-- #72 Le Cancer, resolvió 1 problemas en The 2006 ACM Mexico and Central America Programming Contest
-- #82 S.T.A.R.S. , resolvió 1 problemas en The 2008 Mexico & Central America Contest
+1. _Los que no vinieron_: resolvió 4 problemas y obtuvo el lugar #10 en The 2021 ICPC Mexico Finals
+1. _Los que no vinieron_: resolvió 5 problemas y obtuvo el lugar #12 en The 2020 ICPC Mexico Finals
+1. _javaglets_: resolvió 2 problemas y obtuvo el lugar #17 en The 2004 ACM Mexico and Central America Programming Contest
+1. _Chevaliers_: resolvió 3 problemas y obtuvo el lugar #18 en The 2006 ACM Mexico and Central America Programming Contest
+1. _Cancer_: resolvió 3 problemas y obtuvo el lugar #23 en The 2008 Mexico & Central America Contest
+1. _RAM_: resolvió 4 problemas y obtuvo el lugar #26 en The 2018 ICPC Mexico and Central America Finals
+1. _Cuernavaca_: resolvió 1 problemas y obtuvo el lugar #35 en The 2003 ACM Mexico and Central America Programming Contest
+1. _Los que no vinieron_: resolvió 1 problemas y obtuvo el lugar #43 en The 2019 ICPC Mexico Finals
+1. _Le Cancer_: resolvió 1 problemas y obtuvo el lugar #72 en The 2006 ACM Mexico and Central America Programming Contest
+1. _S.T.A.R.S. _: resolvió 1 problemas y obtuvo el lugar #82 en The 2008 Mexico & Central America Contest
 
 ## Participaciones
 

@@ -2,15 +2,15 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #95 CRUX, resolvió 0 problemas en The 2013 Mexico & Central America Regional Contest
-- #95 Kaus, resolvió 0 problemas en The 2013 Mexico & Central America Regional Contest
-- #95 POLARIS, resolvió 0 problemas en The 2013 Mexico & Central America Regional Contest
-- #104 Antrax, resolvió 0 problemas en The 2011 Mexico & Central America Regional Contest
-- #104 Back Track, resolvió 0 problemas en The 2011 Mexico & Central America Regional Contest
-- #134 alfa, resolvió 0 problemas en The 2012 Mexico & Central America Regional Contest
-- #134 beta, resolvió 0 problemas en The 2012 Mexico & Central America Regional Contest
+1. _CRUX_: resolvió 0 problemas y obtuvo el lugar #95 en The 2013 Mexico & Central America Regional Contest
+1. _Kaus_: resolvió 0 problemas y obtuvo el lugar #95 en The 2013 Mexico & Central America Regional Contest
+1. _POLARIS_: resolvió 0 problemas y obtuvo el lugar #95 en The 2013 Mexico & Central America Regional Contest
+1. _Antrax_: resolvió 0 problemas y obtuvo el lugar #104 en The 2011 Mexico & Central America Regional Contest
+1. _Back Track_: resolvió 0 problemas y obtuvo el lugar #104 en The 2011 Mexico & Central America Regional Contest
+1. _alfa_: resolvió 0 problemas y obtuvo el lugar #134 en The 2012 Mexico & Central America Regional Contest
+1. _beta_: resolvió 0 problemas y obtuvo el lugar #134 en The 2012 Mexico & Central America Regional Contest
 
 ## Participaciones
 

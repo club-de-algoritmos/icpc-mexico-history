@@ -2,9 +2,9 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #75 #TeamNavajas//, resolvió 1 problemas en The 2018 ICPC Mexico and Central America Finals
+1. _#TeamNavajas//_: resolvió 1 problemas y obtuvo el lugar #75 en The 2018 ICPC Mexico and Central America Finals
 
 ## Participaciones
 

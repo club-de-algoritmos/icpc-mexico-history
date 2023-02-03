@@ -2,14 +2,14 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #33 Kachibombos ++, resolvió 3 problemas en The 2008 Mexico & Central America Contest
-- #51 Ti-Tanis, resolvió 1 problemas en The 2019 ICPC Mexico Finals
-- #66 Kachibombos ++, resolvió 1 problemas en The 2009 Mexico & Central America Contest
-- #75 Los 11 Mosqueteros, resolvió 1 problemas en The 2009 Mexico & Central America Contest
-- #104 1UP, resolvió 0 problemas en The 2011 Mexico & Central America Regional Contest
-- #114 STONE CODE, resolvió 1 problemas en The 2010 Mexico & Central America Regional Contest
+1. _Kachibombos ++_: resolvió 3 problemas y obtuvo el lugar #33 en The 2008 Mexico & Central America Contest
+1. _Ti-Tanis_: resolvió 1 problemas y obtuvo el lugar #51 en The 2019 ICPC Mexico Finals
+1. _Kachibombos ++_: resolvió 1 problemas y obtuvo el lugar #66 en The 2009 Mexico & Central America Contest
+1. _Los 11 Mosqueteros_: resolvió 1 problemas y obtuvo el lugar #75 en The 2009 Mexico & Central America Contest
+1. _1UP_: resolvió 0 problemas y obtuvo el lugar #104 en The 2011 Mexico & Central America Regional Contest
+1. _STONE CODE_: resolvió 1 problemas y obtuvo el lugar #114 en The 2010 Mexico & Central America Regional Contest
 
 ## Participaciones
 

@@ -2,10 +2,10 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #34 upcode, resolvió 2 problemas en The 2014 ACM-ICPC Mexico and Central America Finals
-- #77 UPQROO Cancún, resolvió 2 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _upcode_: resolvió 2 problemas y obtuvo el lugar #34 en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _UPQROO Cancún_: resolvió 2 problemas y obtuvo el lugar #77 en The 2016 ACM-ICPC Mexico and Central America Finals
 
 ## Participaciones
 

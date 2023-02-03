@@ -2,10 +2,10 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #55 Lobas, resolvió 0 problemas en The 2001 ACM Mexico and Central America Programming Contest
-- #55 Lobos, resolvió 0 problemas en The 2001 ACM Mexico and Central America Programming Contest
+1. _Lobas_: resolvió 0 problemas y obtuvo el lugar #55 en The 2001 ACM Mexico and Central America Programming Contest
+1. _Lobos_: resolvió 0 problemas y obtuvo el lugar #55 en The 2001 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #24 Cuervo Fénix, resolvió 1 problemas en The 2001 ACM Mexico and Central America Programming Contest
-- #27 ITNL - 1, resolvió 0 problemas en The 2002 ACM Mexico and Central America Programming Contest
-- #27 ITNL - 2, resolvió 0 problemas en The 2002 ACM Mexico and Central America Programming Contest
-- #39 A verdad me engañe, resolvió 3 problemas en The 2020 ICPC Mexico Finals
-- #43 Rule34, resolvió 1 problemas en The 2013 Mexico & Central America Regional Contest
-- #48 The 3 Elements, resolvió 2 problemas en The 2008 Mexico & Central America Contest
-- #50 0xBests, resolvió 0 problemas en The 2021 ICPC Mexico Finals
-- #55 ARKADIC, resolvió 0 problemas en The 2001 ACM Mexico and Central America Programming Contest
-- #57 C and C, resolvió 1 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #59 Bloques de Lego, resolvió 2 problemas en The 2010 Mexico & Central America Regional Contest
+1. _Cuervo Fénix_: resolvió 1 problemas y obtuvo el lugar #24 en The 2001 ACM Mexico and Central America Programming Contest
+1. _ITNL - 1_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
+1. _ITNL - 2_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
+1. _A verdad me engañe_: resolvió 3 problemas y obtuvo el lugar #39 en The 2020 ICPC Mexico Finals
+1. _Rule34_: resolvió 1 problemas y obtuvo el lugar #43 en The 2013 Mexico & Central America Regional Contest
+1. _The 3 Elements_: resolvió 2 problemas y obtuvo el lugar #48 en The 2008 Mexico & Central America Contest
+1. _0xBests_: resolvió 0 problemas y obtuvo el lugar #50 en The 2021 ICPC Mexico Finals
+1. _ARKADIC_: resolvió 0 problemas y obtuvo el lugar #55 en The 2001 ACM Mexico and Central America Programming Contest
+1. _C and C_: resolvió 1 problemas y obtuvo el lugar #57 en The 2007 ACM Mexico and Central America Programming Contest
+1. _Bloques de Lego_: resolvió 2 problemas y obtuvo el lugar #59 en The 2010 Mexico & Central America Regional Contest
 
 ## Participaciones
 

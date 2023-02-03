@@ -2,12 +2,12 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #37 Void Guys, resolvió 3 problemas en The 2020 ICPC Mexico Finals
-- #42 Los pininos, resolvió 1 problemas en The 2021 ICPC Mexico Finals
-- #43 Void guys, resolvió 1 problemas en The 2021 ICPC Mexico Finals
-- #44 BFF (Brute Force Friend's) TLE :'v, resolvió 2 problemas en The 2020 ICPC Mexico Finals
+1. _Void Guys_: resolvió 3 problemas y obtuvo el lugar #37 en The 2020 ICPC Mexico Finals
+1. _Los pininos_: resolvió 1 problemas y obtuvo el lugar #42 en The 2021 ICPC Mexico Finals
+1. _Void guys_: resolvió 1 problemas y obtuvo el lugar #43 en The 2021 ICPC Mexico Finals
+1. _BFF (Brute Force Friend's) TLE :'v_: resolvió 2 problemas y obtuvo el lugar #44 en The 2020 ICPC Mexico Finals
 
 ## Participaciones
 

@@ -2,14 +2,14 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #59 Triforce, resolvió 2 problemas en The 2015 ACM-ICPC Mexico and Central America Finals
-- #74 RAL Machine, resolvió 1 problemas en The 2015 ACM-ICPC Mexico and Central America Finals
-- #95 !Java, resolvió 0 problemas en The 2013 Mexico & Central America Regional Contest
-- #95 FreeCode, resolvió 0 problemas en The 2013 Mexico & Central America Regional Contest
-- #95 Full-Time Programmers, resolvió 0 problemas en The 2013 Mexico & Central America Regional Contest
-- #95 Skynett, resolvió 0 problemas en The 2013 Mexico & Central America Regional Contest
+1. _Triforce_: resolvió 2 problemas y obtuvo el lugar #59 en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _RAL Machine_: resolvió 1 problemas y obtuvo el lugar #74 en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _!Java_: resolvió 0 problemas y obtuvo el lugar #95 en The 2013 Mexico & Central America Regional Contest
+1. _FreeCode_: resolvió 0 problemas y obtuvo el lugar #95 en The 2013 Mexico & Central America Regional Contest
+1. _Full-Time Programmers_: resolvió 0 problemas y obtuvo el lugar #95 en The 2013 Mexico & Central America Regional Contest
+1. _Skynett_: resolvió 0 problemas y obtuvo el lugar #95 en The 2013 Mexico & Central America Regional Contest
 
 ## Participaciones
 

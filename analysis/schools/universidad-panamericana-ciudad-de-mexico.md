@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #17 UPMX2, resolvió 2 problemas en The 2001 ACM Mexico and Central America Programming Contest
-- #23 A* Rules, resolvió 2 problemas en The 2004 ACM Mexico and Central America Programming Contest
-- #25 yamerito, resolvió 1 problemas en The 2002 ACM Mexico and Central America Programming Contest
-- #27 NEUTRINOS, resolvió 0 problemas en The 2002 ACM Mexico and Central America Programming Contest
-- #37 ACM's Guild, resolvió 2 problemas en The 2006 ACM Mexico and Central America Programming Contest
-- #45 UPMX1, resolvió 1 problemas en The 2001 ACM Mexico and Central America Programming Contest
-- #67 Courage, resolvió 1 problemas en The 2005 ACM Mexico and Central America Programming Contest
-- #71 Camarelos Corp., resolvió 1 problemas en The 2005 ACM Mexico and Central America Programming Contest
-- #83 Quantum, resolvió 1 problemas en The 2004 ACM Mexico and Central America Programming Contest
-- #85 Compilers, resolvió 0 problemas en The 2006 ACM Mexico and Central America Programming Contest
+1. _UPMX2_: resolvió 2 problemas y obtuvo el lugar #17 en The 2001 ACM Mexico and Central America Programming Contest
+1. _A* Rules_: resolvió 2 problemas y obtuvo el lugar #23 en The 2004 ACM Mexico and Central America Programming Contest
+1. _yamerito_: resolvió 1 problemas y obtuvo el lugar #25 en The 2002 ACM Mexico and Central America Programming Contest
+1. _NEUTRINOS_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
+1. _ACM's Guild_: resolvió 2 problemas y obtuvo el lugar #37 en The 2006 ACM Mexico and Central America Programming Contest
+1. _UPMX1_: resolvió 1 problemas y obtuvo el lugar #45 en The 2001 ACM Mexico and Central America Programming Contest
+1. _Courage_: resolvió 1 problemas y obtuvo el lugar #67 en The 2005 ACM Mexico and Central America Programming Contest
+1. _Camarelos Corp._: resolvió 1 problemas y obtuvo el lugar #71 en The 2005 ACM Mexico and Central America Programming Contest
+1. _Quantum_: resolvió 1 problemas y obtuvo el lugar #83 en The 2004 ACM Mexico and Central America Programming Contest
+1. _Compilers_: resolvió 0 problemas y obtuvo el lugar #85 en The 2006 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #4 EliteC, resolvió 4 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #5 Elite_C, resolvió 4 problemas en The 2006 ACM Mexico and Central America Programming Contest
-- #15 Nosotros, resolvió 3 problemas en The 2004 ACM Mexico and Central America Programming Contest
-- #18 EliteC, resolvió 3 problemas en The 2008 Mexico & Central America Contest
-- #35 nosotros, resolvió 2 problemas en The 2006 ACM Mexico and Central America Programming Contest
-- #42 Bit-less, resolvió 2 problemas en The 2006 ACM Mexico and Central America Programming Contest
-- #61 ORIONES, resolvió 0 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #76 Nabucodonosor, resolvió 1 problemas en The 2004 ACM Mexico and Central America Programming Contest
-- #84 AlphaTeam, resolvió 1 problemas en The 2008 Mexico & Central America Contest
-- #85 Cabezas de Jarro, resolvió 0 problemas en The 2005 ACM Mexico and Central America Programming Contest
+1. _EliteC_: resolvió 4 problemas y obtuvo el lugar #4 en The 2007 ACM Mexico and Central America Programming Contest
+1. _Elite_C_: resolvió 4 problemas y obtuvo el lugar #5 en The 2006 ACM Mexico and Central America Programming Contest
+1. _Nosotros_: resolvió 3 problemas y obtuvo el lugar #15 en The 2004 ACM Mexico and Central America Programming Contest
+1. _EliteC_: resolvió 3 problemas y obtuvo el lugar #18 en The 2008 Mexico & Central America Contest
+1. _nosotros_: resolvió 2 problemas y obtuvo el lugar #35 en The 2006 ACM Mexico and Central America Programming Contest
+1. _Bit-less_: resolvió 2 problemas y obtuvo el lugar #42 en The 2006 ACM Mexico and Central America Programming Contest
+1. _ORIONES_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
+1. _Nabucodonosor_: resolvió 1 problemas y obtuvo el lugar #76 en The 2004 ACM Mexico and Central America Programming Contest
+1. _AlphaTeam_: resolvió 1 problemas y obtuvo el lugar #84 en The 2008 Mexico & Central America Contest
+1. _Cabezas de Jarro_: resolvió 0 problemas y obtuvo el lugar #85 en The 2005 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

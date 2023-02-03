@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #57 Tec Madero, resolvió 0 problemas en The 2002 ACM Programming Contest World Finals
-- #60 IT. Madero, resolvió 0 problemas en The 2001 ACM Programming Contest World Finals
-- #4 ITCM1, resolvió 2 problemas en The 2002 ACM Mexico and Central America Programming Contest
-- #9 ITCM 4, resolvió 2 problemas en The 2001 ACM Mexico and Central America Programming Contest
-- #9 Javadabadoo, resolvió 4 problemas en The 2012 Mexico & Central America Regional Contest
-- #10 Tec Madero 3, resolvió 2 problemas en The 2001 ACM Mexico and Central America Programming Contest
-- #13 ITCM3- The Ants, resolvió 2 problemas en The 2003 ACM Mexico and Central America Programming Contest
-- #13 HyVent, resolvió 4 problemas en The 2012 Mexico & Central America Regional Contest
-- #17 ITCM4 - Aztec Warriors, resolvió 1 problemas en The 2003 ACM Mexico and Central America Programming Contest
-- #20 Tec Madero 2, resolvió 1 problemas en The 2001 ACM Mexico and Central America Programming Contest
+1. _Tec Madero_: resolvió 0 problemas y obtuvo el lugar #57 en The 2002 ACM Programming Contest World Finals
+1. _IT. Madero_: resolvió 0 problemas y obtuvo el lugar #60 en The 2001 ACM Programming Contest World Finals
+1. _ITCM1_: resolvió 2 problemas y obtuvo el lugar #4 en The 2002 ACM Mexico and Central America Programming Contest
+1. _ITCM 4_: resolvió 2 problemas y obtuvo el lugar #9 en The 2001 ACM Mexico and Central America Programming Contest
+1. _Javadabadoo_: resolvió 4 problemas y obtuvo el lugar #9 en The 2012 Mexico & Central America Regional Contest
+1. _Tec Madero 3_: resolvió 2 problemas y obtuvo el lugar #10 en The 2001 ACM Mexico and Central America Programming Contest
+1. _ITCM3- The Ants_: resolvió 2 problemas y obtuvo el lugar #13 en The 2003 ACM Mexico and Central America Programming Contest
+1. _HyVent_: resolvió 4 problemas y obtuvo el lugar #13 en The 2012 Mexico & Central America Regional Contest
+1. _ITCM4 - Aztec Warriors_: resolvió 1 problemas y obtuvo el lugar #17 en The 2003 ACM Mexico and Central America Programming Contest
+1. _Tec Madero 2_: resolvió 1 problemas y obtuvo el lugar #20 en The 2001 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

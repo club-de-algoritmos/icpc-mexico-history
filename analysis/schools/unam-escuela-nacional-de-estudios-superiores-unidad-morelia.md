@@ -2,16 +2,16 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #13 La cabaña del tio Raggi, resolvió 3 problemas en The 2017 ACM-ICPC Mexico and Central America Finals
-- #27 BatchNorm3d, resolvió 3 problemas en The 2019 ICPC Mexico Finals
-- #33 Tupla de Camarones, resolvió 3 problemas en The 2018 ICPC Mexico and Central America Finals
-- #34 La Tremenda Chimichanga, resolvió 2 problemas en The 2021 ICPC Mexico Finals
-- #37 ProgramaLovers, resolvió 2 problemas en The 2019 ICPC Mexico Finals
-- #42 Los de arriba son tramposos, resolvió 2 problemas en The 2020 ICPC Mexico Finals
-- #42 Los Horchatos, resolvió 3 problemas en The 2018 ICPC Mexico and Central America Finals
-- #47 Las neuronas, resolvió 1 problemas en The 2019 ICPC Mexico Finals
+1. _La cabaña del tio Raggi_: resolvió 3 problemas y obtuvo el lugar #13 en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _BatchNorm3d_: resolvió 3 problemas y obtuvo el lugar #27 en The 2019 ICPC Mexico Finals
+1. _Tupla de Camarones_: resolvió 3 problemas y obtuvo el lugar #33 en The 2018 ICPC Mexico and Central America Finals
+1. _La Tremenda Chimichanga_: resolvió 2 problemas y obtuvo el lugar #34 en The 2021 ICPC Mexico Finals
+1. _ProgramaLovers_: resolvió 2 problemas y obtuvo el lugar #37 en The 2019 ICPC Mexico Finals
+1. _Los de arriba son tramposos_: resolvió 2 problemas y obtuvo el lugar #42 en The 2020 ICPC Mexico Finals
+1. _Los Horchatos_: resolvió 3 problemas y obtuvo el lugar #42 en The 2018 ICPC Mexico and Central America Finals
+1. _Las neuronas_: resolvió 1 problemas y obtuvo el lugar #47 en The 2019 ICPC Mexico Finals
 
 ## Participaciones
 

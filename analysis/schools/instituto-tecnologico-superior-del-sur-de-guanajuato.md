@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #63 #define TriLCI(404.0) :v, resolvió 2 problemas en 43rd Annual World Finals of the International Collegiate Programming Contest
-- #3 #define TriLCI(404.0) :v, resolvió 6 problemas en The 2019 ICPC Mexico Finals
-- #8 ITSUR-MIXLANG CODERS, resolvió 3 problemas en The 2013 Mexico & Central America Regional Contest
-- #8 define TriLCI 404, resolvió 5 problemas en The 2017 ACM-ICPC Mexico and Central America Finals
-- #10 ITSUR MIX LANG CODERS, resolvió 5 problemas en The 2014 ACM-ICPC Mexico and Central America Finals
-- #11 Laughing Coffee, resolvió 4 problemas en The 2015 ACM-ICPC Mexico and Central America Finals
-- #14 ITSUR MIX LANG COFFEE, resolvió 4 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
-- #24 Another Day, another AC, resolvió 3 problemas en The 2019 ICPC Mexico Finals
-- #29 ITSUR_1, resolvió 3 problemas en The 2012 Mexico & Central America Regional Contest
-- #29 010 girls & 001 Mike, resolvió 4 problemas en The 2020 ICPC Mexico Finals
+1. _#define TriLCI(404.0) :v_: resolvió 2 problemas y obtuvo el lugar #63 en 43rd Annual World Finals of the International Collegiate Programming Contest
+1. _#define TriLCI(404.0) :v_: resolvió 6 problemas y obtuvo el lugar #3 en The 2019 ICPC Mexico Finals
+1. _ITSUR-MIXLANG CODERS_: resolvió 3 problemas y obtuvo el lugar #8 en The 2013 Mexico & Central America Regional Contest
+1. _define TriLCI 404_: resolvió 5 problemas y obtuvo el lugar #8 en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _ITSUR MIX LANG CODERS_: resolvió 5 problemas y obtuvo el lugar #10 en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _Laughing Coffee_: resolvió 4 problemas y obtuvo el lugar #11 en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _ITSUR MIX LANG COFFEE_: resolvió 4 problemas y obtuvo el lugar #14 en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _Another Day, another AC_: resolvió 3 problemas y obtuvo el lugar #24 en The 2019 ICPC Mexico Finals
+1. _ITSUR_1_: resolvió 3 problemas y obtuvo el lugar #29 en The 2012 Mexico & Central America Regional Contest
+1. _010 girls & 001 Mike_: resolvió 4 problemas y obtuvo el lugar #29 en The 2020 ICPC Mexico Finals
 
 ## Participaciones
 

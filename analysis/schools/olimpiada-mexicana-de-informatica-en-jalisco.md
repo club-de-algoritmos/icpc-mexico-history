@@ -2,12 +2,12 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #34 OMIJal_Prepa, resolvió 3 problemas en The 2011 Mexico & Central America Regional Contest
-- #80 OMIJAL - Gira Jalisco, resolvió 1 problemas en The 2009 Mexico & Central America Contest
-- #101 OMIJAL - ASFG, resolvió 0 problemas en The 2008 Mexico & Central America Contest
-- #156 OMIJal - Preparatoria, resolvió 0 problemas en The 2010 Mexico & Central America Regional Contest
+1. _OMIJal_Prepa_: resolvió 3 problemas y obtuvo el lugar #34 en The 2011 Mexico & Central America Regional Contest
+1. _OMIJAL - Gira Jalisco_: resolvió 1 problemas y obtuvo el lugar #80 en The 2009 Mexico & Central America Contest
+1. _OMIJAL - ASFG_: resolvió 0 problemas y obtuvo el lugar #101 en The 2008 Mexico & Central America Contest
+1. _OMIJal - Preparatoria_: resolvió 0 problemas y obtuvo el lugar #156 en The 2010 Mexico & Central America Regional Contest
 
 ## Participaciones
 

@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #14 Smash coders, resolvió 3 problemas en The 2008 Mexico & Central America Contest
-- #29 Big Blue Team, resolvió 3 problemas en The 2010 Mexico & Central America Regional Contest
-- #30 Null team, resolvió 3 problemas en The 2008 Mexico & Central America Contest
-- #41 Team.name = null;, resolvió 2 problemas en The 2009 Mexico & Central America Contest
-- #61 FORZA ITIC 2, resolvió 0 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #61 Overclocking, resolvió 0 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #79 AIO, resolvió 1 problemas en The 2013 Mexico & Central America Regional Contest
-- #101 JM++, resolvió 0 problemas en The 2008 Mexico & Central America Contest
-- #156 Javasalir, resolvió 0 problemas en The 2010 Mexico & Central America Regional Contest
-- #156 NullCoders, resolvió 0 problemas en The 2010 Mexico & Central America Regional Contest
+1. _Smash coders_: resolvió 3 problemas y obtuvo el lugar #14 en The 2008 Mexico & Central America Contest
+1. _Big Blue Team_: resolvió 3 problemas y obtuvo el lugar #29 en The 2010 Mexico & Central America Regional Contest
+1. _Null team_: resolvió 3 problemas y obtuvo el lugar #30 en The 2008 Mexico & Central America Contest
+1. _Team.name = null;_: resolvió 2 problemas y obtuvo el lugar #41 en The 2009 Mexico & Central America Contest
+1. _FORZA ITIC 2_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
+1. _Overclocking_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
+1. _AIO_: resolvió 1 problemas y obtuvo el lugar #79 en The 2013 Mexico & Central America Regional Contest
+1. _JM++_: resolvió 0 problemas y obtuvo el lugar #101 en The 2008 Mexico & Central America Contest
+1. _Javasalir_: resolvió 0 problemas y obtuvo el lugar #156 en The 2010 Mexico & Central America Regional Contest
+1. _NullCoders_: resolvió 0 problemas y obtuvo el lugar #156 en The 2010 Mexico & Central America Regional Contest
 
 ## Participaciones
 

@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #103 Peludos, resolvió 0 problemas en 38th Annual World Finals of the ACM International Collegiate Programming Contest
-- #110 Peludos, resolvió 2 problemas en 39th Annual World Finals of the ACM International Collegiate Programming Contest
-- #3 Peludos, resolvió 5 problemas en The 2012 Mexico & Central America Regional Contest
-- #7 Leulz, resolvió 4 problemas en The 2015 ACM-ICPC Mexico and Central America Finals
-- #15 Epsilon, resolvió 4 problemas en The 2014 ACM-ICPC Mexico and Central America Finals
-- #15 cagUAA++, resolvió 4 problemas en The 2020 ICPC Mexico Finals
-- #19 Leviathan, resolvió 2 problemas en The 2013 Mexico & Central America Regional Contest
-- #21 nac-OS, resolvió 2 problemas en The 2017 ACM-ICPC Mexico and Central America Finals
-- #24 Team Puzzles, resolvió 3 problemas en The 2021 ICPC Mexico Finals
-- #24 WA de WAccepted, resolvió 4 problemas en The 2018 ICPC Mexico and Central America Finals
+1. _Peludos_: resolvió 0 problemas y obtuvo el lugar #103 en 38th Annual World Finals of the ACM International Collegiate Programming Contest
+1. _Peludos_: resolvió 2 problemas y obtuvo el lugar #110 en 39th Annual World Finals of the ACM International Collegiate Programming Contest
+1. _Peludos_: resolvió 5 problemas y obtuvo el lugar #3 en The 2012 Mexico & Central America Regional Contest
+1. _Leulz_: resolvió 4 problemas y obtuvo el lugar #7 en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _Epsilon_: resolvió 4 problemas y obtuvo el lugar #15 en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _cagUAA++_: resolvió 4 problemas y obtuvo el lugar #15 en The 2020 ICPC Mexico Finals
+1. _Leviathan_: resolvió 2 problemas y obtuvo el lugar #19 en The 2013 Mexico & Central America Regional Contest
+1. _nac-OS_: resolvió 2 problemas y obtuvo el lugar #21 en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _Team Puzzles_: resolvió 3 problemas y obtuvo el lugar #24 en The 2021 ICPC Mexico Finals
+1. _WA de WAccepted_: resolvió 4 problemas y obtuvo el lugar #24 en The 2018 ICPC Mexico and Central America Finals
 
 ## Participaciones
 

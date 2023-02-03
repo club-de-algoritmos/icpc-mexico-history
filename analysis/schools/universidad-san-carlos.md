@@ -2,9 +2,9 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #98 CIUSC, resolvió 1 problemas en The 2008 Mexico & Central America Contest
+1. _CIUSC_: resolvió 1 problemas y obtuvo el lugar #98 en The 2008 Mexico & Central America Contest
 
 ## Participaciones
 

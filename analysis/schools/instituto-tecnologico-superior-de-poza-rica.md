@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #27 TEC POZA RICA, resolvió 0 problemas en The 2002 ACM Mexico and Central America Programming Contest
-- #37 ITSPR1, resolvió 3 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
-- #38 ITSPR DEVELOPERS, resolvió 2 problemas en The 2004 ACM Mexico and Central America Programming Contest
-- #39 ITSPR-3, resolvió 3 problemas en The 2010 Mexico & Central America Regional Contest
-- #41 ITS Poza Rica, resolvió 0 problemas en The 2003 ACM Mexico and Central America Programming Contest
-- #42 ITSPR-1, resolvió 2 problemas en The 2011 Mexico & Central America Regional Contest
-- #49 itspr, resolvió 2 problemas en The 2008 Mexico & Central America Contest
-- #51 ITSPR2, resolvió 1 problemas en The 2014 ACM-ICPC Mexico and Central America Finals
-- #55 TECPOZAR, resolvió 0 problemas en The 2001 ACM Mexico and Central America Programming Contest
-- #55 Eclipse, resolvió 1 problemas en The 2007 ACM Mexico and Central America Programming Contest
+1. _TEC POZA RICA_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
+1. _ITSPR1_: resolvió 3 problemas y obtuvo el lugar #37 en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _ITSPR DEVELOPERS_: resolvió 2 problemas y obtuvo el lugar #38 en The 2004 ACM Mexico and Central America Programming Contest
+1. _ITSPR-3_: resolvió 3 problemas y obtuvo el lugar #39 en The 2010 Mexico & Central America Regional Contest
+1. _ITS Poza Rica_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
+1. _ITSPR-1_: resolvió 2 problemas y obtuvo el lugar #42 en The 2011 Mexico & Central America Regional Contest
+1. _itspr_: resolvió 2 problemas y obtuvo el lugar #49 en The 2008 Mexico & Central America Contest
+1. _ITSPR2_: resolvió 1 problemas y obtuvo el lugar #51 en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _TECPOZAR_: resolvió 0 problemas y obtuvo el lugar #55 en The 2001 ACM Mexico and Central America Programming Contest
+1. _Eclipse_: resolvió 1 problemas y obtuvo el lugar #55 en The 2007 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

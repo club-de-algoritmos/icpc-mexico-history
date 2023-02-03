@@ -2,10 +2,10 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #25 Sereno el Fullereno, resolvió 3 problemas en The 2021 ICPC Mexico Finals
-- #28 Hijos de Turing, resolvió 4 problemas en The 2020 ICPC Mexico Finals
+1. _Sereno el Fullereno_: resolvió 3 problemas y obtuvo el lugar #25 en The 2021 ICPC Mexico Finals
+1. _Hijos de Turing_: resolvió 4 problemas y obtuvo el lugar #28 en The 2020 ICPC Mexico Finals
 
 ## Participaciones
 

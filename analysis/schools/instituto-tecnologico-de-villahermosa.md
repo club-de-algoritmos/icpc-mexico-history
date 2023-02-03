@@ -2,11 +2,11 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #27 Jawares, resolvió 0 problemas en The 2002 ACM Mexico and Central America Programming Contest
-- #41 The Matrix : Reloaded, resolvió 0 problemas en The 2003 ACM Mexico and Central America Programming Contest
-- #67 ITVM Durango, resolvió 1 problemas en The 2006 ACM Mexico and Central America Programming Contest
+1. _Jawares_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
+1. _The Matrix : Reloaded_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
+1. _ITVM Durango_: resolvió 1 problemas y obtuvo el lugar #67 en The 2006 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

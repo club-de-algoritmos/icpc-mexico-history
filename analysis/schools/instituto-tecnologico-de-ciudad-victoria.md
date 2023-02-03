@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #19 Tec Victoria 2, resolvió 1 problemas en The 2001 ACM Mexico and Central America Programming Contest
-- #26 Code Poets, resolvió 1 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #27 MAI Team, resolvió 0 problemas en The 2002 ACM Mexico and Central America Programming Contest
-- #27 X-NET, resolvió 0 problemas en The 2002 ACM Mexico and Central America Programming Contest
-- #38 Worms, resolvió 2 problemas en The 2005 ACM Mexico and Central America Programming Contest
-- #41 ITCV-1, resolvió 0 problemas en The 2003 ACM Mexico and Central America Programming Contest
-- #41 ITCV-2, resolvió 0 problemas en The 2003 ACM Mexico and Central America Programming Contest
-- #41 ITCV-3, resolvió 0 problemas en The 2003 ACM Mexico and Central America Programming Contest
-- #41 ITCV-4, resolvió 0 problemas en The 2003 ACM Mexico and Central America Programming Contest
-- #55 Tec Victoria 1, resolvió 0 problemas en The 2001 ACM Mexico and Central America Programming Contest
+1. _Tec Victoria 2_: resolvió 1 problemas y obtuvo el lugar #19 en The 2001 ACM Mexico and Central America Programming Contest
+1. _Code Poets_: resolvió 1 problemas y obtuvo el lugar #26 en The 2007 ACM Mexico and Central America Programming Contest
+1. _MAI Team_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
+1. _X-NET_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
+1. _Worms_: resolvió 2 problemas y obtuvo el lugar #38 en The 2005 ACM Mexico and Central America Programming Contest
+1. _ITCV-1_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
+1. _ITCV-2_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
+1. _ITCV-3_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
+1. _ITCV-4_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
+1. _Tec Victoria 1_: resolvió 0 problemas y obtuvo el lugar #55 en The 2001 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

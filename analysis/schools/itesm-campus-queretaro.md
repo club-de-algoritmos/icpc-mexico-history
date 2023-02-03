@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #57 Pragma, resolvió 2 problemas en 42nd Annual World Finals of the International Collegiate Programming Contest
-- #76 ITESM Queretaro Los punteros, resolvió 2 problemas en 34th Annual World Finals of the ACM International Collegiate Programming Contest
-- #1 Los punteros, resolvió 8 problemas en The 2009 Mexico & Central America Contest
-- #4 Deadly Coding Squad =), resolvió 4 problemas en The 2008 Mexico & Central America Contest
-- #5 MachineGun, resolvió 4 problemas en The 2008 Mexico & Central America Contest
-- #7 Code Templars, resolvió 4 problemas en The 2008 Mexico & Central America Contest
-- #8 Arrolladores ASCIIs, resolvió 3 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #11 lEFTaSaNeXERCISE, resolvió 5 problemas en The 2019 ICPC Mexico Finals
-- #12 wlog, resolvió 4 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
-- #13 Anonymous, resolvió 3 problemas en The 2011 Mexico & Central America Regional Contest
+1. _Pragma_: resolvió 2 problemas y obtuvo el lugar #57 en 42nd Annual World Finals of the International Collegiate Programming Contest
+1. _ITESM Queretaro Los punteros_: resolvió 2 problemas y obtuvo el lugar #76 en 34th Annual World Finals of the ACM International Collegiate Programming Contest
+1. _Los punteros_: resolvió 8 problemas y obtuvo el lugar #1 en The 2009 Mexico & Central America Contest
+1. _Deadly Coding Squad =)_: resolvió 4 problemas y obtuvo el lugar #4 en The 2008 Mexico & Central America Contest
+1. _MachineGun_: resolvió 4 problemas y obtuvo el lugar #5 en The 2008 Mexico & Central America Contest
+1. _Code Templars_: resolvió 4 problemas y obtuvo el lugar #7 en The 2008 Mexico & Central America Contest
+1. _Arrolladores ASCIIs_: resolvió 3 problemas y obtuvo el lugar #8 en The 2007 ACM Mexico and Central America Programming Contest
+1. _lEFTaSaNeXERCISE_: resolvió 5 problemas y obtuvo el lugar #11 en The 2019 ICPC Mexico Finals
+1. _wlog_: resolvió 4 problemas y obtuvo el lugar #12 en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _Anonymous_: resolvió 3 problemas y obtuvo el lugar #13 en The 2011 Mexico & Central America Regional Contest
 
 ## Participaciones
 

@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #65 U de G ACM Problem Solvers, resolvió 2 problemas en The 2008 ACM Programming Contest World Finals
-- #11 Leones de Guadalajara, resolvió 2 problemas en The 2002 ACM Mexico and Central America Programming Contest
-- #27 Patitox CUCEI, resolvió 0 problemas en The 2002 ACM Mexico and Central America Programming Contest
-- #34 AmictiaMentis, resolvió 1 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #41 Leones Rechazados, resolvió 0 problemas en The 2003 ACM Mexico and Central America Programming Contest
-- #51 Veni Programmi Victi, resolvió 1 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #61 Untitled, resolvió 0 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #85 Cuvalles UdeG, resolvió 0 problemas en The 2005 ACM Mexico and Central America Programming Contest
-- #85 Cuvallitos, resolvió 0 problemas en The 2005 ACM Mexico and Central America Programming Contest
-- #85 Valles UdeG, resolvió 1 problemas en The 2004 ACM Mexico and Central America Programming Contest
+1. _U de G ACM Problem Solvers_: resolvió 2 problemas y obtuvo el lugar #65 en The 2008 ACM Programming Contest World Finals
+1. _Leones de Guadalajara_: resolvió 2 problemas y obtuvo el lugar #11 en The 2002 ACM Mexico and Central America Programming Contest
+1. _Patitox CUCEI_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
+1. _AmictiaMentis_: resolvió 1 problemas y obtuvo el lugar #34 en The 2007 ACM Mexico and Central America Programming Contest
+1. _Leones Rechazados_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
+1. _Veni Programmi Victi_: resolvió 1 problemas y obtuvo el lugar #51 en The 2007 ACM Mexico and Central America Programming Contest
+1. _Untitled_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
+1. _Cuvalles UdeG_: resolvió 0 problemas y obtuvo el lugar #85 en The 2005 ACM Mexico and Central America Programming Contest
+1. _Cuvallitos_: resolvió 0 problemas y obtuvo el lugar #85 en The 2005 ACM Mexico and Central America Programming Contest
+1. _Valles UdeG_: resolvió 1 problemas y obtuvo el lugar #85 en The 2004 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

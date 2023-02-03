@@ -2,9 +2,9 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #33 The Conqueros, resolvió 1 problemas en The 2001 ACM Mexico and Central America Programming Contest
+1. _The Conqueros_: resolvió 1 problemas y obtuvo el lugar #33 en The 2001 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

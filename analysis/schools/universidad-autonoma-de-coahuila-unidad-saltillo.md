@@ -2,11 +2,11 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #12 Supernovas, resolvió 3 problemas en The 2017 ACM-ICPC Mexico and Central America Finals
-- #15 Los Choquistas 2.0, resolvió 5 problemas en The 2018 ICPC Mexico and Central America Finals
-- #77 Grafoliebers (╯°□°)╯︵ ɹoɹɹƎ, resolvió 1 problemas en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _Supernovas_: resolvió 3 problemas y obtuvo el lugar #12 en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _Los Choquistas 2.0_: resolvió 5 problemas y obtuvo el lugar #15 en The 2018 ICPC Mexico and Central America Finals
+1. _Grafoliebers (╯°□°)╯︵ ɹoɹɹƎ_: resolvió 1 problemas y obtuvo el lugar #77 en The 2017 ACM-ICPC Mexico and Central America Finals
 
 ## Participaciones
 

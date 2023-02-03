@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #46 LOS JAVEROS, resolvió 2 problemas en The 2012 Mexico & Central America Regional Contest
-- #77 Los Apóstoles, resolvió 1 problemas en The 2013 Mexico & Central America Regional Contest
-- #95 Los Jack's, resolvió 0 problemas en The 2013 Mexico & Central America Regional Contest
-- #95 kappa, resolvió 0 problemas en The 2013 Mexico & Central America Regional Contest
-- #104 Espartanos, resolvió 0 problemas en The 2011 Mexico & Central America Regional Contest
-- #104 LOS JAVEROS, resolvió 0 problemas en The 2011 Mexico & Central America Regional Contest
-- #104 NEOCUANTIC, resolvió 0 problemas en The 2011 Mexico & Central America Regional Contest
-- #126 MIBARRAESPACIADORANOSIRVE, resolvió 1 problemas en The 2010 Mexico & Central America Regional Contest
-- #127 NEO_CUANTIC, resolvió 1 problemas en The 2010 Mexico & Central America Regional Contest
-- #134 Birds, resolvió 0 problemas en The 2012 Mexico & Central America Regional Contest
+1. _LOS JAVEROS_: resolvió 2 problemas y obtuvo el lugar #46 en The 2012 Mexico & Central America Regional Contest
+1. _Los Apóstoles_: resolvió 1 problemas y obtuvo el lugar #77 en The 2013 Mexico & Central America Regional Contest
+1. _Los Jack's_: resolvió 0 problemas y obtuvo el lugar #95 en The 2013 Mexico & Central America Regional Contest
+1. _kappa_: resolvió 0 problemas y obtuvo el lugar #95 en The 2013 Mexico & Central America Regional Contest
+1. _Espartanos_: resolvió 0 problemas y obtuvo el lugar #104 en The 2011 Mexico & Central America Regional Contest
+1. _LOS JAVEROS_: resolvió 0 problemas y obtuvo el lugar #104 en The 2011 Mexico & Central America Regional Contest
+1. _NEOCUANTIC_: resolvió 0 problemas y obtuvo el lugar #104 en The 2011 Mexico & Central America Regional Contest
+1. _MIBARRAESPACIADORANOSIRVE_: resolvió 1 problemas y obtuvo el lugar #126 en The 2010 Mexico & Central America Regional Contest
+1. _NEO_CUANTIC_: resolvió 1 problemas y obtuvo el lugar #127 en The 2010 Mexico & Central America Regional Contest
+1. _Birds_: resolvió 0 problemas y obtuvo el lugar #134 en The 2012 Mexico & Central America Regional Contest
 
 ## Participaciones
 

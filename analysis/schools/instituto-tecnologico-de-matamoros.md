@@ -2,11 +2,11 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #61 ITM_Gorilas1, resolvió 0 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #61 ITM_Gorilas2, resolvió 0 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #85 Gorilas, resolvió 0 problemas en The 2006 ACM Mexico and Central America Programming Contest
+1. _ITM_Gorilas1_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
+1. _ITM_Gorilas2_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
+1. _Gorilas_: resolvió 0 problemas y obtuvo el lugar #85 en The 2006 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

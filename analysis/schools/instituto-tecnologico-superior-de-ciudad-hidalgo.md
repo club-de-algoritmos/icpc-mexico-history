@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #47 LoboWar, resolvió 2 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
-- #56 Sooner_Or_Later, resolvió 2 problemas en The 2015 ACM-ICPC Mexico and Central America Finals
-- #58 Last_Generation, resolvió 1 problemas en The 2014 ACM-ICPC Mexico and Central America Finals
-- #61 Jaguares, resolvió 0 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #65 Power Machine, resolvió 1 problemas en The 2006 ACM Mexico and Central America Programming Contest
-- #70 Badrock Team, resolvió 2 problemas en The 2015 ACM-ICPC Mexico and Central America Finals
-- #79 Jaguares 2, resolvió 2 problemas en The 2012 Mexico & Central America Regional Contest
-- #85 Jaguares I, resolvió 0 problemas en The 2005 ACM Mexico and Central America Programming Contest
-- #85 Jaguares II, resolvió 0 problemas en The 2005 ACM Mexico and Central America Programming Contest
-- #86 Jaguares 1, resolvió 2 problemas en The 2012 Mexico & Central America Regional Contest
+1. _LoboWar_: resolvió 2 problemas y obtuvo el lugar #47 en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _Sooner_Or_Later_: resolvió 2 problemas y obtuvo el lugar #56 en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _Last_Generation_: resolvió 1 problemas y obtuvo el lugar #58 en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _Jaguares_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
+1. _Power Machine_: resolvió 1 problemas y obtuvo el lugar #65 en The 2006 ACM Mexico and Central America Programming Contest
+1. _Badrock Team_: resolvió 2 problemas y obtuvo el lugar #70 en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _Jaguares 2_: resolvió 2 problemas y obtuvo el lugar #79 en The 2012 Mexico & Central America Regional Contest
+1. _Jaguares I_: resolvió 0 problemas y obtuvo el lugar #85 en The 2005 ACM Mexico and Central America Programming Contest
+1. _Jaguares II_: resolvió 0 problemas y obtuvo el lugar #85 en The 2005 ACM Mexico and Central America Programming Contest
+1. _Jaguares 1_: resolvió 2 problemas y obtuvo el lugar #86 en The 2012 Mexico & Central America Regional Contest
 
 ## Participaciones
 

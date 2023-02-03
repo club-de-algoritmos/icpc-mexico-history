@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #47 E3, resolvió None problemas en 44th Annual World Finals of the International Collegiate Programming Contest
-- #5 OWO, resolvió 4 problemas en The 2021 ICPC Mexico Finals
-- #5 E3, resolvió 7 problemas en The 2017 ACM-ICPC Mexico and Central America Finals
-- #6 E3, resolvió 5 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
-- #6 E3, resolvió 7 problemas en The 2018 ICPC Mexico and Central America Finals
-- #6 EEE, resolvió 7 problemas en The 2020 ICPC Mexico Finals
-- #8 Ug+es, resolvió 4 problemas en The 2021 ICPC Mexico Finals
-- #8 Perrillos, resolvió 5 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
-- #8 Duel a morte con coitelos, resolvió 7 problemas en The 2018 ICPC Mexico and Central America Finals
-- #9 Hypercube Destroyers, resolvió 6 problemas en The 2019 ICPC Mexico Finals
+1. _E3_: resolvió None problemas y obtuvo el lugar #47 en 44th Annual World Finals of the International Collegiate Programming Contest
+1. _OWO_: resolvió 4 problemas y obtuvo el lugar #5 en The 2021 ICPC Mexico Finals
+1. _E3_: resolvió 7 problemas y obtuvo el lugar #5 en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _E3_: resolvió 5 problemas y obtuvo el lugar #6 en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _E3_: resolvió 7 problemas y obtuvo el lugar #6 en The 2018 ICPC Mexico and Central America Finals
+1. _EEE_: resolvió 7 problemas y obtuvo el lugar #6 en The 2020 ICPC Mexico Finals
+1. _Ug+es_: resolvió 4 problemas y obtuvo el lugar #8 en The 2021 ICPC Mexico Finals
+1. _Perrillos_: resolvió 5 problemas y obtuvo el lugar #8 en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _Duel a morte con coitelos_: resolvió 7 problemas y obtuvo el lugar #8 en The 2018 ICPC Mexico and Central America Finals
+1. _Hypercube Destroyers_: resolvió 6 problemas y obtuvo el lugar #9 en The 2019 ICPC Mexico Finals
 
 ## Participaciones
 

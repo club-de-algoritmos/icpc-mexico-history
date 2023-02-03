@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #20 CACHARPAS, resolvió 2 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #27 Informatica-UAQ, resolvió 0 problemas en The 2002 ACM Mexico and Central America Programming Contest
-- #38 wildcat, resolvió 1 problemas en The 2003 ACM Mexico and Central America Programming Contest
-- #38 The Best Skynet, resolvió 2 problemas en The 2019 ICPC Mexico Finals
-- #39 Galacticos, resolvió 2 problemas en The 2004 ACM Mexico and Central America Programming Contest
-- #41 albertos, resolvió 0 problemas en The 2003 ACM Mexico and Central America Programming Contest
-- #41 cadavezc- -, resolvió 0 problemas en The 2003 ACM Mexico and Central America Programming Contest
-- #41 Delfinos, resolvió 1 problemas en The 2004 ACM Mexico and Central America Programming Contest
-- #41 Hattrick Team, resolvió 2 problemas en The 2006 ACM Mexico and Central America Programming Contest
-- #48 fast and fourier, resolvió 3 problemas en The 2018 ICPC Mexico and Central America Finals
+1. _CACHARPAS_: resolvió 2 problemas y obtuvo el lugar #20 en The 2007 ACM Mexico and Central America Programming Contest
+1. _Informatica-UAQ_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
+1. _wildcat_: resolvió 1 problemas y obtuvo el lugar #38 en The 2003 ACM Mexico and Central America Programming Contest
+1. _The Best Skynet_: resolvió 2 problemas y obtuvo el lugar #38 en The 2019 ICPC Mexico Finals
+1. _Galacticos_: resolvió 2 problemas y obtuvo el lugar #39 en The 2004 ACM Mexico and Central America Programming Contest
+1. _albertos_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
+1. _cadavezc- -_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
+1. _Delfinos_: resolvió 1 problemas y obtuvo el lugar #41 en The 2004 ACM Mexico and Central America Programming Contest
+1. _Hattrick Team_: resolvió 2 problemas y obtuvo el lugar #41 en The 2006 ACM Mexico and Central America Programming Contest
+1. _fast and fourier_: resolvió 3 problemas y obtuvo el lugar #48 en The 2018 ICPC Mexico and Central America Finals
 
 ## Participaciones
 

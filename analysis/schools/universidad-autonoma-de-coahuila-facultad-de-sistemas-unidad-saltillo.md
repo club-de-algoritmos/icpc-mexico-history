@@ -2,12 +2,12 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #18 The bugs, resolvió 3 problemas en The 2014 ACM-ICPC Mexico and Central America Finals
-- #98 FS - 148.212.19.18, resolvió 2 problemas en The 2010 Mexico & Central America Regional Contest
-- #142 FS - Rootkits, resolvió 1 problemas en The 2010 Mexico & Central America Regional Contest
-- #156 FS - E-link, resolvió 0 problemas en The 2010 Mexico & Central America Regional Contest
+1. _The bugs_: resolvió 3 problemas y obtuvo el lugar #18 en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _FS - 148.212.19.18_: resolvió 2 problemas y obtuvo el lugar #98 en The 2010 Mexico & Central America Regional Contest
+1. _FS - Rootkits_: resolvió 1 problemas y obtuvo el lugar #142 en The 2010 Mexico & Central America Regional Contest
+1. _FS - E-link_: resolvió 0 problemas y obtuvo el lugar #156 en The 2010 Mexico & Central America Regional Contest
 
 ## Participaciones
 

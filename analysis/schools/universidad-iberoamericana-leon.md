@@ -2,14 +2,14 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #54 Iberoleon, resolvió 1 problemas en The 2014 ACM-ICPC Mexico and Central America Finals
-- #95 ibero leon, resolvió 0 problemas en The 2013 Mexico & Central America Regional Contest
-- #104 ISC 2 Ibero León, resolvió 0 problemas en The 2011 Mexico & Central America Regional Contest
-- #116 Virtual Java León, resolvió 0 problemas en The 2009 Mexico & Central America Contest
-- #134 Best Mecatronics, resolvió 0 problemas en The 2012 Mexico & Central America Regional Contest
-- #134 Programming eWoks, resolvió 0 problemas en The 2012 Mexico & Central America Regional Contest
+1. _Iberoleon_: resolvió 1 problemas y obtuvo el lugar #54 en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _ibero leon_: resolvió 0 problemas y obtuvo el lugar #95 en The 2013 Mexico & Central America Regional Contest
+1. _ISC 2 Ibero León_: resolvió 0 problemas y obtuvo el lugar #104 en The 2011 Mexico & Central America Regional Contest
+1. _Virtual Java León_: resolvió 0 problemas y obtuvo el lugar #116 en The 2009 Mexico & Central America Contest
+1. _Best Mecatronics_: resolvió 0 problemas y obtuvo el lugar #134 en The 2012 Mexico & Central America Regional Contest
+1. _Programming eWoks_: resolvió 0 problemas y obtuvo el lugar #134 en The 2012 Mexico & Central America Regional Contest
 
 ## Participaciones
 

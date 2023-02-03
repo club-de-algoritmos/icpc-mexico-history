@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #51 Leones(0,0,0), resolvió 3 problemas en 45th Annual World Finals of the International Collegiate Programming Contest
-- #2 Leones(0,0,0), resolvió 5 problemas en The 2021 ICPC Mexico Finals
-- #6 ACM Problem Solvers, resolvió 4 problemas en The 2010 Mexico & Central America Regional Contest
-- #6 Vini Programmi Victi, resolvió 4 problemas en The 2006 ACM Mexico and Central America Programming Contest
-- #8 ACM Problem Solvers, resolvió 5 problemas en The 2009 Mexico & Central America Contest
-- #9 Digital Advance, resolvió 3 problemas en The 2005 ACM Mexico and Central America Programming Contest
-- #11 Ciberleones de Guadalajara, resolvió 2 problemas en The 2003 ACM Mexico and Central America Programming Contest
-- #13 fishbowlHead, resolvió 3 problemas en The 2004 ACM Mexico and Central America Programming Contest
-- #14 The Empire Strikes Back, resolvió 4 problemas en The 2020 ICPC Mexico Finals
-- #15 A New Hope, resolvió 3 problemas en The 2021 ICPC Mexico Finals
+1. _Leones(0,0,0)_: resolvió 3 problemas y obtuvo el lugar #51 en 45th Annual World Finals of the International Collegiate Programming Contest
+1. _Leones(0,0,0)_: resolvió 5 problemas y obtuvo el lugar #2 en The 2021 ICPC Mexico Finals
+1. _ACM Problem Solvers_: resolvió 4 problemas y obtuvo el lugar #6 en The 2010 Mexico & Central America Regional Contest
+1. _Vini Programmi Victi_: resolvió 4 problemas y obtuvo el lugar #6 en The 2006 ACM Mexico and Central America Programming Contest
+1. _ACM Problem Solvers_: resolvió 5 problemas y obtuvo el lugar #8 en The 2009 Mexico & Central America Contest
+1. _Digital Advance_: resolvió 3 problemas y obtuvo el lugar #9 en The 2005 ACM Mexico and Central America Programming Contest
+1. _Ciberleones de Guadalajara_: resolvió 2 problemas y obtuvo el lugar #11 en The 2003 ACM Mexico and Central America Programming Contest
+1. _fishbowlHead_: resolvió 3 problemas y obtuvo el lugar #13 en The 2004 ACM Mexico and Central America Programming Contest
+1. _The Empire Strikes Back_: resolvió 4 problemas y obtuvo el lugar #14 en The 2020 ICPC Mexico Finals
+1. _A New Hope_: resolvió 3 problemas y obtuvo el lugar #15 en The 2021 ICPC Mexico Finals
 
 ## Participaciones
 

@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #6 ACRUX, resolvió 4 problemas en The 2004 ACM Mexico and Central America Programming Contest
-- #6 Mezcla, resolvió 4 problemas en The 2008 Mexico & Central America Contest
-- #7 ACRUX, resolvió 3 problemas en The 2003 ACM Mexico and Central America Programming Contest
-- #9 Code Dream, resolvió 4 problemas en The 2008 Mexico & Central America Contest
-- #13 LOL, resolvió 4 problemas en The 2010 Mexico & Central America Regional Contest
-- #19 LOL, resolvió 3 problemas en The 2008 Mexico & Central America Contest
-- #21 Olimpicos, resolvió 3 problemas en The 2010 Mexico & Central America Regional Contest
-- #23 Cheerios, resolvió 3 problemas en The 2011 Mexico & Central America Regional Contest
-- #24 Parabolic Octopi, resolvió 3 problemas en The 2012 Mexico & Central America Regional Contest
-- #27 ITESO_1, resolvió 0 problemas en The 2002 ACM Mexico and Central America Programming Contest
+1. _ACRUX_: resolvió 4 problemas y obtuvo el lugar #6 en The 2004 ACM Mexico and Central America Programming Contest
+1. _Mezcla_: resolvió 4 problemas y obtuvo el lugar #6 en The 2008 Mexico & Central America Contest
+1. _ACRUX_: resolvió 3 problemas y obtuvo el lugar #7 en The 2003 ACM Mexico and Central America Programming Contest
+1. _Code Dream_: resolvió 4 problemas y obtuvo el lugar #9 en The 2008 Mexico & Central America Contest
+1. _LOL_: resolvió 4 problemas y obtuvo el lugar #13 en The 2010 Mexico & Central America Regional Contest
+1. _LOL_: resolvió 3 problemas y obtuvo el lugar #19 en The 2008 Mexico & Central America Contest
+1. _Olimpicos_: resolvió 3 problemas y obtuvo el lugar #21 en The 2010 Mexico & Central America Regional Contest
+1. _Cheerios_: resolvió 3 problemas y obtuvo el lugar #23 en The 2011 Mexico & Central America Regional Contest
+1. _Parabolic Octopi_: resolvió 3 problemas y obtuvo el lugar #24 en The 2012 Mexico & Central America Regional Contest
+1. _ITESO_1_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #56 UTMixteca NONAME, resolvió 1 problemas en The 2006 ACM Programming Contest World Finals
-- #68 grajam, resolvió 0 problemas en 33rd Annual World Finals of the ACM International Collegiate Programming Contest
-- #101 Justice League, resolvió 1 problemas en 36th Annual World Finals of the ACM International Collegiate Programming Contest
-- #74 UTMixteca Poor Dogs, resolvió 1 problemas en The 2005 ACM Programming Contest World Finals
-- #86 Poor Dogs, resolvió 0 problemas en The 2007 ACM Programming Contest World Finals
-- #4 Faith + 1, resolvió 4 problemas en The 2012 Mexico & Central America Regional Contest
-- #5 Batch Mode, resolvió 4 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #8 Anti-Grajam, resolvió 4 problemas en The 2008 Mexico & Central America Contest
-- #8 Granja, resolvió 4 problemas en The 2010 Mexico & Central America Regional Contest
-- #9 Mictlan Guardians, resolvió 2 problemas en The 2013 Mexico & Central America Regional Contest
+1. _UTMixteca NONAME_: resolvió 1 problemas y obtuvo el lugar #56 en The 2006 ACM Programming Contest World Finals
+1. _grajam_: resolvió 0 problemas y obtuvo el lugar #68 en 33rd Annual World Finals of the ACM International Collegiate Programming Contest
+1. _Justice League_: resolvió 1 problemas y obtuvo el lugar #101 en 36th Annual World Finals of the ACM International Collegiate Programming Contest
+1. _UTMixteca Poor Dogs_: resolvió 1 problemas y obtuvo el lugar #74 en The 2005 ACM Programming Contest World Finals
+1. _Poor Dogs_: resolvió 0 problemas y obtuvo el lugar #86 en The 2007 ACM Programming Contest World Finals
+1. _Faith + 1_: resolvió 4 problemas y obtuvo el lugar #4 en The 2012 Mexico & Central America Regional Contest
+1. _Batch Mode_: resolvió 4 problemas y obtuvo el lugar #5 en The 2007 ACM Mexico and Central America Programming Contest
+1. _Anti-Grajam_: resolvió 4 problemas y obtuvo el lugar #8 en The 2008 Mexico & Central America Contest
+1. _Granja_: resolvió 4 problemas y obtuvo el lugar #8 en The 2010 Mexico & Central America Regional Contest
+1. _Mictlan Guardians_: resolvió 2 problemas y obtuvo el lugar #9 en The 2013 Mexico & Central America Regional Contest
 
 ## Participaciones
 

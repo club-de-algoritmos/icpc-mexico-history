@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #41 3 Tazas de Café, resolvió 0 problemas en The 2003 ACM Mexico and Central America Programming Contest
-- #41 CESEROS, resolvió 0 problemas en The 2003 ACM Mexico and Central America Programming Contest
-- #41 Enproceso.com, resolvió 0 problemas en The 2003 ACM Mexico and Central America Programming Contest
-- #61 ESTRELLITAS ACM, resolvió 0 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #61 MAPACHE, resolvió 0 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #61 POWER BREAKER, resolvió 0 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #85 ADEM1, resolvió 0 problemas en The 2005 ACM Mexico and Central America Programming Contest
-- #85 IXOYE, resolvió 0 problemas en The 2005 ACM Mexico and Central America Programming Contest
-- #85 LOS BYTES, resolvió 0 problemas en The 2005 ACM Mexico and Central America Programming Contest
-- #85 Mitotes, resolvió 0 problemas en The 2006 ACM Mexico and Central America Programming Contest
+1. _3 Tazas de Café_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
+1. _CESEROS_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
+1. _Enproceso.com_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
+1. _ESTRELLITAS ACM_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
+1. _MAPACHE_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
+1. _POWER BREAKER_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
+1. _ADEM1_: resolvió 0 problemas y obtuvo el lugar #85 en The 2005 ACM Mexico and Central America Programming Contest
+1. _IXOYE_: resolvió 0 problemas y obtuvo el lugar #85 en The 2005 ACM Mexico and Central America Programming Contest
+1. _LOS BYTES_: resolvió 0 problemas y obtuvo el lugar #85 en The 2005 ACM Mexico and Central America Programming Contest
+1. _Mitotes_: resolvió 0 problemas y obtuvo el lugar #85 en The 2006 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

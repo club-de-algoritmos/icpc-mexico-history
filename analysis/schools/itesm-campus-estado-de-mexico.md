@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #22 ITESM CEM GaToZ LoCoZ, resolvió 0 problemas en The 2000 ACM Programming Contest World Finals
-- #60 ITESM GaToZ LoCoZ, resolvió 0 problemas en The 1999 ACM Programming Contest World Finals
-- #4 Heavy Wizardy!, resolvió 3 problemas en The 2001 ACM Mexico and Central America Programming Contest
-- #12 Bitshifters Open, resolvió 4 problemas en The 2014 ACM-ICPC Mexico and Central America Finals
-- #12 CEM 42, resolvió 4 problemas en The 2010 Mexico & Central America Regional Contest
-- #14 CEMbitshifters, resolvió 2 problemas en The 2013 Mexico & Central America Regional Contest
-- #17 Dragon Army, resolvió 1 problemas en The 2002 ACM Mexico and Central America Programming Contest
-- #22 F TLE, resolvió 3 problemas en The 2021 ICPC Mexico Finals
-- #22 Kygerand, resolvió 4 problemas en The 2018 ICPC Mexico and Central America Finals
-- #24 Bitshifters, resolvió 3 problemas en The 2011 Mexico & Central America Regional Contest
+1. _ITESM CEM GaToZ LoCoZ_: resolvió 0 problemas y obtuvo el lugar #22 en The 2000 ACM Programming Contest World Finals
+1. _ITESM GaToZ LoCoZ_: resolvió 0 problemas y obtuvo el lugar #60 en The 1999 ACM Programming Contest World Finals
+1. _Heavy Wizardy!_: resolvió 3 problemas y obtuvo el lugar #4 en The 2001 ACM Mexico and Central America Programming Contest
+1. _Bitshifters Open_: resolvió 4 problemas y obtuvo el lugar #12 en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _CEM 42_: resolvió 4 problemas y obtuvo el lugar #12 en The 2010 Mexico & Central America Regional Contest
+1. _CEMbitshifters_: resolvió 2 problemas y obtuvo el lugar #14 en The 2013 Mexico & Central America Regional Contest
+1. _Dragon Army_: resolvió 1 problemas y obtuvo el lugar #17 en The 2002 ACM Mexico and Central America Programming Contest
+1. _F TLE_: resolvió 3 problemas y obtuvo el lugar #22 en The 2021 ICPC Mexico Finals
+1. _Kygerand_: resolvió 4 problemas y obtuvo el lugar #22 en The 2018 ICPC Mexico and Central America Finals
+1. _Bitshifters_: resolvió 3 problemas y obtuvo el lugar #24 en The 2011 Mexico & Central America Regional Contest
 
 ## Participaciones
 

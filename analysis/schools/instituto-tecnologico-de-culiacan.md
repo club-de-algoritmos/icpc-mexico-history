@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #49 Turing Machines, resolvió 3 problemas en 33rd Annual World Finals of the ACM International Collegiate Programming Contest
-- #90 ITC Turing Machines, resolvió 0 problemas en The 2008 ACM Programming Contest World Finals
-- #9 JRA, resolvió 5 problemas en The 2014 ACM-ICPC Mexico and Central America Finals
-- #12 Three Bits, resolvió 4 problemas en The 2012 Mexico & Central America Regional Contest
-- #16 tec de Culiacán, resolvió 4 problemas en The 2009 Mexico & Central America Contest
-- #27 StackOverflow, resolvió 3 problemas en The 2006 ACM Mexico and Central America Programming Contest
-- #36 Ludus G++, resolvió 2 problemas en The 2021 ICPC Mexico Finals
-- #39 Dynamic, resolvió 1 problemas en The 2013 Mexico & Central America Regional Contest
-- #47 Salchipulpos, resolvió 2 problemas en The 2008 Mexico & Central America Contest
-- #48 Three Bits, resolvió 2 problemas en The 2011 Mexico & Central America Regional Contest
+1. _Turing Machines_: resolvió 3 problemas y obtuvo el lugar #49 en 33rd Annual World Finals of the ACM International Collegiate Programming Contest
+1. _ITC Turing Machines_: resolvió 0 problemas y obtuvo el lugar #90 en The 2008 ACM Programming Contest World Finals
+1. _JRA_: resolvió 5 problemas y obtuvo el lugar #9 en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _Three Bits_: resolvió 4 problemas y obtuvo el lugar #12 en The 2012 Mexico & Central America Regional Contest
+1. _tec de Culiacán_: resolvió 4 problemas y obtuvo el lugar #16 en The 2009 Mexico & Central America Contest
+1. _StackOverflow_: resolvió 3 problemas y obtuvo el lugar #27 en The 2006 ACM Mexico and Central America Programming Contest
+1. _Ludus G++_: resolvió 2 problemas y obtuvo el lugar #36 en The 2021 ICPC Mexico Finals
+1. _Dynamic_: resolvió 1 problemas y obtuvo el lugar #39 en The 2013 Mexico & Central America Regional Contest
+1. _Salchipulpos_: resolvió 2 problemas y obtuvo el lugar #47 en The 2008 Mexico & Central America Contest
+1. _Three Bits_: resolvió 2 problemas y obtuvo el lugar #48 en The 2011 Mexico & Central America Regional Contest
 
 ## Participaciones
 

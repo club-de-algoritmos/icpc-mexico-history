@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #44 TTTeam, resolvió 3 problemas en The 2010 Mexico & Central America Regional Contest
-- #49 BugHunterAddicts, resolvió 1 problemas en The 2021 ICPC Mexico Finals
-- #61 Temerarios, resolvió 0 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #81 Arigato, resolvió 1 problemas en The 2009 Mexico & Central America Contest
-- #96 QueEquipo, resolvió 1 problemas en The 2008 Mexico & Central America Contest
-- #101 CualEquipo, resolvió 0 problemas en The 2008 Mexico & Central America Contest
-- #101 WhataTeam, resolvió 0 problemas en The 2008 Mexico & Central America Contest
-- #116 QueEquipo, resolvió 0 problemas en The 2009 Mexico & Central America Contest
-- #119 losrivas, resolvió 1 problemas en The 2012 Mexico & Central America Regional Contest
-- #121 losparces, resolvió 1 problemas en The 2012 Mexico & Central America Regional Contest
+1. _TTTeam_: resolvió 3 problemas y obtuvo el lugar #44 en The 2010 Mexico & Central America Regional Contest
+1. _BugHunterAddicts_: resolvió 1 problemas y obtuvo el lugar #49 en The 2021 ICPC Mexico Finals
+1. _Temerarios_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
+1. _Arigato_: resolvió 1 problemas y obtuvo el lugar #81 en The 2009 Mexico & Central America Contest
+1. _QueEquipo_: resolvió 1 problemas y obtuvo el lugar #96 en The 2008 Mexico & Central America Contest
+1. _CualEquipo_: resolvió 0 problemas y obtuvo el lugar #101 en The 2008 Mexico & Central America Contest
+1. _WhataTeam_: resolvió 0 problemas y obtuvo el lugar #101 en The 2008 Mexico & Central America Contest
+1. _QueEquipo_: resolvió 0 problemas y obtuvo el lugar #116 en The 2009 Mexico & Central America Contest
+1. _losrivas_: resolvió 1 problemas y obtuvo el lugar #119 en The 2012 Mexico & Central America Regional Contest
+1. _losparces_: resolvió 1 problemas y obtuvo el lugar #121 en The 2012 Mexico & Central America Regional Contest
 
 ## Participaciones
 

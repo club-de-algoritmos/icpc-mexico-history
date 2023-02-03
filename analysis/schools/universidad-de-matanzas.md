@@ -2,11 +2,11 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #45 UMCC2, resolvió 3 problemas en The 2010 Mexico & Central America Regional Contest
-- #78 UMCC4, resolvió 2 problemas en The 2010 Mexico & Central America Regional Contest
-- #150 UMCC1, resolvió 1 problemas en The 2010 Mexico & Central America Regional Contest
+1. _UMCC2_: resolvió 3 problemas y obtuvo el lugar #45 en The 2010 Mexico & Central America Regional Contest
+1. _UMCC4_: resolvió 2 problemas y obtuvo el lugar #78 en The 2010 Mexico & Central America Regional Contest
+1. _UMCC1_: resolvió 1 problemas y obtuvo el lugar #150 en The 2010 Mexico & Central America Regional Contest
 
 ## Participaciones
 

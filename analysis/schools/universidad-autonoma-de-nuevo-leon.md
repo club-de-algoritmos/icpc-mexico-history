@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #57 Los A´s, resolvió 3 problemas en 42nd Annual World Finals of the International Collegiate Programming Contest
-- #57 Los A´S, resolvió 3 problemas en 41st Annual World Finals of the ACM International Collegiate Programming Contest
-- #3 Los Irmos, resolvió 2 problemas en The 2002 ACM Mexico and Central America Programming Contest
-- #3 Los Irmos, resolvió 3 problemas en The 2003 ACM Mexico and Central America Programming Contest
-- #3 FCFM1, resolvió 4 problemas en The 2001 ACM Mexico and Central America Programming Contest
-- #4 TriAda, resolvió 5 problemas en The 2021 ICPC Mexico Finals
-- #7 En la line, resolvió 3 problemas en The 2013 Mexico & Central America Regional Contest
-- #8 SOS, resolvió 3 problemas en The 2011 Mexico & Central America Regional Contest
-- #10 TriAda, resolvió 5 problemas en The 2020 ICPC Mexico Finals
-- #16 CTBS, resolvió 4 problemas en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _Los A´s_: resolvió 3 problemas y obtuvo el lugar #57 en 42nd Annual World Finals of the International Collegiate Programming Contest
+1. _Los A´S_: resolvió 3 problemas y obtuvo el lugar #57 en 41st Annual World Finals of the ACM International Collegiate Programming Contest
+1. _Los Irmos_: resolvió 2 problemas y obtuvo el lugar #3 en The 2002 ACM Mexico and Central America Programming Contest
+1. _Los Irmos_: resolvió 3 problemas y obtuvo el lugar #3 en The 2003 ACM Mexico and Central America Programming Contest
+1. _FCFM1_: resolvió 4 problemas y obtuvo el lugar #3 en The 2001 ACM Mexico and Central America Programming Contest
+1. _TriAda_: resolvió 5 problemas y obtuvo el lugar #4 en The 2021 ICPC Mexico Finals
+1. _En la line_: resolvió 3 problemas y obtuvo el lugar #7 en The 2013 Mexico & Central America Regional Contest
+1. _SOS_: resolvió 3 problemas y obtuvo el lugar #8 en The 2011 Mexico & Central America Regional Contest
+1. _TriAda_: resolvió 5 problemas y obtuvo el lugar #10 en The 2020 ICPC Mexico Finals
+1. _CTBS_: resolvió 4 problemas y obtuvo el lugar #16 en The 2014 ACM-ICPC Mexico and Central America Finals
 
 ## Participaciones
 

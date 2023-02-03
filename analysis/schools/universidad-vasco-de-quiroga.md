@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #28 UVAQ1, resolvió 2 problemas en The 2005 ACM Mexico and Central America Programming Contest
-- #32 UVAQ_MORELIA, resolvió 3 problemas en The 2006 ACM Mexico and Central America Programming Contest
-- #35 Javangelists, resolvió 3 problemas en The 2010 Mexico & Central America Regional Contest
-- #49 UVAQ - GW2, resolvió 2 problemas en The 2012 Mexico & Central America Regional Contest
-- #59 Javangelist, resolvió 2 problemas en The 2011 Mexico & Central America Regional Contest
-- #61 8 BITS, resolvió 0 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #85 UVAQ2, resolvió 0 problemas en The 2005 ACM Mexico and Central America Programming Contest
-- #95 UVAQ 1, resolvió 0 problemas en The 2013 Mexico & Central America Regional Contest
-- #95 UVAQ 2, resolvió 0 problemas en The 2013 Mexico & Central America Regional Contest
-- #144 Acapella, resolvió 1 problemas en The 2010 Mexico & Central America Regional Contest
+1. _UVAQ1_: resolvió 2 problemas y obtuvo el lugar #28 en The 2005 ACM Mexico and Central America Programming Contest
+1. _UVAQ_MORELIA_: resolvió 3 problemas y obtuvo el lugar #32 en The 2006 ACM Mexico and Central America Programming Contest
+1. _Javangelists_: resolvió 3 problemas y obtuvo el lugar #35 en The 2010 Mexico & Central America Regional Contest
+1. _UVAQ - GW2_: resolvió 2 problemas y obtuvo el lugar #49 en The 2012 Mexico & Central America Regional Contest
+1. _Javangelist_: resolvió 2 problemas y obtuvo el lugar #59 en The 2011 Mexico & Central America Regional Contest
+1. _8 BITS_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
+1. _UVAQ2_: resolvió 0 problemas y obtuvo el lugar #85 en The 2005 ACM Mexico and Central America Programming Contest
+1. _UVAQ 1_: resolvió 0 problemas y obtuvo el lugar #95 en The 2013 Mexico & Central America Regional Contest
+1. _UVAQ 2_: resolvió 0 problemas y obtuvo el lugar #95 en The 2013 Mexico & Central America Regional Contest
+1. _Acapella_: resolvió 1 problemas y obtuvo el lugar #144 en The 2010 Mexico & Central America Regional Contest
 
 ## Participaciones
 

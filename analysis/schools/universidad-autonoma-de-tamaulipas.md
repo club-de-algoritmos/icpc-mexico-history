@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #28 Pinky_Pie, resolvió 3 problemas en The 2015 ACM-ICPC Mexico and Central America Finals
-- #31 UAM2S 3, resolvió 1 problemas en The 2001 ACM Mexico and Central America Programming Contest
-- #45 Ami-UbiCom, resolvió 1 problemas en The 2014 ACM-ICPC Mexico and Central America Finals
-- #55 UAM2S 1, resolvió 0 problemas en The 2001 ACM Mexico and Central America Programming Contest
-- #55 UAM2S 2, resolvió 0 problemas en The 2001 ACM Mexico and Central America Programming Contest
-- #56 Pinki pie, resolvió 1 problemas en The 2014 ACM-ICPC Mexico and Central America Finals
-- #75 AmI-UbiCom, resolvió 1 problemas en The 2015 ACM-ICPC Mexico and Central America Finals
-- #79 AmI-UbiCom, resolvió 2 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
-- #85 MDS, resolvió 0 problemas en The 2006 ACM Mexico and Central America Programming Contest
-- #85 UAT, resolvió 0 problemas en The 2005 ACM Mexico and Central America Programming Contest
+1. _Pinky_Pie_: resolvió 3 problemas y obtuvo el lugar #28 en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _UAM2S 3_: resolvió 1 problemas y obtuvo el lugar #31 en The 2001 ACM Mexico and Central America Programming Contest
+1. _Ami-UbiCom_: resolvió 1 problemas y obtuvo el lugar #45 en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _UAM2S 1_: resolvió 0 problemas y obtuvo el lugar #55 en The 2001 ACM Mexico and Central America Programming Contest
+1. _UAM2S 2_: resolvió 0 problemas y obtuvo el lugar #55 en The 2001 ACM Mexico and Central America Programming Contest
+1. _Pinki pie_: resolvió 1 problemas y obtuvo el lugar #56 en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _AmI-UbiCom_: resolvió 1 problemas y obtuvo el lugar #75 en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _AmI-UbiCom_: resolvió 2 problemas y obtuvo el lugar #79 en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _MDS_: resolvió 0 problemas y obtuvo el lugar #85 en The 2006 ACM Mexico and Central America Programming Contest
+1. _UAT_: resolvió 0 problemas y obtuvo el lugar #85 en The 2005 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

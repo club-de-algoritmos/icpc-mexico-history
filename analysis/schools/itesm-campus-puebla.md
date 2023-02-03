@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #101 C_mita, resolvió 1 problemas en 36th Annual World Finals of the ACM International Collegiate Programming Contest
-- #4 C-mita, resolvió 3 problemas en The 2011 Mexico & Central America Regional Contest
-- #11 C-mita, resolvió 4 problemas en The 2012 Mexico & Central America Regional Contest
-- #15 Clfies, resolvió 4 problemas en The 2015 ACM-ICPC Mexico and Central America Finals
-- #16 Los Flotantes, resolvió 3 problemas en The 2017 ACM-ICPC Mexico and Central America Finals
-- #16 char mander;, resolvió 3 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
-- #18 Clfies, resolvió 3 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
-- #19 bool basaur, resolvió 2 problemas en The 2017 ACM-ICPC Mexico and Central America Finals
-- #27 Easycode, resolvió 2 problemas en The 2014 ACM-ICPC Mexico and Central America Finals
-- #28 D06, resolvió 3 problemas en The 2008 Mexico & Central America Contest
+1. _C_mita_: resolvió 1 problemas y obtuvo el lugar #101 en 36th Annual World Finals of the ACM International Collegiate Programming Contest
+1. _C-mita_: resolvió 3 problemas y obtuvo el lugar #4 en The 2011 Mexico & Central America Regional Contest
+1. _C-mita_: resolvió 4 problemas y obtuvo el lugar #11 en The 2012 Mexico & Central America Regional Contest
+1. _Clfies_: resolvió 4 problemas y obtuvo el lugar #15 en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _Los Flotantes_: resolvió 3 problemas y obtuvo el lugar #16 en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _char mander;_: resolvió 3 problemas y obtuvo el lugar #16 en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _Clfies_: resolvió 3 problemas y obtuvo el lugar #18 en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _bool basaur_: resolvió 2 problemas y obtuvo el lugar #19 en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _Easycode_: resolvió 2 problemas y obtuvo el lugar #27 en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _D06_: resolvió 3 problemas y obtuvo el lugar #28 en The 2008 Mexico & Central America Contest
 
 ## Participaciones
 

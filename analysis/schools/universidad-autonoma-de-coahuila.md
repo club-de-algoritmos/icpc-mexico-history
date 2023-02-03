@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #21 Wasabi, resolvió 3 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
-- #23 DeBugs, resolvió 3 problemas en The 2015 ACM-ICPC Mexico and Central America Finals
-- #51 TsZuuuaaaah, resolvió 2 problemas en The 2015 ACM-ICPC Mexico and Central America Finals
-- #60 extreme coders, resolvió 2 problemas en The 2012 Mexico & Central America Regional Contest
-- #61 error 404, resolvió 2 problemas en The 2012 Mexico & Central America Regional Contest
-- #68 Kawabonga, resolvió 1 problemas en The 2013 Mexico & Central America Regional Contest
-- #69 Error 404, resolvió 2 problemas en The 2011 Mexico & Central America Regional Contest
-- #82 Team FisMat, resolvió 2 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
-- #85 Pumas 1, resolvió 0 problemas en The 2005 ACM Mexico and Central America Programming Contest
-- #85 Pumas 2, resolvió 0 problemas en The 2005 ACM Mexico and Central America Programming Contest
+1. _Wasabi_: resolvió 3 problemas y obtuvo el lugar #21 en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _DeBugs_: resolvió 3 problemas y obtuvo el lugar #23 en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _TsZuuuaaaah_: resolvió 2 problemas y obtuvo el lugar #51 en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _extreme coders_: resolvió 2 problemas y obtuvo el lugar #60 en The 2012 Mexico & Central America Regional Contest
+1. _error 404_: resolvió 2 problemas y obtuvo el lugar #61 en The 2012 Mexico & Central America Regional Contest
+1. _Kawabonga_: resolvió 1 problemas y obtuvo el lugar #68 en The 2013 Mexico & Central America Regional Contest
+1. _Error 404_: resolvió 2 problemas y obtuvo el lugar #69 en The 2011 Mexico & Central America Regional Contest
+1. _Team FisMat_: resolvió 2 problemas y obtuvo el lugar #82 en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _Pumas 1_: resolvió 0 problemas y obtuvo el lugar #85 en The 2005 ACM Mexico and Central America Programming Contest
+1. _Pumas 2_: resolvió 0 problemas y obtuvo el lugar #85 en The 2005 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

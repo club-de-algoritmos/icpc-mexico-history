@@ -2,15 +2,15 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #12 Los Otros, resolvió 3 problemas en The 2004 ACM Mexico and Central America Programming Contest
-- #41 ITParral, resolvió 0 problemas en The 2003 ACM Mexico and Central America Programming Contest
-- #44 Venados07, resolvió 1 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #59 TIMOGA2006, resolvió 1 problemas en The 2006 ACM Mexico and Central America Programming Contest
-- #85 ITPARRAL, resolvió 0 problemas en The 2005 ACM Mexico and Central America Programming Contest
-- #101 Omega 2012, resolvió 0 problemas en The 2008 Mexico & Central America Contest
-- #156 Los Osados, resolvió 0 problemas en The 2010 Mexico & Central America Regional Contest
+1. _Los Otros_: resolvió 3 problemas y obtuvo el lugar #12 en The 2004 ACM Mexico and Central America Programming Contest
+1. _ITParral_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
+1. _Venados07_: resolvió 1 problemas y obtuvo el lugar #44 en The 2007 ACM Mexico and Central America Programming Contest
+1. _TIMOGA2006_: resolvió 1 problemas y obtuvo el lugar #59 en The 2006 ACM Mexico and Central America Programming Contest
+1. _ITPARRAL_: resolvió 0 problemas y obtuvo el lugar #85 en The 2005 ACM Mexico and Central America Programming Contest
+1. _Omega 2012_: resolvió 0 problemas y obtuvo el lugar #101 en The 2008 Mexico & Central America Contest
+1. _Los Osados_: resolvió 0 problemas y obtuvo el lugar #156 en The 2010 Mexico & Central America Regional Contest
 
 ## Participaciones
 

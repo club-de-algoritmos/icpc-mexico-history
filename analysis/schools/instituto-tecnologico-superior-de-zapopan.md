@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #10 Esquisofrenia, resolvió 3 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #27 ITSZ, resolvió 2 problemas en The 2005 ACM Mexico and Central America Programming Contest
-- #33 Jimmy Team, resolvió 1 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #40 TECZAPOPAN, resolvió 2 problemas en The 2004 ACM Mexico and Central America Programming Contest
-- #42 LOBOS III, resolvió 3 problemas en The 2010 Mexico & Central America Regional Contest
-- #51 EXQUIZOFRENIA, resolvió 1 problemas en The 2006 ACM Mexico and Central America Programming Contest
-- #51 Esquizofrenia, resolvió 2 problemas en The 2009 Mexico & Central America Contest
-- #56 TECZAPOPAN, resolvió 1 problemas en The 2005 ACM Mexico and Central America Programming Contest
-- #56 ZENTINELAS, resolvió 1 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #58 Los Rojos, resolvió 2 problemas en The 2008 Mexico & Central America Contest
+1. _Esquisofrenia_: resolvió 3 problemas y obtuvo el lugar #10 en The 2007 ACM Mexico and Central America Programming Contest
+1. _ITSZ_: resolvió 2 problemas y obtuvo el lugar #27 en The 2005 ACM Mexico and Central America Programming Contest
+1. _Jimmy Team_: resolvió 1 problemas y obtuvo el lugar #33 en The 2007 ACM Mexico and Central America Programming Contest
+1. _TECZAPOPAN_: resolvió 2 problemas y obtuvo el lugar #40 en The 2004 ACM Mexico and Central America Programming Contest
+1. _LOBOS III_: resolvió 3 problemas y obtuvo el lugar #42 en The 2010 Mexico & Central America Regional Contest
+1. _EXQUIZOFRENIA_: resolvió 1 problemas y obtuvo el lugar #51 en The 2006 ACM Mexico and Central America Programming Contest
+1. _Esquizofrenia_: resolvió 2 problemas y obtuvo el lugar #51 en The 2009 Mexico & Central America Contest
+1. _TECZAPOPAN_: resolvió 1 problemas y obtuvo el lugar #56 en The 2005 ACM Mexico and Central America Programming Contest
+1. _ZENTINELAS_: resolvió 1 problemas y obtuvo el lugar #56 en The 2007 ACM Mexico and Central America Programming Contest
+1. _Los Rojos_: resolvió 2 problemas y obtuvo el lugar #58 en The 2008 Mexico & Central America Contest
 
 ## Participaciones
 

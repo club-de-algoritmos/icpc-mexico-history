@@ -2,17 +2,17 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #19 Promised Rinascimento, resolvió 3 problemas en The 2021 ICPC Mexico Finals
-- #25 Promised Rinascimento, resolvió 3 problemas en The 2019 ICPC Mexico Finals
-- #27 Promised Rinascimento, resolvió 4 problemas en The 2018 ICPC Mexico and Central America Finals
-- #30 Legio I Germania, resolvió 2 problemas en The 2014 ACM-ICPC Mexico and Central America Finals
-- #34 Los religiosos, resolvió 3 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
-- #39 LOS RELIGIOSOS, resolvió 2 problemas en The 2017 ACM-ICPC Mexico and Central America Finals
-- #41 Legio I, resolvió 2 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
-- #47 Moyos, resolvió 2 problemas en The 2015 ACM-ICPC Mexico and Central America Finals
-- #51 Legio I, resolvió 2 problemas en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _Promised Rinascimento_: resolvió 3 problemas y obtuvo el lugar #19 en The 2021 ICPC Mexico Finals
+1. _Promised Rinascimento_: resolvió 3 problemas y obtuvo el lugar #25 en The 2019 ICPC Mexico Finals
+1. _Promised Rinascimento_: resolvió 4 problemas y obtuvo el lugar #27 en The 2018 ICPC Mexico and Central America Finals
+1. _Legio I Germania_: resolvió 2 problemas y obtuvo el lugar #30 en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _Los religiosos_: resolvió 3 problemas y obtuvo el lugar #34 en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _LOS RELIGIOSOS_: resolvió 2 problemas y obtuvo el lugar #39 en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _Legio I_: resolvió 2 problemas y obtuvo el lugar #41 en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _Moyos_: resolvió 2 problemas y obtuvo el lugar #47 en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _Legio I_: resolvió 2 problemas y obtuvo el lugar #51 en The 2015 ACM-ICPC Mexico and Central America Finals
 
 ## Participaciones
 

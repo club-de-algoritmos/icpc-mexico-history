@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #5 UAM Azcapotzalco XX, resolvió 3 problemas en The 2011 Mexico & Central America Regional Contest
-- #14 UAM Azcapotzalco VI, resolvió 3 problemas en The 2006 ACM Mexico and Central America Programming Contest
-- #17 UAM Azcapotzalco III, resolvió 3 problemas en The 2005 ACM Mexico and Central America Programming Contest
-- #18 UAM Azcapotzalco XXI, resolvió 3 problemas en The 2011 Mexico & Central America Regional Contest
-- #19 ++UAM, resolvió 4 problemas en The 2018 ICPC Mexico and Central America Finals
-- #21 UAM Azcapotzalco XXIV, resolvió 3 problemas en The 2012 Mexico & Central America Regional Contest
-- #22 UAM Azcapotzalco X, resolvió 2 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #24 UAM Azcapotzalco 2016 II, resolvió 3 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
-- #26 UAM Azcapotzalco XXVI, resolvió 2 problemas en The 2013 Mexico & Central America Regional Contest
-- #26 ++UAM, resolvió 3 problemas en The 2019 ICPC Mexico Finals
+1. _UAM Azcapotzalco XX_: resolvió 3 problemas y obtuvo el lugar #5 en The 2011 Mexico & Central America Regional Contest
+1. _UAM Azcapotzalco VI_: resolvió 3 problemas y obtuvo el lugar #14 en The 2006 ACM Mexico and Central America Programming Contest
+1. _UAM Azcapotzalco III_: resolvió 3 problemas y obtuvo el lugar #17 en The 2005 ACM Mexico and Central America Programming Contest
+1. _UAM Azcapotzalco XXI_: resolvió 3 problemas y obtuvo el lugar #18 en The 2011 Mexico & Central America Regional Contest
+1. _++UAM_: resolvió 4 problemas y obtuvo el lugar #19 en The 2018 ICPC Mexico and Central America Finals
+1. _UAM Azcapotzalco XXIV_: resolvió 3 problemas y obtuvo el lugar #21 en The 2012 Mexico & Central America Regional Contest
+1. _UAM Azcapotzalco X_: resolvió 2 problemas y obtuvo el lugar #22 en The 2007 ACM Mexico and Central America Programming Contest
+1. _UAM Azcapotzalco 2016 II_: resolvió 3 problemas y obtuvo el lugar #24 en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _UAM Azcapotzalco XXVI_: resolvió 2 problemas y obtuvo el lugar #26 en The 2013 Mexico & Central America Regional Contest
+1. _++UAM_: resolvió 3 problemas y obtuvo el lugar #26 en The 2019 ICPC Mexico Finals
 
 ## Participaciones
 

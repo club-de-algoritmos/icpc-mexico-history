@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #20 Haka ITQ, resolvió 3 problemas en The 2009 Mexico & Central America Contest
-- #36 Zorros Blanco, resolvió 2 problemas en The 2004 ACM Mexico and Central America Programming Contest
-- #38 Black Fox Army, resolvió 1 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #38 Haka - ITQ, resolvió 3 problemas en The 2010 Mexico & Central America Regional Contest
-- #38 PañaleraSquad, resolvió 3 problemas en The 2020 ICPC Mexico Finals
-- #41 Zorros Blanco, resolvió 0 problemas en The 2003 ACM Mexico and Central America Programming Contest
-- #42 Haka, resolvió 2 problemas en The 2008 Mexico & Central America Contest
-- #49 Zorros Negro, resolvió 1 problemas en The 2004 ACM Mexico and Central America Programming Contest
-- #55 Zorros Blanco, resolvió 0 problemas en The 2001 ACM Mexico and Central America Programming Contest
-- #55 Zorros Naranja, resolvió 0 problemas en The 2001 ACM Mexico and Central America Programming Contest
+1. _Haka ITQ_: resolvió 3 problemas y obtuvo el lugar #20 en The 2009 Mexico & Central America Contest
+1. _Zorros Blanco_: resolvió 2 problemas y obtuvo el lugar #36 en The 2004 ACM Mexico and Central America Programming Contest
+1. _Black Fox Army_: resolvió 1 problemas y obtuvo el lugar #38 en The 2007 ACM Mexico and Central America Programming Contest
+1. _Haka - ITQ_: resolvió 3 problemas y obtuvo el lugar #38 en The 2010 Mexico & Central America Regional Contest
+1. _PañaleraSquad_: resolvió 3 problemas y obtuvo el lugar #38 en The 2020 ICPC Mexico Finals
+1. _Zorros Blanco_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
+1. _Haka_: resolvió 2 problemas y obtuvo el lugar #42 en The 2008 Mexico & Central America Contest
+1. _Zorros Negro_: resolvió 1 problemas y obtuvo el lugar #49 en The 2004 ACM Mexico and Central America Programming Contest
+1. _Zorros Blanco_: resolvió 0 problemas y obtuvo el lugar #55 en The 2001 ACM Mexico and Central America Programming Contest
+1. _Zorros Naranja_: resolvió 0 problemas y obtuvo el lugar #55 en The 2001 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

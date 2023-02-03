@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #4 C0D3RZ do not dance!, resolvió 4 problemas en The 2004 ACM Mexico and Central America Programming Contest
-- #5 C0D3RZ, resolvió 2 problemas en The 2002 ACM Mexico and Central America Programming Contest
-- #10 C0D3RZ overflow, resolvió 2 problemas en The 2003 ACM Mexico and Central America Programming Contest
-- #15 Los +acuatas, resolvió 3 problemas en The 2005 ACM Mexico and Central America Programming Contest
-- #17 Time Limit Exceeded, resolvió 3 problemas en The 2006 ACM Mexico and Central America Programming Contest
-- #21 Los hijos del mouse, resolvió 1 problemas en The 2001 ACM Mexico and Central America Programming Contest
-- #41 Ingeniería, resolvió 0 problemas en The 2003 ACM Mexico and Central America Programming Contest
-- #42 Pucca, resolvió 1 problemas en The 2004 ACM Mexico and Central America Programming Contest
-- #85 Output Limit Exceeded, resolvió 0 problemas en The 2006 ACM Mexico and Central America Programming Contest
-- #85 Runtime Error, resolvió 0 problemas en The 2006 ACM Mexico and Central America Programming Contest
+1. _C0D3RZ do not dance!_: resolvió 4 problemas y obtuvo el lugar #4 en The 2004 ACM Mexico and Central America Programming Contest
+1. _C0D3RZ_: resolvió 2 problemas y obtuvo el lugar #5 en The 2002 ACM Mexico and Central America Programming Contest
+1. _C0D3RZ overflow_: resolvió 2 problemas y obtuvo el lugar #10 en The 2003 ACM Mexico and Central America Programming Contest
+1. _Los +acuatas_: resolvió 3 problemas y obtuvo el lugar #15 en The 2005 ACM Mexico and Central America Programming Contest
+1. _Time Limit Exceeded_: resolvió 3 problemas y obtuvo el lugar #17 en The 2006 ACM Mexico and Central America Programming Contest
+1. _Los hijos del mouse_: resolvió 1 problemas y obtuvo el lugar #21 en The 2001 ACM Mexico and Central America Programming Contest
+1. _Ingeniería_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
+1. _Pucca_: resolvió 1 problemas y obtuvo el lugar #42 en The 2004 ACM Mexico and Central America Programming Contest
+1. _Output Limit Exceeded_: resolvió 0 problemas y obtuvo el lugar #85 en The 2006 ACM Mexico and Central America Programming Contest
+1. _Runtime Error_: resolvió 0 problemas y obtuvo el lugar #85 en The 2006 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

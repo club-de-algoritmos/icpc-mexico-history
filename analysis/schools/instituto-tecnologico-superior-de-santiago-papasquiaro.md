@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #34 Linces, resolvió 2 problemas en The 2012 Mexico & Central America Regional Contest
-- #53 Linces, resolvió 1 problemas en The 2013 Mexico & Central America Regional Contest
-- #68 LINCES, resolvió 2 problemas en The 2010 Mexico & Central America Regional Contest
-- #80 LINCES1, resolvió 1 problemas en The 2011 Mexico & Central America Regional Contest
-- #85 BETAS, resolvió 0 problemas en The 2005 ACM Mexico and Central America Programming Contest
-- #85 Linces, resolvió 0 problemas en The 2006 ACM Mexico and Central America Programming Contest
-- #85 linces, resolvió 0 problemas en The 2005 ACM Mexico and Central America Programming Contest
-- #90 Linces Tec, resolvió 0 problemas en The 2004 ACM Mexico and Central America Programming Contest
-- #90 RiDaGreMo, resolvió 0 problemas en The 2004 ACM Mexico and Central America Programming Contest
-- #90 itssp, resolvió 0 problemas en The 2004 ACM Mexico and Central America Programming Contest
+1. _Linces_: resolvió 2 problemas y obtuvo el lugar #34 en The 2012 Mexico & Central America Regional Contest
+1. _Linces_: resolvió 1 problemas y obtuvo el lugar #53 en The 2013 Mexico & Central America Regional Contest
+1. _LINCES_: resolvió 2 problemas y obtuvo el lugar #68 en The 2010 Mexico & Central America Regional Contest
+1. _LINCES1_: resolvió 1 problemas y obtuvo el lugar #80 en The 2011 Mexico & Central America Regional Contest
+1. _BETAS_: resolvió 0 problemas y obtuvo el lugar #85 en The 2005 ACM Mexico and Central America Programming Contest
+1. _Linces_: resolvió 0 problemas y obtuvo el lugar #85 en The 2006 ACM Mexico and Central America Programming Contest
+1. _linces_: resolvió 0 problemas y obtuvo el lugar #85 en The 2005 ACM Mexico and Central America Programming Contest
+1. _Linces Tec_: resolvió 0 problemas y obtuvo el lugar #90 en The 2004 ACM Mexico and Central America Programming Contest
+1. _RiDaGreMo_: resolvió 0 problemas y obtuvo el lugar #90 en The 2004 ACM Mexico and Central America Programming Contest
+1. _itssp_: resolvió 0 problemas y obtuvo el lugar #90 en The 2004 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

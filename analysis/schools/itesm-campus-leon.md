@@ -2,13 +2,13 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #41 I_C_Dead_People( );, resolvió 0 problemas en The 2003 ACM Mexico and Central America Programming Contest
-- #53 Cranberries, resolvió 1 problemas en The 2004 ACM Mexico and Central America Programming Contest
-- #53 ITESM Leon, resolvió 1 problemas en The 2001 ACM Mexico and Central America Programming Contest
-- #55 Los Templarios, resolvió 1 problemas en The 2004 ACM Mexico and Central America Programming Contest
-- #59 Los Falcons, resolvió 1 problemas en The 2004 ACM Mexico and Central America Programming Contest
+1. _I_C_Dead_People( );_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
+1. _Cranberries_: resolvió 1 problemas y obtuvo el lugar #53 en The 2004 ACM Mexico and Central America Programming Contest
+1. _ITESM Leon_: resolvió 1 problemas y obtuvo el lugar #53 en The 2001 ACM Mexico and Central America Programming Contest
+1. _Los Templarios_: resolvió 1 problemas y obtuvo el lugar #55 en The 2004 ACM Mexico and Central America Programming Contest
+1. _Los Falcons_: resolvió 1 problemas y obtuvo el lugar #59 en The 2004 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #51 Legendary Grand Newbies, resolvió 2 problemas en 45th Annual World Finals of the International Collegiate Programming Contest
-- #63 Legendary Grandpupils, resolvió 2 problemas en 43rd Annual World Finals of the International Collegiate Programming Contest
-- #68 MTY03, resolvió 0 problemas en 33rd Annual World Finals of the ACM International Collegiate Programming Contest
-- #47 Los Pericos Brujos, resolvió 2 problemas en The 2002 ACM Programming Contest World Finals
-- #107 HaKings, resolvió 2 problemas en 40th Annual World Finals of the ACM International Collegiate Programming Contest
-- #56 ITESM ProZac, resolvió 1 problemas en The 1999 ACM Programming Contest World Finals
-- #59 SWART, resolvió 1 problemas en The 2001 ACM Programming Contest World Finals
-- #68 The Deadly Coding Squad, resolvió 0 problemas en The 2004 ACM Programming Contest World Finals
-- #121 Locos, resolvió 1 problemas en 39th Annual World Finals of the ACM International Collegiate Programming Contest
-- #3 TopCoder, resolvió 4 problemas en The 2006 ACM Mexico and Central America Programming Contest
+1. _Legendary Grand Newbies_: resolvió 2 problemas y obtuvo el lugar #51 en 45th Annual World Finals of the International Collegiate Programming Contest
+1. _Legendary Grandpupils_: resolvió 2 problemas y obtuvo el lugar #63 en 43rd Annual World Finals of the International Collegiate Programming Contest
+1. _MTY03_: resolvió 0 problemas y obtuvo el lugar #68 en 33rd Annual World Finals of the ACM International Collegiate Programming Contest
+1. _Los Pericos Brujos_: resolvió 2 problemas y obtuvo el lugar #47 en The 2002 ACM Programming Contest World Finals
+1. _HaKings_: resolvió 2 problemas y obtuvo el lugar #107 en 40th Annual World Finals of the ACM International Collegiate Programming Contest
+1. _ITESM ProZac_: resolvió 1 problemas y obtuvo el lugar #56 en The 1999 ACM Programming Contest World Finals
+1. _SWART_: resolvió 1 problemas y obtuvo el lugar #59 en The 2001 ACM Programming Contest World Finals
+1. _The Deadly Coding Squad_: resolvió 0 problemas y obtuvo el lugar #68 en The 2004 ACM Programming Contest World Finals
+1. _Locos_: resolvió 1 problemas y obtuvo el lugar #121 en 39th Annual World Finals of the ACM International Collegiate Programming Contest
+1. _TopCoder_: resolvió 4 problemas y obtuvo el lugar #3 en The 2006 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

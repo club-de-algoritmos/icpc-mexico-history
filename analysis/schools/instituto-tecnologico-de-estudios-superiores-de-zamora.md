@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #14 last_generation_itesz, resolvió 4 problemas en The 2012 Mexico & Central America Regional Contest
-- #35 ITESZ01, resolvió 2 problemas en The 2012 Mexico & Central America Regional Contest
-- #40 ITESZ01, resolvió 2 problemas en The 2011 Mexico & Central America Regional Contest
-- #43 ITESZ01, resolvió 3 problemas en The 2010 Mexico & Central America Regional Contest
-- #46 ITESZ01, resolvió 2 problemas en The 2009 Mexico & Central America Contest
-- #81 Monkey Error, resolvió 1 problemas en The 2013 Mexico & Central America Regional Contest
-- #84 ITESZ02, resolvió 2 problemas en The 2010 Mexico & Central America Regional Contest
-- #85 ITESZA, resolvió 0 problemas en The 2005 ACM Mexico and Central America Programming Contest
-- #85 ITESZB, resolvió 0 problemas en The 2005 ACM Mexico and Central America Programming Contest
-- #85 ITESZ02, resolvió 1 problemas en The 2011 Mexico & Central America Regional Contest
+1. _last_generation_itesz_: resolvió 4 problemas y obtuvo el lugar #14 en The 2012 Mexico & Central America Regional Contest
+1. _ITESZ01_: resolvió 2 problemas y obtuvo el lugar #35 en The 2012 Mexico & Central America Regional Contest
+1. _ITESZ01_: resolvió 2 problemas y obtuvo el lugar #40 en The 2011 Mexico & Central America Regional Contest
+1. _ITESZ01_: resolvió 3 problemas y obtuvo el lugar #43 en The 2010 Mexico & Central America Regional Contest
+1. _ITESZ01_: resolvió 2 problemas y obtuvo el lugar #46 en The 2009 Mexico & Central America Contest
+1. _Monkey Error_: resolvió 1 problemas y obtuvo el lugar #81 en The 2013 Mexico & Central America Regional Contest
+1. _ITESZ02_: resolvió 2 problemas y obtuvo el lugar #84 en The 2010 Mexico & Central America Regional Contest
+1. _ITESZA_: resolvió 0 problemas y obtuvo el lugar #85 en The 2005 ACM Mexico and Central America Programming Contest
+1. _ITESZB_: resolvió 0 problemas y obtuvo el lugar #85 en The 2005 ACM Mexico and Central America Programming Contest
+1. _ITESZ02_: resolvió 1 problemas y obtuvo el lugar #85 en The 2011 Mexico & Central America Regional Contest
 
 ## Participaciones
 

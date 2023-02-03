@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #52 Javeros, resolvió 2 problemas en The 2011 Mexico & Central America Regional Contest
-- #52 Los Mininos, resolvió 2 problemas en The 2012 Mexico & Central America Regional Contest
-- #61 Felinos del ITSF, resolvió 0 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #61 Gatos del ITSF, resolvió 0 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #74 Novatos, resolvió 2 problemas en The 2011 Mexico & Central America Regional Contest
-- #83 the cats, resolvió 1 problemas en The 2008 Mexico & Central America Contest
-- #87 Buchanans, resolvió 1 problemas en The 2009 Mexico & Central America Contest
-- #101 the dragons, resolvió 0 problemas en The 2008 Mexico & Central America Contest
-- #105 ThunderTecs, resolvió 2 problemas en The 2012 Mexico & Central America Regional Contest
-- #110 Gatos Salvajes, resolvió 1 problemas en The 2010 Mexico & Central America Regional Contest
+1. _Javeros_: resolvió 2 problemas y obtuvo el lugar #52 en The 2011 Mexico & Central America Regional Contest
+1. _Los Mininos_: resolvió 2 problemas y obtuvo el lugar #52 en The 2012 Mexico & Central America Regional Contest
+1. _Felinos del ITSF_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
+1. _Gatos del ITSF_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
+1. _Novatos_: resolvió 2 problemas y obtuvo el lugar #74 en The 2011 Mexico & Central America Regional Contest
+1. _the cats_: resolvió 1 problemas y obtuvo el lugar #83 en The 2008 Mexico & Central America Contest
+1. _Buchanans_: resolvió 1 problemas y obtuvo el lugar #87 en The 2009 Mexico & Central America Contest
+1. _the dragons_: resolvió 0 problemas y obtuvo el lugar #101 en The 2008 Mexico & Central America Contest
+1. _ThunderTecs_: resolvió 2 problemas y obtuvo el lugar #105 en The 2012 Mexico & Central America Regional Contest
+1. _Gatos Salvajes_: resolvió 1 problemas y obtuvo el lugar #110 en The 2010 Mexico & Central America Regional Contest
 
 ## Participaciones
 

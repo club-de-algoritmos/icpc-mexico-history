@@ -2,14 +2,14 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #27 TecSLP, resolvió 0 problemas en The 2002 ACM Mexico and Central America Programming Contest
-- #41 PLU'S Team, resolvió 0 problemas en The 2003 ACM Mexico and Central America Programming Contest
-- #49 SI C C, resolvió 1 problemas en The 2001 ACM Mexico and Central America Programming Contest
-- #75 Tec SLP 2, resolvió 1 problemas en The 2005 ACM Mexico and Central America Programming Contest
-- #83 Tec SLP 1, resolvió 1 problemas en The 2005 ACM Mexico and Central America Programming Contest
-- #124 Los Borregos de San Luis, resolvió 1 problemas en The 2010 Mexico & Central America Regional Contest
+1. _TecSLP_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
+1. _PLU'S Team_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
+1. _SI C C_: resolvió 1 problemas y obtuvo el lugar #49 en The 2001 ACM Mexico and Central America Programming Contest
+1. _Tec SLP 2_: resolvió 1 problemas y obtuvo el lugar #75 en The 2005 ACM Mexico and Central America Programming Contest
+1. _Tec SLP 1_: resolvió 1 problemas y obtuvo el lugar #83 en The 2005 ACM Mexico and Central America Programming Contest
+1. _Los Borregos de San Luis_: resolvió 1 problemas y obtuvo el lugar #124 en The 2010 Mexico & Central America Regional Contest
 
 ## Participaciones
 

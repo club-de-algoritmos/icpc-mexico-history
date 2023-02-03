@@ -2,11 +2,11 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #23 Mojibake, resolvió 3 problemas en The 2021 ICPC Mexico Finals
-- #50 AlfaBuenaMaravillaOndaDinamitaEscuadrónLobo, resolvió 0 problemas en The 2021 ICPC Mexico Finals
-- #51 DrimTimICP, resolvió 1 problemas en The 2020 ICPC Mexico Finals
+1. _Mojibake_: resolvió 3 problemas y obtuvo el lugar #23 en The 2021 ICPC Mexico Finals
+1. _AlfaBuenaMaravillaOndaDinamitaEscuadrónLobo_: resolvió 0 problemas y obtuvo el lugar #50 en The 2021 ICPC Mexico Finals
+1. _DrimTimICP_: resolvió 1 problemas y obtuvo el lugar #51 en The 2020 ICPC Mexico Finals
 
 ## Participaciones
 

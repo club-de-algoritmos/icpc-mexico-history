@@ -2,15 +2,15 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #7 !nullptr, resolvió 4 problemas en The 2021 ICPC Mexico Finals
-- #13 !nullptr, resolvió 4 problemas en The 2020 ICPC Mexico Finals
-- #19 Bichos, resolvió 1 problemas en The 2002 ACM Mexico and Central America Programming Contest
-- #33 ¿Qué?, resolvió 3 problemas en The 2019 ICPC Mexico Finals
-- #45 Equipo, resolvió 3 problemas en The 2018 ICPC Mexico and Central America Finals
-- #47 Opilimpicos, resolvió 1 problemas en The 2019 ICPC Mexico Finals
-- #71 Cominf, resolvió 2 problemas en The 2012 Mexico & Central America Regional Contest
+1. _!nullptr_: resolvió 4 problemas y obtuvo el lugar #7 en The 2021 ICPC Mexico Finals
+1. _!nullptr_: resolvió 4 problemas y obtuvo el lugar #13 en The 2020 ICPC Mexico Finals
+1. _Bichos_: resolvió 1 problemas y obtuvo el lugar #19 en The 2002 ACM Mexico and Central America Programming Contest
+1. _¿Qué?_: resolvió 3 problemas y obtuvo el lugar #33 en The 2019 ICPC Mexico Finals
+1. _Equipo_: resolvió 3 problemas y obtuvo el lugar #45 en The 2018 ICPC Mexico and Central America Finals
+1. _Opilimpicos_: resolvió 1 problemas y obtuvo el lugar #47 en The 2019 ICPC Mexico Finals
+1. _Cominf_: resolvió 2 problemas y obtuvo el lugar #71 en The 2012 Mexico & Central America Regional Contest
 
 ## Participaciones
 

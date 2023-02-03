@@ -2,11 +2,11 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #90 stratovarius, resolvió 0 problemas en The 2004 ACM Mexico and Central America Programming Contest
-- #94 Bash, resolvió 1 problemas en The 2008 Mexico & Central America Contest
-- #101 TeamGeist, resolvió 0 problemas en The 2008 Mexico & Central America Contest
+1. _stratovarius_: resolvió 0 problemas y obtuvo el lugar #90 en The 2004 ACM Mexico and Central America Programming Contest
+1. _Bash_: resolvió 1 problemas y obtuvo el lugar #94 en The 2008 Mexico & Central America Contest
+1. _TeamGeist_: resolvió 0 problemas y obtuvo el lugar #101 en The 2008 Mexico & Central America Contest
 
 ## Participaciones
 

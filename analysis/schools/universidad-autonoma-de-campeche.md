@@ -2,9 +2,9 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #86 uaq 4, resolvió 0 problemas en The 2006 ACM Mexico and Central America Programming Contest
+1. _uaq 4_: resolvió 0 problemas y obtuvo el lugar #86 en The 2006 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

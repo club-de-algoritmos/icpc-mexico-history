@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #4 MTY01, resolvió 5 problemas en The 2005 ACM Mexico and Central America Programming Contest
-- #5 MTY1, resolvió 4 problemas en The 2004 ACM Mexico and Central America Programming Contest
-- #6 los punteros, resolvió 4 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #7 Campus Mazatlán, resolvió 2 problemas en The 2002 ACM Mexico and Central America Programming Contest
-- #8 javaglets, resolvió 3 problemas en The 2005 ACM Mexico and Central America Programming Contest
-- #11 MTY2, resolvió 3 problemas en The 2004 ACM Mexico and Central America Programming Contest
-- #11 Sapphire, resolvió 3 problemas en The 2005 ACM Mexico and Central America Programming Contest
-- #13 HMJ21, resolvió 2 problemas en The 2002 ACM Mexico and Central America Programming Contest
-- #16 MTY03, resolvió 3 problemas en The 2005 ACM Mexico and Central America Programming Contest
-- #18 Deth-Therion, resolvió 2 problemas en The 2001 ACM Mexico and Central America Programming Contest
+1. _MTY01_: resolvió 5 problemas y obtuvo el lugar #4 en The 2005 ACM Mexico and Central America Programming Contest
+1. _MTY1_: resolvió 4 problemas y obtuvo el lugar #5 en The 2004 ACM Mexico and Central America Programming Contest
+1. _los punteros_: resolvió 4 problemas y obtuvo el lugar #6 en The 2007 ACM Mexico and Central America Programming Contest
+1. _Campus Mazatlán_: resolvió 2 problemas y obtuvo el lugar #7 en The 2002 ACM Mexico and Central America Programming Contest
+1. _javaglets_: resolvió 3 problemas y obtuvo el lugar #8 en The 2005 ACM Mexico and Central America Programming Contest
+1. _MTY2_: resolvió 3 problemas y obtuvo el lugar #11 en The 2004 ACM Mexico and Central America Programming Contest
+1. _Sapphire_: resolvió 3 problemas y obtuvo el lugar #11 en The 2005 ACM Mexico and Central America Programming Contest
+1. _HMJ21_: resolvió 2 problemas y obtuvo el lugar #13 en The 2002 ACM Mexico and Central America Programming Contest
+1. _MTY03_: resolvió 3 problemas y obtuvo el lugar #16 en The 2005 ACM Mexico and Central America Programming Contest
+1. _Deth-Therion_: resolvió 2 problemas y obtuvo el lugar #18 en The 2001 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

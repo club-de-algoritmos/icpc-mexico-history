@@ -2,15 +2,15 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #51 Hakunas, resolvió 2 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
-- #57 Hakuna matata, resolvió 2 problemas en The 2015 ACM-ICPC Mexico and Central America Finals
-- #61 CCeros, resolvió 0 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #61 Javeros, resolvió 0 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #76 Agilas de Hierro, resolvió 1 problemas en The 2006 ACM Mexico and Central America Programming Contest
-- #78 Turbodedos, resolvió 1 problemas en The 2008 Mexico & Central America Contest
-- #101 Los Tomates, resolvió 0 problemas en The 2008 Mexico & Central America Contest
+1. _Hakunas_: resolvió 2 problemas y obtuvo el lugar #51 en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _Hakuna matata_: resolvió 2 problemas y obtuvo el lugar #57 en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _CCeros_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
+1. _Javeros_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
+1. _Agilas de Hierro_: resolvió 1 problemas y obtuvo el lugar #76 en The 2006 ACM Mexico and Central America Programming Contest
+1. _Turbodedos_: resolvió 1 problemas y obtuvo el lugar #78 en The 2008 Mexico & Central America Contest
+1. _Los Tomates_: resolvió 0 problemas y obtuvo el lugar #101 en The 2008 Mexico & Central America Contest
 
 ## Participaciones
 

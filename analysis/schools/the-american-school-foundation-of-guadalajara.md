@@ -2,10 +2,10 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #54 Omijal - American School, resolvió 2 problemas en The 2009 Mexico & Central America Contest
-- #70 ASFG - OMIJAL, resolvió 1 problemas en The 2008 Mexico & Central America Contest
+1. _Omijal - American School_: resolvió 2 problemas y obtuvo el lugar #54 en The 2009 Mexico & Central America Contest
+1. _ASFG - OMIJAL_: resolvió 1 problemas y obtuvo el lugar #70 en The 2008 Mexico & Central America Contest
 
 ## Participaciones
 

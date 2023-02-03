@@ -2,13 +2,13 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #84 Unistmo-Bianni, resolvió 1 problemas en The 2011 Mexico & Central America Regional Contest
-- #86 Novatos, resolvió 1 problemas en The 2009 Mexico & Central America Contest
-- #104 UnistmoPitaoCocijo, resolvió 0 problemas en The 2011 Mexico & Central America Regional Contest
-- #156 Puchamon Team, resolvió 0 problemas en The 2010 Mexico & Central America Regional Contest
-- #156 SENSE, resolvió 0 problemas en The 2010 Mexico & Central America Regional Contest
+1. _Unistmo-Bianni_: resolvió 1 problemas y obtuvo el lugar #84 en The 2011 Mexico & Central America Regional Contest
+1. _Novatos_: resolvió 1 problemas y obtuvo el lugar #86 en The 2009 Mexico & Central America Contest
+1. _UnistmoPitaoCocijo_: resolvió 0 problemas y obtuvo el lugar #104 en The 2011 Mexico & Central America Regional Contest
+1. _Puchamon Team_: resolvió 0 problemas y obtuvo el lugar #156 en The 2010 Mexico & Central America Regional Contest
+1. _SENSE_: resolvió 0 problemas y obtuvo el lugar #156 en The 2010 Mexico & Central America Regional Contest
 
 ## Participaciones
 

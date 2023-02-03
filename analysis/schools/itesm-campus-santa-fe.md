@@ -2,12 +2,12 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #16 CSF1, resolvió 3 problemas en The 2015 ACM-ICPC Mexico and Central America Finals
-- #26 Assassin Bugs, resolvió 4 problemas en The 2020 ICPC Mexico Finals
-- #38 CSF1, resolvió 2 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
-- #54 The Brewskis, resolvió 2 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _CSF1_: resolvió 3 problemas y obtuvo el lugar #16 en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _Assassin Bugs_: resolvió 4 problemas y obtuvo el lugar #26 en The 2020 ICPC Mexico Finals
+1. _CSF1_: resolvió 2 problemas y obtuvo el lugar #38 en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _The Brewskis_: resolvió 2 problemas y obtuvo el lugar #54 en The 2016 ACM-ICPC Mexico and Central America Finals
 
 ## Participaciones
 

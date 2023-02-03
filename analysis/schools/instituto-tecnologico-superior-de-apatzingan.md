@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #35 NISC, resolvió 3 problemas en The 2011 Mexico & Central America Regional Contest
-- #43 java knights, resolvió 1 problemas en The 2013 Mexico & Central America Regional Contest
-- #53 SIMPUS YGGDRASIL, resolvió 2 problemas en The 2012 Mexico & Central America Regional Contest
-- #58 SIMPUS_ITSA, resolvió 2 problemas en The 2011 Mexico & Central America Regional Contest
-- #81 SIMPUS-ITSA, resolvió 1 problemas en The 2009 Mexico & Central America Contest
-- #92 GNU-ITSA, resolvió 1 problemas en The 2009 Mexico & Central America Contest
-- #95 Mugiwara, resolvió 0 problemas en The 2013 Mexico & Central America Regional Contest
-- #95 los bastardos, resolvió 0 problemas en The 2013 Mexico & Central America Regional Contest
-- #95 minions, resolvió 0 problemas en The 2013 Mexico & Central America Regional Contest
-- #102 simpus_itsa, resolvió 1 problemas en The 2010 Mexico & Central America Regional Contest
+1. _NISC_: resolvió 3 problemas y obtuvo el lugar #35 en The 2011 Mexico & Central America Regional Contest
+1. _java knights_: resolvió 1 problemas y obtuvo el lugar #43 en The 2013 Mexico & Central America Regional Contest
+1. _SIMPUS YGGDRASIL_: resolvió 2 problemas y obtuvo el lugar #53 en The 2012 Mexico & Central America Regional Contest
+1. _SIMPUS_ITSA_: resolvió 2 problemas y obtuvo el lugar #58 en The 2011 Mexico & Central America Regional Contest
+1. _SIMPUS-ITSA_: resolvió 1 problemas y obtuvo el lugar #81 en The 2009 Mexico & Central America Contest
+1. _GNU-ITSA_: resolvió 1 problemas y obtuvo el lugar #92 en The 2009 Mexico & Central America Contest
+1. _Mugiwara_: resolvió 0 problemas y obtuvo el lugar #95 en The 2013 Mexico & Central America Regional Contest
+1. _los bastardos_: resolvió 0 problemas y obtuvo el lugar #95 en The 2013 Mexico & Central America Regional Contest
+1. _minions_: resolvió 0 problemas y obtuvo el lugar #95 en The 2013 Mexico & Central America Regional Contest
+1. _simpus_itsa_: resolvió 1 problemas y obtuvo el lugar #102 en The 2010 Mexico & Central America Regional Contest
 
 ## Participaciones
 

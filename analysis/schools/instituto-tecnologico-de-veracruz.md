@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #13 FastFingers lml, resolvió 4 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
-- #28 Warriors Z, resolvió 2 problemas en The 2017 ACM-ICPC Mexico and Central America Finals
-- #31 ACMIPT, resolvió 2 problemas en The 2012 Mexico & Central America Regional Contest
-- #34 FastFingers lml, resolvió 3 problemas en The 2015 ACM-ICPC Mexico and Central America Finals
-- #36 Code4Life, resolvió 3 problemas en The 2018 ICPC Mexico and Central America Finals
-- #38 Eternity, resolvió 2 problemas en The 2017 ACM-ICPC Mexico and Central America Finals
-- #39 Long-aniza, resolvió 1 problemas en The 2014 ACM-ICPC Mexico and Central America Finals
-- #39 Warriors LEL, resolvió 3 problemas en The 2015 ACM-ICPC Mexico and Central America Finals
-- #43 <CodeBreakers/>, resolvió 2 problemas en The 2020 ICPC Mexico Finals
-- #52 HeavyMachineGun, resolvió 2 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _FastFingers lml_: resolvió 4 problemas y obtuvo el lugar #13 en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _Warriors Z_: resolvió 2 problemas y obtuvo el lugar #28 en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _ACMIPT_: resolvió 2 problemas y obtuvo el lugar #31 en The 2012 Mexico & Central America Regional Contest
+1. _FastFingers lml_: resolvió 3 problemas y obtuvo el lugar #34 en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _Code4Life_: resolvió 3 problemas y obtuvo el lugar #36 en The 2018 ICPC Mexico and Central America Finals
+1. _Eternity_: resolvió 2 problemas y obtuvo el lugar #38 en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _Long-aniza_: resolvió 1 problemas y obtuvo el lugar #39 en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _Warriors LEL_: resolvió 3 problemas y obtuvo el lugar #39 en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _<CodeBreakers/>_: resolvió 2 problemas y obtuvo el lugar #43 en The 2020 ICPC Mexico Finals
+1. _HeavyMachineGun_: resolvió 2 problemas y obtuvo el lugar #52 en The 2016 ACM-ICPC Mexico and Central America Finals
 
 ## Participaciones
 

@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #29 TecCuautla2, resolvió 1 problemas en The 2001 ACM Mexico and Central America Programming Contest
-- #34 TecCuautla1, resolvió 1 problemas en The 2001 ACM Mexico and Central America Programming Contest
-- #34 TecCuautla3, resolvió 1 problemas en The 2003 ACM Mexico and Central America Programming Contest
-- #37 TecCuautla1, resolvió 1 problemas en The 2003 ACM Mexico and Central America Programming Contest
-- #38 Success, resolvió 2 problemas en The 2009 Mexico & Central America Contest
-- #41 TecCuautla2, resolvió 0 problemas en The 2003 ACM Mexico and Central America Programming Contest
-- #60 Success, resolvió 2 problemas en The 2011 Mexico & Central America Regional Contest
-- #79 Success, resolvió 1 problemas en The 2008 Mexico & Central America Contest
-- #80 Success, resolvió 2 problemas en The 2010 Mexico & Central America Regional Contest
-- #93 itCuautla2, resolvió 1 problemas en The 2009 Mexico & Central America Contest
+1. _TecCuautla2_: resolvió 1 problemas y obtuvo el lugar #29 en The 2001 ACM Mexico and Central America Programming Contest
+1. _TecCuautla1_: resolvió 1 problemas y obtuvo el lugar #34 en The 2001 ACM Mexico and Central America Programming Contest
+1. _TecCuautla3_: resolvió 1 problemas y obtuvo el lugar #34 en The 2003 ACM Mexico and Central America Programming Contest
+1. _TecCuautla1_: resolvió 1 problemas y obtuvo el lugar #37 en The 2003 ACM Mexico and Central America Programming Contest
+1. _Success_: resolvió 2 problemas y obtuvo el lugar #38 en The 2009 Mexico & Central America Contest
+1. _TecCuautla2_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
+1. _Success_: resolvió 2 problemas y obtuvo el lugar #60 en The 2011 Mexico & Central America Regional Contest
+1. _Success_: resolvió 1 problemas y obtuvo el lugar #79 en The 2008 Mexico & Central America Contest
+1. _Success_: resolvió 2 problemas y obtuvo el lugar #80 en The 2010 Mexico & Central America Regional Contest
+1. _itCuautla2_: resolvió 1 problemas y obtuvo el lugar #93 en The 2009 Mexico & Central America Contest
 
 ## Participaciones
 

@@ -2,14 +2,14 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #37 TecGrullo, resolvió 2 problemas en The 2014 ACM-ICPC Mexico and Central America Finals
-- #101 El Grullo1, resolvió 0 problemas en The 2008 Mexico & Central America Contest
-- #101 El Grullo2, resolvió 0 problemas en The 2008 Mexico & Central America Contest
-- #104 JOVAvsJAVA, resolvió 0 problemas en The 2011 Mexico & Central America Regional Contest
-- #116 TecGrullo, resolvió 0 problemas en The 2009 Mexico & Central America Contest
-- #156 El Grullo, resolvió 0 problemas en The 2010 Mexico & Central America Regional Contest
+1. _TecGrullo_: resolvió 2 problemas y obtuvo el lugar #37 en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _El Grullo1_: resolvió 0 problemas y obtuvo el lugar #101 en The 2008 Mexico & Central America Contest
+1. _El Grullo2_: resolvió 0 problemas y obtuvo el lugar #101 en The 2008 Mexico & Central America Contest
+1. _JOVAvsJAVA_: resolvió 0 problemas y obtuvo el lugar #104 en The 2011 Mexico & Central America Regional Contest
+1. _TecGrullo_: resolvió 0 problemas y obtuvo el lugar #116 en The 2009 Mexico & Central America Contest
+1. _El Grullo_: resolvió 0 problemas y obtuvo el lugar #156 en The 2010 Mexico & Central America Regional Contest
 
 ## Participaciones
 

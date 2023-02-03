@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #27 Black Cats I, resolvió 0 problemas en The 2002 ACM Mexico and Central America Programming Contest
-- #27 Black Cats II, resolvió 0 problemas en The 2002 ACM Mexico and Central America Programming Contest
-- #27 Gatos Negros I, resolvió 0 problemas en The 2002 ACM Mexico and Central America Programming Contest
-- #27 Gatos Negros II, resolvió 0 problemas en The 2002 ACM Mexico and Central America Programming Contest
-- #27 Gatos Negros III, resolvió 0 problemas en The 2002 ACM Mexico and Central America Programming Contest
-- #27 Gatos Negros IV, resolvió 0 problemas en The 2002 ACM Mexico and Central America Programming Contest
-- #27 Gatos Negros V, resolvió 0 problemas en The 2002 ACM Mexico and Central America Programming Contest
-- #27 Gatos Negros VI, resolvió 0 problemas en The 2002 ACM Mexico and Central America Programming Contest
-- #27 ITL Black Cats, resolvió 0 problemas en The 2002 ACM Mexico and Central America Programming Contest
-- #27 Los Ponedores del ITL # 13, resolvió 0 problemas en The 2002 ACM Mexico and Central America Programming Contest
+1. _Black Cats I_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
+1. _Black Cats II_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
+1. _Gatos Negros I_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
+1. _Gatos Negros II_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
+1. _Gatos Negros III_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
+1. _Gatos Negros IV_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
+1. _Gatos Negros V_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
+1. _Gatos Negros VI_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
+1. _ITL Black Cats_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
+1. _Los Ponedores del ITL # 13_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

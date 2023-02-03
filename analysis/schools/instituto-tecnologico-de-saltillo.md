@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #18 Burros Pardos, resolvió 2 problemas en The 2004 ACM Mexico and Central America Programming Contest
-- #40 A-I-ES, resolvió 1 problemas en The 2003 ACM Mexico and Central America Programming Contest
-- #40 Tec Guindas, resolvió 2 problemas en The 2005 ACM Mexico and Central America Programming Contest
-- #41 I T S, resolvió 0 problemas en The 2003 ACM Mexico and Central America Programming Contest
-- #50 burritos13, resolvió 1 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #55 Burritos-1, resolvió 2 problemas en The 2008 Mexico & Central America Contest
-- #61 Gungir, resolvió 0 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #71 Gnutella, resolvió 2 problemas en The 2011 Mexico & Central America Regional Contest
-- #72 Pardos, resolvió 1 problemas en The 2005 ACM Mexico and Central America Programming Contest
-- #75 Los Borbotones, resolvió 1 problemas en The 2004 ACM Mexico and Central America Programming Contest
+1. _Burros Pardos_: resolvió 2 problemas y obtuvo el lugar #18 en The 2004 ACM Mexico and Central America Programming Contest
+1. _A-I-ES_: resolvió 1 problemas y obtuvo el lugar #40 en The 2003 ACM Mexico and Central America Programming Contest
+1. _Tec Guindas_: resolvió 2 problemas y obtuvo el lugar #40 en The 2005 ACM Mexico and Central America Programming Contest
+1. _I T S_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
+1. _burritos13_: resolvió 1 problemas y obtuvo el lugar #50 en The 2007 ACM Mexico and Central America Programming Contest
+1. _Burritos-1_: resolvió 2 problemas y obtuvo el lugar #55 en The 2008 Mexico & Central America Contest
+1. _Gungir_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
+1. _Gnutella_: resolvió 2 problemas y obtuvo el lugar #71 en The 2011 Mexico & Central America Regional Contest
+1. _Pardos_: resolvió 1 problemas y obtuvo el lugar #72 en The 2005 ACM Mexico and Central America Programming Contest
+1. _Los Borbotones_: resolvió 1 problemas y obtuvo el lugar #75 en The 2004 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

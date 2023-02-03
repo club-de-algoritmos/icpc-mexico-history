@@ -2,10 +2,10 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #116 UVMistas, resolvió 0 problemas en The 2009 Mexico & Central America Contest
-- #156 Icebreakers, resolvió 0 problemas en The 2010 Mexico & Central America Regional Contest
+1. _UVMistas_: resolvió 0 problemas y obtuvo el lugar #116 en The 2009 Mexico & Central America Contest
+1. _Icebreakers_: resolvió 0 problemas y obtuvo el lugar #156 en The 2010 Mexico & Central America Regional Contest
 
 ## Participaciones
 

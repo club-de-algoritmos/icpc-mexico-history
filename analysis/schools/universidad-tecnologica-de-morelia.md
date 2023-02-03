@@ -2,12 +2,12 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #48 UTM_MIX, resolvió 2 problemas en The 2012 Mexico & Central America Regional Contest
-- #86 UTM Takataka, resolvió 1 problemas en The 2011 Mexico & Central America Regional Contest
-- #93 UTM_MEBER, resolvió 2 problemas en The 2012 Mexico & Central America Regional Contest
-- #104 UTM Sorpresa, resolvió 0 problemas en The 2011 Mexico & Central America Regional Contest
+1. _UTM_MIX_: resolvió 2 problemas y obtuvo el lugar #48 en The 2012 Mexico & Central America Regional Contest
+1. _UTM Takataka_: resolvió 1 problemas y obtuvo el lugar #86 en The 2011 Mexico & Central America Regional Contest
+1. _UTM_MEBER_: resolvió 2 problemas y obtuvo el lugar #93 en The 2012 Mexico & Central America Regional Contest
+1. _UTM Sorpresa_: resolvió 0 problemas y obtuvo el lugar #104 en The 2011 Mexico & Central America Regional Contest
 
 ## Participaciones
 

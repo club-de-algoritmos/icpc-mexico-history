@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #28 HashTable, resolvió 3 problemas en The 2012 Mexico & Central America Regional Contest
-- #38 4luX1t0s, resolvió 2 problemas en The 2012 Mexico & Central America Regional Contest
-- #57 Hashtable, resolvió 1 problemas en The 2014 ACM-ICPC Mexico and Central America Finals
-- #61 Chac Mool, resolvió 0 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #66 Compilando..., resolvió 2 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
-- #82 Alushes, resolvió 1 problemas en The 2011 Mexico & Central America Regional Contest
-- #84 01 F1 Coders, resolvió 1 problemas en The 2009 Mexico & Central America Contest
-- #85 Chakmool, resolvió 0 problemas en The 2005 ACM Mexico and Central America Programming Contest
-- #85 chacmool reloaded, resolvió 0 problemas en The 2006 ACM Mexico and Central America Programming Contest
-- #89 HashTable, resolvió 1 problemas en The 2013 Mexico & Central America Regional Contest
+1. _HashTable_: resolvió 3 problemas y obtuvo el lugar #28 en The 2012 Mexico & Central America Regional Contest
+1. _4luX1t0s_: resolvió 2 problemas y obtuvo el lugar #38 en The 2012 Mexico & Central America Regional Contest
+1. _Hashtable_: resolvió 1 problemas y obtuvo el lugar #57 en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _Chac Mool_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
+1. _Compilando..._: resolvió 2 problemas y obtuvo el lugar #66 en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _Alushes_: resolvió 1 problemas y obtuvo el lugar #82 en The 2011 Mexico & Central America Regional Contest
+1. _01 F1 Coders_: resolvió 1 problemas y obtuvo el lugar #84 en The 2009 Mexico & Central America Contest
+1. _Chakmool_: resolvió 0 problemas y obtuvo el lugar #85 en The 2005 ACM Mexico and Central America Programming Contest
+1. _chacmool reloaded_: resolvió 0 problemas y obtuvo el lugar #85 en The 2006 ACM Mexico and Central America Programming Contest
+1. _HashTable_: resolvió 1 problemas y obtuvo el lugar #89 en The 2013 Mexico & Central America Regional Contest
 
 ## Participaciones
 

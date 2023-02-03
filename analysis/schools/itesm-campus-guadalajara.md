@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #10 Aleph, resolvió 2 problemas en The 2002 ACM Mexico and Central America Programming Contest
-- #10 Acrux Exclamation, resolvió 4 problemas en The 2006 ACM Mexico and Central America Programming Contest
-- #10 Carlit-OS, resolvió 4 problemas en The 2008 Mexico & Central America Contest
-- #11 McTrio, resolvió 3 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #20 Balada Azul, resolvió 1 problemas en The 2003 ACM Mexico and Central America Programming Contest
-- #20 ViralBugSyndrome.exe, resolvió 4 problemas en The 2018 ICPC Mexico and Central America Finals
-- #21 Carlit-OS, resolvió 3 problemas en The 2009 Mexico & Central America Contest
-- #27 Lambda, resolvió 0 problemas en The 2002 ACM Mexico and Central America Programming Contest
-- #27 Rookies, resolvió 0 problemas en The 2002 ACM Mexico and Central America Programming Contest
-- #28 ITESM GDA1, resolvió 2 problemas en The 2004 ACM Mexico and Central America Programming Contest
+1. _Aleph_: resolvió 2 problemas y obtuvo el lugar #10 en The 2002 ACM Mexico and Central America Programming Contest
+1. _Acrux Exclamation_: resolvió 4 problemas y obtuvo el lugar #10 en The 2006 ACM Mexico and Central America Programming Contest
+1. _Carlit-OS_: resolvió 4 problemas y obtuvo el lugar #10 en The 2008 Mexico & Central America Contest
+1. _McTrio_: resolvió 3 problemas y obtuvo el lugar #11 en The 2007 ACM Mexico and Central America Programming Contest
+1. _Balada Azul_: resolvió 1 problemas y obtuvo el lugar #20 en The 2003 ACM Mexico and Central America Programming Contest
+1. _ViralBugSyndrome.exe_: resolvió 4 problemas y obtuvo el lugar #20 en The 2018 ICPC Mexico and Central America Finals
+1. _Carlit-OS_: resolvió 3 problemas y obtuvo el lugar #21 en The 2009 Mexico & Central America Contest
+1. _Lambda_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
+1. _Rookies_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
+1. _ITESM GDA1_: resolvió 2 problemas y obtuvo el lugar #28 en The 2004 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

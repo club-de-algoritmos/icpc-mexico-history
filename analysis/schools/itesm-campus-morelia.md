@@ -2,16 +2,16 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #15 ftw, resolvió 3 problemas en The 2011 Mexico & Central America Regional Contest
-- #18 FTW, resolvió 3 problemas en The 2010 Mexico & Central America Regional Contest
-- #53 Alpha, resolvió 2 problemas en The 2009 Mexico & Central America Contest
-- #101 Epsilon, resolvió 1 problemas en The 2009 Mexico & Central America Contest
-- #104 protrolls, resolvió 0 problemas en The 2011 Mexico & Central America Regional Contest
-- #116 Omicron, resolvió 0 problemas en The 2009 Mexico & Central America Contest
-- #147 Zergs, resolvió 1 problemas en The 2010 Mexico & Central America Regional Contest
-- #156 Protos, resolvió 0 problemas en The 2010 Mexico & Central America Regional Contest
+1. _ftw_: resolvió 3 problemas y obtuvo el lugar #15 en The 2011 Mexico & Central America Regional Contest
+1. _FTW_: resolvió 3 problemas y obtuvo el lugar #18 en The 2010 Mexico & Central America Regional Contest
+1. _Alpha_: resolvió 2 problemas y obtuvo el lugar #53 en The 2009 Mexico & Central America Contest
+1. _Epsilon_: resolvió 1 problemas y obtuvo el lugar #101 en The 2009 Mexico & Central America Contest
+1. _protrolls_: resolvió 0 problemas y obtuvo el lugar #104 en The 2011 Mexico & Central America Regional Contest
+1. _Omicron_: resolvió 0 problemas y obtuvo el lugar #116 en The 2009 Mexico & Central America Contest
+1. _Zergs_: resolvió 1 problemas y obtuvo el lugar #147 en The 2010 Mexico & Central America Regional Contest
+1. _Protos_: resolvió 0 problemas y obtuvo el lugar #156 en The 2010 Mexico & Central America Regional Contest
 
 ## Participaciones
 

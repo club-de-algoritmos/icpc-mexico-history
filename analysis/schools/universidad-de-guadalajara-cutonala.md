@@ -2,10 +2,10 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #28 ACMamo, resolvió 2 problemas en The 2021 ICPC Mexico Finals
-- #40 Solo CUT, resolvió 3 problemas en The 2018 ICPC Mexico and Central America Finals
+1. _ACMamo_: resolvió 2 problemas y obtuvo el lugar #28 en The 2021 ICPC Mexico Finals
+1. _Solo CUT_: resolvió 3 problemas y obtuvo el lugar #40 en The 2018 ICPC Mexico and Central America Finals
 
 ## Participaciones
 

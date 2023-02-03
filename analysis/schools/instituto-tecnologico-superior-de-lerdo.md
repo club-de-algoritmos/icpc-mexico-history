@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #26 The Last Fad, resolvió 3 problemas en The 2012 Mexico & Central America Regional Contest
-- #35 correcaminos, resolvió 1 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #49 THE  FAD, resolvió 3 problemas en The 2010 Mexico & Central America Regional Contest
-- #51 The FAD, resolvió 2 problemas en The 2011 Mexico & Central America Regional Contest
-- #61 kyubis team, resolvió 0 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #61 return this, resolvió 0 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #66 Pok, resolvió 2 problemas en The 2012 Mexico & Central America Regional Contest
-- #68 Develovers, resolvió 1 problemas en The 2009 Mexico & Central America Contest
-- #75 MASTER.NET, resolvió 2 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
-- #76 MASTER.NET, resolvió 1 problemas en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _The Last Fad_: resolvió 3 problemas y obtuvo el lugar #26 en The 2012 Mexico & Central America Regional Contest
+1. _correcaminos_: resolvió 1 problemas y obtuvo el lugar #35 en The 2007 ACM Mexico and Central America Programming Contest
+1. _THE  FAD_: resolvió 3 problemas y obtuvo el lugar #49 en The 2010 Mexico & Central America Regional Contest
+1. _The FAD_: resolvió 2 problemas y obtuvo el lugar #51 en The 2011 Mexico & Central America Regional Contest
+1. _kyubis team_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
+1. _return this_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
+1. _Pok_: resolvió 2 problemas y obtuvo el lugar #66 en The 2012 Mexico & Central America Regional Contest
+1. _Develovers_: resolvió 1 problemas y obtuvo el lugar #68 en The 2009 Mexico & Central America Contest
+1. _MASTER.NET_: resolvió 2 problemas y obtuvo el lugar #75 en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _MASTER.NET_: resolvió 1 problemas y obtuvo el lugar #76 en The 2015 ACM-ICPC Mexico and Central America Finals
 
 ## Participaciones
 

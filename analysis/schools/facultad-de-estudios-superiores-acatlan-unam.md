@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #6 Burst Programming, resolvió 6 problemas en The 2014 ACM-ICPC Mexico and Central America Finals
-- #10 Burst Programming, resolvió 2 problemas en The 2013 Mexico & Central America Regional Contest
-- #11 cocodrilos, resolvió 3 problemas en The 2011 Mexico & Central America Regional Contest
-- #20 Macoders, resolvió 3 problemas en The 2012 Mexico & Central America Regional Contest
-- #23 twt, resolvió 3 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
-- #23 Topoboros, resolvió 4 problemas en The 2018 ICPC Mexico and Central America Finals
-- #31 turing incompleto, resolvió 2 problemas en The 2017 ACM-ICPC Mexico and Central America Finals
-- #31 macpaches, resolvió 3 problemas en The 2011 Mexico & Central America Regional Contest
-- #33 Lavanda Norteña, resolvió 3 problemas en The 2020 ICPC Mexico Finals
-- #35 LAVANDA NORTEÑA, resolvió 2 problemas en The 2019 ICPC Mexico Finals
+1. _Burst Programming_: resolvió 6 problemas y obtuvo el lugar #6 en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _Burst Programming_: resolvió 2 problemas y obtuvo el lugar #10 en The 2013 Mexico & Central America Regional Contest
+1. _cocodrilos_: resolvió 3 problemas y obtuvo el lugar #11 en The 2011 Mexico & Central America Regional Contest
+1. _Macoders_: resolvió 3 problemas y obtuvo el lugar #20 en The 2012 Mexico & Central America Regional Contest
+1. _twt_: resolvió 3 problemas y obtuvo el lugar #23 en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _Topoboros_: resolvió 4 problemas y obtuvo el lugar #23 en The 2018 ICPC Mexico and Central America Finals
+1. _turing incompleto_: resolvió 2 problemas y obtuvo el lugar #31 en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _macpaches_: resolvió 3 problemas y obtuvo el lugar #31 en The 2011 Mexico & Central America Regional Contest
+1. _Lavanda Norteña_: resolvió 3 problemas y obtuvo el lugar #33 en The 2020 ICPC Mexico Finals
+1. _LAVANDA NORTEÑA_: resolvió 2 problemas y obtuvo el lugar #35 en The 2019 ICPC Mexico Finals
 
 ## Participaciones
 

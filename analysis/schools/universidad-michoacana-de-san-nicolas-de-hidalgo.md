@@ -2,17 +2,17 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #12 f(i)=Smat, resolvió 3 problemas en The 2011 Mexico & Central America Regional Contest
-- #13 Lerak Team, resolvió 4 problemas en The 2014 ACM-ICPC Mexico and Central America Finals
-- #15 Fismateros, resolvió 2 problemas en The 2013 Mexico & Central America Regional Contest
-- #19 Fismateros, resolvió 3 problemas en The 2012 Mexico & Central America Regional Contest
-- #23 Lerak Team, resolvió 2 problemas en The 2013 Mexico & Central America Regional Contest
-- #30 FISMAT exception, resolvió 1 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #56 Compilando..., resolvió 2 problemas en The 2009 Mexico & Central America Contest
-- #77 Los twinkis, resolvió 1 problemas en The 2005 ACM Mexico and Central America Programming Contest
-- #89 fismateros, resolvió 2 problemas en The 2010 Mexico & Central America Regional Contest
+1. _f(i)=Smat_: resolvió 3 problemas y obtuvo el lugar #12 en The 2011 Mexico & Central America Regional Contest
+1. _Lerak Team_: resolvió 4 problemas y obtuvo el lugar #13 en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _Fismateros_: resolvió 2 problemas y obtuvo el lugar #15 en The 2013 Mexico & Central America Regional Contest
+1. _Fismateros_: resolvió 3 problemas y obtuvo el lugar #19 en The 2012 Mexico & Central America Regional Contest
+1. _Lerak Team_: resolvió 2 problemas y obtuvo el lugar #23 en The 2013 Mexico & Central America Regional Contest
+1. _FISMAT exception_: resolvió 1 problemas y obtuvo el lugar #30 en The 2007 ACM Mexico and Central America Programming Contest
+1. _Compilando..._: resolvió 2 problemas y obtuvo el lugar #56 en The 2009 Mexico & Central America Contest
+1. _Los twinkis_: resolvió 1 problemas y obtuvo el lugar #77 en The 2005 ACM Mexico and Central America Programming Contest
+1. _fismateros_: resolvió 2 problemas y obtuvo el lugar #89 en The 2010 Mexico & Central America Regional Contest
 
 ## Participaciones
 

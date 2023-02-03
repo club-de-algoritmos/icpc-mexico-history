@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #95 Colibries, resolvió 0 problemas en The 2013 Mexico & Central America Regional Contest
-- #95 ITST, resolvió 0 problemas en The 2013 Mexico & Central America Regional Contest
-- #95 ITST-, resolvió 0 problemas en The 2013 Mexico & Central America Regional Contest
-- #104 ITST-1, resolvió 0 problemas en The 2011 Mexico & Central America Regional Contest
-- #104 ITST-2, resolvió 0 problemas en The 2011 Mexico & Central America Regional Contest
-- #104 ITST-3, resolvió 0 problemas en The 2011 Mexico & Central America Regional Contest
-- #134 ITST-1, resolvió 0 problemas en The 2012 Mexico & Central America Regional Contest
-- #134 ITST-2, resolvió 0 problemas en The 2012 Mexico & Central America Regional Contest
-- #134 ITST-3, resolvió 0 problemas en The 2012 Mexico & Central America Regional Contest
-- #156 ITST-1, resolvió 0 problemas en The 2010 Mexico & Central America Regional Contest
+1. _Colibries_: resolvió 0 problemas y obtuvo el lugar #95 en The 2013 Mexico & Central America Regional Contest
+1. _ITST_: resolvió 0 problemas y obtuvo el lugar #95 en The 2013 Mexico & Central America Regional Contest
+1. _ITST-_: resolvió 0 problemas y obtuvo el lugar #95 en The 2013 Mexico & Central America Regional Contest
+1. _ITST-1_: resolvió 0 problemas y obtuvo el lugar #104 en The 2011 Mexico & Central America Regional Contest
+1. _ITST-2_: resolvió 0 problemas y obtuvo el lugar #104 en The 2011 Mexico & Central America Regional Contest
+1. _ITST-3_: resolvió 0 problemas y obtuvo el lugar #104 en The 2011 Mexico & Central America Regional Contest
+1. _ITST-1_: resolvió 0 problemas y obtuvo el lugar #134 en The 2012 Mexico & Central America Regional Contest
+1. _ITST-2_: resolvió 0 problemas y obtuvo el lugar #134 en The 2012 Mexico & Central America Regional Contest
+1. _ITST-3_: resolvió 0 problemas y obtuvo el lugar #134 en The 2012 Mexico & Central America Regional Contest
+1. _ITST-1_: resolvió 0 problemas y obtuvo el lugar #156 en The 2010 Mexico & Central America Regional Contest
 
 ## Participaciones
 

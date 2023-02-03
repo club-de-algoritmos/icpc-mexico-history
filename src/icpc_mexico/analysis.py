@@ -177,12 +177,12 @@ class Analyzer:
                     )
 
                 teams.sort(key=sort_team)
-                with markdown.section('Top 10 equipos'):
+                with markdown.section('Mejores 10 equipos'):
                     for team in teams[:10]:
                         _, contest, team_result = team
-                        markdown.bullet_point(
-                            f'#{team_result.rank} {team_result.name}, resolvió {team_result.problems_solved} problemas'
-                            f' en {contest.name}')
+                        markdown.numbered_bullet_point(
+                            f'_{team_result.name}_: resolvió {team_result.problems_solved} problemas'
+                            f' y obtuvo el lugar #{team_result.rank} en {contest.name}')
 
                 with markdown.section('Participaciones'):
                     for year, contests in contests_by_year.items():

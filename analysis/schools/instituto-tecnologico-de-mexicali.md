@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #4 marikatu, resolvió 4 problemas en The 2006 ACM Mexico and Central America Programming Contest
-- #8 bufalos, resolvió 4 problemas en The 2004 ACM Mexico and Central America Programming Contest
-- #22 JavaTek, resolvió 3 problemas en The 2006 ACM Mexico and Central America Programming Contest
-- #41 mani, resolvió 1 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #45 ++TEC, resolvió 2 problemas en The 2012 Mexico & Central America Regional Contest
-- #46 JUnit, resolvió 1 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #61 CACHORA'S TEAM, resolvió 0 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #70 J-UNIT RELOADED, resolvió 1 problemas en The 2008 Mexico & Central America Contest
-- #72 ACM1PTPLZ, resolvió 2 problemas en The 2011 Mexico & Central America Regional Contest
-- #81 CHRONOS, resolvió 1 problemas en The 2008 Mexico & Central America Contest
+1. _marikatu_: resolvió 4 problemas y obtuvo el lugar #4 en The 2006 ACM Mexico and Central America Programming Contest
+1. _bufalos_: resolvió 4 problemas y obtuvo el lugar #8 en The 2004 ACM Mexico and Central America Programming Contest
+1. _JavaTek_: resolvió 3 problemas y obtuvo el lugar #22 en The 2006 ACM Mexico and Central America Programming Contest
+1. _mani_: resolvió 1 problemas y obtuvo el lugar #41 en The 2007 ACM Mexico and Central America Programming Contest
+1. _++TEC_: resolvió 2 problemas y obtuvo el lugar #45 en The 2012 Mexico & Central America Regional Contest
+1. _JUnit_: resolvió 1 problemas y obtuvo el lugar #46 en The 2007 ACM Mexico and Central America Programming Contest
+1. _CACHORA'S TEAM_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
+1. _J-UNIT RELOADED_: resolvió 1 problemas y obtuvo el lugar #70 en The 2008 Mexico & Central America Contest
+1. _ACM1PTPLZ_: resolvió 2 problemas y obtuvo el lugar #72 en The 2011 Mexico & Central America Regional Contest
+1. _CHRONOS_: resolvió 1 problemas y obtuvo el lugar #81 en The 2008 Mexico & Central America Contest
 
 ## Participaciones
 

@@ -2,10 +2,10 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #43 ITL-1, resolvió 2 problemas en The 2015 ACM-ICPC Mexico and Central America Finals
-- #70 ITLeón_1, resolvió 2 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _ITL-1_: resolvió 2 problemas y obtuvo el lugar #43 en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _ITLeón_1_: resolvió 2 problemas y obtuvo el lugar #70 en The 2016 ACM-ICPC Mexico and Central America Finals
 
 ## Participaciones
 

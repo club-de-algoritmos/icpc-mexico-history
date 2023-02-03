@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #82 UAT The Tlaxcallan Kings, resolvió 0 problemas en The 2006 ACM Programming Contest World Finals
-- #14 Tlacuaches, resolvió 2 problemas en The 2003 ACM Mexico and Central America Programming Contest
-- #15 Smart Survivors, resolvió 1 problemas en The 2002 ACM Mexico and Central America Programming Contest
-- #19 Los Rabales, resolvió 2 problemas en The 2004 ACM Mexico and Central America Programming Contest
-- #20 Survival Machines, resolvió 2 problemas en The 2004 ACM Mexico and Central America Programming Contest
-- #20 C.java, resolvió 3 problemas en The 2006 ACM Mexico and Central America Programming Contest
-- #24 RAM, resolvió 2 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #26 Maze Minds, resolvió 3 problemas en The 2009 Mexico & Central America Contest
-- #27 Mapaches, resolvió 0 problemas en The 2002 ACM Mexico and Central America Programming Contest
-- #27 Programming Fury, resolvió 0 problemas en The 2002 ACM Mexico and Central America Programming Contest
+1. _UAT The Tlaxcallan Kings_: resolvió 0 problemas y obtuvo el lugar #82 en The 2006 ACM Programming Contest World Finals
+1. _Tlacuaches_: resolvió 2 problemas y obtuvo el lugar #14 en The 2003 ACM Mexico and Central America Programming Contest
+1. _Smart Survivors_: resolvió 1 problemas y obtuvo el lugar #15 en The 2002 ACM Mexico and Central America Programming Contest
+1. _Los Rabales_: resolvió 2 problemas y obtuvo el lugar #19 en The 2004 ACM Mexico and Central America Programming Contest
+1. _Survival Machines_: resolvió 2 problemas y obtuvo el lugar #20 en The 2004 ACM Mexico and Central America Programming Contest
+1. _C.java_: resolvió 3 problemas y obtuvo el lugar #20 en The 2006 ACM Mexico and Central America Programming Contest
+1. _RAM_: resolvió 2 problemas y obtuvo el lugar #24 en The 2007 ACM Mexico and Central America Programming Contest
+1. _Maze Minds_: resolvió 3 problemas y obtuvo el lugar #26 en The 2009 Mexico & Central America Contest
+1. _Mapaches_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
+1. _Programming Fury_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

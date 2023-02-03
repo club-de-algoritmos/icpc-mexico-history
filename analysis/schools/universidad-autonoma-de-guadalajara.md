@@ -2,15 +2,15 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #3 Nemesis, resolvió 5 problemas en The 2005 ACM Mexico and Central America Programming Contest
-- #10 ACRUX, resolvió 3 problemas en The 2005 ACM Mexico and Central America Programming Contest
-- #53 BSoD, resolvió 2 problemas en The 2008 Mexico & Central America Contest
-- #58 PROGINNT, resolvió 1 problemas en The 2005 ACM Mexico and Central America Programming Contest
-- #79 Kernel Panic, resolvió 1 problemas en The 2008 Mexico & Central America Contest
-- #85 IGDA Iteso, resolvió 0 problemas en The 2005 ACM Mexico and Central America Programming Contest
-- #91 NetBeaners, resolvió 1 problemas en The 2008 Mexico & Central America Contest
+1. _Nemesis_: resolvió 5 problemas y obtuvo el lugar #3 en The 2005 ACM Mexico and Central America Programming Contest
+1. _ACRUX_: resolvió 3 problemas y obtuvo el lugar #10 en The 2005 ACM Mexico and Central America Programming Contest
+1. _BSoD_: resolvió 2 problemas y obtuvo el lugar #53 en The 2008 Mexico & Central America Contest
+1. _PROGINNT_: resolvió 1 problemas y obtuvo el lugar #58 en The 2005 ACM Mexico and Central America Programming Contest
+1. _Kernel Panic_: resolvió 1 problemas y obtuvo el lugar #79 en The 2008 Mexico & Central America Contest
+1. _IGDA Iteso_: resolvió 0 problemas y obtuvo el lugar #85 en The 2005 ACM Mexico and Central America Programming Contest
+1. _NetBeaners_: resolvió 1 problemas y obtuvo el lugar #91 en The 2008 Mexico & Central America Contest
 
 ## Participaciones
 

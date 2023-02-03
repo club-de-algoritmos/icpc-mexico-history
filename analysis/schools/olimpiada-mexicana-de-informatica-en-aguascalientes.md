@@ -2,10 +2,10 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #27 Nomen nescio, resolvió 3 problemas en The 2010 Mexico & Central America Regional Contest
-- #42 aguascalientitos, resolvió 2 problemas en The 2012 Mexico & Central America Regional Contest
+1. _Nomen nescio_: resolvió 3 problemas y obtuvo el lugar #27 en The 2010 Mexico & Central America Regional Contest
+1. _aguascalientitos_: resolvió 2 problemas y obtuvo el lugar #42 en The 2012 Mexico & Central America Regional Contest
 
 ## Participaciones
 

@@ -2,17 +2,17 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #44 anonymous, resolvió 2 problemas en The 2012 Mexico & Central America Regional Contest
-- #51 Base16, resolvió 3 problemas en The 2018 ICPC Mexico and Central America Finals
-- #95 Error 404 Programmers NF, resolvió 0 problemas en The 2013 Mexico & Central America Regional Contest
-- #95 KUINIKES, resolvió 0 problemas en The 2013 Mexico & Central America Regional Contest
-- #95 Recyclers Coders, resolvió 0 problemas en The 2013 Mexico & Central America Regional Contest
-- #104 Delfines, resolvió 0 problemas en The 2011 Mexico & Central America Regional Contest
-- #104 Tiburones, resolvió 0 problemas en The 2011 Mexico & Central America Regional Contest
-- #134 Delfines, resolvió 0 problemas en The 2012 Mexico & Central America Regional Contest
-- #134 KAME, resolvió 0 problemas en The 2012 Mexico & Central America Regional Contest
+1. _anonymous_: resolvió 2 problemas y obtuvo el lugar #44 en The 2012 Mexico & Central America Regional Contest
+1. _Base16_: resolvió 3 problemas y obtuvo el lugar #51 en The 2018 ICPC Mexico and Central America Finals
+1. _Error 404 Programmers NF_: resolvió 0 problemas y obtuvo el lugar #95 en The 2013 Mexico & Central America Regional Contest
+1. _KUINIKES_: resolvió 0 problemas y obtuvo el lugar #95 en The 2013 Mexico & Central America Regional Contest
+1. _Recyclers Coders_: resolvió 0 problemas y obtuvo el lugar #95 en The 2013 Mexico & Central America Regional Contest
+1. _Delfines_: resolvió 0 problemas y obtuvo el lugar #104 en The 2011 Mexico & Central America Regional Contest
+1. _Tiburones_: resolvió 0 problemas y obtuvo el lugar #104 en The 2011 Mexico & Central America Regional Contest
+1. _Delfines_: resolvió 0 problemas y obtuvo el lugar #134 en The 2012 Mexico & Central America Regional Contest
+1. _KAME_: resolvió 0 problemas y obtuvo el lugar #134 en The 2012 Mexico & Central America Regional Contest
 
 ## Participaciones
 

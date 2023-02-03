@@ -2,16 +2,16 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #26 UAMC A, resolvió 3 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
-- #32 UAM Cuajimalpa 2015 A, resolvió 3 problemas en The 2015 ACM-ICPC Mexico and Central America Finals
-- #39 UAM Cuajimalpa 2014-Compu, resolvió 1 problemas en The 2014 ACM-ICPC Mexico and Central America Finals
-- #59 UAMC A, resolvió 1 problemas en The 2017 ACM-ICPC Mexico and Central America Finals
-- #63 UAM Cuajimalpa, resolvió 2 problemas en The 2011 Mexico & Central America Regional Contest
-- #78 UAM Cuajimalpa 2015 B, resolvió 1 problemas en The 2015 ACM-ICPC Mexico and Central America Finals
-- #81 UAM Iztapalapa, resolvió 1 problemas en The 2006 ACM Mexico and Central America Programming Contest
-- #92 UAM CUAJIMALPA 2013, resolvió 1 problemas en The 2013 Mexico & Central America Regional Contest
+1. _UAMC A_: resolvió 3 problemas y obtuvo el lugar #26 en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _UAM Cuajimalpa 2015 A_: resolvió 3 problemas y obtuvo el lugar #32 en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _UAM Cuajimalpa 2014-Compu_: resolvió 1 problemas y obtuvo el lugar #39 en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _UAMC A_: resolvió 1 problemas y obtuvo el lugar #59 en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _UAM Cuajimalpa_: resolvió 2 problemas y obtuvo el lugar #63 en The 2011 Mexico & Central America Regional Contest
+1. _UAM Cuajimalpa 2015 B_: resolvió 1 problemas y obtuvo el lugar #78 en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _UAM Iztapalapa_: resolvió 1 problemas y obtuvo el lugar #81 en The 2006 ACM Mexico and Central America Programming Contest
+1. _UAM CUAJIMALPA 2013_: resolvió 1 problemas y obtuvo el lugar #92 en The 2013 Mexico & Central America Regional Contest
 
 ## Participaciones
 

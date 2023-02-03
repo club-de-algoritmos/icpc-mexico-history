@@ -2,10 +2,10 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #104 Chapala 3, resolvió 0 problemas en The 2011 Mexico & Central America Regional Contest
-- #134 Los Truchas, resolvió 0 problemas en The 2012 Mexico & Central America Regional Contest
+1. _Chapala 3_: resolvió 0 problemas y obtuvo el lugar #104 en The 2011 Mexico & Central America Regional Contest
+1. _Los Truchas_: resolvió 0 problemas y obtuvo el lugar #134 en The 2012 Mexico & Central America Regional Contest
 
 ## Participaciones
 

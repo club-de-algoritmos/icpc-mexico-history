@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #16 Mapache 3, resolvió 1 problemas en The 2002 ACM Mexico and Central America Programming Contest
-- #27 Mapache 1, resolvió 0 problemas en The 2002 ACM Mexico and Central America Programming Contest
-- #27 Mapache 2, resolvió 0 problemas en The 2002 ACM Mexico and Central America Programming Contest
-- #30 Mapaches2, resolvió 1 problemas en The 2001 ACM Mexico and Central America Programming Contest
-- #41 Mapache1, resolvió 0 problemas en The 2003 ACM Mexico and Central America Programming Contest
-- #41 Mapache2, resolvió 0 problemas en The 2003 ACM Mexico and Central America Programming Contest
-- #41 Mapache3, resolvió 0 problemas en The 2003 ACM Mexico and Central America Programming Contest
-- #41 Mapache4, resolvió 0 problemas en The 2003 ACM Mexico and Central America Programming Contest
-- #41 Mapache5, resolvió 0 problemas en The 2003 ACM Mexico and Central America Programming Contest
-- #41 Mapache6, resolvió 0 problemas en The 2003 ACM Mexico and Central America Programming Contest
+1. _Mapache 3_: resolvió 1 problemas y obtuvo el lugar #16 en The 2002 ACM Mexico and Central America Programming Contest
+1. _Mapache 1_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
+1. _Mapache 2_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
+1. _Mapaches2_: resolvió 1 problemas y obtuvo el lugar #30 en The 2001 ACM Mexico and Central America Programming Contest
+1. _Mapache1_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
+1. _Mapache2_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
+1. _Mapache3_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
+1. _Mapache4_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
+1. _Mapache5_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
+1. _Mapache6_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

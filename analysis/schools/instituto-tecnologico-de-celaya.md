@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #8 Infrabit, resolvió 3 problemas en The 2003 ACM Mexico and Central America Programming Contest
-- #11 Linces 2, resolvió 4 problemas en The 2006 ACM Mexico and Central America Programming Contest
-- #16 bichos, resolvió 2 problemas en The 2001 ACM Mexico and Central America Programming Contest
-- #19 Linces 1, resolvió 3 problemas en The 2006 ACM Mexico and Central America Programming Contest
-- #23 MachoSoft, resolvió 1 problemas en The 2001 ACM Mexico and Central America Programming Contest
-- #41 DOKARACY, resolvió 0 problemas en The 2003 ACM Mexico and Central America Programming Contest
-- #56 INFRABIT, resolvió 1 problemas en The 2004 ACM Mexico and Central America Programming Contest
-- #61 Linces Blanco, resolvió 0 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #61 Linces Oro, resolvió 0 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #61 Linces Verde, resolvió 0 problemas en The 2007 ACM Mexico and Central America Programming Contest
+1. _Infrabit_: resolvió 3 problemas y obtuvo el lugar #8 en The 2003 ACM Mexico and Central America Programming Contest
+1. _Linces 2_: resolvió 4 problemas y obtuvo el lugar #11 en The 2006 ACM Mexico and Central America Programming Contest
+1. _bichos_: resolvió 2 problemas y obtuvo el lugar #16 en The 2001 ACM Mexico and Central America Programming Contest
+1. _Linces 1_: resolvió 3 problemas y obtuvo el lugar #19 en The 2006 ACM Mexico and Central America Programming Contest
+1. _MachoSoft_: resolvió 1 problemas y obtuvo el lugar #23 en The 2001 ACM Mexico and Central America Programming Contest
+1. _DOKARACY_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
+1. _INFRABIT_: resolvió 1 problemas y obtuvo el lugar #56 en The 2004 ACM Mexico and Central America Programming Contest
+1. _Linces Blanco_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
+1. _Linces Oro_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
+1. _Linces Verde_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

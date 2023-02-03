@@ -2,17 +2,17 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #9 Wolves, resolvió 5 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
-- #10 Wolves, resolvió 5 problemas en The 2019 ICPC Mexico Finals
-- #15 Wolves, resolvió 3 problemas en The 2017 ACM-ICPC Mexico and Central America Finals
-- #21 Wolves, resolvió 4 problemas en The 2020 ICPC Mexico Finals
-- #22 Los tres jinetes, resolvió 2 problemas en The 2017 ACM-ICPC Mexico and Central America Finals
-- #29 Wolves, resolvió 4 problemas en The 2018 ICPC Mexico and Central America Finals
-- #31 Los tres jinetes, resolvió 4 problemas en The 2018 ICPC Mexico and Central America Finals
-- #36 Los Tres Jinetes, resolvió 2 problemas en The 2019 ICPC Mexico Finals
-- #68 Penguins, resolvió 2 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _Wolves_: resolvió 5 problemas y obtuvo el lugar #9 en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _Wolves_: resolvió 5 problemas y obtuvo el lugar #10 en The 2019 ICPC Mexico Finals
+1. _Wolves_: resolvió 3 problemas y obtuvo el lugar #15 en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _Wolves_: resolvió 4 problemas y obtuvo el lugar #21 en The 2020 ICPC Mexico Finals
+1. _Los tres jinetes_: resolvió 2 problemas y obtuvo el lugar #22 en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _Wolves_: resolvió 4 problemas y obtuvo el lugar #29 en The 2018 ICPC Mexico and Central America Finals
+1. _Los tres jinetes_: resolvió 4 problemas y obtuvo el lugar #31 en The 2018 ICPC Mexico and Central America Finals
+1. _Los Tres Jinetes_: resolvió 2 problemas y obtuvo el lugar #36 en The 2019 ICPC Mexico Finals
+1. _Penguins_: resolvió 2 problemas y obtuvo el lugar #68 en The 2016 ACM-ICPC Mexico and Central America Finals
 
 ## Participaciones
 

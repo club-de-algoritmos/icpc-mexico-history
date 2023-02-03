@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #18 #include<uaz>, resolvió 4 problemas en The 2018 ICPC Mexico and Central America Finals
-- #21 #include<uaz>, resolvió 3 problemas en The 2021 ICPC Mexico Finals
-- #22 #include <uaz>, resolvió 4 problemas en The 2019 ICPC Mexico Finals
-- #25 Los Ases, resolvió 2 problemas en The 2013 Mexico & Central America Regional Contest
-- #30 #include<uaz>, resolvió 3 problemas en The 2020 ICPC Mexico Finals
-- #34 Developers, resolvió 1 problemas en The 2013 Mexico & Central America Regional Contest
-- #35 jarcores, resolvió 2 problemas en The 2014 ACM-ICPC Mexico and Central America Finals
-- #40 SourceCode, resolvió 2 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
-- #42 ProgrammersOP, resolvió 1 problemas en The 2014 ACM-ICPC Mexico and Central America Finals
-- #48 Sudo Programmers, resolvió 1 problemas en The 2021 ICPC Mexico Finals
+1. _#include<uaz>_: resolvió 4 problemas y obtuvo el lugar #18 en The 2018 ICPC Mexico and Central America Finals
+1. _#include<uaz>_: resolvió 3 problemas y obtuvo el lugar #21 en The 2021 ICPC Mexico Finals
+1. _#include <uaz>_: resolvió 4 problemas y obtuvo el lugar #22 en The 2019 ICPC Mexico Finals
+1. _Los Ases_: resolvió 2 problemas y obtuvo el lugar #25 en The 2013 Mexico & Central America Regional Contest
+1. _#include<uaz>_: resolvió 3 problemas y obtuvo el lugar #30 en The 2020 ICPC Mexico Finals
+1. _Developers_: resolvió 1 problemas y obtuvo el lugar #34 en The 2013 Mexico & Central America Regional Contest
+1. _jarcores_: resolvió 2 problemas y obtuvo el lugar #35 en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _SourceCode_: resolvió 2 problemas y obtuvo el lugar #40 en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _ProgrammersOP_: resolvió 1 problemas y obtuvo el lugar #42 en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _Sudo Programmers_: resolvió 1 problemas y obtuvo el lugar #48 en The 2021 ICPC Mexico Finals
 
 ## Participaciones
 

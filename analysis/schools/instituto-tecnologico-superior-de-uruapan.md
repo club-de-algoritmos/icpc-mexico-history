@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #66 itsu_uruapan1, resolvió 2 problemas en The 2011 Mexico & Central America Regional Contest
-- #90 itsu1, resolvió 2 problemas en The 2012 Mexico & Central America Regional Contest
-- #95 itsu01, resolvió 0 problemas en The 2013 Mexico & Central America Regional Contest
-- #96 British steel, resolvió 2 problemas en The 2010 Mexico & Central America Regional Contest
-- #97 ITESU01, resolvió 1 problemas en The 2009 Mexico & Central America Contest
-- #103 ITESU03, resolvió 1 problemas en The 2009 Mexico & Central America Contest
-- #104 itsu_uruapan2, resolvió 0 problemas en The 2011 Mexico & Central America Regional Contest
-- #104 itsu_uruapan3, resolvió 0 problemas en The 2011 Mexico & Central America Regional Contest
-- #116 ITESU02, resolvió 0 problemas en The 2009 Mexico & Central America Contest
-- #129 itsu3, resolvió 1 problemas en The 2012 Mexico & Central America Regional Contest
+1. _itsu_uruapan1_: resolvió 2 problemas y obtuvo el lugar #66 en The 2011 Mexico & Central America Regional Contest
+1. _itsu1_: resolvió 2 problemas y obtuvo el lugar #90 en The 2012 Mexico & Central America Regional Contest
+1. _itsu01_: resolvió 0 problemas y obtuvo el lugar #95 en The 2013 Mexico & Central America Regional Contest
+1. _British steel_: resolvió 2 problemas y obtuvo el lugar #96 en The 2010 Mexico & Central America Regional Contest
+1. _ITESU01_: resolvió 1 problemas y obtuvo el lugar #97 en The 2009 Mexico & Central America Contest
+1. _ITESU03_: resolvió 1 problemas y obtuvo el lugar #103 en The 2009 Mexico & Central America Contest
+1. _itsu_uruapan2_: resolvió 0 problemas y obtuvo el lugar #104 en The 2011 Mexico & Central America Regional Contest
+1. _itsu_uruapan3_: resolvió 0 problemas y obtuvo el lugar #104 en The 2011 Mexico & Central America Regional Contest
+1. _ITESU02_: resolvió 0 problemas y obtuvo el lugar #116 en The 2009 Mexico & Central America Contest
+1. _itsu3_: resolvió 1 problemas y obtuvo el lugar #129 en The 2012 Mexico & Central America Regional Contest
 
 ## Participaciones
 

@@ -2,15 +2,15 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #27 C-NEWS, resolvió 0 problemas en The 2002 ACM Mexico and Central America Programming Contest
-- #45 Turigers, resolvió 1 problemas en The 2014 ACM-ICPC Mexico and Central America Finals
-- #84 Turingers, resolvió 1 problemas en The 2013 Mexico & Central America Regional Contest
-- #85 cripTux, resolvió 2 problemas en The 2012 Mexico & Central America Regional Contest
-- #95 BugKillers, resolvió 0 problemas en The 2013 Mexico & Central America Regional Contest
-- #99 FEI_UV, resolvió 1 problemas en The 2009 Mexico & Central America Contest
-- #116 Dukes, resolvió 0 problemas en The 2009 Mexico & Central America Contest
+1. _C-NEWS_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
+1. _Turigers_: resolvió 1 problemas y obtuvo el lugar #45 en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _Turingers_: resolvió 1 problemas y obtuvo el lugar #84 en The 2013 Mexico & Central America Regional Contest
+1. _cripTux_: resolvió 2 problemas y obtuvo el lugar #85 en The 2012 Mexico & Central America Regional Contest
+1. _BugKillers_: resolvió 0 problemas y obtuvo el lugar #95 en The 2013 Mexico & Central America Regional Contest
+1. _FEI_UV_: resolvió 1 problemas y obtuvo el lugar #99 en The 2009 Mexico & Central America Contest
+1. _Dukes_: resolvió 0 problemas y obtuvo el lugar #116 en The 2009 Mexico & Central America Contest
 
 ## Participaciones
 

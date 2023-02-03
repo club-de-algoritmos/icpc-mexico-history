@@ -2,11 +2,11 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #61 Equipo 2 - Quinto, resolvió 2 problemas en The 2010 Mexico & Central America Regional Contest
-- #92 Equipo 1 - Quinto, resolvió 2 problemas en The 2010 Mexico & Central America Regional Contest
-- #116 Agramontinos, resolvió 0 problemas en The 2009 Mexico & Central America Contest
+1. _Equipo 2 - Quinto_: resolvió 2 problemas y obtuvo el lugar #61 en The 2010 Mexico & Central America Regional Contest
+1. _Equipo 1 - Quinto_: resolvió 2 problemas y obtuvo el lugar #92 en The 2010 Mexico & Central America Regional Contest
+1. _Agramontinos_: resolvió 0 problemas y obtuvo el lugar #116 en The 2009 Mexico & Central America Contest
 
 ## Participaciones
 

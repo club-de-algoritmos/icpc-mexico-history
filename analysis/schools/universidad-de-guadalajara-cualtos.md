@@ -2,11 +2,11 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #39 Si no gano, me corren, resolvió 2 problemas en The 2019 ICPC Mexico Finals
-- #57 Sí no gano,me corren - CUALTOS, resolvió 2 problemas en The 2018 ICPC Mexico and Central America Finals
-- #67 Chapulines 2.0 - CUALTOS, resolvió 2 problemas en The 2018 ICPC Mexico and Central America Finals
+1. _Si no gano, me corren_: resolvió 2 problemas y obtuvo el lugar #39 en The 2019 ICPC Mexico Finals
+1. _Sí no gano,me corren - CUALTOS_: resolvió 2 problemas y obtuvo el lugar #57 en The 2018 ICPC Mexico and Central America Finals
+1. _Chapulines 2.0 - CUALTOS_: resolvió 2 problemas y obtuvo el lugar #67 en The 2018 ICPC Mexico and Central America Finals
 
 ## Participaciones
 

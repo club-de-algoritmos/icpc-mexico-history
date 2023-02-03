@@ -2,13 +2,13 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #42 Topos I.T.S.Z.O, resolvió 1 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #61 Topos ITSZO, resolvió 1 problemas en The 2006 ACM Mexico and Central America Programming Contest
-- #85 TopoSIS, resolvió 0 problemas en The 2005 ACM Mexico and Central America Programming Contest
-- #90 TOPOS-SIS, resolvió 0 problemas en The 2004 ACM Mexico and Central America Programming Contest
-- #101 Topos, resolvió 0 problemas en The 2008 Mexico & Central America Contest
+1. _Topos I.T.S.Z.O_: resolvió 1 problemas y obtuvo el lugar #42 en The 2007 ACM Mexico and Central America Programming Contest
+1. _Topos ITSZO_: resolvió 1 problemas y obtuvo el lugar #61 en The 2006 ACM Mexico and Central America Programming Contest
+1. _TopoSIS_: resolvió 0 problemas y obtuvo el lugar #85 en The 2005 ACM Mexico and Central America Programming Contest
+1. _TOPOS-SIS_: resolvió 0 problemas y obtuvo el lugar #90 en The 2004 ACM Mexico and Central America Programming Contest
+1. _Topos_: resolvió 0 problemas y obtuvo el lugar #101 en The 2008 Mexico & Central America Contest
 
 ## Participaciones
 

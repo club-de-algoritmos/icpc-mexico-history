@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #22 ITESI Tres, resolvió 1 problemas en The 2001 ACM Mexico and Central America Programming Contest
-- #26 ITESI-fundadores, resolvió 1 problemas en The 2001 ACM Mexico and Central America Programming Contest
-- #27 ITESI Fundadores, resolvió 0 problemas en The 2002 ACM Mexico and Central America Programming Contest
-- #27 ITESI Revelacion, resolvió 0 problemas en The 2002 ACM Mexico and Central America Programming Contest
-- #39 ITESI LI, resolvió 1 problemas en The 2003 ACM Mexico and Central America Programming Contest
-- #41 ITESI ISC, resolvió 0 problemas en The 2003 ACM Mexico and Central America Programming Contest
-- #46 ITESI-El ultimo, resolvió 1 problemas en The 2001 ACM Mexico and Central America Programming Contest
-- #54 ITESI 2, resolvió 1 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #60 Los peques, resolvió 1 problemas en The 2005 ACM Mexico and Central America Programming Contest
-- #61 ITESI 1, resolvió 0 problemas en The 2007 ACM Mexico and Central America Programming Contest
+1. _ITESI Tres_: resolvió 1 problemas y obtuvo el lugar #22 en The 2001 ACM Mexico and Central America Programming Contest
+1. _ITESI-fundadores_: resolvió 1 problemas y obtuvo el lugar #26 en The 2001 ACM Mexico and Central America Programming Contest
+1. _ITESI Fundadores_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
+1. _ITESI Revelacion_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
+1. _ITESI LI_: resolvió 1 problemas y obtuvo el lugar #39 en The 2003 ACM Mexico and Central America Programming Contest
+1. _ITESI ISC_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
+1. _ITESI-El ultimo_: resolvió 1 problemas y obtuvo el lugar #46 en The 2001 ACM Mexico and Central America Programming Contest
+1. _ITESI 2_: resolvió 1 problemas y obtuvo el lugar #54 en The 2007 ACM Mexico and Central America Programming Contest
+1. _Los peques_: resolvió 1 problemas y obtuvo el lugar #60 en The 2005 ACM Mexico and Central America Programming Contest
+1. _ITESI 1_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #18 TecMorelia2, resolvió 2 problemas en The 2013 Mexico & Central America Regional Contest
-- #20 ITM-3, resolvió 3 problemas en The 2011 Mexico & Central America Regional Contest
-- #46 Tec Morelia 1, resolvió 2 problemas en The 2012 Mexico & Central America Regional Contest
-- #63 ITM - Tec Morelia 2, resolvió 2 problemas en The 2012 Mexico & Central America Regional Contest
-- #64 ITM-2, resolvió 2 problemas en The 2011 Mexico & Central America Regional Contest
-- #67 Fail, resolvió 1 problemas en The 2009 Mexico & Central America Contest
-- #75 TecMorelia1, resolvió 1 problemas en The 2013 Mexico & Central America Regional Contest
-- #79 ITM-1, resolvió 1 problemas en The 2011 Mexico & Central America Regional Contest
-- #81 ITM - Tec Morelia 3, resolvió 2 problemas en The 2012 Mexico & Central America Regional Contest
-- #95 Tuxinator, resolvió 1 problemas en The 2009 Mexico & Central America Contest
+1. _TecMorelia2_: resolvió 2 problemas y obtuvo el lugar #18 en The 2013 Mexico & Central America Regional Contest
+1. _ITM-3_: resolvió 3 problemas y obtuvo el lugar #20 en The 2011 Mexico & Central America Regional Contest
+1. _Tec Morelia 1_: resolvió 2 problemas y obtuvo el lugar #46 en The 2012 Mexico & Central America Regional Contest
+1. _ITM - Tec Morelia 2_: resolvió 2 problemas y obtuvo el lugar #63 en The 2012 Mexico & Central America Regional Contest
+1. _ITM-2_: resolvió 2 problemas y obtuvo el lugar #64 en The 2011 Mexico & Central America Regional Contest
+1. _Fail_: resolvió 1 problemas y obtuvo el lugar #67 en The 2009 Mexico & Central America Contest
+1. _TecMorelia1_: resolvió 1 problemas y obtuvo el lugar #75 en The 2013 Mexico & Central America Regional Contest
+1. _ITM-1_: resolvió 1 problemas y obtuvo el lugar #79 en The 2011 Mexico & Central America Regional Contest
+1. _ITM - Tec Morelia 3_: resolvió 2 problemas y obtuvo el lugar #81 en The 2012 Mexico & Central America Regional Contest
+1. _Tuxinator_: resolvió 1 problemas y obtuvo el lugar #95 en The 2009 Mexico & Central America Contest
 
 ## Participaciones
 

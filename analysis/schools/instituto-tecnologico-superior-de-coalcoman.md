@@ -2,11 +2,11 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #56 LMENTAL, resolvió 2 problemas en The 2012 Mexico & Central America Regional Contest
-- #88 ITS_COALCOMAN, resolvió 1 problemas en The 2011 Mexico & Central America Regional Contest
-- #134 ITS_COALCOMAN, resolvió 0 problemas en The 2012 Mexico & Central America Regional Contest
+1. _LMENTAL_: resolvió 2 problemas y obtuvo el lugar #56 en The 2012 Mexico & Central America Regional Contest
+1. _ITS_COALCOMAN_: resolvió 1 problemas y obtuvo el lugar #88 en The 2011 Mexico & Central America Regional Contest
+1. _ITS_COALCOMAN_: resolvió 0 problemas y obtuvo el lugar #134 en The 2012 Mexico & Central America Regional Contest
 
 ## Participaciones
 

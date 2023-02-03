@@ -2,12 +2,12 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #95 3 Cell, resolvió 0 problemas en The 2013 Mexico & Central America Regional Contest
-- #95 Lazy Boys, resolvió 0 problemas en The 2013 Mexico & Central America Regional Contest
-- #95 Novatos, resolvió 0 problemas en The 2013 Mexico & Central America Regional Contest
-- #95 Spartans, resolvió 0 problemas en The 2013 Mexico & Central America Regional Contest
+1. _3 Cell_: resolvió 0 problemas y obtuvo el lugar #95 en The 2013 Mexico & Central America Regional Contest
+1. _Lazy Boys_: resolvió 0 problemas y obtuvo el lugar #95 en The 2013 Mexico & Central America Regional Contest
+1. _Novatos_: resolvió 0 problemas y obtuvo el lugar #95 en The 2013 Mexico & Central America Regional Contest
+1. _Spartans_: resolvió 0 problemas y obtuvo el lugar #95 en The 2013 Mexico & Central America Regional Contest
 
 ## Participaciones
 

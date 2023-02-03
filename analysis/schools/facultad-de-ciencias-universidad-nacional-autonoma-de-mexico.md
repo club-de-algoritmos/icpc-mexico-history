@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #31 PU++, resolvió 5 problemas en 42nd Annual World Finals of the International Collegiate Programming Contest
-- #57 PU++, resolvió 3 problemas en 41st Annual World Finals of the ACM International Collegiate Programming Contest
-- #2 PumOMM, resolvió 10 problemas en The 2020 ICPC Mexico Finals
-- #4 pu+os, resolvió 6 problemas en The 2019 ICPC Mexico Finals
-- #5 pu++, resolvió 5 problemas en The 2015 ACM-ICPC Mexico and Central America Finals
-- #7 PU++, resolvió 5 problemas en The 2014 ACM-ICPC Mexico and Central America Finals
-- #9 UNAM Amada, resolvió 7 problemas en The 2018 ICPC Mexico and Central America Finals
-- #11 Pumas+, resolvió 4 problemas en The 2021 ICPC Mexico Finals
-- #14 pu++e2, resolvió 4 problemas en The 2015 ACM-ICPC Mexico and Central America Finals
-- #15 Pumas+, resolvió 4 problemas en The 2019 ICPC Mexico Finals
+1. _PU++_: resolvió 5 problemas y obtuvo el lugar #31 en 42nd Annual World Finals of the International Collegiate Programming Contest
+1. _PU++_: resolvió 3 problemas y obtuvo el lugar #57 en 41st Annual World Finals of the ACM International Collegiate Programming Contest
+1. _PumOMM_: resolvió 10 problemas y obtuvo el lugar #2 en The 2020 ICPC Mexico Finals
+1. _pu+os_: resolvió 6 problemas y obtuvo el lugar #4 en The 2019 ICPC Mexico Finals
+1. _pu++_: resolvió 5 problemas y obtuvo el lugar #5 en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _PU++_: resolvió 5 problemas y obtuvo el lugar #7 en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _UNAM Amada_: resolvió 7 problemas y obtuvo el lugar #9 en The 2018 ICPC Mexico and Central America Finals
+1. _Pumas+_: resolvió 4 problemas y obtuvo el lugar #11 en The 2021 ICPC Mexico Finals
+1. _pu++e2_: resolvió 4 problemas y obtuvo el lugar #14 en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _Pumas+_: resolvió 4 problemas y obtuvo el lugar #15 en The 2019 ICPC Mexico Finals
 
 ## Participaciones
 

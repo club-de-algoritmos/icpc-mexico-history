@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #20 JJL, resolvió 4 problemas en The 2019 ICPC Mexico Finals
-- #22 JJL, resolvió 4 problemas en The 2020 ICPC Mexico Finals
-- #28 JCC, resolvió 3 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
-- #36 FAV, resolvió 2 problemas en The 2017 ACM-ICPC Mexico and Central America Finals
-- #39 JJL, resolvió 3 problemas en The 2018 ICPC Mexico and Central America Finals
-- #44 Zion, resolvió 1 problemas en The 2014 ACM-ICPC Mexico and Central America Finals
-- #48 JJC, resolvió 2 problemas en The 2017 ACM-ICPC Mexico and Central America Finals
-- #55 JCC, resolvió 2 problemas en The 2015 ACM-ICPC Mexico and Central America Finals
-- #58 Los vengadores, resolvió 2 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
-- #75 Univ Anahuac@Oaxaca, resolvió 2 problemas en The 2012 Mexico & Central America Regional Contest
+1. _JJL_: resolvió 4 problemas y obtuvo el lugar #20 en The 2019 ICPC Mexico Finals
+1. _JJL_: resolvió 4 problemas y obtuvo el lugar #22 en The 2020 ICPC Mexico Finals
+1. _JCC_: resolvió 3 problemas y obtuvo el lugar #28 en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _FAV_: resolvió 2 problemas y obtuvo el lugar #36 en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _JJL_: resolvió 3 problemas y obtuvo el lugar #39 en The 2018 ICPC Mexico and Central America Finals
+1. _Zion_: resolvió 1 problemas y obtuvo el lugar #44 en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _JJC_: resolvió 2 problemas y obtuvo el lugar #48 en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _JCC_: resolvió 2 problemas y obtuvo el lugar #55 en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _Los vengadores_: resolvió 2 problemas y obtuvo el lugar #58 en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _Univ Anahuac@Oaxaca_: resolvió 2 problemas y obtuvo el lugar #75 en The 2012 Mexico & Central America Regional Contest
 
 ## Participaciones
 

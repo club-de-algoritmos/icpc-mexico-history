@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #44 Los Babasónicos, resolvió 2 problemas en The 2006 ACM Mexico and Central America Programming Contest
-- #61 Los Mañosos, resolvió 0 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #61 RJ45, resolvió 0 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #61 SUKAL, resolvió 0 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #65 Univa2, resolvió 1 problemas en The 2013 Mexico & Central America Regional Contest
-- #70 Contraste, resolvió 1 problemas en The 2006 ACM Mexico and Central America Programming Contest
-- #85 Legítimo, resolvió 0 problemas en The 2006 ACM Mexico and Central America Programming Contest
-- #98 sukal, resolvió 1 problemas en The 2008 Mexico & Central America Contest
-- #101 Programming no-sainto, resolvió 0 problemas en The 2008 Mexico & Central America Contest
-- #101 Team 77, resolvió 0 problemas en The 2008 Mexico & Central America Contest
+1. _Los Babasónicos_: resolvió 2 problemas y obtuvo el lugar #44 en The 2006 ACM Mexico and Central America Programming Contest
+1. _Los Mañosos_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
+1. _RJ45_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
+1. _SUKAL_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
+1. _Univa2_: resolvió 1 problemas y obtuvo el lugar #65 en The 2013 Mexico & Central America Regional Contest
+1. _Contraste_: resolvió 1 problemas y obtuvo el lugar #70 en The 2006 ACM Mexico and Central America Programming Contest
+1. _Legítimo_: resolvió 0 problemas y obtuvo el lugar #85 en The 2006 ACM Mexico and Central America Programming Contest
+1. _sukal_: resolvió 1 problemas y obtuvo el lugar #98 en The 2008 Mexico & Central America Contest
+1. _Programming no-sainto_: resolvió 0 problemas y obtuvo el lugar #101 en The 2008 Mexico & Central America Contest
+1. _Team 77_: resolvió 0 problemas y obtuvo el lugar #101 en The 2008 Mexico & Central America Contest
 
 ## Participaciones
 

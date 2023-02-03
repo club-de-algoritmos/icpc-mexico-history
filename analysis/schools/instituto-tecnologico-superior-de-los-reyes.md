@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #18 Los chac's, resolvió 4 problemas en The 2019 ICPC Mexico Finals
-- #21 Las chistorras, resolvió 4 problemas en The 2018 ICPC Mexico and Central America Finals
-- #32 Coyotes Alpha, resolvió 2 problemas en The 2012 Mexico & Central America Regional Contest
-- #33 Yisuscrush, resolvió 2 problemas en The 2017 ACM-ICPC Mexico and Central America Finals
-- #43 Coyotes Alpha, resolvió 2 problemas en The 2011 Mexico & Central America Regional Contest
-- #44 Dagas++, resolvió 2 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
-- #46 Coyotes Alpha, resolvió 1 problemas en The 2013 Mexico & Central America Regional Contest
-- #47 Coyotes Alfa, resolvió 2 problemas en The 2009 Mexico & Central America Contest
-- #48 COYOTES Alpha, resolvió 1 problemas en The 2014 ACM-ICPC Mexico and Central America Finals
-- #48 Coyotes AlPha, resolvió 2 problemas en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _Los chac's_: resolvió 4 problemas y obtuvo el lugar #18 en The 2019 ICPC Mexico Finals
+1. _Las chistorras_: resolvió 4 problemas y obtuvo el lugar #21 en The 2018 ICPC Mexico and Central America Finals
+1. _Coyotes Alpha_: resolvió 2 problemas y obtuvo el lugar #32 en The 2012 Mexico & Central America Regional Contest
+1. _Yisuscrush_: resolvió 2 problemas y obtuvo el lugar #33 en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _Coyotes Alpha_: resolvió 2 problemas y obtuvo el lugar #43 en The 2011 Mexico & Central America Regional Contest
+1. _Dagas++_: resolvió 2 problemas y obtuvo el lugar #44 en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _Coyotes Alpha_: resolvió 1 problemas y obtuvo el lugar #46 en The 2013 Mexico & Central America Regional Contest
+1. _Coyotes Alfa_: resolvió 2 problemas y obtuvo el lugar #47 en The 2009 Mexico & Central America Contest
+1. _COYOTES Alpha_: resolvió 1 problemas y obtuvo el lugar #48 en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _Coyotes AlPha_: resolvió 2 problemas y obtuvo el lugar #48 en The 2015 ACM-ICPC Mexico and Central America Finals
 
 ## Participaciones
 

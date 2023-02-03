@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #35 Printfers, resolvió 3 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
-- #40 Las pistas de nullptr, resolvió 3 problemas en The 2020 ICPC Mexico Finals
-- #45 Las pistas de NULL, resolvió 1 problemas en The 2019 ICPC Mexico Finals
-- #45 Los charlies de Angel, resolvió 1 problemas en The 2021 ICPC Mexico Finals
-- #46 3idiotas, resolvió 2 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
-- #48 404 Not Found, resolvió 2 problemas en The 2015 ACM-ICPC Mexico and Central America Finals
-- #50 SNCB, resolvió 1 problemas en The 2014 ACM-ICPC Mexico and Central America Finals
-- #53 solo_dos_idiotas_y_lalo, resolvió 1 problemas en The 2017 ACM-ICPC Mexico and Central America Finals
-- #55 Printfers, resolvió 1 problemas en The 2017 ACM-ICPC Mexico and Central America Finals
-- #66 SNBC&D, resolvió 2 problemas en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _Printfers_: resolvió 3 problemas y obtuvo el lugar #35 en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _Las pistas de nullptr_: resolvió 3 problemas y obtuvo el lugar #40 en The 2020 ICPC Mexico Finals
+1. _Las pistas de NULL_: resolvió 1 problemas y obtuvo el lugar #45 en The 2019 ICPC Mexico Finals
+1. _Los charlies de Angel_: resolvió 1 problemas y obtuvo el lugar #45 en The 2021 ICPC Mexico Finals
+1. _3idiotas_: resolvió 2 problemas y obtuvo el lugar #46 en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _404 Not Found_: resolvió 2 problemas y obtuvo el lugar #48 en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _SNCB_: resolvió 1 problemas y obtuvo el lugar #50 en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _solo_dos_idiotas_y_lalo_: resolvió 1 problemas y obtuvo el lugar #53 en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _Printfers_: resolvió 1 problemas y obtuvo el lugar #55 en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _SNBC&D_: resolvió 2 problemas y obtuvo el lugar #66 en The 2015 ACM-ICPC Mexico and Central America Finals
 
 ## Participaciones
 

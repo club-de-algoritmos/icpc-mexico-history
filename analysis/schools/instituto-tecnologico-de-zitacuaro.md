@@ -2,16 +2,16 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #104 ITZitacuaro1, resolvió 0 problemas en The 2011 Mexico & Central America Regional Contest
-- #104 ITZitacuaro2, resolvió 0 problemas en The 2011 Mexico & Central America Regional Contest
-- #104 ITZitacuaro3, resolvió 0 problemas en The 2011 Mexico & Central America Regional Contest
-- #116 itzitacuaro 2, resolvió 1 problemas en The 2012 Mexico & Central America Regional Contest
-- #130 ITZit2, resolvió 1 problemas en The 2010 Mexico & Central America Regional Contest
-- #134 itzitacuaro 1, resolvió 0 problemas en The 2012 Mexico & Central America Regional Contest
-- #138 ITZit1, resolvió 1 problemas en The 2010 Mexico & Central America Regional Contest
-- #139 ITZit3, resolvió 1 problemas en The 2010 Mexico & Central America Regional Contest
+1. _ITZitacuaro1_: resolvió 0 problemas y obtuvo el lugar #104 en The 2011 Mexico & Central America Regional Contest
+1. _ITZitacuaro2_: resolvió 0 problemas y obtuvo el lugar #104 en The 2011 Mexico & Central America Regional Contest
+1. _ITZitacuaro3_: resolvió 0 problemas y obtuvo el lugar #104 en The 2011 Mexico & Central America Regional Contest
+1. _itzitacuaro 2_: resolvió 1 problemas y obtuvo el lugar #116 en The 2012 Mexico & Central America Regional Contest
+1. _ITZit2_: resolvió 1 problemas y obtuvo el lugar #130 en The 2010 Mexico & Central America Regional Contest
+1. _itzitacuaro 1_: resolvió 0 problemas y obtuvo el lugar #134 en The 2012 Mexico & Central America Regional Contest
+1. _ITZit1_: resolvió 1 problemas y obtuvo el lugar #138 en The 2010 Mexico & Central America Regional Contest
+1. _ITZit3_: resolvió 1 problemas y obtuvo el lugar #139 en The 2010 Mexico & Central America Regional Contest
 
 ## Participaciones
 

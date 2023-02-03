@@ -2,16 +2,16 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #85 Halcones 1, resolvió 0 problemas en The 2006 ACM Mexico and Central America Programming Contest
-- #85 Halcones 2, resolvió 0 problemas en The 2006 ACM Mexico and Central America Programming Contest
-- #85 Halcones2, resolvió 0 problemas en The 2006 ACM Mexico and Central America Programming Contest
-- #85 ZORRO1, resolvió 0 problemas en The 2005 ACM Mexico and Central America Programming Contest
-- #85 ZORRO2, resolvió 0 problemas en The 2005 ACM Mexico and Central America Programming Contest
-- #85 ZORRO3, resolvió 0 problemas en The 2005 ACM Mexico and Central America Programming Contest
-- #89 GALAXIS, resolvió 2 problemas en The 2012 Mexico & Central America Regional Contest
-- #101 Halcones, resolvió 0 problemas en The 2008 Mexico & Central America Contest
+1. _Halcones 1_: resolvió 0 problemas y obtuvo el lugar #85 en The 2006 ACM Mexico and Central America Programming Contest
+1. _Halcones 2_: resolvió 0 problemas y obtuvo el lugar #85 en The 2006 ACM Mexico and Central America Programming Contest
+1. _Halcones2_: resolvió 0 problemas y obtuvo el lugar #85 en The 2006 ACM Mexico and Central America Programming Contest
+1. _ZORRO1_: resolvió 0 problemas y obtuvo el lugar #85 en The 2005 ACM Mexico and Central America Programming Contest
+1. _ZORRO2_: resolvió 0 problemas y obtuvo el lugar #85 en The 2005 ACM Mexico and Central America Programming Contest
+1. _ZORRO3_: resolvió 0 problemas y obtuvo el lugar #85 en The 2005 ACM Mexico and Central America Programming Contest
+1. _GALAXIS_: resolvió 2 problemas y obtuvo el lugar #89 en The 2012 Mexico & Central America Regional Contest
+1. _Halcones_: resolvió 0 problemas y obtuvo el lugar #101 en The 2008 Mexico & Central America Contest
 
 ## Participaciones
 

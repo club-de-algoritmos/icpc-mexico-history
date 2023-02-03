@@ -2,12 +2,12 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #60 UCF-02, resolvió 2 problemas en The 2009 Mexico & Central America Contest
-- #73 UCF-HelloWorld!, resolvió 2 problemas en The 2010 Mexico & Central America Regional Contest
-- #116 UCF-01, resolvió 0 problemas en The 2009 Mexico & Central America Contest
-- #117 UCF-Sudden, resolvió 1 problemas en The 2010 Mexico & Central America Regional Contest
+1. _UCF-02_: resolvió 2 problemas y obtuvo el lugar #60 en The 2009 Mexico & Central America Contest
+1. _UCF-HelloWorld!_: resolvió 2 problemas y obtuvo el lugar #73 en The 2010 Mexico & Central America Regional Contest
+1. _UCF-01_: resolvió 0 problemas y obtuvo el lugar #116 en The 2009 Mexico & Central America Contest
+1. _UCF-Sudden_: resolvió 1 problemas y obtuvo el lugar #117 en The 2010 Mexico & Central America Regional Contest
 
 ## Participaciones
 

@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #12 ITCCM, resolvió 4 problemas en The 2009 Mexico & Central America Contest
-- #18 EOF, resolvió 3 problemas en The 2015 ACM-ICPC Mexico and Central America Finals
-- #23 mdp, resolvió 3 problemas en The 2019 ICPC Mexico Finals
-- #30 make sandwich, resolvió 3 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
-- #32 M3, resolvió 3 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
-- #35 BrUwUs, resolvió 3 problemas en The 2020 ICPC Mexico Finals
-- #37 SA², resolvió 3 problemas en The 2011 Mexico & Central America Regional Contest
-- #40 Itsenautas, resolvió 2 problemas en The 2009 Mexico & Central America Contest
-- #41 Byte-me, resolvió 3 problemas en The 2015 ACM-ICPC Mexico and Central America Finals
-- #47 Echo, resolvió 2 problemas en The 2011 Mexico & Central America Regional Contest
+1. _ITCCM_: resolvió 4 problemas y obtuvo el lugar #12 en The 2009 Mexico & Central America Contest
+1. _EOF_: resolvió 3 problemas y obtuvo el lugar #18 en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _mdp_: resolvió 3 problemas y obtuvo el lugar #23 en The 2019 ICPC Mexico Finals
+1. _make sandwich_: resolvió 3 problemas y obtuvo el lugar #30 en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _M3_: resolvió 3 problemas y obtuvo el lugar #32 en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _BrUwUs_: resolvió 3 problemas y obtuvo el lugar #35 en The 2020 ICPC Mexico Finals
+1. _SA²_: resolvió 3 problemas y obtuvo el lugar #37 en The 2011 Mexico & Central America Regional Contest
+1. _Itsenautas_: resolvió 2 problemas y obtuvo el lugar #40 en The 2009 Mexico & Central America Contest
+1. _Byte-me_: resolvió 3 problemas y obtuvo el lugar #41 en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _Echo_: resolvió 2 problemas y obtuvo el lugar #47 en The 2011 Mexico & Central America Regional Contest
 
 ## Participaciones
 

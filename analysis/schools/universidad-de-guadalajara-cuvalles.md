@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #61 Equipo CUValles, resolvió 0 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #66 La Tribu, resolvió 2 problemas en The 2018 ICPC Mexico and Central America Finals
-- #89 LOS DAERON, resolvió 1 problemas en The 2011 Mexico & Central America Regional Contest
-- #101 Gomora, resolvió 0 problemas en The 2008 Mexico & Central America Contest
-- #101 Los Trabajosos, resolvió 0 problemas en The 2008 Mexico & Central America Contest
-- #101 UMI, resolvió 0 problemas en The 2008 Mexico & Central America Contest
-- #101 VTS, resolvió 0 problemas en The 2008 Mexico & Central America Contest
-- #107 TriForce, resolvió 1 problemas en The 2009 Mexico & Central America Contest
-- #116 T.D.D.O., resolvió 0 problemas en The 2009 Mexico & Central America Contest
-- #151 TriForce, resolvió 1 problemas en The 2010 Mexico & Central America Regional Contest
+1. _Equipo CUValles_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
+1. _La Tribu_: resolvió 2 problemas y obtuvo el lugar #66 en The 2018 ICPC Mexico and Central America Finals
+1. _LOS DAERON_: resolvió 1 problemas y obtuvo el lugar #89 en The 2011 Mexico & Central America Regional Contest
+1. _Gomora_: resolvió 0 problemas y obtuvo el lugar #101 en The 2008 Mexico & Central America Contest
+1. _Los Trabajosos_: resolvió 0 problemas y obtuvo el lugar #101 en The 2008 Mexico & Central America Contest
+1. _UMI_: resolvió 0 problemas y obtuvo el lugar #101 en The 2008 Mexico & Central America Contest
+1. _VTS_: resolvió 0 problemas y obtuvo el lugar #101 en The 2008 Mexico & Central America Contest
+1. _TriForce_: resolvió 1 problemas y obtuvo el lugar #107 en The 2009 Mexico & Central America Contest
+1. _T.D.D.O._: resolvió 0 problemas y obtuvo el lugar #116 en The 2009 Mexico & Central America Contest
+1. _TriForce_: resolvió 1 problemas y obtuvo el lugar #151 en The 2010 Mexico & Central America Regional Contest
 
 ## Participaciones
 

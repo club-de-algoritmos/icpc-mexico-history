@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #15 Drink Team, resolvió 2 problemas en The 2001 ACM Mexico and Central America Programming Contest
-- #29 Drink Team, resolvió 1 problemas en The 2003 ACM Mexico and Central America Programming Contest
-- #41 Web-ones, resolvió 0 problemas en The 2003 ACM Mexico and Central America Programming Contest
-- #42 Laguna 3, resolvió 2 problemas en The 2009 Mexico & Central America Contest
-- #53 PMR 4000, resolvió 1 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #55 Ctrl+Alt+Supr, resolvió 0 problemas en The 2001 ACM Mexico and Central America Programming Contest
-- #58 Javalio, resolvió 1 problemas en The 2006 ACM Mexico and Central America Programming Contest
-- #60 LPT, resolvió 1 problemas en The 2006 ACM Mexico and Central America Programming Contest
-- #61 COF, resolvió 0 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #61 Los intensos, resolvió 0 problemas en The 2007 ACM Mexico and Central America Programming Contest
+1. _Drink Team_: resolvió 2 problemas y obtuvo el lugar #15 en The 2001 ACM Mexico and Central America Programming Contest
+1. _Drink Team_: resolvió 1 problemas y obtuvo el lugar #29 en The 2003 ACM Mexico and Central America Programming Contest
+1. _Web-ones_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
+1. _Laguna 3_: resolvió 2 problemas y obtuvo el lugar #42 en The 2009 Mexico & Central America Contest
+1. _PMR 4000_: resolvió 1 problemas y obtuvo el lugar #53 en The 2007 ACM Mexico and Central America Programming Contest
+1. _Ctrl+Alt+Supr_: resolvió 0 problemas y obtuvo el lugar #55 en The 2001 ACM Mexico and Central America Programming Contest
+1. _Javalio_: resolvió 1 problemas y obtuvo el lugar #58 en The 2006 ACM Mexico and Central America Programming Contest
+1. _LPT_: resolvió 1 problemas y obtuvo el lugar #60 en The 2006 ACM Mexico and Central America Programming Contest
+1. _COF_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
+1. _Los intensos_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

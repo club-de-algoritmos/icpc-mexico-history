@@ -2,17 +2,17 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #74 Manowar, resolvió 2 problemas en 35th Annual World Finals of the ACM International Collegiate Programming Contest
-- #80 Manowar, resolvió 2 problemas en 36th Annual World Finals of the ACM International Collegiate Programming Contest
-- #5 NNN No es Nautilus, resolvió 6 problemas en The 2014 ACM-ICPC Mexico and Central America Finals
-- #6 Nautilus, resolvió 4 problemas en The 2012 Mexico & Central America Regional Contest
-- #6 #include "Shell.h", resolvió 5 problemas en The 2015 ACM-ICPC Mexico and Central America Finals
-- #7 DragonCurve, resolvió 4 problemas en The 2012 Mexico & Central America Regional Contest
-- #8 Delta, resolvió 5 problemas en The 2014 ACM-ICPC Mexico and Central America Finals
-- #11 Nautilus, resolvió 2 problemas en The 2013 Mexico & Central America Regional Contest
-- #13 E3, resolvió 4 problemas en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _Manowar_: resolvió 2 problemas y obtuvo el lugar #74 en 35th Annual World Finals of the ACM International Collegiate Programming Contest
+1. _Manowar_: resolvió 2 problemas y obtuvo el lugar #80 en 36th Annual World Finals of the ACM International Collegiate Programming Contest
+1. _NNN No es Nautilus_: resolvió 6 problemas y obtuvo el lugar #5 en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _Nautilus_: resolvió 4 problemas y obtuvo el lugar #6 en The 2012 Mexico & Central America Regional Contest
+1. _#include "Shell.h"_: resolvió 5 problemas y obtuvo el lugar #6 en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _DragonCurve_: resolvió 4 problemas y obtuvo el lugar #7 en The 2012 Mexico & Central America Regional Contest
+1. _Delta_: resolvió 5 problemas y obtuvo el lugar #8 en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _Nautilus_: resolvió 2 problemas y obtuvo el lugar #11 en The 2013 Mexico & Central America Regional Contest
+1. _E3_: resolvió 4 problemas y obtuvo el lugar #13 en The 2015 ACM-ICPC Mexico and Central America Finals
 
 ## Participaciones
 

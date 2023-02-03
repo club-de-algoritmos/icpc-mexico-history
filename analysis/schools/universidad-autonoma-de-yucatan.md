@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #12 UADY, resolvió 2 problemas en The 2001 ACM Mexico and Central America Programming Contest
-- #17 Coding Horror, resolvió 3 problemas en The 2017 ACM-ICPC Mexico and Central America Finals
-- #17 FMAT_Coders, resolvió 3 problemas en The 2012 Mexico & Central America Regional Contest
-- #22 Gleichseitiges, resolvió 3 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
-- #23 Coding Horror, resolvió 3 problemas en The 2014 ACM-ICPC Mexico and Central America Finals
-- #24 Equilateros, resolvió 3 problemas en The 2015 ACM-ICPC Mexico and Central America Finals
-- #27 FMAT, resolvió 0 problemas en The 2002 ACM Mexico and Central America Programming Contest
-- #27 FMAT-UADY, resolvió 0 problemas en The 2002 ACM Mexico and Central America Programming Contest
-- #29 Coding Horror, resolvió 3 problemas en The 2015 ACM-ICPC Mexico and Central America Finals
-- #29 FMAT-Coders, resolvió 3 problemas en The 2011 Mexico & Central America Regional Contest
+1. _UADY_: resolvió 2 problemas y obtuvo el lugar #12 en The 2001 ACM Mexico and Central America Programming Contest
+1. _Coding Horror_: resolvió 3 problemas y obtuvo el lugar #17 en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _FMAT_Coders_: resolvió 3 problemas y obtuvo el lugar #17 en The 2012 Mexico & Central America Regional Contest
+1. _Gleichseitiges_: resolvió 3 problemas y obtuvo el lugar #22 en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _Coding Horror_: resolvió 3 problemas y obtuvo el lugar #23 en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _Equilateros_: resolvió 3 problemas y obtuvo el lugar #24 en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _FMAT_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
+1. _FMAT-UADY_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
+1. _Coding Horror_: resolvió 3 problemas y obtuvo el lugar #29 en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _FMAT-Coders_: resolvió 3 problemas y obtuvo el lugar #29 en The 2011 Mexico & Central America Regional Contest
 
 ## Participaciones
 

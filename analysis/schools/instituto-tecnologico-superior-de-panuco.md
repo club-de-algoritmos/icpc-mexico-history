@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #27 ITSP1, resolvió 0 problemas en The 2002 ACM Mexico and Central America Programming Contest
-- #27 ITSP2, resolvió 0 problemas en The 2002 ACM Mexico and Central America Programming Contest
-- #27 ITSP3, resolvió 0 problemas en The 2002 ACM Mexico and Central America Programming Contest
-- #37 Hackers, resolvió 2 problemas en The 2005 ACM Mexico and Central America Programming Contest
-- #41 ITSP-1, resolvió 0 problemas en The 2003 ACM Mexico and Central America Programming Contest
-- #41 ITSP2, resolvió 0 problemas en The 2003 ACM Mexico and Central America Programming Contest
-- #54 ITSPánuco 1, resolvió 1 problemas en The 2004 ACM Mexico and Central America Programming Contest
-- #61 ITSPanuco, resolvió 0 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #61 The JMV, resolvió 0 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #79 puntero, resolvió 1 problemas en The 2005 ACM Mexico and Central America Programming Contest
+1. _ITSP1_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
+1. _ITSP2_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
+1. _ITSP3_: resolvió 0 problemas y obtuvo el lugar #27 en The 2002 ACM Mexico and Central America Programming Contest
+1. _Hackers_: resolvió 2 problemas y obtuvo el lugar #37 en The 2005 ACM Mexico and Central America Programming Contest
+1. _ITSP-1_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
+1. _ITSP2_: resolvió 0 problemas y obtuvo el lugar #41 en The 2003 ACM Mexico and Central America Programming Contest
+1. _ITSPánuco 1_: resolvió 1 problemas y obtuvo el lugar #54 en The 2004 ACM Mexico and Central America Programming Contest
+1. _ITSPanuco_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
+1. _The JMV_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
+1. _puntero_: resolvió 1 problemas y obtuvo el lugar #79 en The 2005 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

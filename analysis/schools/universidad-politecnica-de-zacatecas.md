@@ -2,11 +2,11 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #61 Coders4Life, resolvió 0 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #101 AlCEMY.C, resolvió 0 problemas en The 2008 Mexico & Central America Contest
-- #101 RiEdAl.H, resolvió 0 problemas en The 2008 Mexico & Central America Contest
+1. _Coders4Life_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
+1. _AlCEMY.C_: resolvió 0 problemas y obtuvo el lugar #101 en The 2008 Mexico & Central America Contest
+1. _RiEdAl.H_: resolvió 0 problemas y obtuvo el lugar #101 en The 2008 Mexico & Central America Contest
 
 ## Participaciones
 

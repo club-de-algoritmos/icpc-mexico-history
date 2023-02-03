@@ -2,18 +2,18 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #63 lA_Criba de ceros y unos, resolvió 2 problemas en 43rd Annual World Finals of the International Collegiate Programming Contest
-- #80 Hurones Pwneadores, resolvió 1 problemas en 38th Annual World Finals of the ACM International Collegiate Programming Contest
-- #92 La Carabina del AC, resolvió 3 problemas en 40th Annual World Finals of the ACM International Collegiate Programming Contest
-- #96 Escoolers, resolvió 3 problemas en 39th Annual World Finals of the ACM International Collegiate Programming Contest
-- #94 Escoders, resolvió 1 problemas en 37th Annual World Finals of the ACM International Collegiate Programming Contest
-- #1 Chilaquiles con pollo, resolvió 5 problemas en The 2021 ICPC Mexico Finals
-- #1 Norman is Hunting, resolvió 9 problemas en The 2019 ICPC Mexico Finals
-- #4 New avengers, resolvió 6 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
-- #5 Hurones FTW!, resolvió 4 problemas en The 2012 Mexico & Central America Regional Contest
-- #5 Escom56, resolvió 6 problemas en The 2009 Mexico & Central America Contest
+1. _lA_Criba de ceros y unos_: resolvió 2 problemas y obtuvo el lugar #63 en 43rd Annual World Finals of the International Collegiate Programming Contest
+1. _Hurones Pwneadores_: resolvió 1 problemas y obtuvo el lugar #80 en 38th Annual World Finals of the ACM International Collegiate Programming Contest
+1. _La Carabina del AC_: resolvió 3 problemas y obtuvo el lugar #92 en 40th Annual World Finals of the ACM International Collegiate Programming Contest
+1. _Escoolers_: resolvió 3 problemas y obtuvo el lugar #96 en 39th Annual World Finals of the ACM International Collegiate Programming Contest
+1. _Escoders_: resolvió 1 problemas y obtuvo el lugar #94 en 37th Annual World Finals of the ACM International Collegiate Programming Contest
+1. _Chilaquiles con pollo_: resolvió 5 problemas y obtuvo el lugar #1 en The 2021 ICPC Mexico Finals
+1. _Norman is Hunting_: resolvió 9 problemas y obtuvo el lugar #1 en The 2019 ICPC Mexico Finals
+1. _New avengers_: resolvió 6 problemas y obtuvo el lugar #4 en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _Hurones FTW!_: resolvió 4 problemas y obtuvo el lugar #5 en The 2012 Mexico & Central America Regional Contest
+1. _Escom56_: resolvió 6 problemas y obtuvo el lugar #5 en The 2009 Mexico & Central America Contest
 
 ## Participaciones
 

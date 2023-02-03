@@ -2,12 +2,12 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #45 USAC, resolvió 2 problemas en The 2015 ACM-ICPC Mexico and Central America Finals
-- #53 Repechaje, resolvió 2 problemas en The 2016 ACM-ICPC Mexico and Central America Finals
-- #58 HardCore Code, resolvió 2 problemas en The 2018 ICPC Mexico and Central America Finals
-- #75 HardCore Code, resolvió 1 problemas en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _USAC_: resolvió 2 problemas y obtuvo el lugar #45 en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _Repechaje_: resolvió 2 problemas y obtuvo el lugar #53 en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _HardCore Code_: resolvió 2 problemas y obtuvo el lugar #58 en The 2018 ICPC Mexico and Central America Finals
+1. _HardCore Code_: resolvió 1 problemas y obtuvo el lugar #75 en The 2017 ACM-ICPC Mexico and Central America Finals
 
 ## Participaciones
 

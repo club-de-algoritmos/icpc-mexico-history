@@ -2,10 +2,10 @@
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
-## Top 10 equipos
+## Mejores 10 equipos
 
-- #61 Lasalle Power, resolvió 0 problemas en The 2007 ACM Mexico and Central America Programming Contest
-- #61 Otaku desu, resolvió 0 problemas en The 2007 ACM Mexico and Central America Programming Contest
+1. _Lasalle Power_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
+1. _Otaku desu_: resolvió 0 problemas y obtuvo el lugar #61 en The 2007 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

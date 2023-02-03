@@ -5,7 +5,7 @@ from typing import List, Dict, Set, Tuple
 from icpc_mexico.data import FinishedContest, ContestType, SchoolCommunity, School, MEXICO, TeamResult, Contest
 from icpc_mexico.markdown import Markdown, MarkdownFile
 from icpc_mexico.queries import get_by_type, get_best_by_school, get_school, get_by_school
-from icpc_mexico.utils import normalize_as_filename
+from icpc_mexico.utils import normalize_as_filename, log_run_time
 
 TeamRank = Tuple[float, FinishedContest, TeamResult]
 
@@ -19,6 +19,7 @@ class Analyzer:
     def _get_filename(self, *filepath: str) -> str:
         return os.path.join(self.analysis_path, *filepath)
 
+    @log_run_time
     def analyze(self) -> None:
         self._analyze_world_finals()
         self._analyze_community(SchoolCommunity.TECNM, 'TecNM')
@@ -29,6 +30,7 @@ class Analyzer:
         for school in mexican_schools:
             self._analyze_school(school)
 
+    @log_run_time
     def _analyze_world_finals(self) -> None:
         print(f'Analyzing Mexico results in the World Finals')
         with MarkdownFile(self._get_filename('mexico.md')) as markdown:
@@ -49,6 +51,7 @@ class Analyzer:
 
                 self._analyze_team_rank(markdown)
 
+    @log_run_time
     def _analyze_team_rank(self, markdown: Markdown) -> None:
         honorable_teams: List[TeamRank] = []
         high_teams: List[TeamRank] = []
@@ -93,6 +96,7 @@ class Analyzer:
                 for team in honorable_teams:
                     print_team(team)
 
+    @log_run_time
     def _analyze_community(self, community: SchoolCommunity, community_name: str) -> None:
         print(f'Analyzing results of community {community_name}')
         with MarkdownFile(self._get_filename(f'{normalize_as_filename(community_name)}.md')) as markdown:
@@ -135,6 +139,7 @@ class Analyzer:
                                 markdown.bullet_point(f'#{team.rank} (#{team.community_rank} de {community_name})'
                                                       f' {team.name} ({team.institution})')
 
+    @log_run_time
     def _analyze_state(self, state: str) -> None:
         print(f'Analyzing results of state {state.title()}')
         with MarkdownFile(self._get_filename(f'{normalize_as_filename(state)}.md')) as markdown:

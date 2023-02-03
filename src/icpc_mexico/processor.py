@@ -7,7 +7,7 @@ from icpc_mexico import icpc_api
 from icpc_mexico.data import Contest, FinishedContest, TeamResult, ContestType, School, SchoolCommunity, MEXICO
 from icpc_mexico.errors import ProcessingError
 from icpc_mexico.queries import get_school
-from icpc_mexico.utils import normalize_str
+from icpc_mexico.utils import normalize_str, log_run_time
 
 
 def _from_csv_to_contest(csv_row: Dict) -> Contest:
@@ -252,6 +252,7 @@ def get_schools(contests: List[FinishedContest]) -> List[School]:
     return sorted(processed_schools, key=lambda s: s.name)
 
 
+@log_run_time
 def compute_extra_team_results(contests: List[FinishedContest], schools: List[School]) -> List[FinishedContest]:
     print(f'Computing extra team results for {len(contests)} contests')
     computed_contests = []

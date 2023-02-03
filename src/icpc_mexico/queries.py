@@ -1,4 +1,4 @@
-from typing import List, Optional
+from typing import List, Optional, Dict
 
 from icpc_mexico.data import School, ContestType, FinishedContest, TeamResult
 from icpc_mexico.utils import normalize_str
@@ -28,3 +28,17 @@ def get_best_by_school(school: School, contest: FinishedContest) -> Optional[Tea
     if teams:
         return teams[0]
     return None
+
+
+class Queries:
+    def __init__(self, contests: List[FinishedContest], schools: List[School]):
+        self._contests = contests
+        self._schools = schools
+
+        self._schools_by_name: Dict[str, School] = {}
+        for school in self._schools:
+            for name in school.get_all_matching_names():
+                self._schools_by_name[name] = school
+
+    def get_school(self, name: str) -> Optional[School]:
+        return self._schools_by_name.get(normalize_str(name))

@@ -7,12 +7,14 @@ from typing import List
 from icpc_mexico import processor, storage
 from icpc_mexico.analysis import Analyzer
 from icpc_mexico.data import FinishedContest, School
+from icpc_mexico.utils import log_run_time
 
 
 def _get_filename(filename: str, path: str = 'data') -> str:
     return os.path.join(os.getcwd(), path, filename)
 
 
+@log_run_time
 def _get_contests(refresh_contests: bool) -> List[FinishedContest]:
     contests_filename = _get_filename('icpc_mexico_results.json')
     if refresh_contests or not os.path.exists(contests_filename):
@@ -28,6 +30,7 @@ def _get_contests(refresh_contests: bool) -> List[FinishedContest]:
     return contests
 
 
+@log_run_time
 def _get_schools(refresh_schools: bool, contests: List[FinishedContest]) -> List[School]:
     schools_filename = _get_filename('icpc_mexico_schools.json')
     if refresh_schools or not os.path.exists(schools_filename):

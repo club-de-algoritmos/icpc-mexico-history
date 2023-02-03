@@ -1,8 +1,7 @@
 import csv
 import dataclasses
-import json
 from collections import defaultdict
-from typing import List, Dict, Optional
+from typing import List, Dict
 
 from icpc_mexico import icpc_api
 from icpc_mexico.data import Contest, FinishedContest, TeamResult, ContestType, School, SchoolCommunity, MEXICO
@@ -173,6 +172,11 @@ def get_schools(contests: List[FinishedContest]) -> List[School]:
             name='instituto tecnologico autonomo de mexico',
             country=MEXICO,
         ),
+        School(
+            name='universidad autonoma de occidente',
+            country=MEXICO,
+            state='sinaloa',
+        )
     ]
 
     school_names = set()
@@ -224,8 +228,28 @@ def get_schools(contests: List[FinishedContest]) -> List[School]:
 
         schools.append(School(name=school_name, country=MEXICO))
 
-    print(f'Found {len(schools)} schools')
-    return sorted(schools, key=lambda s: s.name)
+    processed_schools = []
+    state_keywords = {
+        'sinaloa': ['culiacan', 'mazatlan', 'sinaloa', 'mochis'],
+    }
+    for school in schools:
+        if school.country != MEXICO or school.state:
+            processed_schools.append(school)
+            continue
+
+        matched_state = None
+        for state, keywords in state_keywords.items():
+            for keyword in keywords:
+                if keyword in school.name:
+                    matched_state = state
+                    break
+            if matched_state:
+                break
+
+        processed_schools.append(dataclasses.replace(school, state=matched_state))
+
+    print(f'Found {len(processed_schools)} schools')
+    return sorted(processed_schools, key=lambda s: s.name)
 
 
 def compute_extra_team_results(contests: List[FinishedContest], schools: List[School]) -> List[FinishedContest]:

@@ -6,7 +6,7 @@ from typing import List, Dict
 from icpc_mexico import icpc_api
 from icpc_mexico.data import Contest, FinishedContest, TeamResult, ContestType, School, SchoolCommunity, MEXICO
 from icpc_mexico.errors import ProcessingError
-from icpc_mexico.queries import get_school
+from icpc_mexico.queries import get_school, Queries
 from icpc_mexico.utils import normalize_str, log_run_time
 
 
@@ -253,7 +253,7 @@ def get_schools(contests: List[FinishedContest]) -> List[School]:
 
 
 @log_run_time
-def compute_extra_team_results(contests: List[FinishedContest], schools: List[School]) -> List[FinishedContest]:
+def compute_extra_team_results(contests: List[FinishedContest], queries: Queries) -> List[FinishedContest]:
     print(f'Computing extra team results for {len(contests)} contests')
     computed_contests = []
     for contest in contests:
@@ -265,7 +265,7 @@ def compute_extra_team_results(contests: List[FinishedContest], schools: List[Sc
         # super_region_ranking: Dict[SuperRegion, int] = defaultdict(int)
         team_results = []
         for team in contest.team_results:
-            school = get_school(team.institution, schools)
+            school = queries.get_school(team.institution)
 
             if school is None:
                 # We're only interested in Mexico, do a simple check just in case

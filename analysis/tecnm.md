@@ -1,4 +1,4 @@
-# Resultados del TecNM en el ICPC
+# Resultados de TecNM en el ICPC
 
 ## Final Mundial
 

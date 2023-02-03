@@ -22,6 +22,7 @@ class Analyzer:
     def analyze(self) -> None:
         self._analyze_world_finals()
         self._analyze_community(SchoolCommunity.TECNM, 'TecNM')
+        self._analyze_state('sinaloa')
 
         mexican_schools = [school for school in self.schools if school.country == MEXICO]
         print(f'Analyzing {len(mexican_schools)} Mexican schools')
@@ -93,12 +94,12 @@ class Analyzer:
                     print_team(team)
 
     def _analyze_community(self, community: SchoolCommunity, community_name: str) -> None:
-        print(f'Analyzing results of {community_name}')
+        print(f'Analyzing results of community {community_name}')
         with MarkdownFile(self._get_filename(f'{normalize_as_filename(community_name)}.md')) as markdown:
-            with markdown.section('Resultados del TecNM en el ICPC'):
+            with markdown.section(f'Resultados de {community_name} en el ICPC'):
                 with markdown.section('Final Mundial'):
-                    wf_tecnm_school_names: Set[str] = set()
-                    wf_tecnm_schools: List[School] = []
+                    wf_school_names: Set[str] = set()
+                    wf_schools: List[School] = []
                     for contest in self.contests:
                         if contest.type != ContestType.WORLD:
                             continue
@@ -111,9 +112,9 @@ class Analyzer:
                                                   f' resolvió {team.problems_solved}) {team.name} ({team.institution})')
 
                             school = get_school(team.institution, self.schools)
-                            if school.name not in wf_tecnm_school_names:
-                                wf_tecnm_school_names.add(school.name)
-                                wf_tecnm_schools.append(school)
+                            if school.name not in wf_school_names:
+                                wf_school_names.add(school.name)
+                                wf_schools.append(school)
 
                         if participations:
                             with markdown.section(contest.description()):
@@ -127,12 +128,62 @@ class Analyzer:
 
                         with markdown.section(contest.description()):
                             for team in contest.team_results:
-                                if team.community != SchoolCommunity.TECNM:
+                                if team.community != community:
                                     continue
                                 if team.community_rank > 5:
                                     break
-                                markdown.bullet_point(f'#{team.rank} (#{team.community_rank} de TecNM)'
+                                markdown.bullet_point(f'#{team.rank} (#{team.community_rank} de {community_name})'
                                                       f' {team.name} ({team.institution})')
+
+    def _analyze_state(self, state: str) -> None:
+        print(f'Analyzing results of state {state.title()}')
+        with MarkdownFile(self._get_filename(f'{normalize_as_filename(state)}.md')) as markdown:
+            with markdown.section(f'Resultados de {state.title()} en el ICPC'):
+                with markdown.section('Final Mundial'):
+                    wf_school_names: Set[str] = set()
+                    wf_schools: List[School] = []
+                    for contest in self.contests:
+                        if contest.type != ContestType.WORLD:
+                            continue
+
+                        participations = []
+                        for team in contest.team_results:
+                            school = get_school(team.institution, self.schools)
+                            if school is None or school.state != state:
+                                continue
+                            participations.append(f'#{team.rank} (#{team.country_rank} de México,'
+                                                  f' resolvió {team.problems_solved}) {team.name} ({team.institution})')
+                            if school.name not in wf_school_names:
+                                wf_school_names.add(school.name)
+                                wf_schools.append(school)
+
+                        if participations:
+                            with markdown.section(contest.description()):
+                                for participation in participations:
+                                    markdown.bullet_point(participation)
+
+                with markdown.section('Top 5 en México'):
+                    for contest in self.contests:
+                        # TODO: Get overall rank to take qualifiers into account
+                        if contest.type != ContestType.REGIONAL:
+                            continue
+
+                        contest_teams = []
+                        rank = 0
+                        for team in contest.team_results:
+                            school = get_school(team.institution, self.schools)
+                            if school is None or school.state != state:
+                                continue
+
+                            rank += 1
+                            if rank > 5:
+                                break
+                            contest_teams.append(team)
+
+                        if contest_teams:
+                            with markdown.section(contest.description()):
+                                for team in contest_teams:
+                                    markdown.bullet_point(f'#{team.rank} {team.name} ({team.institution})')
 
     def _analyze_school(self, school: School) -> None:
         with MarkdownFile(self._get_filename('schools', f'{normalize_as_filename(school.name)}.md')) as markdown:

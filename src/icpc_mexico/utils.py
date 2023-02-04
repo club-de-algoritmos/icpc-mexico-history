@@ -25,6 +25,14 @@ def normalize_as_filename(value: str) -> str:
     return normalized_value
 
 
+def get_percentile(rank: int, count: int) -> float:
+    return (count - rank) / float(count - 1)
+
+
+def format_percentile(percentile: float) -> str:
+    return f'{round(percentile * 100)}%'
+
+
 def log_run_time(func):
     @wraps(func)
     def wrapper(*args, **kwargs):

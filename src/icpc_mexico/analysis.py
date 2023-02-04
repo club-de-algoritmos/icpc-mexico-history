@@ -4,7 +4,7 @@ from typing import List, Set, Tuple
 from icpc_mexico.data import FinishedContest, ContestType, SchoolCommunity, School, MEXICO, TeamResult, Contest
 from icpc_mexico.markdown import Markdown, MarkdownFile
 from icpc_mexico.queries import get_best_by_school, get_by_school, Queries
-from icpc_mexico.utils import normalize_as_filename, log_run_time
+from icpc_mexico.utils import normalize_as_filename, log_run_time, get_percentile, format_percentile
 
 TeamRank = Tuple[float, FinishedContest, TeamResult]
 
@@ -60,7 +60,7 @@ class Analyzer:
                 if team.country != MEXICO or not team.problems_solved:
                     continue
 
-                percentile = (team_count - team.rank) / (team_count - 1)
+                percentile = get_percentile(team.rank, team_count)
                 team_values = (percentile, contest, team)
                 if team.rank == last_rank or percentile < 0.5:
                     honorable_teams.append(team_values)
@@ -75,9 +75,9 @@ class Analyzer:
 
         def print_team(team_rank: TeamRank) -> None:
             percentile, contest, team = team_rank
-            perc = round(percentile * 100)
-            markdown.bullet_point(f'{perc}% {team.name} ({team.institution}), resolvió {team.problems_solved} en'
-                                  f' {contest.year+1}, obteniendo el lugar #{team.rank}')
+            markdown.bullet_point(f'{format_percentile(percentile)} {team.name} ({team.institution}),'
+                                  f' resolvió {team.problems_solved} en {contest.year+1},'
+                                  f' obteniendo el lugar #{team.rank}')
 
         with markdown.section('Ranking de equipos'):
             with markdown.section('Sobresalientes'):
@@ -195,7 +195,7 @@ class Analyzer:
 
                     if wf_team:
                         team_count = len(season.world.team_results)
-                        percentile = (team_count - wf_team.rank) / (team_count - 1)
+                        percentile = get_percentile(wf_team.rank, team_count)
                         teams.append((percentile, season.world, wf_team))
 
                     added_teams: Set[str] = set()
@@ -213,7 +213,7 @@ class Analyzer:
                         added_teams.add(team.name)
 
                         team_count = len(all_team_names)
-                        percentile = (team_count - team.rank) / (team_count - 1)
+                        percentile = get_percentile(team.rank, team_count)
                         teams.append((percentile, contest, team))
 
                 def sort_team(team: Tuple[float, Contest, TeamResult]):
@@ -229,10 +229,10 @@ class Analyzer:
                 with markdown.section('Mejores 10 equipos'):
                     for team in teams[:10]:
                         percentile, contest, team_result = team
-                        perc = round(percentile * 100)
                         markdown.numbered_bullet_point(
                             f'_{team_result.name}_: resolvió {team_result.problems_solved} problemas'
-                            f' y obtuvo el lugar #{team_result.rank} ({perc}%) en {contest.name}')
+                            f' y obtuvo el lugar #{team_result.rank} ({format_percentile(percentile)}) en'
+                            f' {contest.name}')
 
                 with markdown.section('Participaciones'):
                     for season in self._queries.contest_seasons:
@@ -255,7 +255,8 @@ class Analyzer:
                             regional_teams = [(school, 'Regional') for school in get_by_school(school, season.regional)]
                         qualifier_teams: List[(TeamResult, str)] = []
                         if season.qualifier:
-                            qualifier_teams = [(school, 'Clasificatorio') for school in get_by_school(school, season.qualifier)]
+                            qualifier_teams = [(school, 'Clasificatorio')
+                                               for school in get_by_school(school, season.qualifier)]
                         year_teams = regional_teams + qualifier_teams
 
                         if not year_teams:

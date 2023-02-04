@@ -4,6 +4,7 @@ from typing import List, Set, Tuple
 from icpc_mexico.data import FinishedContest, ContestType, SchoolCommunity, School, MEXICO, TeamResult, Contest
 from icpc_mexico.markdown import Markdown, MarkdownFile
 from icpc_mexico.queries import get_best_by_school, get_by_school, Queries
+from icpc_mexico.query_data import RankedTeam
 from icpc_mexico.utils import normalize_as_filename, log_run_time, get_percentile, format_percentile
 
 TeamRank = Tuple[float, FinishedContest, TeamResult]
@@ -34,10 +35,14 @@ class Analyzer:
         with MarkdownFile(self._get_filename('mexico.md')) as markdown:
             with markdown.section('Resultados de México en el ICPC'):
                 with markdown.section('Final Mundial'):
-                    for contest in self._queries.get_contests_by_type(ContestType.WORLD):
+                    for season in self._queries.contest_seasons:
+                        contest = season.world
+                        if not contest:
+                            continue
+
                         with markdown.section(contest.description()):
                             for team in contest.team_results:
-                                if team.country != 'mexico':
+                                if team.country != MEXICO:
                                     continue
                                 community_desc = f', {team.community}' if team.community else ''
                                 markdown.bullet_point(f'#{team.rank} (#{team.country_rank} de México, '
@@ -48,36 +53,39 @@ class Analyzer:
 
     @log_run_time
     def _analyze_team_rank(self, markdown: Markdown) -> None:
-        honorable_teams: List[TeamRank] = []
-        high_teams: List[TeamRank] = []
-        for contest in self._queries.get_contests_by_type(ContestType.WORLD):
-            last_rank = 0
-            for team in contest.team_results:
-                last_rank = max(last_rank, team.rank)
+        honorable_teams: List[RankedTeam] = []
+        high_teams: List[RankedTeam] = []
+        for season in self._queries.contest_seasons:
+            contest = season.world
+            if not contest:
+                continue
 
-            team_count = len(contest.team_results)
-            for team in contest.team_results:
-                if team.country != MEXICO or not team.problems_solved:
+            last_rank = contest.team_results[-1].rank
+            for team in season.teams:
+                if not team.school or team.school.country != MEXICO:
+                    continue
+                ext_result = team.world_result
+                if not ext_result or not ext_result.team_result.problems_solved:
                     continue
 
-                percentile = get_percentile(team.rank, team_count)
-                team_values = (percentile, contest, team)
-                if team.rank == last_rank or percentile < 0.5:
-                    honorable_teams.append(team_values)
+                if ext_result.team_result.rank == last_rank or ext_result.percentile < 0.5:
+                    honorable_teams.append(team)
                 else:
-                    high_teams.append(team_values)
+                    high_teams.append(team)
 
-        def team_sort(team_rank: TeamRank) -> Tuple:
-            percentile, contest, team = team_rank
-            return 1 - percentile, team.rank, -team.problems_solved, contest.year, team.name
+        def team_sort(team: RankedTeam) -> Tuple:
+            ext_result = team.world_result
+            return -ext_result.percentile, -ext_result.team_result.problems_solved, ext_result.contest.year, team.name
+
         honorable_teams.sort(key=team_sort)
         high_teams.sort(key=team_sort)
 
-        def print_team(team_rank: TeamRank) -> None:
-            percentile, contest, team = team_rank
-            markdown.bullet_point(f'{format_percentile(percentile)} {team.name} ({team.institution}),'
-                                  f' resolvió {team.problems_solved} en {contest.year+1},'
-                                  f' obteniendo el lugar #{team.rank}')
+        def print_team(team: RankedTeam) -> None:
+            ext_result = team.world_result
+            markdown.bullet_point(f'{format_percentile(ext_result.percentile)} {team.name}'
+                                  f' ({team.school.name.title()}),'
+                                  f' resolvió {ext_result.team_result.problems_solved} en {ext_result.contest.year+1},'
+                                  f' obteniendo el lugar #{ext_result.team_result.rank}')
 
         with markdown.section('Ranking de equipos'):
             with markdown.section('Sobresalientes'):

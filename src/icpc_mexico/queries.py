@@ -1,10 +1,10 @@
 import dataclasses
 from collections import defaultdict
-from typing import List, Optional, Dict
+from typing import List, Optional, Dict, Tuple
 
 from icpc_mexico.data import School, ContestType, FinishedContest, TeamResult, SchoolCommunity, Contest
-from icpc_mexico.query_data import ContestSeason
-from icpc_mexico.utils import normalize_str
+from icpc_mexico.query_data import ContestSeason, RankedTeam, ExtendedTeamResult
+from icpc_mexico.utils import normalize_str, get_percentile
 
 
 def get_school(school_name: str, schools: List[School]) -> Optional[School]:
@@ -119,7 +119,63 @@ class Queries:
                 else:
                     raise ValueError(f'Unexpected type {contest.type} of contest {contest.name}')
 
-            seasons.append(ContestSeason(year=year, qualifier=qualifier, regional=regional, world=world))
+            results_by_team_name: Dict[str, List[Optional[ExtendedTeamResult]]] = defaultdict(lambda: 3 * [None])
+            for i, contest in enumerate([world, regional, qualifier]):
+                if not contest:
+                    continue
+                for team_result in contest.team_results:
+                    results_by_team_name[team_result.name][i] = ExtendedTeamResult(
+                        team_result=team_result, contest=contest)
+
+            regional_teams = {result.name for result in regional.team_results} if regional else set()
+            qualifier_teams = {result.name for result in qualifier.team_results} if qualifier else set()
+            extra_teams_in_regional = regional_teams - qualifier_teams
+            regional_season_teams = regional_teams | qualifier_teams
+
+            teams: List[RankedTeam] = []
+            for team_name, ext_team_results in results_by_team_name.items():
+                school_names = [result.team_result.institution for result in ext_team_results if result]
+                school = self.get_school(school_names[0])
+                world_result, regional_result, qualifier_result = ext_team_results
+
+                regional_season_rank = None
+                if regional_result:
+                    regional_season_rank = regional_result.team_result.rank
+                elif qualifier_result:
+                    # Teams that were in the regional but were not in the qualifiers, will push down teams that did not
+                    # make it to the regional
+                    regional_season_rank = qualifier_result.team_result.rank + len(extra_teams_in_regional)
+
+                regional_season_percentile = None
+                if regional_season_rank:
+                    regional_season_percentile = get_percentile(regional_season_rank, len(regional_season_teams))
+
+                teams.append(RankedTeam(name=team_name,
+                                        school=school,
+                                        qualifier_result=qualifier_result,
+                                        regional_result=regional_result,
+                                        world_result=world_result,
+                                        regional_season_rank=regional_season_rank,
+                                        regional_season_percentile=regional_season_percentile))
+
+            def sort_ranked_team(team: RankedTeam) -> Tuple:
+                world_finals_percentile = -1
+                if team.world_result:
+                    world_finals_percentile = team.world_result.percentile
+
+                problems_solved = 0
+                if team.world_result:
+                    problems_solved = team.world_result.team_result.problems_solved or 0
+                elif team.regional_result:
+                    problems_solved = team.regional_result.team_result.problems_solved or 0
+                elif team.qualifier_result:
+                    problems_solved = team.qualifier_result.team_result.problems_solved or 0
+
+                return -world_finals_percentile, -(team.regional_season_percentile or -1), -problems_solved, team.name
+
+            teams.sort(key=sort_ranked_team)
+
+            seasons.append(ContestSeason(year=year, qualifier=qualifier, regional=regional, world=world, teams=teams))
 
         return seasons
 

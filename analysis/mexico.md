@@ -134,48 +134,48 @@
 
 ### Sobresalientes
 
-- 78% PU++ (Facultad de Ciencias-Universidad Nacional Autónoma de México), resolvió 5 en 2018, obteniendo el lugar #31
+- 78% PU++ (Facultad De Ciencias-Universidad Nacional Autonoma De Mexico), resolvió 5 en 2018, obteniendo el lugar #31
 - 69% UPsolving (Universidad Panamericana Campus Bonaterra), resolvió 5 en 2021, obteniendo el lugar #41
 - 64% Los Chidory (Universidad Panamericana Campus Bonaterra), resolvió 2 en 2014, obteniendo el lugar #45
-- 58% Los Románticos (Instituto Tecnológico Autónomo de México), resolvió 4 en 2017, obteniendo el lugar #56
-- 52% Turing Machines (Instituto Tecnológico de Culiacán), resolvió 3 en 2009, obteniendo el lugar #49
+- 58% Los Románticos (Instituto Tecnologico Autonomo De Mexico), resolvió 4 en 2017, obteniendo el lugar #56
+- 52% Turing Machines (Instituto Tecnologico De Culiacan), resolvió 3 en 2009, obteniendo el lugar #49
 
 ### Mención honorífica
 
-- 62% Leones(0,0,0) (Universidad de Guadalajara CUCEI), resolvió 3 en 2021, obteniendo el lugar #51
-- 62% FoundTheBug.ItsMe (Instituto Tecnológico Autónomo de México), resolvió 2 en 2021, obteniendo el lugar #51
-- 62% Legendary Grand Newbies (ITESM Campus Monterrey), resolvió 2 en 2021, obteniendo el lugar #51
-- 60% Los A´s (Universidad Autónoma de Nuevo Leon), resolvió 3 en 2018, obteniendo el lugar #57
-- 60% Pragma (ITESM Campus Queretaro), resolvió 2 en 2018, obteniendo el lugar #57
-- 58% Los A´S (Universidad Autónoma de Nuevo Leon), resolvió 3 en 2017, obteniendo el lugar #57
-- 58% PU++ (Facultad de Ciencias-Universidad Nacional Autónoma de México), resolvió 3 en 2017, obteniendo el lugar #57
-- 54% #define TriLCI(404.0) :v (Instituto Tecnológico Superior del Sur de Guanajuato), resolvió 2 en 2019, obteniendo el lugar #63
-- 54% Legendary Grandpupils (ITESM Campus Monterrey), resolvió 2 en 2019, obteniendo el lugar #63
-- 54% The Beat Alls (Instituto Tecnológico Autónomo de México), resolvió 2 en 2019, obteniendo el lugar #63
+- 62% Leones(0,0,0) (Universidad De Guadalajara Cucei), resolvió 3 en 2021, obteniendo el lugar #51
+- 62% FoundTheBug.ItsMe (Instituto Tecnologico Autonomo De Mexico), resolvió 2 en 2021, obteniendo el lugar #51
+- 62% Legendary Grand Newbies (Itesm Campus Monterrey), resolvió 2 en 2021, obteniendo el lugar #51
+- 60% Los A´s (Universidad Autonoma De Nuevo Leon), resolvió 3 en 2018, obteniendo el lugar #57
+- 60% Pragma (Itesm Campus Queretaro), resolvió 2 en 2018, obteniendo el lugar #57
+- 58% Los A´S (Universidad Autonoma De Nuevo Leon), resolvió 3 en 2017, obteniendo el lugar #57
+- 58% PU++ (Facultad De Ciencias-Universidad Nacional Autonoma De Mexico), resolvió 3 en 2017, obteniendo el lugar #57
+- 54% #define TriLCI(404.0) :v (Instituto Tecnologico Superior Del Sur De Guanajuato), resolvió 2 en 2019, obteniendo el lugar #63
+- 54% Legendary Grandpupils (Itesm Campus Monterrey), resolvió 2 en 2019, obteniendo el lugar #63
+- 54% The Beat Alls (Instituto Tecnologico Autonomo De Mexico), resolvió 2 en 2019, obteniendo el lugar #63
 - 54% lA_Criba de ceros y unos (Escuela Superior De Computo Instituto Politecnico Nacional), resolvió 2 en 2019, obteniendo el lugar #63
-- 46% Los Románticos (Instituto Tecnológico Autónomo de México), resolvió 4 en 2016, obteniendo el lugar #69
+- 46% Los Románticos (Instituto Tecnologico Autonomo De Mexico), resolvió 4 en 2016, obteniendo el lugar #69
 - 36% AEI (Universidad Panamericana Campus Bonaterra), resolvió 2 en 2013, obteniendo el lugar #76
-- 35% U de G ACM Problem Solvers (Universidad de Guadalajara), resolvió 2 en 2008, obteniendo el lugar #65
+- 35% U de G ACM Problem Solvers (Universidad De Guadalajara), resolvió 2 en 2008, obteniendo el lugar #65
 - 35% Hurones Pwneadores (Escuela Superior De Computo Instituto Politecnico Nacional), resolvió 1 en 2014, obteniendo el lugar #80
-- 33% UTMixteca NONAME (Universidad Tecnológica de la Mixteca), resolvió 1 en 2006, obteniendo el lugar #56
-- 30% Manowar (Universidad de Guanajuato - CIMAT), resolvió 2 en 2011, obteniendo el lugar #74
-- 29% Manowar (Universidad de Guanajuato - CIMAT), resolvió 2 en 2012, obteniendo el lugar #80
+- 33% UTMixteca NONAME (Universidad Tecnologica De La Mixteca), resolvió 1 en 2006, obteniendo el lugar #56
+- 30% Manowar (Universidad De Guanajuato - Cimat), resolvió 2 en 2011, obteniendo el lugar #74
+- 29% Manowar (Universidad De Guanajuato - Cimat), resolvió 2 en 2012, obteniendo el lugar #80
 - 28% La Carabina del AC (Escuela Superior De Computo Instituto Politecnico Nacional), resolvió 3 en 2016, obteniendo el lugar #92
-- 27% Los Pericos Brujos (ITESM Campus Monterrey), resolvió 2 en 2002, obteniendo el lugar #47
-- 26% ITESM Queretaro Los punteros (ITESM Campus Queretaro), resolvió 2 en 2010, obteniendo el lugar #76
-- 25% U Guanajuato Hausdorff (Universidad de Guanajuato), resolvió 2 en 2010, obteniendo el lugar #77
+- 27% Los Pericos Brujos (Itesm Campus Monterrey), resolvió 2 en 2002, obteniendo el lugar #47
+- 26% ITESM Queretaro Los punteros (Itesm Campus Queretaro), resolvió 2 en 2010, obteniendo el lugar #76
+- 25% U Guanajuato Hausdorff (Universidad De Guanajuato), resolvió 2 en 2010, obteniendo el lugar #77
 - 25% Escoolers (Escuela Superior De Computo Instituto Politecnico Nacional), resolvió 3 en 2015, obteniendo el lugar #96
 - 21% Escoders (Escuela Superior De Computo Instituto Politecnico Nacional), resolvió 1 en 2013, obteniendo el lugar #94
-- 17% HaKings (ITESM Campus Monterrey), resolvió 2 en 2016, obteniendo el lugar #107
-- 15% U de las Americas (Universidad de las Americas-Puebla), resolvió 1 en 1999, obteniendo el lugar #53
-- 14% Peludos (Universidad Autónoma de Aguascalientes), resolvió 2 en 2015, obteniendo el lugar #110
-- 12% BUA de Puebla - Los Alfalfas (Benemérita Universidad Autónoma de Puebla), resolvió 2 en 2005, obteniendo el lugar #69
-- 10% C_mita (ITESM Campus Puebla), resolvió 1 en 2012, obteniendo el lugar #101
-- 10% Justice League (Universidad Tecnológica de la Mixteca), resolvió 1 en 2012, obteniendo el lugar #101
-- 10% ITESM ProZac (ITESM Campus Monterrey), resolvió 1 en 1999, obteniendo el lugar #56
-- 8% SWART (ITESM Campus Monterrey), resolvió 1 en 2001, obteniendo el lugar #59
-- 6% Locos (ITESM Campus Monterrey), resolvió 1 en 2015, obteniendo el lugar #121
-- 5% UTMixteca Poor Dogs (Universidad Tecnológica de la Mixteca), resolvió 1 en 2005, obteniendo el lugar #74
+- 17% HaKings (Itesm Campus Monterrey), resolvió 2 en 2016, obteniendo el lugar #107
+- 15% U de las Americas (Universidad De Las Americas-Puebla), resolvió 1 en 1999, obteniendo el lugar #53
+- 14% Peludos (Universidad Autonoma De Aguascalientes), resolvió 2 en 2015, obteniendo el lugar #110
+- 12% BUA de Puebla - Los Alfalfas (Benemerita Universidad Autonoma De Puebla), resolvió 2 en 2005, obteniendo el lugar #69
+- 10% C_mita (Itesm Campus Puebla), resolvió 1 en 2012, obteniendo el lugar #101
+- 10% Justice League (Universidad Tecnologica De La Mixteca), resolvió 1 en 2012, obteniendo el lugar #101
+- 10% ITESM ProZac (Itesm Campus Monterrey), resolvió 1 en 1999, obteniendo el lugar #56
+- 8% SWART (Itesm Campus Monterrey), resolvió 1 en 2001, obteniendo el lugar #59
+- 6% Locos (Itesm Campus Monterrey), resolvió 1 en 2015, obteniendo el lugar #121
+- 5% UTMixteca Poor Dogs (Universidad Tecnologica De La Mixteca), resolvió 1 en 2005, obteniendo el lugar #74
 
 
 

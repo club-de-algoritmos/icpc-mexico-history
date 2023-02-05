@@ -1,113 +1,192 @@
 # Resultados de Sinaloa en el ICPC
 
-## Final Mundial
+## Mejores 10 equipos
 
-### 2007-2008 The 2008 ACM Programming Contest World Finals
+1. _Turing Machines_ (Instituto Tecnologico De Culiacan) resolvió 6 problemas y obtuvo el lugar #1 (100%) en The 2008 Mexico & Central America Contest
+    - Avanzó a la final mundial y resolvió 3 problemas y obtuvo el lugar #49 (52%) en 33rd Annual World Finals of the ACM International Collegiate Programming Contest
+1. _ITC Turing Machines_ (Instituto Tecnologico De Culiacan) resolvió 5 problemas y obtuvo el lugar #3 (99%) en The 2007 ACM Mexico and Central America Programming Contest
+    - Avanzó a la final mundial y resolvió 0 problemas y obtuvo el lugar #90 (10%) en The 2008 ACM Programming Contest World Finals
+1. _MTY01_ (Itesm Campus Mazatlan) resolvió 5 problemas y obtuvo el lugar #4 (98%) en The 2005 ACM Mexico and Central America Programming Contest
+1. _JRA_ (Instituto Tecnologico De Culiacan) resolvió 5 problemas y obtuvo el lugar #9 (97%) en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _los punteros_ (Itesm Campus Mazatlan) resolvió 4 problemas y obtuvo el lugar #6 (97%) en The 2007 ACM Mexico and Central America Programming Contest
+1. _MTY1_ (Itesm Campus Mazatlan) resolvió 4 problemas y obtuvo el lugar #5 (96%) en The 2004 ACM Mexico and Central America Programming Contest
+1. _Ludus G++_ (Instituto Tecnologico De Culiacan) resolvió 12 problemas y obtuvo el lugar #39 (96%) en The 2022 ICPC Gran Premio de Mexico
+1. _javaglets_ (Itesm Campus Mazatlan) resolvió 3 problemas y obtuvo el lugar #8 (95%) en The 2005 ACM Mexico and Central America Programming Contest
+1. _Campus Mazatlán_ (Itesm Campus Mazatlan) resolvió 2 problemas y obtuvo el lugar #7 (93%) en The 2002 ACM Mexico and Central America Programming Contest
+1. _Three Bits_ (Instituto Tecnologico De Culiacan) resolvió 4 problemas y obtuvo el lugar #12 (93%) en The 2012 Mexico & Central America Regional Contest
 
-- #90 (#2 de México, resolvió 0) ITC Turing Machines (Instituto Tecnológico de Culiacán)
+## Participaciones
 
-### 2008-2009 33rd Annual World Finals of the ACM International Collegiate Programming Contest
+### 2001-2002
 
-- #49 (#1 de México, resolvió 3) Turing Machines (Instituto Tecnológico de Culiacán)
+- #18 _Deth-Therion_ (Itesm Campus Mazatlan) (Regional)
+- #44 _Los Afro_ (Itesm Campus Mazatlan) (Regional)
+- #55 _LO QUE SEA_ (Itesm Campus Mazatlan) (Regional)
+- #55 _Tec Campus Mazatlán_ (Itesm Campus Mazatlan) (Regional)
 
+### 2002-2003
 
-## Mejores 5 en México
+- #7 _Campus Mazatlán_ (Itesm Campus Mazatlan) (Regional)
+- #13 _HMJ21_ (Itesm Campus Mazatlan) (Regional)
+- #21 _YHS20_ (Itesm Campus Mazatlan) (Regional)
+- #24 _Let it C_ (Itesm Campus Mazatlan) (Regional)
+- #27 _COD22_ (Itesm Campus Mazatlan) (Regional)
+- #27 _Knights EC_ (Itesm Campus Mazatlan) (Regional)
+- #27 _drink team_ (Itesm Campus Mazatlan) (Regional)
 
-### 2001-2002 The 2001 ACM Mexico and Central America Programming Contest
+### 2003-2004
 
-- #18 Deth-Therion (ITESM Campus Mazatlán)
-- #44 Los Afro (ITESM Campus Mazatlán)
-- #55 LO QUE SEA (ITESM Campus Mazatlán)
-- #55 Tec Campus Mazatlán (ITESM Campus Mazatlán)
+- #26 _.RHR._ (Itesm Campus Mazatlan) (Regional)
+- #30 _ISC++_ (Itesm Campus Mazatlan) (Regional)
+- #32 _JHack_ (Itesm Campus Mazatlan) (Regional)
+- #36 _Dangerous Minds_ (Itesm Campus Mazatlan) (Regional)
+- #41 _Campus Mazatlán_ (Itesm Campus Mazatlan) (Regional)
+- #41 _Mazatlán II_ (Itesm Campus Mazatlan) (Regional)
 
-### 2002-2003 The 2002 ACM Mexico and Central America Programming Contest
+### 2004-2005
 
-- #7 Campus Mazatlán (ITESM Campus Mazatlán)
-- #13 HMJ21 (ITESM Campus Mazatlán)
-- #21 YHS20 (ITESM Campus Mazatlán)
-- #24 Let it C (ITESM Campus Mazatlán)
-- #27 drink team (ITESM Campus Mazatlán)
+- #5 _MTY1_ (Itesm Campus Mazatlan) (Regional)
+- #11 _MTY2_ (Itesm Campus Mazatlan) (Regional)
+- #80 _itesm 4_ (Itesm Campus Mazatlan) (Regional)
+- #90 _MTY3_ (Itesm Campus Mazatlan) (Regional)
 
-### 2003-2004 The 2003 ACM Mexico and Central America Programming Contest
+### 2005-2006
 
-- #26 .RHR. (ITESM Campus Mazatlán)
-- #30 ISC++ (ITESM Campus Mazatlán)
-- #32 JHack (ITESM Campus Mazatlán)
-- #36 Dangerous Minds (ITESM Campus Mazatlán)
-- #41 Campus Mazatlán (ITESM Campus Mazatlán)
+- #4 _MTY01_ (Itesm Campus Mazatlan) (Regional)
+- #8 _javaglets_ (Itesm Campus Mazatlan) (Regional)
+- #11 _Sapphire_ (Itesm Campus Mazatlan) (Regional)
+- #16 _MTY03_ (Itesm Campus Mazatlan) (Regional)
+- #18 _MTY02_ (Itesm Campus Mazatlan) (Regional)
+- #31 _Les Chevaliers D''Or_ (Itesm Campus Mazatlan) (Regional)
+- #32 _2 hot 2 handle_ (Itesm Campus Mazatlan) (Regional)
+- #46 _ITESM Masters_ (Itesm Campus Mazatlan) (Regional)
 
-### 2004-2005 The 2004 ACM Mexico and Central America Programming Contest
+### 2006-2007
 
-- #5 MTY1 (ITESM Campus Mazatlán)
-- #11 MTY2 (ITESM Campus Mazatlán)
-- #80 itesm 4 (ITESM Campus Mazatlán)
-- #90 MTY3 (ITESM Campus Mazatlán)
+- #23 _Revival_ (Itesm Campus Mazatlan) (Regional)
+- #27 _StackOverflow_ (Instituto Tecnologico De Culiacan) (Regional)
+- #30 _Burros sin Mecate_ (Itesm Campus Mazatlan) (Regional)
+- #33 _aqua_ (Itesm Campus Mazatlan) (Regional)
+- #36 _Balls of Fire_ (Itesm Campus Mazatlan) (Regional)
+- #50 _Carlit-OS_ (Itesm Campus Mazatlan) (Regional)
+- #55 _Borregos PACK_ (Itesm Campus Mazatlan) (Regional)
+- #85 _Hijos de Efren_ (Itesm Campus Mazatlan) (Regional)
+- #85 _ITESM Mazatlán_ (Itesm Campus Mazatlan) (Regional)
+- #85 _ITESM ZAC 1_ (Itesm Campus Mazatlan) (Regional)
+- #85 _Los Mazatlecos_ (Itesm Campus Mazatlan) (Regional)
+- #85 _Punishers_ (Itesm Campus Mazatlan) (Regional)
 
-### 2005-2006 The 2005 ACM Mexico and Central America Programming Contest
+### 2007-2008
 
-- #4 MTY01 (ITESM Campus Mazatlán)
-- #8 javaglets (ITESM Campus Mazatlán)
-- #11 Sapphire (ITESM Campus Mazatlán)
-- #16 MTY03 (ITESM Campus Mazatlán)
-- #18 MTY02 (ITESM Campus Mazatlán)
+- #90 _ITC Turing Machines_ (Instituto Tecnologico De Culiacan) (Final Mundial)
+- #6 _los punteros_ (Itesm Campus Mazatlan) (Regional)
+- #19 _ITESM CEM_ (Itesm Campus Mazatlan) (Regional)
+- #35 _Objeto.metodo()_ (Itesm Campus Mazatlan) (Regional)
+- #61 _3-108_ (Itesm Campus Mazatlan) (Regional)
+- #61 _FORZA ITIC 1_ (Itesm Campus Mazatlan) (Regional)
+- #61 _Pascaleros_ (Itesm Campus Mazatlan) (Regional)
+- #61 _Top Coder_ (Itesm Campus Mazatlan) (Regional)
 
-### 2006-2007 The 2006 ACM Mexico and Central America Programming Contest
+### 2008-2009
 
-- #23 Revival (ITESM Campus Mazatlán)
-- #27 StackOverflow (Instituto Tecnológico de Culiacán)
-- #30 Burros sin Mecate (ITESM Campus Mazatlán)
-- #33 aqua (ITESM Campus Mazatlán)
-- #36 Balls of Fire (ITESM Campus Mazatlán)
+- #49 _Turing Machines_ (Instituto Tecnologico De Culiacan) (Final Mundial)
+- #47 _Salchipulpos_ (Instituto Tecnologico De Culiacan) (Regional)
+- #67 _Dark side of the code_ (Instituto Tecnologico De Culiacan) (Regional)
 
-### 2007-2008 The 2007 ACM Mexico and Central America Programming Contest
+### 2009-2010
 
-- #3 ITC Turing Machines (Instituto Tecnológico de Culiacán)
-- #6 los punteros (ITESM Campus Mazatlán)
-- #19 ITESM CEM (ITESM Campus Mazatlán)
-- #35 Objeto.metodo() (ITESM Campus Mazatlán)
-- #61 Pascaleros (ITESM Campus Mazatlán)
+- #16 _tec de Culiacán_ (Instituto Tecnologico De Culiacan) (Regional)
 
-### 2008-2009 The 2008 Mexico & Central America Contest
+### 2010-2011
 
-- #1 Turing Machines (Instituto Tecnológico de Culiacán)
-- #47 Salchipulpos (Instituto Tecnológico de Culiacán)
-- #67 Dark side of the code (Instituto Tecnológico de Culiacán)
+- #69 _Three Little Bits_ (Instituto Tecnologico De Culiacan) (Regional)
+- #90 _Unreal Coders_ (Instituto Tecnologico De Culiacan) (Regional)
 
-### 2009-2010 The 2009 Mexico & Central America Contest
+### 2011-2012
 
-- #16 tec de Culiacán (Instituto Tecnológico de Culiacán)
+- #48 _Three Bits_ (Instituto Tecnologico De Culiacan) (Regional)
+- #92 _UPSIN DELTA_ (Universidad Politecnica De Sinaloa) (Regional)
+- #101 _UPSIN GAMMA_ (Universidad Politecnica De Sinaloa) (Regional)
+- #104 _UPSIN ALFA_ (Universidad Politecnica De Sinaloa) (Regional)
+- #104 _UPSIN BETA_ (Universidad Politecnica De Sinaloa) (Regional)
 
-### 2010-2011 The 2010 Mexico & Central America Regional Contest
+### 2012-2013
 
-- #69 Three Little Bits (Instituto Tecnológico de Culiacán)
-- #90 Unreal Coders (Instituto Tecnológico de Culiacán)
+- #12 _Three Bits_ (Instituto Tecnologico De Culiacan) (Regional)
+- #55 _Caldo de pollo_ (Instituto Tecnologico De Culiacan) (Regional)
+- #103 _Salchipulpos_ (Instituto Tecnologico De Culiacan) (Regional)
 
-### 2011-2012 The 2011 Mexico & Central America Regional Contest
+### 2013-2014
 
-- #48 Three Bits (Instituto Tecnológico de Culiacán)
-- #92 UPSIN DELTA (Universidad Politecnica de Sinaloa)
-- #101 UPSIN GAMMA (Universidad Politecnica de Sinaloa)
-- #104 UPSIN ALFA (Universidad Politecnica de Sinaloa)
-- #104 UPSIN BETA (Universidad Politecnica de Sinaloa)
+- #39 _Dynamic_ (Instituto Tecnologico De Culiacan) (Regional)
+- #60 _PM4L_ (Instituto Tecnologico De Culiacan) (Regional)
 
-### 2012-2013 The 2012 Mexico & Central America Regional Contest
+### 2014-2015
 
-- #12 Three Bits (Instituto Tecnológico de Culiacán)
-- #55 Caldo de pollo (Instituto Tecnológico de Culiacán)
-- #103 Salchipulpos (Instituto Tecnológico de Culiacán)
+- #9 _JRA_ (Instituto Tecnologico De Culiacan) (Regional)
+- #54 _Los Cansados_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+- #90 _Los simuladores_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+- #153 _Mighty Morphin 335_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+- #204 _Equipo Rocket_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+- #204 _JDK_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
 
-### 2013-2014 The 2013 Mexico & Central America Regional Contest
+### 2015-2016
 
-- #39 Dynamic (Instituto Tecnológico de Culiacán)
-- #60 PM4L (Instituto Tecnológico de Culiacán)
+- #108 _Bonum faciunt_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+- #108 _EPN Y LOS 43?_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+- #108 _Exception_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+- #108 _Qbits_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
 
-### 2014-2015 The 2014 ACM-ICPC Mexico and Central America Finals
+### 2018-2019
 
-- #9 JRA (Instituto Tecnológico de Culiacán)
+- #149 _Aprovecha el bug_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
+- #346 _AHF4_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
+- #350 _Los Patos_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
+- #359 _Another One_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
+- #378 _Linux Team_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
+- #394 _Coffee Team_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
+- #394 _Error 404: Not found_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
+- #395 _Team UAdeO_ (Universidad De Occidente, Unidad Culiacan) (Clasificatorio)
 
-### 2021-2022 The 2021 ICPC Mexico Finals
+### 2019-2020
 
-- #36 Ludus G++ (Instituto Tecnológico de Culiacán)
+- #135 _The Bytes_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
+- #206 _Equipo106_ (Universidad De Occidente, Unidad Culiacan) (Clasificatorio)
+- #351 _Singleton_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
+- #354 _Team-Capi_ (Universidad Autonoma De Occidente) (Clasificatorio)
+- #382 _Código Enigma_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
+- #382 _TryCatch_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
+
+### 2020-2021
+
+- #351 _Picudos 1 ISC_ (Tecnologico Nacional De Mexico / Instituto Tecnologico De Mazatlan) (Clasificatorio)
+
+### 2021-2022
+
+- #36 _Ludus G++_ (Instituto Tecnologico De Culiacan) (Regional)
+- #124 _Zandunga_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+- #140 _Hijos de Honor_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+- #145 _ArsGoetia_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+- #171 _Salchipulpos_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+- #211 _SpiderTeam_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+- #225 _Beesechurger_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+
+### 2022-2023
+
+- #39 _Ludus G++_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+- #93 _Hijos de Honor_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+- #108 _Nexus_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
+- #110 _Team Belico_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+- #116 _Broncos4Life_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+- #127 _3Logy_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+- #133 _Los Padrinos del C++_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+- #151 _Gods Programming_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
+- #221 _Chicas Superpoderosas_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+- #222 _Los tilines insanos_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+- #227 _New Legacy_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+- #267 _FIMAZ_ (Facultad De Informatica Mazatlan Uas) (Clasificatorio)
+- #381 _El Pariente Technologies_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
+- #381 _Hog Riders_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
 
 
 

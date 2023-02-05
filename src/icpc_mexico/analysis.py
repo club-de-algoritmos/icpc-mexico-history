@@ -3,7 +3,7 @@ from typing import List, Set, Tuple
 
 from icpc_mexico.data import FinishedContest, ContestType, SchoolCommunity, School, MEXICO, TeamResult
 from icpc_mexico.markdown import Markdown, MarkdownFile
-from icpc_mexico.queries import get_best_by_school, get_by_school, Queries, sort_ranked_team
+from icpc_mexico.queries import Queries
 from icpc_mexico.query_data import RankedTeam, ExtendedTeamResult
 from icpc_mexico.utils import normalize_as_filename, log_run_time, format_percentile
 
@@ -133,45 +133,25 @@ class Analyzer:
         print(f'Analyzing results of state {state.title()}')
         with MarkdownFile(self._get_filename(f'{normalize_as_filename(state)}.md')) as markdown:
             with markdown.section(f'Resultados de {state.title()} en el ICPC'):
-                with markdown.section('Final Mundial'):
-                    wf_school_names: Set[str] = set()
-                    wf_schools: List[School] = []
-                    for contest in self._queries.get_contests_by_type(ContestType.WORLD):
-                        participations = []
-                        for team in contest.team_results:
-                            school = self._queries.get_school(team.institution)
-                            if school is None or school.state != state:
-                                continue
-                            participations.append(f'#{team.rank} (#{team.country_rank} de México,'
-                                                  f' resolvió {team.problems_solved}) {team.name} ({team.institution})')
-                            if school.name not in wf_school_names:
-                                wf_school_names.add(school.name)
-                                wf_schools.append(school)
+                teams = self._queries.get_ranked_teams(state=state)
+                self._print_ranking(title='Mejores 10 equipos',
+                                    teams=teams[:10],
+                                    display_school=True,
+                                    markdown=markdown)
 
-                        if participations:
-                            with markdown.section(contest.description()):
-                                for participation in participations:
-                                    markdown.bullet_point(participation)
+                with markdown.section('Participaciones'):
+                    for season in self._queries.contest_seasons:
+                        season_teams = [team for team in season.teams if team.school and team.school.state == state]
+                        if not season_teams:
+                            # No school from this state participated this year
+                            continue
 
-                with markdown.section('Mejores 5 en México'):
-                    # TODO: Get overall rank to take qualifiers into account
-                    for contest in self._queries.get_contests_by_type(ContestType.REGIONAL):
-                        contest_teams = []
-                        rank = 0
-                        for team in contest.team_results:
-                            school = self._queries.get_school(team.institution)
-                            if school is None or school.state != state:
-                                continue
-
-                            rank += 1
-                            if rank > 5:
-                                break
-                            contest_teams.append(team)
-
-                        if contest_teams:
-                            with markdown.section(contest.description()):
-                                for team in contest_teams:
-                                    markdown.bullet_point(f'#{team.rank} {team.name} ({team.institution})')
+                        with markdown.section(season.name):
+                            for team in season_teams:
+                                ext_team_result = team.top_result
+                                markdown.bullet_point(f'#{ext_team_result.team_result.rank} _{team.name}_'
+                                                      f' ({team.school.name.title()})'
+                                                      f' ({ext_team_result.contest.type.title()})')
 
     def analyze_schools_by_country(self, country: str) -> None:
         schools = self._queries.get_schools_by_country(country)
@@ -188,30 +168,10 @@ class Analyzer:
                                        'por lo que no aparecerán aquí.')
 
                 teams = self._queries.get_ranked_teams(school=school)
-
-                def result_to_str(result: ExtendedTeamResult, percentile: float) -> str:
-                    return (f'resolvió {result.team_result.problems_solved} problemas'
-                            f' y obtuvo el lugar #{result.team_result.rank}'
-                            f' ({format_percentile(percentile)}) en'
-                            f' {result.contest.name}')
-
-                with markdown.section('Mejores 10 equipos'):
-                    for team in teams[:10]:
-                        top_result = team.regional_result or team.qualifier_result
-                        if top_result:
-                            markdown.numbered_bullet_point(
-                                f'_{team.name}_ {result_to_str(top_result, team.regional_season_percentile)}')
-                            world_result = team.world_result
-                            if world_result:
-                                markdown.bullet_point(
-                                    (f'Avanzó a la final mundial y'
-                                     f' {result_to_str(world_result, world_result.percentile)}'),
-                                    indent=1)
-                        else:
-                            top_result = team.world_result
-                            markdown.numbered_bullet_point(
-                                f'_{team.name}_ {result_to_str(top_result, top_result.percentile)}')
-                            markdown.bullet_point('No hay datos del regional', indent=1)
+                self._print_ranking(title='Mejores 10 equipos',
+                                    teams=teams[:10],
+                                    display_school=False,
+                                    markdown=markdown)
 
                 with markdown.section('Participaciones'):
                     for season in self._queries.contest_seasons:
@@ -229,3 +189,29 @@ class Analyzer:
                                 markdown.bullet_point(f'#{ext_team_result.team_result.rank}{community_rank}'
                                                       f' _{team.name}_'
                                                       f' ({ext_team_result.contest.type.title()})')
+
+    def _print_ranking(self, title: str, teams: List[RankedTeam], display_school: bool, markdown: Markdown) -> None:
+        def result_to_str(result: ExtendedTeamResult, percentile: float) -> str:
+            return (f'resolvió {result.team_result.problems_solved} problemas'
+                    f' y obtuvo el lugar #{result.team_result.rank}'
+                    f' ({format_percentile(percentile)}) en'
+                    f' {result.contest.name}')
+
+        with markdown.section(title):
+            for team in teams[:10]:
+                school_str = f' ({team.school.name.title()})' if display_school else ''
+                top_result = team.regional_result or team.qualifier_result
+                if top_result:
+                    markdown.numbered_bullet_point(
+                        f'_{team.name}_{school_str} {result_to_str(top_result, team.regional_season_percentile)}')
+                    world_result = team.world_result
+                    if world_result:
+                        markdown.bullet_point(
+                            (f'Avanzó a la final mundial y'
+                             f' {result_to_str(world_result, world_result.percentile)}'),
+                            indent=1)
+                else:
+                    top_result = team.world_result
+                    markdown.numbered_bullet_point(
+                        f'_{team.name}_{school_str} {result_to_str(top_result, top_result.percentile)}')
+                    markdown.bullet_point('No hay datos del regional', indent=1)

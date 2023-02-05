@@ -16,9 +16,9 @@
     - Avanzó a la final mundial y resolvió 0 problemas y obtuvo el lugar #86 (2%) en The 2007 ACM Programming Contest World Finals
 1. _Faith + 1_ resolvió 4 problemas y obtuvo el lugar #4 (98%) en The 2012 Mexico & Central America Regional Contest
 1. _K-bezones_ resolvió 3 problemas y obtuvo el lugar #31 (98%) en The 2019 ICPC Mexico Finals
-1. _Alcachofis_ resolvió 4 problemas y obtuvo el lugar #19 (97%) en The 2020 ICPC Mexico Finals
 1. _Batch Mode_ resolvió 4 problemas y obtuvo el lugar #5 (97%) en The 2007 ACM Mexico and Central America Programming Contest
 1. _the foos_ resolvió 3 problemas y obtuvo el lugar #15 (97%) en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _Alcachofis_ resolvió 4 problemas y obtuvo el lugar #19 (97%) en The 2020 ICPC Mexico Finals
 
 ## Participaciones
 

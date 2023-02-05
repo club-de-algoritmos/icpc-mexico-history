@@ -4,8 +4,8 @@
 
 ## Mejores 10 equipos
 
-1. _A* Rules_ resolvió 2 problemas y obtuvo el lugar #23 (80%) en The 2004 ACM Mexico and Central America Programming Contest
 1. _UPMX2_ resolvió 2 problemas y obtuvo el lugar #17 (80%) en The 2001 ACM Mexico and Central America Programming Contest
+1. _A* Rules_ resolvió 2 problemas y obtuvo el lugar #23 (80%) en The 2004 ACM Mexico and Central America Programming Contest
 1. _yamerito_ resolvió 1 problemas y obtuvo el lugar #25 (74%) en The 2002 ACM Mexico and Central America Programming Contest
 1. _NEUTRINOS_ resolvió 0 problemas y obtuvo el lugar #27 (72%) en The 2002 ACM Mexico and Central America Programming Contest
 1. _ACM's Guild_ resolvió 2 problemas y obtuvo el lugar #37 (71%) en The 2006 ACM Mexico and Central America Programming Contest

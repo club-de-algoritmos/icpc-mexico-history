@@ -8,11 +8,11 @@
 1. _Topoboros_ resolvió 4 problemas y obtuvo el lugar #23 (97%) en The 2018 ICPC Mexico and Central America Finals
 1. _LAVANDA NORTEÑA_ resolvió 2 problemas y obtuvo el lugar #35 (97%) en The 2019 ICPC Mexico Finals
 1. _LA MAFIA DEL PODER_ resolvió 1 problemas y obtuvo el lugar #42 (97%) en The 2019 ICPC Mexico Finals
-1. _BEANERS_ resolvió 8 problemas y obtuvo el lugar #51 (96%) en Gran Premio de Mexico 2019
 1. _twt_ resolvió 3 problemas y obtuvo el lugar #23 (96%) en The 2016 ACM-ICPC Mexico and Central America Finals
 1. _turing incompleto_ resolvió 2 problemas y obtuvo el lugar #31 (96%) en The 2017 ACM-ICPC Mexico and Central America Finals
-1. _Lavanda Norteña_ resolvió 3 problemas y obtuvo el lugar #33 (95%) en The 2020 ICPC Mexico Finals
+1. _BEANERS_ resolvió 8 problemas y obtuvo el lugar #51 (96%) en Gran Premio de Mexico 2019
 1. _Burst Programming_ resolvió 2 problemas y obtuvo el lugar #10 (95%) en The 2013 Mexico & Central America Regional Contest
+1. _Lavanda Norteña_ resolvió 3 problemas y obtuvo el lugar #33 (95%) en The 2020 ICPC Mexico Finals
 1. _RE100TE_ resolvió 5 problemas y obtuvo el lugar #70 (95%) en Gran Premio de Mexico 2019
 
 ## Participaciones

@@ -12,8 +12,8 @@
 1. _Grafoliebers (╯°□°)╯︵ ɹoɹɹƎ_ resolvió 1 problemas y obtuvo el lugar #77 (89%) en The 2017 ACM-ICPC Mexico and Central America Finals
 1. _Grafoliebers_ resolvió 8 problemas y obtuvo el lugar #70 (87%) en Gran Premio de Mexico 2018
 1. _The Little Kruskals_ resolvió 7 problemas y obtuvo el lugar #85 (87%) en Gran Premio de Mexico & Centroamerica 2017
-1. _Jajajava_ resolvió 4 problemas y obtuvo el lugar #176 (86%) en Gran Premio de Mexico 2019
 1. _Let it C_ resolvió 9 problemas y obtuvo el lugar #80 (86%) en Gran Premio de Mexico 2018
+1. _Jajajava_ resolvió 4 problemas y obtuvo el lugar #176 (86%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 

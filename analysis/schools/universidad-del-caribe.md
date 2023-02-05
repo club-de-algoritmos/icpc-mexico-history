@@ -9,11 +9,11 @@
 1. _Caribbean Coders_ resolvió 6 problemas y obtuvo el lugar #107 (92%) en Gran Premio de Mexico 2019
 1. _CaribbeanCoders_ resolvió 2 problemas y obtuvo el lugar #48 (91%) en The 2016 ACM-ICPC Mexico and Central America Finals
 1. _Los Mariks_ resolvió 5 problemas y obtuvo el lugar #121 (91%) en Gran Premio de Mexico 2019
-1. _Los Gatos de Schrödinger_ resolvió 3 problemas y obtuvo el lugar #158 (88%) en Gran Premio de Mexico 2019
 1. _Caribbean Coders_ resolvió 8 problemas y obtuvo el lugar #80 (88%) en Gran Premio de Mexico & Centroamerica 2017
+1. _Los Gatos de Schrödinger_ resolvió 3 problemas y obtuvo el lugar #158 (88%) en Gran Premio de Mexico 2019
 1. _Apóstol Cahazu_ resolvió 5 problemas y obtuvo el lugar #171 (87%) en Gran Premio de Mexico 2019
 1. _Caribbean Coders_ resolvió 10 problemas y obtuvo el lugar #76 (86%) en Gran Premio de Mexico 2018
-1. _Los Mariks_ resolvió 9 problemas y obtuvo el lugar #124 (82%) en Gran Premio de Mexico 2020
+1. _Mariachi_ resolvió 5 problemas y obtuvo el lugar #119 (82%) en Gran Premio de Mexico & Centroamerica 2017
 
 ## Participaciones
 

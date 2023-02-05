@@ -7,12 +7,12 @@
 1. _UAT The Tlaxcallan Kings_ resolvió 5 problemas y obtuvo el lugar #2 (99%) en The 2005 ACM Mexico and Central America Programming Contest
     - Avanzó a la final mundial y resolvió 0 problemas y obtuvo el lugar #82 (1%) en The 2006 ACM Programming Contest World Finals
 1. _Tlacuaches_ resolvió 2 problemas y obtuvo el lugar #14 (88%) en The 2003 ACM Mexico and Central America Programming Contest
-1. _C.java_ resolvió 3 problemas y obtuvo el lugar #20 (85%) en The 2006 ACM Mexico and Central America Programming Contest
 1. _Smart Survivors_ resolvió 1 problemas y obtuvo el lugar #15 (85%) en The 2002 ACM Mexico and Central America Programming Contest
+1. _C.java_ resolvió 3 problemas y obtuvo el lugar #20 (85%) en The 2006 ACM Mexico and Central America Programming Contest
 1. _Maze Minds_ resolvió 3 problemas y obtuvo el lugar #26 (85%) en The 2009 Mexico & Central America Contest
 1. _Mapaches UATx_ resolvió 3 problemas y obtuvo el lugar #27 (85%) en The 2008 Mexico & Central America Contest
-1. _RAM_ resolvió 2 problemas y obtuvo el lugar #24 (84%) en The 2007 ACM Mexico and Central America Programming Contest
 1. _Los Rabales_ resolvió 2 problemas y obtuvo el lugar #19 (84%) en The 2004 ACM Mexico and Central America Programming Contest
+1. _RAM_ resolvió 2 problemas y obtuvo el lugar #24 (84%) en The 2007 ACM Mexico and Central America Programming Contest
 1. _Survival Machines_ resolvió 2 problemas y obtuvo el lugar #20 (83%) en The 2004 ACM Mexico and Central America Programming Contest
 1. _Codec_ resolvió 1 problemas y obtuvo el lugar #32 (79%) en The 2007 ACM Mexico and Central America Programming Contest
 

@@ -15,9 +15,9 @@
 1. _UPsolving_ resolvió 22 problemas y obtuvo el lugar #3 (100%) en The 2022 ICPC Gran Premio de Mexico
 1. _ICPCrikos_ resolvió 19 problemas y obtuvo el lugar #4 (100%) en The 2022 ICPC Gran Premio de Mexico
 1. _UPsolving_ resolvió 7 problemas y obtuvo el lugar #5 (100%) en The 2018 ICPC Mexico and Central America Finals
-1. _Chilakillers_ resolvió 5 problemas y obtuvo el lugar #12 (99%) en The 2019 ICPC Mexico Finals
 1. _ICPCrikos_ resolvió 4 problemas y obtuvo el lugar #6 (99%) en The 2021 ICPC Mexico Finals
 1. _Sopa de pingüino_ resolvió 5 problemas y obtuvo el lugar #7 (99%) en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _UPdated_ resolvió 4 problemas y obtuvo el lugar #11 (99%) en The 2017 ACM-ICPC Mexico and Central America Finals
 
 ## Participaciones
 
@@ -66,8 +66,8 @@
 ### 2015-2016
 
 - #8 _Lla++_ (Regional)
-- #30 _dic.h_ (Regional)
 - #30 _BRP_ (Clasificatorio)
+- #30 _dic.h_ (Regional)
 - #35 _Los Greñuditos_ (Clasificatorio)
 - #98 _JEM_ (Clasificatorio)
 - #108 _#include<RIK.h>_ (Clasificatorio)

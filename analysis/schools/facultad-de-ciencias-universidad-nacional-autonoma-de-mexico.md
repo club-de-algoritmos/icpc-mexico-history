@@ -10,12 +10,12 @@
     - Avanzó a la final mundial y resolvió 3 problemas y obtuvo el lugar #57 (58%) en 41st Annual World Finals of the ACM International Collegiate Programming Contest
 1. _PumOMM_ resolvió 10 problemas y obtuvo el lugar #2 (100%) en The 2020 ICPC Mexico Finals
 1. _pu+os_ resolvió 6 problemas y obtuvo el lugar #4 (100%) en The 2019 ICPC Mexico Finals
+1. _pu++_ resolvió 5 problemas y obtuvo el lugar #5 (99%) en The 2015 ACM-ICPC Mexico and Central America Finals
 1. _Pumas+_ resolvió 19 problemas y obtuvo el lugar #9 (99%) en The 2022 ICPC Gran Premio de Mexico
 1. _UNAM Amada_ resolvió 7 problemas y obtuvo el lugar #9 (99%) en The 2018 ICPC Mexico and Central America Finals
-1. _Pumas+_ resolvió 4 problemas y obtuvo el lugar #15 (99%) en The 2019 ICPC Mexico Finals
 1. _Cagua++_ resolvió 16 problemas y obtuvo el lugar #11 (99%) en The 2022 ICPC Gran Premio de Mexico
-1. _pu++_ resolvió 5 problemas y obtuvo el lugar #5 (99%) en The 2015 ACM-ICPC Mexico and Central America Finals
-1. _EZLN_ resolvió 13 problemas y obtuvo el lugar #19 (98%) en Gran Premio de Mexico 2019
+1. _Pumas+_ resolvió 4 problemas y obtuvo el lugar #15 (99%) en The 2019 ICPC Mexico Finals
+1. _PU++_ resolvió 5 problemas y obtuvo el lugar #7 (98%) en The 2014 ACM-ICPC Mexico and Central America Finals
 
 ## Participaciones
 

@@ -8,8 +8,8 @@
 1. _HashTable_ resolvió 3 problemas y obtuvo el lugar #28 (83%) en The 2012 Mexico & Central America Regional Contest
 1. _IOException_ resolvió 3 problemas y obtuvo el lugar #219 (83%) en Gran Premio de Mexico 2019
 1. _alt+F4_ resolvió 2 problemas y obtuvo el lugar #286 (78%) en Gran Premio de Mexico 2019
-1. _Hashtable_ resolvió 1 problemas y obtuvo el lugar #57 (77%) en The 2014 ACM-ICPC Mexico and Central America Finals
 1. _4luX1t0s_ resolvió 2 problemas y obtuvo el lugar #38 (77%) en The 2012 Mexico & Central America Regional Contest
+1. _Hashtable_ resolvió 1 problemas y obtuvo el lugar #57 (77%) en The 2014 ACM-ICPC Mexico and Central America Finals
 1. _DeepMaze_ resolvió 2 problemas y obtuvo el lugar #235 (74%) en The 2022 ICPC Gran Premio de Mexico
 1. _Lira coders_ resolvió 2 problemas y obtuvo el lugar #236 (74%) en The 2022 ICPC Gran Premio de Mexico
 1. _Esclavos_del_API_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019

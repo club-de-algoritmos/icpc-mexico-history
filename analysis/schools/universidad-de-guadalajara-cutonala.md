@@ -5,8 +5,8 @@
 ## Mejores 10 equipos
 
 1. _ACMamo_ resolvió 13 problemas y obtuvo el lugar #19 (98%) en The 2022 ICPC Gran Premio de Mexico
-1. _Solo CUT_ resolvió 3 problemas y obtuvo el lugar #40 (95%) en The 2018 ICPC Mexico and Central America Finals
 1. _ACMamo_ resolvió 2 problemas y obtuvo el lugar #28 (95%) en The 2021 ICPC Mexico Finals
+1. _Solo CUT_ resolvió 3 problemas y obtuvo el lugar #40 (95%) en The 2018 ICPC Mexico and Central America Finals
 1. _Tonaltecas_ resolvió 2 problemas y obtuvo el lugar #234 (82%) en Gran Premio de Mexico 2019
 1. _Code Miners_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
 1. _Huevitos_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica

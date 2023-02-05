@@ -5,15 +5,15 @@
 ## Mejores 10 equipos
 
 1. _Mezcla_ resolvió 4 problemas y obtuvo el lugar #6 (97%) en The 2008 Mexico & Central America Contest
-1. _KDT_ resolvió 3 problemas y obtuvo el lugar #35 (96%) en The 2018 ICPC Mexico and Central America Finals
-1. _KDT_ resolvió 2 problemas y obtuvo el lugar #30 (96%) en The 2017 ACM-ICPC Mexico and Central America Finals
 1. _ACRUX_ resolvió 4 problemas y obtuvo el lugar #6 (96%) en The 2004 ACM Mexico and Central America Programming Contest
+1. _KDT_ resolvió 2 problemas y obtuvo el lugar #30 (96%) en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _KDT_ resolvió 3 problemas y obtuvo el lugar #35 (96%) en The 2018 ICPC Mexico and Central America Finals
 1. _Code Dream_ resolvió 4 problemas y obtuvo el lugar #9 (95%) en The 2008 Mexico & Central America Contest
 1. _ACRUX_ resolvió 3 problemas y obtuvo el lugar #7 (94%) en The 2003 ACM Mexico and Central America Programming Contest
 1. _LOL_ resolvió 4 problemas y obtuvo el lugar #13 (94%) en The 2010 Mexico & Central America Regional Contest
 1. _MachineGuns_ resolvió 1 problemas y obtuvo el lugar #56 (92%) en The 2017 ACM-ICPC Mexico and Central America Finals
 1. _Olimpicos_ resolvió 3 problemas y obtuvo el lugar #21 (90%) en The 2010 Mexico & Central America Regional Contest
-1. _MachineGuns_ resolvió 2 problemas y obtuvo el lugar #55 (89%) en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _LOL_ resolvió 3 problemas y obtuvo el lugar #19 (89%) en The 2008 Mexico & Central America Contest
 
 ## Participaciones
 

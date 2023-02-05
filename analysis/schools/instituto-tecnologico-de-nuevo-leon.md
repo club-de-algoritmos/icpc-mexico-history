@@ -10,10 +10,10 @@
 1. _A verdad me engañe_ resolvió 5 problemas y obtuvo el lugar #129 (90%) en Gran Premio de Mexico 2019
 1. _silumgar_ resolvió 2 problemas y obtuvo el lugar #63 (81%) en The 2015 ACM-ICPC Mexico and Central America Finals
 1. _silumgar_ resolvió 4 problemas y obtuvo el lugar #145 (78%) en Gran Premio de Mexico & Centroamerica 2017
+1. _Rule34_ resolvió 1 problemas y obtuvo el lugar #43 (76%) en The 2013 Mexico & Central America Regional Contest
 1. _#FuerzaJuanga_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
 1. _ANtRAX_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
 1. _CrowSys_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
-1. _Pichones_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
 
 ## Participaciones
 

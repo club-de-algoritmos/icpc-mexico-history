@@ -13,9 +13,9 @@
 1. _SAG AM_ resolvió 3 problemas y obtuvo el lugar #9 (95%) en The 2011 Mexico & Central America Regional Contest
 1. _Codeslayer_ resolvió 4 problemas y obtuvo el lugar #14 (95%) en The 2014 ACM-ICPC Mexico and Central America Finals
 1. _Algoholics_ resolvió 4 problemas y obtuvo el lugar #14 (92%) en The 2009 Mexico & Central America Contest
-1. _Es team a2 2_ resolvió 3 problemas y obtuvo el lugar #20 (90%) en The 2010 Mexico & Central America Regional Contest
 1. _Aediat upin_ resolvió 4 problemas y obtuvo el lugar #17 (90%) en The 2009 Mexico & Central America Contest
 1. _Drink Team_ resolvió 3 problemas y obtuvo el lugar #17 (90%) en The 2012 Mexico & Central America Regional Contest
+1. _Es team a2 2_ resolvió 3 problemas y obtuvo el lugar #20 (90%) en The 2010 Mexico & Central America Regional Contest
 
 ## Participaciones
 

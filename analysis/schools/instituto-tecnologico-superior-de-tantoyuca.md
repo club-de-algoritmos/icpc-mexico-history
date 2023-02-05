@@ -12,8 +12,8 @@
 1. _Giga Shark_ resolvió 2 problemas y obtuvo el lugar #135 (39%) en Mexico and Central America Finals - Programming Battle
 1. _working_ resolvió 2 problemas y obtuvo el lugar #104 (36%) en The 2012 Mexico & Central America Regional Contest
 1. _HINAGA_ resolvió 0 problemas y obtuvo el lugar #104 (36%) en The 2011 Mexico & Central America Regional Contest
+1. _s-black_ resolvió 1 problemas y obtuvo el lugar #128 (22%) en The 2012 Mexico & Central America Regional Contest
 1. _HIMAGA_ resolvió 0 problemas y obtuvo el lugar #156 (22%) en The 2010 Mexico & Central America Regional Contest
-1. _SIMULADORES_ resolvió 0 problemas y obtuvo el lugar #156 (22%) en The 2010 Mexico & Central America Regional Contest
 
 ## Participaciones
 

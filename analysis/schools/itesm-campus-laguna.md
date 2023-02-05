@@ -12,8 +12,8 @@
 1. _COF_ resolvió 0 problemas y obtuvo el lugar #61 (59%) en The 2007 ACM Mexico and Central America Programming Contest
 1. _Los intensos_ resolvió 0 problemas y obtuvo el lugar #61 (59%) en The 2007 ACM Mexico and Central America Programming Contest
 1. _Javalio_ resolvió 1 problemas y obtuvo el lugar #58 (54%) en The 2006 ACM Mexico and Central America Programming Contest
-1. _Laguna 1_ resolvió 1 problemas y obtuvo el lugar #77 (53%) en The 2009 Mexico & Central America Contest
 1. _LPT_ resolvió 1 problemas y obtuvo el lugar #60 (53%) en The 2006 ACM Mexico and Central America Programming Contest
+1. _Laguna 1_ resolvió 1 problemas y obtuvo el lugar #77 (53%) en The 2009 Mexico & Central America Contest
 
 ## Participaciones
 

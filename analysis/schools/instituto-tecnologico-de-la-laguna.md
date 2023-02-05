@@ -7,13 +7,13 @@
 1. _EspantaBugs_ resolvió 8 problemas y obtuvo el lugar #41 (96%) en The 2022 ICPC Gran Premio de Mexico
 1. _ITLN_ resolvió 7 problemas y obtuvo el lugar #101 (92%) en Gran Premio de Mexico 2019
 1. _ITLN_ resolvió 6 problemas y obtuvo el lugar #105 (84%) en Gran Premio de Mexico & Centroamerica 2017
-1. _VectorRaptor's_ resolvió 4 problemas y obtuvo el lugar #171 (81%) en The 2022 ICPC Gran Premio de Mexico
 1. _Navy_ resolvió 1 problemas y obtuvo el lugar #48 (81%) en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _VectorRaptor's_ resolvió 4 problemas y obtuvo el lugar #171 (81%) en The 2022 ICPC Gran Premio de Mexico
 1. _DinamitaTeam_ resolvió 4 problemas y obtuvo el lugar #173 (81%) en The 2022 ICPC Gran Premio de Mexico
 1. _Mega Equipo del Tio Oswi_ resolvió 5 problemas y obtuvo el lugar #129 (80%) en Gran Premio de Mexico & Centroamerica 2017
 1. _TecLaguna1_ resolvió 1 problemas y obtuvo el lugar #311 (76%) en Gran Premio de Mexico 2019
-1. _ArrayList_ resolvió 1 problemas y obtuvo el lugar #358 (72%) en Gran Premio de Mexico 2019
-1. _ITLN_ resolvió 4 problemas y obtuvo el lugar #196 (72%) en Gran Premio de Mexico 2018
+1. _Black Cats I_ resolvió 0 problemas y obtuvo el lugar #27 (72%) en The 2002 ACM Mexico and Central America Programming Contest
+1. _Black Cats II_ resolvió 0 problemas y obtuvo el lugar #27 (72%) en The 2002 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

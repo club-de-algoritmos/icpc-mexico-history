@@ -9,8 +9,8 @@
 1. _Hololive_ resolvió 9 problemas y obtuvo el lugar #55 (94%) en The 2022 ICPC Gran Premio de Mexico
 1. _DrimTimICP_ resolvió 1 problemas y obtuvo el lugar #51 (93%) en The 2020 ICPC Mexico Finals
 1. _AlfaBuenaMaravillaOndaDinamitaEscuadrónLobo_ resolvió 0 problemas y obtuvo el lugar #50 (90%) en The 2021 ICPC Mexico Finals
-1. _Trópicos de Capricornio_ resolvió 5 problemas y obtuvo el lugar #133 (90%) en Gran Premio de Mexico 2019
 1. _EzpcLemonEzQuizi_ resolvió 6 problemas y obtuvo el lugar #96 (90%) en The 2022 ICPC Gran Premio de Mexico
+1. _Trópicos de Capricornio_ resolvió 5 problemas y obtuvo el lugar #133 (90%) en Gran Premio de Mexico 2019
 1. _Los Ángeles Azules_ resolvió 6 problemas y obtuvo el lugar #105 (89%) en The 2022 ICPC Gran Premio de Mexico
 1. _pandasIAD_ resolvió 6 problemas y obtuvo el lugar #113 (82%) en Gran Premio de Mexico 2018
 1. _Graggy Daddy_ resolvió 4 problemas y obtuvo el lugar #167 (82%) en The 2022 ICPC Gran Premio de Mexico

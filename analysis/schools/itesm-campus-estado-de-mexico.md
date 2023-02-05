@@ -11,11 +11,11 @@
 1. _Kygerand_ resolvió 3 problemas y obtuvo el lugar #28 (98%) en The 2019 ICPC Mexico Finals
 1. _Kygerand_ resolvió 4 problemas y obtuvo el lugar #22 (97%) en The 2018 ICPC Mexico and Central America Finals
 1. _F TLE_ resolvió 15 problemas y obtuvo el lugar #24 (97%) en The 2022 ICPC Gran Premio de Mexico
-1. _The Feel Train_ resolvió 2 problemas y obtuvo el lugar #27 (96%) en The 2017 ACM-ICPC Mexico and Central America Finals
 1. _Heavy Wizardy!_ resolvió 3 problemas y obtuvo el lugar #4 (96%) en The 2001 ACM Mexico and Central America Programming Contest
-1. _The girls have no name_ resolvió 1 problemas y obtuvo el lugar #52 (96%) en The 2019 ICPC Mexico Finals
-1. _Pitones_ resolvió 0 problemas y obtuvo el lugar #53 (96%) en The 2019 ICPC Mexico Finals
+1. _Bitshifters Open_ resolvió 4 problemas y obtuvo el lugar #12 (96%) en The 2014 ACM-ICPC Mexico and Central America Finals
 1. _F TLE_ resolvió 3 problemas y obtuvo el lugar #22 (96%) en The 2021 ICPC Mexico Finals
+1. _The Feel Train_ resolvió 2 problemas y obtuvo el lugar #27 (96%) en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _The girls have no name_ resolvió 1 problemas y obtuvo el lugar #52 (96%) en The 2019 ICPC Mexico Finals
 
 ## Participaciones
 

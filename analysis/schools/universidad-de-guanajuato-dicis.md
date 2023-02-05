@@ -7,10 +7,10 @@
 1. _Wolves_ resolvió 5 problemas y obtuvo el lugar #10 (99%) en The 2019 ICPC Mexico Finals
 1. _Wolves_ resolvió 5 problemas y obtuvo el lugar #9 (98%) en The 2016 ACM-ICPC Mexico and Central America Finals
 1. _Wolves_ resolvió 3 problemas y obtuvo el lugar #15 (98%) en The 2017 ACM-ICPC Mexico and Central America Finals
-1. _Los Tres Jinetes_ resolvió 2 problemas y obtuvo el lugar #36 (97%) en The 2019 ICPC Mexico Finals
 1. _Wolves_ resolvió 4 problemas y obtuvo el lugar #21 (97%) en The 2020 ICPC Mexico Finals
 1. _Los tres jinetes_ resolvió 2 problemas y obtuvo el lugar #22 (97%) en The 2017 ACM-ICPC Mexico and Central America Finals
 1. _Wolves_ resolvió 4 problemas y obtuvo el lugar #29 (97%) en The 2018 ICPC Mexico and Central America Finals
+1. _Los Tres Jinetes_ resolvió 2 problemas y obtuvo el lugar #36 (97%) en The 2019 ICPC Mexico Finals
 1. _Los tres jinetes_ resolvió 4 problemas y obtuvo el lugar #31 (96%) en The 2018 ICPC Mexico and Central America Finals
 1. _Sistemos_ resolvió 6 problemas y obtuvo el lugar #110 (91%) en Gran Premio de Mexico 2019
 1. _Penguins_ resolvió 2 problemas y obtuvo el lugar #68 (87%) en The 2016 ACM-ICPC Mexico and Central America Finals

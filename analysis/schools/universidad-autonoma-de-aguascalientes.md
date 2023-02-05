@@ -12,8 +12,8 @@
 1. _Leulz_ resolvió 4 problemas y obtuvo el lugar #7 (98%) en The 2015 ACM-ICPC Mexico and Central America Finals
 1. _cagUAA++_ resolvió 4 problemas y obtuvo el lugar #15 (98%) en The 2020 ICPC Mexico Finals
 1. _Los testigos de Aarón_ resolvió 3 problemas y obtuvo el lugar #32 (98%) en The 2019 ICPC Mexico Finals
-1. _WA de WAccepted_ resolvió 4 problemas y obtuvo el lugar #24 (97%) en The 2018 ICPC Mexico and Central America Finals
 1. _nac-OS_ resolvió 2 problemas y obtuvo el lugar #21 (97%) en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _WA de WAccepted_ resolvió 4 problemas y obtuvo el lugar #24 (97%) en The 2018 ICPC Mexico and Central America Finals
 1. _Team Puzzles_ resolvió 3 problemas y obtuvo el lugar #24 (95%) en The 2021 ICPC Mexico Finals
 1. _greñud-OS_ resolvió 2 problemas y obtuvo el lugar #34 (95%) en The 2017 ACM-ICPC Mexico and Central America Finals
 

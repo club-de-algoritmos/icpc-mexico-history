@@ -11,9 +11,9 @@
 1. _TriAda_ resolvió 5 problemas y obtuvo el lugar #4 (99%) en The 2021 ICPC Mexico Finals
 1. _TriAda_ resolvió 5 problemas y obtuvo el lugar #10 (99%) en The 2020 ICPC Mexico Finals
 1. _TriAda_ resolvió 4 problemas y obtuvo el lugar #19 (99%) en The 2019 ICPC Mexico Finals
-1. _ACE_ resolvió 13 problemas y obtuvo el lugar #18 (98%) en The 2022 ICPC Gran Premio de Mexico
 1. _Los Irmos_ resolvió 3 problemas y obtuvo el lugar #3 (98%) en The 2003 ACM Mexico and Central America Programming Contest
 1. _Los Irmos_ resolvió 2 problemas y obtuvo el lugar #3 (98%) en The 2002 ACM Mexico and Central America Programming Contest
+1. _ACE_ resolvió 13 problemas y obtuvo el lugar #18 (98%) en The 2022 ICPC Gran Premio de Mexico
 1. _nu1l_ resolvió 14 problemas y obtuvo el lugar #22 (98%) en The 2022 ICPC Gran Premio de Mexico
 1. _FCFM1_ resolvió 4 problemas y obtuvo el lugar #3 (97%) en The 2001 ACM Mexico and Central America Programming Contest
 

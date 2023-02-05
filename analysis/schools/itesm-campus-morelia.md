@@ -4,8 +4,8 @@
 
 ## Mejores 10 equipos
 
-1. _FTW_ resolvió 3 problemas y obtuvo el lugar #18 (91%) en The 2010 Mexico & Central America Regional Contest
 1. _ftw_ resolvió 3 problemas y obtuvo el lugar #15 (91%) en The 2011 Mexico & Central America Regional Contest
+1. _FTW_ resolvió 3 problemas y obtuvo el lugar #18 (91%) en The 2010 Mexico & Central America Regional Contest
 1. _Alpha_ resolvió 2 problemas y obtuvo el lugar #53 (68%) en The 2009 Mexico & Central America Contest
 1. _Epsilon_ resolvió 1 problemas y obtuvo el lugar #101 (38%) en The 2009 Mexico & Central America Contest
 1. _protrolls_ resolvió 0 problemas y obtuvo el lugar #104 (36%) en The 2011 Mexico & Central America Regional Contest

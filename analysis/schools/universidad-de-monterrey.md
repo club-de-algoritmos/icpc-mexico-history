@@ -12,8 +12,8 @@
 1. _trying_ resolvió 4 problemas y obtuvo el lugar #183 (86%) en Gran Premio de Mexico 2019
 1. _aoc_ resolvió 3 problemas y obtuvo el lugar #196 (85%) en Gran Premio de Mexico 2019
 1. _WebCeleb_ resolvió 3 problemas y obtuvo el lugar #217 (83%) en Gran Premio de Mexico 2019
+1. _Los changoleones_ resolvió 3 problemas y obtuvo el lugar #86 (82%) en The 2021 ICPC Gran Premio de Mexico
 1. _Los Tres Amigos_ resolvió 6 problemas y obtuvo el lugar #110 (82%) en Gran Premio de Mexico 2018
-1. _Octagon_ resolvió 8 problemas y obtuvo el lugar #127 (82%) en Gran Premio de Mexico 2020
 
 ## Participaciones
 

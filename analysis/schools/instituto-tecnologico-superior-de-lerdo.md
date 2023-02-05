@@ -6,8 +6,8 @@
 
 1. _MASTER.NET_ resolvió 6 problemas y obtuvo el lugar #113 (91%) en Gran Premio de Mexico 2019
 1. _THE MASTER_ resolvió 9 problemas y obtuvo el lugar #81 (88%) en Gran Premio de Mexico 2020
-1. _MASTER.NET_ resolvió 2 problemas y obtuvo el lugar #75 (85%) en The 2016 ACM-ICPC Mexico and Central America Finals
 1. _The Last Fad_ resolvió 3 problemas y obtuvo el lugar #26 (85%) en The 2012 Mexico & Central America Regional Contest
+1. _MASTER.NET_ resolvió 2 problemas y obtuvo el lugar #75 (85%) en The 2016 ACM-ICPC Mexico and Central America Finals
 1. _The Walker_ resolvió 5 problemas y obtuvo el lugar #141 (85%) en The 2022 ICPC Gran Premio de Mexico
 1. _Guardians_ resolvió 4 problemas y obtuvo el lugar #148 (84%) en The 2022 ICPC Gran Premio de Mexico
 1. _MASTER.NET_ resolvió 5 problemas y obtuvo el lugar #111 (83%) en Gran Premio de Mexico & Centroamerica 2017

@@ -6,14 +6,14 @@
 
 1. _Equipapoi_ resolvió 5 problemas y obtuvo el lugar #134 (85%) en The 2022 ICPC Gran Premio de Mexico
 1. _Spartans_ resolvió 4 problemas y obtuvo el lugar #146 (78%) en Gran Premio de Mexico & Centroamerica 2017
-1. _Ragnarok_ resolvió 1 problemas y obtuvo el lugar #303 (76%) en Gran Premio de Mexico 2019
-1. _Team Masters_ resolvió 3 problemas y obtuvo el lugar #157 (76%) en Gran Premio de Mexico & Centroamerica 2017
 1. _Anonimos_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
 1. _Biorenegados_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
 1. _Los Héroes del Norte_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
 1. _Los fabulosos Cadillacs_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _Team Masters_ resolvió 3 problemas y obtuvo el lugar #157 (76%) en Gran Premio de Mexico & Centroamerica 2017
 1. _Dinamita AEO_ resolvió 3 problemas y obtuvo el lugar #159 (76%) en Gran Premio de Mexico & Centroamerica 2017
 1. _Los luquines_ resolvió 3 problemas y obtuvo el lugar #161 (76%) en Gran Premio de Mexico & Centroamerica 2017
+1. _Ragnarok_ resolvió 1 problemas y obtuvo el lugar #303 (76%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 

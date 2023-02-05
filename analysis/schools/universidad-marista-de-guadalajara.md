@@ -13,7 +13,7 @@
 1. _Lasalle 1_ resolvió 0 problemas y obtuvo el lugar #85 (40%) en The 2005 ACM Mexico and Central America Programming Contest
 1. _Marista White_ resolvió 0 problemas y obtuvo el lugar #104 (36%) en The 2011 Mexico & Central America Regional Contest
 1. _Como Sea_ resolvió 2 problemas y obtuvo el lugar #149 (33%) en Mexico and Central America Finals - Programming Battle
-1. _SWCB_ resolvió 2 problemas y obtuvo el lugar #152 (32%) en Mexico and Central America Finals - Programming Battle
+1. _LasalleFAI_ resolvió 1 problemas y obtuvo el lugar #77 (32%) en The 2004 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

@@ -7,8 +7,8 @@
 1. _Promised Rinascimento_ resolvió 3 problemas y obtuvo el lugar #25 (98%) en The 2019 ICPC Mexico Finals
 1. _Promised Rinascimento_ resolvió 4 problemas y obtuvo el lugar #27 (97%) en The 2018 ICPC Mexico and Central America Finals
 1. _Promised Rinascimento_ resolvió 3 problemas y obtuvo el lugar #19 (96%) en The 2021 ICPC Mexico Finals
-1. _LOS RELIGIOSOS_ resolvió 2 problemas y obtuvo el lugar #39 (94%) en The 2017 ACM-ICPC Mexico and Central America Finals
 1. _Los religiosos_ resolvió 3 problemas y obtuvo el lugar #34 (94%) en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _LOS RELIGIOSOS_ resolvió 2 problemas y obtuvo el lugar #39 (94%) en The 2017 ACM-ICPC Mexico and Central America Finals
 1. _Legio I_ resolvió 2 problemas y obtuvo el lugar #41 (92%) en The 2016 ACM-ICPC Mexico and Central America Finals
 1. _Legio I Germania_ resolvió 2 problemas y obtuvo el lugar #30 (88%) en The 2014 ACM-ICPC Mexico and Central America Finals
 1. _Moyos_ resolvió 2 problemas y obtuvo el lugar #47 (86%) en The 2015 ACM-ICPC Mexico and Central America Finals

@@ -14,9 +14,9 @@
     - Avanzó a la final mundial y resolvió 4 problemas y obtuvo el lugar #69 (46%) en 40th Annual World Finals of the ACM International Collegiate Programming Contest
 1. _Radical Sweep_ resolvió 5 problemas y obtuvo el lugar #3 (100%) en The 2021 ICPC Mexico Finals
 1. _The Beat Alls_ resolvió 7 problemas y obtuvo el lugar #4 (100%) en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _Los románticos_ resolvió 6 problemas y obtuvo el lugar #4 (99%) en The 2014 ACM-ICPC Mexico and Central America Finals
 1. _Coachella++_ resolvió 5 problemas y obtuvo el lugar #9 (99%) en The 2020 ICPC Mexico Finals
 1. _Einsteam_ resolvió 5 problemas y obtuvo el lugar #9 (99%) en The 2017 ACM-ICPC Mexico and Central America Finals
-1. _Los románticos_ resolvió 6 problemas y obtuvo el lugar #4 (99%) en The 2014 ACM-ICPC Mexico and Central America Finals
 1. _Silicon Strikers_ resolvió 11 problemas y obtuvo el lugar #21 (98%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones

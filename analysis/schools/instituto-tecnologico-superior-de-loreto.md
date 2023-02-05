@@ -13,7 +13,7 @@
 1. _Scorpions_Loreto_ resolvió 0 problemas y obtuvo el lugar #394 (48%) en Gran Premio de Mexico 2018
 1. _bloodfallel_ resolvió 0 problemas y obtuvo el lugar #394 (48%) en Gran Premio de Mexico 2018
 1. _GALAXIS_ resolvió 2 problemas y obtuvo el lugar #89 (46%) en The 2012 Mexico & Central America Regional Contest
-1. _Halcones_ resolvió 0 problemas y obtuvo el lugar #101 (40%) en The 2008 Mexico & Central America Contest
+1. _ZORRO1_ resolvió 0 problemas y obtuvo el lugar #85 (40%) en The 2005 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

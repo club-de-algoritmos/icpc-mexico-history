@@ -4,14 +4,14 @@
 
 ## Mejores 10 equipos
 
-1. _++UAM_ resolvió 3 problemas y obtuvo el lugar #26 (98%) en The 2019 ICPC Mexico Finals
-1. _++UAM_ resolvió 4 problemas y obtuvo el lugar #19 (98%) en The 2018 ICPC Mexico and Central America Finals
 1. _UAM Azcapotzalco XX_ resolvió 3 problemas y obtuvo el lugar #5 (98%) en The 2011 Mexico & Central America Regional Contest
+1. _++UAM_ resolvió 4 problemas y obtuvo el lugar #19 (98%) en The 2018 ICPC Mexico and Central America Finals
+1. _++UAM_ resolvió 3 problemas y obtuvo el lugar #26 (98%) en The 2019 ICPC Mexico Finals
 1. _UAM Azcapotzalco 2016 II_ resolvió 3 problemas y obtuvo el lugar #24 (95%) en The 2016 ACM-ICPC Mexico and Central America Finals
 1. _UAMitos_ resolvió 9 problemas y obtuvo el lugar #69 (95%) en Gran Premio de Mexico 2019
-1. _Los Lobos Solitarios_ resolvió 10 problemas y obtuvo el lugar #51 (94%) en The 2022 ICPC Gran Premio de Mexico
 1. _UAM-A 2017-1_ resolvió 2 problemas y obtuvo el lugar #42 (94%) en The 2017 ACM-ICPC Mexico and Central America Finals
 1. _UAMitosPlusPlus_ resolvió 2 problemas y obtuvo el lugar #45 (94%) en The 2020 ICPC Mexico Finals
+1. _Los Lobos Solitarios_ resolvió 10 problemas y obtuvo el lugar #51 (94%) en The 2022 ICPC Gran Premio de Mexico
 1. _UAM Azcapotzalco 2016_ resolvió 3 problemas y obtuvo el lugar #36 (93%) en The 2016 ACM-ICPC Mexico and Central America Finals
 1. _#include <uam.h>_ resolvió 1 problemas y obtuvo el lugar #37 (93%) en The 2021 ICPC Mexico Finals
 

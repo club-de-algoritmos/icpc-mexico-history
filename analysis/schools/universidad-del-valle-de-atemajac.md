@@ -5,12 +5,12 @@
 ## Mejores 10 equipos
 
 1. _univa3_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _Los Babasónicos_ resolvió 2 problemas y obtuvo el lugar #44 (66%) en The 2006 ACM Mexico and Central America Programming Contest
 1. _univa1_ resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
 1. _univa2_ resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
 1. _univa3_ resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
 1. _univa4_ resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
 1. _univa5_ resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
-1. _Los Babasónicos_ resolvió 2 problemas y obtuvo el lugar #44 (66%) en The 2006 ACM Mexico and Central America Programming Contest
 1. _Univa1_ resolvió 1 problemas y obtuvo el lugar #166 (65%) en The 2021 ICPC Gran Premio de Mexico
 1. _Univa2_ resolvió 1 problemas y obtuvo el lugar #65 (63%) en The 2013 Mexico & Central America Regional Contest
 1. _Los Mañosos_ resolvió 0 problemas y obtuvo el lugar #61 (59%) en The 2007 ACM Mexico and Central America Programming Contest

@@ -9,8 +9,8 @@
 1. _PU++_ resolvió 3 problemas y obtuvo el lugar #7 (96%) en The 2011 Mexico & Central America Regional Contest
 1. _proteco_ resolvió 2 problemas y obtuvo el lugar #8 (92%) en The 2002 ACM Mexico and Central America Programming Contest
 1. _PU++ 2.0_ resolvió 3 problemas y obtuvo el lugar #15 (91%) en The 2012 Mexico & Central America Regional Contest
-1. _Underground_ resolvió 2 problemas y obtuvo el lugar #21 (86%) en The 2007 ACM Mexico and Central America Programming Contest
 1. _Pumas FC-FI 2_ resolvió 1 problemas y obtuvo el lugar #16 (86%) en The 2003 ACM Mexico and Central America Programming Contest
+1. _Underground_ resolvió 2 problemas y obtuvo el lugar #21 (86%) en The 2007 ACM Mexico and Central America Programming Contest
 1. _Pumas FC-FI_ resolvió 1 problemas y obtuvo el lugar #22 (80%) en The 2003 ACM Mexico and Central America Programming Contest
 1. _bsod_ resolvió 2 problemas y obtuvo el lugar #37 (79%) en The 2008 Mexico & Central America Contest
 1. _Guru Meditation_ resolvió 2 problemas y obtuvo el lugar #45 (74%) en The 2008 Mexico & Central America Contest

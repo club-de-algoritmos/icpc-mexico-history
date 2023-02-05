@@ -18,7 +18,7 @@
 1. _Chilaquiles con pollo_ resolvió 5 problemas y obtuvo el lugar #1 (100%) en The 2021 ICPC Mexico Finals
 1. _Exceso de Fé_ resolvió 21 problemas y obtuvo el lugar #5 (100%) en The 2022 ICPC Gran Premio de Mexico
 1. _Error: "Team Name" not defined_ resolvió 6 problemas y obtuvo el lugar #7 (100%) en The 2019 ICPC Mexico Finals
-1. _Crustáceos Cascarudos_ resolvió 16 problemas y obtuvo el lugar #6 (99%) en The 2022 ICPC Gran Premio de Mexico
+1. _New avengers_ resolvió 6 problemas y obtuvo el lugar #4 (99%) en The 2016 ACM-ICPC Mexico and Central America Finals
 
 ## Participaciones
 
@@ -211,8 +211,8 @@
 
 - #7 _Cámara Ya Súbelo Asi w_ (Regional)
 - #8 _Escuela Superior de Comedia_ (Regional)
-- #16 _Trololololo_ (Regional)
 - #15 _Los Hermanos Computadores de Paine_ (Clasificatorio)
+- #16 _Trololololo_ (Regional)
 - #25 _AC Forever_ (Clasificatorio)
 - #41 _ANSIosos_ (Clasificatorio)
 - #48 _return t + d + a;_ (Regional)

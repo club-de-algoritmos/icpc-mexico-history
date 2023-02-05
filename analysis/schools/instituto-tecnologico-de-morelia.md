@@ -8,8 +8,8 @@
 1. _ITM-3_ resolvió 3 problemas y obtuvo el lugar #20 (88%) en The 2011 Mexico & Central America Regional Contest
 1. _Tec Morelia 1_ resolvió 2 problemas y obtuvo el lugar #46 (72%) en The 2012 Mexico & Central America Regional Contest
 1. _ITM - Tec Morelia 2_ resolvió 2 problemas y obtuvo el lugar #63 (62%) en The 2012 Mexico & Central America Regional Contest
-1. _VISUAL DIM_ resolvió 3 problemas y obtuvo el lugar #273 (61%) en Gran Premio de Mexico 2020
 1. _ITM-2_ resolvió 2 problemas y obtuvo el lugar #64 (61%) en The 2011 Mexico & Central America Regional Contest
+1. _VISUAL DIM_ resolvió 3 problemas y obtuvo el lugar #273 (61%) en Gran Premio de Mexico 2020
 1. _Fail_ resolvió 1 problemas y obtuvo el lugar #67 (59%) en The 2009 Mexico & Central America Contest
 1. _Pony Code_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
 1. _PyJava++_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico

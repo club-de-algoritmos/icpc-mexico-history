@@ -12,8 +12,8 @@
 1. _Coyote 13_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
 1. _La Onda_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
 1. _Team 9_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
-1. _Irresponsables_ resolvió 1 problemas y obtuvo el lugar #316 (75%) en Gran Premio de Mexico 2019
 1. _Los PROgramadores_ resolvió 6 problemas y obtuvo el lugar #174 (75%) en Gran Premio de Mexico 2020
+1. _Irresponsables_ resolvió 1 problemas y obtuvo el lugar #316 (75%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 

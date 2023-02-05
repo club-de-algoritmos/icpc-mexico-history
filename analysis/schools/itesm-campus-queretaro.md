@@ -12,10 +12,10 @@
 1. _lEFTaSaNeXERCISE_ resolvió 5 problemas y obtuvo el lugar #11 (99%) en The 2019 ICPC Mexico Finals
 1. _c+vga_ resolvió 5 problemas y obtuvo el lugar #13 (99%) en The 2018 ICPC Mexico and Central America Finals
 1. _Deadly Coding Squad =)_ resolvió 4 problemas y obtuvo el lugar #4 (98%) en The 2008 Mexico & Central America Contest
-1. _pragma++_ resolvió 5 problemas y obtuvo el lugar #16 (98%) en The 2018 ICPC Mexico and Central America Finals
+1. _MachineGun_ resolvió 4 problemas y obtuvo el lugar #5 (98%) en The 2008 Mexico & Central America Contest
 1. _pragma_ resolvió 23 problemas y obtuvo el lugar #7 (98%) en Gran Premio de Mexico & Centroamerica 2017
 1. _wlog_ resolvió 4 problemas y obtuvo el lugar #12 (98%) en The 2016 ACM-ICPC Mexico and Central America Finals
-1. _MachineGun_ resolvió 4 problemas y obtuvo el lugar #5 (98%) en The 2008 Mexico & Central America Contest
+1. _pragma++_ resolvió 5 problemas y obtuvo el lugar #16 (98%) en The 2018 ICPC Mexico and Central America Finals
 
 ## Participaciones
 

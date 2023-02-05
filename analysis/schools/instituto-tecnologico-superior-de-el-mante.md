@@ -12,8 +12,8 @@
 1. _Triforce_ resolvió 2 problemas y obtuvo el lugar #59 (82%) en The 2015 ACM-ICPC Mexico and Central America Finals
 1. _Segmentation Fault_ resolvió 8 problemas y obtuvo el lugar #141 (80%) en Gran Premio de Mexico 2020
 1. _Los Padrinos_ resolvió 2 problemas y obtuvo el lugar #276 (79%) en Gran Premio de Mexico 2019
-1. _Black Mens_ resolvió 2 problemas y obtuvo el lugar #292 (77%) en Gran Premio de Mexico 2019
 1. _RAL Machine_ resolvió 1 problemas y obtuvo el lugar #74 (77%) en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _Black Mens_ resolvió 2 problemas y obtuvo el lugar #292 (77%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 

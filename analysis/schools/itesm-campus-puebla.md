@@ -8,10 +8,10 @@
     - Avanzó a la final mundial y resolvió 1 problemas y obtuvo el lugar #101 (10%) en 36th Annual World Finals of the ACM International Collegiate Programming Contest
 1. _C-mita_ resolvió 3 problemas y obtuvo el lugar #4 (98%) en The 2011 Mexico & Central America Regional Contest
 1. _Los Flotantes_ resolvió 3 problemas y obtuvo el lugar #16 (98%) en The 2017 ACM-ICPC Mexico and Central America Finals
-1. _bool basaur_ resolvió 2 problemas y obtuvo el lugar #19 (97%) en The 2017 ACM-ICPC Mexico and Central America Finals
 1. _char mander;_ resolvió 3 problemas y obtuvo el lugar #16 (97%) en The 2016 ACM-ICPC Mexico and Central America Finals
-1. _int ensos;_ resolvió 4 problemas y obtuvo el lugar #28 (97%) en The 2018 ICPC Mexico and Central America Finals
 1. _Clfies_ resolvió 3 problemas y obtuvo el lugar #18 (97%) en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _bool basaur_ resolvió 2 problemas y obtuvo el lugar #19 (97%) en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _int ensos;_ resolvió 4 problemas y obtuvo el lugar #28 (97%) en The 2018 ICPC Mexico and Central America Finals
 1. _Clfies_ resolvió 4 problemas y obtuvo el lugar #15 (96%) en The 2015 ACM-ICPC Mexico and Central America Finals
 1. _Gekko_ resolvió 8 problemas y obtuvo el lugar #63 (95%) en Gran Premio de Mexico 2019
 1. _char izard;_ resolvió 8 problemas y obtuvo el lugar #67 (95%) en Gran Premio de Mexico 2019

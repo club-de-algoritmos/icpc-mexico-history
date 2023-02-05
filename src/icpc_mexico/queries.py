@@ -33,20 +33,19 @@ def get_best_by_school(school: School, contest: FinishedContest) -> Optional[Tea
     return None
 
 
-def sort_ranked_team(team: RankedTeam) -> Tuple:
+def _sort_ranked_team(team: RankedTeam) -> Tuple:
     world_finals_percentile = -1
     if team.world_result:
         world_finals_percentile = team.world_result.percentile
 
-    problems_solved = 0
-    if team.world_result:
-        problems_solved = team.world_result.team_result.problems_solved or 0
-    elif team.regional_result:
-        problems_solved = team.regional_result.team_result.problems_solved or 0
-    elif team.qualifier_result:
-        problems_solved = team.qualifier_result.team_result.problems_solved or 0
+    problems_solved = team.top_result.team_result.problems_solved or 0
+    rank = team.top_result.team_result.rank or 1000
 
-    return -world_finals_percentile, -round((team.regional_season_percentile or -1) * 100), -problems_solved, team.name
+    return (-world_finals_percentile,
+            -round((team.regional_season_percentile or -1) * 100),
+            rank,
+            -problems_solved,
+            team.name)
 
 
 class Queries:
@@ -174,7 +173,7 @@ class Queries:
                                         regional_season_rank=regional_season_rank,
                                         regional_season_percentile=regional_season_percentile))
 
-            teams.sort(key=sort_ranked_team)
+            teams.sort(key=_sort_ranked_team)
 
             seasons.append(ContestSeason(year=year, qualifier=qualifier, regional=regional, world=world, teams=teams))
 
@@ -203,4 +202,4 @@ class Queries:
                 if school and school != team.school:
                     continue
                 teams.append(team)
-        return sorted(teams, key=sort_ranked_team)
+        return sorted(teams, key=_sort_ranked_team)

@@ -7,8 +7,8 @@
 1. _Infrabit_ resolvió 3 problemas y obtuvo el lugar #8 (93%) en The 2003 ACM Mexico and Central America Programming Contest
 1. _Linces 2_ resolvió 4 problemas y obtuvo el lugar #11 (92%) en The 2006 ACM Mexico and Central America Programming Contest
 1. _Linx Celaya_ resolvió 8 problemas y obtuvo el lugar #65 (88%) en Gran Premio de Mexico 2018
-1. _Frameworks_ resolvió 5 problemas y obtuvo el lugar #126 (86%) en The 2022 ICPC Gran Premio de Mexico
 1. _Linces 1_ resolvió 3 problemas y obtuvo el lugar #19 (86%) en The 2006 ACM Mexico and Central America Programming Contest
+1. _Frameworks_ resolvió 5 problemas y obtuvo el lugar #126 (86%) en The 2022 ICPC Gran Premio de Mexico
 1. _Bits_ resolvió 5 problemas y obtuvo el lugar #145 (84%) en The 2022 ICPC Gran Premio de Mexico
 1. _bichos_ resolvió 2 problemas y obtuvo el lugar #16 (81%) en The 2001 ACM Mexico and Central America Programming Contest
 1. _MachoSoft_ resolvió 1 problemas y obtuvo el lugar #23 (72%) en The 2001 ACM Mexico and Central America Programming Contest

@@ -4,8 +4,8 @@
 
 ## Mejores 10 equipos
 
-1. _QubITS_ resolvió 4 problemas y obtuvo el lugar #190 (85%) en Gran Premio de Mexico 2019
 1. _Burros Pardos_ resolvió 2 problemas y obtuvo el lugar #18 (85%) en The 2004 ACM Mexico and Central America Programming Contest
+1. _QubITS_ resolvió 4 problemas y obtuvo el lugar #190 (85%) en Gran Premio de Mexico 2019
 1. _Blujs_ resolvió 3 problemas y obtuvo el lugar #211 (84%) en Gran Premio de Mexico 2019
 1. _BLUJS_ resolvió 6 problemas y obtuvo el lugar #109 (82%) en Gran Premio de Mexico 2018
 1. _QubITSn't_ resolvió 2 problemas y obtuvo el lugar #249 (81%) en Gran Premio de Mexico 2019

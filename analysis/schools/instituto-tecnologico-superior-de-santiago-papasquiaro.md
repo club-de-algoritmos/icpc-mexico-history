@@ -6,6 +6,7 @@
 
 1. _Linces_ resolvió 2 problemas y obtuvo el lugar #34 (80%) en The 2012 Mexico & Central America Regional Contest
 1. _ITSSP_ resolvió 3 problemas y obtuvo el lugar #35 (79%) en Mexico and Central America Finals - Programming Battle
+1. _Linces_ resolvió 1 problemas y obtuvo el lugar #53 (70%) en The 2013 Mexico & Central America Regional Contest
 1. _Black Power_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _Bryan´s Programmers _ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _Chisco Programmers_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
@@ -13,7 +14,6 @@
 1. _Kroywen_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _Las blue_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _Los Brownies_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Los ITIC's1_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 

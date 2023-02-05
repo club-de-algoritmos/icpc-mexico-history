@@ -9,8 +9,8 @@
 1. _Yisuscrush_ resolvió 2 problemas y obtuvo el lugar #33 (95%) en The 2017 ACM-ICPC Mexico and Central America Finals
 1. _C#io_ resolvió 8 problemas y obtuvo el lugar #66 (95%) en Gran Premio de Mexico 2019
 1. _En el b no hay internet_ resolvió 9 problemas y obtuvo el lugar #94 (93%) en Gran Premio de Mexico 2019
-1. _Los R3y3s_ resolvió 2 problemas y obtuvo el lugar #70 (92%) en The 2018 ICPC Mexico and Central America Finals
 1. _Dagas++_ resolvió 2 problemas y obtuvo el lugar #44 (92%) en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _Los R3y3s_ resolvió 2 problemas y obtuvo el lugar #70 (92%) en The 2018 ICPC Mexico and Central America Finals
 1. _Real.colicos_ resolvió 6 problemas y obtuvo el lugar #119 (91%) en Gran Premio de Mexico 2019
 1. _Los Rolones_ resolvió 1 problemas y obtuvo el lugar #70 (90%) en The 2017 ACM-ICPC Mexico and Central America Finals
 1. _Coyotes AlPha_ resolvió 2 problemas y obtuvo el lugar #48 (85%) en The 2015 ACM-ICPC Mexico and Central America Finals

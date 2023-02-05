@@ -23,7 +23,7 @@
 - #63 (#1 de México, resolvió 2) #define TriLCI(404.0) :v (Instituto Tecnológico Superior del Sur de Guanajuato)
 
 
-## Top 5 en el regional de México
+## Mejores 5 en el regional de México
 
 ### 2001-2002 The 2001 ACM Mexico and Central America Programming Contest
 

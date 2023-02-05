@@ -117,7 +117,7 @@ class Analyzer:
                                 for participation in participations:
                                     markdown.bullet_point(participation)
 
-                with markdown.section('Top 5 en el regional de México'):
+                with markdown.section('Mejores 5 en el regional de México'):
                     for contest in self._queries.get_contests_by_type(ContestType.REGIONAL):
                         with markdown.section(contest.description()):
                             for team in contest.team_results:
@@ -153,7 +153,7 @@ class Analyzer:
                                 for participation in participations:
                                     markdown.bullet_point(participation)
 
-                with markdown.section('Top 5 en México'):
+                with markdown.section('Mejores 5 en México'):
                     # TODO: Get overall rank to take qualifiers into account
                     for contest in self._queries.get_contests_by_type(ContestType.REGIONAL):
                         contest_teams = []

@@ -11,7 +11,7 @@
 - #49 (#1 de México, resolvió 3) Turing Machines (Instituto Tecnológico de Culiacán)
 
 
-## Top 5 en México
+## Mejores 5 en México
 
 ### 2001-2002 The 2001 ACM Mexico and Central America Programming Contest
 

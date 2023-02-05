@@ -188,3 +188,14 @@ class Queries:
 
     def get_schools_by_country(self, country: str) -> List[School]:
         return [school for school in self._schools if school.country == country]
+
+    def get_ranked_teams(self, country: Optional[str] = None, school: Optional[School] = None) -> List[RankedTeam]:
+        teams: List[RankedTeam] = []
+        for season in self.contest_seasons:
+            for team in season.teams:
+                if school and school != team.school:
+                    continue
+                if country and (not team.school or team.school.country != country):
+                    continue
+                teams.append(team)
+        return sorted(teams, key=sort_ranked_team)

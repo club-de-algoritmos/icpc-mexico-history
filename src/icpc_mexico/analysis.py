@@ -187,11 +187,7 @@ class Analyzer:
                                        'Gran Premio de México no están registrados oficialmente en el ICPC, '
                                        'por lo que no aparecerán aquí.')
 
-                teams: List[RankedTeam] = []
-                for season in self._queries.contest_seasons:
-                    season_teams = [team for team in season.teams if team.school == school]
-                    teams.extend(season_teams)
-                teams.sort(key=sort_ranked_team)
+                teams = self._queries.get_ranked_teams(school=school)
 
                 def result_to_str(result: ExtendedTeamResult, percentile: float) -> str:
                     return (f'resolvió {result.team_result.problems_solved} problemas'

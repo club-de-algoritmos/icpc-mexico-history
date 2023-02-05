@@ -46,7 +46,7 @@ def sort_ranked_team(team: RankedTeam) -> Tuple:
     elif team.qualifier_result:
         problems_solved = team.qualifier_result.team_result.problems_solved or 0
 
-    return -world_finals_percentile, -(team.regional_season_percentile or -1), -problems_solved, team.name
+    return -world_finals_percentile, -round((team.regional_season_percentile or -1) * 100), -problems_solved, team.name
 
 
 class Queries:

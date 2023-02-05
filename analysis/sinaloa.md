@@ -9,11 +9,11 @@
 1. _MTY01_ (Itesm Campus Mazatlan) resolvió 5 problemas y obtuvo el lugar #4 (98%) en The 2005 ACM Mexico and Central America Programming Contest
 1. _JRA_ (Instituto Tecnologico De Culiacan) resolvió 5 problemas y obtuvo el lugar #9 (97%) en The 2014 ACM-ICPC Mexico and Central America Finals
 1. _los punteros_ (Itesm Campus Mazatlan) resolvió 4 problemas y obtuvo el lugar #6 (97%) en The 2007 ACM Mexico and Central America Programming Contest
-1. _MTY1_ (Itesm Campus Mazatlan) resolvió 4 problemas y obtuvo el lugar #5 (96%) en The 2004 ACM Mexico and Central America Programming Contest
 1. _Ludus G++_ (Instituto Tecnologico De Culiacan) resolvió 12 problemas y obtuvo el lugar #39 (96%) en The 2022 ICPC Gran Premio de Mexico
+1. _MTY1_ (Itesm Campus Mazatlan) resolvió 4 problemas y obtuvo el lugar #5 (96%) en The 2004 ACM Mexico and Central America Programming Contest
 1. _javaglets_ (Itesm Campus Mazatlan) resolvió 3 problemas y obtuvo el lugar #8 (95%) en The 2005 ACM Mexico and Central America Programming Contest
-1. _Campus Mazatlán_ (Itesm Campus Mazatlan) resolvió 2 problemas y obtuvo el lugar #7 (93%) en The 2002 ACM Mexico and Central America Programming Contest
 1. _Three Bits_ (Instituto Tecnologico De Culiacan) resolvió 4 problemas y obtuvo el lugar #12 (93%) en The 2012 Mexico & Central America Regional Contest
+1. _Sapphire_ (Itesm Campus Mazatlan) resolvió 3 problemas y obtuvo el lugar #11 (93%) en The 2005 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 
@@ -57,8 +57,8 @@
 - #11 _Sapphire_ (Itesm Campus Mazatlan) (Regional)
 - #16 _MTY03_ (Itesm Campus Mazatlan) (Regional)
 - #18 _MTY02_ (Itesm Campus Mazatlan) (Regional)
-- #31 _Les Chevaliers D''Or_ (Itesm Campus Mazatlan) (Regional)
 - #32 _2 hot 2 handle_ (Itesm Campus Mazatlan) (Regional)
+- #31 _Les Chevaliers D''Or_ (Itesm Campus Mazatlan) (Regional)
 - #46 _ITESM Masters_ (Itesm Campus Mazatlan) (Regional)
 
 ### 2006-2007

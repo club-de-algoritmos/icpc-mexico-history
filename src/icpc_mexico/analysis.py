@@ -24,11 +24,6 @@ class Analyzer:
         self._analyze_community(SchoolCommunity.TECNM, 'TecNM')
         self._analyze_state('sinaloa')
 
-        mexican_schools = self._queries.get_schools_by_country(MEXICO)
-        print(f'Analyzing {len(mexican_schools)} Mexican schools')
-        for school in mexican_schools:
-            self._analyze_school(school)
-
     @log_run_time
     def _analyze_world_finals(self) -> None:
         print(f'Analyzing Mexico results in the World Finals')
@@ -177,6 +172,12 @@ class Analyzer:
                             with markdown.section(contest.description()):
                                 for team in contest_teams:
                                     markdown.bullet_point(f'#{team.rank} {team.name} ({team.institution})')
+
+    def analyze_schools_by_country(self, country: str) -> None:
+        schools = self._queries.get_schools_by_country(country)
+        print(f'Analyzing {len(schools)} schools from {country.title()}')
+        for school in schools:
+            self._analyze_school(school)
 
     def _analyze_school(self, school: School) -> None:
         with MarkdownFile(self._get_filename('schools', f'{normalize_as_filename(school.name)}.md')) as markdown:

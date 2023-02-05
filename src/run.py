@@ -6,7 +6,7 @@ from typing import List
 
 from icpc_mexico import processor, storage
 from icpc_mexico.analysis import Analyzer
-from icpc_mexico.data import FinishedContest, School
+from icpc_mexico.data import FinishedContest, School, MEXICO
 from icpc_mexico.queries import Queries
 from icpc_mexico.utils import log_run_time
 
@@ -53,11 +53,19 @@ if __name__ == '__main__':
                         help="Refresh the contest data by querying the ICPC API")
     parser.add_argument("--refresh-schools", action='store_true', default=False,
                         help="Refresh the school data by rebuilding it")
+    parser.add_argument("--refresh-school-history", action='store_true', default=False,
+                        help="Refresh the school participation history by rebuilding it")
     args = parser.parse_args()
 
-    all_contests = _get_contests(args.refresh_contests)
-    all_schools = _get_schools(args.refresh_schools, all_contests)
+    should_refresh_contests = args.refresh_contests
+    should_refresh_schools = args.refresh_schools or should_refresh_contests
+    should_refresh_school_history = args.refresh_school_history or should_refresh_schools
+
+    all_contests = _get_contests(should_refresh_contests)
+    all_schools = _get_schools(should_refresh_schools, all_contests)
     queries = Queries(all_contests, all_schools)
 
     analyzer = Analyzer(queries=queries, analysis_path=_get_filename('', path='analysis'))
     analyzer.analyze()
+    if should_refresh_school_history:
+        analyzer.analyze_schools_by_country(MEXICO)

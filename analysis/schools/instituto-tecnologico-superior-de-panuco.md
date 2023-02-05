@@ -4,78 +4,78 @@
 
 ## Mejores 10 equipos
 
-1. _Hackers_: resolvió 2 problemas y obtuvo el lugar #37 (74%) en The 2005 ACM Mexico and Central America Programming Contest
-1. _ITSP1_: resolvió 0 problemas y obtuvo el lugar #27 (72%) en The 2002 ACM Mexico and Central America Programming Contest
-1. _ITSP2_: resolvió 0 problemas y obtuvo el lugar #27 (72%) en The 2002 ACM Mexico and Central America Programming Contest
-1. _ITSP3_: resolvió 0 problemas y obtuvo el lugar #27 (72%) en The 2002 ACM Mexico and Central America Programming Contest
-1. _hard disk_: resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
-1. _ITSP-1_: resolvió 0 problemas y obtuvo el lugar #41 (62%) en The 2003 ACM Mexico and Central America Programming Contest
-1. _ITSP2_: resolvió 0 problemas y obtuvo el lugar #41 (62%) en The 2003 ACM Mexico and Central America Programming Contest
-1. _ITSPanuco_: resolvió 0 problemas y obtuvo el lugar #61 (59%) en The 2007 ACM Mexico and Central America Programming Contest
-1. _The JMV_: resolvió 0 problemas y obtuvo el lugar #61 (59%) en The 2007 ACM Mexico and Central America Programming Contest
-1. _Breakers_: resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _Hackers_ resolvió 2 problemas y obtuvo el lugar #37 (74%) en The 2005 ACM Mexico and Central America Programming Contest
+1. _ITSP1_ resolvió 0 problemas y obtuvo el lugar #27 (72%) en The 2002 ACM Mexico and Central America Programming Contest
+1. _ITSP2_ resolvió 0 problemas y obtuvo el lugar #27 (72%) en The 2002 ACM Mexico and Central America Programming Contest
+1. _ITSP3_ resolvió 0 problemas y obtuvo el lugar #27 (72%) en The 2002 ACM Mexico and Central America Programming Contest
+1. _hard disk_ resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
+1. _ITSP-1_ resolvió 0 problemas y obtuvo el lugar #41 (62%) en The 2003 ACM Mexico and Central America Programming Contest
+1. _ITSP2_ resolvió 0 problemas y obtuvo el lugar #41 (62%) en The 2003 ACM Mexico and Central America Programming Contest
+1. _ITSPanuco_ resolvió 0 problemas y obtuvo el lugar #61 (59%) en The 2007 ACM Mexico and Central America Programming Contest
+1. _The JMV_ resolvió 0 problemas y obtuvo el lugar #61 (59%) en The 2007 ACM Mexico and Central America Programming Contest
+1. _Breakers_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
 ### 2002-2003
 
-- #27 (#3 de TecNM) ITSP1 (Regional)
-- #27 (#3 de TecNM) ITSP2 (Regional)
-- #27 (#3 de TecNM) ITSP3 (Regional)
+- #27 (#3 de TecNM) _ITSP1_ (Regional)
+- #27 (#3 de TecNM) _ITSP2_ (Regional)
+- #27 (#3 de TecNM) _ITSP3_ (Regional)
 
 ### 2003-2004
 
-- #41 (#9 de TecNM) ITSP-1 (Regional)
-- #41 (#9 de TecNM) ITSP2 (Regional)
+- #41 (#9 de TecNM) _ITSP-1_ (Regional)
+- #41 (#9 de TecNM) _ITSP2_ (Regional)
 
 ### 2004-2005
 
-- #54 (#10 de TecNM) ITSPánuco 1 (Regional)
-- #90 (#22 de TecNM) ITSPánuco 2 (Regional)
+- #54 (#10 de TecNM) _ITSPánuco 1_ (Regional)
+- #90 (#22 de TecNM) _ITSPánuco 2_ (Regional)
 
 ### 2005-2006
 
-- #37 (#3 de TecNM) Hackers (Regional)
-- #79 (#10 de TecNM) puntero (Regional)
+- #37 (#3 de TecNM) _Hackers_ (Regional)
+- #79 (#10 de TecNM) _puntero_ (Regional)
 
 ### 2006-2007
 
-- #85 (#19 de TecNM) Tec. Panuco (Regional)
+- #85 (#19 de TecNM) _Tec. Panuco_ (Regional)
 
 ### 2007-2008
 
-- #61 (#15 de TecNM) ITSPanuco (Regional)
-- #61 (#15 de TecNM) The JMV (Regional)
+- #61 (#15 de TecNM) _ITSPanuco_ (Regional)
+- #61 (#15 de TecNM) _The JMV_ (Regional)
 
 ### 2011-2012
 
-- #104 (#33 de TecNM) ITSPANUCO (Regional)
+- #104 (#33 de TecNM) _ITSPANUCO_ (Regional)
 
 ### 2012-2013
 
-- #106 (#42 de TecNM) TECPANUCO (Regional)
+- #106 (#42 de TecNM) _TECPANUCO_ (Regional)
 
 ### 2013-2014
 
-- #87 (#19 de TecNM) Los viajeros del ITSP (Regional)
+- #87 (#19 de TecNM) _Los viajeros del ITSP_ (Regional)
 
 ### 2015-2016
 
-- #108 (#28 de TecNM) hard disk (Clasificatorio)
+- #108 (#28 de TecNM) _hard disk_ (Clasificatorio)
 
 ### 2020-2021
 
-- #351 (#65 de TecNM) Pueblo-Viejo (Clasificatorio)
+- #351 (#65 de TecNM) _Pueblo-Viejo_ (Clasificatorio)
 
 ### 2021-2022
 
-- #226 (#36 de TecNM) Los Escandalosos del Tecsito (Clasificatorio)
+- #226 (#36 de TecNM) _Los Escandalosos del Tecsito_ (Clasificatorio)
 
 ### 2022-2023
 
-- #381 (#75 de TecNM) Breakers (Clasificatorio)
-- #381 (#75 de TecNM) TECNO CAIMANES (Clasificatorio)
-- #381 (#75 de TecNM) TECNO BOYS (Clasificatorio)
+- #381 (#75 de TecNM) _Breakers_ (Clasificatorio)
+- #381 (#75 de TecNM) _TECNO BOYS_ (Clasificatorio)
+- #381 (#75 de TecNM) _TECNO CAIMANES_ (Clasificatorio)
 
 
 

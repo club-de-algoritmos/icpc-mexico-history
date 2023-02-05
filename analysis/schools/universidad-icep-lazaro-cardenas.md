@@ -4,13 +4,13 @@
 
 ## Mejores 10 equipos
 
-1. _Los Sanchez_: resolvió 0 problemas y obtuvo el lugar #394 (53%) en Gran Premio de Mexico 2018
+1. _Los Sanchez_ resolvió 0 problemas y obtuvo el lugar #394 (48%) en Gran Premio de Mexico 2018
 
 ## Participaciones
 
 ### 2018-2019
 
-- #394 Los Sanchez (Clasificatorio)
+- #394 _Los Sanchez_ (Clasificatorio)
 
 
 

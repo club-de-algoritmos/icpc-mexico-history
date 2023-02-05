@@ -4,13 +4,13 @@
 
 ## Mejores 10 equipos
 
-1. _UPTGold_: resolvió 0 problemas y obtuvo el lugar #95 (46%) en The 2013 Mexico & Central America Regional Contest
+1. _UPTGold_ resolvió 0 problemas y obtuvo el lugar #95 (46%) en The 2013 Mexico & Central America Regional Contest
 
 ## Participaciones
 
 ### 2013-2014
 
-- #95 UPTGold (Regional)
+- #95 _UPTGold_ (Regional)
 
 
 

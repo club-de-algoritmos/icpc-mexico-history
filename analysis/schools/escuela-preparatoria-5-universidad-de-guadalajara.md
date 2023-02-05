@@ -4,13 +4,13 @@
 
 ## Mejores 10 equipos
 
-1. _OMIJAL-2_: resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _OMIJAL-2_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
 ### 2022-2023
 
-- #381 OMIJAL-2 (Clasificatorio)
+- #381 _OMIJAL-2_ (Clasificatorio)
 
 
 

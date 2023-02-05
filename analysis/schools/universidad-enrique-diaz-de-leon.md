@@ -4,17 +4,17 @@
 
 ## Mejores 10 equipos
 
-1. _PANTHERA PARDUS_: resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
-1. _SeaDragonsUNEDL_: resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
-1. _WolvesUNEDL_: resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
+1. _PANTHERA PARDUS_ resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
+1. _SeaDragonsUNEDL_ resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
+1. _WolvesUNEDL_ resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
 
 ## Participaciones
 
 ### 2015-2016
 
-- #108 PANTHERA PARDUS (Clasificatorio)
-- #108 SeaDragonsUNEDL (Clasificatorio)
-- #108 WolvesUNEDL (Clasificatorio)
+- #108 _PANTHERA PARDUS_ (Clasificatorio)
+- #108 _SeaDragonsUNEDL_ (Clasificatorio)
+- #108 _WolvesUNEDL_ (Clasificatorio)
 
 
 

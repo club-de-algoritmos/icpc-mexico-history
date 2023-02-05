@@ -1,11 +1,11 @@
 import os
 from typing import List, Set, Tuple
 
-from icpc_mexico.data import FinishedContest, ContestType, SchoolCommunity, School, MEXICO, TeamResult, Contest
+from icpc_mexico.data import FinishedContest, ContestType, SchoolCommunity, School, MEXICO, TeamResult
 from icpc_mexico.markdown import Markdown, MarkdownFile
-from icpc_mexico.queries import get_best_by_school, get_by_school, Queries
-from icpc_mexico.query_data import RankedTeam
-from icpc_mexico.utils import normalize_as_filename, log_run_time, get_percentile, format_percentile
+from icpc_mexico.queries import get_best_by_school, get_by_school, Queries, sort_ranked_team
+from icpc_mexico.query_data import RankedTeam, ExtendedTeamResult
+from icpc_mexico.utils import normalize_as_filename, log_run_time, format_percentile
 
 TeamRank = Tuple[float, FinishedContest, TeamResult]
 
@@ -187,102 +187,49 @@ class Analyzer:
                                        'Gran Premio de México no están registrados oficialmente en el ICPC, '
                                        'por lo que no aparecerán aquí.')
 
-                teams: List[Tuple[float, Contest, TeamResult]] = []
+                teams: List[RankedTeam] = []
                 for season in self._queries.contest_seasons:
-                    wf_team = get_best_by_school(school, season.world) if season.world else None
-                    qualifier_teams = get_by_school(school, season.qualifier) if season.qualifier else []
-                    regional_teams = get_by_school(school, season.regional) if season.regional else []
+                    season_teams = [team for team in season.teams if team.school == school]
+                    teams.extend(season_teams)
+                teams.sort(key=sort_ranked_team)
 
-                    all_teams = []
-                    if season.qualifier:
-                        all_teams.extend(season.qualifier.team_results)
-                    if season.regional:
-                        all_teams.extend(season.regional.team_results)
-                    all_team_names: Set[str] = set()
-                    for team in all_teams:
-                        all_team_names.add(team.name)
+                def result_to_str(result: ExtendedTeamResult, percentile: float) -> str:
+                    return (f'resolvió {result.team_result.problems_solved} problemas'
+                            f' y obtuvo el lugar #{result.team_result.rank}'
+                            f' ({format_percentile(percentile)}) en'
+                            f' {result.contest.name}')
 
-                    if wf_team:
-                        team_count = len(season.world.team_results)
-                        percentile = get_percentile(wf_team.rank, team_count)
-                        teams.append((percentile, season.world, wf_team))
-
-                    added_teams: Set[str] = set()
-                    if wf_team:
-                        added_teams.add(wf_team.name)
-
-                    teams_with_contest: List[Tuple[TeamResult, Contest]] = []
-                    if season.regional:
-                        teams_with_contest.extend([(team, season.regional) for team in regional_teams])
-                    if season.qualifier:
-                        teams_with_contest.extend([(team, season.qualifier) for team in qualifier_teams])
-                    for team, contest in teams_with_contest:
-                        if team.name in added_teams:
-                            continue
-                        added_teams.add(team.name)
-
-                        team_count = len(all_team_names)
-                        percentile = get_percentile(team.rank, team_count)
-                        teams.append((percentile, contest, team))
-
-                def sort_team(team: Tuple[float, Contest, TeamResult]):
-                    percentile, contest, team_result = team
-                    return (
-                        1 if contest.type == ContestType.WORLD else 2,
-                        1 - percentile,
-                        team_result.problems_solved or 0,
-                        team_result.name,
-                    )
-
-                teams.sort(key=sort_team)
                 with markdown.section('Mejores 10 equipos'):
                     for team in teams[:10]:
-                        percentile, contest, team_result = team
-                        markdown.numbered_bullet_point(
-                            f'_{team_result.name}_: resolvió {team_result.problems_solved} problemas'
-                            f' y obtuvo el lugar #{team_result.rank} ({format_percentile(percentile)}) en'
-                            f' {contest.name}')
+                        top_result = team.regional_result or team.qualifier_result
+                        if top_result:
+                            markdown.numbered_bullet_point(
+                                f'_{team.name}_ {result_to_str(top_result, team.regional_season_percentile)}')
+                            world_result = team.world_result
+                            if world_result:
+                                markdown.bullet_point(
+                                    (f'Avanzó a la final mundial y'
+                                     f' {result_to_str(world_result, world_result.percentile)}'),
+                                    indent=1)
+                        else:
+                            top_result = team.world_result
+                            markdown.numbered_bullet_point(
+                                f'_{team.name}_ {result_to_str(top_result, top_result.percentile)}')
+                            markdown.bullet_point('No hay datos del regional', indent=1)
 
                 with markdown.section('Participaciones'):
                     for season in self._queries.contest_seasons:
-                        wf_team = get_best_by_school(school, season.world) if season.world else None
-                        wf_team_desc = None
-                        if wf_team:
-                            wf_team_desc = (f'Avanzó a la final mundial, donde resolvió '
-                                            f'{wf_team.problems_solved} problemas')
-
-                        # Special case for when we have data from the world finals but not from the regional
-                        if wf_team and not season.regional:
-                            with markdown.section(season.name):
-                                markdown.bullet_point(wf_team.name)
-                                markdown.bullet_point(wf_team_desc, indent=1)
-                            continue
-
-                        # Rank the teams by phase progress and contest rank (implicitly)
-                        regional_teams: List[(TeamResult, str)] = []
-                        if season.regional:
-                            regional_teams = [(school, 'Regional') for school in get_by_school(school, season.regional)]
-                        qualifier_teams: List[(TeamResult, str)] = []
-                        if season.qualifier:
-                            qualifier_teams = [(school, 'Clasificatorio')
-                                               for school in get_by_school(school, season.qualifier)]
-                        year_teams = regional_teams + qualifier_teams
-
-                        if not year_teams:
+                        season_teams = [team for team in season.teams if team.school == school]
+                        if not season_teams:
                             # School did not participate this year
                             continue
 
                         with markdown.section(season.name):
-                            # Only show the top appearance of every team
-                            seen_teams: Set[str] = set()
-                            for team, contest_type in year_teams:
-                                if team.name in seen_teams:
-                                    continue
-                                seen_teams.add(team.name)
-
+                            for team in season_teams:
+                                ext_team_result = team.top_result
                                 community_rank = ''
-                                if team.community == SchoolCommunity.TECNM:
-                                    community_rank = f' (#{team.community_rank} de TecNM)'
-                                markdown.bullet_point(f'#{team.rank}{community_rank} {team.name} ({contest_type})')
-                                if wf_team and wf_team.name == team.name:
-                                    markdown.bullet_point(wf_team_desc, indent=1)
+                                if team.school.community == SchoolCommunity.TECNM:
+                                    community_rank = f' (#{ext_team_result.team_result.community_rank} de TecNM)'
+                                markdown.bullet_point(f'#{ext_team_result.team_result.rank}{community_rank}'
+                                                      f' _{team.name}_'
+                                                      f' ({ext_team_result.contest.type.title()})')

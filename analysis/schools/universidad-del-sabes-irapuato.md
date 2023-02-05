@@ -4,18 +4,18 @@
 
 ## Mejores 10 equipos
 
-1. _SABES_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
-1. _SABES_: resolvió 0 problemas y obtuvo el lugar #394 (53%) en Gran Premio de Mexico 2018
+1. _SABES_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _SABES_ resolvió 0 problemas y obtuvo el lugar #394 (48%) en Gran Premio de Mexico 2018
 
 ## Participaciones
 
 ### 2018-2019
 
-- #394 SABES (Clasificatorio)
+- #394 _SABES_ (Clasificatorio)
 
 ### 2019-2020
 
-- #382 SABES (Clasificatorio)
+- #382 _SABES_ (Clasificatorio)
 
 
 

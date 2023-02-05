@@ -33,6 +33,22 @@ def get_best_by_school(school: School, contest: FinishedContest) -> Optional[Tea
     return None
 
 
+def sort_ranked_team(team: RankedTeam) -> Tuple:
+    world_finals_percentile = -1
+    if team.world_result:
+        world_finals_percentile = team.world_result.percentile
+
+    problems_solved = 0
+    if team.world_result:
+        problems_solved = team.world_result.team_result.problems_solved or 0
+    elif team.regional_result:
+        problems_solved = team.regional_result.team_result.problems_solved or 0
+    elif team.qualifier_result:
+        problems_solved = team.qualifier_result.team_result.problems_solved or 0
+
+    return -world_finals_percentile, -(team.regional_season_percentile or -1), -problems_solved, team.name
+
+
 class Queries:
     def __init__(self, contests: List[FinishedContest], schools: List[School]):
         self._schools = schools
@@ -157,21 +173,6 @@ class Queries:
                                         world_result=world_result,
                                         regional_season_rank=regional_season_rank,
                                         regional_season_percentile=regional_season_percentile))
-
-            def sort_ranked_team(team: RankedTeam) -> Tuple:
-                world_finals_percentile = -1
-                if team.world_result:
-                    world_finals_percentile = team.world_result.percentile
-
-                problems_solved = 0
-                if team.world_result:
-                    problems_solved = team.world_result.team_result.problems_solved or 0
-                elif team.regional_result:
-                    problems_solved = team.regional_result.team_result.problems_solved or 0
-                elif team.qualifier_result:
-                    problems_solved = team.qualifier_result.team_result.problems_solved or 0
-
-                return -world_finals_percentile, -(team.regional_season_percentile or -1), -problems_solved, team.name
 
             teams.sort(key=sort_ranked_team)
 

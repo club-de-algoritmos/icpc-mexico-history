@@ -4,81 +4,81 @@
 
 ## Mejores 10 equipos
 
-1. _univa3_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
-1. _Univa1_: resolvió 1 problemas y obtuvo el lugar #166 (67%) en The 2021 ICPC Gran Premio de Mexico
-1. _univa1_: resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
-1. _univa2_: resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
-1. _univa3_: resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
-1. _univa4_: resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
-1. _univa5_: resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
-1. _Los Babasónicos_: resolvió 2 problemas y obtuvo el lugar #44 (66%) en The 2006 ACM Mexico and Central America Programming Contest
-1. _Univa2_: resolvió 1 problemas y obtuvo el lugar #65 (63%) en The 2013 Mexico & Central America Regional Contest
-1. _Los Mañosos_: resolvió 0 problemas y obtuvo el lugar #61 (59%) en The 2007 ACM Mexico and Central America Programming Contest
+1. _univa3_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _univa1_ resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
+1. _univa2_ resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
+1. _univa3_ resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
+1. _univa4_ resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
+1. _univa5_ resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
+1. _Los Babasónicos_ resolvió 2 problemas y obtuvo el lugar #44 (66%) en The 2006 ACM Mexico and Central America Programming Contest
+1. _Univa1_ resolvió 1 problemas y obtuvo el lugar #166 (65%) en The 2021 ICPC Gran Premio de Mexico
+1. _Univa2_ resolvió 1 problemas y obtuvo el lugar #65 (63%) en The 2013 Mexico & Central America Regional Contest
+1. _Los Mañosos_ resolvió 0 problemas y obtuvo el lugar #61 (59%) en The 2007 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 
 ### 2006-2007
 
-- #44 Los Babasónicos (Regional)
-- #70 Contraste (Regional)
-- #85 Legítimo (Regional)
+- #44 _Los Babasónicos_ (Regional)
+- #70 _Contraste_ (Regional)
+- #85 _Legítimo_ (Regional)
 
 ### 2007-2008
 
-- #61 Los Mañosos (Regional)
-- #61 RJ45 (Regional)
-- #61 SUKAL (Regional)
+- #61 _Los Mañosos_ (Regional)
+- #61 _RJ45_ (Regional)
+- #61 _SUKAL_ (Regional)
 
 ### 2008-2009
 
-- #98 sukal (Regional)
-- #101 Programming no-sainto (Regional)
-- #101 Team 77 (Regional)
+- #98 _sukal_ (Regional)
+- #101 _Programming no-sainto_ (Regional)
+- #101 _Team 77_ (Regional)
 
 ### 2010-2011
 
-- #156 univa2 (Regional)
+- #156 _univa2_ (Regional)
 
 ### 2011-2012
 
-- #104 UNIVA Programmers (Regional)
+- #104 _UNIVA Programmers_ (Regional)
 
 ### 2013-2014
 
-- #65 Univa2 (Regional)
+- #65 _Univa2_ (Regional)
 
 ### 2015-2016
 
-- #108 univa1 (Clasificatorio)
-- #108 univa3 (Clasificatorio)
-- #108 univa5 (Clasificatorio)
-- #108 univa2 (Clasificatorio)
-- #108 univa4 (Clasificatorio)
+- #108 _univa1_ (Clasificatorio)
+- #108 _univa2_ (Clasificatorio)
+- #108 _univa3_ (Clasificatorio)
+- #108 _univa4_ (Clasificatorio)
+- #108 _univa5_ (Clasificatorio)
 
 ### 2016-2017
 
-- #121 univa3 (Clasificatorio)
+- #121 _univa3_ (Clasificatorio)
 
 ### 2017-2018
 
-- #309 Univa2 (Clasificatorio)
-- #405 Univa1 (Clasificatorio)
+- #309 _Univa2_ (Clasificatorio)
+- #405 _Univa1_ (Clasificatorio)
 
 ### 2018-2019
 
-- #394 Leopardos (Clasificatorio)
-- #394 Linces_Univa (Clasificatorio)
-- #394 Ocelotes (Clasificatorio)
-- #394 Tigres (Clasificatorio)
+- #394 _Leopardos_ (Clasificatorio)
+- #394 _Linces_Univa_ (Clasificatorio)
+- #394 _Ocelotes_ (Clasificatorio)
+- #394 _Tigres_ (Clasificatorio)
 
 ### 2021-2022
 
-- #166 Univa1 (Clasificatorio)
-- #226 Univa2 (Clasificatorio)
+- #166 _Univa1_ (Clasificatorio)
+- #226 _Univa2_ (Clasificatorio)
 
 ### 2022-2023
 
-- #381 Ocelotes Bélicos (Clasificatorio)
+- #381 _Ocelotes Bélicos_ (Clasificatorio)
 
 
 

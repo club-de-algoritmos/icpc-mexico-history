@@ -4,13 +4,13 @@
 
 ## Mejores 10 equipos
 
-1. _HackMachine_: resolvió 2 problemas y obtuvo el lugar #73 (91%) en The 2018 ICPC Mexico and Central America Finals
+1. _HackMachine_ resolvió 2 problemas y obtuvo el lugar #73 (91%) en The 2018 ICPC Mexico and Central America Finals
 
 ## Participaciones
 
 ### 2018-2019
 
-- #73 HackMachine (Regional)
+- #73 _HackMachine_ (Regional)
 
 
 

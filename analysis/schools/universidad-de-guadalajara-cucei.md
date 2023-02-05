@@ -4,235 +4,235 @@
 
 ## Mejores 10 equipos
 
-1. _Leones(0,0,0)_: resolvió 3 problemas y obtuvo el lugar #51 (62%) en 45th Annual World Finals of the International Collegiate Programming Contest
-1. _Leones(0,0,0)_: resolvió 5 problemas y obtuvo el lugar #2 (100%) en The 2021 ICPC Mexico Finals
-1. _Leones(0,0,0);_: resolvió 4 problemas y obtuvo el lugar #17 (99%) en The 2019 ICPC Mexico Finals
-1. _The Empire Strikes Back_: resolvió 4 problemas y obtuvo el lugar #14 (98%) en The 2020 ICPC Mexico Finals
-1. _Astrum****_: resolvió 6 problemas y obtuvo el lugar #6 (98%) en Mexico and Central America Finals - Programming Battle
-1. _ACM Problem Solvers_: resolvió 4 problemas y obtuvo el lugar #6 (97%) en The 2010 Mexico & Central America Regional Contest
-1. _Almost Retired_: resolvió 14 problemas y obtuvo el lugar #25 (97%) en The 2022 ICPC Gran Premio de Mexico
-1. _A New Hope_: resolvió 3 problemas y obtuvo el lugar #15 (97%) en The 2021 ICPC Mexico Finals
-1. _Yo no sé mañana_: resolvió 3 problemas y obtuvo el lugar #16 (97%) en The 2021 ICPC Mexico Finals
-1. _Code Wizards_: resolvió 2 problemas y obtuvo el lugar #40 (97%) en The 2019 ICPC Mexico Finals
+1. _Leones(0,0,0)_ resolvió 7 problemas y obtuvo el lugar #4 (100%) en The 2020 ICPC Mexico Finals
+    - Avanzó a la final mundial y resolvió 3 problemas y obtuvo el lugar #51 (62%) en 45th Annual World Finals of the International Collegiate Programming Contest
+1. _Leones(0,0,0)_ resolvió 5 problemas y obtuvo el lugar #2 (100%) en The 2021 ICPC Mexico Finals
+1. _Leones(0,0,0);_ resolvió 4 problemas y obtuvo el lugar #17 (99%) en The 2019 ICPC Mexico Finals
+1. _The Empire Strikes Back_ resolvió 4 problemas y obtuvo el lugar #14 (98%) en The 2020 ICPC Mexico Finals
+1. _ACM Problem Solvers_ resolvió 4 problemas y obtuvo el lugar #6 (97%) en The 2010 Mexico & Central America Regional Contest
+1. _Almost Retired_ resolvió 14 problemas y obtuvo el lugar #25 (97%) en The 2022 ICPC Gran Premio de Mexico
+1. _A New Hope_ resolvió 3 problemas y obtuvo el lugar #15 (97%) en The 2021 ICPC Mexico Finals
+1. _Yo no sé mañana_ resolvió 3 problemas y obtuvo el lugar #16 (97%) en The 2021 ICPC Mexico Finals
+1. _Code Wizards_ resolvió 2 problemas y obtuvo el lugar #40 (97%) en The 2019 ICPC Mexico Finals
+1. _Lonches Ahogados_ resolvió 4 problemas y obtuvo el lugar #24 (97%) en The 2020 ICPC Mexico Finals
 
 ## Participaciones
 
 ### 2003-2004
 
-- #11 Ciberleones de Guadalajara (Regional)
-- #18 Digital Advance (Regional)
-- #41 Patitox CUCEI (Regional)
-- #41 Leones Negros (Regional)
+- #11 _Ciberleones de Guadalajara_ (Regional)
+- #18 _Digital Advance_ (Regional)
+- #41 _Leones Negros_ (Regional)
+- #41 _Patitox CUCEI_ (Regional)
 
 ### 2004-2005
 
-- #13 fishbowlHead (Regional)
-- #16 Caballo Negro (Regional)
-- #30 Ciberleones de Guadalajara (Regional)
-- #34 Digital Advance (Regional)
-- #37 LionSoft (Regional)
-- #68 Leones Negros (Regional)
+- #13 _fishbowlHead_ (Regional)
+- #16 _Caballo Negro_ (Regional)
+- #30 _Ciberleones de Guadalajara_ (Regional)
+- #34 _Digital Advance_ (Regional)
+- #37 _LionSoft_ (Regional)
+- #68 _Leones Negros_ (Regional)
 
 ### 2005-2006
 
-- #9 Digital Advance (Regional)
-- #23 1000%wapos (Regional)
-- #54 Los Inombrables del CUCEI (Regional)
-- #73 Ciberleones de Guadalajara (Regional)
-- #78 Trivium (Regional)
-- #85      (Regional)
-- #85 Warner Brothers (Regional)
+- #9 _Digital Advance_ (Regional)
+- #23 _1000%wapos_ (Regional)
+- #54 _Los Inombrables del CUCEI_ (Regional)
+- #73 _Ciberleones de Guadalajara_ (Regional)
+- #78 _Trivium_ (Regional)
+- #85 _    _ (Regional)
+- #85 _Warner Brothers_ (Regional)
 
 ### 2006-2007
 
-- #6 Vini Programmi Victi (Regional)
-- #48 1.5H (Regional)
-- #73 A7X (Regional)
+- #6 _Vini Programmi Victi_ (Regional)
+- #48 _1.5H_ (Regional)
+- #73 _A7X_ (Regional)
 
 ### 2008-2009
 
-- #38 ACM PROBLEM SOLVERS (Regional)
-- #101 The Creepers (Regional)
-- #101 Leones Negros (Regional)
-- #101 Swordfish (Regional)
+- #38 _ACM PROBLEM SOLVERS_ (Regional)
+- #101 _Leones Negros_ (Regional)
+- #101 _Swordfish_ (Regional)
+- #101 _The Creepers_ (Regional)
 
 ### 2009-2010
 
-- #8 ACM Problem Solvers (Regional)
-- #62 CUCEI People (Regional)
-- #88 Null Breakers (Regional)
+- #8 _ACM Problem Solvers_ (Regional)
+- #62 _CUCEI People_ (Regional)
+- #88 _Null Breakers_ (Regional)
 
 ### 2010-2011
 
-- #6 ACM Problem Solvers (Regional)
-- #83 Crazy Coders (Regional)
+- #6 _ACM Problem Solvers_ (Regional)
+- #83 _Crazy Coders_ (Regional)
 
 ### 2011-2012
 
-- #26 (void *) 0 (Regional)
-- #46 Crazy Coders (Regional)
-- #56 The Assemblers (Regional)
+- #26 _(void *) 0_ (Regional)
+- #46 _Crazy Coders_ (Regional)
+- #56 _The Assemblers_ (Regional)
 
 ### 2012-2013
 
-- #27 Astrum (Regional)
-- #77 Little bobby nully (Regional)
-- #121 Drunkard´s Walk (Regional)
+- #27 _Astrum_ (Regional)
+- #77 _Little bobby nully_ (Regional)
+- #121 _Drunkard´s Walk_ (Regional)
 
 ### 2013-2014
 
-- #16 Astrum (Regional)
-- #17 Épsilon (Regional)
-- #33 Floyd (Regional)
-- #36 Krieger (Regional)
+- #16 _Astrum_ (Regional)
+- #17 _Épsilon_ (Regional)
+- #33 _Floyd_ (Regional)
+- #36 _Krieger_ (Regional)
 
 ### 2014-2015
 
-- #20 Astrum (Regional)
-- #32 Épsilon (Regional)
-- #39 Oasis (Regional)
-- #51 Chomsky's (Regional)
-- #6 Astrum**** (Clasificatorio)
-- #72 Épsilon**** (Clasificatorio)
-- #75 Epic Team (Clasificatorio)
-- #85 Floyd**** (Clasificatorio)
-- #97 XD (Clasificatorio)
-- #102 ChoPiTa Team (Clasificatorio)
-- #106 Bugmasters (Clasificatorio)
-- #115 The avengers (Clasificatorio)
-- #148 GEECOM (Clasificatorio)
-- #151 Faith**** (Clasificatorio)
-- #167 Beep (Clasificatorio)
-- #202 Betaguys**** (Clasificatorio)
+- #20 _Astrum_ (Regional)
+- #6 _Astrum****_ (Clasificatorio)
+- #32 _Épsilon_ (Regional)
+- #39 _Oasis_ (Regional)
+- #51 _Chomsky's_ (Regional)
+- #72 _Épsilon****_ (Clasificatorio)
+- #75 _Epic Team_ (Clasificatorio)
+- #85 _Floyd****_ (Clasificatorio)
+- #97 _XD_ (Clasificatorio)
+- #102 _ChoPiTa Team_ (Clasificatorio)
+- #106 _Bugmasters_ (Clasificatorio)
+- #115 _The avengers_ (Clasificatorio)
+- #148 _GEECOM_ (Clasificatorio)
+- #151 _Faith****_ (Clasificatorio)
+- #167 _Beep_ (Clasificatorio)
+- #202 _Betaguys****_ (Clasificatorio)
 
 ### 2015-2016
 
-- #25 LaUltimaYNosVamos (Regional)
-- #93 Error404 (Clasificatorio)
-- #108 ASD (Clasificatorio)
-- #108 Pitagóricos (Clasificatorio)
-- #108 XD (Clasificatorio)
-- #108 MJDcode (Clasificatorio)
-- #108 Beep (Clasificatorio)
-- #108 Pr0d1g10s (Clasificatorio)
-- #108 7cry (Clasificatorio)
-- #108 Team Turing (Clasificatorio)
-- #108 Floyd (Clasificatorio)
+- #25 _LaUltimaYNosVamos_ (Regional)
+- #93 _Error404_ (Clasificatorio)
+- #108 _7cry_ (Clasificatorio)
+- #108 _ASD_ (Clasificatorio)
+- #108 _Beep_ (Clasificatorio)
+- #108 _Floyd_ (Clasificatorio)
+- #108 _MJDcode_ (Clasificatorio)
+- #108 _Pitagóricos_ (Clasificatorio)
+- #108 _Pr0d1g10s_ (Clasificatorio)
+- #108 _Team Turing_ (Clasificatorio)
+- #108 _XD_ (Clasificatorio)
 
 ### 2016-2017
 
-- #29 Entscheidungsteam (Regional)
-- #121 Evelia & Friends (Clasificatorio)
-- #121 Arcade (Clasificatorio)
-- #121 Desarrolladores Anónimos (Clasificatorio)
-- #121 DOC TEAM (Clasificatorio)
-- #121 eagle eye (Clasificatorio)
-- #121 Los obsesionados (Clasificatorio)
-- #121 Salamandras Verdes (Clasificatorio)
-- #121 Injustice (Clasificatorio)
-- #121 Faith (Clasificatorio)
-- #121 Pitagoricos (Clasificatorio)
-- #121 Salamandras Azules (Clasificatorio)
-- #121 Thestrals (Clasificatorio)
-- #121 MJDcode (Clasificatorio)
-- #121 No more time LEE (Clasificatorio)
-- #121 Hackerman's (Clasificatorio)
-- #121 Los amos del universo (Clasificatorio)
-- #121 Key (Clasificatorio)
+- #29 _Entscheidungsteam_ (Regional)
+- #121 _Arcade_ (Clasificatorio)
+- #121 _DOC TEAM_ (Clasificatorio)
+- #121 _Desarrolladores Anónimos_ (Clasificatorio)
+- #121 _Evelia & Friends_ (Clasificatorio)
+- #121 _Faith_ (Clasificatorio)
+- #121 _Hackerman's_ (Clasificatorio)
+- #121 _Injustice_ (Clasificatorio)
+- #121 _Key_ (Clasificatorio)
+- #121 _Los amos del universo_ (Clasificatorio)
+- #121 _Los obsesionados_ (Clasificatorio)
+- #121 _MJDcode_ (Clasificatorio)
+- #121 _No more time LEE_ (Clasificatorio)
+- #121 _Pitagoricos_ (Clasificatorio)
+- #121 _Salamandras Azules_ (Clasificatorio)
+- #121 _Salamandras Verdes_ (Clasificatorio)
+- #121 _Thestrals_ (Clasificatorio)
+- #121 _eagle eye_ (Clasificatorio)
 
 ### 2017-2018
 
-- #68 BinaryThree (Clasificatorio)
-- #82 Leones (0,0,0) (Clasificatorio)
-- #92 The Obese Cats (Clasificatorio)
-- #104 Guerreros C++ (Clasificatorio)
-- #249 Desarrolladores Anónimos (Clasificatorio)
-- #255 Alpha&Omega (Clasificatorio)
-- #263 BAM (Clasificatorio)
-- #266 For Lack of a Better Name (Clasificatorio)
-- #405 Entscheidungsteam (Clasificatorio)
-- #405 Team DooM (Clasificatorio)
-- #405 Ronin (Clasificatorio)
-- #405 Gearpower (Clasificatorio)
-- #405 Los Linces (Clasificatorio)
+- #68 _BinaryThree_ (Clasificatorio)
+- #82 _Leones (0,0,0)_ (Clasificatorio)
+- #92 _The Obese Cats_ (Clasificatorio)
+- #104 _Guerreros C++_ (Clasificatorio)
+- #249 _Desarrolladores Anónimos_ (Clasificatorio)
+- #255 _Alpha&Omega_ (Clasificatorio)
+- #263 _BAM_ (Clasificatorio)
+- #266 _For Lack of a Better Name_ (Clasificatorio)
+- #405 _Entscheidungsteam_ (Clasificatorio)
+- #405 _Gearpower_ (Clasificatorio)
+- #405 _Los Linces_ (Clasificatorio)
+- #405 _Ronin_ (Clasificatorio)
+- #405 _Team DooM_ (Clasificatorio)
 
 ### 2018-2019
 
-- #52 Leones (0,0,0) (Regional)
-- #82 Binary Three (Clasificatorio)
-- #98 Hardcode Boyz (Clasificatorio)
-- #203 Guerreros C++ (Clasificatorio)
-- #287 Soulfear (Clasificatorio)
-- #301 NULL (Clasificatorio)
-- #370 Porygon++ (Clasificatorio)
-- #395 D de Diosito (Clasificatorio)
-- #395 Alarjess (Clasificatorio)
-- #395 La Manzana De Dana (Clasificatorio)
-- #395 Desintegradores de almas (Clasificatorio)
+- #52 _Leones (0,0,0)_ (Regional)
+- #82 _Binary Three_ (Clasificatorio)
+- #98 _Hardcode Boyz_ (Clasificatorio)
+- #203 _Guerreros C++_ (Clasificatorio)
+- #287 _Soulfear_ (Clasificatorio)
+- #301 _NULL_ (Clasificatorio)
+- #370 _Porygon++_ (Clasificatorio)
+- #395 _Alarjess_ (Clasificatorio)
+- #395 _D de Diosito_ (Clasificatorio)
+- #395 _Desintegradores de almas_ (Clasificatorio)
+- #395 _La Manzana De Dana_ (Clasificatorio)
 
 ### 2019-2020
 
-- #17 Leones(0,0,0); (Regional)
-- #40 Code Wizards (Regional)
-- #44 El Mariachi dorado de Michoacán (Regional)
-- #81 AC (Clasificatorio)
-- #85 HCL (Clasificatorio)
-- #92 HackerWays (Clasificatorio)
-- #150 Overflow (Clasificatorio)
-- #200 teamName = ""; (Clasificatorio)
-- #261 Code 117 (Clasificatorio)
-- #268 Equipo 7 (Clasificatorio)
-- #296 Don(Al)2 (Clasificatorio)
-- #298 Los Scooby y el Misterio de la Programación (Clasificatorio)
-- #382 The Endurance (Clasificatorio)
-- #382 G_Hopper (Clasificatorio)
-- #382 Wozniak (Clasificatorio)
-- #382 Put_Infos (Clasificatorio)
-- #382 Chilaquilovers (Clasificatorio)
+- #17 _Leones(0,0,0);_ (Regional)
+- #40 _Code Wizards_ (Regional)
+- #44 _El Mariachi dorado de Michoacán_ (Regional)
+- #81 _AC_ (Clasificatorio)
+- #85 _HCL_ (Clasificatorio)
+- #92 _HackerWays_ (Clasificatorio)
+- #150 _Overflow_ (Clasificatorio)
+- #200 _teamName = "";_ (Clasificatorio)
+- #261 _Code 117_ (Clasificatorio)
+- #268 _Equipo 7_ (Clasificatorio)
+- #296 _Don(Al)2_ (Clasificatorio)
+- #298 _Los Scooby y el Misterio de la Programación_ (Clasificatorio)
+- #382 _Chilaquilovers_ (Clasificatorio)
+- #382 _G_Hopper_ (Clasificatorio)
+- #382 _Put_Infos_ (Clasificatorio)
+- #382 _The Endurance_ (Clasificatorio)
+- #382 _Wozniak_ (Clasificatorio)
 
 ### 2020-2021
 
-- #4 Leones(0,0,0) (Regional)
-  - Avanzó a la final mundial, donde resolvió 3 problemas
-- #14 The Empire Strikes Back (Regional)
-- #24 Lonches Ahogados (Regional)
-- #40 awadeuwu (Clasificatorio)
-- #42 Coders Council (Clasificatorio)
-- #65 JRM-E (Clasificatorio)
-- #80 BroCode (Clasificatorio)
+- #51 _Leones(0,0,0)_ (Final Mundial)
+- #14 _The Empire Strikes Back_ (Regional)
+- #24 _Lonches Ahogados_ (Regional)
+- #40 _awadeuwu_ (Clasificatorio)
+- #42 _Coders Council_ (Clasificatorio)
+- #65 _JRM-E_ (Clasificatorio)
+- #80 _BroCode_ (Clasificatorio)
 
 ### 2021-2022
 
-- #2 Leones(0,0,0) (Regional)
-- #15 A New Hope (Regional)
-- #16 Yo no sé mañana (Regional)
-- #22 La tercera es la vencida (Clasificatorio)
-- #57 DeltaWing (Clasificatorio)
-- #141 Develoopers (Clasificatorio)
-- #226 Mr. Asimov (Clasificatorio)
+- #2 _Leones(0,0,0)_ (Regional)
+- #15 _A New Hope_ (Regional)
+- #16 _Yo no sé mañana_ (Regional)
+- #22 _La tercera es la vencida_ (Clasificatorio)
+- #57 _DeltaWing_ (Clasificatorio)
+- #141 _Develoopers_ (Clasificatorio)
+- #226 _Mr. Asimov_ (Clasificatorio)
 
 ### 2022-2023
 
-- #25 Almost Retired (Clasificatorio)
-- #36 Los Mismísimos Carajillos (Clasificatorio)
-- #37 DeltaWing (Clasificatorio)
-- #60 Ma+aLeones7000 (Clasificatorio)
-- #71 The Log(n+1) (Clasificatorio)
-- #87 Las divinas (Clasificatorio)
-- #106 The endurance (Clasificatorio)
-- #164 Galactic Jei-Vi-Em (Clasificatorio)
-- #169 HMGOoL (Clasificatorio)
-- #189 The PC Destroyers (Clasificatorio)
-- #192 Caguamas.cpp (Clasificatorio)
-- #230 Trenesitos (Clasificatorio)
-- #242 Las bélicas (Clasificatorio)
-- #250 Tortilla (Clasificatorio)
-- #329 HelloLed (Clasificatorio)
-- #367 Los inadaptados (Clasificatorio)
-- #381 Bye bye byte (Clasificatorio)
-- #381 Torombolos (Clasificatorio)
-- #381 Uploading... (Clasificatorio)
-- #381 Los magos del barrio (Clasificatorio)
+- #25 _Almost Retired_ (Clasificatorio)
+- #36 _Los Mismísimos Carajillos_ (Clasificatorio)
+- #37 _DeltaWing_ (Clasificatorio)
+- #60 _Ma+aLeones7000_ (Clasificatorio)
+- #71 _The Log(n+1)_ (Clasificatorio)
+- #87 _Las divinas_ (Clasificatorio)
+- #106 _The endurance_ (Clasificatorio)
+- #164 _Galactic Jei-Vi-Em_ (Clasificatorio)
+- #169 _HMGOoL_ (Clasificatorio)
+- #189 _The PC Destroyers_ (Clasificatorio)
+- #192 _Caguamas.cpp_ (Clasificatorio)
+- #230 _Trenesitos_ (Clasificatorio)
+- #242 _Las bélicas_ (Clasificatorio)
+- #250 _Tortilla_ (Clasificatorio)
+- #329 _HelloLed_ (Clasificatorio)
+- #367 _Los inadaptados_ (Clasificatorio)
+- #381 _Bye bye byte_ (Clasificatorio)
+- #381 _Los magos del barrio_ (Clasificatorio)
+- #381 _Torombolos_ (Clasificatorio)
+- #381 _Uploading..._ (Clasificatorio)
 
 
 

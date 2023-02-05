@@ -4,56 +4,56 @@
 
 ## Mejores 10 equipos
 
-1. _Assassin Bugs_: resolvió 4 problemas y obtuvo el lugar #26 (96%) en The 2020 ICPC Mexico Finals
-1. _CSF1_: resolvió 3 problemas y obtuvo el lugar #16 (95%) en The 2015 ACM-ICPC Mexico and Central America Finals
-1. _CSF1_: resolvió 2 problemas y obtuvo el lugar #38 (93%) en The 2016 ACM-ICPC Mexico and Central America Finals
-1. _Assassin Bugs_: resolvió 9 problemas y obtuvo el lugar #67 (90%) en Gran Premio de Mexico & Centroamerica 2017
-1. _The Brewskis_: resolvió 2 problemas y obtuvo el lugar #54 (90%) en The 2016 ACM-ICPC Mexico and Central America Finals
-1. _ITCrew_: resolvió 8 problemas y obtuvo el lugar #79 (89%) en Gran Premio de Mexico & Centroamerica 2017
-1. _C-nadores_: resolvió 6 problemas y obtuvo el lugar #102 (88%) en Gran Premio de Mexico 2018
-1. _C-nadores_: resolvió 4 problemas y obtuvo el lugar #181 (86%) en Gran Premio de Mexico 2019
-1. _Trinidad_: resolvió 6 problemas y obtuvo el lugar #118 (86%) en Gran Premio de Mexico 2018
-1. _C buscan_: resolvió 5 problemas y obtuvo el lugar #126 (85%) en Gran Premio de Mexico 2018
+1. _Assassin Bugs_ resolvió 4 problemas y obtuvo el lugar #26 (96%) en The 2020 ICPC Mexico Finals
+1. _CSF1_ resolvió 3 problemas y obtuvo el lugar #16 (95%) en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _CSF1_ resolvió 2 problemas y obtuvo el lugar #38 (93%) en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _The Brewskis_ resolvió 2 problemas y obtuvo el lugar #54 (90%) en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _Assassin Bugs_ resolvió 9 problemas y obtuvo el lugar #67 (89%) en Gran Premio de Mexico & Centroamerica 2017
+1. _ITCrew_ resolvió 8 problemas y obtuvo el lugar #79 (88%) en Gran Premio de Mexico & Centroamerica 2017
+1. _C-nadores_ resolvió 4 problemas y obtuvo el lugar #181 (86%) en Gran Premio de Mexico 2019
+1. _C-nadores_ resolvió 6 problemas y obtuvo el lugar #102 (83%) en Gran Premio de Mexico 2018
+1. _Trinidad_ resolvió 6 problemas y obtuvo el lugar #118 (81%) en Gran Premio de Mexico 2018
+1. _C buscan_ resolvió 5 problemas y obtuvo el lugar #126 (80%) en Gran Premio de Mexico 2018
 
 ## Participaciones
 
 ### 2015-2016
 
-- #16 CSF1 (Regional)
-- #108 CSF2 (Clasificatorio)
-- #108 CSF3 (Clasificatorio)
+- #16 _CSF1_ (Regional)
+- #108 _CSF2_ (Clasificatorio)
+- #108 _CSF3_ (Clasificatorio)
 
 ### 2016-2017
 
-- #38 CSF1 (Regional)
-- #54 The Brewskis (Regional)
-- #121 CSF2 (Clasificatorio)
-- #121 CSF3 (Clasificatorio)
-- #121 ITCrew (Clasificatorio)
+- #38 _CSF1_ (Regional)
+- #54 _The Brewskis_ (Regional)
+- #121 _CSF2_ (Clasificatorio)
+- #121 _CSF3_ (Clasificatorio)
+- #121 _ITCrew_ (Clasificatorio)
 
 ### 2017-2018
 
-- #67 Assassin Bugs (Clasificatorio)
-- #79 ITCrew (Clasificatorio)
-- #293 The Belgians (Clasificatorio)
-- #314 Los C-nadores (Clasificatorio)
-- #405 The Brewskis (Clasificatorio)
+- #67 _Assassin Bugs_ (Clasificatorio)
+- #79 _ITCrew_ (Clasificatorio)
+- #293 _The Belgians_ (Clasificatorio)
+- #314 _Los C-nadores_ (Clasificatorio)
+- #405 _The Brewskis_ (Clasificatorio)
 
 ### 2018-2019
 
-- #102 C-nadores (Clasificatorio)
-- #118 Trinidad (Clasificatorio)
-- #126 C buscan (Clasificatorio)
-- #394 Assassin Bugs (Clasificatorio)
+- #102 _C-nadores_ (Clasificatorio)
+- #118 _Trinidad_ (Clasificatorio)
+- #126 _C buscan_ (Clasificatorio)
+- #394 _Assassin Bugs_ (Clasificatorio)
 
 ### 2019-2020
 
-- #181 C-nadores (Clasificatorio)
-- #382 Trinidad (Clasificatorio)
+- #181 _C-nadores_ (Clasificatorio)
+- #382 _Trinidad_ (Clasificatorio)
 
 ### 2020-2021
 
-- #26 Assassin Bugs (Regional)
+- #26 _Assassin Bugs_ (Regional)
 
 
 

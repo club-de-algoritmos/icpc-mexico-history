@@ -4,17 +4,17 @@
 
 ## Mejores 10 equipos
 
-1. _Jupiter_: resolvió 11 problemas y obtuvo el lugar #352 (50%) en Gran Premio de Mexico 2020
-1. _Dawngramadores_: resolvió 9 problemas y obtuvo el lugar #353 (50%) en Gran Premio de Mexico 2020
-1. _Yaunica_: resolvió 6 problemas y obtuvo el lugar #354 (50%) en Gran Premio de Mexico 2020
+1. _Jupiter_ resolvió 11 problemas y obtuvo el lugar #352 (50%) en Gran Premio de Mexico 2020
+1. _Dawngramadores_ resolvió 9 problemas y obtuvo el lugar #353 (50%) en Gran Premio de Mexico 2020
+1. _Yaunica_ resolvió 6 problemas y obtuvo el lugar #354 (50%) en Gran Premio de Mexico 2020
 
 ## Participaciones
 
 ### 2020-2021
 
-- #352 Jupiter (Clasificatorio)
-- #353 Dawngramadores (Clasificatorio)
-- #354 Yaunica (Clasificatorio)
+- #352 _Jupiter_ (Clasificatorio)
+- #353 _Dawngramadores_ (Clasificatorio)
+- #354 _Yaunica_ (Clasificatorio)
 
 
 

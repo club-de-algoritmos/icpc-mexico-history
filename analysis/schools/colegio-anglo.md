@@ -4,15 +4,15 @@
 
 ## Mejores 10 equipos
 
-1. _CmasmasGang_: resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _Pululunga_: resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _CmasmasGang_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _Pululunga_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
 ### 2022-2023
 
-- #381 Pululunga (Clasificatorio)
-- #381 CmasmasGang (Clasificatorio)
+- #381 _CmasmasGang_ (Clasificatorio)
+- #381 _Pululunga_ (Clasificatorio)
 
 
 

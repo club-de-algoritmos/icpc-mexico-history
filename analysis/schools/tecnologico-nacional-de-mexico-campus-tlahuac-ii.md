@@ -4,17 +4,17 @@
 
 ## Mejores 10 equipos
 
-1. _Jaosmi_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
-1. _SKYNET_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
-1. _programers_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _Jaosmi_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _SKYNET_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _programers_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 
 ### 2019-2020
 
-- #382 (#98 de TecNM) programers (Clasificatorio)
-- #382 (#98 de TecNM) Jaosmi (Clasificatorio)
-- #382 (#98 de TecNM) SKYNET (Clasificatorio)
+- #382 (#98 de TecNM) _Jaosmi_ (Clasificatorio)
+- #382 (#98 de TecNM) _SKYNET_ (Clasificatorio)
+- #382 (#98 de TecNM) _programers_ (Clasificatorio)
 
 
 

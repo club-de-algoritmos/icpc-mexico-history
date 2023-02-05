@@ -4,13 +4,13 @@
 
 ## Mejores 10 equipos
 
-1. _Mexikhans_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _Mexikhans_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 
 ### 2019-2020
 
-- #382 Mexikhans (Clasificatorio)
+- #382 _Mexikhans_ (Clasificatorio)
 
 
 

@@ -4,38 +4,38 @@
 
 ## Mejores 10 equipos
 
-1. _3M_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
-1. _Alpha Omega_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
-1. _Dinamita TNT_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
-1. _Gavilanes Jr_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
-1. _HEG_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
-1. _HolaMundo_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
-1. _KRIPTON_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
-1. _Los Sovieticos_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
-1. _Los pulgas_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
-1. _Novatos X_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _3M_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Alpha Omega_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Dinamita TNT_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Gavilanes Jr_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _HEG_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _HolaMundo_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _KRIPTON_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Los Sovieticos_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Los pulgas_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Novatos X_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 
 ### 2019-2020
 
-- #382 (#98 de TecNM) 3M (Clasificatorio)
-- #382 (#98 de TecNM) Los Sovieticos (Clasificatorio)
-- #382 (#98 de TecNM) Tres tristes tigres (Clasificatorio)
-- #382 (#98 de TecNM) Alpha Omega (Clasificatorio)
-- #382 (#98 de TecNM) Tux (Clasificatorio)
-- #382 (#98 de TecNM) KRIPTON (Clasificatorio)
-- #382 (#98 de TecNM) Team Lol (Clasificatorio)
-- #382 (#98 de TecNM) Dinamita TNT (Clasificatorio)
-- #382 (#98 de TecNM) Gavilanes Jr (Clasificatorio)
-- #382 (#98 de TecNM) Redmi (Clasificatorio)
-- #382 (#98 de TecNM) Three Force (Clasificatorio)
-- #382 (#98 de TecNM) Team Burros (Clasificatorio)
-- #382 (#98 de TecNM) Wadowsky (Clasificatorio)
-- #382 (#98 de TecNM) Los pulgas (Clasificatorio)
-- #382 (#98 de TecNM) HEG (Clasificatorio)
-- #382 (#98 de TecNM) HolaMundo (Clasificatorio)
-- #382 (#98 de TecNM) Novatos X (Clasificatorio)
+- #382 (#98 de TecNM) _3M_ (Clasificatorio)
+- #382 (#98 de TecNM) _Alpha Omega_ (Clasificatorio)
+- #382 (#98 de TecNM) _Dinamita TNT_ (Clasificatorio)
+- #382 (#98 de TecNM) _Gavilanes Jr_ (Clasificatorio)
+- #382 (#98 de TecNM) _HEG_ (Clasificatorio)
+- #382 (#98 de TecNM) _HolaMundo_ (Clasificatorio)
+- #382 (#98 de TecNM) _KRIPTON_ (Clasificatorio)
+- #382 (#98 de TecNM) _Los Sovieticos_ (Clasificatorio)
+- #382 (#98 de TecNM) _Los pulgas_ (Clasificatorio)
+- #382 (#98 de TecNM) _Novatos X_ (Clasificatorio)
+- #382 (#98 de TecNM) _Redmi_ (Clasificatorio)
+- #382 (#98 de TecNM) _Team Burros_ (Clasificatorio)
+- #382 (#98 de TecNM) _Team Lol_ (Clasificatorio)
+- #382 (#98 de TecNM) _Three Force_ (Clasificatorio)
+- #382 (#98 de TecNM) _Tres tristes tigres_ (Clasificatorio)
+- #382 (#98 de TecNM) _Tux_ (Clasificatorio)
+- #382 (#98 de TecNM) _Wadowsky_ (Clasificatorio)
 
 
 

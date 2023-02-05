@@ -4,83 +4,83 @@
 
 ## Mejores 10 equipos
 
-1. _E3_: resolvió None problemas y obtuvo el lugar #47 (61%) en 44th Annual World Finals of the International Collegiate Programming Contest
-1. _OWO_: resolvió 31 problemas y obtuvo el lugar #1 (100%) en The 2022 ICPC Gran Premio de Mexico
-1. _Ug+es;_: resolvió 22 problemas y obtuvo el lugar #2 (100%) en The 2022 ICPC Gran Premio de Mexico
-1. _E3_: resolvió 7 problemas y obtuvo el lugar #5 (99%) en The 2017 ACM-ICPC Mexico and Central America Finals
-1. _E3_: resolvió 7 problemas y obtuvo el lugar #6 (99%) en The 2018 ICPC Mexico and Central America Finals
-1. _Hypercube Destroyers_: resolvió 6 problemas y obtuvo el lugar #9 (99%) en The 2019 ICPC Mexico Finals
-1. _JoJoJo’S_: resolvió 19 problemas y obtuvo el lugar #7 (99%) en The 2022 ICPC Gran Premio de Mexico
-1. _EEE_: resolvió 7 problemas y obtuvo el lugar #6 (99%) en The 2020 ICPC Mexico Finals
-1. _OWO_: resolvió 4 problemas y obtuvo el lugar #5 (99%) en The 2021 ICPC Mexico Finals
-1. _Duel a morte con coitelos_: resolvió 7 problemas y obtuvo el lugar #8 (99%) en The 2018 ICPC Mexico and Central America Finals
+1. _E3_ resolvió 7 problemas y obtuvo el lugar #2 (100%) en The 2019 ICPC Mexico Finals
+    - Avanzó a la final mundial y resolvió None problemas y obtuvo el lugar #47 (61%) en 44th Annual World Finals of the International Collegiate Programming Contest
+1. _OWO_ resolvió 31 problemas y obtuvo el lugar #1 (100%) en The 2022 ICPC Gran Premio de Mexico
+1. _Ug+es;_ resolvió 22 problemas y obtuvo el lugar #2 (100%) en The 2022 ICPC Gran Premio de Mexico
+1. _E3_ resolvió 7 problemas y obtuvo el lugar #5 (99%) en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _E3_ resolvió 7 problemas y obtuvo el lugar #6 (99%) en The 2018 ICPC Mexico and Central America Finals
+1. _Hypercube Destroyers_ resolvió 6 problemas y obtuvo el lugar #9 (99%) en The 2019 ICPC Mexico Finals
+1. _JoJoJo’S_ resolvió 19 problemas y obtuvo el lugar #7 (99%) en The 2022 ICPC Gran Premio de Mexico
+1. _EEE_ resolvió 7 problemas y obtuvo el lugar #6 (99%) en The 2020 ICPC Mexico Finals
+1. _OWO_ resolvió 4 problemas y obtuvo el lugar #5 (99%) en The 2021 ICPC Mexico Finals
+1. _Duel a morte con coitelos_ resolvió 7 problemas y obtuvo el lugar #8 (99%) en The 2018 ICPC Mexico and Central America Finals
 
 ## Participaciones
 
 ### 2016-2017
 
-- #6 E3 (Regional)
-- #8 Perrillos (Regional)
-- #40 CRACK! (Clasificatorio)
-- #116 Team KOL (Clasificatorio)
-- #117 Lobos (Clasificatorio)
-- #121 Complete Turing (Clasificatorio)
-- #121 Shiwaweños (Clasificatorio)
+- #6 _E3_ (Regional)
+- #8 _Perrillos_ (Regional)
+- #40 _CRACK!_ (Clasificatorio)
+- #116 _Team KOL_ (Clasificatorio)
+- #117 _Lobos_ (Clasificatorio)
+- #121 _Complete Turing_ (Clasificatorio)
+- #121 _Shiwaweños_ (Clasificatorio)
 
 ### 2017-2018
 
-- #5 E3 (Regional)
-- #18 FMB (Regional)
-- #23 Perrillos (Regional)
-- #22 CRACK (Clasificatorio)
-- #108 Code-Frog (Clasificatorio)
-- #272 Las chicas Superpoderosas (Clasificatorio)
+- #5 _E3_ (Regional)
+- #18 _FMB_ (Regional)
+- #23 _Perrillos_ (Regional)
+- #22 _CRACK_ (Clasificatorio)
+- #108 _Code-Frog_ (Clasificatorio)
+- #272 _Las chicas Superpoderosas_ (Clasificatorio)
 
 ### 2018-2019
 
-- #6 E3 (Regional)
-- #8 Duel a morte con coitelos (Regional)
-- #14 FMB (Regional)
-- #19 CRACK (Clasificatorio)
-- #394 Last Minute (Clasificatorio)
+- #6 _E3_ (Regional)
+- #8 _Duel a morte con coitelos_ (Regional)
+- #14 _FMB_ (Regional)
+- #19 _CRACK_ (Clasificatorio)
+- #394 _Last Minute_ (Clasificatorio)
 
 ### 2019-2020
 
-- #2 E3 (Regional)
-  - Avanzó a la final mundial, donde resolvió None problemas
-- #9 Hypercube Destroyers (Regional)
-- #14 Talla Mediana (Regional)
-- #18 Two and a Half Compus (Clasificatorio)
+- #47 _E3_ (Final Mundial)
+- #9 _Hypercube Destroyers_ (Regional)
+- #14 _Talla Mediana_ (Regional)
+- #18 _Two and a Half Compus_ (Clasificatorio)
 
 ### 2020-2021
 
-- #6 EEE (Regional)
-- #11 UG + es; (Regional)
-- #32 Deep Think (Regional)
-- #37 JoJoJo's (Clasificatorio)
-- #189 Cheemtos (Clasificatorio)
-- #227 Valedores (Clasificatorio)
+- #6 _EEE_ (Regional)
+- #11 _UG + es;_ (Regional)
+- #32 _Deep Think_ (Regional)
+- #37 _JoJoJo's_ (Clasificatorio)
+- #189 _Cheemtos_ (Clasificatorio)
+- #227 _Valedores_ (Clasificatorio)
 
 ### 2021-2022
 
-- #5 OWO (Regional)
-- #8 Ug+es (Regional)
-- #12 JoJoJo's (Regional)
-- #34 Bourbaki (Clasificatorio)
-- #62 Purple Haze (Clasificatorio)
-- #135 Red Bool (Clasificatorio)
-- #226 The Donuts (Clasificatorio)
+- #5 _OWO_ (Regional)
+- #8 _Ug+es_ (Regional)
+- #12 _JoJoJo's_ (Regional)
+- #34 _Bourbaki_ (Clasificatorio)
+- #62 _Purple Haze_ (Clasificatorio)
+- #135 _Red Bool_ (Clasificatorio)
+- #226 _The Donuts_ (Clasificatorio)
 
 ### 2022-2023
 
-- #1 OWO (Clasificatorio)
-- #2 Ug+es; (Clasificatorio)
-- #7 JoJoJo’S (Clasificatorio)
-- #42 cin>>nombre (Clasificatorio)
-- #75 Mathgic (Clasificatorio)
-- #78 Red Bool Coding (Clasificatorio)
-- #217 MAD (Clasificatorio)
-- #381 Bee Programmer Club (Clasificatorio)
+- #1 _OWO_ (Clasificatorio)
+- #2 _Ug+es;_ (Clasificatorio)
+- #7 _JoJoJo’S_ (Clasificatorio)
+- #42 _cin>>nombre_ (Clasificatorio)
+- #75 _Mathgic_ (Clasificatorio)
+- #78 _Red Bool Coding_ (Clasificatorio)
+- #217 _MAD_ (Clasificatorio)
+- #381 _Bee Programmer Club_ (Clasificatorio)
 
 
 

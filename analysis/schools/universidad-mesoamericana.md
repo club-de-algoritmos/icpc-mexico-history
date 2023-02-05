@@ -4,15 +4,15 @@
 
 ## Mejores 10 equipos
 
-1. _UNIMESO1_: resolvió 0 problemas y obtuvo el lugar #395 (53%) en Gran Premio de Mexico 2018
-1. _UNIMESO2_: resolvió 0 problemas y obtuvo el lugar #395 (53%) en Gran Premio de Mexico 2018
+1. _UNIMESO1_ resolvió 0 problemas y obtuvo el lugar #395 (48%) en Gran Premio de Mexico 2018
+1. _UNIMESO2_ resolvió 0 problemas y obtuvo el lugar #395 (48%) en Gran Premio de Mexico 2018
 
 ## Participaciones
 
 ### 2018-2019
 
-- #395 UNIMESO2 (Clasificatorio)
-- #395 UNIMESO1 (Clasificatorio)
+- #395 _UNIMESO1_ (Clasificatorio)
+- #395 _UNIMESO2_ (Clasificatorio)
 
 
 

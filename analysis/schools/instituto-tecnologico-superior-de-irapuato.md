@@ -4,111 +4,110 @@
 
 ## Mejores 10 equipos
 
-1. _Buhos_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
-1. _Rocket_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
-1. _TeamM101_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
-1. _búhosblancos_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
-1. _mortifagos_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
-1. _ITESI Tres_: resolvió 1 problemas y obtuvo el lugar #22 (73%) en The 2001 ACM Mexico and Central America Programming Contest
-1. _ITESI Fundadores_: resolvió 0 problemas y obtuvo el lugar #27 (72%) en The 2002 ACM Mexico and Central America Programming Contest
-1. _ITESI Revelacion_: resolvió 0 problemas y obtuvo el lugar #27 (72%) en The 2002 ACM Mexico and Central America Programming Contest
-1. _ITESI-fundadores_: resolvió 1 problemas y obtuvo el lugar #26 (68%) en The 2001 ACM Mexico and Central America Programming Contest
-1. _ITESI_01_: resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
+1. _Buhos_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _TeamM101_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _búhosblancos_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _mortifagos_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _ITESI Tres_ resolvió 1 problemas y obtuvo el lugar #22 (73%) en The 2001 ACM Mexico and Central America Programming Contest
+1. _ITESI Fundadores_ resolvió 0 problemas y obtuvo el lugar #27 (72%) en The 2002 ACM Mexico and Central America Programming Contest
+1. _ITESI Revelacion_ resolvió 0 problemas y obtuvo el lugar #27 (72%) en The 2002 ACM Mexico and Central America Programming Contest
+1. _ITESI-fundadores_ resolvió 1 problemas y obtuvo el lugar #26 (68%) en The 2001 ACM Mexico and Central America Programming Contest
+1. _ITESI_01_ resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
+1. _ITESI 2_ resolvió 1 problemas y obtuvo el lugar #54 (64%) en The 2007 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 
 ### 2001-2002
 
-- #22 ITESI Tres (Regional)
-- #26 ITESI-fundadores (Regional)
-- #46 ITESI-El ultimo (Regional)
+- #22 _ITESI Tres_ (Regional)
+- #26 _ITESI-fundadores_ (Regional)
+- #46 _ITESI-El ultimo_ (Regional)
 
 ### 2002-2003
 
-- #27 ITESI Fundadores (Regional)
-- #27 ITESI Revelacion (Regional)
+- #27 _ITESI Fundadores_ (Regional)
+- #27 _ITESI Revelacion_ (Regional)
 
 ### 2003-2004
 
-- #39 ITESI LI (Regional)
-- #41 ITESI ISC (Regional)
+- #39 _ITESI LI_ (Regional)
+- #41 _ITESI ISC_ (Regional)
 
 ### 2004-2005
 
-- #70 ITESIMyWalids (Regional)
-- #90 ITESIXitlalits (Regional)
+- #70 _ITESIMyWalids_ (Regional)
+- #90 _ITESIXitlalits_ (Regional)
 
 ### 2005-2006
 
-- #60 Los peques (Regional)
-- #85 Los Maygualids (Regional)
+- #60 _Los peques_ (Regional)
+- #85 _Los Maygualids_ (Regional)
 
 ### 2006-2007
 
-- #85 ITESI 1 (Regional)
-- #85 ITESI II (Regional)
+- #85 _ITESI 1_ (Regional)
+- #85 _ITESI II_ (Regional)
 
 ### 2007-2008
 
-- #54 ITESI 2 (Regional)
-- #61 ITESI 1 (Regional)
-- #61 ITESI 3 (Regional)
+- #54 _ITESI 2_ (Regional)
+- #61 _ITESI 1_ (Regional)
+- #61 _ITESI 3_ (Regional)
 
 ### 2008-2009
 
-- #65 Buhos Blancos ITESI 3 (Regional)
-- #72 Buhos Blancos ITESI 1 (Regional)
-- #101 Buhos Blancos ITESI 2 (Regional)
+- #65 _Buhos Blancos ITESI 3_ (Regional)
+- #72 _Buhos Blancos ITESI 1_ (Regional)
+- #101 _Buhos Blancos ITESI 2_ (Regional)
 
 ### 2009-2010
 
-- #106 Buhos Blancos 3 (Regional)
-- #115 Buhos Blancos 1 (Regional)
-- #116 Buhos Blancos 4 (Regional)
-- #116 Buhos Blancos 2 (Regional)
+- #106 _Buhos Blancos 3_ (Regional)
+- #115 _Buhos Blancos 1_ (Regional)
+- #116 _Buhos Blancos 2_ (Regional)
+- #116 _Buhos Blancos 4_ (Regional)
 
 ### 2010-2011
 
-- #129 Buhos Blancos ISC (Regional)
-- #156 Buhos Blancos Sistemas 2 (Regional)
-- #156 Buhos Blancos Informatica 2 (Regional)
-- #156 Buhos Blancos Informática (Regional)
+- #129 _Buhos Blancos ISC_ (Regional)
+- #156 _Buhos Blancos Informatica 2_ (Regional)
+- #156 _Buhos Blancos Informática_ (Regional)
+- #156 _Buhos Blancos Sistemas 2_ (Regional)
 
 ### 2011-2012
 
-- #104 Los enviados de Elias (Regional)
+- #104 _Los enviados de Elias_ (Regional)
 
 ### 2012-2013
 
-- #134 The Avengers (Regional)
-- #134 No soy un bot (Regional)
-- #134 Los Galácticos (Regional)
+- #134 _Los Galácticos_ (Regional)
+- #134 _No soy un bot_ (Regional)
+- #134 _The Avengers_ (Regional)
 
 ### 2013-2014
 
-- #95 The Avengers (Regional)
+- #95 _The Avengers_ (Regional)
 
 ### 2014-2015
 
-- #163 Programale Chido (Clasificatorio)
-- #204 The ITESI Programmers (Clasificatorio)
-- #204 USOFT (Clasificatorio)
+- #163 _Programale Chido_ (Clasificatorio)
+- #204 _The ITESI Programmers_ (Clasificatorio)
+- #204 _USOFT_ (Clasificatorio)
 
 ### 2015-2016
 
-- #108 ITESI_01 (Clasificatorio)
+- #108 _ITESI_01_ (Clasificatorio)
 
 ### 2016-2017
 
-- #121 Buhos (Clasificatorio)
-- #121 Rocket (Clasificatorio)
-- #121 búhosblancos (Clasificatorio)
-- #121 TeamM101 (Clasificatorio)
-- #121 mortifagos (Clasificatorio)
+- #121 _Buhos_ (Clasificatorio)
+- #121 _TeamM101_ (Clasificatorio)
+- #121 _búhosblancos_ (Clasificatorio)
+- #121 _mortifagos_ (Clasificatorio)
 
 ### 2018-2019
 
-- #394 DARK ARMY (Clasificatorio)
+- #394 _DARK ARMY_ (Clasificatorio)
 
 
 

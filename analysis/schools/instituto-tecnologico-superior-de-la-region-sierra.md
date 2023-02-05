@@ -4,17 +4,17 @@
 
 ## Mejores 10 equipos
 
-1. _BLACK_: resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _CyberDevs_: resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _Sierra 3_: resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _BLACK_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _CyberDevs_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _Sierra 3_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
 ### 2022-2023
 
-- #381 (#75 de TecNM) Sierra 3 (Clasificatorio)
-- #381 (#75 de TecNM) CyberDevs (Clasificatorio)
-- #381 (#75 de TecNM) BLACK (Clasificatorio)
+- #381 (#75 de TecNM) _BLACK_ (Clasificatorio)
+- #381 (#75 de TecNM) _CyberDevs_ (Clasificatorio)
+- #381 (#75 de TecNM) _Sierra 3_ (Clasificatorio)
 
 
 

@@ -4,61 +4,61 @@
 
 ## Mejores 10 equipos
 
-1. _Grecos_: resolvió 5 problemas y obtuvo el lugar #17 (98%) en The 2018 ICPC Mexico and Central America Finals
-1. _PatodaLaVida_: resolvió 2 problemas y obtuvo el lugar #34 (97%) en The 2019 ICPC Mexico Finals
-1. _Are ya winning son?_: resolvió 4 problemas y obtuvo el lugar #25 (97%) en The 2020 ICPC Mexico Finals
-1. _3Loko_: resolvió 4 problemas y obtuvo el lugar #27 (96%) en The 2020 ICPC Mexico Finals
-1. _3Loko_: resolvió 1 problemas y obtuvo el lugar #49 (96%) en The 2019 ICPC Mexico Finals
-1. _PatodaLaVida_: resolvió 3 problemas y obtuvo el lugar #26 (95%) en The 2021 ICPC Mexico Finals
-1. _Wajakos_: resolvió 10 problemas y obtuvo el lugar #50 (95%) en The 2022 ICPC Gran Premio de Mexico
-1. _QuesadillasLlevanQueso_: resolvió 8 problemas y obtuvo el lugar #76 (94%) en Gran Premio de Mexico 2019
-1. _Cruz Azul_: resolvió 8 problemas y obtuvo el lugar #79 (91%) en The 2022 ICPC Gran Premio de Mexico
-1. _PatodaLaVida_: resolvió 11 problemas y obtuvo el lugar #67 (91%) en Gran Premio de Mexico 2020
+1. _Grecos_ resolvió 5 problemas y obtuvo el lugar #17 (98%) en The 2018 ICPC Mexico and Central America Finals
+1. _PatodaLaVida_ resolvió 2 problemas y obtuvo el lugar #34 (97%) en The 2019 ICPC Mexico Finals
+1. _Are ya winning son?_ resolvió 4 problemas y obtuvo el lugar #25 (97%) en The 2020 ICPC Mexico Finals
+1. _3Loko_ resolvió 4 problemas y obtuvo el lugar #27 (96%) en The 2020 ICPC Mexico Finals
+1. _3Loko_ resolvió 1 problemas y obtuvo el lugar #49 (96%) en The 2019 ICPC Mexico Finals
+1. _PatodaLaVida_ resolvió 3 problemas y obtuvo el lugar #26 (95%) en The 2021 ICPC Mexico Finals
+1. _Wajakos_ resolvió 10 problemas y obtuvo el lugar #50 (95%) en The 2022 ICPC Gran Premio de Mexico
+1. _QuesadillasLlevanQueso_ resolvió 8 problemas y obtuvo el lugar #76 (94%) en Gran Premio de Mexico 2019
+1. _Cruz Azul_ resolvió 8 problemas y obtuvo el lugar #79 (91%) en The 2022 ICPC Gran Premio de Mexico
+1. _PatodaLaVida_ resolvió 11 problemas y obtuvo el lugar #67 (90%) en Gran Premio de Mexico 2020
 
 ## Participaciones
 
 ### 2018-2019
 
-- #17 Grecos (Regional)
-- #121 Chontes (Clasificatorio)
+- #17 _Grecos_ (Regional)
+- #121 _Chontes_ (Clasificatorio)
 
 ### 2019-2020
 
-- #34 PatodaLaVida (Regional)
-- #49 3Loko (Regional)
-- #76 QuesadillasLlevanQueso (Clasificatorio)
-- #159 Castores CascaJavas (Clasificatorio)
-- #173 3-1 (Clasificatorio)
-- #177 WeepyCoders (Clasificatorio)
-- #382 Mexicode (Clasificatorio)
+- #34 _PatodaLaVida_ (Regional)
+- #49 _3Loko_ (Regional)
+- #76 _QuesadillasLlevanQueso_ (Clasificatorio)
+- #159 _Castores CascaJavas_ (Clasificatorio)
+- #173 _3-1_ (Clasificatorio)
+- #177 _WeepyCoders_ (Clasificatorio)
+- #382 _Mexicode_ (Clasificatorio)
 
 ### 2020-2021
 
-- #25 Are ya winning son? (Regional)
-- #27 3Loko (Regional)
-- #67 PatodaLaVida (Clasificatorio)
-- #70 WAJAKOS (Clasificatorio)
-- #111 WeepyCoders (Clasificatorio)
-- #193 SplendorCrescit (Clasificatorio)
-- #309 The Bestest (Clasificatorio)
+- #25 _Are ya winning son?_ (Regional)
+- #27 _3Loko_ (Regional)
+- #67 _PatodaLaVida_ (Clasificatorio)
+- #70 _WAJAKOS_ (Clasificatorio)
+- #111 _WeepyCoders_ (Clasificatorio)
+- #193 _SplendorCrescit_ (Clasificatorio)
+- #309 _The Bestest_ (Clasificatorio)
 
 ### 2021-2022
 
-- #26 PatodaLaVida (Regional)
-- #50 Wajakos (Regional)
-- #65 Srirbsobdb progra (Clasificatorio)
-- #101 Against all odds (Clasificatorio)
-- #122 Efesios (Clasificatorio)
-- #144 RTNGS (Clasificatorio)
-- #177 Pink (Clasificatorio)
+- #26 _PatodaLaVida_ (Regional)
+- #50 _Wajakos_ (Regional)
+- #65 _Srirbsobdb progra_ (Clasificatorio)
+- #101 _Against all odds_ (Clasificatorio)
+- #122 _Efesios_ (Clasificatorio)
+- #144 _RTNGS_ (Clasificatorio)
+- #177 _Pink_ (Clasificatorio)
 
 ### 2022-2023
 
-- #50 Wajakos (Clasificatorio)
-- #79 Cruz Azul (Clasificatorio)
-- #97 GlobalProgramming (Clasificatorio)
-- #128 RTNGS (Clasificatorio)
-- #195 Stray Girls (Clasificatorio)
+- #50 _Wajakos_ (Clasificatorio)
+- #79 _Cruz Azul_ (Clasificatorio)
+- #97 _GlobalProgramming_ (Clasificatorio)
+- #128 _RTNGS_ (Clasificatorio)
+- #195 _Stray Girls_ (Clasificatorio)
 
 
 

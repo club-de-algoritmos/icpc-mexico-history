@@ -4,54 +4,54 @@
 
 ## Mejores 10 equipos
 
-1. _Manowar_: resolvió 2 problemas y obtuvo el lugar #74 (30%) en 35th Annual World Finals of the ACM International Collegiate Programming Contest
-1. _Manowar_: resolvió 2 problemas y obtuvo el lugar #80 (29%) en 36th Annual World Finals of the ACM International Collegiate Programming Contest
-1. _#include "Shell.h"_: resolvió 5 problemas y obtuvo el lugar #6 (98%) en The 2015 ACM-ICPC Mexico and Central America Finals
-1. _NNN No es Nautilus_: resolvió 6 problemas y obtuvo el lugar #5 (98%) en The 2014 ACM-ICPC Mexico and Central America Finals
-1. _Delta_: resolvió 5 problemas y obtuvo el lugar #8 (97%) en The 2014 ACM-ICPC Mexico and Central America Finals
-1. _Nautilus_: resolvió 4 problemas y obtuvo el lugar #6 (97%) en The 2012 Mexico & Central America Regional Contest
-1. _DragonCurve_: resolvió 4 problemas y obtuvo el lugar #7 (96%) en The 2012 Mexico & Central America Regional Contest
-1. _E3_: resolvió 4 problemas y obtuvo el lugar #13 (96%) en The 2015 ACM-ICPC Mexico and Central America Finals
-1. _Nautilus_: resolvió 2 problemas y obtuvo el lugar #11 (94%) en The 2013 Mexico & Central America Regional Contest
-1. _Los otros del cimat_: resolvió 4 problemas y obtuvo el lugar #23 (91%) en Mexico and Central America Finals - Programming Battle
+1. _Manowar_ resolvió 8 problemas y obtuvo el lugar #1 (100%) en The 2010 Mexico & Central America Regional Contest
+    - Avanzó a la final mundial y resolvió 2 problemas y obtuvo el lugar #74 (30%) en 35th Annual World Finals of the ACM International Collegiate Programming Contest
+1. _Manowar_ resolvió 6 problemas y obtuvo el lugar #1 (100%) en The 2011 Mexico & Central America Regional Contest
+    - Avanzó a la final mundial y resolvió 2 problemas y obtuvo el lugar #80 (29%) en 36th Annual World Finals of the ACM International Collegiate Programming Contest
+1. _#include "Shell.h"_ resolvió 5 problemas y obtuvo el lugar #6 (98%) en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _NNN No es Nautilus_ resolvió 6 problemas y obtuvo el lugar #5 (98%) en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _Delta_ resolvió 5 problemas y obtuvo el lugar #8 (97%) en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _Nautilus_ resolvió 4 problemas y obtuvo el lugar #6 (97%) en The 2012 Mexico & Central America Regional Contest
+1. _DragonCurve_ resolvió 4 problemas y obtuvo el lugar #7 (96%) en The 2012 Mexico & Central America Regional Contest
+1. _E3_ resolvió 4 problemas y obtuvo el lugar #13 (96%) en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _Nautilus_ resolvió 2 problemas y obtuvo el lugar #11 (94%) en The 2013 Mexico & Central America Regional Contest
+1. _Los otros del cimat_ resolvió 4 problemas y obtuvo el lugar #23 (84%) en Mexico and Central America Finals - Programming Battle
 
 ## Participaciones
 
 ### 2010-2011
 
-- #1 Manowar (Regional)
-  - Avanzó a la final mundial, donde resolvió 2 problemas
+- #74 _Manowar_ (Final Mundial)
 
 ### 2011-2012
 
-- #1 Manowar (Regional)
-  - Avanzó a la final mundial, donde resolvió 2 problemas
+- #80 _Manowar_ (Final Mundial)
 
 ### 2012-2013
 
-- #6 Nautilus (Regional)
-- #7 DragonCurve (Regional)
+- #6 _Nautilus_ (Regional)
+- #7 _DragonCurve_ (Regional)
 
 ### 2013-2014
 
-- #11 Nautilus (Regional)
+- #11 _Nautilus_ (Regional)
 
 ### 2014-2015
 
-- #5 NNN No es Nautilus (Regional)
-- #8 Delta (Regional)
-- #23 Los otros del cimat (Clasificatorio)
-- #31 Triforce coders (Clasificatorio)
-- #179 Mohajona (Clasificatorio)
+- #5 _NNN No es Nautilus_ (Regional)
+- #8 _Delta_ (Regional)
+- #23 _Los otros del cimat_ (Clasificatorio)
+- #31 _Triforce coders_ (Clasificatorio)
+- #179 _Mohajona_ (Clasificatorio)
 
 ### 2015-2016
 
-- #6 #include "Shell.h" (Regional)
-- #13 E3 (Regional)
-- #100 Mexican duo and a Guatemalan (Clasificatorio)
-- #104 Fractal Fox (Clasificatorio)
-- #108 string = "Team J-K-V" (Clasificatorio)
-- #108 Tapatíos (Clasificatorio)
+- #6 _#include "Shell.h"_ (Regional)
+- #13 _E3_ (Regional)
+- #100 _Mexican duo and a Guatemalan_ (Clasificatorio)
+- #104 _Fractal Fox_ (Clasificatorio)
+- #108 _Tapatíos_ (Clasificatorio)
+- #108 _string = "Team J-K-V"_ (Clasificatorio)
 
 
 

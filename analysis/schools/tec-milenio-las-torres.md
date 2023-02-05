@@ -4,15 +4,15 @@
 
 ## Mejores 10 equipos
 
-1. _Save State_: resolvió 0 problemas y obtuvo el lugar #395 (53%) en Gran Premio de Mexico 2018
-1. _What The Coders (WTC)_: resolvió 0 problemas y obtuvo el lugar #395 (53%) en Gran Premio de Mexico 2018
+1. _Save State_ resolvió 0 problemas y obtuvo el lugar #395 (48%) en Gran Premio de Mexico 2018
+1. _What The Coders (WTC)_ resolvió 0 problemas y obtuvo el lugar #395 (48%) en Gran Premio de Mexico 2018
 
 ## Participaciones
 
 ### 2018-2019
 
-- #395 Save State (Clasificatorio)
-- #395 What The Coders (WTC) (Clasificatorio)
+- #395 _Save State_ (Clasificatorio)
+- #395 _What The Coders (WTC)_ (Clasificatorio)
 
 
 

@@ -4,13 +4,13 @@
 
 ## Mejores 10 equipos
 
-1. _Purisima 4_: resolvió 0 problemas y obtuvo el lugar #104 (36%) en The 2011 Mexico & Central America Regional Contest
+1. _Purisima 4_ resolvió 0 problemas y obtuvo el lugar #104 (36%) en The 2011 Mexico & Central America Regional Contest
 
 ## Participaciones
 
 ### 2011-2012
 
-- #104 (#33 de TecNM) Purisima 4 (Regional)
+- #104 (#33 de TecNM) _Purisima 4_ (Regional)
 
 
 

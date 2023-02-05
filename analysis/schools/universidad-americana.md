@@ -4,13 +4,13 @@
 
 ## Mejores 10 equipos
 
-1. _UAM-PTY_: resolvió 0 problemas y obtuvo el lugar #86 (88%) en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _UAM-PTY_ resolvió 0 problemas y obtuvo el lugar #86 (88%) en The 2017 ACM-ICPC Mexico and Central America Finals
 
 ## Participaciones
 
 ### 2017-2018
 
-- #86 UAM-PTY (Regional)
+- #86 _UAM-PTY_ (Regional)
 
 
 

@@ -26,6 +26,10 @@ class RankedTeam:
     regional_season_rank: Optional[int] = None
     regional_season_percentile: Optional[float] = None
 
+    @property
+    def top_result(self) -> Optional[ExtendedTeamResult]:
+        return self.world_result or self.regional_result or self.qualifier_result
+
 
 @dataclass(frozen=True)
 class ContestSeason:

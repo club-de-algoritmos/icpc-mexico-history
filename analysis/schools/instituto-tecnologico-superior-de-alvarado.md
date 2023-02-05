@@ -4,17 +4,17 @@
 
 ## Mejores 10 equipos
 
-1. _Monty Python_: resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _Reach Corse_: resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _System Coders_: resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _Monty Python_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _Reach Corse_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _System Coders_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
 ### 2022-2023
 
-- #381 (#75 de TecNM) System Coders (Clasificatorio)
-- #381 (#75 de TecNM) Reach Corse (Clasificatorio)
-- #381 (#75 de TecNM) Monty Python (Clasificatorio)
+- #381 (#75 de TecNM) _Monty Python_ (Clasificatorio)
+- #381 (#75 de TecNM) _Reach Corse_ (Clasificatorio)
+- #381 (#75 de TecNM) _System Coders_ (Clasificatorio)
 
 
 

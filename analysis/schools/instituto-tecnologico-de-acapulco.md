@@ -4,94 +4,94 @@
 
 ## Mejores 10 equipos
 
-1. _los chicos del tec_: resolvió 2 problemas y obtuvo el lugar #275 (79%) en Gran Premio de Mexico 2019
-1. _AKB_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
-1. _Ajax_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
-1. _Berojo_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
-1. _EFE_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
-1. _EQUIPO DINAMITA_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
-1. _Error 404_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
-1. _FUZZY DESTROY_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
-1. _GFJ_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
-1. _German 66_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _los chicos del tec_ resolvió 2 problemas y obtuvo el lugar #275 (79%) en Gran Premio de Mexico 2019
+1. _AKB_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Ajax_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Berojo_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _EFE_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _EQUIPO DINAMITA_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Error 404_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _FUZZY DESTROY_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _GFJ_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _German 66_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 
 ### 2017-2018
 
-- #364 (#84 de TecNM) HAL 9000 (Clasificatorio)
-- #405 (#97 de TecNM) ISC "RCI" (Clasificatorio)
-- #405 (#97 de TecNM) Dolphins (Clasificatorio)
-- #405 (#97 de TecNM) Los K.O.A. (Clasificatorio)
-- #405 (#97 de TecNM) Los ganadores (Clasificatorio)
-- #405 (#97 de TecNM) Los 100tificos (Clasificatorio)
-- #405 (#97 de TecNM) fsociety.data (Clasificatorio)
-- #405 (#97 de TecNM) La cadena vacia "" (Clasificatorio)
-- #405 (#97 de TecNM) AAA (Clasificatorio)
-- #405 (#97 de TecNM) BAROUFAKIS (Clasificatorio)
-- #405 (#97 de TecNM) Los salvadores (Clasificatorio)
-- #405 (#97 de TecNM) BIGBANG (Clasificatorio)
-- #405 (#97 de TecNM) 2 Oportunidad Squad (Clasificatorio)
-- #405 (#97 de TecNM) Los latinos (Clasificatorio)
-- #405 (#97 de TecNM) The Teddy (Clasificatorio)
-- #405 (#97 de TecNM) Mr Robot (Clasificatorio)
-- #405 (#97 de TecNM) Equipo Bravo (Clasificatorio)
-- #405 (#97 de TecNM) Two and a half men (Clasificatorio)
-- #405 (#97 de TecNM) Bull (Clasificatorio)
-- #405 (#97 de TecNM) El Equipo 7 (Clasificatorio)
-- #405 (#97 de TecNM) Burberry (Clasificatorio)
+- #364 (#84 de TecNM) _HAL 9000_ (Clasificatorio)
+- #405 (#97 de TecNM) _2 Oportunidad Squad_ (Clasificatorio)
+- #405 (#97 de TecNM) _AAA_ (Clasificatorio)
+- #405 (#97 de TecNM) _BAROUFAKIS_ (Clasificatorio)
+- #405 (#97 de TecNM) _BIGBANG_ (Clasificatorio)
+- #405 (#97 de TecNM) _Bull_ (Clasificatorio)
+- #405 (#97 de TecNM) _Burberry_ (Clasificatorio)
+- #405 (#97 de TecNM) _Dolphins_ (Clasificatorio)
+- #405 (#97 de TecNM) _El Equipo 7_ (Clasificatorio)
+- #405 (#97 de TecNM) _Equipo Bravo_ (Clasificatorio)
+- #405 (#97 de TecNM) _ISC "RCI"_ (Clasificatorio)
+- #405 (#97 de TecNM) _La cadena vacia ""_ (Clasificatorio)
+- #405 (#97 de TecNM) _Los 100tificos_ (Clasificatorio)
+- #405 (#97 de TecNM) _Los K.O.A._ (Clasificatorio)
+- #405 (#97 de TecNM) _Los ganadores_ (Clasificatorio)
+- #405 (#97 de TecNM) _Los latinos_ (Clasificatorio)
+- #405 (#97 de TecNM) _Los salvadores_ (Clasificatorio)
+- #405 (#97 de TecNM) _Mr Robot_ (Clasificatorio)
+- #405 (#97 de TecNM) _The Teddy_ (Clasificatorio)
+- #405 (#97 de TecNM) _Two and a half men_ (Clasificatorio)
+- #405 (#97 de TecNM) _fsociety.data_ (Clasificatorio)
 
 ### 2018-2019
 
-- #307 (#69 de TecNM) Sintaxis Error (Clasificatorio)
-- #365 (#87 de TecNM) Turing (Clasificatorio)
-- #366 (#88 de TecNM) NINJA GIM (Clasificatorio)
-- #388 (#97 de TecNM) JAVATEC (Clasificatorio)
-- #390 (#99 de TecNM) AlfBuenMaravillaOndaTNTEscLobo (Clasificatorio)
-- #391 (#100 de TecNM) Los Miguelitos (Clasificatorio)
-- #394 (#103 de TecNM) 5OUT (Clasificatorio)
-- #394 (#103 de TecNM) Codigo Enigma (Clasificatorio)
-- #394 (#103 de TecNM) Doble "S" (Clasificatorio)
-- #394 (#103 de TecNM) Grupo lunix (Clasificatorio)
-- #394 (#103 de TecNM) Los Foráneos (Clasificatorio)
-- #394 (#103 de TecNM) Los FourJava (Clasificatorio)
-- #394 (#103 de TecNM) Los Javeros ITA (Clasificatorio)
-- #394 (#103 de TecNM) Los Tecviot (Clasificatorio)
-- #394 (#103 de TecNM) NIÑAS (Clasificatorio)
-- #394 (#103 de TecNM) Rocket (Clasificatorio)
-- #394 (#103 de TecNM) Sombras (Clasificatorio)
-- #394 (#103 de TecNM) The Honkai (Clasificatorio)
-- #394 (#103 de TecNM) Return Live (Clasificatorio)
+- #307 (#69 de TecNM) _Sintaxis Error_ (Clasificatorio)
+- #365 (#87 de TecNM) _Turing_ (Clasificatorio)
+- #366 (#88 de TecNM) _NINJA GIM_ (Clasificatorio)
+- #388 (#97 de TecNM) _JAVATEC_ (Clasificatorio)
+- #390 (#99 de TecNM) _AlfBuenMaravillaOndaTNTEscLobo_ (Clasificatorio)
+- #391 (#100 de TecNM) _Los Miguelitos_ (Clasificatorio)
+- #394 (#103 de TecNM) _5OUT_ (Clasificatorio)
+- #394 (#103 de TecNM) _Codigo Enigma_ (Clasificatorio)
+- #394 (#103 de TecNM) _Doble "S"_ (Clasificatorio)
+- #394 (#103 de TecNM) _Grupo lunix_ (Clasificatorio)
+- #394 (#103 de TecNM) _Los Foráneos_ (Clasificatorio)
+- #394 (#103 de TecNM) _Los FourJava_ (Clasificatorio)
+- #394 (#103 de TecNM) _Los Javeros ITA_ (Clasificatorio)
+- #394 (#103 de TecNM) _Los Tecviot_ (Clasificatorio)
+- #394 (#103 de TecNM) _NIÑAS_ (Clasificatorio)
+- #394 (#103 de TecNM) _Return Live_ (Clasificatorio)
+- #394 (#103 de TecNM) _Rocket_ (Clasificatorio)
+- #394 (#103 de TecNM) _Sombras_ (Clasificatorio)
+- #394 (#103 de TecNM) _The Honkai_ (Clasificatorio)
 
 ### 2019-2020
 
-- #275 (#51 de TecNM) los chicos del tec (Clasificatorio)
-- #382 (#98 de TecNM) Grupo Ma-Ma-Marrano (Clasificatorio)
-- #382 (#98 de TecNM) Los Javis (Clasificatorio)
-- #382 (#98 de TecNM) MAD (Clasificatorio)
-- #382 (#98 de TecNM) ral (Clasificatorio)
-- #382 (#98 de TecNM) FUZZY DESTROY (Clasificatorio)
-- #382 (#98 de TecNM) NIGHT CODERS (Clasificatorio)
-- #382 (#98 de TecNM) sistemaSjl (Clasificatorio)
-- #382 (#98 de TecNM) Berojo (Clasificatorio)
-- #382 (#98 de TecNM) fsociety (Clasificatorio)
-- #382 (#98 de TecNM) coco (Clasificatorio)
-- #382 (#98 de TecNM) German 66 (Clasificatorio)
-- #382 (#98 de TecNM) PERFECT CODE (Clasificatorio)
-- #382 (#98 de TecNM) GFJ (Clasificatorio)
-- #382 (#98 de TecNM) Team Grizi (Clasificatorio)
-- #382 (#98 de TecNM) SEGUIDORES DE MANUEL (Clasificatorio)
-- #382 (#98 de TecNM) NBS97 (Clasificatorio)
-- #382 (#98 de TecNM) LOS CABALLEROS BINARIOS (Clasificatorio)
-- #382 (#98 de TecNM) AKB (Clasificatorio)
-- #382 (#98 de TecNM) EQUIPO DINAMITA (Clasificatorio)
-- #382 (#98 de TecNM) TEAM-DELTA (Clasificatorio)
-- #382 (#98 de TecNM) Ajax (Clasificatorio)
-- #382 (#98 de TecNM) zal (Clasificatorio)
-- #382 (#98 de TecNM) THE IRREGULARS (Clasificatorio)
-- #382 (#98 de TecNM) EFE (Clasificatorio)
-- #382 (#98 de TecNM) Error 404 (Clasificatorio)
-- #382 (#98 de TecNM) los negros (Clasificatorio)
+- #275 (#51 de TecNM) _los chicos del tec_ (Clasificatorio)
+- #382 (#98 de TecNM) _AKB_ (Clasificatorio)
+- #382 (#98 de TecNM) _Ajax_ (Clasificatorio)
+- #382 (#98 de TecNM) _Berojo_ (Clasificatorio)
+- #382 (#98 de TecNM) _EFE_ (Clasificatorio)
+- #382 (#98 de TecNM) _EQUIPO DINAMITA_ (Clasificatorio)
+- #382 (#98 de TecNM) _Error 404_ (Clasificatorio)
+- #382 (#98 de TecNM) _FUZZY DESTROY_ (Clasificatorio)
+- #382 (#98 de TecNM) _GFJ_ (Clasificatorio)
+- #382 (#98 de TecNM) _German 66_ (Clasificatorio)
+- #382 (#98 de TecNM) _Grupo Ma-Ma-Marrano_ (Clasificatorio)
+- #382 (#98 de TecNM) _LOS CABALLEROS BINARIOS_ (Clasificatorio)
+- #382 (#98 de TecNM) _Los Javis_ (Clasificatorio)
+- #382 (#98 de TecNM) _MAD_ (Clasificatorio)
+- #382 (#98 de TecNM) _NBS97_ (Clasificatorio)
+- #382 (#98 de TecNM) _NIGHT CODERS_ (Clasificatorio)
+- #382 (#98 de TecNM) _PERFECT CODE_ (Clasificatorio)
+- #382 (#98 de TecNM) _SEGUIDORES DE MANUEL_ (Clasificatorio)
+- #382 (#98 de TecNM) _TEAM-DELTA_ (Clasificatorio)
+- #382 (#98 de TecNM) _THE IRREGULARS_ (Clasificatorio)
+- #382 (#98 de TecNM) _Team Grizi_ (Clasificatorio)
+- #382 (#98 de TecNM) _coco_ (Clasificatorio)
+- #382 (#98 de TecNM) _fsociety_ (Clasificatorio)
+- #382 (#98 de TecNM) _los negros_ (Clasificatorio)
+- #382 (#98 de TecNM) _ral_ (Clasificatorio)
+- #382 (#98 de TecNM) _sistemaSjl_ (Clasificatorio)
+- #382 (#98 de TecNM) _zal_ (Clasificatorio)
 
 
 

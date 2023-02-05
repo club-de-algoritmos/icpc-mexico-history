@@ -4,63 +4,63 @@
 
 ## Mejores 10 equipos
 
-1. _Supernovas_: resolvió 3 problemas y obtuvo el lugar #12 (98%) en The 2017 ACM-ICPC Mexico and Central America Finals
-1. _Los Choquistas 2.0_: resolvió 5 problemas y obtuvo el lugar #15 (98%) en The 2018 ICPC Mexico and Central America Finals
-1. _Let it C_: resolvió 7 problemas y obtuvo el lugar #100 (92%) en Gran Premio de Mexico 2019
-1. _Error (╯°□°)╯︵ ┻━┻ ɹoɹɹƎ_: resolvió 7 problemas y obtuvo el lugar #106 (92%) en Gran Premio de Mexico 2019
-1. _Grafoliebers_: resolvió 8 problemas y obtuvo el lugar #70 (92%) en Gran Premio de Mexico 2018
-1. _Let it C_: resolvió 9 problemas y obtuvo el lugar #80 (91%) en Gran Premio de Mexico 2018
-1. _Ignite_: resolvió 5 problemas y obtuvo el lugar #125 (90%) en Gran Premio de Mexico 2019
-1. _Grafoliebers (╯°□°)╯︵ ɹoɹɹƎ_: resolvió 1 problemas y obtuvo el lugar #77 (89%) en The 2017 ACM-ICPC Mexico and Central America Finals
-1. _The Little Kruskals_: resolvió 7 problemas y obtuvo el lugar #85 (88%) en Gran Premio de Mexico & Centroamerica 2017
-1. _Jajajava_: resolvió 4 problemas y obtuvo el lugar #176 (86%) en Gran Premio de Mexico 2019
+1. _Supernovas_ resolvió 3 problemas y obtuvo el lugar #12 (98%) en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _Los Choquistas 2.0_ resolvió 5 problemas y obtuvo el lugar #15 (98%) en The 2018 ICPC Mexico and Central America Finals
+1. _Let it C_ resolvió 7 problemas y obtuvo el lugar #100 (92%) en Gran Premio de Mexico 2019
+1. _Error (╯°□°)╯︵ ┻━┻ ɹoɹɹƎ_ resolvió 7 problemas y obtuvo el lugar #106 (92%) en Gran Premio de Mexico 2019
+1. _Ignite_ resolvió 5 problemas y obtuvo el lugar #125 (90%) en Gran Premio de Mexico 2019
+1. _Grafoliebers (╯°□°)╯︵ ɹoɹɹƎ_ resolvió 1 problemas y obtuvo el lugar #77 (89%) en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _Grafoliebers_ resolvió 8 problemas y obtuvo el lugar #70 (87%) en Gran Premio de Mexico 2018
+1. _The Little Kruskals_ resolvió 7 problemas y obtuvo el lugar #85 (87%) en Gran Premio de Mexico & Centroamerica 2017
+1. _Jajajava_ resolvió 4 problemas y obtuvo el lugar #176 (86%) en Gran Premio de Mexico 2019
+1. _Let it C_ resolvió 9 problemas y obtuvo el lugar #80 (86%) en Gran Premio de Mexico 2018
 
 ## Participaciones
 
 ### 2017-2018
 
-- #12 Supernovas (Regional)
-- #77 Grafoliebers (╯°□°)╯︵ ɹoɹɹƎ (Regional)
-- #85 The Little Kruskals (Clasificatorio)
-- #138 SHAZAM (Clasificatorio)
-- #156 Foraneos Team (Clasificatorio)
-- #203 Guardians (Clasificatorio)
-- #394 Calavera (Clasificatorio)
-- #405 CHJJ (Clasificatorio)
-- #405 Debug's (Clasificatorio)
+- #12 _Supernovas_ (Regional)
+- #77 _Grafoliebers (╯°□°)╯︵ ɹoɹɹƎ_ (Regional)
+- #85 _The Little Kruskals_ (Clasificatorio)
+- #138 _SHAZAM_ (Clasificatorio)
+- #156 _Foraneos Team_ (Clasificatorio)
+- #203 _Guardians_ (Clasificatorio)
+- #394 _Calavera_ (Clasificatorio)
+- #405 _CHJJ_ (Clasificatorio)
+- #405 _Debug's_ (Clasificatorio)
 
 ### 2018-2019
 
-- #15 Los Choquistas 2.0 (Regional)
-- #70 Grafoliebers (Clasificatorio)
-- #80 Let it C (Clasificatorio)
-- #129 Los Entrópicos (Clasificatorio)
-- #136 SHAZAM (Clasificatorio)
-- #394 CHJJ (Clasificatorio)
-- #394 One Code MEN (Clasificatorio)
+- #15 _Los Choquistas 2.0_ (Regional)
+- #70 _Grafoliebers_ (Clasificatorio)
+- #80 _Let it C_ (Clasificatorio)
+- #129 _Los Entrópicos_ (Clasificatorio)
+- #136 _SHAZAM_ (Clasificatorio)
+- #394 _CHJJ_ (Clasificatorio)
+- #394 _One Code MEN_ (Clasificatorio)
 
 ### 2019-2020
 
-- #100 Let it C (Clasificatorio)
-- #106 Error (╯°□°)╯︵ ┻━┻ ɹoɹɹƎ (Clasificatorio)
-- #125 Ignite (Clasificatorio)
-- #176 Jajajava (Clasificatorio)
-- #209 Isanse (Clasificatorio)
-- #212 Smite (Clasificatorio)
-- #245 Hackemate (Clasificatorio)
-- #324 Shazam (Clasificatorio)
-- #331 QBITS (Clasificatorio)
-- #359 Los primos de Fermat (Clasificatorio)
+- #100 _Let it C_ (Clasificatorio)
+- #106 _Error (╯°□°)╯︵ ┻━┻ ɹoɹɹƎ_ (Clasificatorio)
+- #125 _Ignite_ (Clasificatorio)
+- #176 _Jajajava_ (Clasificatorio)
+- #209 _Isanse_ (Clasificatorio)
+- #212 _Smite_ (Clasificatorio)
+- #245 _Hackemate_ (Clasificatorio)
+- #324 _Shazam_ (Clasificatorio)
+- #331 _QBITS_ (Clasificatorio)
+- #359 _Los primos de Fermat_ (Clasificatorio)
 
 ### 2020-2021
 
-- #116 Oozma Kappa (Clasificatorio)
-- #130 ExcelOverFlow (Clasificatorio)
-- #179 The good, the bad & the programmer (Clasificatorio)
-- #200 cout << "Hola"; (Clasificatorio)
-- #253 world.execute(me); (Clasificatorio)
-- #259 Pitones (Clasificatorio)
-- #300 Duck Bang (Clasificatorio)
+- #116 _Oozma Kappa_ (Clasificatorio)
+- #130 _ExcelOverFlow_ (Clasificatorio)
+- #179 _The good, the bad & the programmer_ (Clasificatorio)
+- #200 _cout << "Hola";_ (Clasificatorio)
+- #253 _world.execute(me);_ (Clasificatorio)
+- #259 _Pitones_ (Clasificatorio)
+- #300 _Duck Bang_ (Clasificatorio)
 
 
 

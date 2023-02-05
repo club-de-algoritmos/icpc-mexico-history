@@ -4,33 +4,33 @@
 
 ## Mejores 10 equipos
 
-1. _Mecabot_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
-1. _Smart Bytes_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
-1. _TEAM DINAMITA_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
-1. _TicsOlds_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
-1. _Tres veces perfecto_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
-1. _SmartBytes_: resolvió 0 problemas y obtuvo el lugar #226 (55%) en The 2021 ICPC Gran Premio de Mexico
-1. _Smart Bytes_: resolvió 0 problemas y obtuvo el lugar #351 (51%) en Gran Premio de Mexico 2020
-1. _Stranger Team_: resolvió 0 problemas y obtuvo el lugar #351 (51%) en Gran Premio de Mexico 2020
+1. _Mecabot_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Smart Bytes_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _TEAM DINAMITA_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _TicsOlds_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Tres veces perfecto_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _SmartBytes_ resolvió 0 problemas y obtuvo el lugar #226 (53%) en The 2021 ICPC Gran Premio de Mexico
+1. _Smart Bytes_ resolvió 0 problemas y obtuvo el lugar #351 (50%) en Gran Premio de Mexico 2020
+1. _Stranger Team_ resolvió 0 problemas y obtuvo el lugar #351 (50%) en Gran Premio de Mexico 2020
 
 ## Participaciones
 
 ### 2019-2020
 
-- #382 (#98 de TecNM) Tres veces perfecto (Clasificatorio)
-- #382 (#98 de TecNM) TicsOlds (Clasificatorio)
-- #382 (#98 de TecNM) Smart Bytes (Clasificatorio)
-- #382 (#98 de TecNM) TEAM DINAMITA (Clasificatorio)
-- #382 (#98 de TecNM) Mecabot (Clasificatorio)
+- #382 (#98 de TecNM) _Mecabot_ (Clasificatorio)
+- #382 (#98 de TecNM) _Smart Bytes_ (Clasificatorio)
+- #382 (#98 de TecNM) _TEAM DINAMITA_ (Clasificatorio)
+- #382 (#98 de TecNM) _TicsOlds_ (Clasificatorio)
+- #382 (#98 de TecNM) _Tres veces perfecto_ (Clasificatorio)
 
 ### 2020-2021
 
-- #351 (#65 de TecNM) Smart Bytes (Clasificatorio)
-- #351 (#65 de TecNM) Stranger Team (Clasificatorio)
+- #351 (#65 de TecNM) _Smart Bytes_ (Clasificatorio)
+- #351 (#65 de TecNM) _Stranger Team_ (Clasificatorio)
 
 ### 2021-2022
 
-- #226 (#36 de TecNM) SmartBytes (Clasificatorio)
+- #226 (#36 de TecNM) _SmartBytes_ (Clasificatorio)
 
 
 

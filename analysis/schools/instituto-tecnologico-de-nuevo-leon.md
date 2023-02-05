@@ -4,163 +4,163 @@
 
 ## Mejores 10 equipos
 
-1. _A verdad me engañe_: resolvió 3 problemas y obtuvo el lugar #39 (95%) en The 2020 ICPC Mexico Finals
-1. _OxBests_: resolvió 8 problemas y obtuvo el lugar #69 (92%) en The 2022 ICPC Gran Premio de Mexico
-1. _0xBests_: resolvió 0 problemas y obtuvo el lugar #50 (90%) en The 2021 ICPC Mexico Finals
-1. _A verdad me engañe_: resolvió 5 problemas y obtuvo el lugar #129 (90%) en Gran Premio de Mexico 2019
-1. _silumgar_: resolvió 2 problemas y obtuvo el lugar #63 (81%) en The 2015 ACM-ICPC Mexico and Central America Finals
-1. _silumgar_: resolvió 4 problemas y obtuvo el lugar #145 (79%) en Gran Premio de Mexico & Centroamerica 2017
-1. _#FuerzaJuanga_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
-1. _ANtRAX_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
-1. _CrowSys_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
-1. _Pichones_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _A verdad me engañe_ resolvió 3 problemas y obtuvo el lugar #39 (95%) en The 2020 ICPC Mexico Finals
+1. _OxBests_ resolvió 8 problemas y obtuvo el lugar #69 (92%) en The 2022 ICPC Gran Premio de Mexico
+1. _0xBests_ resolvió 0 problemas y obtuvo el lugar #50 (90%) en The 2021 ICPC Mexico Finals
+1. _A verdad me engañe_ resolvió 5 problemas y obtuvo el lugar #129 (90%) en Gran Premio de Mexico 2019
+1. _silumgar_ resolvió 2 problemas y obtuvo el lugar #63 (81%) en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _silumgar_ resolvió 4 problemas y obtuvo el lugar #145 (78%) en Gran Premio de Mexico & Centroamerica 2017
+1. _#FuerzaJuanga_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _ANtRAX_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _CrowSys_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _Pichones_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
 
 ## Participaciones
 
 ### 2001-2002
 
-- #24 (#8 de TecNM) Cuervo Fénix (Regional)
-- #55 (#13 de TecNM) ARKADIC (Regional)
+- #24 (#8 de TecNM) _Cuervo Fénix_ (Regional)
+- #55 (#13 de TecNM) _ARKADIC_ (Regional)
 
 ### 2002-2003
 
-- #27 (#3 de TecNM) ITNL - 1 (Regional)
-- #27 (#3 de TecNM) ITNL - 2 (Regional)
+- #27 (#3 de TecNM) _ITNL - 1_ (Regional)
+- #27 (#3 de TecNM) _ITNL - 2_ (Regional)
 
 ### 2004-2005
 
-- #84 (#20 de TecNM) Cuervos Sys (Regional)
+- #84 (#20 de TecNM) _Cuervos Sys_ (Regional)
 
 ### 2006-2007
 
-- #85 (#19 de TecNM) Cuervos Sys (Regional)
+- #85 (#19 de TecNM) _Cuervos Sys_ (Regional)
 
 ### 2007-2008
 
-- #57 (#14 de TecNM) C and C (Regional)
-- #61 (#15 de TecNM) The 3 Elements (Regional)
-- #61 (#15 de TecNM) Binary Development (Regional)
+- #57 (#14 de TecNM) _C and C_ (Regional)
+- #61 (#15 de TecNM) _Binary Development_ (Regional)
+- #61 (#15 de TecNM) _The 3 Elements_ (Regional)
 
 ### 2008-2009
 
-- #48 (#6 de TecNM) The 3 Elements (Regional)
-- #76 (#14 de TecNM) RAS (Regional)
-- #89 (#21 de TecNM) DUGH-C (Regional)
-- #101 (#26 de TecNM) JavaDoo (Regional)
+- #48 (#6 de TecNM) _The 3 Elements_ (Regional)
+- #76 (#14 de TecNM) _RAS_ (Regional)
+- #89 (#21 de TecNM) _DUGH-C_ (Regional)
+- #101 (#26 de TecNM) _JavaDoo_ (Regional)
 
 ### 2009-2010
 
-- #63 (#10 de TecNM) Bloques de Lego (Regional)
-- #81 (#16 de TecNM) RAS (Regional)
-- #108 (#28 de TecNM) DughC (Regional)
-- #116 (#31 de TecNM) Black Jack (Regional)
+- #63 (#10 de TecNM) _Bloques de Lego_ (Regional)
+- #81 (#16 de TecNM) _RAS_ (Regional)
+- #108 (#28 de TecNM) _DughC_ (Regional)
+- #116 (#31 de TecNM) _Black Jack_ (Regional)
 
 ### 2010-2011
 
-- #59 (#5 de TecNM) Bloques de Lego (Regional)
-- #62 (#6 de TecNM) ITNL Java (Regional)
-- #70 (#9 de TecNM) c++ ke tu (Regional)
+- #59 (#5 de TecNM) _Bloques de Lego_ (Regional)
+- #62 (#6 de TecNM) _ITNL Java_ (Regional)
+- #70 (#9 de TecNM) _c++ ke tu_ (Regional)
 
 ### 2011-2012
 
-- #75 (#18 de TecNM) Hamburgesa Feliz (Regional)
-- #96 (#28 de TecNM) Cuervos-ISC 03 (Regional)
-- #99 (#30 de TecNM) Cuervos-ISC 04 (Regional)
-- #104 (#33 de TecNM) Mentalistas (Regional)
+- #75 (#18 de TecNM) _Hamburgesa Feliz_ (Regional)
+- #96 (#28 de TecNM) _Cuervos-ISC 03_ (Regional)
+- #99 (#30 de TecNM) _Cuervos-ISC 04_ (Regional)
+- #104 (#33 de TecNM) _Mentalistas_ (Regional)
 
 ### 2012-2013
 
-- #62 (#23 de TecNM) The Javengers (Regional)
-- #71 (#28 de TecNM) Los Pollos Hermanos (Regional)
-- #107 (#43 de TecNM) CopiaConflictiva (Regional)
-- #134 (#53 de TecNM) Storm (Regional)
-- #134 (#53 de TecNM) Némesis (Regional)
+- #62 (#23 de TecNM) _The Javengers_ (Regional)
+- #71 (#28 de TecNM) _Los Pollos Hermanos_ (Regional)
+- #107 (#43 de TecNM) _CopiaConflictiva_ (Regional)
+- #134 (#53 de TecNM) _Némesis_ (Regional)
+- #134 (#53 de TecNM) _Storm_ (Regional)
 
 ### 2013-2014
 
-- #43 (#4 de TecNM) Rule34 (Regional)
-- #76 (#14 de TecNM) Prototype (Regional)
-- #90 (#21 de TecNM) Programmers of the Death (Regional)
-- #95 (#24 de TecNM) Digi Code (Regional)
+- #43 (#4 de TecNM) _Rule34_ (Regional)
+- #76 (#14 de TecNM) _Prototype_ (Regional)
+- #90 (#21 de TecNM) _Programmers of the Death_ (Regional)
+- #95 (#24 de TecNM) _Digi Code_ (Regional)
 
 ### 2014-2015
 
-- #120 (#20 de TecNM) default (Clasificatorio)
-- #197 (#49 de TecNM) snow (Clasificatorio)
+- #120 (#20 de TecNM) _default_ (Clasificatorio)
+- #197 (#49 de TecNM) _snow_ (Clasificatorio)
 
 ### 2015-2016
 
-- #63 (#11 de TecNM) silumgar (Regional)
-- #108 (#28 de TecNM) SnowJr (Clasificatorio)
-- #108 (#28 de TecNM) Los Pichones (Clasificatorio)
+- #63 (#11 de TecNM) _silumgar_ (Regional)
+- #108 (#28 de TecNM) _Los Pichones_ (Clasificatorio)
+- #108 (#28 de TecNM) _SnowJr_ (Clasificatorio)
 
 ### 2016-2017
 
-- #121 (#20 de TecNM) silumgar (Clasificatorio)
-- #121 (#20 de TecNM) ANtRAX (Clasificatorio)
-- #121 (#20 de TecNM) Testigos de Teemo (Clasificatorio)
-- #121 (#20 de TecNM) #FuerzaJuanga (Clasificatorio)
-- #121 (#20 de TecNM) CrowSys (Clasificatorio)
-- #121 (#20 de TecNM) TriForce+1-1 (Clasificatorio)
-- #121 (#20 de TecNM) Pichones (Clasificatorio)
-- #121 (#20 de TecNM) Snow Revenant (Clasificatorio)
+- #121 (#20 de TecNM) _#FuerzaJuanga_ (Clasificatorio)
+- #121 (#20 de TecNM) _ANtRAX_ (Clasificatorio)
+- #121 (#20 de TecNM) _CrowSys_ (Clasificatorio)
+- #121 (#20 de TecNM) _Pichones_ (Clasificatorio)
+- #121 (#20 de TecNM) _Snow Revenant_ (Clasificatorio)
+- #121 (#20 de TecNM) _Testigos de Teemo_ (Clasificatorio)
+- #121 (#20 de TecNM) _TriForce+1-1_ (Clasificatorio)
+- #121 (#20 de TecNM) _silumgar_ (Clasificatorio)
 
 ### 2017-2018
 
-- #145 (#23 de TecNM) silumgar (Clasificatorio)
-- #257 (#55 de TecNM) ANTHRAX (Clasificatorio)
-- #264 (#58 de TecNM) TEAM-CONA (Clasificatorio)
-- #267 (#59 de TecNM) Osos Maduros (Clasificatorio)
-- #356 (#80 de TecNM) Pichones (Clasificatorio)
-- #359 (#82 de TecNM) Triforce (Clasificatorio)
+- #145 (#23 de TecNM) _silumgar_ (Clasificatorio)
+- #257 (#55 de TecNM) _ANTHRAX_ (Clasificatorio)
+- #264 (#58 de TecNM) _TEAM-CONA_ (Clasificatorio)
+- #267 (#59 de TecNM) _Osos Maduros_ (Clasificatorio)
+- #356 (#80 de TecNM) _Pichones_ (Clasificatorio)
+- #359 (#82 de TecNM) _Triforce_ (Clasificatorio)
 
 ### 2018-2019
 
-- #202 (#32 de TecNM) Los hijos del sol y la luna (Clasificatorio)
-- #223 (#37 de TecNM) Team Lindows (Clasificatorio)
-- #224 (#38 de TecNM) MafiadelPoder (Clasificatorio)
-- #242 (#46 de TecNM) FetosIngenieros (Clasificatorio)
-- #322 (#72 de TecNM) White Wolfs (Clasificatorio)
-- #394 (#103 de TecNM) Dust2 (Clasificatorio)
-- #394 (#103 de TecNM) Duvalines (Clasificatorio)
-- #394 (#103 de TecNM) Furrnitee (Clasificatorio)
+- #202 (#32 de TecNM) _Los hijos del sol y la luna_ (Clasificatorio)
+- #223 (#37 de TecNM) _Team Lindows_ (Clasificatorio)
+- #224 (#38 de TecNM) _MafiadelPoder_ (Clasificatorio)
+- #242 (#46 de TecNM) _FetosIngenieros_ (Clasificatorio)
+- #322 (#72 de TecNM) _White Wolfs_ (Clasificatorio)
+- #394 (#103 de TecNM) _Dust2_ (Clasificatorio)
+- #394 (#103 de TecNM) _Duvalines_ (Clasificatorio)
+- #394 (#103 de TecNM) _Furrnitee_ (Clasificatorio)
 
 ### 2019-2020
 
-- #129 (#17 de TecNM) A verdad me engañe (Clasificatorio)
-- #363 (#88 de TecNM) Critical Infamous (Clasificatorio)
-- #365 (#89 de TecNM) Los Huracanes del Teclado (Clasificatorio)
-- #376 (#96 de TecNM) Software Libre (Clasificatorio)
-- #382 (#98 de TecNM) O.M. END GAME (Clasificatorio)
-- #382 (#98 de TecNM) 80 En Vectorial (Clasificatorio)
-- #382 (#98 de TecNM) Alone Ravens (Clasificatorio)
+- #129 (#17 de TecNM) _A verdad me engañe_ (Clasificatorio)
+- #363 (#88 de TecNM) _Critical Infamous_ (Clasificatorio)
+- #365 (#89 de TecNM) _Los Huracanes del Teclado_ (Clasificatorio)
+- #376 (#96 de TecNM) _Software Libre_ (Clasificatorio)
+- #382 (#98 de TecNM) _80 En Vectorial_ (Clasificatorio)
+- #382 (#98 de TecNM) _Alone Ravens_ (Clasificatorio)
+- #382 (#98 de TecNM) _O.M. END GAME_ (Clasificatorio)
 
 ### 2020-2021
 
-- #39 (#4 de TecNM) A verdad me engañe (Regional)
-- #337 (#57 de TecNM) Software Libre (Clasificatorio)
-- #347 (#62 de TecNM) Alpha (Clasificatorio)
-- #351 (#65 de TecNM) The  Banished (Clasificatorio)
+- #39 (#4 de TecNM) _A verdad me engañe_ (Regional)
+- #337 (#57 de TecNM) _Software Libre_ (Clasificatorio)
+- #347 (#62 de TecNM) _Alpha_ (Clasificatorio)
+- #351 (#65 de TecNM) _The  Banished_ (Clasificatorio)
 
 ### 2021-2022
 
-- #50 (#6 de TecNM) 0xBests (Regional)
-- #212 (#31 de TecNM) The Changes (Clasificatorio)
-- #226 (#36 de TecNM) Chargers (Clasificatorio)
-- #226 (#36 de TecNM) Error404 (Clasificatorio)
-- #226 (#36 de TecNM) Megabytes (Clasificatorio)
+- #50 (#6 de TecNM) _0xBests_ (Regional)
+- #212 (#31 de TecNM) _The Changes_ (Clasificatorio)
+- #226 (#36 de TecNM) _Chargers_ (Clasificatorio)
+- #226 (#36 de TecNM) _Error404_ (Clasificatorio)
+- #226 (#36 de TecNM) _Megabytes_ (Clasificatorio)
 
 ### 2022-2023
 
-- #69 (#8 de TecNM) OxBests (Clasificatorio)
-- #224 (#36 de TecNM) Los cadetes de Konoha (Clasificatorio)
-- #231 (#39 de TecNM) Chip’n Dale +1 (Clasificatorio)
-- #319 (#57 de TecNM) Megabytes (Clasificatorio)
-- #346 (#63 de TecNM) Kernel Panic (Clasificatorio)
-- #373 (#69 de TecNM) R2D2 (Clasificatorio)
-- #375 (#71 de TecNM) Las minions (Clasificatorio)
-- #381 (#75 de TecNM) The Ravens Logics (Clasificatorio)
-- #381 (#75 de TecNM) Coders in progress (Clasificatorio)
+- #69 (#8 de TecNM) _OxBests_ (Clasificatorio)
+- #224 (#36 de TecNM) _Los cadetes de Konoha_ (Clasificatorio)
+- #231 (#39 de TecNM) _Chip’n Dale +1_ (Clasificatorio)
+- #319 (#57 de TecNM) _Megabytes_ (Clasificatorio)
+- #346 (#63 de TecNM) _Kernel Panic_ (Clasificatorio)
+- #373 (#69 de TecNM) _R2D2_ (Clasificatorio)
+- #375 (#71 de TecNM) _Las minions_ (Clasificatorio)
+- #381 (#75 de TecNM) _Coders in progress_ (Clasificatorio)
+- #381 (#75 de TecNM) _The Ravens Logics_ (Clasificatorio)
 
 
 

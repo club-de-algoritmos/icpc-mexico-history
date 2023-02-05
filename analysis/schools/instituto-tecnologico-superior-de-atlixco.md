@@ -4,74 +4,74 @@
 
 ## Mejores 10 equipos
 
-1. _Código Templario_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
-1. _Dubalin_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
-1. _El+Malo_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
-1. _Goofier Team_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
-1. _LINCES 5B_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
-1. _Lince-Alfa-Dinamita_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
-1. _Linces JEA_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
-1. _Los Pablo Rangers_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
-1. _Team JJS_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
-1. _Team SAD_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _Código Templario_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Dubalin_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _El+Malo_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Goofier Team_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _LINCES 5B_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Lince-Alfa-Dinamita_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Linces JEA_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Los Pablo Rangers_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Team JJS_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Team SAD_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 
 ### 2019-2020
 
-- #382 (#98 de TecNM) El+Malo (Clasificatorio)
-- #382 (#98 de TecNM) Team JJS (Clasificatorio)
-- #382 (#98 de TecNM) Team SAD (Clasificatorio)
-- #382 (#98 de TecNM) Goofier Team (Clasificatorio)
-- #382 (#98 de TecNM) Los Pablo Rangers (Clasificatorio)
-- #382 (#98 de TecNM) Lince-Alfa-Dinamita (Clasificatorio)
-- #382 (#98 de TecNM) LINCES 5B (Clasificatorio)
-- #382 (#98 de TecNM) Linces JEA (Clasificatorio)
-- #382 (#98 de TecNM) Dubalin (Clasificatorio)
-- #382 (#98 de TecNM) punto y coma (Clasificatorio)
-- #382 (#98 de TecNM) Código Templario (Clasificatorio)
+- #382 (#98 de TecNM) _Código Templario_ (Clasificatorio)
+- #382 (#98 de TecNM) _Dubalin_ (Clasificatorio)
+- #382 (#98 de TecNM) _El+Malo_ (Clasificatorio)
+- #382 (#98 de TecNM) _Goofier Team_ (Clasificatorio)
+- #382 (#98 de TecNM) _LINCES 5B_ (Clasificatorio)
+- #382 (#98 de TecNM) _Lince-Alfa-Dinamita_ (Clasificatorio)
+- #382 (#98 de TecNM) _Linces JEA_ (Clasificatorio)
+- #382 (#98 de TecNM) _Los Pablo Rangers_ (Clasificatorio)
+- #382 (#98 de TecNM) _Team JJS_ (Clasificatorio)
+- #382 (#98 de TecNM) _Team SAD_ (Clasificatorio)
+- #382 (#98 de TecNM) _punto y coma_ (Clasificatorio)
 
 ### 2020-2021
 
-- #351 (#65 de TecNM) X-Code (Clasificatorio)
-- #351 (#65 de TecNM)  Wonder Pets (Clasificatorio)
-- #351 (#65 de TecNM) Aquipo alfa!!! (Clasificatorio)
-- #351 (#65 de TecNM) Exception 404: No Name (Clasificatorio)
-- #351 (#65 de TecNM) Mercenaries Of 1eroB (Clasificatorio)
-- #351 (#65 de TecNM) LincesPunto&Coma (Clasificatorio)
-- #351 (#65 de TecNM) Escuadrón Java (Clasificatorio)
-- #351 (#65 de TecNM) Lince-Alfa-Dinamita (Clasificatorio)
-- #351 (#65 de TecNM) GoofierTeam (Clasificatorio)
-- #351 (#65 de TecNM) Pablos Rangers 2 (Clasificatorio)
-- #351 (#65 de TecNM) Programadores 01 (Clasificatorio)
-- #351 (#65 de TecNM) Los 3 Mosqueteros (Clasificatorio)
+- #351 (#65 de TecNM) _ Wonder Pets_ (Clasificatorio)
+- #351 (#65 de TecNM) _Aquipo alfa!!!_ (Clasificatorio)
+- #351 (#65 de TecNM) _Escuadrón Java_ (Clasificatorio)
+- #351 (#65 de TecNM) _Exception 404: No Name_ (Clasificatorio)
+- #351 (#65 de TecNM) _GoofierTeam_ (Clasificatorio)
+- #351 (#65 de TecNM) _Lince-Alfa-Dinamita_ (Clasificatorio)
+- #351 (#65 de TecNM) _LincesPunto&Coma_ (Clasificatorio)
+- #351 (#65 de TecNM) _Los 3 Mosqueteros_ (Clasificatorio)
+- #351 (#65 de TecNM) _Mercenaries Of 1eroB_ (Clasificatorio)
+- #351 (#65 de TecNM) _Pablos Rangers 2_ (Clasificatorio)
+- #351 (#65 de TecNM) _Programadores 01_ (Clasificatorio)
+- #351 (#65 de TecNM) _X-Code_ (Clasificatorio)
 
 ### 2021-2022
 
-- #226 (#36 de TecNM) Team NAE (Clasificatorio)
-- #226 (#36 de TecNM) Los Nahum's (Clasificatorio)
-- #226 (#36 de TecNM) Full of Hits (Clasificatorio)
-- #226 (#36 de TecNM) Arabian cats (Clasificatorio)
-- #226 (#36 de TecNM) PROYECTO Z (Clasificatorio)
-- #226 (#36 de TecNM) C0D3 Reapers (Clasificatorio)
-- #226 (#36 de TecNM) X-Force (Clasificatorio)
-- #226 (#36 de TecNM) Walking soft (Clasificatorio)
+- #226 (#36 de TecNM) _Arabian cats_ (Clasificatorio)
+- #226 (#36 de TecNM) _C0D3 Reapers_ (Clasificatorio)
+- #226 (#36 de TecNM) _Full of Hits_ (Clasificatorio)
+- #226 (#36 de TecNM) _Los Nahum's_ (Clasificatorio)
+- #226 (#36 de TecNM) _PROYECTO Z_ (Clasificatorio)
+- #226 (#36 de TecNM) _Team NAE_ (Clasificatorio)
+- #226 (#36 de TecNM) _Walking soft_ (Clasificatorio)
+- #226 (#36 de TecNM) _X-Force_ (Clasificatorio)
 
 ### 2022-2023
 
-- #381 (#75 de TecNM) Anonimus Power (Clasificatorio)
-- #381 (#75 de TecNM) Tecnotuners (Clasificatorio)
-- #381 (#75 de TecNM) LOS EMEKAR (Clasificatorio)
-- #381 (#75 de TecNM) The Best Programmers (Clasificatorio)
-- #381 (#75 de TecNM) JBG (Clasificatorio)
-- #381 (#75 de TecNM) The Powerpuff Girls (Clasificatorio)
-- #381 (#75 de TecNM) Los python'es (Clasificatorio)
-- #381 (#75 de TecNM) COVAITZ (Clasificatorio)
-- #381 (#75 de TecNM) Trifuerza (Clasificatorio)
-- #381 (#75 de TecNM) Los Power Rangers (Clasificatorio)
-- #381 (#75 de TecNM) .Zip (Clasificatorio)
-- #381 (#75 de TecNM) THE JOBS (Clasificatorio)
-- #381 (#75 de TecNM) Java lisT (Clasificatorio)
+- #381 (#75 de TecNM) _.Zip_ (Clasificatorio)
+- #381 (#75 de TecNM) _Anonimus Power_ (Clasificatorio)
+- #381 (#75 de TecNM) _COVAITZ_ (Clasificatorio)
+- #381 (#75 de TecNM) _JBG_ (Clasificatorio)
+- #381 (#75 de TecNM) _Java lisT_ (Clasificatorio)
+- #381 (#75 de TecNM) _LOS EMEKAR_ (Clasificatorio)
+- #381 (#75 de TecNM) _Los Power Rangers_ (Clasificatorio)
+- #381 (#75 de TecNM) _Los python'es_ (Clasificatorio)
+- #381 (#75 de TecNM) _THE JOBS_ (Clasificatorio)
+- #381 (#75 de TecNM) _Tecnotuners_ (Clasificatorio)
+- #381 (#75 de TecNM) _The Best Programmers_ (Clasificatorio)
+- #381 (#75 de TecNM) _The Powerpuff Girls_ (Clasificatorio)
+- #381 (#75 de TecNM) _Trifuerza_ (Clasificatorio)
 
 
 

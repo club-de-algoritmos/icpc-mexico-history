@@ -4,159 +4,159 @@
 
 ## Mejores 10 equipos
 
-1. _Tsurus Tuneados_: resolvió 18 problemas y obtuvo el lugar #8 (99%) en The 2022 ICPC Gran Premio de Mexico
-1. _ViralBugSyndrome.exe_: resolvió 4 problemas y obtuvo el lugar #20 (98%) en The 2018 ICPC Mexico and Central America Finals
-1. _Tec GDL 10_: resolvió 3 problemas y obtuvo el lugar #34 (95%) en The 2020 ICPC Mexico Finals
-1. _Carlit-OS_: resolvió 4 problemas y obtuvo el lugar #10 (95%) en The 2008 Mexico & Central America Contest
-1. _Galácticos 1_: resolvió 8 problemas y obtuvo el lugar #71 (95%) en Gran Premio de Mexico 2019
-1. _McTrio_: resolvió 3 problemas y obtuvo el lugar #11 (93%) en The 2007 ACM Mexico and Central America Programming Contest
-1. _Acrux Exclamation_: resolvió 4 problemas y obtuvo el lugar #10 (93%) en The 2006 ACM Mexico and Central America Programming Contest
-1. _Tec GDL 6_: resolvió 1 problemas y obtuvo el lugar #47 (91%) en The 2021 ICPC Mexico Finals
-1. _Aleph_: resolvió 2 problemas y obtuvo el lugar #10 (90%) en The 2002 ACM Mexico and Central America Programming Contest
-1. _Los seguidores de Karel_: resolvió 0 problemas y obtuvo el lugar #50 (90%) en The 2021 ICPC Mexico Finals
+1. _Tsurus Tuneados_ resolvió 18 problemas y obtuvo el lugar #8 (99%) en The 2022 ICPC Gran Premio de Mexico
+1. _ViralBugSyndrome.exe_ resolvió 4 problemas y obtuvo el lugar #20 (98%) en The 2018 ICPC Mexico and Central America Finals
+1. _Tec GDL 10_ resolvió 3 problemas y obtuvo el lugar #34 (95%) en The 2020 ICPC Mexico Finals
+1. _Carlit-OS_ resolvió 4 problemas y obtuvo el lugar #10 (95%) en The 2008 Mexico & Central America Contest
+1. _Galácticos 1_ resolvió 8 problemas y obtuvo el lugar #71 (94%) en Gran Premio de Mexico 2019
+1. _McTrio_ resolvió 3 problemas y obtuvo el lugar #11 (93%) en The 2007 ACM Mexico and Central America Programming Contest
+1. _Acrux Exclamation_ resolvió 4 problemas y obtuvo el lugar #10 (93%) en The 2006 ACM Mexico and Central America Programming Contest
+1. _Tec GDL 6_ resolvió 1 problemas y obtuvo el lugar #47 (91%) en The 2021 ICPC Mexico Finals
+1. _Aleph_ resolvió 2 problemas y obtuvo el lugar #10 (90%) en The 2002 ACM Mexico and Central America Programming Contest
+1. _Los seguidores de Karel_ resolvió 0 problemas y obtuvo el lugar #50 (90%) en The 2021 ICPC Mexico Finals
 
 ## Participaciones
 
 ### 2001-2002
 
-- #55 ALEF-ZERO (Regional)
+- #55 _ALEF-ZERO_ (Regional)
 
 ### 2002-2003
 
-- #10 Aleph (Regional)
-- #27 Rookies (Regional)
-- #27 Lambda (Regional)
+- #10 _Aleph_ (Regional)
+- #27 _Lambda_ (Regional)
+- #27 _Rookies_ (Regional)
 
 ### 2003-2004
 
-- #20 Balada Azul (Regional)
+- #20 _Balada Azul_ (Regional)
 
 ### 2004-2005
 
-- #28 ITESM GDA1 (Regional)
+- #28 _ITESM GDA1_ (Regional)
 
 ### 2006-2007
 
-- #10 Acrux Exclamation (Regional)
-- #56 COCO (Regional)
-- #57 Corvus Albus  (Regional)
-- #62 MacTrio (Regional)
-- #79 Team Seven (Regional)
-- #84 DAMN (Regional)
-- #85 LOL (Regional)
-- #85 Poncho (Regional)
-- #85 Quinto Escuadron (Regional)
-- #85 Reto INTEL (Regional)
+- #10 _Acrux Exclamation_ (Regional)
+- #56 _COCO_ (Regional)
+- #57 _Corvus Albus _ (Regional)
+- #62 _MacTrio_ (Regional)
+- #79 _Team Seven_ (Regional)
+- #84 _DAMN_ (Regional)
+- #85 _LOL_ (Regional)
+- #85 _Poncho_ (Regional)
+- #85 _Quinto Escuadron_ (Regional)
+- #85 _Reto INTEL_ (Regional)
 
 ### 2007-2008
 
-- #11 McTrio (Regional)
-- #29 DAMN (Regional)
-- #38 Seven (Regional)
-- #40 LOL (Regional)
-- #47 F@st Code (Regional)
-- #49 Fatal Error (Regional)
-- #61 Revolucionarios (Regional)
-- #61 Salamandra (Regional)
-- #61 Corvus Albus (Regional)
-- #61 Coleopteros (Regional)
-- #61 Fenix (Regional)
-- #61 Drunk Team (Regional)
-- #61 ENCA (Regional)
-- #61 Bunkers (Regional)
-- #61 Electric Six (Regional)
-- #61 VL-2000 (Regional)
-- #61 Los cubanos (Regional)
-- #61 Tecuciztecatl (Regional)
+- #11 _McTrio_ (Regional)
+- #29 _DAMN_ (Regional)
+- #38 _Seven_ (Regional)
+- #40 _LOL_ (Regional)
+- #47 _F@st Code_ (Regional)
+- #49 _Fatal Error_ (Regional)
+- #61 _Bunkers_ (Regional)
+- #61 _Coleopteros_ (Regional)
+- #61 _Corvus Albus_ (Regional)
+- #61 _Drunk Team_ (Regional)
+- #61 _ENCA_ (Regional)
+- #61 _Electric Six_ (Regional)
+- #61 _Fenix_ (Regional)
+- #61 _Los cubanos_ (Regional)
+- #61 _Revolucionarios_ (Regional)
+- #61 _Salamandra_ (Regional)
+- #61 _Tecuciztecatl_ (Regional)
+- #61 _VL-2000_ (Regional)
 
 ### 2008-2009
 
-- #10 Carlit-OS (Regional)
-- #39 Tortugas 2.0 (Regional)
+- #10 _Carlit-OS_ (Regional)
+- #39 _Tortugas 2.0_ (Regional)
 
 ### 2009-2010
 
-- #21 Carlit-OS (Regional)
-- #35 Tesla (Regional)
+- #21 _Carlit-OS_ (Regional)
+- #35 _Tesla_ (Regional)
 
 ### 2010-2011
 
-- #81 Los batillos (Regional)
+- #81 _Los batillos_ (Regional)
 
 ### 2011-2012
 
-- #45 Pain Train (Regional)
+- #45 _Pain Train_ (Regional)
 
 ### 2013-2014
 
-- #61 El Santo, Blue Demon y Bulldog (Regional)
+- #61 _El Santo, Blue Demon y Bulldog_ (Regional)
 
 ### 2014-2015
 
-- #73 Camargo (Clasificatorio)
-- #99 Los Fierros (Clasificatorio)
-- #204 TGO Insomnia (Clasificatorio)
+- #73 _Camargo_ (Clasificatorio)
+- #99 _Los Fierros_ (Clasificatorio)
+- #204 _TGO Insomnia_ (Clasificatorio)
 
 ### 2015-2016
 
-- #108 DMA (Clasificatorio)
-- #108 Los Sukulen (Clasificatorio)
-- #108 NextGen (Clasificatorio)
-- #108 Algoritmia (Clasificatorio)
-- #108 Develobabes (Clasificatorio)
-- #108 Pythonlovers (Clasificatorio)
+- #108 _Algoritmia_ (Clasificatorio)
+- #108 _DMA_ (Clasificatorio)
+- #108 _Develobabes_ (Clasificatorio)
+- #108 _Los Sukulen_ (Clasificatorio)
+- #108 _NextGen_ (Clasificatorio)
+- #108 _Pythonlovers_ (Clasificatorio)
 
 ### 2017-2018
 
-- #345 Calandria (Clasificatorio)
-- #405 Cardinal (Clasificatorio)
+- #345 _Calandria_ (Clasificatorio)
+- #405 _Cardinal_ (Clasificatorio)
 
 ### 2018-2019
 
-- #20 ViralBugSyndrome.exe (Regional)
-- #394 404 not found (Clasificatorio)
+- #20 _ViralBugSyndrome.exe_ (Regional)
+- #394 _404 not found_ (Clasificatorio)
 
 ### 2019-2020
 
-- #71 Galácticos 1 (Clasificatorio)
-- #191 Galácticos 2 (Clasificatorio)
-- #270 Galácticos 5 (Clasificatorio)
-- #339 Galácticos 3 (Clasificatorio)
+- #71 _Galácticos 1_ (Clasificatorio)
+- #191 _Galácticos 2_ (Clasificatorio)
+- #270 _Galácticos 5_ (Clasificatorio)
+- #339 _Galácticos 3_ (Clasificatorio)
 
 ### 2020-2021
 
-- #34 Tec GDL 10 (Regional)
-- #101 Tec GDL 3 (Clasificatorio)
-- #110 Tec GDL 4 (Clasificatorio)
-- #128 Tec GDL 5 (Clasificatorio)
-- #146 Tec GDL 6 (Clasificatorio)
-- #152 Tec GDL 8 (Clasificatorio)
-- #167 Tec GDL 1 (Clasificatorio)
-- #213 Tec GDL 17 (Clasificatorio)
-- #215 Tec GDL 9 (Clasificatorio)
-- #224 Tec GDL 16 (Clasificatorio)
-- #302 Tec GDL 15 (Clasificatorio)
-- #308 Tec GDL 2 (Clasificatorio)
-- #335 Tec GDL 14 (Clasificatorio)
-- #351 Tec GDL 11 (Clasificatorio)
-- #351 Tec GDL 12 (Clasificatorio)
-- #351 Tec GDL 7 (Clasificatorio)
+- #34 _Tec GDL 10_ (Regional)
+- #101 _Tec GDL 3_ (Clasificatorio)
+- #110 _Tec GDL 4_ (Clasificatorio)
+- #128 _Tec GDL 5_ (Clasificatorio)
+- #146 _Tec GDL 6_ (Clasificatorio)
+- #152 _Tec GDL 8_ (Clasificatorio)
+- #167 _Tec GDL 1_ (Clasificatorio)
+- #213 _Tec GDL 17_ (Clasificatorio)
+- #215 _Tec GDL 9_ (Clasificatorio)
+- #224 _Tec GDL 16_ (Clasificatorio)
+- #302 _Tec GDL 15_ (Clasificatorio)
+- #308 _Tec GDL 2_ (Clasificatorio)
+- #335 _Tec GDL 14_ (Clasificatorio)
+- #351 _Tec GDL 11_ (Clasificatorio)
+- #351 _Tec GDL 12_ (Clasificatorio)
+- #351 _Tec GDL 7_ (Clasificatorio)
 
 ### 2021-2022
 
-- #47 Tec GDL 6 (Regional)
-- #50 Los seguidores de Karel (Regional)
-- #64 Tec GDL 5 (Clasificatorio)
-- #69 Tec GDL 1 (Clasificatorio)
-- #131 Tec GDL 3 (Clasificatorio)
-- #176 Tec GDL 7 (Clasificatorio)
-- #222 Tec GDL 2 (Clasificatorio)
-- #226 Tec GDL 4 (Clasificatorio)
+- #47 _Tec GDL 6_ (Regional)
+- #50 _Los seguidores de Karel_ (Regional)
+- #64 _Tec GDL 5_ (Clasificatorio)
+- #69 _Tec GDL 1_ (Clasificatorio)
+- #131 _Tec GDL 3_ (Clasificatorio)
+- #176 _Tec GDL 7_ (Clasificatorio)
+- #222 _Tec GDL 2_ (Clasificatorio)
+- #226 _Tec GDL 4_ (Clasificatorio)
 
 ### 2022-2023
 
-- #8 Tsurus Tuneados (Clasificatorio)
-- #174 Java lieron (Clasificatorio)
+- #8 _Tsurus Tuneados_ (Clasificatorio)
+- #174 _Java lieron_ (Clasificatorio)
 
 
 

@@ -4,13 +4,13 @@
 
 ## Mejores 10 equipos
 
-1. _Deth-Therion_: resolvió 2 problemas y obtuvo el lugar #9 (92%) en The 2003 ACM Mexico and Central America Programming Contest
+1. _Deth-Therion_ resolvió 2 problemas y obtuvo el lugar #9 (92%) en The 2003 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 
 ### 2003-2004
 
-- #9 Deth-Therion (Regional)
+- #9 _Deth-Therion_ (Regional)
 
 
 

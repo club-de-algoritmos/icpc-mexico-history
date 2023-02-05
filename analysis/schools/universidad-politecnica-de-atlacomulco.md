@@ -4,13 +4,13 @@
 
 ## Mejores 10 equipos
 
-1. _UPA_: resolvió 0 problemas y obtuvo el lugar #95 (46%) en The 2013 Mexico & Central America Regional Contest
+1. _UPA_ resolvió 0 problemas y obtuvo el lugar #95 (46%) en The 2013 Mexico & Central America Regional Contest
 
 ## Participaciones
 
 ### 2013-2014
 
-- #95 UPA (Regional)
+- #95 _UPA_ (Regional)
 
 
 

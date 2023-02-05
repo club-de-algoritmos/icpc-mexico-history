@@ -91,6 +91,17 @@ class ContestType(str, Enum):
     CHAMPIONSHIP = 'championship'
     WORLD = 'world'
 
+    def title(self) -> str:
+        if self in [ContestType.PROGRAMMING_BATTLE, ContestType.GRAN_PREMIO]:
+            return 'Clasificatorio'
+        if self == ContestType.REGIONAL:
+            return 'Regional'
+        if self == ContestType.CHAMPIONSHIP:
+            return 'Campeonato'
+        if self == ContestType.WORLD:
+            return 'Final Mundial'
+        raise ValueError(f'Unknown contest type {self}')
+
 
 @dataclass_json
 @dataclass(frozen=True)

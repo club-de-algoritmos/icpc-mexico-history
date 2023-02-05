@@ -4,13 +4,13 @@
 
 ## Mejores 10 equipos
 
-1. _uax-t_: resolvió 0 problemas y obtuvo el lugar #41 (62%) en The 2003 ACM Mexico and Central America Programming Contest
+1. _uax-t_ resolvió 0 problemas y obtuvo el lugar #41 (62%) en The 2003 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 
 ### 2003-2004
 
-- #41 uax-t (Regional)
+- #41 _uax-t_ (Regional)
 
 
 

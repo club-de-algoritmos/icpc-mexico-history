@@ -4,15 +4,15 @@
 
 ## Mejores 10 equipos
 
-1. _Isla_: resolvió 0 problemas y obtuvo el lugar #116 (29%) en The 2009 Mexico & Central America Contest
-1. _Isla++_: resolvió 0 problemas y obtuvo el lugar #116 (29%) en The 2009 Mexico & Central America Contest
+1. _Isla_ resolvió 0 problemas y obtuvo el lugar #116 (29%) en The 2009 Mexico & Central America Contest
+1. _Isla++_ resolvió 0 problemas y obtuvo el lugar #116 (29%) en The 2009 Mexico & Central America Contest
 
 ## Participaciones
 
 ### 2009-2010
 
-- #116 Isla++ (Regional)
-- #116 Isla (Regional)
+- #116 _Isla_ (Regional)
+- #116 _Isla++_ (Regional)
 
 
 

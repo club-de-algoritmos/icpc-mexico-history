@@ -4,151 +4,151 @@
 
 ## Mejores 10 equipos
 
-1. _Pinky_Pie_: resolvió 3 problemas y obtuvo el lugar #28 (92%) en The 2015 ACM-ICPC Mexico and Central America Finals
-1. _AmI-UbiCom Cafe_: resolvió 10 problemas y obtuvo el lugar #73 (91%) en Gran Premio de Mexico 2018
-1. _JAVAlimos_: resolvió 5 problemas y obtuvo el lugar #140 (89%) en Gran Premio de Mexico 2019
-1. _Origins_: resolvió 5 problemas y obtuvo el lugar #143 (89%) en Gran Premio de Mexico 2019
-1. _AmIUbiCom-Rojo_: resolvió 8 problemas y obtuvo el lugar #78 (89%) en Gran Premio de Mexico & Centroamerica 2017
-1. _Shiny_: resolvió 4 problemas y obtuvo el lugar #149 (89%) en Gran Premio de Mexico 2019
-1. _AmI-UbiCom_: resolvió 2 problemas y obtuvo el lugar #79 (85%) en The 2016 ACM-ICPC Mexico and Central America Finals
-1. _System.GC_: resolvió 4 problemas y obtuvo el lugar #57 (82%) en Gran Premio de Mexico & Centroamerica
-1. _AmIUbiCom-Azul_: resolvió 5 problemas y obtuvo el lugar #122 (82%) en Gran Premio de Mexico & Centroamerica 2017
-1. _Ami-UbiCom_: resolvió 1 problemas y obtuvo el lugar #45 (82%) en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _Pinky_Pie_ resolvió 3 problemas y obtuvo el lugar #28 (92%) en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _JAVAlimos_ resolvió 5 problemas y obtuvo el lugar #140 (89%) en Gran Premio de Mexico 2019
+1. _Origins_ resolvió 5 problemas y obtuvo el lugar #143 (89%) en Gran Premio de Mexico 2019
+1. _Shiny_ resolvió 4 problemas y obtuvo el lugar #149 (88%) en Gran Premio de Mexico 2019
+1. _AmIUbiCom-Rojo_ resolvió 8 problemas y obtuvo el lugar #78 (88%) en Gran Premio de Mexico & Centroamerica 2017
+1. _AmI-UbiCom Cafe_ resolvió 10 problemas y obtuvo el lugar #73 (87%) en Gran Premio de Mexico 2018
+1. _AmI-UbiCom_ resolvió 2 problemas y obtuvo el lugar #79 (85%) en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _Ami-UbiCom_ resolvió 1 problemas y obtuvo el lugar #45 (82%) en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _System.GC_ resolvió 4 problemas y obtuvo el lugar #57 (82%) en Gran Premio de Mexico & Centroamerica
+1. _Ami-Ubicom Sorrynotfound_ resolvió 2 problemas y obtuvo el lugar #232 (82%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 
 ### 2001-2002
 
-- #31 UAM2S 3 (Regional)
-- #55 UAM2S 1 (Regional)
-- #55 UAM2S 2 (Regional)
+- #31 _UAM2S 3_ (Regional)
+- #55 _UAM2S 1_ (Regional)
+- #55 _UAM2S 2_ (Regional)
 
 ### 2005-2006
 
-- #85 UAT (Regional)
+- #85 _UAT_ (Regional)
 
 ### 2006-2007
 
-- #85 MDS (Regional)
+- #85 _MDS_ (Regional)
 
 ### 2012-2013
 
-- #108 Softluciones (Regional)
-- #111 Skynet (Regional)
-- #113 System.gc (Regional)
-- #131 IntsystXXI (Regional)
-- #134 Teamwork (Regional)
+- #108 _Softluciones_ (Regional)
+- #111 _Skynet_ (Regional)
+- #113 _System.gc_ (Regional)
+- #131 _IntsystXXI_ (Regional)
+- #134 _Teamwork_ (Regional)
 
 ### 2013-2014
 
-- #88 Ubicuo (Regional)
-- #95 InSyst (Regional)
-- #95 TeamWork (Regional)
-- #95 System.GC (Regional)
+- #88 _Ubicuo_ (Regional)
+- #95 _InSyst_ (Regional)
+- #95 _System.GC_ (Regional)
+- #95 _TeamWork_ (Regional)
 
 ### 2014-2015
 
-- #45 Ami-UbiCom (Regional)
-- #56 Pinki pie (Regional)
-- #96 Pinki Pie (Clasificatorio)
-- #185 Iluminati (Clasificatorio)
-- #204 JavaProg (Clasificatorio)
-- #204 Spiders (Clasificatorio)
-- #204 Sin apoyo (Clasificatorio)
+- #45 _Ami-UbiCom_ (Regional)
+- #56 _Pinki pie_ (Regional)
+- #96 _Pinki Pie_ (Clasificatorio)
+- #185 _Iluminati_ (Clasificatorio)
+- #204 _JavaProg_ (Clasificatorio)
+- #204 _Sin apoyo_ (Clasificatorio)
+- #204 _Spiders_ (Clasificatorio)
 
 ### 2015-2016
 
-- #28 Pinky_Pie (Regional)
-- #75 AmI-UbiCom (Regional)
-- #57 System.GC (Clasificatorio)
-- #59 Chip&Dale (Clasificatorio)
-- #108 TheCode (Clasificatorio)
-- #108 Sum41 (Clasificatorio)
-- #108 Byttes (Clasificatorio)
-- #108 MMA Team (Clasificatorio)
-- #108 F.A.S. (Clasificatorio)
-- #108 Los Jockers (Clasificatorio)
-- #108 SMF (Clasificatorio)
-- #108 WhileTrue (Clasificatorio)
-- #108 TeamWork (Clasificatorio)
+- #28 _Pinky_Pie_ (Regional)
+- #57 _System.GC_ (Clasificatorio)
+- #59 _Chip&Dale_ (Clasificatorio)
+- #75 _AmI-UbiCom_ (Regional)
+- #108 _Byttes_ (Clasificatorio)
+- #108 _F.A.S._ (Clasificatorio)
+- #108 _Los Jockers_ (Clasificatorio)
+- #108 _MMA Team_ (Clasificatorio)
+- #108 _SMF_ (Clasificatorio)
+- #108 _Sum41_ (Clasificatorio)
+- #108 _TeamWork_ (Clasificatorio)
+- #108 _TheCode_ (Clasificatorio)
+- #108 _WhileTrue_ (Clasificatorio)
 
 ### 2016-2017
 
-- #79 AmI-UbiCom (Regional)
-- #121 The masters (Clasificatorio)
-- #121 Apple Inc (Clasificatorio)
-- #121 Olivos Club 2.0 (Clasificatorio)
-- #121 Cuantic Niggaz (Clasificatorio)
-- #121 HSA (Clasificatorio)
-- #121 ChipAndDale (Clasificatorio)
-- #121 Thug Life (Clasificatorio)
-- #121 Babaloo (Clasificatorio)
-- #121 Los de Civil (Clasificatorio)
+- #79 _AmI-UbiCom_ (Regional)
+- #121 _Apple Inc_ (Clasificatorio)
+- #121 _Babaloo_ (Clasificatorio)
+- #121 _ChipAndDale_ (Clasificatorio)
+- #121 _Cuantic Niggaz_ (Clasificatorio)
+- #121 _HSA_ (Clasificatorio)
+- #121 _Los de Civil_ (Clasificatorio)
+- #121 _Olivos Club 2.0_ (Clasificatorio)
+- #121 _The masters_ (Clasificatorio)
+- #121 _Thug Life_ (Clasificatorio)
 
 ### 2017-2018
 
-- #78 AmIUbiCom-Rojo (Clasificatorio)
-- #122 AmIUbiCom-Azul (Clasificatorio)
-- #162 OriginsRequiem (Clasificatorio)
-- #169 ChipAndDale (Clasificatorio)
-- #221 Pixel (Clasificatorio)
-- #228 OlivosClub4_0 (Clasificatorio)
-- #258 60Aniversario (Clasificatorio)
-- #259 AmIUbiCom-Verde (Clasificatorio)
-- #379 Bbloo (Clasificatorio)
-- #405 AmIUbiCom-Naranja (Clasificatorio)
-- #405 Codenant (Clasificatorio)
-- #405 TheProgrammersLeague (Clasificatorio)
+- #78 _AmIUbiCom-Rojo_ (Clasificatorio)
+- #122 _AmIUbiCom-Azul_ (Clasificatorio)
+- #162 _OriginsRequiem_ (Clasificatorio)
+- #169 _ChipAndDale_ (Clasificatorio)
+- #221 _Pixel_ (Clasificatorio)
+- #228 _OlivosClub4_0_ (Clasificatorio)
+- #258 _60Aniversario_ (Clasificatorio)
+- #259 _AmIUbiCom-Verde_ (Clasificatorio)
+- #379 _Bbloo_ (Clasificatorio)
+- #405 _AmIUbiCom-Naranja_ (Clasificatorio)
+- #405 _Codenant_ (Clasificatorio)
+- #405 _TheProgrammersLeague_ (Clasificatorio)
 
 ### 2018-2019
 
-- #73 AmI-UbiCom Cafe (Clasificatorio)
-- #215 AmI-UbiCom Verde (Clasificatorio)
-- #227 Origins (Clasificatorio)
-- #243 AmI-UbiCom Rojo (Clasificatorio)
-- #258 Just Chilling (Clasificatorio)
-- #292 The null pointer's (Clasificatorio)
-- #315 JAVAlimos (Clasificatorio)
-- #341 Pixel (Clasificatorio)
-- #342 TSM (Clasificatorio)
-- #344 ChipAndDale (Clasificatorio)
-- #394 CodeUAT_ACM (Clasificatorio)
-- #394 CodeUAT_ACM_Plus (Clasificatorio)
-- #394 ImproTeam (Clasificatorio)
-- #394 Soso's Team (Clasificatorio)
-- #394 Team Rocket (Clasificatorio)
+- #73 _AmI-UbiCom Cafe_ (Clasificatorio)
+- #215 _AmI-UbiCom Verde_ (Clasificatorio)
+- #227 _Origins_ (Clasificatorio)
+- #243 _AmI-UbiCom Rojo_ (Clasificatorio)
+- #258 _Just Chilling_ (Clasificatorio)
+- #292 _The null pointer's_ (Clasificatorio)
+- #315 _JAVAlimos_ (Clasificatorio)
+- #341 _Pixel_ (Clasificatorio)
+- #342 _TSM_ (Clasificatorio)
+- #344 _ChipAndDale_ (Clasificatorio)
+- #394 _CodeUAT_ACM_ (Clasificatorio)
+- #394 _CodeUAT_ACM_Plus_ (Clasificatorio)
+- #394 _ImproTeam_ (Clasificatorio)
+- #394 _Soso's Team_ (Clasificatorio)
+- #394 _Team Rocket_ (Clasificatorio)
 
 ### 2019-2020
 
-- #140 JAVAlimos (Clasificatorio)
-- #143 Origins (Clasificatorio)
-- #149 Shiny (Clasificatorio)
-- #232 Ami-Ubicom Sorrynotfound (Clasificatorio)
-- #273 Chomsky (Clasificatorio)
-- #307 Team oty (Clasificatorio)
-- #309 Ami-UbiCom Rangers (Clasificatorio)
-- #321 Punto y Coma (Clasificatorio)
-- #333 The Phantom Thieves of Code (Clasificatorio)
-- #346 Team Omnicos (Clasificatorio)
-- #382 AmI-UbiCom Rangers (Clasificatorio)
-- #382 HagamosCodigoHuasteco (Clasificatorio)
-- #382 ADO (Clasificatorio)
-- #382 Arrays (Clasificatorio)
-- #382 TSM (Clasificatorio)
-- #382 Null Pointers (Clasificatorio)
-- #382 Los Furritos del Norte (Clasificatorio)
-- #382 AmI-UbiCom Sorrynotfound (Clasificatorio)
-- #382 Team mo (Clasificatorio)
-- #382 Tony's Team (Clasificatorio)
+- #140 _JAVAlimos_ (Clasificatorio)
+- #143 _Origins_ (Clasificatorio)
+- #149 _Shiny_ (Clasificatorio)
+- #232 _Ami-Ubicom Sorrynotfound_ (Clasificatorio)
+- #273 _Chomsky_ (Clasificatorio)
+- #307 _Team oty_ (Clasificatorio)
+- #309 _Ami-UbiCom Rangers_ (Clasificatorio)
+- #321 _Punto y Coma_ (Clasificatorio)
+- #333 _The Phantom Thieves of Code_ (Clasificatorio)
+- #346 _Team Omnicos_ (Clasificatorio)
+- #382 _ADO_ (Clasificatorio)
+- #382 _AmI-UbiCom Rangers_ (Clasificatorio)
+- #382 _AmI-UbiCom Sorrynotfound_ (Clasificatorio)
+- #382 _Arrays_ (Clasificatorio)
+- #382 _HagamosCodigoHuasteco_ (Clasificatorio)
+- #382 _Los Furritos del Norte_ (Clasificatorio)
+- #382 _Null Pointers_ (Clasificatorio)
+- #382 _TSM_ (Clasificatorio)
+- #382 _Team mo_ (Clasificatorio)
+- #382 _Tony's Team_ (Clasificatorio)
 
 ### 2022-2023
 
-- #187 Tiburoncin U AH! AH! (Clasificatorio)
-- #212 Pingüinos Loco (Clasificatorio)
-- #232 Juancho Software (Clasificatorio)
-- #301 For each (Clasificatorio)
-- #316 Castores media (Clasificatorio)
-- #334 Miramar raccoons (Clasificatorio)
+- #187 _Tiburoncin U AH! AH!_ (Clasificatorio)
+- #212 _Pingüinos Loco_ (Clasificatorio)
+- #232 _Juancho Software_ (Clasificatorio)
+- #301 _For each_ (Clasificatorio)
+- #316 _Castores media_ (Clasificatorio)
+- #334 _Miramar raccoons_ (Clasificatorio)
 
 
 

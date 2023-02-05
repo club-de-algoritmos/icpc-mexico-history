@@ -56,10 +56,10 @@ class Markdown:
         return self
 
     def bullet_point(self, text: str, indent: int = 0) -> None:
-        self._write_line(f'{" " * 2 * indent}- {text}')
+        self._write_line(f'{" " * 4 * indent}- {text}')
 
     def numbered_bullet_point(self, text: str, indent: int = 0) -> None:
-        self._write_line(f'{" " * 2 * indent}1. {text}')
+        self._write_line(f'{" " * 4 * indent}1. {text}')
 
     def collapsible(self, summary: str):
         self.context.append(MarkdownContext.COLLAPSIBLE)

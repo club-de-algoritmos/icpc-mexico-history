@@ -4,29 +4,29 @@
 
 ## Mejores 10 equipos
 
-1. _ganando.cpp_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
-1. _Delta ITAP_: resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _Luxury Programers _: resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _coyotes_: resolvió 0 problemas y obtuvo el lugar #85 (40%) en The 2005 ACM Mexico and Central America Programming Contest
-1. _itap_: resolvió 0 problemas y obtuvo el lugar #85 (40%) en The 2005 ACM Mexico and Central America Programming Contest
-1. _tecap_: resolvió 0 problemas y obtuvo el lugar #85 (40%) en The 2005 ACM Mexico and Central America Programming Contest
+1. _ganando.cpp_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Delta ITAP_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _Luxury Programers _ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _coyotes_ resolvió 0 problemas y obtuvo el lugar #85 (40%) en The 2005 ACM Mexico and Central America Programming Contest
+1. _itap_ resolvió 0 problemas y obtuvo el lugar #85 (40%) en The 2005 ACM Mexico and Central America Programming Contest
+1. _tecap_ resolvió 0 problemas y obtuvo el lugar #85 (40%) en The 2005 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 
 ### 2005-2006
 
-- #85 (#11 de TecNM) coyotes (Regional)
-- #85 (#11 de TecNM) itap (Regional)
-- #85 (#11 de TecNM) tecap (Regional)
+- #85 (#11 de TecNM) _coyotes_ (Regional)
+- #85 (#11 de TecNM) _itap_ (Regional)
+- #85 (#11 de TecNM) _tecap_ (Regional)
 
 ### 2019-2020
 
-- #382 (#98 de TecNM) ganando.cpp (Clasificatorio)
+- #382 (#98 de TecNM) _ganando.cpp_ (Clasificatorio)
 
 ### 2022-2023
 
-- #381 (#75 de TecNM) Luxury Programers  (Clasificatorio)
-- #381 (#75 de TecNM) Delta ITAP (Clasificatorio)
+- #381 (#75 de TecNM) _Delta ITAP_ (Clasificatorio)
+- #381 (#75 de TecNM) _Luxury Programers _ (Clasificatorio)
 
 
 

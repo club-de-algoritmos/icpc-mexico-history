@@ -4,15 +4,15 @@
 
 ## Mejores 10 equipos
 
-1. _AguilasIII_: resolvió 0 problemas y obtuvo el lugar #351 (51%) en Gran Premio de Mexico 2020
-1. _The Players_: resolvió 0 problemas y obtuvo el lugar #351 (51%) en Gran Premio de Mexico 2020
+1. _AguilasIII_ resolvió 0 problemas y obtuvo el lugar #351 (50%) en Gran Premio de Mexico 2020
+1. _The Players_ resolvió 0 problemas y obtuvo el lugar #351 (50%) en Gran Premio de Mexico 2020
 
 ## Participaciones
 
 ### 2020-2021
 
-- #351 (#65 de TecNM) AguilasIII (Clasificatorio)
-- #351 (#65 de TecNM) The Players (Clasificatorio)
+- #351 (#65 de TecNM) _AguilasIII_ (Clasificatorio)
+- #351 (#65 de TecNM) _The Players_ (Clasificatorio)
 
 
 

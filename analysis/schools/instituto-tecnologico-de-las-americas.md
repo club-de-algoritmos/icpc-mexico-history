@@ -4,13 +4,13 @@
 
 ## Mejores 10 equipos
 
-1. _ITLA_: resolvió 1 problemas y obtuvo el lugar #91 (44%) en The 2009 Mexico & Central America Contest
+1. _ITLA_ resolvió 1 problemas y obtuvo el lugar #91 (44%) en The 2009 Mexico & Central America Contest
 
 ## Participaciones
 
 ### 2009-2010
 
-- #91 (#21 de TecNM) ITLA (Regional)
+- #91 (#21 de TecNM) _ITLA_ (Regional)
 
 
 

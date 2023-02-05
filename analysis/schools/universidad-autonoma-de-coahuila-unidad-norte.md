@@ -4,39 +4,38 @@
 
 ## Mejores 10 equipos
 
-1. _Izipizi_: resolvió 2 problemas y obtuvo el lugar #236 (72%) en Gran Premio de Mexico 2018
-1. _Code Breakers_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
-1. _DJM_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
-1. _Los Potatoes 7.0_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
-1. _Puzzles_: resolvió 2 problemas y obtuvo el lugar #252 (70%) en Gran Premio de Mexico 2018
-1. _Code Breaker_: resolvió 3 problemas y obtuvo el lugar #225 (67%) en Gran Premio de Mexico & Centroamerica 2017
-1. _Puzzles_: resolvió 2 problemas y obtuvo el lugar #247 (64%) en Gran Premio de Mexico & Centroamerica 2017
-1. _Los potatoes 2.0_: resolvió 1 problemas y obtuvo el lugar #353 (58%) en Gran Premio de Mexico 2018
-1. _Lorem Ipsum_: resolvió 1 problemas y obtuvo el lugar #357 (48%) en Gran Premio de Mexico & Centroamerica 2017
-1. _Izipisi_: resolvió 1 problemas y obtuvo el lugar #400 (42%) en Gran Premio de Mexico & Centroamerica 2017
+1. _Code Breakers_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _DJM_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Los Potatoes 7.0_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Izipizi_ resolvió 2 problemas y obtuvo el lugar #236 (67%) en Gran Premio de Mexico 2018
+1. _Code Breaker_ resolvió 3 problemas y obtuvo el lugar #225 (66%) en Gran Premio de Mexico & Centroamerica 2017
+1. _Puzzles_ resolvió 2 problemas y obtuvo el lugar #252 (65%) en Gran Premio de Mexico 2018
+1. _Puzzles_ resolvió 2 problemas y obtuvo el lugar #247 (63%) en Gran Premio de Mexico & Centroamerica 2017
+1. _Los potatoes 2.0_ resolvió 1 problemas y obtuvo el lugar #353 (53%) en Gran Premio de Mexico 2018
+1. _Izipisi_ resolvió 1 problemas y obtuvo el lugar #400 (41%) en Gran Premio de Mexico & Centroamerica 2017
+1. _BlueLine_ resolvió 0 problemas y obtuvo el lugar #405 (40%) en Gran Premio de Mexico & Centroamerica 2017
 
 ## Participaciones
 
 ### 2017-2018
 
-- #225 Code Breaker (Clasificatorio)
-- #247 Puzzles (Clasificatorio)
-- #357 Lorem Ipsum (Clasificatorio)
-- #400 Izipisi (Clasificatorio)
-- #405 RedLine (Clasificatorio)
-- #405 BlueLine (Clasificatorio)
+- #225 _Code Breaker_ (Clasificatorio)
+- #247 _Puzzles_ (Clasificatorio)
+- #400 _Izipisi_ (Clasificatorio)
+- #405 _BlueLine_ (Clasificatorio)
+- #405 _RedLine_ (Clasificatorio)
 
 ### 2018-2019
 
-- #236 Izipizi (Clasificatorio)
-- #252 Puzzles (Clasificatorio)
-- #353 Los potatoes 2.0 (Clasificatorio)
+- #236 _Izipizi_ (Clasificatorio)
+- #252 _Puzzles_ (Clasificatorio)
+- #353 _Los potatoes 2.0_ (Clasificatorio)
 
 ### 2019-2020
 
-- #382 Los Potatoes 7.0 (Clasificatorio)
-- #382 Code Breakers (Clasificatorio)
-- #382 DJM (Clasificatorio)
+- #382 _Code Breakers_ (Clasificatorio)
+- #382 _DJM_ (Clasificatorio)
+- #382 _Los Potatoes 7.0_ (Clasificatorio)
 
 
 

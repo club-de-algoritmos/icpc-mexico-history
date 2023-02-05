@@ -4,64 +4,64 @@
 
 ## Mejores 10 equipos
 
-1. _ACMamo_: resolvió 13 problemas y obtuvo el lugar #19 (98%) en The 2022 ICPC Gran Premio de Mexico
-1. _Solo CUT_: resolvió 3 problemas y obtuvo el lugar #40 (95%) en The 2018 ICPC Mexico and Central America Finals
-1. _ACMamo_: resolvió 2 problemas y obtuvo el lugar #28 (95%) en The 2021 ICPC Mexico Finals
-1. _Tonaltecas_: resolvió 2 problemas y obtuvo el lugar #234 (82%) en Gran Premio de Mexico 2019
-1. _Code Miners_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
-1. _Huevitos_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
-1. _Roxana_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
-1. _VIRTUALCOD_: resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
-1. _Avengers Code_: resolvió 4 problemas y obtuvo el lugar #200 (76%) en Gran Premio de Mexico 2018
-1. _Axolotls_: resolvió None problemas y obtuvo el lugar #382 (71%) en Gran Premio de Mexico 2019
+1. _ACMamo_ resolvió 13 problemas y obtuvo el lugar #19 (98%) en The 2022 ICPC Gran Premio de Mexico
+1. _Solo CUT_ resolvió 3 problemas y obtuvo el lugar #40 (95%) en The 2018 ICPC Mexico and Central America Finals
+1. _ACMamo_ resolvió 2 problemas y obtuvo el lugar #28 (95%) en The 2021 ICPC Mexico Finals
+1. _Tonaltecas_ resolvió 2 problemas y obtuvo el lugar #234 (82%) en Gran Premio de Mexico 2019
+1. _Code Miners_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _Huevitos_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _Roxana_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _VIRTUALCOD_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _Avengers Code_ resolvió 4 problemas y obtuvo el lugar #200 (72%) en Gran Premio de Mexico 2018
+1. _Axolotls_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 
 ### 2016-2017
 
-- #121 VIRTUALCOD (Clasificatorio)
-- #121 Roxana (Clasificatorio)
-- #121 Huevitos (Clasificatorio)
-- #121 Code Miners (Clasificatorio)
+- #121 _Code Miners_ (Clasificatorio)
+- #121 _Huevitos_ (Clasificatorio)
+- #121 _Roxana_ (Clasificatorio)
+- #121 _VIRTUALCOD_ (Clasificatorio)
 
 ### 2017-2018
 
-- #235 Bubble Code (Clasificatorio)
-- #405 STARK (Clasificatorio)
-- #405 LOS PROCESADORES (Clasificatorio)
-- #405 Creation (Clasificatorio)
+- #235 _Bubble Code_ (Clasificatorio)
+- #405 _Creation_ (Clasificatorio)
+- #405 _LOS PROCESADORES_ (Clasificatorio)
+- #405 _STARK_ (Clasificatorio)
 
 ### 2018-2019
 
-- #40 Solo CUT (Regional)
-- #200 Avengers Code (Clasificatorio)
-- #328 Ñiam (Clasificatorio)
-- #372 Coders One (Clasificatorio)
-- #395 Quantum (Clasificatorio)
+- #40 _Solo CUT_ (Regional)
+- #200 _Avengers Code_ (Clasificatorio)
+- #328 _Ñiam_ (Clasificatorio)
+- #372 _Coders One_ (Clasificatorio)
+- #395 _Quantum_ (Clasificatorio)
 
 ### 2019-2020
 
-- #234 Tonaltecas (Clasificatorio)
-- #382 Axolotls (Clasificatorio)
-- #382 Team Copiador (Clasificatorio)
+- #234 _Tonaltecas_ (Clasificatorio)
+- #382 _Axolotls_ (Clasificatorio)
+- #382 _Team Copiador_ (Clasificatorio)
 
 ### 2021-2022
 
-- #28 ACMamo (Regional)
-- #209 Poros Programadores (Clasificatorio)
-- #226 MIRAI-CUT (Clasificatorio)
-- #226 Anonymus-Cut (Clasificatorio)
-- #226 3.1416tudos (Clasificatorio)
+- #28 _ACMamo_ (Regional)
+- #209 _Poros Programadores_ (Clasificatorio)
+- #226 _3.1416tudos_ (Clasificatorio)
+- #226 _Anonymus-Cut_ (Clasificatorio)
+- #226 _MIRAI-CUT_ (Clasificatorio)
 
 ### 2022-2023
 
-- #19 ACMamo (Clasificatorio)
-- #278 Se desbloquean celulares a domicilio (Clasificatorio)
-- #280 Los Caudillos (Clasificatorio)
-- #338 Ape Network (Clasificatorio)
-- #349 Carpincho (Clasificatorio)
-- #362 HackBoys (Clasificatorio)
-- #381 3.1416two2 (Clasificatorio)
+- #19 _ACMamo_ (Clasificatorio)
+- #278 _Se desbloquean celulares a domicilio_ (Clasificatorio)
+- #280 _Los Caudillos_ (Clasificatorio)
+- #338 _Ape Network_ (Clasificatorio)
+- #349 _Carpincho_ (Clasificatorio)
+- #362 _HackBoys_ (Clasificatorio)
+- #381 _3.1416two2_ (Clasificatorio)
 
 
 

@@ -4,13 +4,13 @@
 
 ## Mejores 10 equipos
 
-1. _Legión_: resolvió 7 problemas y obtuvo el lugar #153 (79%) en Gran Premio de Mexico 2020
+1. _Legión_ resolvió 7 problemas y obtuvo el lugar #153 (78%) en Gran Premio de Mexico 2020
 
 ## Participaciones
 
 ### 2020-2021
 
-- #153 Legión (Clasificatorio)
+- #153 _Legión_ (Clasificatorio)
 
 
 

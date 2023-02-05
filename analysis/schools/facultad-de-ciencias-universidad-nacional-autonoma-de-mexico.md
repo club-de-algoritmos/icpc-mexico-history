@@ -4,109 +4,109 @@
 
 ## Mejores 10 equipos
 
-1. _PU++_: resolvió 5 problemas y obtuvo el lugar #31 (78%) en 42nd Annual World Finals of the International Collegiate Programming Contest
-1. _PU++_: resolvió 3 problemas y obtuvo el lugar #57 (58%) en 41st Annual World Finals of the ACM International Collegiate Programming Contest
-1. _PumOMM_: resolvió 10 problemas y obtuvo el lugar #2 (100%) en The 2020 ICPC Mexico Finals
-1. _pu+os_: resolvió 6 problemas y obtuvo el lugar #4 (100%) en The 2019 ICPC Mexico Finals
-1. _Pumas+_: resolvió 19 problemas y obtuvo el lugar #9 (99%) en The 2022 ICPC Gran Premio de Mexico
-1. _UNAM Amada_: resolvió 7 problemas y obtuvo el lugar #9 (99%) en The 2018 ICPC Mexico and Central America Finals
-1. _Pumas+_: resolvió 4 problemas y obtuvo el lugar #15 (99%) en The 2019 ICPC Mexico Finals
-1. _Cagua++_: resolvió 16 problemas y obtuvo el lugar #11 (99%) en The 2022 ICPC Gran Premio de Mexico
-1. _pu++_: resolvió 5 problemas y obtuvo el lugar #5 (99%) en The 2015 ACM-ICPC Mexico and Central America Finals
-1. _EZLN_: resolvió 13 problemas y obtuvo el lugar #19 (99%) en Gran Premio de Mexico 2019
+1. _PU++_ resolvió 7 problemas y obtuvo el lugar #2 (100%) en The 2017 ACM-ICPC Mexico and Central America Finals
+    - Avanzó a la final mundial y resolvió 5 problemas y obtuvo el lugar #31 (78%) en 42nd Annual World Finals of the International Collegiate Programming Contest
+1. _PU++_ resolvió 8 problemas y obtuvo el lugar #1 (100%) en The 2016 ACM-ICPC Mexico and Central America Finals
+    - Avanzó a la final mundial y resolvió 3 problemas y obtuvo el lugar #57 (58%) en 41st Annual World Finals of the ACM International Collegiate Programming Contest
+1. _PumOMM_ resolvió 10 problemas y obtuvo el lugar #2 (100%) en The 2020 ICPC Mexico Finals
+1. _pu+os_ resolvió 6 problemas y obtuvo el lugar #4 (100%) en The 2019 ICPC Mexico Finals
+1. _Pumas+_ resolvió 19 problemas y obtuvo el lugar #9 (99%) en The 2022 ICPC Gran Premio de Mexico
+1. _UNAM Amada_ resolvió 7 problemas y obtuvo el lugar #9 (99%) en The 2018 ICPC Mexico and Central America Finals
+1. _Pumas+_ resolvió 4 problemas y obtuvo el lugar #15 (99%) en The 2019 ICPC Mexico Finals
+1. _Cagua++_ resolvió 16 problemas y obtuvo el lugar #11 (99%) en The 2022 ICPC Gran Premio de Mexico
+1. _pu++_ resolvió 5 problemas y obtuvo el lugar #5 (99%) en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _EZLN_ resolvió 13 problemas y obtuvo el lugar #19 (98%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 
 ### 2014-2015
 
-- #7 PU++ (Regional)
+- #7 _PU++_ (Regional)
 
 ### 2015-2016
 
-- #5 pu++ (Regional)
-- #14 pu++e2 (Regional)
+- #5 _pu++_ (Regional)
+- #14 _pu++e2_ (Regional)
 
 ### 2016-2017
 
-- #1 PU++ (Regional)
-  - Avanzó a la final mundial, donde resolvió 3 problemas
-- #113 ++PU (Clasificatorio)
+- #57 _PU++_ (Final Mundial)
+- #113 _++PU_ (Clasificatorio)
 
 ### 2017-2018
 
-- #2 PU++ (Regional)
-  - Avanzó a la final mundial, donde resolvió 5 problemas
-- #26 Los pythons (Regional)
-- #173 UNAM amada (Clasificatorio)
+- #31 _PU++_ (Final Mundial)
+- #26 _Los pythons_ (Regional)
+- #173 _UNAM amada_ (Clasificatorio)
 
 ### 2018-2019
 
-- #9 UNAM Amada (Regional)
-- #30 pu+turbo (Regional)
-- #54 PU++Turbo (Clasificatorio)
-- #75 PC (Clasificatorio)
-- #106 Pu++e 'n' (Clasificatorio)
-- #210 Vaquitas Marinas (Clasificatorio)
-- #272 While(true) (Clasificatorio)
+- #9 _UNAM Amada_ (Regional)
+- #30 _pu+turbo_ (Regional)
+- #54 _PU++Turbo_ (Clasificatorio)
+- #75 _PC_ (Clasificatorio)
+- #106 _Pu++e 'n'_ (Clasificatorio)
+- #210 _Vaquitas Marinas_ (Clasificatorio)
+- #272 _While(true)_ (Clasificatorio)
 
 ### 2019-2020
 
-- #4 pu+os (Regional)
-- #15 Pumas+ (Regional)
-- #19 EZLN (Clasificatorio)
-- #95 Pumitas (Clasificatorio)
-- #168 Solaristas (Clasificatorio)
-- #169 The Code Redemption (Clasificatorio)
-- #238 O(possum) (Clasificatorio)
-- #239 te ma+ (Clasificatorio)
-- #305 Los perezosos (Clasificatorio)
-- #348 Valhalla (Clasificatorio)
+- #4 _pu+os_ (Regional)
+- #15 _Pumas+_ (Regional)
+- #19 _EZLN_ (Clasificatorio)
+- #95 _Pumitas_ (Clasificatorio)
+- #168 _Solaristas_ (Clasificatorio)
+- #169 _The Code Redemption_ (Clasificatorio)
+- #238 _O(possum)_ (Clasificatorio)
+- #239 _te ma+_ (Clasificatorio)
+- #305 _Los perezosos_ (Clasificatorio)
+- #348 _Valhalla_ (Clasificatorio)
 
 ### 2020-2021
 
-- #2 PumOMM (Regional)
-- #20 Pumas+ (Regional)
-- #54 Chicas Superpoderosas (Regional)
-- #47 B.I.O.S (Clasificatorio)
-- #54 Predators (Clasificatorio)
-- #99 #include <victory.h> (Clasificatorio)
-- #102 Quarantined Code (Clasificatorio)
-- #109 Elementary, my dear Watson! (Clasificatorio)
-- #123 Valhalla (Clasificatorio)
-- #132 Javasonicos (Clasificatorio)
-- #144 EsteSiLesGusta?>:c (Clasificatorio)
-- #148 STC (Clasificatorio)
-- #228 PumaBytes (Clasificatorio)
-- #246 Script Cuántico (Clasificatorio)
-- #290 Luigi Vampa (Clasificatorio)
+- #2 _PumOMM_ (Regional)
+- #20 _Pumas+_ (Regional)
+- #47 _B.I.O.S_ (Clasificatorio)
+- #54 _Chicas Superpoderosas_ (Regional)
+- #54 _Predators_ (Clasificatorio)
+- #99 _#include <victory.h>_ (Clasificatorio)
+- #102 _Quarantined Code_ (Clasificatorio)
+- #109 _Elementary, my dear Watson!_ (Clasificatorio)
+- #123 _Valhalla_ (Clasificatorio)
+- #132 _Javasonicos_ (Clasificatorio)
+- #144 _EsteSiLesGusta?>:c_ (Clasificatorio)
+- #148 _STC_ (Clasificatorio)
+- #228 _PumaBytes_ (Clasificatorio)
+- #246 _Script Cuántico_ (Clasificatorio)
+- #290 _Luigi Vampa_ (Clasificatorio)
 
 ### 2021-2022
 
-- #11 Pumas+ (Regional)
-- #20 Dynamic Pumas (Regional)
-- #39 Brute force (Clasificatorio)
-- #46 DNA (Clasificatorio)
-- #72 BackendNeko (Clasificatorio)
-- #77 Chicas Superpoderosas (Clasificatorio)
-- #123 Valhalla (Clasificatorio)
-- #160 Los DEVastadores (Clasificatorio)
-- #217 Arcadian dream (Clasificatorio)
-- #226 DJL-001 (Clasificatorio)
-- #226 Predators (Clasificatorio)
+- #11 _Pumas+_ (Regional)
+- #20 _Dynamic Pumas_ (Regional)
+- #39 _Brute force_ (Clasificatorio)
+- #46 _DNA_ (Clasificatorio)
+- #72 _BackendNeko_ (Clasificatorio)
+- #77 _Chicas Superpoderosas_ (Clasificatorio)
+- #123 _Valhalla_ (Clasificatorio)
+- #160 _Los DEVastadores_ (Clasificatorio)
+- #217 _Arcadian dream_ (Clasificatorio)
+- #226 _DJL-001_ (Clasificatorio)
+- #226 _Predators_ (Clasificatorio)
 
 ### 2022-2023
 
-- #9 Pumas+ (Clasificatorio)
-- #11 Cagua++ (Clasificatorio)
-- #74 C++ Tangana (Clasificatorio)
-- #99 pu(-)^2 (Clasificatorio)
-- #125 Loading... (Clasificatorio)
-- #146 A de alpha (Clasificatorio)
-- #155 DNA (Clasificatorio)
-- #162 Dinocoders (Clasificatorio)
-- #260 Equipo 7 (Clasificatorio)
-- #291 O(Syntax Error) (Clasificatorio)
-- #344 Caos (Clasificatorio)
+- #9 _Pumas+_ (Clasificatorio)
+- #11 _Cagua++_ (Clasificatorio)
+- #74 _C++ Tangana_ (Clasificatorio)
+- #99 _pu(-)^2_ (Clasificatorio)
+- #125 _Loading..._ (Clasificatorio)
+- #146 _A de alpha_ (Clasificatorio)
+- #155 _DNA_ (Clasificatorio)
+- #162 _Dinocoders_ (Clasificatorio)
+- #260 _Equipo 7_ (Clasificatorio)
+- #291 _O(Syntax Error)_ (Clasificatorio)
+- #344 _Caos_ (Clasificatorio)
 
 
 

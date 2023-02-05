@@ -4,13 +4,13 @@
 
 ## Mejores 10 equipos
 
-1. _Granma_: resolvió 1 problemas y obtuvo el lugar #100 (39%) en The 2009 Mexico & Central America Contest
+1. _Granma_ resolvió 1 problemas y obtuvo el lugar #100 (39%) en The 2009 Mexico & Central America Contest
 
 ## Participaciones
 
 ### 2009-2010
 
-- #100 Granma (Regional)
+- #100 _Granma_ (Regional)
 
 
 

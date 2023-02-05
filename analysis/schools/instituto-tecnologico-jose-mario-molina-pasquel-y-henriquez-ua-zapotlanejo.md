@@ -4,17 +4,17 @@
 
 ## Mejores 10 equipos
 
-1. _ZapotlanejoInfo3_: resolvió 0 problemas y obtuvo el lugar #351 (51%) en Gran Premio de Mexico 2020
-1. _ZapotlanejoInfo5_: resolvió 0 problemas y obtuvo el lugar #351 (51%) en Gran Premio de Mexico 2020
-1. _ZapotlanejoInfo7_: resolvió 0 problemas y obtuvo el lugar #351 (51%) en Gran Premio de Mexico 2020
+1. _ZapotlanejoInfo3_ resolvió 0 problemas y obtuvo el lugar #351 (50%) en Gran Premio de Mexico 2020
+1. _ZapotlanejoInfo5_ resolvió 0 problemas y obtuvo el lugar #351 (50%) en Gran Premio de Mexico 2020
+1. _ZapotlanejoInfo7_ resolvió 0 problemas y obtuvo el lugar #351 (50%) en Gran Premio de Mexico 2020
 
 ## Participaciones
 
 ### 2020-2021
 
-- #351 (#65 de TecNM) ZapotlanejoInfo5 (Clasificatorio)
-- #351 (#65 de TecNM) ZapotlanejoInfo3 (Clasificatorio)
-- #351 (#65 de TecNM) ZapotlanejoInfo7 (Clasificatorio)
+- #351 (#65 de TecNM) _ZapotlanejoInfo3_ (Clasificatorio)
+- #351 (#65 de TecNM) _ZapotlanejoInfo5_ (Clasificatorio)
+- #351 (#65 de TecNM) _ZapotlanejoInfo7_ (Clasificatorio)
 
 
 

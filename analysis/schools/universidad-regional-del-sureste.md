@@ -4,13 +4,13 @@
 
 ## Mejores 10 equipos
 
-1. _BultosTeam_: resolvió 0 problemas y obtuvo el lugar #61 (59%) en The 2007 ACM Mexico and Central America Programming Contest
+1. _BultosTeam_ resolvió 0 problemas y obtuvo el lugar #61 (59%) en The 2007 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 
 ### 2007-2008
 
-- #61 BultosTeam (Regional)
+- #61 _BultosTeam_ (Regional)
 
 
 

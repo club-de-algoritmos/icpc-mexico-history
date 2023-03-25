@@ -36,7 +36,7 @@ class ContestSeason:
     year: int
     qualifier: Optional[FinishedContest]
     regional: Optional[FinishedContest]
-    world: Optional[FinishedContest]
+    worlds: List[FinishedContest]
     teams: List[RankedTeam]
 
     @property

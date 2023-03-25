@@ -122,6 +122,12 @@
 - #47 (#1 de México, resolvió None) E3 (Universidad de Guanajuato - DCNE)
 - #47 (#1 de México, resolvió None) UPsolving (Universidad Panamericana Campus Bonaterra)
 
+### 2019-2020 The ICPC World Finals Invitational Contest
+
+- #36 (#1 de México, resolvió 4) Norman is Hunting (Escuela Superior De Computo Instituto Politecnico Nacional)
+- #47 (#2 de México, resolvió 3) PU++ (Facultad de Ciencias-Universidad Nacional Autónoma de México)
+- #53 (#3 de México, resolvió 2) #define TriLCI(404.0) :v (Instituto Tecnológico Superior del Sur de Guanajuato, Tecnologico Nacional de Mexico)
+
 ### 2020-2021 45th Annual World Finals of the International Collegiate Programming Contest
 
 - #41 (#1 de México, resolvió 5) UPsolving (Universidad Panamericana Campus Bonaterra)
@@ -155,6 +161,7 @@
 1. _lA_Criba de ceros y unos_ (Escuela Superior De Computo Instituto Politecnico Nacional) resolvió 2 problemas y obtuvo el lugar #63 (54%) en 43rd Annual World Finals of the International Collegiate Programming Contest
 1. _Los Románticos_ (Instituto Tecnologico Autonomo De Mexico) resolvió 4 problemas y obtuvo el lugar #69 (46%) en 40th Annual World Finals of the ACM International Collegiate Programming Contest
 1. _AEI_ (Universidad Panamericana Campus Bonaterra) resolvió 2 problemas y obtuvo el lugar #76 (36%) en 37th Annual World Finals of the ACM International Collegiate Programming Contest
+1. _Norman is Hunting_ (Escuela Superior De Computo Instituto Politecnico Nacional) resolvió 4 problemas y obtuvo el lugar #36 (36%) en The ICPC World Finals Invitational Contest
 1. _U de G ACM Problem Solvers_ (Universidad De Guadalajara) resolvió 2 problemas y obtuvo el lugar #65 (35%) en The 2008 ACM Programming Contest World Finals
 1. _Hurones Pwneadores_ (Escuela Superior De Computo Instituto Politecnico Nacional) resolvió 1 problemas y obtuvo el lugar #80 (35%) en 38th Annual World Finals of the ACM International Collegiate Programming Contest
 1. _UTMixteca NONAME_ (Universidad Tecnologica De La Mixteca) resolvió 1 problemas y obtuvo el lugar #56 (33%) en The 2006 ACM Programming Contest World Finals
@@ -167,6 +174,7 @@
 1. _Escoolers_ (Escuela Superior De Computo Instituto Politecnico Nacional) resolvió 3 problemas y obtuvo el lugar #96 (25%) en 39th Annual World Finals of the ACM International Collegiate Programming Contest
 1. _Escoders_ (Escuela Superior De Computo Instituto Politecnico Nacional) resolvió 1 problemas y obtuvo el lugar #94 (21%) en 37th Annual World Finals of the ACM International Collegiate Programming Contest
 1. _HaKings_ (Itesm Campus Monterrey) resolvió 2 problemas y obtuvo el lugar #107 (17%) en 40th Annual World Finals of the ACM International Collegiate Programming Contest
+1. _PU++_ (Facultad De Ciencias-Universidad Nacional Autonoma De Mexico) resolvió 3 problemas y obtuvo el lugar #47 (16%) en The ICPC World Finals Invitational Contest
 1. _U de las Americas_ (Universidad De Las Americas-Puebla) resolvió 1 problemas y obtuvo el lugar #53 (15%) en The 1999 ACM Programming Contest World Finals
 1. _Peludos_ (Universidad Autonoma De Aguascalientes) resolvió 2 problemas y obtuvo el lugar #110 (14%) en 39th Annual World Finals of the ACM International Collegiate Programming Contest
 1. _BUA de Puebla - Los Alfalfas_ (Benemerita Universidad Autonoma De Puebla) resolvió 2 problemas y obtuvo el lugar #69 (12%) en The 2005 ACM Programming Contest World Finals
@@ -175,6 +183,7 @@
 1. _ITESM ProZac_ (Itesm Campus Monterrey) resolvió 1 problemas y obtuvo el lugar #56 (10%) en The 1999 ACM Programming Contest World Finals
 1. _SWART_ (Itesm Campus Monterrey) resolvió 1 problemas y obtuvo el lugar #59 (8%) en The 2001 ACM Programming Contest World Finals
 1. _Locos_ (Itesm Campus Monterrey) resolvió 1 problemas y obtuvo el lugar #121 (6%) en 39th Annual World Finals of the ACM International Collegiate Programming Contest
+1. _#define TriLCI(404.0) :v_ (Instituto Tecnologico Superior Del Sur De Guanajuato) resolvió 2 problemas y obtuvo el lugar #53 (5%) en The ICPC World Finals Invitational Contest
 1. _UTMixteca Poor Dogs_ (Universidad Tecnologica De La Mixteca) resolvió 1 problemas y obtuvo el lugar #74 (5%) en The 2005 ACM Programming Contest World Finals
 
 

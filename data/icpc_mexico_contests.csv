@@ -46,6 +46,7 @@ year,date,type,url_id,name,id,comments
 2019,2019-01-01,gran_premio,mcapgp-2019,Gran Premio de Mexico 2019,4242,
 2019,2019-11-08,regional,Mexico-2019,The 2019 ICPC Mexico Finals,4241,México se separa de centroamérica.
 2019,2021-10-01,world,World-Finals-2020,44th Annual World Finals of the International Collegiate Programming Contest,3980,
+2019,2021-10-01,world,Invitational-2020,The ICPC World Finals Invitational Contest,5235,
 2020,2020-01-01,gran_premio,mcapgp-2020,Gran Premio de Mexico 2020,4480,
 2020,2021-07-10,regional,Mexico-2020,The 2020 ICPC Mexico Finals,4479,
 2020,2022-11-06,world,World-Finals-2021,45th Annual World Finals of the International Collegiate Programming Contest,4298,

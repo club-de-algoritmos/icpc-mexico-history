@@ -22,6 +22,10 @@
 
 - #63 (#1 de México, resolvió 2) #define TriLCI(404.0) :v (Instituto Tecnológico Superior del Sur de Guanajuato)
 
+### 2019-2020 The ICPC World Finals Invitational Contest
+
+- #53 (#3 de México, resolvió 2) #define TriLCI(404.0) :v (Instituto Tecnológico Superior del Sur de Guanajuato)
+
 
 ## Mejores 5 en el regional de México
 

@@ -35,7 +35,6 @@
 - #37 _ProgramaLovers_ (Regional)
 - #47 _Las neuronas_ (Regional)
 - #98 _Los pixies_ (Clasificatorio)
-- #114 _404_ (Clasificatorio)
 - #163 _Los diamancos_ (Clasificatorio)
 - #175 _Las chicas superpoderosas_ (Clasificatorio)
 - #251 _Los Purepechas_ (Clasificatorio)

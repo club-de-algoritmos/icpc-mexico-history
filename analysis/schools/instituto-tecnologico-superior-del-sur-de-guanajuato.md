@@ -7,6 +7,7 @@
 1. _#define TriLCI(404.0) :v_ resolvió 8 problemas y obtuvo el lugar #4 (100%) en The 2018 ICPC Mexico and Central America Finals
     - Avanzó a la final mundial y resolvió 2 problemas y obtuvo el lugar #63 (54%) en 43rd Annual World Finals of the International Collegiate Programming Contest
 1. _#define TriLCI(404.0) :v_ resolvió 6 problemas y obtuvo el lugar #3 (100%) en The 2019 ICPC Mexico Finals
+    - Avanzó a la final mundial y resolvió 2 problemas y obtuvo el lugar #53 (5%) en The ICPC World Finals Invitational Contest
 1. _define TriLCI 404_ resolvió 5 problemas y obtuvo el lugar #8 (99%) en The 2017 ACM-ICPC Mexico and Central America Finals
 1. _Hugs for Bugs_ resolvió 3 problemas y obtuvo el lugar #19 (98%) en The 2022 ICPC Mexico Finals
 1. _Javamonos_ resolvió 3 problemas y obtuvo el lugar #20 (98%) en The 2022 ICPC Mexico Finals
@@ -131,7 +132,7 @@
 
 ### 2019-2020
 
-- #3 (#1 de TecNM) _#define TriLCI(404.0) :v_ (Regional)
+- #53 (#1 de TecNM) _#define TriLCI(404.0) :v_ (Final Mundial)
 - #24 (#3 de TecNM) _Another Day, another AC_ (Regional)
 - #57 (#6 de TecNM) _Mutant Primates_ (Clasificatorio)
 - #60 (#7 de TecNM) _THE GAME_ (Clasificatorio)

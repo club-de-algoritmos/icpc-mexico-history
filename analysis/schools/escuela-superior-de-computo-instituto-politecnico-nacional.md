@@ -6,6 +6,8 @@
 
 1. _lA_Criba de ceros y unos_ resolvió 8 problemas y obtuvo el lugar #2 (100%) en The 2018 ICPC Mexico and Central America Finals
     - Avanzó a la final mundial y resolvió 2 problemas y obtuvo el lugar #63 (54%) en 43rd Annual World Finals of the International Collegiate Programming Contest
+1. _Norman is Hunting_ resolvió 9 problemas y obtuvo el lugar #1 (100%) en The 2019 ICPC Mexico Finals
+    - Avanzó a la final mundial y resolvió 4 problemas y obtuvo el lugar #36 (36%) en The ICPC World Finals Invitational Contest
 1. _Hurones Pwneadores_ resolvió 5 problemas y obtuvo el lugar #1 (100%) en The 2013 Mexico & Central America Regional Contest
     - Avanzó a la final mundial y resolvió 1 problemas y obtuvo el lugar #80 (35%) en 38th Annual World Finals of the ACM International Collegiate Programming Contest
 1. _La Carabina del AC_ resolvió 7 problemas y obtuvo el lugar #1 (100%) en The 2015 ACM-ICPC Mexico and Central America Finals
@@ -14,7 +16,6 @@
     - Avanzó a la final mundial y resolvió 3 problemas y obtuvo el lugar #96 (25%) en 39th Annual World Finals of the ACM International Collegiate Programming Contest
 1. _Escoders_ resolvió 5 problemas y obtuvo el lugar #1 (100%) en The 2012 Mexico & Central America Regional Contest
     - Avanzó a la final mundial y resolvió 1 problemas y obtuvo el lugar #94 (21%) en 37th Annual World Finals of the ACM International Collegiate Programming Contest
-1. _Norman is Hunting_ resolvió 9 problemas y obtuvo el lugar #1 (100%) en The 2019 ICPC Mexico Finals
 1. _Chilaquiles con pollo_ resolvió 5 problemas y obtuvo el lugar #1 (100%) en The 2021 ICPC Mexico Finals
 1. _Exceso de Fé_ resolvió 6 problemas y obtuvo el lugar #4 (100%) en The 2022 ICPC Mexico Finals
 1. _Error: "Team Name" not defined_ resolvió 6 problemas y obtuvo el lugar #7 (100%) en The 2019 ICPC Mexico Finals
@@ -182,7 +183,7 @@
 
 ### 2019-2020
 
-- #1 _Norman is Hunting_ (Regional)
+- #36 _Norman is Hunting_ (Final Mundial)
 - #7 _Error: "Team Name" not defined_ (Regional)
 - #16 _404.Globito Not Found_ (Regional)
 - #28 _Last Chance_ (Clasificatorio)

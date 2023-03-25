@@ -123,23 +123,39 @@ class Queries:
         for year, contests in contests_by_year.items():
             qualifier = None
             regional = None
-            world = None
+            worlds = []
             for contest in contests:
                 if contest.type in [ContestType.GRAN_PREMIO, ContestType.PROGRAMMING_BATTLE]:
+                    if qualifier is not None:
+                        raise Exception(f'Found two contests with the same type ({contest.type}):'
+                                        f' {qualifier} and {contest}')
                     qualifier = contest
                 elif contest.type == ContestType.REGIONAL:
+                    if regional is not None:
+                        raise Exception(f'Found two contests with the same type ({contest.type}):'
+                                        f' {regional} and {contest}')
                     regional = contest
                 elif contest.type == ContestType.WORLD:
-                    world = contest
+                    worlds.append(contest)
                 else:
                     raise ValueError(f'Unexpected type {contest.type} of contest {contest.name}')
 
+            # TODO: Create a SeasonTeamResult dataclass
             results_by_team_name: Dict[str, List[Optional[ExtendedTeamResult]]] = defaultdict(lambda: 3 * [None])
-            for i, contest in enumerate([world, regional, qualifier]):
+            for contest in (worlds + [regional, qualifier]):
                 if not contest:
                     continue
+                if contest in worlds:
+                    contest_index = 0
+                elif contest == regional:
+                    contest_index = 1
+                elif contest == qualifier:
+                    contest_index = 2
+                else:
+                    raise Exception(f'Unexpected contest {contest}')
+
                 for team_result in contest.team_results:
-                    results_by_team_name[team_result.name][i] = ExtendedTeamResult(
+                    results_by_team_name[team_result.name][contest_index] = ExtendedTeamResult(
                         team_result=team_result, contest=contest)
 
             regional_teams = {result.name for result in regional.team_results} if regional else set()
@@ -175,7 +191,7 @@ class Queries:
 
             teams.sort(key=_sort_ranked_team)
 
-            seasons.append(ContestSeason(year=year, qualifier=qualifier, regional=regional, world=world, teams=teams))
+            seasons.append(ContestSeason(year=year, qualifier=qualifier, regional=regional, worlds=worlds, teams=teams))
 
         return seasons
 

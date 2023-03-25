@@ -60,7 +60,6 @@
 - #382 (#98 de TecNM) _Los Acrobáticos_ (Clasificatorio)
 - #382 (#98 de TecNM) _Los Nova_ (Clasificatorio)
 - #382 (#98 de TecNM) _Los bichos 7_ (Clasificatorio)
-- #382 (#98 de TecNM) _NULL_ (Clasificatorio)
 - #382 (#98 de TecNM) _PECESESES_ (Clasificatorio)
 
 ### 2020-2021

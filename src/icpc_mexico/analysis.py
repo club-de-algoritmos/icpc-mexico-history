@@ -31,18 +31,15 @@ class Analyzer:
             with markdown.section('Resultados de México en el ICPC'):
                 with markdown.section('Final Mundial'):
                     for season in self._queries.contest_seasons:
-                        contest = season.world
-                        if not contest:
-                            continue
-
-                        with markdown.section(contest.description()):
-                            for team in contest.team_results:
-                                if team.country != MEXICO:
-                                    continue
-                                community_desc = f', {team.community}' if team.community else ''
-                                markdown.bullet_point(f'#{team.rank} (#{team.country_rank} de México, '
-                                                      f'resolvió {team.problems_solved})'
-                                                      f' {team.name} ({team.institution}{community_desc})')
+                        for contest in season.worlds:
+                            with markdown.section(contest.description()):
+                                for team in contest.team_results:
+                                    if team.country != MEXICO:
+                                        continue
+                                    community_desc = f', {team.community}' if team.community else ''
+                                    markdown.bullet_point(f'#{team.rank} (#{team.country_rank} de México, '
+                                                          f'resolvió {team.problems_solved})'
+                                                          f' {team.name} ({team.institution}{community_desc})')
 
                 honorable_teams: List[RankedTeam] = []
                 high_teams: List[RankedTeam] = []

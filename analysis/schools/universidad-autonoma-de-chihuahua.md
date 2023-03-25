@@ -8,12 +8,12 @@
 1. _Are ya winning son?_ resolvió 4 problemas y obtuvo el lugar #25 (97%) en The 2020 ICPC Mexico Finals
 1. _PatodaLaVida_ resolvió 2 problemas y obtuvo el lugar #34 (97%) en The 2019 ICPC Mexico Finals
 1. _3Loko_ resolvió 4 problemas y obtuvo el lugar #27 (96%) en The 2020 ICPC Mexico Finals
+1. _Wajakos_ resolvió 2 problemas y obtuvo el lugar #40 (96%) en The 2022 ICPC Mexico Finals
 1. _3Loko_ resolvió 1 problemas y obtuvo el lugar #49 (96%) en The 2019 ICPC Mexico Finals
 1. _PatodaLaVida_ resolvió 3 problemas y obtuvo el lugar #26 (95%) en The 2021 ICPC Mexico Finals
-1. _Wajakos_ resolvió 10 problemas y obtuvo el lugar #50 (95%) en The 2022 ICPC Gran Premio de Mexico
 1. _QuesadillasLlevanQueso_ resolvió 8 problemas y obtuvo el lugar #76 (94%) en Gran Premio de Mexico 2019
-1. _Cruz Azul_ resolvió 8 problemas y obtuvo el lugar #79 (91%) en The 2022 ICPC Gran Premio de Mexico
-1. _Wajakos_ resolvió 0 problemas y obtuvo el lugar #50 (90%) en The 2021 ICPC Mexico Finals
+1. _Cruz Azul_ resolvió 8 problemas y obtuvo el lugar #79 (92%) en The 2022 ICPC Gran Premio de Mexico
+1. _GlobalProgramming_ resolvió 6 problemas y obtuvo el lugar #97 (91%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -54,7 +54,7 @@
 
 ### 2022-2023
 
-- #50 _Wajakos_ (Clasificatorio)
+- #40 _Wajakos_ (Regional)
 - #79 _Cruz Azul_ (Clasificatorio)
 - #97 _GlobalProgramming_ (Clasificatorio)
 - #128 _RTNGS_ (Clasificatorio)

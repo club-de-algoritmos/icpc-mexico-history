@@ -6,14 +6,14 @@
 
 1. _Los Mininos_ resolvió 2 problemas y obtuvo el lugar #52 (69%) en The 2012 Mexico & Central America Regional Contest
 1. _Javeros_ resolvió 2 problemas y obtuvo el lugar #52 (68%) en The 2011 Mexico & Central America Regional Contest
+1. _Dev Wild Cats_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Lombax TEAM_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Los Confucios_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Program_Ar_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Program_As_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Tech Savvy_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _Felinos del ITSF_ resolvió 0 problemas y obtuvo el lugar #61 (59%) en The 2007 ACM Mexico and Central America Programming Contest
 1. _Gatos del ITSF_ resolvió 0 problemas y obtuvo el lugar #61 (59%) en The 2007 ACM Mexico and Central America Programming Contest
-1. _Dev Wild Cats_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _Lombax TEAM_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _Los Confucios_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _Program_Ar_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _Program_As_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _Tech Savvy_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -49,12 +49,12 @@
 
 ### 2022-2023
 
-- #381 (#75 de TecNM) _Dev Wild Cats_ (Clasificatorio)
-- #381 (#75 de TecNM) _Lombax TEAM_ (Clasificatorio)
-- #381 (#75 de TecNM) _Los Confucios_ (Clasificatorio)
-- #381 (#75 de TecNM) _Program_Ar_ (Clasificatorio)
-- #381 (#75 de TecNM) _Program_As_ (Clasificatorio)
-- #381 (#75 de TecNM) _Tech Savvy_ (Clasificatorio)
+- #382 (#82 de TecNM) _Dev Wild Cats_ (Clasificatorio)
+- #382 (#82 de TecNM) _Lombax TEAM_ (Clasificatorio)
+- #382 (#82 de TecNM) _Los Confucios_ (Clasificatorio)
+- #382 (#82 de TecNM) _Program_Ar_ (Clasificatorio)
+- #382 (#82 de TecNM) _Program_As_ (Clasificatorio)
+- #382 (#82 de TecNM) _Tech Savvy_ (Clasificatorio)
 
 
 

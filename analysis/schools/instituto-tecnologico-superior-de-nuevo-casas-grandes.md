@@ -4,11 +4,11 @@
 
 ## Mejores 10 equipos
 
+1. _.jar_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _BinaryFox_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Kim Ten_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _NavBros _ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _BinaryFox_ resolvió 2 problemas y obtuvo el lugar #297 (58%) en Gran Premio de Mexico 2020
-1. _.jar_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _BinaryFox_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _Kim Ten_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _NavBros _ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
 1. _ITSNCG_ resolvió 0 problemas y obtuvo el lugar #226 (53%) en The 2021 ICPC Gran Premio de Mexico
 1. _Capuchino Team_ resolvió 0 problemas y obtuvo el lugar #351 (50%) en Gran Premio de Mexico 2020
 1. _Tacos_ resolvió 0 problemas y obtuvo el lugar #351 (50%) en Gran Premio de Mexico 2020
@@ -27,10 +27,10 @@
 
 ### 2022-2023
 
-- #381 (#75 de TecNM) _.jar_ (Clasificatorio)
-- #381 (#75 de TecNM) _BinaryFox_ (Clasificatorio)
-- #381 (#75 de TecNM) _Kim Ten_ (Clasificatorio)
-- #381 (#75 de TecNM) _NavBros _ (Clasificatorio)
+- #382 (#82 de TecNM) _.jar_ (Clasificatorio)
+- #382 (#82 de TecNM) _BinaryFox_ (Clasificatorio)
+- #382 (#82 de TecNM) _Kim Ten_ (Clasificatorio)
+- #382 (#82 de TecNM) _NavBros _ (Clasificatorio)
 
 
 

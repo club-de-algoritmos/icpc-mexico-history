@@ -12,8 +12,8 @@
 1. _COSTA9_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _Por la anecdota_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _COSTA2_ resolvió 2 problemas y obtuvo el lugar #249 (66%) en Gran Premio de Mexico 2018
-1. _CLM_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _Dream Team_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _CLM_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Dream Team_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -56,10 +56,10 @@
 
 ### 2022-2023
 
-- #381 _CLM_ (Clasificatorio)
-- #381 _Dream Team_ (Clasificatorio)
-- #381 _HTTPS_ (Clasificatorio)
-- #381 _Los "Hola Mundo";_ (Clasificatorio)
+- #382 _CLM_ (Clasificatorio)
+- #382 _Dream Team_ (Clasificatorio)
+- #382 _HTTPS_ (Clasificatorio)
+- #382 _Los "Hola Mundo";_ (Clasificatorio)
 
 
 

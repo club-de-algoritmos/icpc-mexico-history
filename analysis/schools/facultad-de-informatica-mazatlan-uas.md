@@ -4,7 +4,7 @@
 
 ## Mejores 10 equipos
 
-1. _FIMAZ_ resolvió 2 problemas y obtuvo el lugar #267 (71%) en The 2022 ICPC Gran Premio de Mexico
+1. _FIMAZ_ resolvió 2 problemas y obtuvo el lugar #267 (75%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 

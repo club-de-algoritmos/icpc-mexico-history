@@ -4,7 +4,7 @@
 
 ## Mejores 10 equipos
 
-1. _ACMamo_ resolvió 13 problemas y obtuvo el lugar #19 (98%) en The 2022 ICPC Gran Premio de Mexico
+1. _ACMamo_ resolvió 3 problemas y obtuvo el lugar #26 (98%) en The 2022 ICPC Mexico Finals
 1. _ACMamo_ resolvió 2 problemas y obtuvo el lugar #28 (95%) en The 2021 ICPC Mexico Finals
 1. _Solo CUT_ resolvió 3 problemas y obtuvo el lugar #40 (95%) en The 2018 ICPC Mexico and Central America Finals
 1. _Tonaltecas_ resolvió 2 problemas y obtuvo el lugar #234 (82%) en Gran Premio de Mexico 2019
@@ -12,8 +12,8 @@
 1. _Huevitos_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
 1. _Roxana_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
 1. _VIRTUALCOD_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
-1. _Avengers Code_ resolvió 4 problemas y obtuvo el lugar #200 (72%) en Gran Premio de Mexico 2018
-1. _Axolotls_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Se desbloquean celulares a domicilio_ resolvió 2 problemas y obtuvo el lugar #278 (74%) en The 2022 ICPC Gran Premio de Mexico
+1. _Los Caudillos_ resolvió 2 problemas y obtuvo el lugar #280 (73%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -55,13 +55,14 @@
 
 ### 2022-2023
 
-- #19 _ACMamo_ (Clasificatorio)
+- #26 _ACMamo_ (Regional)
 - #278 _Se desbloquean celulares a domicilio_ (Clasificatorio)
 - #280 _Los Caudillos_ (Clasificatorio)
+- #282 _Cenaduría Doña Chuy_ (Clasificatorio)
 - #338 _Ape Network_ (Clasificatorio)
 - #349 _Carpincho_ (Clasificatorio)
 - #362 _HackBoys_ (Clasificatorio)
-- #381 _3.1416two2_ (Clasificatorio)
+- #382 _3.1416two2_ (Clasificatorio)
 
 
 

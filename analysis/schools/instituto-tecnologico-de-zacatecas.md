@@ -12,8 +12,8 @@
 1. _Mapache 2_ resolvió 0 problemas y obtuvo el lugar #27 (72%) en The 2002 ACM Mexico and Central America Programming Contest
 1. _A.M. Turing ITZ_ resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
 1. _Jhon McCarthy ITZ_ resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
-1. _Mapaches2_ resolvió 1 problemas y obtuvo el lugar #30 (63%) en The 2001 ACM Mexico and Central America Programming Contest
-1. _Mapache1_ resolvió 0 problemas y obtuvo el lugar #41 (62%) en The 2003 ACM Mexico and Central America Programming Contest
+1. _Raccoons_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _TecCode_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -75,8 +75,8 @@
 
 ### 2022-2023
 
-- #381 (#75 de TecNM) _Raccoons_ (Clasificatorio)
-- #381 (#75 de TecNM) _TecCode_ (Clasificatorio)
+- #382 (#82 de TecNM) _Raccoons_ (Clasificatorio)
+- #382 (#82 de TecNM) _TecCode_ (Clasificatorio)
 
 
 

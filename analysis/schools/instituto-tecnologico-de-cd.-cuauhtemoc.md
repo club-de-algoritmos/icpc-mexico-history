@@ -9,11 +9,11 @@
 1. _CimCoders_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _Los Binarios_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _CIMARRON  ZEN_ resolvió 1 problemas y obtuvo el lugar #155 (68%) en The 2021 ICPC Gran Premio de Mexico
-1. _CJL Programmers_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _HW_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _JJM_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _Semi N_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _ShadowCoders_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _CJL Programmers_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _HW_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _JJM_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Semi N_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _ShadowCoders_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -38,12 +38,12 @@
 
 ### 2022-2023
 
-- #381 (#75 de TecNM) _CJL Programmers_ (Clasificatorio)
-- #381 (#75 de TecNM) _HW_ (Clasificatorio)
-- #381 (#75 de TecNM) _JJM_ (Clasificatorio)
-- #381 (#75 de TecNM) _Semi N_ (Clasificatorio)
-- #381 (#75 de TecNM) _ShadowCoders_ (Clasificatorio)
-- #381 (#75 de TecNM) _Supreme_ (Clasificatorio)
+- #382 (#82 de TecNM) _CJL Programmers_ (Clasificatorio)
+- #382 (#82 de TecNM) _HW_ (Clasificatorio)
+- #382 (#82 de TecNM) _JJM_ (Clasificatorio)
+- #382 (#82 de TecNM) _Semi N_ (Clasificatorio)
+- #382 (#82 de TecNM) _ShadowCoders_ (Clasificatorio)
+- #382 (#82 de TecNM) _Supreme_ (Clasificatorio)
 
 
 

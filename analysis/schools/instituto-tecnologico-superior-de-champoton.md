@@ -4,11 +4,11 @@
 
 ## Mejores 10 equipos
 
-1. _Error 401_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _ITESCHAM Coders_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _TECISIC_5A_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _TECISIC_B_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _Tech It Out ITESCHAM_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _Error 401_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _ITESCHAM Coders_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _TECISIC_5A_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _TECISIC_B_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Tech It Out ITESCHAM_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _ITESCHAM Coders_ resolvió 0 problemas y obtuvo el lugar #226 (53%) en The 2021 ICPC Gran Premio de Mexico
 
 ## Participaciones
@@ -19,11 +19,11 @@
 
 ### 2022-2023
 
-- #381 (#75 de TecNM) _Error 401_ (Clasificatorio)
-- #381 (#75 de TecNM) _ITESCHAM Coders_ (Clasificatorio)
-- #381 (#75 de TecNM) _TECISIC_5A_ (Clasificatorio)
-- #381 (#75 de TecNM) _TECISIC_B_ (Clasificatorio)
-- #381 (#75 de TecNM) _Tech It Out ITESCHAM_ (Clasificatorio)
+- #382 (#82 de TecNM) _Error 401_ (Clasificatorio)
+- #382 (#82 de TecNM) _ITESCHAM Coders_ (Clasificatorio)
+- #382 (#82 de TecNM) _TECISIC_5A_ (Clasificatorio)
+- #382 (#82 de TecNM) _TECISIC_B_ (Clasificatorio)
+- #382 (#82 de TecNM) _Tech It Out ITESCHAM_ (Clasificatorio)
 
 
 

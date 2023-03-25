@@ -6,11 +6,11 @@
     - Avanzó a la final mundial y resolvió 3 problemas y obtuvo el lugar #49 (52%) en 33rd Annual World Finals of the ACM International Collegiate Programming Contest
 1. _ITC Turing Machines_ (Instituto Tecnologico De Culiacan) resolvió 5 problemas y obtuvo el lugar #3 (99%) en The 2007 ACM Mexico and Central America Programming Contest
     - Avanzó a la final mundial y resolvió 0 problemas y obtuvo el lugar #90 (10%) en The 2008 ACM Programming Contest World Finals
+1. _Ludus G++_ (Instituto Tecnologico De Culiacan) resolvió 4 problemas y obtuvo el lugar #14 (99%) en The 2022 ICPC Mexico Finals
 1. _MTY01_ (Itesm Campus Mazatlan) resolvió 5 problemas y obtuvo el lugar #4 (98%) en The 2005 ACM Mexico and Central America Programming Contest
 1. _los punteros_ (Itesm Campus Mazatlan) resolvió 4 problemas y obtuvo el lugar #6 (97%) en The 2007 ACM Mexico and Central America Programming Contest
 1. _JRA_ (Instituto Tecnologico De Culiacan) resolvió 5 problemas y obtuvo el lugar #9 (97%) en The 2014 ACM-ICPC Mexico and Central America Finals
 1. _MTY1_ (Itesm Campus Mazatlan) resolvió 4 problemas y obtuvo el lugar #5 (96%) en The 2004 ACM Mexico and Central America Programming Contest
-1. _Ludus G++_ (Instituto Tecnologico De Culiacan) resolvió 12 problemas y obtuvo el lugar #39 (96%) en The 2022 ICPC Gran Premio de Mexico
 1. _javaglets_ (Itesm Campus Mazatlan) resolvió 3 problemas y obtuvo el lugar #8 (95%) en The 2005 ACM Mexico and Central America Programming Contest
 1. _Campus Mazatlán_ (Itesm Campus Mazatlan) resolvió 2 problemas y obtuvo el lugar #7 (93%) en The 2002 ACM Mexico and Central America Programming Contest
 1. _Sapphire_ (Itesm Campus Mazatlan) resolvió 3 problemas y obtuvo el lugar #11 (93%) en The 2005 ACM Mexico and Central America Programming Contest
@@ -173,7 +173,7 @@
 
 ### 2022-2023
 
-- #39 _Ludus G++_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+- #14 _Ludus G++_ (Instituto Tecnologico De Culiacan) (Regional)
 - #93 _Hijos de Honor_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
 - #108 _Nexus_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
 - #110 _Team Belico_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
@@ -185,8 +185,9 @@
 - #222 _Los tilines insanos_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
 - #227 _New Legacy_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
 - #267 _FIMAZ_ (Facultad De Informatica Mazatlan Uas) (Clasificatorio)
-- #381 _El Pariente Technologies_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
-- #381 _Hog Riders_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
+- #382 _El Pariente Technologies_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
+- #382 _Hog Riders_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
+- #382 _SeatWorks_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
 
 
 

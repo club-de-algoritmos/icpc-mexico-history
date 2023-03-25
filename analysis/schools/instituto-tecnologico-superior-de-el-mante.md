@@ -122,20 +122,20 @@
 
 ### 2022-2023
 
-- #263 (#45 de TecNM) _Los tilines_ (Clasificatorio)
-- #360 (#65 de TecNM) _The switch_ (Clasificatorio)
-- #370 (#67 de TecNM) _Onda Software 2.0_ (Clasificatorio)
-- #381 (#75 de TecNM) _Abandona2_ (Clasificatorio)
-- #381 (#75 de TecNM) _Cococoat Team_ (Clasificatorio)
-- #381 (#75 de TecNM) _DinoTec_ (Clasificatorio)
-- #381 (#75 de TecNM) _Engene_ (Clasificatorio)
-- #381 (#75 de TecNM) _Equipo Pushi_ (Clasificatorio)
-- #381 (#75 de TecNM) _Equipo Rivera_ (Clasificatorio)
-- #381 (#75 de TecNM) _Flaming Hot_ (Clasificatorio)
-- #381 (#75 de TecNM) _Index out of bounds_ (Clasificatorio)
-- #381 (#75 de TecNM) _Los Fibonacci_ (Clasificatorio)
-- #381 (#75 de TecNM) _Malvaviscos_ (Clasificatorio)
-- #381 (#75 de TecNM) _TilinesSUS_ (Clasificatorio)
+- #263 (#47 de TecNM) _Los tilines_ (Clasificatorio)
+- #360 (#70 de TecNM) _The switch_ (Clasificatorio)
+- #370 (#73 de TecNM) _Onda Software 2.0_ (Clasificatorio)
+- #382 (#82 de TecNM) _Abandona2_ (Clasificatorio)
+- #382 (#82 de TecNM) _Cococoat Team_ (Clasificatorio)
+- #382 (#82 de TecNM) _DinoTec_ (Clasificatorio)
+- #382 (#82 de TecNM) _Engene_ (Clasificatorio)
+- #382 (#82 de TecNM) _Equipo Pushi_ (Clasificatorio)
+- #382 (#82 de TecNM) _Equipo Rivera_ (Clasificatorio)
+- #382 (#82 de TecNM) _Flaming Hot_ (Clasificatorio)
+- #382 (#82 de TecNM) _Index out of bounds_ (Clasificatorio)
+- #382 (#82 de TecNM) _Los Fibonacci_ (Clasificatorio)
+- #382 (#82 de TecNM) _Malvaviscos_ (Clasificatorio)
+- #382 (#82 de TecNM) _TilinesSUS_ (Clasificatorio)
 
 
 

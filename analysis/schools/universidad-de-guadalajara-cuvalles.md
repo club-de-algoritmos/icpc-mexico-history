@@ -6,14 +6,14 @@
 
 1. _La Tribu_ resolvió 6 problemas y obtuvo el lugar #82 (94%) en Gran Premio de Mexico 2019
 1. _La Tribu_ resolvió 2 problemas y obtuvo el lugar #66 (92%) en The 2018 ICPC Mexico and Central America Finals
-1. _Cuvalles_ resolvió 6 problemas y obtuvo el lugar #104 (89%) en The 2022 ICPC Gran Premio de Mexico
+1. _Cuvalles_ resolvió 6 problemas y obtuvo el lugar #104 (90%) en The 2022 ICPC Gran Premio de Mexico
+1. _Valles.py_ resolvió 5 problemas y obtuvo el lugar #130 (88%) en The 2022 ICPC Gran Premio de Mexico
 1. _Connectia_ resolvió 4 problemas y obtuvo el lugar #156 (88%) en Gran Premio de Mexico 2019
-1. _Programamistas_ resolvió 5 problemas y obtuvo el lugar #138 (85%) en The 2022 ICPC Gran Premio de Mexico
+1. _Programamistas_ resolvió 5 problemas y obtuvo el lugar #138 (87%) en The 2022 ICPC Gran Premio de Mexico
 1. _Team Warriors_ resolvió 3 problemas y obtuvo el lugar #203 (84%) en Gran Premio de Mexico 2019
 1. _Alpha & Omega_ resolvió 3 problemas y obtuvo el lugar #155 (77%) en Gran Premio de Mexico 2018
 1. _Alpha & Omega_ resolvió 1 problemas y obtuvo el lugar #302 (77%) en Gran Premio de Mexico 2019
 1. _The Noobs_ resolvió 1 problemas y obtuvo el lugar #313 (76%) en Gran Premio de Mexico 2019
-1. _Noobs_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 
@@ -76,6 +76,7 @@
 ### 2022-2023
 
 - #104 _Cuvalles_ (Clasificatorio)
+- #130 _Valles.py_ (Clasificatorio)
 - #138 _Programamistas_ (Clasificatorio)
 
 

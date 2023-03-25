@@ -13,7 +13,7 @@
 1. _Fenix_CUSUR_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _Evil Machine_ resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
 1. _Skyline_ resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
-1. _Evilmachine_ resolvió 3 problemas y obtuvo el lugar #272 (61%) en Gran Premio de Mexico 2020
+1. _BWT combinados_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -62,7 +62,9 @@
 
 ### 2022-2023
 
-- #381 _BWT combinados_ (Clasificatorio)
+- #382 _BWT combinados_ (Clasificatorio)
+- #382 _ERROR 404_ (Clasificatorio)
+- #382 _ITEL TEAM_ (Clasificatorio)
 
 
 

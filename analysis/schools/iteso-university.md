@@ -8,12 +8,12 @@
 1. _ACRUX_ resolvió 4 problemas y obtuvo el lugar #6 (96%) en The 2004 ACM Mexico and Central America Programming Contest
 1. _KDT_ resolvió 2 problemas y obtuvo el lugar #30 (96%) en The 2017 ACM-ICPC Mexico and Central America Finals
 1. _KDT_ resolvió 3 problemas y obtuvo el lugar #35 (96%) en The 2018 ICPC Mexico and Central America Finals
+1. _Los colados_ resolvió 1 problemas y obtuvo el lugar #43 (96%) en The 2022 ICPC Mexico Finals
 1. _Code Dream_ resolvió 4 problemas y obtuvo el lugar #9 (95%) en The 2008 Mexico & Central America Contest
+1. _Hijos de Piza 5_ resolvió 1 problemas y obtuvo el lugar #49 (95%) en The 2022 ICPC Mexico Finals
+1. _Red Squadron_ resolvió 1 problemas y obtuvo el lugar #50 (95%) en The 2022 ICPC Mexico Finals
 1. _ACRUX_ resolvió 3 problemas y obtuvo el lugar #7 (94%) en The 2003 ACM Mexico and Central America Programming Contest
 1. _LOL_ resolvió 4 problemas y obtuvo el lugar #13 (94%) en The 2010 Mexico & Central America Regional Contest
-1. _MachineGuns_ resolvió 1 problemas y obtuvo el lugar #56 (92%) en The 2017 ACM-ICPC Mexico and Central America Finals
-1. _Olimpicos_ resolvió 3 problemas y obtuvo el lugar #21 (90%) en The 2010 Mexico & Central America Regional Contest
-1. _LOL_ resolvió 3 problemas y obtuvo el lugar #19 (89%) en The 2008 Mexico & Central America Contest
 
 ## Participaciones
 
@@ -793,7 +793,17 @@
 
 ### 2022-2023
 
+- #43 _Los colados_ (Regional)
+- #49 _Hijos de Piza 5_ (Regional)
+- #50 _Red Squadron_ (Regional)
 - #197 _Minions the rise of code_ (Clasificatorio)
+- #247 _Hijos de Piza 3_ (Clasificatorio)
+- #283 _Hijos de Piza 4_ (Clasificatorio)
+- #297 _Hijos de Piza 1_ (Clasificatorio)
+- #325 _team rocket_ (Clasificatorio)
+- #355 _Hijos de Piza 2_ (Clasificatorio)
+- #382 _Err("Team not found")_ (Clasificatorio)
+- #382 _pydudes_ (Clasificatorio)
 
 
 

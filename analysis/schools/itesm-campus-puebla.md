@@ -119,8 +119,10 @@
 - #270 _Equipo_Progra4_ (Clasificatorio)
 - #304 _Robotics.py_ (Clasificatorio)
 - #364 _Ionicos_ (Clasificatorio)
-- #381 _Ajolotes_ (Clasificatorio)
-- #381 _Patos de Hule_ (Clasificatorio)
+- #382 _Ajolotes_ (Clasificatorio)
+- #382 _MonkiTeam_ (Clasificatorio)
+- #382 _Patos de Hule_ (Clasificatorio)
+- #382 _TecByters.cpp_ (Clasificatorio)
 
 
 

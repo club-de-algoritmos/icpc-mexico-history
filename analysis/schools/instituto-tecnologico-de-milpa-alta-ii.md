@@ -11,9 +11,9 @@
 1. _Los Mapiposis_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _Mexican Power_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _XForce_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _AMATERASU_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _ANONIMUS ITMAII_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _CYBERCODES_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _AMATERASU_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _ANONIMUS ITMAII_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _CYBERCODES_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -29,13 +29,13 @@
 
 ### 2022-2023
 
-- #381 (#75 de TecNM) _AMATERASU_ (Clasificatorio)
-- #381 (#75 de TecNM) _ANONIMUS ITMAII_ (Clasificatorio)
-- #381 (#75 de TecNM) _CYBERCODES_ (Clasificatorio)
-- #381 (#75 de TecNM) _FSOCIETY_ (Clasificatorio)
-- #381 (#75 de TecNM) _Python Beta_ (Clasificatorio)
-- #381 (#75 de TecNM) _TOBITETEAMPLAYER M1_ (Clasificatorio)
-- #381 (#75 de TecNM) _XZUNUN_ (Clasificatorio)
+- #382 (#82 de TecNM) _AMATERASU_ (Clasificatorio)
+- #382 (#82 de TecNM) _ANONIMUS ITMAII_ (Clasificatorio)
+- #382 (#82 de TecNM) _CYBERCODES_ (Clasificatorio)
+- #382 (#82 de TecNM) _FSOCIETY_ (Clasificatorio)
+- #382 (#82 de TecNM) _Python Beta_ (Clasificatorio)
+- #382 (#82 de TecNM) _TOBITETEAMPLAYER M1_ (Clasificatorio)
+- #382 (#82 de TecNM) _XZUNUN_ (Clasificatorio)
 
 
 

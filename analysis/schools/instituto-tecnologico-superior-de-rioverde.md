@@ -11,9 +11,9 @@
 1. _Lynx Team_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _Mister robot_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _Tec Developers_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Beta_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _Bytes_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _Empty_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _Beta_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Bytes_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Empty_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -36,11 +36,11 @@
 
 ### 2022-2023
 
-- #381 (#75 de TecNM) _Beta_ (Clasificatorio)
-- #381 (#75 de TecNM) _Bytes_ (Clasificatorio)
-- #381 (#75 de TecNM) _Empty_ (Clasificatorio)
-- #381 (#75 de TecNM) _Inge's_ (Clasificatorio)
-- #381 (#75 de TecNM) _Lisdexia_ (Clasificatorio)
+- #382 (#82 de TecNM) _Beta_ (Clasificatorio)
+- #382 (#82 de TecNM) _Bytes_ (Clasificatorio)
+- #382 (#82 de TecNM) _Empty_ (Clasificatorio)
+- #382 (#82 de TecNM) _Inge's_ (Clasificatorio)
+- #382 (#82 de TecNM) _Lisdexia_ (Clasificatorio)
 
 
 

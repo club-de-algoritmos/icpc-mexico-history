@@ -82,14 +82,15 @@
 
 ### 2022-2023
 
-- #381 (#75 de TecNM) _Las .rawr_ (Clasificatorio)
-- #381 (#75 de TecNM) _PDM_ (Clasificatorio)
-- #381 (#75 de TecNM) _Pirate Code_ (Clasificatorio)
-- #381 (#75 de TecNM) _RAM.Team_ (Clasificatorio)
-- #381 (#75 de TecNM) _Ranas ITESG_ (Clasificatorio)
-- #381 (#75 de TecNM) _The UNIXS_ (Clasificatorio)
-- #381 (#75 de TecNM) _Virtuous_ (Clasificatorio)
-- #381 (#75 de TecNM) _White Hat_ (Clasificatorio)
+- #382 (#82 de TecNM) _Las .rawr_ (Clasificatorio)
+- #382 (#82 de TecNM) _PDM_ (Clasificatorio)
+- #382 (#82 de TecNM) _Pirate Code_ (Clasificatorio)
+- #382 (#82 de TecNM) _RAM.Team_ (Clasificatorio)
+- #382 (#82 de TecNM) _Ranas ITESG_ (Clasificatorio)
+- #382 (#82 de TecNM) _The UNIXS_ (Clasificatorio)
+- #382 (#82 de TecNM) _Virtuous_ (Clasificatorio)
+- #382 (#82 de TecNM) _White Hat_ (Clasificatorio)
+- #382 (#82 de TecNM) _big boys_ (Clasificatorio)
 
 
 

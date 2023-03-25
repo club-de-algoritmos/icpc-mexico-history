@@ -8,12 +8,12 @@
 1. _TecCuautla3_ resolvió 1 problemas y obtuvo el lugar #34 (69%) en The 2003 ACM Mexico and Central America Programming Contest
 1. _TecCuautla1_ resolvió 1 problemas y obtuvo el lugar #37 (66%) en The 2003 ACM Mexico and Central America Programming Contest
 1. _TecCuautla2_ resolvió 1 problemas y obtuvo el lugar #29 (65%) en The 2001 ACM Mexico and Central America Programming Contest
-1. _Success_ resolvió 2 problemas y obtuvo el lugar #60 (63%) en The 2011 Mexico & Central America Regional Contest
-1. _TecCuautla2_ resolvió 0 problemas y obtuvo el lugar #41 (62%) en The 2003 ACM Mexico and Central America Programming Contest
-1. _Success_ resolvió 2 problemas y obtuvo el lugar #80 (60%) en The 2010 Mexico & Central America Regional Contest
-1. _TecCuautla1_ resolvió 1 problemas y obtuvo el lugar #34 (58%) en The 2001 ACM Mexico and Central America Programming Contest
-1. _>TeamNameGoesHere<_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _Apple_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _>TeamNameGoesHere<_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Apple_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _CHILAQUILES CIBERNETICOS_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Creepers_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _DRAGON CREW_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Devil Corp_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -57,16 +57,21 @@
 
 ### 2022-2023
 
-- #381 (#75 de TecNM) _>TeamNameGoesHere<_ (Clasificatorio)
-- #381 (#75 de TecNM) _Apple_ (Clasificatorio)
-- #381 (#75 de TecNM) _CHILAQUILES CIBERNETICOS_ (Clasificatorio)
-- #381 (#75 de TecNM) _Creepers_ (Clasificatorio)
-- #381 (#75 de TecNM) _DRAGON CREW_ (Clasificatorio)
-- #381 (#75 de TecNM) _Devil Corp_ (Clasificatorio)
-- #381 (#75 de TecNM) _Guerreros Z_ (Clasificatorio)
-- #381 (#75 de TecNM) _Hello World_ (Clasificatorio)
-- #381 (#75 de TecNM) _Titanes Aztecas_ (Clasificatorio)
-- #381 (#75 de TecNM) _Warr10rs_ (Clasificatorio)
+- #382 (#82 de TecNM) _>TeamNameGoesHere<_ (Clasificatorio)
+- #382 (#82 de TecNM) _Apple_ (Clasificatorio)
+- #382 (#82 de TecNM) _CHILAQUILES CIBERNETICOS_ (Clasificatorio)
+- #382 (#82 de TecNM) _Creepers_ (Clasificatorio)
+- #382 (#82 de TecNM) _DRAGON CREW_ (Clasificatorio)
+- #382 (#82 de TecNM) _Devil Corp_ (Clasificatorio)
+- #382 (#82 de TecNM) _Guerreros Z_ (Clasificatorio)
+- #382 (#82 de TecNM) _Hello World_ (Clasificatorio)
+- #382 (#82 de TecNM) _Pastelitos_ (Clasificatorio)
+- #382 (#82 de TecNM) _Pequeños Programadores_ (Clasificatorio)
+- #382 (#82 de TecNM) _Programers_ (Clasificatorio)
+- #382 (#82 de TecNM) _ROBERT'S_ (Clasificatorio)
+- #382 (#82 de TecNM) _Team Chimichanga_ (Clasificatorio)
+- #382 (#82 de TecNM) _Titanes Aztecas_ (Clasificatorio)
+- #382 (#82 de TecNM) _Warr10rs_ (Clasificatorio)
 
 
 

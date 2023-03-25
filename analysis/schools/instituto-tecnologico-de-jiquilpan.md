@@ -4,9 +4,9 @@
 
 ## Mejores 10 equipos
 
-1. _Halcones-ISIC-1_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _Halcones-ISIC-2_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _Halcones-ISIC-3_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _Halcones-ISIC-1_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Halcones-ISIC-2_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Halcones-ISIC-3_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _HalconesJiq_ resolvió 0 problemas y obtuvo el lugar #351 (50%) en Gran Premio de Mexico 2020
 1. _Anonimos ITJ_ resolvió 0 problemas y obtuvo el lugar #395 (48%) en Gran Premio de Mexico 2018
 1. _Black and White_ resolvió 0 problemas y obtuvo el lugar #395 (48%) en Gran Premio de Mexico 2018
@@ -37,9 +37,9 @@
 
 ### 2022-2023
 
-- #381 (#75 de TecNM) _Halcones-ISIC-1_ (Clasificatorio)
-- #381 (#75 de TecNM) _Halcones-ISIC-2_ (Clasificatorio)
-- #381 (#75 de TecNM) _Halcones-ISIC-3_ (Clasificatorio)
+- #382 (#82 de TecNM) _Halcones-ISIC-1_ (Clasificatorio)
+- #382 (#82 de TecNM) _Halcones-ISIC-2_ (Clasificatorio)
+- #382 (#82 de TecNM) _Halcones-ISIC-3_ (Clasificatorio)
 
 
 

@@ -4,7 +4,7 @@
 
 ## Mejores 10 equipos
 
-1. _TecnoTeam_ resolvió 4 problemas y obtuvo el lugar #178 (80%) en The 2022 ICPC Gran Premio de Mexico
+1. _TecnoTeam_ resolvió 4 problemas y obtuvo el lugar #178 (83%) en The 2022 ICPC Gran Premio de Mexico
 1. _2+1_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _3BT_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _Astoreth_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
@@ -39,12 +39,14 @@
 
 ### 2022-2023
 
-- #178 (#30 de TecNM) _TecnoTeam_ (Clasificatorio)
-- #381 (#75 de TecNM) _El Trio Mortal_ (Clasificatorio)
-- #381 (#75 de TecNM) _GMT_ (Clasificatorio)
-- #381 (#75 de TecNM) _MJ2_ (Clasificatorio)
-- #381 (#75 de TecNM) _Red Unida_ (Clasificatorio)
-- #381 (#75 de TecNM) _TPK_ (Clasificatorio)
+- #178 (#31 de TecNM) _TecnoTeam_ (Clasificatorio)
+- #382 (#82 de TecNM) _ALA_ (Clasificatorio)
+- #382 (#82 de TecNM) _El Trio Mortal_ (Clasificatorio)
+- #382 (#82 de TecNM) _GMT_ (Clasificatorio)
+- #382 (#82 de TecNM) _MJ2_ (Clasificatorio)
+- #382 (#82 de TecNM) _Net.Beaners.JV_ (Clasificatorio)
+- #382 (#82 de TecNM) _Red Unida_ (Clasificatorio)
+- #382 (#82 de TecNM) _TPK_ (Clasificatorio)
 
 
 

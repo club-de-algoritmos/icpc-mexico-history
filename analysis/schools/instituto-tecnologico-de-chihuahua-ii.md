@@ -4,13 +4,15 @@
 
 ## Mejores 10 equipos
 
-1. _BisontesLocos_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _BisontesLocos_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Geek Warriors_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
 ### 2022-2023
 
-- #381 (#75 de TecNM) _BisontesLocos_ (Clasificatorio)
+- #382 (#82 de TecNM) _BisontesLocos_ (Clasificatorio)
+- #382 (#82 de TecNM) _Geek Warriors_ (Clasificatorio)
 
 
 

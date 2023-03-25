@@ -17,7 +17,7 @@
 1. _Los románticos_ resolvió 6 problemas y obtuvo el lugar #4 (99%) en The 2014 ACM-ICPC Mexico and Central America Finals
 1. _Coachella++_ resolvió 5 problemas y obtuvo el lugar #9 (99%) en The 2020 ICPC Mexico Finals
 1. _Einsteam_ resolvió 5 problemas y obtuvo el lugar #9 (99%) en The 2017 ACM-ICPC Mexico and Central America Finals
-1. _Silicon Strikers_ resolvió 11 problemas y obtuvo el lugar #21 (98%) en The 2022 ICPC Gran Premio de Mexico
+1. _Silicon Strikers_ resolvió 2 problemas y obtuvo el lugar #31 (97%) en The 2022 ICPC Mexico Finals
 
 ## Participaciones
 
@@ -121,7 +121,7 @@
 
 ### 2022-2023
 
-- #21 _Silicon Strikers_ (Clasificatorio)
+- #31 _Silicon Strikers_ (Regional)
 - #208 _IXES_ (Clasificatorio)
 - #285 _#include<bits/tumbados++.h>_ (Clasificatorio)
 

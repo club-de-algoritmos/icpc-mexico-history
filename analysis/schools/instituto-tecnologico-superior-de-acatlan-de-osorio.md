@@ -7,13 +7,13 @@
 1. _0&1_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _JAV_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _Jovenes_Itsao_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _DESPLAZADOS_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _Gios_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _Iguanas22_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _NiñasProgramando_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _PRIMERISOS_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _We_Need_Coffee_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _Compu_coding_ resolvió 0 problemas y obtuvo el lugar #226 (53%) en The 2021 ICPC Gran Premio de Mexico
+1. _DESPLAZADOS_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Gios_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _IGUANAS_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Iguanas22_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _NiñasProgramando_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _PRIMERISOS_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _We_Need_Coffee_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -43,12 +43,13 @@
 
 ### 2022-2023
 
-- #381 (#75 de TecNM) _DESPLAZADOS_ (Clasificatorio)
-- #381 (#75 de TecNM) _Gios_ (Clasificatorio)
-- #381 (#75 de TecNM) _Iguanas22_ (Clasificatorio)
-- #381 (#75 de TecNM) _NiñasProgramando_ (Clasificatorio)
-- #381 (#75 de TecNM) _PRIMERISOS_ (Clasificatorio)
-- #381 (#75 de TecNM) _We_Need_Coffee_ (Clasificatorio)
+- #382 (#82 de TecNM) _DESPLAZADOS_ (Clasificatorio)
+- #382 (#82 de TecNM) _Gios_ (Clasificatorio)
+- #382 (#82 de TecNM) _IGUANAS_ (Clasificatorio)
+- #382 (#82 de TecNM) _Iguanas22_ (Clasificatorio)
+- #382 (#82 de TecNM) _NiñasProgramando_ (Clasificatorio)
+- #382 (#82 de TecNM) _PRIMERISOS_ (Clasificatorio)
+- #382 (#82 de TecNM) _We_Need_Coffee_ (Clasificatorio)
 
 
 

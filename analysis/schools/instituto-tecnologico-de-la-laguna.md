@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _EspantaBugs_ resolvió 8 problemas y obtuvo el lugar #41 (96%) en The 2022 ICPC Gran Premio de Mexico
+1. _EspantaBugs_ resolvió 2 problemas y obtuvo el lugar #37 (97%) en The 2022 ICPC Mexico Finals
 1. _ITLN_ resolvió 7 problemas y obtuvo el lugar #101 (92%) en Gran Premio de Mexico 2019
 1. _ITLN_ resolvió 6 problemas y obtuvo el lugar #105 (84%) en Gran Premio de Mexico & Centroamerica 2017
+1. _VectorRaptor's_ resolvió 4 problemas y obtuvo el lugar #171 (84%) en The 2022 ICPC Gran Premio de Mexico
+1. _DinamitaTeam_ resolvió 4 problemas y obtuvo el lugar #173 (84%) en The 2022 ICPC Gran Premio de Mexico
 1. _Navy_ resolvió 1 problemas y obtuvo el lugar #48 (81%) en The 2014 ACM-ICPC Mexico and Central America Finals
-1. _VectorRaptor's_ resolvió 4 problemas y obtuvo el lugar #171 (81%) en The 2022 ICPC Gran Premio de Mexico
-1. _DinamitaTeam_ resolvió 4 problemas y obtuvo el lugar #173 (81%) en The 2022 ICPC Gran Premio de Mexico
 1. _Mega Equipo del Tio Oswi_ resolvió 5 problemas y obtuvo el lugar #129 (80%) en Gran Premio de Mexico & Centroamerica 2017
 1. _TecLaguna1_ resolvió 1 problemas y obtuvo el lugar #311 (76%) en Gran Premio de Mexico 2019
-1. _Black Cats I_ resolvió 0 problemas y obtuvo el lugar #27 (72%) en The 2002 ACM Mexico and Central America Programming Contest
-1. _Black Cats II_ resolvió 0 problemas y obtuvo el lugar #27 (72%) en The 2002 ACM Mexico and Central America Programming Contest
+1. _CodeKillers_ resolvió 2 problemas y obtuvo el lugar #281 (73%) en The 2022 ICPC Gran Premio de Mexico
+1. _TEAM VICE_ resolvió 2 problemas y obtuvo el lugar #290 (73%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -84,33 +84,37 @@
 
 ### 2022-2023
 
-- #41 (#4 de TecNM) _EspantaBugs_ (Clasificatorio)
-- #171 (#28 de TecNM) _VectorRaptor's_ (Clasificatorio)
-- #173 (#29 de TecNM) _DinamitaTeam_ (Clasificatorio)
-- #281 (#49 de TecNM) _CodeKillers_ (Clasificatorio)
-- #290 (#50 de TecNM) _TEAM VICE_ (Clasificatorio)
-- #308 (#54 de TecNM) _Kaiju Coders_ (Clasificatorio)
-- #309 (#55 de TecNM) _CodeKings_ (Clasificatorio)
-- #327 (#59 de TecNM) _GPR_ (Clasificatorio)
-- #328 (#60 de TecNM) _SOUT("ZERO")_ (Clasificatorio)
-- #331 (#61 de TecNM) _DROP DATABASE_ (Clasificatorio)
-- #351 (#64 de TecNM) _Work Bots_ (Clasificatorio)
-- #378 (#72 de TecNM) _Oswi Boys_ (Clasificatorio)
-- #379 (#73 de TecNM) _Las Fuerzas del Mal_ (Clasificatorio)
-- #381 (#75 de TecNM) _CODING PALS_ (Clasificatorio)
-- #381 (#75 de TecNM) _Chepo++_ (Clasificatorio)
-- #381 (#75 de TecNM) _Developer Manager_ (Clasificatorio)
-- #381 (#75 de TecNM) _Frida's Team_ (Clasificatorio)
-- #381 (#75 de TecNM) _IDGAF_ (Clasificatorio)
-- #381 (#75 de TecNM) _KbzaDbolo_ (Clasificatorio)
-- #381 (#75 de TecNM) _LafCoding_ (Clasificatorio)
-- #381 (#75 de TecNM) _Los Pinochos Quanticos_ (Clasificatorio)
-- #381 (#75 de TecNM) _Los Testigos de Ciseña_ (Clasificatorio)
-- #381 (#75 de TecNM) _Los Testigos de Oswi_ (Clasificatorio)
-- #381 (#75 de TecNM) _Los Traga Bugs_ (Clasificatorio)
-- #381 (#75 de TecNM) _Master Codes_ (Clasificatorio)
-- #381 (#75 de TecNM) _Monkey Devs_ (Clasificatorio)
-- #381 (#75 de TecNM) _TeamRocket_ (Clasificatorio)
+- #37 (#4 de TecNM) _EspantaBugs_ (Regional)
+- #171 (#29 de TecNM) _VectorRaptor's_ (Clasificatorio)
+- #173 (#30 de TecNM) _DinamitaTeam_ (Clasificatorio)
+- #281 (#51 de TecNM) _CodeKillers_ (Clasificatorio)
+- #290 (#52 de TecNM) _TEAM VICE_ (Clasificatorio)
+- #308 (#57 de TecNM) _Kaiju Coders_ (Clasificatorio)
+- #309 (#58 de TecNM) _CodeKings_ (Clasificatorio)
+- #327 (#62 de TecNM) _GPR_ (Clasificatorio)
+- #328 (#63 de TecNM) _SOUT("ZERO")_ (Clasificatorio)
+- #331 (#64 de TecNM) _DROP DATABASE_ (Clasificatorio)
+- #335 (#66 de TecNM) _Pokevelopers_ (Clasificatorio)
+- #351 (#69 de TecNM) _Work Bots_ (Clasificatorio)
+- #378 (#78 de TecNM) _Oswi Boys_ (Clasificatorio)
+- #379 (#79 de TecNM) _Las Fuerzas del Mal_ (Clasificatorio)
+- #382 (#82 de TecNM) _CODING PALS_ (Clasificatorio)
+- #382 (#82 de TecNM) _Chepo++_ (Clasificatorio)
+- #382 (#82 de TecNM) _Developer Manager_ (Clasificatorio)
+- #382 (#82 de TecNM) _Frida's Team_ (Clasificatorio)
+- #382 (#82 de TecNM) _IDGAF_ (Clasificatorio)
+- #382 (#82 de TecNM) _KbzaDbolo_ (Clasificatorio)
+- #382 (#82 de TecNM) _LafCoding_ (Clasificatorio)
+- #382 (#82 de TecNM) _Los Charlie Fest pt. 1, 2 y 3_ (Clasificatorio)
+- #382 (#82 de TecNM) _Los Pinochos Quanticos_ (Clasificatorio)
+- #382 (#82 de TecNM) _Los Testigos de Ciseña_ (Clasificatorio)
+- #382 (#82 de TecNM) _Los Testigos de Oswi_ (Clasificatorio)
+- #382 (#82 de TecNM) _Los Traga Bugs_ (Clasificatorio)
+- #382 (#82 de TecNM) _Master Codes_ (Clasificatorio)
+- #382 (#82 de TecNM) _Mnkys 404_ (Clasificatorio)
+- #382 (#82 de TecNM) _Monkey Devs_ (Clasificatorio)
+- #382 (#82 de TecNM) _TeamRocket_ (Clasificatorio)
+- #382 (#82 de TecNM) _echo_ (Clasificatorio)
 
 
 

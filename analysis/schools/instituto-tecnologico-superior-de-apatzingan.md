@@ -77,14 +77,16 @@
 
 ### 2022-2023
 
-- #381 (#75 de TecNM) _ADISA_ (Clasificatorio)
-- #381 (#75 de TecNM) _Ciber Cuiniques_ (Clasificatorio)
-- #381 (#75 de TecNM) _CódigoX_ (Clasificatorio)
-- #381 (#75 de TecNM) _JavaCoders_ (Clasificatorio)
-- #381 (#75 de TecNM) _Lithium++_ (Clasificatorio)
-- #381 (#75 de TecNM) _Los paganos del norte_ (Clasificatorio)
-- #381 (#75 de TecNM) _OREO_ (Clasificatorio)
-- #381 (#75 de TecNM) _Triple Punto Muerto_ (Clasificatorio)
+- #382 (#82 de TecNM) _ADISA_ (Clasificatorio)
+- #382 (#82 de TecNM) _Ciber Cuiniques_ (Clasificatorio)
+- #382 (#82 de TecNM) _CódigoX_ (Clasificatorio)
+- #382 (#82 de TecNM) _JavaCoders_ (Clasificatorio)
+- #382 (#82 de TecNM) _LOS DISCÍPULOS DE ANA_ (Clasificatorio)
+- #382 (#82 de TecNM) _Lithium++_ (Clasificatorio)
+- #382 (#82 de TecNM) _Los paganos del norte_ (Clasificatorio)
+- #382 (#82 de TecNM) _OREO_ (Clasificatorio)
+- #382 (#82 de TecNM) _Triple Punto Muerto_ (Clasificatorio)
+- #382 (#82 de TecNM) _pseudocuinique_ (Clasificatorio)
 
 
 

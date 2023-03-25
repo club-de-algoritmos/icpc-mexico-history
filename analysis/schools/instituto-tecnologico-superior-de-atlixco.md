@@ -59,19 +59,19 @@
 
 ### 2022-2023
 
-- #381 (#75 de TecNM) _.Zip_ (Clasificatorio)
-- #381 (#75 de TecNM) _Anonimus Power_ (Clasificatorio)
-- #381 (#75 de TecNM) _COVAITZ_ (Clasificatorio)
-- #381 (#75 de TecNM) _JBG_ (Clasificatorio)
-- #381 (#75 de TecNM) _Java lisT_ (Clasificatorio)
-- #381 (#75 de TecNM) _LOS EMEKAR_ (Clasificatorio)
-- #381 (#75 de TecNM) _Los Power Rangers_ (Clasificatorio)
-- #381 (#75 de TecNM) _Los python'es_ (Clasificatorio)
-- #381 (#75 de TecNM) _THE JOBS_ (Clasificatorio)
-- #381 (#75 de TecNM) _Tecnotuners_ (Clasificatorio)
-- #381 (#75 de TecNM) _The Best Programmers_ (Clasificatorio)
-- #381 (#75 de TecNM) _The Powerpuff Girls_ (Clasificatorio)
-- #381 (#75 de TecNM) _Trifuerza_ (Clasificatorio)
+- #382 (#82 de TecNM) _.Zip_ (Clasificatorio)
+- #382 (#82 de TecNM) _Anonimus Power_ (Clasificatorio)
+- #382 (#82 de TecNM) _COVAITZ_ (Clasificatorio)
+- #382 (#82 de TecNM) _JBG_ (Clasificatorio)
+- #382 (#82 de TecNM) _Java lisT_ (Clasificatorio)
+- #382 (#82 de TecNM) _LOS EMEKAR_ (Clasificatorio)
+- #382 (#82 de TecNM) _Los Power Rangers_ (Clasificatorio)
+- #382 (#82 de TecNM) _Los python'es_ (Clasificatorio)
+- #382 (#82 de TecNM) _THE JOBS_ (Clasificatorio)
+- #382 (#82 de TecNM) _Tecnotuners_ (Clasificatorio)
+- #382 (#82 de TecNM) _The Best Programmers_ (Clasificatorio)
+- #382 (#82 de TecNM) _The Powerpuff Girls_ (Clasificatorio)
+- #382 (#82 de TecNM) _Trifuerza_ (Clasificatorio)
 
 
 

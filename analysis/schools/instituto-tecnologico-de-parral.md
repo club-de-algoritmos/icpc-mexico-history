@@ -5,7 +5,7 @@
 ## Mejores 10 equipos
 
 1. _Los Otros_ resolvió 3 problemas y obtuvo el lugar #12 (90%) en The 2004 ACM Mexico and Central America Programming Contest
-1. _ALT + F4_ resolvió 6 problemas y obtuvo el lugar #109 (88%) en The 2022 ICPC Gran Premio de Mexico
+1. _ALT + F4_ resolvió 6 problemas y obtuvo el lugar #109 (90%) en The 2022 ICPC Gran Premio de Mexico
 1. _ALT + F4_ resolvió 3 problemas y obtuvo el lugar #95 (80%) en The 2021 ICPC Gran Premio de Mexico
 1. _Espartanos_ resolvió 2 problemas y obtuvo el lugar #255 (80%) en Gran Premio de Mexico 2019
 1. _Spacetacular_ resolvió 5 problemas y obtuvo el lugar #178 (75%) en Gran Premio de Mexico 2020

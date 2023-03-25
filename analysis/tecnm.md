@@ -214,5 +214,13 @@
 - #33 (#4 de TecNM) 010 girls & 001 Mike (Instituto Tecnológico Superior del Sur de Guanajuato)
 - #36 (#5 de TecNM) Ludus G++ (Instituto Tecnológico de Culiacán)
 
+### 2022-2023 The 2022 ICPC Mexico Finals
+
+- #14 (#1 de TecNM) Ludus G++ (Instituto Tecnológico de Culiacán)
+- #19 (#2 de TecNM) Hugs for Bugs (Instituto Tecnológico Superior del Sur de Guanajuato)
+- #20 (#3 de TecNM) Javamonos (Instituto Tecnológico Superior del Sur de Guanajuato)
+- #37 (#4 de TecNM) EspantaBugs (Instituto Tecnologico de la Laguna)
+- #54 (#5 de TecNM) Team-Biriche (Instituto Tecnológico Superior del Sur de Guanajuato)
+
 
 

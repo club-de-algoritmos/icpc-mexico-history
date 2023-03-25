@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _Software Chasers_ resolvió 13 problemas y obtuvo el lugar #20 (98%) en The 2022 ICPC Gran Premio de Mexico
+1. _Hololive_ resolvió 3 problemas y obtuvo el lugar #22 (98%) en The 2022 ICPC Mexico Finals
+1. _Software Chasers_ resolvió 2 problemas y obtuvo el lugar #38 (97%) en The 2022 ICPC Mexico Finals
 1. _Mojibake_ resolvió 3 problemas y obtuvo el lugar #23 (96%) en The 2021 ICPC Mexico Finals
-1. _Hololive_ resolvió 9 problemas y obtuvo el lugar #55 (94%) en The 2022 ICPC Gran Premio de Mexico
 1. _DrimTimICP_ resolvió 1 problemas y obtuvo el lugar #51 (93%) en The 2020 ICPC Mexico Finals
+1. _EzpcLemonEzQuizi_ resolvió 6 problemas y obtuvo el lugar #96 (91%) en The 2022 ICPC Gran Premio de Mexico
 1. _AlfaBuenaMaravillaOndaDinamitaEscuadrónLobo_ resolvió 0 problemas y obtuvo el lugar #50 (90%) en The 2021 ICPC Mexico Finals
-1. _EzpcLemonEzQuizi_ resolvió 6 problemas y obtuvo el lugar #96 (90%) en The 2022 ICPC Gran Premio de Mexico
+1. _Los Ángeles Azules_ resolvió 6 problemas y obtuvo el lugar #105 (90%) en The 2022 ICPC Gran Premio de Mexico
 1. _Trópicos de Capricornio_ resolvió 5 problemas y obtuvo el lugar #133 (90%) en Gran Premio de Mexico 2019
-1. _Los Ángeles Azules_ resolvió 6 problemas y obtuvo el lugar #105 (89%) en The 2022 ICPC Gran Premio de Mexico
-1. _pandasIAD_ resolvió 6 problemas y obtuvo el lugar #113 (82%) en Gran Premio de Mexico 2018
-1. _Graggy Daddy_ resolvió 4 problemas y obtuvo el lugar #167 (82%) en The 2022 ICPC Gran Premio de Mexico
+1. _Los pijijís_ resolvió 5 problemas y obtuvo el lugar #122 (88%) en The 2022 ICPC Gran Premio de Mexico
+1. _FLDSMDFR_ resolvió 5 problemas y obtuvo el lugar #129 (88%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -54,13 +54,19 @@
 
 ### 2022-2023
 
-- #20 _Software Chasers_ (Clasificatorio)
-- #55 _Hololive_ (Clasificatorio)
+- #22 _Hololive_ (Regional)
+- #38 _Software Chasers_ (Regional)
 - #96 _EzpcLemonEzQuizi_ (Clasificatorio)
 - #105 _Los Ángeles Azules_ (Clasificatorio)
+- #122 _Los pijijís_ (Clasificatorio)
+- #129 _FLDSMDFR_ (Clasificatorio)
 - #167 _Graggy Daddy_ (Clasificatorio)
 - #216 _Hasegi_ (Clasificatorio)
+- #218 _LosTejuinos_ (Clasificatorio)
 - #258 _Empanadas de la Destrucción_ (Clasificatorio)
+- #320 _Átomos Fuera de Serie_ (Clasificatorio)
+- #359 _Los Kosakos_ (Clasificatorio)
+- #371 _UPTEAM02_ (Clasificatorio)
 
 
 

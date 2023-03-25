@@ -83,15 +83,15 @@
 
 ### 2022-2023
 
-- #381 (#75 de TecNM) _Duracell AAA_ (Clasificatorio)
-- #381 (#75 de TecNM) _JDKs_ (Clasificatorio)
-- #381 (#75 de TecNM) _Linces ITSSP_ (Clasificatorio)
-- #381 (#75 de TecNM) _Los Tesla_ (Clasificatorio)
-- #381 (#75 de TecNM) _MSV_ (Clasificatorio)
-- #381 (#75 de TecNM) _McLovins_ (Clasificatorio)
-- #381 (#75 de TecNM) _MecBen_ (Clasificatorio)
-- #381 (#75 de TecNM) _Platinos_ (Clasificatorio)
-- #381 (#75 de TecNM) _Pythem_ (Clasificatorio)
+- #382 (#82 de TecNM) _Duracell AAA_ (Clasificatorio)
+- #382 (#82 de TecNM) _JDKs_ (Clasificatorio)
+- #382 (#82 de TecNM) _Linces ITSSP_ (Clasificatorio)
+- #382 (#82 de TecNM) _Los Tesla_ (Clasificatorio)
+- #382 (#82 de TecNM) _MSV_ (Clasificatorio)
+- #382 (#82 de TecNM) _McLovins_ (Clasificatorio)
+- #382 (#82 de TecNM) _MecBen_ (Clasificatorio)
+- #382 (#82 de TecNM) _Platinos_ (Clasificatorio)
+- #382 (#82 de TecNM) _Pythem_ (Clasificatorio)
 
 
 

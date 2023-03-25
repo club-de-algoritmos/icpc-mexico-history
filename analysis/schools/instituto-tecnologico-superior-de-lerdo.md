@@ -6,12 +6,12 @@
 
 1. _MASTER.NET_ resolvió 6 problemas y obtuvo el lugar #113 (91%) en Gran Premio de Mexico 2019
 1. _THE MASTER_ resolvió 9 problemas y obtuvo el lugar #81 (88%) en Gran Premio de Mexico 2020
+1. _The Walker_ resolvió 5 problemas y obtuvo el lugar #141 (87%) en The 2022 ICPC Gran Premio de Mexico
+1. _Guardians_ resolvió 4 problemas y obtuvo el lugar #148 (86%) en The 2022 ICPC Gran Premio de Mexico
 1. _The Last Fad_ resolvió 3 problemas y obtuvo el lugar #26 (85%) en The 2012 Mexico & Central America Regional Contest
 1. _MASTER.NET_ resolvió 2 problemas y obtuvo el lugar #75 (85%) en The 2016 ACM-ICPC Mexico and Central America Finals
-1. _The Walker_ resolvió 5 problemas y obtuvo el lugar #141 (85%) en The 2022 ICPC Gran Premio de Mexico
-1. _Guardians_ resolvió 4 problemas y obtuvo el lugar #148 (84%) en The 2022 ICPC Gran Premio de Mexico
+1. _Hi Universe_ resolvió 3 problemas y obtuvo el lugar #156 (85%) en The 2022 ICPC Gran Premio de Mexico
 1. _MASTER.NET_ resolvió 5 problemas y obtuvo el lugar #111 (83%) en Gran Premio de Mexico & Centroamerica 2017
-1. _Hi Universe_ resolvió 3 problemas y obtuvo el lugar #156 (83%) en The 2022 ICPC Gran Premio de Mexico
 1. _WHITE_SPACE_ resolvió 3 problemas y obtuvo el lugar #223 (83%) en Gran Premio de Mexico 2019
 1. _TEAM PORRAS.CS_ resolvió 2 problemas y obtuvo el lugar #246 (81%) en Gran Premio de Mexico 2019
 
@@ -145,16 +145,18 @@
 ### 2022-2023
 
 - #141 (#24 de TecNM) _The Walker_ (Clasificatorio)
-- #148 (#26 de TecNM) _Guardians_ (Clasificatorio)
-- #156 (#27 de TecNM) _Hi Universe_ (Clasificatorio)
-- #233 (#40 de TecNM) _Los amigos_ (Clasificatorio)
-- #293 (#51 de TecNM) _TerceroLerdo_ (Clasificatorio)
-- #326 (#58 de TecNM) _Titan_ (Clasificatorio)
-- #336 (#62 de TecNM) _Blue 3.0_ (Clasificatorio)
-- #381 (#75 de TecNM) _LerdoEsfuerzo_ (Clasificatorio)
-- #381 (#75 de TecNM) _Los 3_ (Clasificatorio)
-- #381 (#75 de TecNM) _Pollos Hermanos_ (Clasificatorio)
-- #381 (#75 de TecNM) _PrimeroPro_ (Clasificatorio)
+- #148 (#27 de TecNM) _Guardians_ (Clasificatorio)
+- #156 (#28 de TecNM) _Hi Universe_ (Clasificatorio)
+- #233 (#41 de TecNM) _Los amigos_ (Clasificatorio)
+- #293 (#53 de TecNM) _TerceroLerdo_ (Clasificatorio)
+- #326 (#61 de TecNM) _Titan_ (Clasificatorio)
+- #336 (#67 de TecNM) _Blue 3.0_ (Clasificatorio)
+- #382 (#82 de TecNM) _Gameshackers_ (Clasificatorio)
+- #382 (#82 de TecNM) _LerdoEsfuerzo_ (Clasificatorio)
+- #382 (#82 de TecNM) _Los 3_ (Clasificatorio)
+- #382 (#82 de TecNM) _Los trillizos_ (Clasificatorio)
+- #382 (#82 de TecNM) _Pollos Hermanos_ (Clasificatorio)
+- #382 (#82 de TecNM) _PrimeroPro_ (Clasificatorio)
 
 
 

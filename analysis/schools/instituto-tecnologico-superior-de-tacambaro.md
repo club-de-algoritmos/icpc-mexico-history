@@ -4,15 +4,15 @@
 
 ## Mejores 10 equipos
 
-1. _Alucines_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _Andromeda_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _BRAVO 6_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _DNM_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _Jax_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _Los rajas_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _OREO´S_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _RAM_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _poseidonRX_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _Alucines_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Andromeda_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _BRAVO 6_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _DNM_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Jax_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Los rajas_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _OREO´S_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _RAM_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _poseidonRX_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _Dinamita_ resolvió 0 problemas y obtuvo el lugar #351 (50%) en Gran Premio de Mexico 2020
 
 ## Participaciones
@@ -50,15 +50,15 @@
 
 ### 2022-2023
 
-- #381 (#75 de TecNM) _Alucines_ (Clasificatorio)
-- #381 (#75 de TecNM) _Andromeda_ (Clasificatorio)
-- #381 (#75 de TecNM) _BRAVO 6_ (Clasificatorio)
-- #381 (#75 de TecNM) _DNM_ (Clasificatorio)
-- #381 (#75 de TecNM) _Jax_ (Clasificatorio)
-- #381 (#75 de TecNM) _Los rajas_ (Clasificatorio)
-- #381 (#75 de TecNM) _OREO´S_ (Clasificatorio)
-- #381 (#75 de TecNM) _RAM_ (Clasificatorio)
-- #381 (#75 de TecNM) _poseidonRX_ (Clasificatorio)
+- #382 (#82 de TecNM) _Alucines_ (Clasificatorio)
+- #382 (#82 de TecNM) _Andromeda_ (Clasificatorio)
+- #382 (#82 de TecNM) _BRAVO 6_ (Clasificatorio)
+- #382 (#82 de TecNM) _DNM_ (Clasificatorio)
+- #382 (#82 de TecNM) _Jax_ (Clasificatorio)
+- #382 (#82 de TecNM) _Los rajas_ (Clasificatorio)
+- #382 (#82 de TecNM) _OREO´S_ (Clasificatorio)
+- #382 (#82 de TecNM) _RAM_ (Clasificatorio)
+- #382 (#82 de TecNM) _poseidonRX_ (Clasificatorio)
 
 
 

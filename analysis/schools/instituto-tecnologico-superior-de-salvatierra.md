@@ -12,8 +12,8 @@
 1. _MAJIRO_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _PENDIENTEv2.1_ resolvió 0 problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _TICS_SIA_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _256_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _Los Discipulos de Abraham_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _256_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Los Discipulos de Abraham_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -53,12 +53,12 @@
 
 ### 2022-2023
 
-- #381 (#75 de TecNM) _256_ (Clasificatorio)
-- #381 (#75 de TecNM) _Los Discipulos de Abraham_ (Clasificatorio)
-- #381 (#75 de TecNM) _Los LLL_ (Clasificatorio)
-- #381 (#75 de TecNM) _Los pollos hermanos_ (Clasificatorio)
-- #381 (#75 de TecNM) _Ntek_ (Clasificatorio)
-- #381 (#75 de TecNM) _TODO_ (Clasificatorio)
+- #382 (#82 de TecNM) _256_ (Clasificatorio)
+- #382 (#82 de TecNM) _Los Discipulos de Abraham_ (Clasificatorio)
+- #382 (#82 de TecNM) _Los LLL_ (Clasificatorio)
+- #382 (#82 de TecNM) _Los pollos hermanos_ (Clasificatorio)
+- #382 (#82 de TecNM) _Ntek_ (Clasificatorio)
+- #382 (#82 de TecNM) _TODO_ (Clasificatorio)
 
 
 

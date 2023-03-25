@@ -6,7 +6,7 @@
 
 1. _ITSPR1_ resolvió 3 problemas y obtuvo el lugar #37 (93%) en The 2016 ACM-ICPC Mexico and Central America Finals
 1. _ITSPR2_ resolvió 2 problemas y obtuvo el lugar #71 (86%) en The 2016 ACM-ICPC Mexico and Central America Finals
-1. _Three Ocean_ resolvió 4 problemas y obtuvo el lugar #154 (83%) en The 2022 ICPC Gran Premio de Mexico
+1. _Three Ocean_ resolvió 4 problemas y obtuvo el lugar #154 (85%) en The 2022 ICPC Gran Premio de Mexico
 1. _ITSPR-3_ resolvió 3 problemas y obtuvo el lugar #39 (81%) en The 2010 Mexico & Central America Regional Contest
 1. _ITSPR2_ resolvió 1 problemas y obtuvo el lugar #51 (80%) en The 2014 ACM-ICPC Mexico and Central America Finals
 1. _Cometa azul_ resolvió 2 problemas y obtuvo el lugar #293 (77%) en Gran Premio de Mexico 2019
@@ -114,7 +114,7 @@
 ### 2022-2023
 
 - #154 _Three Ocean_ (Clasificatorio)
-- #381 _My Little Python_ (Clasificatorio)
+- #382 _My Little Python_ (Clasificatorio)
 
 
 

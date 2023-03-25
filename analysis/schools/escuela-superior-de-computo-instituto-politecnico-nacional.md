@@ -16,7 +16,7 @@
     - Avanzó a la final mundial y resolvió 1 problemas y obtuvo el lugar #94 (21%) en 37th Annual World Finals of the ACM International Collegiate Programming Contest
 1. _Norman is Hunting_ resolvió 9 problemas y obtuvo el lugar #1 (100%) en The 2019 ICPC Mexico Finals
 1. _Chilaquiles con pollo_ resolvió 5 problemas y obtuvo el lugar #1 (100%) en The 2021 ICPC Mexico Finals
-1. _Exceso de Fé_ resolvió 21 problemas y obtuvo el lugar #5 (100%) en The 2022 ICPC Gran Premio de Mexico
+1. _Exceso de Fé_ resolvió 6 problemas y obtuvo el lugar #4 (100%) en The 2022 ICPC Mexico Finals
 1. _Error: "Team Name" not defined_ resolvió 6 problemas y obtuvo el lugar #7 (100%) en The 2019 ICPC Mexico Finals
 1. _New avengers_ resolvió 6 problemas y obtuvo el lugar #4 (99%) en The 2016 ACM-ICPC Mexico and Central America Finals
 
@@ -240,18 +240,33 @@
 
 ### 2022-2023
 
-- #5 _Exceso de Fé_ (Clasificatorio)
-- #6 _Crustáceos Cascarudos_ (Clasificatorio)
-- #10 _AC Forever_ (Clasificatorio)
+- #4 _Exceso de Fé_ (Regional)
+- #8 _AC Forever_ (Regional)
+- #13 _dESCOMprimidos.zip_ (Clasificatorio)
+- #21 _Crustáceos Cascarudos_ (Regional)
+- #27 _To ICPC and beyond_ (Regional)
+- #29 _DBD crew_ (Clasificatorio)
 - #32 _Shark DJ en MPTres_ (Clasificatorio)
-- #52 _To ICPC and beyond_ (Clasificatorio)
-- #63 _Schrodinger's AC_ (Clasificatorio)
+- #35 _Schrodinger's AC_ (Regional)
 - #90 _Huevito con catsun_ (Clasificatorio)
 - #101 _return AC;_ (Clasificatorio)
 - #102 _lasCuries_ (Clasificatorio)
 - #117 _Las Picafresas_ (Clasificatorio)
 - #265 _A de AC_ (Clasificatorio)
+- #311 _RAMA_ (Clasificatorio)
+- #312 _Las chicas del barrio_ (Clasificatorio)
 - #332 _Pandora_ (Clasificatorio)
+- #382 _AC fan club_ (Clasificatorio)
+- #382 _Bugged Coders_ (Clasificatorio)
+- #382 _C++dos_ (Clasificatorio)
+- #382 _Escultores de código_ (Clasificatorio)
+- #382 _LasMotomamis_ (Clasificatorio)
+- #382 _Los ANSI-osos_ (Clasificatorio)
+- #382 _Los Chachalacos_ (Clasificatorio)
+- #382 _Newbies Hardstuck_ (Clasificatorio)
+- #382 _Newbies Hardstuck V3_ (Clasificatorio)
+- #382 _Trikitrakatelas_ (Clasificatorio)
+- #382 _dESCOMtrolados_ (Clasificatorio)
 
 
 

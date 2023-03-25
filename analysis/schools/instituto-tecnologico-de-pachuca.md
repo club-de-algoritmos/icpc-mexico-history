@@ -8,10 +8,10 @@
 1. _ITP v2.0_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _itp1.0_ resolvió 3 problemas y obtuvo el lugar #234 (68%) en Gran Premio de Mexico 2018
 1. _Versión Beta_ resolvió 2 problemas y obtuvo el lugar #46 (64%) en The 2006 ACM Mexico and Central America Programming Contest
-1. _Bug Programmers (BP)_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _CodeArtisans_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _League of Coders_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _TuzoGlitchXP_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _Bug Programmers (BP)_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _CodeArtisans_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _League of Coders_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _TuzoGlitchXP_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _TecPachuca_01_ resolvió 0 problemas y obtuvo el lugar #226 (53%) en The 2021 ICPC Gran Premio de Mexico
 1. _TecPachuca_02_ resolvió 0 problemas y obtuvo el lugar #226 (53%) en The 2021 ICPC Gran Premio de Mexico
 
@@ -42,10 +42,10 @@
 
 ### 2022-2023
 
-- #381 (#75 de TecNM) _Bug Programmers (BP)_ (Clasificatorio)
-- #381 (#75 de TecNM) _CodeArtisans_ (Clasificatorio)
-- #381 (#75 de TecNM) _League of Coders_ (Clasificatorio)
-- #381 (#75 de TecNM) _TuzoGlitchXP_ (Clasificatorio)
+- #382 (#82 de TecNM) _Bug Programmers (BP)_ (Clasificatorio)
+- #382 (#82 de TecNM) _CodeArtisans_ (Clasificatorio)
+- #382 (#82 de TecNM) _League of Coders_ (Clasificatorio)
+- #382 (#82 de TecNM) _TuzoGlitchXP_ (Clasificatorio)
 
 
 

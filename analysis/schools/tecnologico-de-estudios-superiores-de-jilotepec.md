@@ -4,19 +4,19 @@
 
 ## Mejores 10 equipos
 
-1. _Echo Linxes _ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _The Goat_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _Theme Tic_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _TicCoders_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _Echo Linxes _ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _The Goat_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Theme Tic_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _TicCoders_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
 ### 2022-2023
 
-- #381 _Echo Linxes _ (Clasificatorio)
-- #381 _The Goat_ (Clasificatorio)
-- #381 _Theme Tic_ (Clasificatorio)
-- #381 _TicCoders_ (Clasificatorio)
+- #382 _Echo Linxes _ (Clasificatorio)
+- #382 _The Goat_ (Clasificatorio)
+- #382 _Theme Tic_ (Clasificatorio)
+- #382 _TicCoders_ (Clasificatorio)
 
 
 

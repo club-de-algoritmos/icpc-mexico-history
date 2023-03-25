@@ -12,9 +12,9 @@
     - Avanzó a la final mundial y resolvió None problemas y obtuvo el lugar #47 (61%) en 44th Annual World Finals of the International Collegiate Programming Contest
 1. _AEI_ resolvió 5 problemas y obtuvo el lugar #2 (99%) en The 2012 Mexico & Central America Regional Contest
     - Avanzó a la final mundial y resolvió 2 problemas y obtuvo el lugar #76 (36%) en 37th Annual World Finals of the ACM International Collegiate Programming Contest
-1. _UPsolving_ resolvió 22 problemas y obtuvo el lugar #3 (100%) en The 2022 ICPC Gran Premio de Mexico
-1. _ICPCrikos_ resolvió 19 problemas y obtuvo el lugar #4 (100%) en The 2022 ICPC Gran Premio de Mexico
+1. _UPsolving_ resolvió 8 problemas y obtuvo el lugar #2 (100%) en The 2022 ICPC Mexico Finals
 1. _UPsolving_ resolvió 7 problemas y obtuvo el lugar #5 (100%) en The 2018 ICPC Mexico and Central America Finals
+1. _Chicos_Percebe_ resolvió 5 problemas y obtuvo el lugar #6 (100%) en The 2022 ICPC Mexico Finals
 1. _ICPCrikos_ resolvió 4 problemas y obtuvo el lugar #6 (99%) en The 2021 ICPC Mexico Finals
 1. _Sopa de pingüino_ resolvió 5 problemas y obtuvo el lugar #7 (99%) en The 2016 ACM-ICPC Mexico and Central America Finals
 1. _UPdated_ resolvió 4 problemas y obtuvo el lugar #11 (99%) en The 2017 ACM-ICPC Mexico and Central America Finals
@@ -143,10 +143,10 @@
 
 ### 2022-2023
 
-- #3 _UPsolving_ (Clasificatorio)
-- #4 _ICPCrikos_ (Clasificatorio)
+- #2 _UPsolving_ (Regional)
+- #6 _Chicos_Percebe_ (Regional)
+- #12 _ICPCrikos_ (Regional)
 - #14 _ADeAmortizado_ (Clasificatorio)
-- #15 _Chicos_Percebe_ (Clasificatorio)
 - #34 _UPLoading_ (Clasificatorio)
 - #40 _Llaart_ (Clasificatorio)
 - #53 _ICP00_ (Clasificatorio)
@@ -155,6 +155,8 @@
 - #86 _Tazaki_ (Clasificatorio)
 - #112 _CPU Destroyers_ (Clasificatorio)
 - #350 _CodeBuggers_ (Clasificatorio)
+- #382 _ TLEn't_ (Clasificatorio)
+- #382 _Aztecoders_ (Clasificatorio)
 
 
 

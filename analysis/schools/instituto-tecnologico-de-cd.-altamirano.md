@@ -4,17 +4,17 @@
 
 ## Mejores 10 equipos
 
-1. _ORDERo66_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _TARGARYEN_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _WINTERFELL_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _ORDERo66_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _TARGARYEN_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _WINTERFELL_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
 ### 2022-2023
 
-- #381 (#75 de TecNM) _ORDERo66_ (Clasificatorio)
-- #381 (#75 de TecNM) _TARGARYEN_ (Clasificatorio)
-- #381 (#75 de TecNM) _WINTERFELL_ (Clasificatorio)
+- #382 (#82 de TecNM) _ORDERo66_ (Clasificatorio)
+- #382 (#82 de TecNM) _TARGARYEN_ (Clasificatorio)
+- #382 (#82 de TecNM) _WINTERFELL_ (Clasificatorio)
 
 
 

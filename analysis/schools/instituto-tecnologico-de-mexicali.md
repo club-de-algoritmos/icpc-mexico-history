@@ -10,10 +10,10 @@
 1. _mani_ resolvió 1 problemas y obtuvo el lugar #41 (73%) en The 2007 ACM Mexico and Central America Programming Contest
 1. _++TEC_ resolvió 2 problemas y obtuvo el lugar #45 (73%) en The 2012 Mexico & Central America Regional Contest
 1. _JUnit_ resolvió 1 problemas y obtuvo el lugar #46 (70%) en The 2007 ACM Mexico and Central America Programming Contest
-1. _CACHORA'S TEAM_ resolvió 0 problemas y obtuvo el lugar #61 (59%) en The 2007 ACM Mexico and Central America Programming Contest
-1. _J-UNIT RELOADED_ resolvió 1 problemas y obtuvo el lugar #70 (59%) en The 2008 Mexico & Central America Contest
-1. _BetaMasters_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _EquiPaco 1.9_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _BetaMasters_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _EquiPaco 1.9_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Kokiri_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _MiT_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -78,10 +78,11 @@
 
 ### 2022-2023
 
-- #381 (#75 de TecNM) _BetaMasters_ (Clasificatorio)
-- #381 (#75 de TecNM) _EquiPaco 1.9_ (Clasificatorio)
-- #381 (#75 de TecNM) _Kokiri_ (Clasificatorio)
-- #381 (#75 de TecNM) _MiT_ (Clasificatorio)
+- #382 (#82 de TecNM) _BetaMasters_ (Clasificatorio)
+- #382 (#82 de TecNM) _EquiPaco 1.9_ (Clasificatorio)
+- #382 (#82 de TecNM) _Kokiri_ (Clasificatorio)
+- #382 (#82 de TecNM) _MiT_ (Clasificatorio)
+- #382 (#82 de TecNM) _PyroMochis_ (Clasificatorio)
 
 
 

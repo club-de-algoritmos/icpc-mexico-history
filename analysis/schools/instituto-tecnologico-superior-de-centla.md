@@ -4,7 +4,7 @@
 
 ## Mejores 10 equipos
 
-1. _Digital ITSCe2_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _Digital ITSCe2_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _ITSCe_ resolvió 0 problemas y obtuvo el lugar #85 (40%) en The 2005 ACM Mexico and Central America Programming Contest
 1. _ITSCe2_ resolvió 0 problemas y obtuvo el lugar #85 (40%) en The 2005 ACM Mexico and Central America Programming Contest
 
@@ -17,7 +17,7 @@
 
 ### 2022-2023
 
-- #381 (#75 de TecNM) _Digital ITSCe2_ (Clasificatorio)
+- #382 (#82 de TecNM) _Digital ITSCe2_ (Clasificatorio)
 
 
 

@@ -7,13 +7,13 @@
 1. _ITSAHackers_ resolvió 5 problemas y obtuvo el lugar #123 (90%) en Gran Premio de Mexico 2019
 1. _Sick Programmation_ resolvió 3 problemas y obtuvo el lugar #218 (83%) en Gran Premio de Mexico 2019
 1. _ITSAHACKERS.JR_ resolvió 4 problemas y obtuvo el lugar #196 (72%) en Gran Premio de Mexico 2020
-1. _GPJ TEAM_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _Los Belicosos_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _Los simples_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _Punto & coma;_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _Py-ITSA's_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _Sistemac_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _Snapdragon_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _GPJ TEAM_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Los Belicosos_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Los simples_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Punto & coma;_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Py-ITSA's_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Sistemac_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Snapdragon_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -41,14 +41,14 @@
 
 ### 2022-2023
 
-- #381 (#75 de TecNM) _GPJ TEAM_ (Clasificatorio)
-- #381 (#75 de TecNM) _Los Belicosos_ (Clasificatorio)
-- #381 (#75 de TecNM) _Los simples_ (Clasificatorio)
-- #381 (#75 de TecNM) _Punto & coma;_ (Clasificatorio)
-- #381 (#75 de TecNM) _Py-ITSA's_ (Clasificatorio)
-- #381 (#75 de TecNM) _Sistemac_ (Clasificatorio)
-- #381 (#75 de TecNM) _Snapdragon_ (Clasificatorio)
-- #381 (#75 de TecNM) _Thot_ (Clasificatorio)
+- #382 (#82 de TecNM) _GPJ TEAM_ (Clasificatorio)
+- #382 (#82 de TecNM) _Los Belicosos_ (Clasificatorio)
+- #382 (#82 de TecNM) _Los simples_ (Clasificatorio)
+- #382 (#82 de TecNM) _Punto & coma;_ (Clasificatorio)
+- #382 (#82 de TecNM) _Py-ITSA's_ (Clasificatorio)
+- #382 (#82 de TecNM) _Sistemac_ (Clasificatorio)
+- #382 (#82 de TecNM) _Snapdragon_ (Clasificatorio)
+- #382 (#82 de TecNM) _Thot_ (Clasificatorio)
 
 
 

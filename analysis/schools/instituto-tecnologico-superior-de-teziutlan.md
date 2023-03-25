@@ -52,13 +52,13 @@
 
 ### 2022-2023
 
-- #381 (#75 de TecNM) _CODEXX_ (Clasificatorio)
-- #381 (#75 de TecNM) _Dragons_ (Clasificatorio)
-- #381 (#75 de TecNM) _Gatitos Team_ (Clasificatorio)
-- #381 (#75 de TecNM) _Los Suaves_ (Clasificatorio)
-- #381 (#75 de TecNM) _Sea Slug_ (Clasificatorio)
-- #381 (#75 de TecNM) _Siempre Negativos_ (Clasificatorio)
-- #381 (#75 de TecNM) _TecnoMapaches_ (Clasificatorio)
+- #382 (#82 de TecNM) _CODEXX_ (Clasificatorio)
+- #382 (#82 de TecNM) _Dragons_ (Clasificatorio)
+- #382 (#82 de TecNM) _Gatitos Team_ (Clasificatorio)
+- #382 (#82 de TecNM) _Los Suaves_ (Clasificatorio)
+- #382 (#82 de TecNM) _Sea Slug_ (Clasificatorio)
+- #382 (#82 de TecNM) _Siempre Negativos_ (Clasificatorio)
+- #382 (#82 de TecNM) _TecnoMapaches_ (Clasificatorio)
 
 
 

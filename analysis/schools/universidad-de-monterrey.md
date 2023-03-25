@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _Raptors_ resolvió 7 problemas y obtuvo el lugar #54 (94%) en The 2022 ICPC Gran Premio de Mexico
-1. _Equipo alfa buena maravilla onda dinamita escuadrón lobo_ resolvió 6 problemas y obtuvo el lugar #66 (93%) en The 2022 ICPC Gran Premio de Mexico
+1. _Equipo alfa buena maravilla onda dinamita escuadrón lobo_ resolvió 1 problemas y obtuvo el lugar #45 (96%) en The 2022 ICPC Mexico Finals
+1. _Raptors_ resolvió 1 problemas y obtuvo el lugar #46 (96%) en The 2022 ICPC Mexico Finals
 1. _Troyanos_ resolvió 3 problemas y obtuvo el lugar #10 (92%) en The 2004 ACM Mexico and Central America Programming Contest
-1. _Serendipia_ resolvió 6 problemas y obtuvo el lugar #113 (88%) en The 2022 ICPC Gran Premio de Mexico
+1. _Serendipia_ resolvió 6 problemas y obtuvo el lugar #113 (89%) en The 2022 ICPC Gran Premio de Mexico
 1. _UDEM1_ resolvió 2 problemas y obtuvo el lugar #20 (86%) en The 2005 ACM Mexico and Central America Programming Contest
 1. _trying_ resolvió 4 problemas y obtuvo el lugar #183 (86%) en Gran Premio de Mexico 2019
 1. _aoc_ resolvió 3 problemas y obtuvo el lugar #196 (85%) en Gran Premio de Mexico 2019
+1. _Vikings_ resolvió 4 problemas y obtuvo el lugar #179 (83%) en The 2022 ICPC Gran Premio de Mexico
 1. _WebCeleb_ resolvió 3 problemas y obtuvo el lugar #217 (83%) en Gran Premio de Mexico 2019
 1. _Los changoleones_ resolvió 3 problemas y obtuvo el lugar #86 (82%) en The 2021 ICPC Gran Premio de Mexico
-1. _Los Tres Amigos_ resolvió 6 problemas y obtuvo el lugar #110 (82%) en Gran Premio de Mexico 2018
 
 ## Participaciones
 
@@ -96,15 +96,15 @@
 
 ### 2022-2023
 
-- #54 _Raptors_ (Clasificatorio)
-- #66 _Equipo alfa buena maravilla onda dinamita escuadrón lobo_ (Clasificatorio)
+- #45 _Equipo alfa buena maravilla onda dinamita escuadrón lobo_ (Regional)
+- #46 _Raptors_ (Regional)
 - #113 _Serendipia_ (Clasificatorio)
 - #179 _Vikings_ (Clasificatorio)
 - #264 _Loric Garde_ (Clasificatorio)
 - #300 _Los puercoespines radiactivos_ (Clasificatorio)
-- #381 _Boolean Autocrats_ (Clasificatorio)
-- #381 _Edgerunners-2077_ (Clasificatorio)
-- #381 _supersónicos_ (Clasificatorio)
+- #382 _Boolean Autocrats_ (Clasificatorio)
+- #382 _Edgerunners-2077_ (Clasificatorio)
+- #382 _supersónicos_ (Clasificatorio)
 
 
 

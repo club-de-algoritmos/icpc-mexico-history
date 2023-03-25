@@ -69,7 +69,7 @@
 
 ### 2022-2023
 
-- #381 _UMT_ (Clasificatorio)
+- #382 _UMT_ (Clasificatorio)
 
 
 

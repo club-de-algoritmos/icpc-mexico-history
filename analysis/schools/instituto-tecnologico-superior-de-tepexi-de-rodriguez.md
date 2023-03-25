@@ -12,7 +12,7 @@
 1. _Procod_ resolvió 0 problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _RAF_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _TLITCOALTL_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _CGA TEAM_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _CGA TEAM_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _SHERPA_ resolvió 0 problemas y obtuvo el lugar #226 (53%) en The 2021 ICPC Gran Premio de Mexico
 
 ## Participaciones
@@ -38,7 +38,7 @@
 
 ### 2022-2023
 
-- #381 (#75 de TecNM) _CGA TEAM_ (Clasificatorio)
+- #382 (#82 de TecNM) _CGA TEAM_ (Clasificatorio)
 
 
 

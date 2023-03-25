@@ -5,9 +5,13 @@
 ## Mejores 10 equipos
 
 1. _“Los Casimiritos”_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Code Warriors_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _Error404_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _Proyecto Génesis_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _Code Warriors_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Error404_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Proyecto Génesis_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Sistemas1_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Sistemas2_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Sistemas3_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Sistemas4_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -17,9 +21,13 @@
 
 ### 2022-2023
 
-- #381 (#75 de TecNM) _Code Warriors_ (Clasificatorio)
-- #381 (#75 de TecNM) _Error404_ (Clasificatorio)
-- #381 (#75 de TecNM) _Proyecto Génesis_ (Clasificatorio)
+- #382 (#82 de TecNM) _Code Warriors_ (Clasificatorio)
+- #382 (#82 de TecNM) _Error404_ (Clasificatorio)
+- #382 (#82 de TecNM) _Proyecto Génesis_ (Clasificatorio)
+- #382 (#82 de TecNM) _Sistemas1_ (Clasificatorio)
+- #382 (#82 de TecNM) _Sistemas2_ (Clasificatorio)
+- #382 (#82 de TecNM) _Sistemas3_ (Clasificatorio)
+- #382 (#82 de TecNM) _Sistemas4_ (Clasificatorio)
 
 
 

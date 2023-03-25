@@ -33,15 +33,15 @@
 
 ### 2022-2023
 
-- #381 (#75 de TecNM) _CodeKem_ (Clasificatorio)
-- #381 (#75 de TecNM) _Computer team_ (Clasificatorio)
-- #381 (#75 de TecNM) _Dixtractor_ (Clasificatorio)
-- #381 (#75 de TecNM) _ISICMD_ (Clasificatorio)
-- #381 (#75 de TecNM) _Los Fatui_ (Clasificatorio)
-- #381 (#75 de TecNM) _Rocket_ (Clasificatorio)
-- #381 (#75 de TecNM) _RuntimeError_ (Clasificatorio)
-- #381 (#75 de TecNM) _Tech Giants_ (Clasificatorio)
-- #381 (#75 de TecNM) _TheLastUs_ (Clasificatorio)
+- #382 (#82 de TecNM) _CodeKem_ (Clasificatorio)
+- #382 (#82 de TecNM) _Computer team_ (Clasificatorio)
+- #382 (#82 de TecNM) _Dixtractor_ (Clasificatorio)
+- #382 (#82 de TecNM) _ISICMD_ (Clasificatorio)
+- #382 (#82 de TecNM) _Los Fatui_ (Clasificatorio)
+- #382 (#82 de TecNM) _Rocket_ (Clasificatorio)
+- #382 (#82 de TecNM) _RuntimeError_ (Clasificatorio)
+- #382 (#82 de TecNM) _Tech Giants_ (Clasificatorio)
+- #382 (#82 de TecNM) _TheLastUs_ (Clasificatorio)
 
 
 

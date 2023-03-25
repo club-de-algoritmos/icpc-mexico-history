@@ -5,6 +5,7 @@
 ## Mejores 10 equipos
 
 1. _Coding Horror_ resolvió 3 problemas y obtuvo el lugar #17 (98%) en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _Gauss N' Roses_ resolvió 2 problemas y obtuvo el lugar #32 (97%) en The 2022 ICPC Mexico Finals
 1. _Gleichseitiges_ resolvió 3 problemas y obtuvo el lugar #22 (96%) en The 2016 ACM-ICPC Mexico and Central America Finals
 1. _Equilateros_ resolvió 3 problemas y obtuvo el lugar #24 (93%) en The 2015 ACM-ICPC Mexico and Central America Finals
 1. _Coding Horor v2.0_ resolvió 2 problemas y obtuvo el lugar #56 (93%) en The 2018 ICPC Mexico and Central America Finals
@@ -13,7 +14,6 @@
 1. _Coding Horror_ resolvió 3 problemas y obtuvo el lugar #23 (91%) en The 2014 ACM-ICPC Mexico and Central America Finals
 1. _Coding Horror_ resolvió 3 problemas y obtuvo el lugar #29 (91%) en The 2015 ACM-ICPC Mexico and Central America Finals
 1. _FMAT_Coders_ resolvió 3 problemas y obtuvo el lugar #17 (90%) en The 2012 Mexico & Central America Regional Contest
-1. _01_ resolvió 4 problemas y obtuvo el lugar #155 (88%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 
@@ -114,7 +114,7 @@
 
 ### 2022-2023
 
-- #381 _Gauss N' Roses_ (Clasificatorio)
+- #32 _Gauss N' Roses_ (Regional)
 
 
 

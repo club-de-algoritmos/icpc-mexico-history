@@ -4,13 +4,17 @@
 
 ## Mejores 10 equipos
 
-1. _ADC_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _ADC_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Dragos Team_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _TEC JIMENEZ_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
 ### 2022-2023
 
-- #381 _ADC_ (Clasificatorio)
+- #382 _ADC_ (Clasificatorio)
+- #382 _Dragos Team_ (Clasificatorio)
+- #382 _TEC JIMENEZ_ (Clasificatorio)
 
 
 

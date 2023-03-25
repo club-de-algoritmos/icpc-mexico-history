@@ -10,9 +10,9 @@
 1. _Conejos digitales_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _Warriors_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _ITSAT 2_ resolvió 2 problemas y obtuvo el lugar #236 (65%) en Gran Premio de Mexico & Centroamerica 2017
+1. _BitCodeOne_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _CodeOne_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _ITSAT 3_ resolvió 2 problemas y obtuvo el lugar #250 (63%) en Gran Premio de Mexico & Centroamerica 2017
-1. _BitCodeOne_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _CodeOne_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
 1. _CodeOne_ resolvió 0 problemas y obtuvo el lugar #226 (53%) en The 2021 ICPC Gran Premio de Mexico
 
 ## Participaciones
@@ -57,8 +57,8 @@
 
 ### 2022-2023
 
-- #381 (#75 de TecNM) _BitCodeOne_ (Clasificatorio)
-- #381 (#75 de TecNM) _CodeOne_ (Clasificatorio)
+- #382 (#82 de TecNM) _BitCodeOne_ (Clasificatorio)
+- #382 (#82 de TecNM) _CodeOne_ (Clasificatorio)
 
 
 

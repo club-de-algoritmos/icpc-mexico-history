@@ -4,7 +4,7 @@
 
 ## Mejores 10 equipos
 
-1. _Tsurus Tuneados_ resolvió 18 problemas y obtuvo el lugar #8 (99%) en The 2022 ICPC Gran Premio de Mexico
+1. _Tsurus Tuneados_ resolvió 3 problemas y obtuvo el lugar #18 (98%) en The 2022 ICPC Mexico Finals
 1. _ViralBugSyndrome.exe_ resolvió 4 problemas y obtuvo el lugar #20 (98%) en The 2018 ICPC Mexico and Central America Finals
 1. _Carlit-OS_ resolvió 4 problemas y obtuvo el lugar #10 (95%) en The 2008 Mexico & Central America Contest
 1. _Tec GDL 10_ resolvió 3 problemas y obtuvo el lugar #34 (95%) en The 2020 ICPC Mexico Finals
@@ -155,8 +155,14 @@
 
 ### 2022-2023
 
-- #8 _Tsurus Tuneados_ (Clasificatorio)
+- #18 _Tsurus Tuneados_ (Regional)
 - #174 _Java lieron_ (Clasificatorio)
+- #382 _Bubble sorters_ (Clasificatorio)
+- #382 _Chiles Poblanos Poblanos_ (Clasificatorio)
+- #382 _Edgerunners_ (Clasificatorio)
+- #382 _Maraca_ (Clasificatorio)
+- #382 _Pozole de Oompa Loompas_ (Clasificatorio)
+- #382 _SJF_ (Clasificatorio)
 
 
 

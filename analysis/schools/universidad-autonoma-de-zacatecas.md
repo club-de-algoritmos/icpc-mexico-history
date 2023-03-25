@@ -6,11 +6,11 @@
 
 1. _#include<uaz>_ resolvió 4 problemas y obtuvo el lugar #18 (98%) en The 2018 ICPC Mexico and Central America Finals
 1. _#include <uaz>_ resolvió 4 problemas y obtuvo el lugar #22 (98%) en The 2019 ICPC Mexico Finals
+1. _Ice and Fire_ resolvió 2 problemas y obtuvo el lugar #36 (97%) en The 2022 ICPC Mexico Finals
 1. _#include<uaz>_ resolvió 3 problemas y obtuvo el lugar #21 (96%) en The 2021 ICPC Mexico Finals
 1. _#include<uaz>_ resolvió 3 problemas y obtuvo el lugar #30 (96%) en The 2020 ICPC Mexico Finals
-1. _#include <uaz>_ resolvió 12 problemas y obtuvo el lugar #38 (96%) en The 2022 ICPC Gran Premio de Mexico
-1. _Ice and Fire_ resolvió 7 problemas y obtuvo el lugar #45 (95%) en The 2022 ICPC Gran Premio de Mexico
-1. _Sudo Programmers_ resolvió 9 problemas y obtuvo el lugar #67 (93%) en The 2022 ICPC Gran Premio de Mexico
+1. _#include <uaz>_ resolvió 1 problemas y obtuvo el lugar #41 (96%) en The 2022 ICPC Mexico Finals
+1. _Sudo Programmers_ resolvió 9 problemas y obtuvo el lugar #67 (94%) en The 2022 ICPC Gran Premio de Mexico
 1. _El Bueno, el Malo y el Feo_ resolvió 5 problemas y obtuvo el lugar #87 (93%) en Gran Premio de Mexico 2019
 1. _Bug Makers_ resolvió 5 problemas y obtuvo el lugar #88 (93%) en Gran Premio de Mexico 2019
 1. _SourceCode_ resolvió 2 problemas y obtuvo el lugar #40 (92%) en The 2016 ACM-ICPC Mexico and Central America Finals
@@ -208,8 +208,8 @@
 
 ### 2022-2023
 
-- #38 _#include <uaz>_ (Clasificatorio)
-- #45 _Ice and Fire_ (Clasificatorio)
+- #36 _Ice and Fire_ (Regional)
+- #41 _#include <uaz>_ (Regional)
 - #67 _Sudo Programmers_ (Clasificatorio)
 - #85 _null++_ (Clasificatorio)
 - #98 _PrietoSquad_ (Clasificatorio)
@@ -222,11 +222,17 @@
 - #211 _Code O'Holics_ (Clasificatorio)
 - #268 _Espadas argenteas_ (Clasificatorio)
 - #272 _The Last Sons of Chago_ (Clasificatorio)
+- #273 _RifZac_ (Clasificatorio)
 - #275 _Time Limit Exceeded_ (Clasificatorio)
 - #276 _LiderUAZ_ (Clasificatorio)
+- #295 _TeamPicafresa_ (Clasificatorio)
+- #321 _Sin idea_ (Clasificatorio)
 - #324 _Power Rangers Megaforce_ (Clasificatorio)
 - #365 _The Voids_ (Clasificatorio)
-- #381 _Null_ (Clasificatorio)
+- #382 _BitUnlockers427_ (Clasificatorio)
+- #382 _Doppio-CiJey_ (Clasificatorio)
+- #382 _Null_ (Clasificatorio)
+- #382 _RifZac2_ (Clasificatorio)
 
 
 

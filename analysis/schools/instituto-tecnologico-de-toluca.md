@@ -5,8 +5,8 @@
 ## Mejores 10 equipos
 
 1. _ITToluca1_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Halcones Toluca_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _Tecnológico de Toluca_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _Halcones Toluca_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Tecnológico de Toluca_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _Halcones_ resolvió 0 problemas y obtuvo el lugar #226 (53%) en The 2021 ICPC Gran Premio de Mexico
 1. _Hawk Power_ resolvió 0 problemas y obtuvo el lugar #226 (53%) en The 2021 ICPC Gran Premio de Mexico
 1. _Halcones Toluca_ resolvió 0 problemas y obtuvo el lugar #351 (50%) en Gran Premio de Mexico 2020
@@ -30,8 +30,8 @@
 
 ### 2022-2023
 
-- #381 (#75 de TecNM) _Halcones Toluca_ (Clasificatorio)
-- #381 (#75 de TecNM) _Tecnológico de Toluca_ (Clasificatorio)
+- #382 (#82 de TecNM) _Halcones Toluca_ (Clasificatorio)
+- #382 (#82 de TecNM) _Tecnológico de Toluca_ (Clasificatorio)
 
 
 

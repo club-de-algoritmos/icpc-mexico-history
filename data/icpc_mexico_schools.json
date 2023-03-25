@@ -2004,6 +2004,14 @@
     "is_eligible": false
   },
   {
+    "name": "olimpiada mexicana de informatica en quintana roo",
+    "alt_names": [],
+    "community": null,
+    "country": "mexico",
+    "state": null,
+    "is_eligible": false
+  },
+  {
     "name": "olimpiada mexicana de informatica en zacatecas",
     "alt_names": [],
     "community": null,
@@ -2023,6 +2031,14 @@
     "name": "tec milenio - las torres",
     "alt_names": [],
     "community": null,
+    "country": "mexico",
+    "state": null,
+    "is_eligible": true
+  },
+  {
+    "name": "tecnm campus villa la venta",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
     "country": "mexico",
     "state": null,
     "is_eligible": true

@@ -13,7 +13,7 @@
 1. _Phantom Hero_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _RDL Legends_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _TeamPRL_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _ALFA TEAM_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _ALFA TEAM_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -53,11 +53,12 @@
 
 ### 2022-2023
 
-- #381 (#75 de TecNM) _ALFA TEAM_ (Clasificatorio)
-- #381 (#75 de TecNM) _End of security_ (Clasificatorio)
-- #381 (#75 de TecNM) _Gateway-TICs-ITSOEH_ (Clasificatorio)
-- #381 (#75 de TecNM) _ITSOEH ISIC Error 404_ (Clasificatorio)
-- #381 (#75 de TecNM) _Not Found 404_ (Clasificatorio)
+- #382 (#82 de TecNM) _ALFA TEAM_ (Clasificatorio)
+- #382 (#82 de TecNM) _Bucle Infinito_ (Clasificatorio)
+- #382 (#82 de TecNM) _End of security_ (Clasificatorio)
+- #382 (#82 de TecNM) _Gateway-TICs-ITSOEH_ (Clasificatorio)
+- #382 (#82 de TecNM) _ITSOEH ISIC Error 404_ (Clasificatorio)
+- #382 (#82 de TecNM) _Not Found 404_ (Clasificatorio)
 
 
 

@@ -8,11 +8,11 @@
     - Avanzó a la final mundial y resolvió 2 problemas y obtuvo el lugar #63 (54%) en 43rd Annual World Finals of the International Collegiate Programming Contest
 1. _#define TriLCI(404.0) :v_ resolvió 6 problemas y obtuvo el lugar #3 (100%) en The 2019 ICPC Mexico Finals
 1. _define TriLCI 404_ resolvió 5 problemas y obtuvo el lugar #8 (99%) en The 2017 ACM-ICPC Mexico and Central America Finals
-1. _Hugs for Bugs_ resolvió 14 problemas y obtuvo el lugar #16 (98%) en The 2022 ICPC Gran Premio de Mexico
+1. _Hugs for Bugs_ resolvió 3 problemas y obtuvo el lugar #19 (98%) en The 2022 ICPC Mexico Finals
+1. _Javamonos_ resolvió 3 problemas y obtuvo el lugar #20 (98%) en The 2022 ICPC Mexico Finals
 1. _Another Day, another AC_ resolvió 3 problemas y obtuvo el lugar #24 (98%) en The 2019 ICPC Mexico Finals
 1. _Laughing Coffee_ resolvió 4 problemas y obtuvo el lugar #11 (97%) en The 2015 ACM-ICPC Mexico and Central America Finals
 1. _ITSUR MIX LANG COFFEE_ resolvió 4 problemas y obtuvo el lugar #14 (97%) en The 2016 ACM-ICPC Mexico and Central America Finals
-1. _Javamonos_ resolvió 11 problemas y obtuvo el lugar #26 (97%) en The 2022 ICPC Gran Premio de Mexico
 1. _ITSUR-MIXLANG CODERS_ resolvió 3 problemas y obtuvo el lugar #8 (96%) en The 2013 Mexico & Central America Regional Contest
 1. _ITSUR MIX LANG CODERS_ resolvió 5 problemas y obtuvo el lugar #10 (96%) en The 2014 ACM-ICPC Mexico and Central America Finals
 
@@ -209,35 +209,35 @@
 
 ### 2022-2023
 
-- #16 (#1 de TecNM) _Hugs for Bugs_ (Clasificatorio)
-- #26 (#2 de TecNM) _Javamonos_ (Clasificatorio)
+- #19 (#2 de TecNM) _Hugs for Bugs_ (Regional)
+- #20 (#3 de TecNM) _Javamonos_ (Regional)
 - #47 (#6 de TecNM) _La remontada de los picateclas_ (Clasificatorio)
-- #62 (#7 de TecNM) _Team-Biriche_ (Clasificatorio)
+- #54 (#5 de TecNM) _Team-Biriche_ (Regional)
 - #80 (#9 de TecNM) _Krakatoa_ (Clasificatorio)
 - #107 (#12 de TecNM) _#include <ancedros>_ (Clasificatorio)
 - #119 (#16 de TecNM) _Win2 Carnitas Karmalienses_ (Clasificatorio)
 - #121 (#17 de TecNM) _El aceite del atún_ (Clasificatorio)
 - #123 (#18 de TecNM) _Los Prefabs_ (Clasificatorio)
-- #185 (#31 de TecNM) _chilakillers_ (Clasificatorio)
-- #190 (#32 de TecNM) _RTE.cpp_ (Clasificatorio)
-- #229 (#38 de TecNM) _Tolteclas _ (Clasificatorio)
-- #269 (#46 de TecNM) _Los Estafados de Talán_ (Clasificatorio)
-- #305 (#52 de TecNM) _Los falsos caballeros_ (Clasificatorio)
-- #317 (#56 de TecNM) _Los UwU's_ (Clasificatorio)
-- #369 (#66 de TecNM) _BlackBurn_ (Clasificatorio)
-- #372 (#68 de TecNM) _AXJUNI_ (Clasificatorio)
-- #381 (#75 de TecNM) _011 System Engineers_ (Clasificatorio)
-- #381 (#75 de TecNM) _ChimiChurriS_ (Clasificatorio)
-- #381 (#75 de TecNM) _Code Killer_ (Clasificatorio)
-- #381 (#75 de TecNM) _CodigoShelby_ (Clasificatorio)
-- #381 (#75 de TecNM) _JGA_ (Clasificatorio)
-- #381 (#75 de TecNM) _Los padrinos_ (Clasificatorio)
-- #381 (#75 de TecNM) _Los santaniyas_ (Clasificatorio)
-- #381 (#75 de TecNM) _Machine Learning_ (Clasificatorio)
-- #381 (#75 de TecNM) _Movimento naranja_ (Clasificatorio)
-- #381 (#75 de TecNM) _New Desire_ (Clasificatorio)
-- #381 (#75 de TecNM) _Pandora box++;_ (Clasificatorio)
-- #381 (#75 de TecNM) _sICPuede_ (Clasificatorio)
+- #185 (#32 de TecNM) _chilakillers_ (Clasificatorio)
+- #190 (#33 de TecNM) _RTE.cpp_ (Clasificatorio)
+- #229 (#39 de TecNM) _Tolteclas _ (Clasificatorio)
+- #269 (#48 de TecNM) _Los Estafados de Talán_ (Clasificatorio)
+- #305 (#55 de TecNM) _Los falsos caballeros_ (Clasificatorio)
+- #317 (#59 de TecNM) _Los UwU's_ (Clasificatorio)
+- #369 (#72 de TecNM) _BlackBurn_ (Clasificatorio)
+- #372 (#74 de TecNM) _AXJUNI_ (Clasificatorio)
+- #382 (#82 de TecNM) _011 System Engineers_ (Clasificatorio)
+- #382 (#82 de TecNM) _ChimiChurriS_ (Clasificatorio)
+- #382 (#82 de TecNM) _Code Killer_ (Clasificatorio)
+- #382 (#82 de TecNM) _CodigoShelby_ (Clasificatorio)
+- #382 (#82 de TecNM) _JGA_ (Clasificatorio)
+- #382 (#82 de TecNM) _Los padrinos_ (Clasificatorio)
+- #382 (#82 de TecNM) _Los santaniyas_ (Clasificatorio)
+- #382 (#82 de TecNM) _Machine Learning_ (Clasificatorio)
+- #382 (#82 de TecNM) _Movimento naranja_ (Clasificatorio)
+- #382 (#82 de TecNM) _New Desire_ (Clasificatorio)
+- #382 (#82 de TecNM) _Pandora box++;_ (Clasificatorio)
+- #382 (#82 de TecNM) _sICPuede_ (Clasificatorio)
 
 
 

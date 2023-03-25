@@ -6,12 +6,12 @@
 
 1. _!nullptr_ resolvió 4 problemas y obtuvo el lugar #7 (99%) en The 2021 ICPC Mexico Finals
 1. _!nullptr_ resolvió 4 problemas y obtuvo el lugar #13 (98%) en The 2020 ICPC Mexico Finals
-1. _!nullptr_ resolvió 10 problemas y obtuvo el lugar #23 (98%) en The 2022 ICPC Gran Premio de Mexico
 1. _¿Qué?_ resolvió 3 problemas y obtuvo el lugar #33 (98%) en The 2019 ICPC Mexico Finals
+1. _!nullptr_ resolvió 2 problemas y obtuvo el lugar #34 (97%) en The 2022 ICPC Mexico Finals
 1. _Opilimpicos_ resolvió 1 problemas y obtuvo el lugar #47 (96%) en The 2019 ICPC Mexico Finals
 1. _Equipo_ resolvió 3 problemas y obtuvo el lugar #45 (95%) en The 2018 ICPC Mexico and Central America Finals
-1. _js++_ resolvió 8 problemas y obtuvo el lugar #58 (94%) en The 2022 ICPC Gran Premio de Mexico
-1. _camel_case_ resolvió 10 problemas y obtuvo el lugar #61 (93%) en The 2022 ICPC Gran Premio de Mexico
+1. _js++_ resolvió 1 problemas y obtuvo el lugar #53 (95%) en The 2022 ICPC Mexico Finals
+1. _camel_case_ resolvió 10 problemas y obtuvo el lugar #61 (94%) en The 2022 ICPC Gran Premio de Mexico
 1. _Algorítmicos_ resolvió 9 problemas y obtuvo el lugar #68 (93%) en The 2022 ICPC Gran Premio de Mexico
 1. _Los Testigos de Botello_ resolvió 7 problemas y obtuvo el lugar #105 (92%) en Gran Premio de Mexico 2019
 
@@ -82,8 +82,8 @@
 
 ### 2022-2023
 
-- #23 _!nullptr_ (Clasificatorio)
-- #58 _js++_ (Clasificatorio)
+- #34 _!nullptr_ (Regional)
+- #53 _js++_ (Regional)
 - #61 _camel_case_ (Clasificatorio)
 - #68 _Algorítmicos_ (Clasificatorio)
 - #92 _Exception:TeamNotFound_ (Clasificatorio)

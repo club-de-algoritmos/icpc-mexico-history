@@ -47,9 +47,9 @@
 
 ### 2022-2023
 
-- #381 (#75 de TecNM) _Equipo ITESA_ (Clasificatorio)
-- #381 (#75 de TecNM) _Los Big-O_ (Clasificatorio)
-- #381 (#75 de TecNM) _MasterHelloWorld! - Remastered_ (Clasificatorio)
+- #382 (#82 de TecNM) _Equipo ITESA_ (Clasificatorio)
+- #382 (#82 de TecNM) _Los Big-O_ (Clasificatorio)
+- #382 (#82 de TecNM) _MasterHelloWorld! - Remastered_ (Clasificatorio)
 
 
 

@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _Syntax Error_ resolvió 2 problemas y obtuvo el lugar #274 (70%) en The 2022 ICPC Gran Premio de Mexico
+1. _Syntax Error_ resolvió 2 problemas y obtuvo el lugar #274 (74%) en The 2022 ICPC Gran Premio de Mexico
+1. _Objetivos Sistemáticos_ resolvió 2 problemas y obtuvo el lugar #306 (71%) en The 2022 ICPC Gran Premio de Mexico
 1. _DDR3_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _LIMITLESS_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _NullPointer_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Objetivos Sistemáticos_ resolvió 2 problemas y obtuvo el lugar #306 (66%) en The 2022 ICPC Gran Premio de Mexico
-1. _Dinamita_ resolvió 1 problemas y obtuvo el lugar #374 (59%) en The 2022 ICPC Gran Premio de Mexico
-1. _Baby Code_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _Disaster Solution_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _Elementales 9_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _Los Kirbys_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _Dinamita_ resolvió 1 problemas y obtuvo el lugar #374 (65%) en The 2022 ICPC Gran Premio de Mexico
+1. _Baby Code_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Disaster Solution_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Elementales 9_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Los Kirbys_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -32,17 +32,18 @@
 
 ### 2022-2023
 
-- #274 (#47 de TecNM) _Syntax Error_ (Clasificatorio)
-- #306 (#53 de TecNM) _Objetivos Sistemáticos_ (Clasificatorio)
-- #374 (#70 de TecNM) _Dinamita_ (Clasificatorio)
-- #381 (#75 de TecNM) _Baby Code_ (Clasificatorio)
-- #381 (#75 de TecNM) _Disaster Solution_ (Clasificatorio)
-- #381 (#75 de TecNM) _Elementales 9_ (Clasificatorio)
-- #381 (#75 de TecNM) _Los Kirbys_ (Clasificatorio)
-- #381 (#75 de TecNM) _Los Primis_ (Clasificatorio)
-- #381 (#75 de TecNM) _PESSTARS_ (Clasificatorio)
-- #381 (#75 de TecNM) _Programación Básica_ (Clasificatorio)
-- #381 (#75 de TecNM) _Return  0_ (Clasificatorio)
+- #274 (#49 de TecNM) _Syntax Error_ (Clasificatorio)
+- #306 (#56 de TecNM) _Objetivos Sistemáticos_ (Clasificatorio)
+- #374 (#76 de TecNM) _Dinamita_ (Clasificatorio)
+- #382 (#82 de TecNM) _Baby Code_ (Clasificatorio)
+- #382 (#82 de TecNM) _Disaster Solution_ (Clasificatorio)
+- #382 (#82 de TecNM) _Elementales 9_ (Clasificatorio)
+- #382 (#82 de TecNM) _Los Kirbys_ (Clasificatorio)
+- #382 (#82 de TecNM) _Los Primis_ (Clasificatorio)
+- #382 (#82 de TecNM) _Os@s Team_ (Clasificatorio)
+- #382 (#82 de TecNM) _PESSTARS_ (Clasificatorio)
+- #382 (#82 de TecNM) _Programación Básica_ (Clasificatorio)
+- #382 (#82 de TecNM) _Return  0_ (Clasificatorio)
 
 
 

@@ -10,11 +10,11 @@
     - Avanzó a la final mundial y resolvió 3 problemas y obtuvo el lugar #57 (58%) en 41st Annual World Finals of the ACM International Collegiate Programming Contest
 1. _TriAda_ resolvió 5 problemas y obtuvo el lugar #4 (99%) en The 2021 ICPC Mexico Finals
 1. _TriAda_ resolvió 5 problemas y obtuvo el lugar #10 (99%) en The 2020 ICPC Mexico Finals
+1. _ACE_ resolvió 4 problemas y obtuvo el lugar #11 (99%) en The 2022 ICPC Mexico Finals
+1. _nu1l_ resolvió 4 problemas y obtuvo el lugar #15 (99%) en The 2022 ICPC Mexico Finals
 1. _TriAda_ resolvió 4 problemas y obtuvo el lugar #19 (99%) en The 2019 ICPC Mexico Finals
 1. _Los Irmos_ resolvió 3 problemas y obtuvo el lugar #3 (98%) en The 2003 ACM Mexico and Central America Programming Contest
 1. _Los Irmos_ resolvió 2 problemas y obtuvo el lugar #3 (98%) en The 2002 ACM Mexico and Central America Programming Contest
-1. _ACE_ resolvió 13 problemas y obtuvo el lugar #18 (98%) en The 2022 ICPC Gran Premio de Mexico
-1. _nu1l_ resolvió 14 problemas y obtuvo el lugar #22 (98%) en The 2022 ICPC Gran Premio de Mexico
 1. _FCFM1_ resolvió 4 problemas y obtuvo el lugar #3 (97%) en The 2001 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
@@ -167,8 +167,8 @@
 
 ### 2022-2023
 
-- #18 _ACE_ (Clasificatorio)
-- #22 _nu1l_ (Clasificatorio)
+- #11 _ACE_ (Regional)
+- #15 _nu1l_ (Regional)
 - #49 _Los Tres Paleteros_ (Clasificatorio)
 - #103 _Syntax Error_UANL_ (Clasificatorio)
 - #144 _error 404_ (Clasificatorio)
@@ -185,11 +185,11 @@
 - #353 _FastCode_ (Clasificatorio)
 - #357 _Estresados Check_ (Clasificatorio)
 - #368 _Bisontes FCFM_ (Clasificatorio)
-- #381 _C+MATH_ (Clasificatorio)
-- #381 _Las superpoderosas_ (Clasificatorio)
-- #381 _Lechuzas bebés_ (Clasificatorio)
-- #381 _Los saraperos_ (Clasificatorio)
-- #381 _The coders_ (Clasificatorio)
+- #382 _C+MATH_ (Clasificatorio)
+- #382 _Las superpoderosas_ (Clasificatorio)
+- #382 _Lechuzas bebés_ (Clasificatorio)
+- #382 _Los saraperos_ (Clasificatorio)
+- #382 _The coders_ (Clasificatorio)
 
 
 

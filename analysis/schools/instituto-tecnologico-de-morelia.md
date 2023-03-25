@@ -7,13 +7,13 @@
 1. _TecMorelia2_ resolvió 2 problemas y obtuvo el lugar #18 (90%) en The 2013 Mexico & Central America Regional Contest
 1. _ITM-3_ resolvió 3 problemas y obtuvo el lugar #20 (88%) en The 2011 Mexico & Central America Regional Contest
 1. _Tec Morelia 1_ resolvió 2 problemas y obtuvo el lugar #46 (72%) en The 2012 Mexico & Central America Regional Contest
+1. _Bichotas_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Lucas 21:16_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Pony Code_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _PyJava++_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Ticsitos_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _pony force_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _ITM - Tec Morelia 2_ resolvió 2 problemas y obtuvo el lugar #63 (62%) en The 2012 Mexico & Central America Regional Contest
-1. _ITM-2_ resolvió 2 problemas y obtuvo el lugar #64 (61%) en The 2011 Mexico & Central America Regional Contest
-1. _VISUAL DIM_ resolvió 3 problemas y obtuvo el lugar #273 (61%) en Gran Premio de Mexico 2020
-1. _Fail_ resolvió 1 problemas y obtuvo el lugar #67 (59%) en The 2009 Mexico & Central America Contest
-1. _Pony Code_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _PyJava++_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _TecMorelia1_ resolvió 1 problemas y obtuvo el lugar #75 (57%) en The 2013 Mexico & Central America Regional Contest
 
 ## Participaciones
 
@@ -66,8 +66,12 @@
 
 ### 2022-2023
 
-- #381 (#75 de TecNM) _Pony Code_ (Clasificatorio)
-- #381 (#75 de TecNM) _PyJava++_ (Clasificatorio)
+- #382 (#82 de TecNM) _Bichotas_ (Clasificatorio)
+- #382 (#82 de TecNM) _Lucas 21:16_ (Clasificatorio)
+- #382 (#82 de TecNM) _Pony Code_ (Clasificatorio)
+- #382 (#82 de TecNM) _PyJava++_ (Clasificatorio)
+- #382 (#82 de TecNM) _Ticsitos_ (Clasificatorio)
+- #382 (#82 de TecNM) _pony force_ (Clasificatorio)
 
 
 

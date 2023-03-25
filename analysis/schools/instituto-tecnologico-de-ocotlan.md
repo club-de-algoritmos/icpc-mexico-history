@@ -51,14 +51,15 @@
 
 ### 2022-2023
 
-- #381 (#75 de TecNM) _" ;Mortal "_ (Clasificatorio)
-- #381 (#75 de TecNM) _Aldeanos_ (Clasificatorio)
-- #381 (#75 de TecNM) _Developers de Dios_ (Clasificatorio)
-- #381 (#75 de TecNM) _El Tim+pro_ (Clasificatorio)
-- #381 (#75 de TecNM) _Fishing hook_ (Clasificatorio)
-- #381 (#75 de TecNM) _Los Cuacks_ (Clasificatorio)
-- #381 (#75 de TecNM) _Los Molletes_ (Clasificatorio)
-- #381 (#75 de TecNM) _Los egocéntricos_ (Clasificatorio)
+- #382 (#82 de TecNM) _" ;Mortal "_ (Clasificatorio)
+- #382 (#82 de TecNM) _Aldeanos_ (Clasificatorio)
+- #382 (#82 de TecNM) _Developers de Dios_ (Clasificatorio)
+- #382 (#82 de TecNM) _El Tim+pro_ (Clasificatorio)
+- #382 (#82 de TecNM) _Fishing hook_ (Clasificatorio)
+- #382 (#82 de TecNM) _Guayabitas_ (Clasificatorio)
+- #382 (#82 de TecNM) _Los Cuacks_ (Clasificatorio)
+- #382 (#82 de TecNM) _Los Molletes_ (Clasificatorio)
+- #382 (#82 de TecNM) _Los egocéntricos_ (Clasificatorio)
 
 
 

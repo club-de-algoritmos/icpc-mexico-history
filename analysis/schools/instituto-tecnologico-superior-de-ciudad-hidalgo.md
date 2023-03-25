@@ -141,20 +141,20 @@
 
 ### 2022-2023
 
-- #381 (#75 de TecNM) _Bunkers_ (Clasificatorio)
-- #381 (#75 de TecNM) _Code Rookies_ (Clasificatorio)
-- #381 (#75 de TecNM) _ElonMusk Discipulos_ (Clasificatorio)
-- #381 (#75 de TecNM) _Fenix_ (Clasificatorio)
-- #381 (#75 de TecNM) _JaguarSys_ (Clasificatorio)
-- #381 (#75 de TecNM) _Los 3 mosqueteros_ (Clasificatorio)
-- #381 (#75 de TecNM) _Los Tipos Enteros_ (Clasificatorio)
-- #381 (#75 de TecNM) _PinguiLovers_ (Clasificatorio)
-- #381 (#75 de TecNM) _SisHoGuaYa_ (Clasificatorio)
-- #381 (#75 de TecNM) _Team Blue_ (Clasificatorio)
-- #381 (#75 de TecNM) _Team Jaguar_ (Clasificatorio)
-- #381 (#75 de TecNM) _Team Tics_ (Clasificatorio)
-- #381 (#75 de TecNM) _The pixies_ (Clasificatorio)
-- #381 (#75 de TecNM) _Warriors_ (Clasificatorio)
+- #382 (#82 de TecNM) _Bunkers_ (Clasificatorio)
+- #382 (#82 de TecNM) _Code Rookies_ (Clasificatorio)
+- #382 (#82 de TecNM) _ElonMusk Discipulos_ (Clasificatorio)
+- #382 (#82 de TecNM) _Fenix_ (Clasificatorio)
+- #382 (#82 de TecNM) _JaguarSys_ (Clasificatorio)
+- #382 (#82 de TecNM) _Los 3 mosqueteros_ (Clasificatorio)
+- #382 (#82 de TecNM) _Los Tipos Enteros_ (Clasificatorio)
+- #382 (#82 de TecNM) _PinguiLovers_ (Clasificatorio)
+- #382 (#82 de TecNM) _SisHoGuaYa_ (Clasificatorio)
+- #382 (#82 de TecNM) _Team Blue_ (Clasificatorio)
+- #382 (#82 de TecNM) _Team Jaguar_ (Clasificatorio)
+- #382 (#82 de TecNM) _Team Tics_ (Clasificatorio)
+- #382 (#82 de TecNM) _The pixies_ (Clasificatorio)
+- #382 (#82 de TecNM) _Warriors_ (Clasificatorio)
 
 
 

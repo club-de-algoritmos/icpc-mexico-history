@@ -5,15 +5,15 @@
 ## Mejores 10 equipos
 
 1. _A verdad me engañe_ resolvió 3 problemas y obtuvo el lugar #39 (95%) en The 2020 ICPC Mexico Finals
-1. _OxBests_ resolvió 8 problemas y obtuvo el lugar #69 (92%) en The 2022 ICPC Gran Premio de Mexico
+1. _OxBests_ resolvió 1 problemas y obtuvo el lugar #55 (95%) en The 2022 ICPC Mexico Finals
 1. _0xBests_ resolvió 0 problemas y obtuvo el lugar #50 (90%) en The 2021 ICPC Mexico Finals
 1. _A verdad me engañe_ resolvió 5 problemas y obtuvo el lugar #129 (90%) en Gran Premio de Mexico 2019
 1. _silumgar_ resolvió 2 problemas y obtuvo el lugar #63 (81%) en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _Los cadetes de Konoha_ resolvió 3 problemas y obtuvo el lugar #224 (79%) en The 2022 ICPC Gran Premio de Mexico
 1. _silumgar_ resolvió 4 problemas y obtuvo el lugar #145 (78%) en Gran Premio de Mexico & Centroamerica 2017
+1. _Chip’n Dale +1_ resolvió 3 problemas y obtuvo el lugar #231 (78%) en The 2022 ICPC Gran Premio de Mexico
+1. _Los Mavericks_ resolvió 3 problemas y obtuvo el lugar #234 (78%) en The 2022 ICPC Gran Premio de Mexico
 1. _Rule34_ resolvió 1 problemas y obtuvo el lugar #43 (76%) en The 2013 Mexico & Central America Regional Contest
-1. _#FuerzaJuanga_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
-1. _ANtRAX_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
-1. _CrowSys_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
 
 ## Participaciones
 
@@ -152,15 +152,19 @@
 
 ### 2022-2023
 
-- #69 (#8 de TecNM) _OxBests_ (Clasificatorio)
-- #224 (#36 de TecNM) _Los cadetes de Konoha_ (Clasificatorio)
-- #231 (#39 de TecNM) _Chip’n Dale +1_ (Clasificatorio)
-- #319 (#57 de TecNM) _Megabytes_ (Clasificatorio)
-- #346 (#63 de TecNM) _Kernel Panic_ (Clasificatorio)
-- #373 (#69 de TecNM) _R2D2_ (Clasificatorio)
-- #375 (#71 de TecNM) _Las minions_ (Clasificatorio)
-- #381 (#75 de TecNM) _Coders in progress_ (Clasificatorio)
-- #381 (#75 de TecNM) _The Ravens Logics_ (Clasificatorio)
+- #55 (#6 de TecNM) _OxBests_ (Regional)
+- #224 (#37 de TecNM) _Los cadetes de Konoha_ (Clasificatorio)
+- #231 (#40 de TecNM) _Chip’n Dale +1_ (Clasificatorio)
+- #234 (#42 de TecNM) _Los Mavericks_ (Clasificatorio)
+- #319 (#60 de TecNM) _Megabytes_ (Clasificatorio)
+- #346 (#68 de TecNM) _Kernel Panic_ (Clasificatorio)
+- #366 (#71 de TecNM) _NÑ_ (Clasificatorio)
+- #373 (#75 de TecNM) _R2D2_ (Clasificatorio)
+- #375 (#77 de TecNM) _Las minions_ (Clasificatorio)
+- #382 (#82 de TecNM) _Coders in progress_ (Clasificatorio)
+- #382 (#82 de TecNM) _Los Chicharrines_ (Clasificatorio)
+- #382 (#82 de TecNM) _StringDEA_ (Clasificatorio)
+- #382 (#82 de TecNM) _The Ravens Logics_ (Clasificatorio)
 
 
 

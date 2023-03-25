@@ -11,11 +11,11 @@
 1. _Peludos_ resolvió 5 problemas y obtuvo el lugar #3 (99%) en The 2012 Mexico & Central America Regional Contest
 1. _Leulz_ resolvió 4 problemas y obtuvo el lugar #7 (98%) en The 2015 ACM-ICPC Mexico and Central America Finals
 1. _cagUAA++_ resolvió 4 problemas y obtuvo el lugar #15 (98%) en The 2020 ICPC Mexico Finals
+1. _Gallos_ resolvió 3 problemas y obtuvo el lugar #25 (98%) en The 2022 ICPC Mexico Finals
 1. _Los testigos de Aarón_ resolvió 3 problemas y obtuvo el lugar #32 (98%) en The 2019 ICPC Mexico Finals
 1. _nac-OS_ resolvió 2 problemas y obtuvo el lugar #21 (97%) en The 2017 ACM-ICPC Mexico and Central America Finals
 1. _WA de WAccepted_ resolvió 4 problemas y obtuvo el lugar #24 (97%) en The 2018 ICPC Mexico and Central America Finals
 1. _Team Puzzles_ resolvió 3 problemas y obtuvo el lugar #24 (95%) en The 2021 ICPC Mexico Finals
-1. _greñud-OS_ resolvió 2 problemas y obtuvo el lugar #34 (95%) en The 2017 ACM-ICPC Mexico and Central America Finals
 
 ## Participaciones
 
@@ -167,8 +167,8 @@
 
 ### 2022-2023
 
+- #25 _Gallos_ (Regional)
 - #48 _TREE(3)_ (Clasificatorio)
-- #64 _Gallos_ (Clasificatorio)
 - #176 _Axolotls_ (Clasificatorio)
 - #203 _Avenge Asgard_ (Clasificatorio)
 - #209 _Fluffy boys_ (Clasificatorio)

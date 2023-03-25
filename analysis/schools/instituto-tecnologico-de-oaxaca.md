@@ -9,8 +9,8 @@
 1. _KEDM Team_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _MAGG_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _Team Dinamita de Oaxaca_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _FuerzITO_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _The Warriors_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _FuerzITO_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _The Warriors_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -24,8 +24,8 @@
 
 ### 2022-2023
 
-- #381 (#75 de TecNM) _FuerzITO_ (Clasificatorio)
-- #381 (#75 de TecNM) _The Warriors_ (Clasificatorio)
+- #382 (#82 de TecNM) _FuerzITO_ (Clasificatorio)
+- #382 (#82 de TecNM) _The Warriors_ (Clasificatorio)
 
 
 

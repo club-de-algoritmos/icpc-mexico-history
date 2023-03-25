@@ -5,7 +5,7 @@
 ## Mejores 10 equipos
 
 1. _EquipoZit1_ resolvió 2 problemas y obtuvo el lugar #267 (64%) en Gran Premio de Mexico 2018
-1. _Los 3.1416_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _Los 3.1416_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _EquipoZit3_ resolvió 1 problemas y obtuvo el lugar #343 (54%) en Gran Premio de Mexico 2018
 1. _EquipoZit2_ resolvió 1 problemas y obtuvo el lugar #352 (53%) en Gran Premio de Mexico 2018
 1. _ITZitacuaro1_ resolvió 0 problemas y obtuvo el lugar #104 (36%) en The 2011 Mexico & Central America Regional Contest
@@ -42,7 +42,7 @@
 
 ### 2022-2023
 
-- #381 (#75 de TecNM) _Los 3.1416_ (Clasificatorio)
+- #382 (#82 de TecNM) _Los 3.1416_ (Clasificatorio)
 
 
 

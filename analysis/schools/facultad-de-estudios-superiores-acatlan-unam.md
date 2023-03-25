@@ -10,10 +10,10 @@
 1. _LA MAFIA DEL PODER_ resolvió 1 problemas y obtuvo el lugar #42 (97%) en The 2019 ICPC Mexico Finals
 1. _twt_ resolvió 3 problemas y obtuvo el lugar #23 (96%) en The 2016 ACM-ICPC Mexico and Central America Finals
 1. _turing incompleto_ resolvió 2 problemas y obtuvo el lugar #31 (96%) en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _M@C'nificas _ resolvió 2 problemas y obtuvo el lugar #39 (96%) en The 2022 ICPC Mexico Finals
 1. _BEANERS_ resolvió 8 problemas y obtuvo el lugar #51 (96%) en Gran Premio de Mexico 2019
 1. _Burst Programming_ resolvió 2 problemas y obtuvo el lugar #10 (95%) en The 2013 Mexico & Central America Regional Contest
 1. _Lavanda Norteña_ resolvió 3 problemas y obtuvo el lugar #33 (95%) en The 2020 ICPC Mexico Finals
-1. _RE100TE_ resolvió 5 problemas y obtuvo el lugar #70 (95%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 
@@ -103,13 +103,14 @@
 
 ### 2022-2023
 
-- #77 _M@C'nificas _ (Clasificatorio)
+- #39 _M@C'nificas _ (Regional)
 - #84 _axolotes_ (Clasificatorio)
 - #91 _Minitas_chinas++_ (Clasificatorio)
 - #120 _winx_ (Clasificatorio)
 - #135 _queSADillas_ (Clasificatorio)
 - #142 _NoName:(_ (Clasificatorio)
 - #241 _los +P2_ (Clasificatorio)
+- #382 _Meztlicalli_ (Clasificatorio)
 
 
 

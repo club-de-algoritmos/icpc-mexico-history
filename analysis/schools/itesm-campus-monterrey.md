@@ -389,10 +389,10 @@
 
 ### 2022-2023
 
-- #17 _team.cpp_ (Clasificatorio)
-- #28 _O(1)_ (Clasificatorio)
+- #23 _team.cpp_ (Regional)
 - #31 _3 guys 1 WA _ (Clasificatorio)
 - #46 _La Sosiedad_ (Clasificatorio)
+- #51 _O(1)_ (Regional)
 - #73 _marcianosmx_ (Clasificatorio)
 - #88 _TheGoldenBorrego_ (Clasificatorio)
 - #124 _Los POOderosos_ (Clasificatorio)
@@ -419,7 +419,8 @@
 - #323 _CypherPunks_ (Clasificatorio)
 - #337 _NextWave_ (Clasificatorio)
 - #347 _C+Tec_ (Clasificatorio)
-- #381 _SegmentationFault_ (Clasificatorio)
+- #382 _O(NO)_ (Clasificatorio)
+- #382 _SegmentationFault_ (Clasificatorio)
 
 
 

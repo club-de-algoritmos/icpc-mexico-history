@@ -8,11 +8,11 @@
 1. _JARVIS_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _Joalda_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _ROCKET1_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _EMA+=3_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _ITSA-ISC-2022_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _MHOSAR_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _student.py_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _umizoomi_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _EMA+=3_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _ITSA-ISC-2022_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _MHOSAR_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _student.py_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _umizoomi_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _ITSA-ISC_ resolvió 0 problemas y obtuvo el lugar #226 (53%) en The 2021 ICPC Gran Premio de Mexico
 
 ## Participaciones
@@ -30,11 +30,11 @@
 
 ### 2022-2023
 
-- #381 (#75 de TecNM) _EMA+=3_ (Clasificatorio)
-- #381 (#75 de TecNM) _ITSA-ISC-2022_ (Clasificatorio)
-- #381 (#75 de TecNM) _MHOSAR_ (Clasificatorio)
-- #381 (#75 de TecNM) _student.py_ (Clasificatorio)
-- #381 (#75 de TecNM) _umizoomi_ (Clasificatorio)
+- #382 (#82 de TecNM) _EMA+=3_ (Clasificatorio)
+- #382 (#82 de TecNM) _ITSA-ISC-2022_ (Clasificatorio)
+- #382 (#82 de TecNM) _MHOSAR_ (Clasificatorio)
+- #382 (#82 de TecNM) _student.py_ (Clasificatorio)
+- #382 (#82 de TecNM) _umizoomi_ (Clasificatorio)
 
 
 

@@ -55,7 +55,9 @@
 
 ### 2022-2023
 
-- #381 (#75 de TecNM) _noCompila_ (Clasificatorio)
+- #382 (#82 de TecNM) _Roots_ (Clasificatorio)
+- #382 (#82 de TecNM) _alpha team_ (Clasificatorio)
+- #382 (#82 de TecNM) _noCompila_ (Clasificatorio)
 
 
 

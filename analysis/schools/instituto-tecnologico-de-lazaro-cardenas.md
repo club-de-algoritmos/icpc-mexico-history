@@ -5,7 +5,7 @@
 ## Mejores 10 equipos
 
 1. _Base16_ resolvió 3 problemas y obtuvo el lugar #51 (94%) en The 2018 ICPC Mexico and Central America Finals
-1. _Guerreros del Sol_ resolvió 7 problemas y obtuvo el lugar #89 (90%) en The 2022 ICPC Gran Premio de Mexico
+1. _Guerreros del Sol_ resolvió 7 problemas y obtuvo el lugar #89 (92%) en The 2022 ICPC Gran Premio de Mexico
 1. _Base16_ resolvió 5 problemas y obtuvo el lugar #130 (90%) en Gran Premio de Mexico 2019
 1. _base16_ resolvió 10 problemas y obtuvo el lugar #79 (89%) en Gran Premio de Mexico 2020
 1. _Innombrables_ resolvió 4 problemas y obtuvo el lugar #184 (86%) en Gran Premio de Mexico 2019
@@ -96,12 +96,21 @@
 ### 2022-2023
 
 - #89 (#10 de TecNM) _Guerreros del Sol_ (Clasificatorio)
-- #277 (#48 de TecNM) _char mander_ (Clasificatorio)
-- #381 (#75 de TecNM) _Aquors_ (Clasificatorio)
-- #381 (#75 de TecNM) _BLINKS_ (Clasificatorio)
-- #381 (#75 de TecNM) _Cocodrilos_ (Clasificatorio)
-- #381 (#75 de TecNM) _INCOGNITOS_ (Clasificatorio)
-- #381 (#75 de TecNM) _Magda&Friends_ (Clasificatorio)
+- #277 (#50 de TecNM) _char mander_ (Clasificatorio)
+- #333 (#65 de TecNM) _SyntaxError_ (Clasificatorio)
+- #381 (#81 de TecNM) _Los Terreneitors_ (Clasificatorio)
+- #382 (#82 de TecNM) _Alguien del equipo está estrenido_ (Clasificatorio)
+- #382 (#82 de TecNM) _Aquors_ (Clasificatorio)
+- #382 (#82 de TecNM) _BAJIVY_CA_ (Clasificatorio)
+- #382 (#82 de TecNM) _BLINKS_ (Clasificatorio)
+- #382 (#82 de TecNM) _Black flag_ (Clasificatorio)
+- #382 (#82 de TecNM) _Cocodrilos_ (Clasificatorio)
+- #382 (#82 de TecNM) _INCOGNITOS_ (Clasificatorio)
+- #382 (#82 de TecNM) _Las Lolis_ (Clasificatorio)
+- #382 (#82 de TecNM) _Los más chetados del condado_ (Clasificatorio)
+- #382 (#82 de TecNM) _Magda&Friends_ (Clasificatorio)
+- #382 (#82 de TecNM) _Punto y Coma_ (Clasificatorio)
+- #382 (#82 de TecNM) _TeamL&S_ (Clasificatorio)
 
 
 

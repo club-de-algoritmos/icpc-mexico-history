@@ -6,7 +6,7 @@
 
 1. _TESJo_ resolvió 9 problemas y obtuvo el lugar #105 (67%) en Gran Premio de Mexico & Centroamerica
 1. _Lobos TESJo_ resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
-1. _ Botsitos_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _ Botsitos_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _ Botsitos_ resolvió 0 problemas y obtuvo el lugar #226 (53%) en The 2021 ICPC Gran Premio de Mexico
 1. _ALITER_ resolvió 0 problemas y obtuvo el lugar #226 (53%) en The 2021 ICPC Gran Premio de Mexico
 1. _Alpha_ resolvió 0 problemas y obtuvo el lugar #226 (53%) en The 2021 ICPC Gran Premio de Mexico
@@ -43,7 +43,7 @@
 
 ### 2022-2023
 
-- #381 _ Botsitos_ (Clasificatorio)
+- #382 _ Botsitos_ (Clasificatorio)
 
 
 

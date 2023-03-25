@@ -7,14 +7,14 @@
 1. _Leones(0,0,0)_ resolvió 7 problemas y obtuvo el lugar #4 (100%) en The 2020 ICPC Mexico Finals
     - Avanzó a la final mundial y resolvió 3 problemas y obtuvo el lugar #51 (62%) en 45th Annual World Finals of the International Collegiate Programming Contest
 1. _Leones(0,0,0)_ resolvió 5 problemas y obtuvo el lugar #2 (100%) en The 2021 ICPC Mexico Finals
+1. _Almost Retired_ resolvió 4 problemas y obtuvo el lugar #9 (99%) en The 2022 ICPC Mexico Finals
+1. _Ma+aLeones7000_ resolvió 4 problemas y obtuvo el lugar #10 (99%) en The 2022 ICPC Mexico Finals
 1. _Leones(0,0,0);_ resolvió 4 problemas y obtuvo el lugar #17 (99%) en The 2019 ICPC Mexico Finals
 1. _The Empire Strikes Back_ resolvió 4 problemas y obtuvo el lugar #14 (98%) en The 2020 ICPC Mexico Finals
+1. _Los Mismísimos Carajillos_ resolvió 4 problemas y obtuvo el lugar #17 (98%) en The 2022 ICPC Mexico Finals
+1. _DeltaWing_ resolvió 3 problemas y obtuvo el lugar #24 (98%) en The 2022 ICPC Mexico Finals
 1. _ACM Problem Solvers_ resolvió 4 problemas y obtuvo el lugar #6 (97%) en The 2010 Mexico & Central America Regional Contest
 1. _A New Hope_ resolvió 3 problemas y obtuvo el lugar #15 (97%) en The 2021 ICPC Mexico Finals
-1. _Yo no sé mañana_ resolvió 3 problemas y obtuvo el lugar #16 (97%) en The 2021 ICPC Mexico Finals
-1. _Lonches Ahogados_ resolvió 4 problemas y obtuvo el lugar #24 (97%) en The 2020 ICPC Mexico Finals
-1. _Almost Retired_ resolvió 14 problemas y obtuvo el lugar #25 (97%) en The 2022 ICPC Gran Premio de Mexico
-1. _Code Wizards_ resolvió 2 problemas y obtuvo el lugar #40 (97%) en The 2019 ICPC Mexico Finals
 
 ## Participaciones
 
@@ -213,10 +213,11 @@
 
 ### 2022-2023
 
-- #25 _Almost Retired_ (Clasificatorio)
-- #36 _Los Mismísimos Carajillos_ (Clasificatorio)
-- #37 _DeltaWing_ (Clasificatorio)
-- #60 _Ma+aLeones7000_ (Clasificatorio)
+- #9 _Almost Retired_ (Regional)
+- #10 _Ma+aLeones7000_ (Regional)
+- #17 _Los Mismísimos Carajillos_ (Regional)
+- #24 _DeltaWing_ (Regional)
+- #52 _Las bélicas_ (Regional)
 - #71 _The Log(n+1)_ (Clasificatorio)
 - #87 _Las divinas_ (Clasificatorio)
 - #106 _The endurance_ (Clasificatorio)
@@ -225,14 +226,16 @@
 - #189 _The PC Destroyers_ (Clasificatorio)
 - #192 _Caguamas.cpp_ (Clasificatorio)
 - #230 _Trenesitos_ (Clasificatorio)
-- #242 _Las bélicas_ (Clasificatorio)
 - #250 _Tortilla_ (Clasificatorio)
 - #329 _HelloLed_ (Clasificatorio)
 - #367 _Los inadaptados_ (Clasificatorio)
-- #381 _Bye bye byte_ (Clasificatorio)
-- #381 _Los magos del barrio_ (Clasificatorio)
-- #381 _Torombolos_ (Clasificatorio)
-- #381 _Uploading..._ (Clasificatorio)
+- #382 _Bye bye byte_ (Clasificatorio)
+- #382 _Code Masters_ (Clasificatorio)
+- #382 _Los magos del barrio_ (Clasificatorio)
+- #382 _Torombolos_ (Clasificatorio)
+- #382 _UdGod_ (Clasificatorio)
+- #382 _Uploading..._ (Clasificatorio)
+- #382 _XOXO_ (Clasificatorio)
 
 
 

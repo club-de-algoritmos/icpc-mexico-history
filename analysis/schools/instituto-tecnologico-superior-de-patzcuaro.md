@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _Equipapoi_ resolvió 5 problemas y obtuvo el lugar #134 (85%) en The 2022 ICPC Gran Premio de Mexico
+1. _Equipapoi_ resolvió 5 problemas y obtuvo el lugar #134 (87%) en The 2022 ICPC Gran Premio de Mexico
+1. _La_secta_de_Namjoon;_ resolvió 4 problemas y obtuvo el lugar #147 (86%) en The 2022 ICPC Gran Premio de Mexico
 1. _Spartans_ resolvió 4 problemas y obtuvo el lugar #146 (78%) en Gran Premio de Mexico & Centroamerica 2017
+1. _Los bellos durmientes_ resolvió 2 problemas y obtuvo el lugar #238 (77%) en The 2022 ICPC Gran Premio de Mexico
 1. _Anonimos_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
 1. _Biorenegados_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
 1. _Los Héroes del Norte_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
 1. _Los fabulosos Cadillacs_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
 1. _Team Masters_ resolvió 3 problemas y obtuvo el lugar #157 (76%) en Gran Premio de Mexico & Centroamerica 2017
 1. _Dinamita AEO_ resolvió 3 problemas y obtuvo el lugar #159 (76%) en Gran Premio de Mexico & Centroamerica 2017
-1. _Los luquines_ resolvió 3 problemas y obtuvo el lugar #161 (76%) en Gran Premio de Mexico & Centroamerica 2017
-1. _Ragnarok_ resolvió 1 problemas y obtuvo el lugar #303 (76%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 
@@ -100,8 +100,11 @@
 ### 2022-2023
 
 - #134 (#22 de TecNM) _Equipapoi_ (Clasificatorio)
-- #238 (#43 de TecNM) _Los bellos durmientes_ (Clasificatorio)
-- #381 (#75 de TecNM) _Sopa de Codito_ (Clasificatorio)
+- #147 (#26 de TecNM) _La_secta_de_Namjoon;_ (Clasificatorio)
+- #238 (#45 de TecNM) _Los bellos durmientes_ (Clasificatorio)
+- #299 (#54 de TecNM) _RRQ_ (Clasificatorio)
+- #382 (#82 de TecNM) _Los trifantasticos_ (Clasificatorio)
+- #382 (#82 de TecNM) _Sopa de Codito_ (Clasificatorio)
 
 
 

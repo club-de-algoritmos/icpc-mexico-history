@@ -8,12 +8,12 @@
 1. _Equipo7_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _MBP_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _Otro equipo de 3_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _itsu_uruapan1_ resolvió 2 problemas y obtuvo el lugar #66 (59%) en The 2011 Mexico & Central America Regional Contest
-1. _3B_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _AlphaTeam_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _CIA_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _Debugger_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _DeeRNet_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _3B_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _AlphaTeam_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Broding_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _CIA_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Debugger_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _DeeRNet_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -80,26 +80,34 @@
 
 ### 2022-2023
 
-- #381 (#75 de TecNM) _3B_ (Clasificatorio)
-- #381 (#75 de TecNM) _AlphaTeam_ (Clasificatorio)
-- #381 (#75 de TecNM) _CIA_ (Clasificatorio)
-- #381 (#75 de TecNM) _Debugger_ (Clasificatorio)
-- #381 (#75 de TecNM) _DeeRNet_ (Clasificatorio)
-- #381 (#75 de TecNM) _EDLIAN_ (Clasificatorio)
-- #381 (#75 de TecNM) _Estructurados_ (Clasificatorio)
-- #381 (#75 de TecNM) _KEE_ (Clasificatorio)
-- #381 (#75 de TecNM) _LGSUS_ (Clasificatorio)
-- #381 (#75 de TecNM) _Los Chavindecos_ (Clasificatorio)
-- #381 (#75 de TecNM) _Los sin nombre_ (Clasificatorio)
-- #381 (#75 de TecNM) _Mapaches Locos_ (Clasificatorio)
-- #381 (#75 de TecNM) _Mr. Chava _ (Clasificatorio)
-- #381 (#75 de TecNM) _Pentacode_ (Clasificatorio)
-- #381 (#75 de TecNM) _Programacion Belica_ (Clasificatorio)
-- #381 (#75 de TecNM) _Programing dragón_ (Clasificatorio)
-- #381 (#75 de TecNM) _RacingF1Team_ (Clasificatorio)
-- #381 (#75 de TecNM) _Spy_ (Clasificatorio)
-- #381 (#75 de TecNM) _Tec team_ (Clasificatorio)
-- #381 (#75 de TecNM) _Traijard's_ (Clasificatorio)
+- #382 (#82 de TecNM) _3B_ (Clasificatorio)
+- #382 (#82 de TecNM) _AlphaTeam_ (Clasificatorio)
+- #382 (#82 de TecNM) _Broding_ (Clasificatorio)
+- #382 (#82 de TecNM) _CIA_ (Clasificatorio)
+- #382 (#82 de TecNM) _Debugger_ (Clasificatorio)
+- #382 (#82 de TecNM) _DeeRNet_ (Clasificatorio)
+- #382 (#82 de TecNM) _EDLIAN_ (Clasificatorio)
+- #382 (#82 de TecNM) _Equipo 7_Uruapan_ (Clasificatorio)
+- #382 (#82 de TecNM) _Equipo MVP_ (Clasificatorio)
+- #382 (#82 de TecNM) _Estructurados_ (Clasificatorio)
+- #382 (#82 de TecNM) _GAR_ (Clasificatorio)
+- #382 (#82 de TecNM) _KEE_ (Clasificatorio)
+- #382 (#82 de TecNM) _LGSUS_ (Clasificatorio)
+- #382 (#82 de TecNM) _Las 3 mosqueteras_ (Clasificatorio)
+- #382 (#82 de TecNM) _Los Chavindecos_ (Clasificatorio)
+- #382 (#82 de TecNM) _Los sin nombre_ (Clasificatorio)
+- #382 (#82 de TecNM) _Mapaches Locos_ (Clasificatorio)
+- #382 (#82 de TecNM) _Mr. Chava _ (Clasificatorio)
+- #382 (#82 de TecNM) _PACHARRITOS_ (Clasificatorio)
+- #382 (#82 de TecNM) _Pentacode_ (Clasificatorio)
+- #382 (#82 de TecNM) _Programacion Belica_ (Clasificatorio)
+- #382 (#82 de TecNM) _Programing dragón_ (Clasificatorio)
+- #382 (#82 de TecNM) _RacingF1Team_ (Clasificatorio)
+- #382 (#82 de TecNM) _Spy_ (Clasificatorio)
+- #382 (#82 de TecNM) _Tec team_ (Clasificatorio)
+- #382 (#82 de TecNM) _Traijard's_ (Clasificatorio)
+- #382 (#82 de TecNM) _Venados_ (Clasificatorio)
+- #382 (#82 de TecNM) _Venados ITSU_ (Clasificatorio)
 
 
 

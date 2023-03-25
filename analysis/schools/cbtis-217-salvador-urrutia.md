@@ -4,19 +4,19 @@
 
 ## Mejores 10 equipos
 
-1. _CBTIS217-Los catrines _ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _EMJ Code_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _Los Humildes_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _The ORIG rejected us_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _CBTIS217-Los catrines _ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _EMJ Code_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Los Humildes_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _The ORIG rejected us_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
 ### 2022-2023
 
-- #381 _CBTIS217-Los catrines _ (Clasificatorio)
-- #381 _EMJ Code_ (Clasificatorio)
-- #381 _Los Humildes_ (Clasificatorio)
-- #381 _The ORIG rejected us_ (Clasificatorio)
+- #382 _CBTIS217-Los catrines _ (Clasificatorio)
+- #382 _EMJ Code_ (Clasificatorio)
+- #382 _Los Humildes_ (Clasificatorio)
+- #382 _The ORIG rejected us_ (Clasificatorio)
 
 
 

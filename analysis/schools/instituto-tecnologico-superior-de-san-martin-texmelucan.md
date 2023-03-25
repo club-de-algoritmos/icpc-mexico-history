@@ -4,21 +4,23 @@
 
 ## Mejores 10 equipos
 
-1. _Bestias Binarias_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _Devs Team ITSSMT_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _KINDRED_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _RGV-ISC_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
-1. _SMartinTics_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _Bestias Binarias_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Devs Team ITSSMT_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _KINDRED_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _RGV-ISC_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _SMartinTics_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Sparks_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
 ### 2022-2023
 
-- #381 (#75 de TecNM) _Bestias Binarias_ (Clasificatorio)
-- #381 (#75 de TecNM) _Devs Team ITSSMT_ (Clasificatorio)
-- #381 (#75 de TecNM) _KINDRED_ (Clasificatorio)
-- #381 (#75 de TecNM) _RGV-ISC_ (Clasificatorio)
-- #381 (#75 de TecNM) _SMartinTics_ (Clasificatorio)
+- #382 (#82 de TecNM) _Bestias Binarias_ (Clasificatorio)
+- #382 (#82 de TecNM) _Devs Team ITSSMT_ (Clasificatorio)
+- #382 (#82 de TecNM) _KINDRED_ (Clasificatorio)
+- #382 (#82 de TecNM) _RGV-ISC_ (Clasificatorio)
+- #382 (#82 de TecNM) _SMartinTics_ (Clasificatorio)
+- #382 (#82 de TecNM) _Sparks_ (Clasificatorio)
 
 
 

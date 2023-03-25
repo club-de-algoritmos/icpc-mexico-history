@@ -4,7 +4,8 @@
 
 ## Mejores 10 equipos
 
-1. _Buhosys_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
+1. _Buhosys_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Golden girls_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _IEEX_ resolvió 0 problemas y obtuvo el lugar #226 (53%) en The 2021 ICPC Gran Premio de Mexico
 1. _Kittens++_ resolvió 0 problemas y obtuvo el lugar #226 (53%) en The 2021 ICPC Gran Premio de Mexico
 1. _Team_FMD_ resolvió 0 problemas y obtuvo el lugar #226 (53%) en The 2021 ICPC Gran Premio de Mexico
@@ -28,7 +29,8 @@
 
 ### 2022-2023
 
-- #381 (#75 de TecNM) _Buhosys_ (Clasificatorio)
+- #382 (#82 de TecNM) _Buhosys_ (Clasificatorio)
+- #382 (#82 de TecNM) _Golden girls_ (Clasificatorio)
 
 
 

@@ -10,7 +10,7 @@
     - No hay datos del regional
 1. _Kygerand_ resolvió 3 problemas y obtuvo el lugar #28 (98%) en The 2019 ICPC Mexico Finals
 1. _Kygerand_ resolvió 4 problemas y obtuvo el lugar #22 (97%) en The 2018 ICPC Mexico and Central America Finals
-1. _F TLE_ resolvió 15 problemas y obtuvo el lugar #24 (97%) en The 2022 ICPC Gran Premio de Mexico
+1. _F TLE_ resolvió 3 problemas y obtuvo el lugar #28 (97%) en The 2022 ICPC Mexico Finals
 1. _Heavy Wizardy!_ resolvió 3 problemas y obtuvo el lugar #4 (96%) en The 2001 ACM Mexico and Central America Programming Contest
 1. _Bitshifters Open_ resolvió 4 problemas y obtuvo el lugar #12 (96%) en The 2014 ACM-ICPC Mexico and Central America Finals
 1. _F TLE_ resolvió 3 problemas y obtuvo el lugar #22 (96%) en The 2021 ICPC Mexico Finals
@@ -144,7 +144,7 @@
 
 ### 2022-2023
 
-- #24 _F TLE_ (Clasificatorio)
+- #28 _F TLE_ (Regional)
 - #159 _Debuggers_ (Clasificatorio)
 - #168 _Psyconova_ (Clasificatorio)
 - #177 _ILE_ (Clasificatorio)
@@ -156,7 +156,8 @@
 - #220 _L^3_ (Clasificatorio)
 - #348 _MMX_ (Clasificatorio)
 - #354 _1F47B_ (Clasificatorio)
-- #381 _Mexiware_ (Clasificatorio)
+- #382 _Código con chanfle_ (Clasificatorio)
+- #382 _Mexiware_ (Clasificatorio)
 
 
 

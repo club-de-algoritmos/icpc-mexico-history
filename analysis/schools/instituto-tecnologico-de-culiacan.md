@@ -8,14 +8,14 @@
     - Avanzó a la final mundial y resolvió 3 problemas y obtuvo el lugar #49 (52%) en 33rd Annual World Finals of the ACM International Collegiate Programming Contest
 1. _ITC Turing Machines_ resolvió 5 problemas y obtuvo el lugar #3 (99%) en The 2007 ACM Mexico and Central America Programming Contest
     - Avanzó a la final mundial y resolvió 0 problemas y obtuvo el lugar #90 (10%) en The 2008 ACM Programming Contest World Finals
+1. _Ludus G++_ resolvió 4 problemas y obtuvo el lugar #14 (99%) en The 2022 ICPC Mexico Finals
 1. _JRA_ resolvió 5 problemas y obtuvo el lugar #9 (97%) en The 2014 ACM-ICPC Mexico and Central America Finals
-1. _Ludus G++_ resolvió 12 problemas y obtuvo el lugar #39 (96%) en The 2022 ICPC Gran Premio de Mexico
 1. _Three Bits_ resolvió 4 problemas y obtuvo el lugar #12 (93%) en The 2012 Mexico & Central America Regional Contest
 1. _Ludus G++_ resolvió 2 problemas y obtuvo el lugar #36 (93%) en The 2021 ICPC Mexico Finals
 1. _tec de Culiacán_ resolvió 4 problemas y obtuvo el lugar #16 (91%) en The 2009 Mexico & Central America Contest
-1. _Hijos de Honor_ resolvió 7 problemas y obtuvo el lugar #93 (90%) en The 2022 ICPC Gran Premio de Mexico
-1. _Team Belico_ resolvió 6 problemas y obtuvo el lugar #110 (88%) en The 2022 ICPC Gran Premio de Mexico
-1. _Broncos4Life_ resolvió 5 problemas y obtuvo el lugar #116 (87%) en The 2022 ICPC Gran Premio de Mexico
+1. _Hijos de Honor_ resolvió 7 problemas y obtuvo el lugar #93 (91%) en The 2022 ICPC Gran Premio de Mexico
+1. _Team Belico_ resolvió 6 problemas y obtuvo el lugar #110 (90%) en The 2022 ICPC Gran Premio de Mexico
+1. _Broncos4Life_ resolvió 5 problemas y obtuvo el lugar #116 (89%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -85,15 +85,16 @@
 
 ### 2022-2023
 
-- #39 (#3 de TecNM) _Ludus G++_ (Clasificatorio)
+- #14 (#1 de TecNM) _Ludus G++_ (Regional)
 - #93 (#11 de TecNM) _Hijos de Honor_ (Clasificatorio)
 - #110 (#14 de TecNM) _Team Belico_ (Clasificatorio)
 - #116 (#15 de TecNM) _Broncos4Life_ (Clasificatorio)
 - #127 (#20 de TecNM) _3Logy_ (Clasificatorio)
 - #133 (#21 de TecNM) _Los Padrinos del C++_ (Clasificatorio)
-- #221 (#34 de TecNM) _Chicas Superpoderosas_ (Clasificatorio)
-- #222 (#35 de TecNM) _Los tilines insanos_ (Clasificatorio)
-- #227 (#37 de TecNM) _New Legacy_ (Clasificatorio)
+- #221 (#35 de TecNM) _Chicas Superpoderosas_ (Clasificatorio)
+- #222 (#36 de TecNM) _Los tilines insanos_ (Clasificatorio)
+- #227 (#38 de TecNM) _New Legacy_ (Clasificatorio)
+- #382 (#82 de TecNM) _SeatWorks_ (Clasificatorio)
 
 
 

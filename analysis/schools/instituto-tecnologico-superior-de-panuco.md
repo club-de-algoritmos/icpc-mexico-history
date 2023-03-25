@@ -9,11 +9,11 @@
 1. _ITSP2_ resolvió 0 problemas y obtuvo el lugar #27 (72%) en The 2002 ACM Mexico and Central America Programming Contest
 1. _ITSP3_ resolvió 0 problemas y obtuvo el lugar #27 (72%) en The 2002 ACM Mexico and Central America Programming Contest
 1. _hard disk_ resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
+1. _Breakers_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Los caimancitos_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _TECNO BOYS_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _TECNO CAIMANES_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _ITSP-1_ resolvió 0 problemas y obtuvo el lugar #41 (62%) en The 2003 ACM Mexico and Central America Programming Contest
-1. _ITSP2_ resolvió 0 problemas y obtuvo el lugar #41 (62%) en The 2003 ACM Mexico and Central America Programming Contest
-1. _ITSPanuco_ resolvió 0 problemas y obtuvo el lugar #61 (59%) en The 2007 ACM Mexico and Central America Programming Contest
-1. _The JMV_ resolvió 0 problemas y obtuvo el lugar #61 (59%) en The 2007 ACM Mexico and Central America Programming Contest
-1. _Breakers_ resolvió None problemas y obtuvo el lugar #381 (58%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -73,9 +73,10 @@
 
 ### 2022-2023
 
-- #381 (#75 de TecNM) _Breakers_ (Clasificatorio)
-- #381 (#75 de TecNM) _TECNO BOYS_ (Clasificatorio)
-- #381 (#75 de TecNM) _TECNO CAIMANES_ (Clasificatorio)
+- #382 (#82 de TecNM) _Breakers_ (Clasificatorio)
+- #382 (#82 de TecNM) _Los caimancitos_ (Clasificatorio)
+- #382 (#82 de TecNM) _TECNO BOYS_ (Clasificatorio)
+- #382 (#82 de TecNM) _TECNO CAIMANES_ (Clasificatorio)
 
 
 

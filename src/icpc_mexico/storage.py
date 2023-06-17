@@ -10,7 +10,7 @@ def _store(objects: List[Any], filename: str) -> None:
         json.dump(dicts, fp=f, indent=2, ensure_ascii=False)
 
 
-def _load(cls: Any, filename: str) -> List:
+def _load(cls: Any, filename: str) -> List[Any]:
     with open(filename, 'r') as f:
         dicts = json.load(f)
 

@@ -38,7 +38,6 @@ class School:
         return normalize_str(name) in self.get_all_matching_names()
 
 
-
 @dataclass_json
 @dataclass(frozen=True)
 class TeamResult:
@@ -70,7 +69,6 @@ class ContestSiteTeam:
     status: Optional[str]
     country: str
     institution: str
-
 
 
 @dataclass_json

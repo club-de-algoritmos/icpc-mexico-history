@@ -56,14 +56,14 @@ class Analyzer:
                         high_teams.append(team)
 
                 with markdown.section('Ranking de equipos'):
-                    self._print_ranking(title='Sobresalientes',
-                                        teams=high_teams,
-                                        markdown=markdown,
-                                        display_world_only=True)
-                    self._print_ranking(title='Mención honorífica',
-                                        teams=honorable_teams,
-                                        markdown=markdown,
-                                        display_world_only=True)
+                    self._print_detailed_ranking(title='Sobresalientes',
+                                                 teams=high_teams,
+                                                 markdown=markdown,
+                                                 display_world_only=True)
+                    self._print_detailed_ranking(title='Mención honorífica',
+                                                 teams=honorable_teams,
+                                                 markdown=markdown,
+                                                 display_world_only=True)
 
     @log_run_time
     def _analyze_community(self, community: SchoolCommunity, community_name: str) -> None:
@@ -108,7 +108,7 @@ class Analyzer:
         with MarkdownFile(self._get_filename(f'{normalize_as_filename(state)}.md')) as markdown:
             with markdown.section(f'Resultados de {state.title()} en el ICPC'):
                 teams = self._queries.get_ranked_teams(state=state)
-                self._print_ranking(title='Mejores 10 equipos', teams=teams[:10], markdown=markdown)
+                self._print_detailed_ranking(title='Mejores 10 equipos', teams=teams[:10], markdown=markdown)
 
                 with markdown.section('Participaciones'):
                     for season in self._queries.contest_seasons:
@@ -139,10 +139,10 @@ class Analyzer:
                                        'por lo que no aparecerán aquí.')
 
                 teams = self._queries.get_ranked_teams(school=school)
-                self._print_ranking(title='Mejores 10 equipos',
-                                    teams=teams[:10],
-                                    markdown=markdown,
-                                    display_school=False)
+                self._print_detailed_ranking(title='Mejores 10 equipos',
+                                             teams=teams[:10],
+                                             markdown=markdown,
+                                             display_school=False)
 
                 with markdown.section('Participaciones'):
                     for season in self._queries.contest_seasons:
@@ -161,13 +161,13 @@ class Analyzer:
                                                       f' _{team.name}_'
                                                       f' ({ext_team_result.contest.type.title()})')
 
-    def _print_ranking(self,
-                       title: str,
-                       teams: List[RankedTeam],
-                       markdown: Markdown,
-                       display_school: bool = True,
-                       display_world_only: bool = False
-                       ) -> None:
+    def _print_detailed_ranking(self,
+                                title: str,
+                                teams: List[RankedTeam],
+                                markdown: Markdown,
+                                display_school: bool = True,
+                                display_world_only: bool = False
+                                ) -> None:
         def result_to_str(result: ExtendedTeamResult, percentile: float) -> str:
             return (f'resolvió {result.team_result.problems_solved} problemas'
                     f' y obtuvo el lugar #{result.team_result.rank}'

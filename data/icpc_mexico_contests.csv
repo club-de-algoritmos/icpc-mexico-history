@@ -31,28 +31,28 @@ year,date,type,url_id,name,id,comments
 2014,2014-09-13,programming_battle,mcapb-2014,Mexico and Central America Finals - Programming Battle,2706,Concurso precursor al Gran Premio donde solo hubo una eliminatoria. Cambio de director regional de Alberto Lamadrid a Carlos Fernández Guillot.
 2014,2014-11-07,regional,Mexico-Central-America-2015,The 2014 ACM-ICPC Mexico and Central America Finals,2482,
 2014,2015-05-16,world,World-Finals-2015,39th Annual World Finals of the ACM International Collegiate Programming Contest,2409,
-2015,2015-01-01,gran_premio,mcapgp-2015,Gran Premio de Mexico & Centroamerica,2808,Primer Gran Premio.
+2015,2015-01-01,gran_premio,mcapgp-2016,Gran Premio de Mexico & Centroamerica,2808,Primer Gran Premio.
 2015,2015-11-13,regional,Mexico-Central-America-2016,The 2015 ACM-ICPC Mexico and Central America Finals,2805,
 2015,2016-05-15,world,World-Finals-2016,40th Annual World Finals of the ACM International Collegiate Programming Contest,2745,
-2016,2016-01-01,gran_premio,mcapgp-2016,Gran Premio de Mexico & Centroamerica,3017,
+2016,2016-01-01,gran_premio,mcapgp-2017,Gran Premio de Mexico & Centroamerica,3017,
 2016,2016-11-12,regional,Mexico-Central-America-2017,The 2016 ACM-ICPC Mexico and Central America Finals,3016,
 2016,2017-05-24,world,World-Finals-2017,41st Annual World Finals of the ACM International Collegiate Programming Contest,3007,
-2017,2017-01-01,gran_premio,mcapgp-2017,Gran Premio de Mexico & Centroamerica 2017,3450,
+2017,2017-01-01,gran_premio,mcapgp-2018,Gran Premio de Mexico & Centroamerica 2017,3450,
 2017,2017-11-11,regional,Mexico-Central-America-2018,The 2017 ACM-ICPC Mexico and Central America Finals,3449,
 2017,2018-04-18,world,World-Finals-2018,42nd Annual World Finals of the International Collegiate Programming Contest,3241,
-2018,2018-01-01,gran_premio,mcapgp-2018,Gran Premio de Mexico 2018,3623,"Centroamérica realizó su propio Gran Premio, pero la final regional continuó conjunta."
+2018,2018-01-01,gran_premio,mcapgp-2019,Gran Premio de Mexico 2018,3623,"Centroamérica realizó su propio Gran Premio, pero la final regional continuó conjunta."
 2018,2018-11-09,regional,Mexico-Central-America-2019,The 2018 ICPC Mexico and Central America Finals,3622,
 2018,2019-03-31,world,World-Finals-2019,43rd Annual World Finals of the International Collegiate Programming Contest,3512,
-2019,2019-01-01,gran_premio,mcapgp-2019,Gran Premio de Mexico 2019,4242,
+2019,2019-01-01,gran_premio,mcapgp-2020,Gran Premio de Mexico 2019,4242,
 2019,2019-11-08,regional,Mexico-2020,The 2019 ICPC Mexico Finals,4241,México se separa de centroamérica.
 2019,2021-10-01,world,World-Finals-2020,44th Annual World Finals of the International Collegiate Programming Contest,3980,
 2019,2021-10-01,world,Invitational-2020,The ICPC World Finals Invitational Contest,5235,
-2020,2020-01-01,gran_premio,mcapgp-2020,Gran Premio de Mexico 2020,4480,
+2020,2020-01-01,gran_premio,mcapgp-2021,Gran Premio de Mexico 2020,4480,
 2020,2021-07-10,regional,Mexico-2021,The 2020 ICPC Mexico Finals,4479,
 2020,2022-11-06,world,World-Finals-2021,45th Annual World Finals of the International Collegiate Programming Contest,4298,
-2021,2021-08-01,gran_premio,mcapgp-2021,The 2021 ICPC Gran Premio de Mexico,4705,
+2021,2021-08-01,gran_premio,mcapgp-2022,The 2021 ICPC Gran Premio de Mexico,4705,
 2021,2022-04-02,regional,Mexico-2022,The 2021 ICPC Mexico Finals,4704,
 2021,TBD,world,World-Finals-2022,46th Annual World Finals of the International Collegiate Programming Contest,4673,TBD: A realizarse en noviembre del 2023.
-2022,2022-04-07,gran_premio,mcapgp-2022,The 2022 ICPC Gran Premio de Mexico,5533,
+2022,2022-04-07,gran_premio,mcapgp-2023,The 2022 ICPC Gran Premio de Mexico,5533,
 2022,2023-03-17,regional,Mexico-2023,The 2022 ICPC Mexico Finals,5531,
 2022,TBD,world,World-Finals-2023,47th Annual World Finals of the International Collegiate Programming Contest,5366,TBD

@@ -97,7 +97,7 @@ class Analyzer:
                             for team in contest.team_results:
                                 if team.community != community:
                                     continue
-                                if team.community_rank > 5:
+                                if team.community_rank > 5 or not team.problems_solved:
                                     break
                                 markdown.bullet_point(f'#{team.rank} (#{team.community_rank} de {community_name})'
                                                       f' {team.name} ({team.institution})')

@@ -1,13 +1,12 @@
 import csv
 import dataclasses
-from collections import defaultdict
 from typing import List, Dict
 
 from icpc_mexico import icpc_api
 from icpc_mexico.data import Contest, FinishedContest, TeamResult, ContestType, School, SchoolCommunity, MEXICO
 from icpc_mexico.errors import ProcessingError
-from icpc_mexico.queries import get_school, Queries
-from icpc_mexico.utils import normalize_str, log_run_time
+from icpc_mexico.queries import get_school
+from icpc_mexico.utils import normalize_str
 
 
 def _from_csv_to_contest(csv_row: Dict) -> Contest:
@@ -22,7 +21,7 @@ def _from_csv_to_contest(csv_row: Dict) -> Contest:
     )
 
 
-def _get_contests(filename: str) -> List[Contest]:
+def get_contests(filename: str) -> List[Contest]:
     contests: List[Contest] = []
     with open(filename) as csv_file:
         csv_reader = csv.DictReader(csv_file)
@@ -70,10 +69,8 @@ def _clean_up_teams(team_results: List[TeamResult], contest: Contest) -> List[Te
     return sorted_teams
 
 
-def get_finished_contests(contest_csv_filename: str) -> List[FinishedContest]:
-    contests = _get_contests(contest_csv_filename)
-    print(f'Found {len(contests)} contests to query results for')
-
+def get_finished_contests(contests: List[Contest]) -> List[FinishedContest]:
+    print(f'Will query the ICPC API for {len(contests)} contests')
     finished_contests = []
     for contest in contests:
         if contest.comments.startswith('TBD'):

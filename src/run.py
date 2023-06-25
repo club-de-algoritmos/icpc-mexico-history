@@ -2,7 +2,7 @@
 
 import argparse
 import os
-from typing import List
+from typing import List, Tuple
 
 from icpc_mexico import processor, storage
 from icpc_mexico.analysis import Analyzer
@@ -16,19 +16,31 @@ def _get_filename(filename: str, path: str = 'data') -> str:
 
 
 @log_run_time
-def _get_contests(refresh_contests: bool) -> List[FinishedContest]:
+def _get_contests(refresh_contests: bool) -> Tuple[List[FinishedContest], bool]:
+    contests = processor.get_contests(_get_filename('icpc_mexico_contests.csv'))
     contests_filename = _get_filename('icpc_mexico_results.json')
+    contests_updated = False
     if refresh_contests or not os.path.exists(contests_filename):
+        contests_updated = True
         if refresh_contests:
             print('Refreshing contest data, querying the ICPC API')
         else:
             print(f'No contest data found in file {contests_filename}, querying the ICPC API')
-        contests = processor.get_finished_contests(_get_filename('icpc_mexico_contests.csv'))
-        storage.store_contests(contests, contests_filename)
+        finished_contests = processor.get_finished_contests(contests)
+        storage.store_contests(finished_contests, contests_filename)
     else:
         print(f'Contest data found in file {contests_filename}, loading it')
-        contests = storage.load_contests(contests_filename)
-    return contests
+        finished_contests = storage.load_contests(contests_filename)
+        finished_contest_ids = {contest.id for contest in finished_contests}
+        missing_contests = [
+            contest
+            for contest in contests
+            if contest.id not in finished_contest_ids and contest.date != 'TBD'
+        ]
+        if missing_contests:
+            finished_contests += processor.get_finished_contests(missing_contests)
+            contests_updated = True
+    return finished_contests, contests_updated
 
 
 @log_run_time
@@ -57,15 +69,15 @@ if __name__ == '__main__':
                         help="Refresh the school participation history by rebuilding it")
     args = parser.parse_args()
 
-    should_refresh_contests = args.refresh_contests
-    should_refresh_schools = args.refresh_schools or should_refresh_contests
-    should_refresh_school_history = args.refresh_school_history or should_refresh_schools
+    all_contests, contests_were_updated = _get_contests(args.refresh_contests)
 
-    all_contests = _get_contests(should_refresh_contests)
+    should_refresh_schools = args.refresh_schools or contests_were_updated
     all_schools = _get_schools(should_refresh_schools, all_contests)
-    queries = Queries(all_contests, all_schools)
 
+    queries = Queries(all_contests, all_schools)
     analyzer = Analyzer(queries=queries, analysis_path=_get_filename('', path='analysis'))
     analyzer.analyze()
+
+    should_refresh_school_history = args.refresh_school_history or should_refresh_schools
     if should_refresh_school_history:
         analyzer.analyze_schools_by_country(MEXICO)

@@ -38,7 +38,11 @@ def _get_contests(refresh_contests: bool) -> Tuple[List[FinishedContest], bool]:
             if contest.id not in finished_contest_ids and contest.date != 'TBD'
         ]
         if missing_contests:
+            missing_contest_desc = ", ".join(sorted(contest.name for contest in missing_contests))
+            print(f'{len(missing_contests)} contests are missing: {missing_contest_desc}')
+
             finished_contests += processor.get_finished_contests(missing_contests)
+            storage.store_contests(finished_contests, contests_filename)
             contests_updated = True
     return finished_contests, contests_updated
 

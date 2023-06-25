@@ -87,5 +87,14 @@
 - #382 (#82 de TecNM) _The boys_ (Clasificatorio)
 - #382 (#82 de TecNM) _Vhagar_ (Clasificatorio)
 
+### 2023-2024
+
+- #304 (#64 de TecNM) _The bosses_ (Clasificatorio)
+- #340 (#80 de TecNM) _SyntaxError_C_ (Clasificatorio)
+- #347 (#84 de TecNM) _Sakura_ (Clasificatorio)
+- #363 (#92 de TecNM) _Pathetic_ (Clasificatorio)
+- #399 (#110 de TecNM) _Squad Boom_ (Clasificatorio)
+- #448 (#127 de TecNM) _404 Not Found_ (Clasificatorio)
+
 
 

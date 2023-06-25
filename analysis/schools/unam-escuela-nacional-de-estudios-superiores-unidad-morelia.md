@@ -62,5 +62,12 @@
 - #284 _Miribka_ (Clasificatorio)
 - #382 _Los discípulos de Raggi_ (Clasificatorio)
 
+### 2023-2024
+
+- #64 _Bowser Bytes_ (Clasificatorio)
+- #113 _A.k.a._ (Clasificatorio)
+- #196 _Backyardigans_ (Clasificatorio)
+- #245 _MegaByteMe_ (Clasificatorio)
+
 
 

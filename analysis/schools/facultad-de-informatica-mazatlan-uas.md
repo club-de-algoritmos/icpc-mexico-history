@@ -4,6 +4,7 @@
 
 ## Mejores 10 equipos
 
+1. _Los Monos Bichis_ resolvió 5 problemas y obtuvo el lugar #112 (76%) en The 2023 ICPC Gran Premio de Mexico
 1. _FIMAZ_ resolvió 2 problemas y obtuvo el lugar #267 (75%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
@@ -11,6 +12,10 @@
 ### 2022-2023
 
 - #267 _FIMAZ_ (Clasificatorio)
+
+### 2023-2024
+
+- #112 _Los Monos Bichis_ (Clasificatorio)
 
 
 

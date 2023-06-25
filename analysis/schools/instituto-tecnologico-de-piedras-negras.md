@@ -45,5 +45,14 @@
 - #382 (#82 de TecNM) _Programación Básica_ (Clasificatorio)
 - #382 (#82 de TecNM) _Return  0_ (Clasificatorio)
 
+### 2023-2024
+
+- #312 (#67 de TecNM) _LuciaFernandas_ (Clasificatorio)
+- #450 (#129 de TecNM) _LosCAC_ (Clasificatorio)
+- #451 (#130 de TecNM) _OctalCode_ (Clasificatorio)
+- #452 (#131 de TecNM) _Real Programes _ (Clasificatorio)
+- #453 (#132 de TecNM) _ProgramaTec_ (Clasificatorio)
+- #454 (#133 de TecNM) _Los Pixies_ (Clasificatorio)
+
 
 

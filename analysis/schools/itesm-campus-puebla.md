@@ -124,5 +124,10 @@
 - #382 _Patos de Hule_ (Clasificatorio)
 - #382 _TecByters.cpp_ (Clasificatorio)
 
+### 2023-2024
+
+- #97 _DoSAttack_ (Clasificatorio)
+- #122 _Programasters_ (Clasificatorio)
+
 
 

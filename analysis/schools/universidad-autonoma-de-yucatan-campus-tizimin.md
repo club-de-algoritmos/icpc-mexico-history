@@ -71,5 +71,10 @@
 
 - #382 _UMT_ (Clasificatorio)
 
+### 2023-2024
+
+- #161 _UMT-1_ (Clasificatorio)
+- #252 _UMT-2_ (Clasificatorio)
+
 
 

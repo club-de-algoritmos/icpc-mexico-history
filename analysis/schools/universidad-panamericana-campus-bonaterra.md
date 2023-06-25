@@ -13,11 +13,11 @@
 1. _AEI_ resolvió 5 problemas y obtuvo el lugar #2 (99%) en The 2012 Mexico & Central America Regional Contest
     - Avanzó a la final mundial y resolvió 2 problemas y obtuvo el lugar #76 (36%) en 37th Annual World Finals of the ACM International Collegiate Programming Contest
 1. _UPsolving_ resolvió 8 problemas y obtuvo el lugar #2 (100%) en The 2022 ICPC Mexico Finals
+1. _Las tortillas de Héctor_ resolvió 17 problemas y obtuvo el lugar #3 (100%) en The 2023 ICPC Gran Premio de Mexico
 1. _UPsolving_ resolvió 7 problemas y obtuvo el lugar #5 (100%) en The 2018 ICPC Mexico and Central America Finals
 1. _Chicos_Percebe_ resolvió 5 problemas y obtuvo el lugar #6 (100%) en The 2022 ICPC Mexico Finals
 1. _ICPCrikos_ resolvió 4 problemas y obtuvo el lugar #6 (99%) en The 2021 ICPC Mexico Finals
 1. _Sopa de pingüino_ resolvió 5 problemas y obtuvo el lugar #7 (99%) en The 2016 ACM-ICPC Mexico and Central America Finals
-1. _UPdated_ resolvió 4 problemas y obtuvo el lugar #11 (99%) en The 2017 ACM-ICPC Mexico and Central America Finals
 
 ## Participaciones
 
@@ -157,6 +157,23 @@
 - #350 _CodeBuggers_ (Clasificatorio)
 - #382 _ TLEn't_ (Clasificatorio)
 - #382 _Aztecoders_ (Clasificatorio)
+
+### 2023-2024
+
+- #3 _Las tortillas de Héctor_ (Clasificatorio)
+- #10 _ICPCrikos_ (Clasificatorio)
+- #12 _UPSolving_ (Clasificatorio)
+- #26 _°^°_ (Clasificatorio)
+- #49 _Los Taqueros III_ (Clasificatorio)
+- #55 _ArkanianPhoenix_ (Clasificatorio)
+- #59 _ICP00_ (Clasificatorio)
+- #79 _Syntax Slayers_ (Clasificatorio)
+- #159 _ICPChangos_ (Clasificatorio)
+- #185 _Falange macedónica_ (Clasificatorio)
+- #288 _Los PANAmericanos_ (Clasificatorio)
+- #344 _Bugs Bunnies_ (Clasificatorio)
+- #364 _CHIPOCLUDOS_ (Clasificatorio)
+- #425 _505_ (Clasificatorio)
 
 
 

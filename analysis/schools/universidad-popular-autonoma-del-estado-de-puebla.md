@@ -10,10 +10,10 @@
 1. _3 de asada_ resolvió 5 problemas y obtuvo el lugar #115 (89%) en The 2022 ICPC Gran Premio de Mexico
 1. _<bits/team.h>_ resolvió 5 problemas y obtuvo el lugar #118 (89%) en The 2022 ICPC Gran Premio de Mexico
 1. _Array of clowns_ resolvió 7 problemas y obtuvo el lugar #86 (87%) en Gran Premio de Mexico & Centroamerica 2017
+1. _CPU_ resolvió 6 problemas y obtuvo el lugar #69 (85%) en The 2023 ICPC Gran Premio de Mexico
+1. _Nous_ resolvió 6 problemas y obtuvo el lugar #70 (85%) en The 2023 ICPC Gran Premio de Mexico
 1. _Array of clowns[]_ resolvió 7 problemas y obtuvo el lugar #95 (84%) en Gran Premio de Mexico 2018
 1. _Formato APA_ resolvió 10 problemas y obtuvo el lugar #112 (84%) en Gran Premio de Mexico 2020
-1. _Hakuna matata_ resolvió 2 problemas y obtuvo el lugar #57 (82%) en The 2015 ACM-ICPC Mexico and Central America Finals
-1. _La máquina de turing_ resolvió 5 problemas y obtuvo el lugar #116 (82%) en Gran Premio de Mexico & Centroamerica 2017
 
 ## Participaciones
 
@@ -82,6 +82,16 @@
 - #118 _<bits/team.h>_ (Clasificatorio)
 - #201 _Michi's Leaks_ (Clasificatorio)
 - #340 _Error 404_ (Clasificatorio)
+
+### 2023-2024
+
+- #69 _CPU_ (Clasificatorio)
+- #70 _Nous_ (Clasificatorio)
+- #116 _Alt + 35 1_ (Clasificatorio)
+- #137 _<bits/team.h>_ (Clasificatorio)
+- #190 _Tri Fuerza_ (Clasificatorio)
+- #263 _TacoBell++_ (Clasificatorio)
+- #266 _Michis Leaks_ (Clasificatorio)
 
 
 

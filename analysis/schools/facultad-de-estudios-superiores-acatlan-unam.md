@@ -112,5 +112,12 @@
 - #241 _los +P2_ (Clasificatorio)
 - #382 _Meztlicalli_ (Clasificatorio)
 
+### 2023-2024
+
+- #42 _FANGnaticos de lo sensual_ (Clasificatorio)
+- #95 _M@cAtletas_ (Clasificatorio)
+- #228 _PDF(Pasado de flow)_ (Clasificatorio)
+- #429 _Minitas_chinas++_ (Clasificatorio)
+
 
 

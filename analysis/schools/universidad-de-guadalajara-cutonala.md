@@ -64,5 +64,18 @@
 - #362 _HackBoys_ (Clasificatorio)
 - #382 _3.1416two2_ (Clasificatorio)
 
+### 2023-2024
+
+- #296 _3.1416two2_ (Clasificatorio)
+- #317 _Eso Brad_ (Clasificatorio)
+- #320 _HackBoys_ (Clasificatorio)
+- #324 _phicuadrada_ (Clasificatorio)
+- #360 _Compiler Crushers_ (Clasificatorio)
+- #362 _Code Ninjas_ (Clasificatorio)
+- #373 _RFC_ (Clasificatorio)
+- #388 _Winners.py_ (Clasificatorio)
+- #401 _Nietos del Berna_ (Clasificatorio)
+- #402 _Equipo Azul_ (Clasificatorio)
+
 
 

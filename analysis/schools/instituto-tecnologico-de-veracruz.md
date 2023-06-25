@@ -110,5 +110,13 @@
 - #382 (#82 de TecNM) _Los Seguidores de Karely_ (Clasificatorio)
 - #382 (#82 de TecNM) _ProgramamosConLosPies_ (Clasificatorio)
 
+### 2023-2024
+
+- #54 (#7 de TecNM) _#include<itverpower>_ (Clasificatorio)
+- #128 (#24 de TecNM) _The Future Code_ (Clasificatorio)
+- #180 (#32 de TecNM) _Javarianos_ (Clasificatorio)
+- #197 (#38 de TecNM) _SXTeam_ (Clasificatorio)
+- #297 (#60 de TecNM) _Program in raptor_ (Clasificatorio)
+
 
 

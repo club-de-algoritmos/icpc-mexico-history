@@ -7,6 +7,7 @@
 1. _Leones(0,0,0)_ resolvió 7 problemas y obtuvo el lugar #4 (100%) en The 2020 ICPC Mexico Finals
     - Avanzó a la final mundial y resolvió 3 problemas y obtuvo el lugar #51 (62%) en 45th Annual World Finals of the International Collegiate Programming Contest
 1. _Leones(0,0,0)_ resolvió 5 problemas y obtuvo el lugar #2 (100%) en The 2021 ICPC Mexico Finals
+1. _The Silence of the Lambdas_ resolvió 15 problemas y obtuvo el lugar #7 (99%) en The 2023 ICPC Gran Premio de Mexico
 1. _Almost Retired_ resolvió 4 problemas y obtuvo el lugar #9 (99%) en The 2022 ICPC Mexico Finals
 1. _Ma+aLeones7000_ resolvió 4 problemas y obtuvo el lugar #10 (99%) en The 2022 ICPC Mexico Finals
 1. _Leones(0,0,0);_ resolvió 4 problemas y obtuvo el lugar #17 (99%) en The 2019 ICPC Mexico Finals
@@ -14,7 +15,6 @@
 1. _Los Mismísimos Carajillos_ resolvió 4 problemas y obtuvo el lugar #17 (98%) en The 2022 ICPC Mexico Finals
 1. _DeltaWing_ resolvió 3 problemas y obtuvo el lugar #24 (98%) en The 2022 ICPC Mexico Finals
 1. _ACM Problem Solvers_ resolvió 4 problemas y obtuvo el lugar #6 (97%) en The 2010 Mexico & Central America Regional Contest
-1. _A New Hope_ resolvió 3 problemas y obtuvo el lugar #15 (97%) en The 2021 ICPC Mexico Finals
 
 ## Participaciones
 
@@ -236,6 +236,27 @@
 - #382 _UdGod_ (Clasificatorio)
 - #382 _Uploading..._ (Clasificatorio)
 - #382 _XOXO_ (Clasificatorio)
+
+### 2023-2024
+
+- #7 _The Silence of the Lambdas_ (Clasificatorio)
+- #17 _DeltaWing_ (Clasificatorio)
+- #37 _De último minuto_ (Clasificatorio)
+- #56 _Michisaurios_ (Clasificatorio)
+- #57 _Los WAsones_ (Clasificatorio)
+- #72 _Las Divinas_ (Clasificatorio)
+- #155 _Caguamas.cpp_ (Clasificatorio)
+- #173 _Code Masters_ (Clasificatorio)
+- #232 _Las Bélicas_ (Clasificatorio)
+- #237 _The walking C_ (Clasificatorio)
+- #281 _My Melody Coders_ (Clasificatorio)
+- #394 _Flash_ (Clasificatorio)
+- #395 _Código: Bronceado_ (Clasificatorio)
+- #400 _Noc++_ (Clasificatorio)
+- #420 _Bonice de Mole_ (Clasificatorio)
+- #421 _Raptors_ (Clasificatorio)
+- #422 _Bugbusters_ (Clasificatorio)
+- #424 _Spring bug_ (Clasificatorio)
 
 
 

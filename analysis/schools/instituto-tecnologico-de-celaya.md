@@ -11,9 +11,9 @@
 1. _Linces 1_ resolvió 3 problemas y obtuvo el lugar #19 (86%) en The 2006 ACM Mexico and Central America Programming Contest
 1. _Bits_ resolvió 5 problemas y obtuvo el lugar #145 (86%) en The 2022 ICPC Gran Premio de Mexico
 1. _bichos_ resolvió 2 problemas y obtuvo el lugar #16 (81%) en The 2001 ACM Mexico and Central America Programming Contest
+1. _FrameWork 3.0_ resolvió 5 problemas y obtuvo el lugar #106 (77%) en The 2023 ICPC Gran Premio de Mexico
 1. _MachoSoft_ resolvió 1 problemas y obtuvo el lugar #23 (72%) en The 2001 ACM Mexico and Central America Programming Contest
 1. _JavaScriptisbetter_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _Los tokenizer's_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -78,6 +78,14 @@
 - #382 (#82 de TecNM) _Los tokenizer's_ (Clasificatorio)
 - #382 (#82 de TecNM) _Seguidores del Standard_ (Clasificatorio)
 - #382 (#82 de TecNM) _That's all folks_ (Clasificatorio)
+
+### 2023-2024
+
+- #106 (#20 de TecNM) _FrameWork 3.0_ (Clasificatorio)
+- #212 (#40 de TecNM) _Sintax Error_ (Clasificatorio)
+- #221 (#42 de TecNM) _Charalitos_ (Clasificatorio)
+- #225 (#43 de TecNM) _Bits_ (Clasificatorio)
+- #346 (#83 de TecNM) _JavaScriptsbetter_ (Clasificatorio)
 
 
 

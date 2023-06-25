@@ -83,5 +83,10 @@
 
 - #79 _Echo Coding_ (Clasificatorio)
 
+### 2023-2024
+
+- #219 _Los tres jinetes_ (Clasificatorio)
+- #318 _devsociety_ (Clasificatorio)
+
 
 

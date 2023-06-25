@@ -6,14 +6,14 @@
 
 1. _Hololive_ resolvió 3 problemas y obtuvo el lugar #22 (98%) en The 2022 ICPC Mexico Finals
 1. _Software Chasers_ resolvió 2 problemas y obtuvo el lugar #38 (97%) en The 2022 ICPC Mexico Finals
+1. _Mojibake_ resolvió 10 problemas y obtuvo el lugar #21 (96%) en The 2023 ICPC Gran Premio de Mexico
 1. _Mojibake_ resolvió 3 problemas y obtuvo el lugar #23 (96%) en The 2021 ICPC Mexico Finals
 1. _DrimTimICP_ resolvió 1 problemas y obtuvo el lugar #51 (93%) en The 2020 ICPC Mexico Finals
+1. _Takodachis_ resolvió 8 problemas y obtuvo el lugar #39 (92%) en The 2023 ICPC Gran Premio de Mexico
 1. _EzpcLemonEzQuizi_ resolvió 6 problemas y obtuvo el lugar #96 (91%) en The 2022 ICPC Gran Premio de Mexico
 1. _AlfaBuenaMaravillaOndaDinamitaEscuadrónLobo_ resolvió 0 problemas y obtuvo el lugar #50 (90%) en The 2021 ICPC Mexico Finals
 1. _Los Ángeles Azules_ resolvió 6 problemas y obtuvo el lugar #105 (90%) en The 2022 ICPC Gran Premio de Mexico
 1. _Trópicos de Capricornio_ resolvió 5 problemas y obtuvo el lugar #133 (90%) en Gran Premio de Mexico 2019
-1. _Los pijijís_ resolvió 5 problemas y obtuvo el lugar #122 (88%) en The 2022 ICPC Gran Premio de Mexico
-1. _FLDSMDFR_ resolvió 5 problemas y obtuvo el lugar #129 (88%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -67,6 +67,26 @@
 - #320 _Átomos Fuera de Serie_ (Clasificatorio)
 - #359 _Los Kosakos_ (Clasificatorio)
 - #371 _UPTEAM02_ (Clasificatorio)
+
+### 2023-2024
+
+- #21 _Mojibake_ (Clasificatorio)
+- #39 _Takodachis_ (Clasificatorio)
+- #78 _Team Impala_ (Clasificatorio)
+- #131 _Habika_ (Clasificatorio)
+- #134 _GoDaddys_ (Clasificatorio)
+- #139 _Discípulos de Duport_ (Clasificatorio)
+- #158 _Orochimaru_ (Clasificatorio)
+- #206 _Graggy Daddy_ (Clasificatorio)
+- #207 _La Champions_ (Clasificatorio)
+- #213 _Alacranes y la Bélica_ (Clasificatorio)
+- #224 _Fuerza de la Trinidad_ (Clasificatorio)
+- #230 _Los pijijis_ (Clasificatorio)
+- #267 _UPGDL01_ (Clasificatorio)
+- #268 _DefaultName_ (Clasificatorio)
+- #270 _UPGDL02_ (Clasificatorio)
+- #275 _Los Chavos_ (Clasificatorio)
+- #349 _Fibonacci_ (Clasificatorio)
 
 
 

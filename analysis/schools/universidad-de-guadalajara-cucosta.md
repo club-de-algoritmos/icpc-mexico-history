@@ -61,5 +61,13 @@
 - #382 _HTTPS_ (Clasificatorio)
 - #382 _Los "Hola Mundo";_ (Clasificatorio)
 
+### 2023-2024
+
+- #264 _Barrio Estación_ (Clasificatorio)
+- #274 _California Boys_ (Clasificatorio)
+- #283 _Los Ezqui_ (Clasificatorio)
+- #287 _Tsurus Apocalípticos_ (Clasificatorio)
+- #289 _MAC-TEL_ (Clasificatorio)
+
 
 

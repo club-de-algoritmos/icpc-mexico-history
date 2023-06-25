@@ -158,5 +158,16 @@
 - #382 (#82 de TecNM) _Pollos Hermanos_ (Clasificatorio)
 - #382 (#82 de TecNM) _PrimeroPro_ (Clasificatorio)
 
+### 2023-2024
+
+- #143 (#25 de TecNM) _The Walker_ (Clasificatorio)
+- #192 (#37 de TecNM) _ZaGa Team_ (Clasificatorio)
+- #247 (#47 de TecNM) _Guardians_ (Clasificatorio)
+- #358 (#90 de TecNM) _Los amigos_ (Clasificatorio)
+- #377 (#97 de TecNM) _The Coders _ (Clasificatorio)
+- #389 (#105 de TecNM) _ALGAmigos_ (Clasificatorio)
+- #436 (#117 de TecNM) _Destructores_ (Clasificatorio)
+- #437 (#118 de TecNM) _The Code Girls_ (Clasificatorio)
+
 
 

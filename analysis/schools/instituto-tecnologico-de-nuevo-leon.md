@@ -166,5 +166,15 @@
 - #382 (#82 de TecNM) _StringDEA_ (Clasificatorio)
 - #382 (#82 de TecNM) _The Ravens Logics_ (Clasificatorio)
 
+### 2023-2024
+
+- #163 (#27 de TecNM) _0xBests_ (Clasificatorio)
+- #176 (#31 de TecNM) _Coders in progress_ (Clasificatorio)
+- #253 (#48 de TecNM) _SyntaxError_ (Clasificatorio)
+- #284 (#58 de TecNM) _JavaThai_ (Clasificatorio)
+- #352 (#86 de TecNM) _Los Nahuales_ (Clasificatorio)
+- #366 (#94 de TecNM) _Los Cadetes de Konoha_ (Clasificatorio)
+- #449 (#128 de TecNM) _Crow System_ (Clasificatorio)
+
 
 

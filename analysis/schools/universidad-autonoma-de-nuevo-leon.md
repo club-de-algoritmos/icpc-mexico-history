@@ -191,5 +191,22 @@
 - #382 _Los saraperos_ (Clasificatorio)
 - #382 _The coders_ (Clasificatorio)
 
+### 2023-2024
+
+- #19 _Tigres.cpp_ (Clasificatorio)
+- #45 _Los Tres Paleteros_ (Clasificatorio)
+- #125 _xor_ (Clasificatorio)
+- #209 _los rapidines_ (Clasificatorio)
+- #217 _Hacking Squad_ (Clasificatorio)
+- #239 _Los angelocochones_ (Clasificatorio)
+- #246 _Equipo Dinamita_ (Clasificatorio)
+- #250 _Axioma404_ (Clasificatorio)
+- #338 _Baby Owls_ (Clasificatorio)
+- #367 _JYJ_ (Clasificatorio)
+- #414 _Overbyte_ (Clasificatorio)
+- #415 _Attack On Python_ (Clasificatorio)
+- #416 _NanoByte_ (Clasificatorio)
+- #417 _Fast Code_ (Clasificatorio)
+
 
 

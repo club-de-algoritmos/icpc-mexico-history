@@ -54,5 +54,10 @@
 - #351 (#65 de TecNM) _Los Extremos_ (Clasificatorio)
 - #351 (#65 de TecNM) _Println_ (Clasificatorio)
 
+### 2023-2024
+
+- #271 (#51 de TecNM) _DnkYotes_ (Clasificatorio)
+- #353 (#87 de TecNM) _Coyote 19_ (Clasificatorio)
+
 
 

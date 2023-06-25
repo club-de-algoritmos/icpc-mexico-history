@@ -48,5 +48,9 @@
 - #382 (#82 de TecNM) _Red Unida_ (Clasificatorio)
 - #382 (#82 de TecNM) _TPK_ (Clasificatorio)
 
+### 2023-2024
+
+- #444 (#123 de TecNM) _Código Chihuahuense_ (Clasificatorio)
+
 
 

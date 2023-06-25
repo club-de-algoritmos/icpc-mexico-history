@@ -13,10 +13,10 @@
 1. _PumOMM_ resolvió 10 problemas y obtuvo el lugar #2 (100%) en The 2020 ICPC Mexico Finals
 1. _Cagua++_ resolvió 6 problemas y obtuvo el lugar #3 (100%) en The 2022 ICPC Mexico Finals
 1. _pu+os_ resolvió 6 problemas y obtuvo el lugar #4 (100%) en The 2019 ICPC Mexico Finals
+1. _Peso Puma_ resolvió 16 problemas y obtuvo el lugar #4 (99%) en The 2023 ICPC Gran Premio de Mexico
 1. _pu++_ resolvió 5 problemas y obtuvo el lugar #5 (99%) en The 2015 ACM-ICPC Mexico and Central America Finals
 1. _UNAM Amada_ resolvió 7 problemas y obtuvo el lugar #9 (99%) en The 2018 ICPC Mexico and Central America Finals
 1. _Pumas+_ resolvió 4 problemas y obtuvo el lugar #15 (99%) en The 2019 ICPC Mexico Finals
-1. _Pumas+_ resolvió 4 problemas y obtuvo el lugar #16 (99%) en The 2022 ICPC Mexico Finals
 
 ## Participaciones
 
@@ -117,6 +117,14 @@
 - #382 _Equipo7 next gen_ (Clasificatorio)
 - #382 _Predators_ (Clasificatorio)
 - #382 _Uijolen_ (Clasificatorio)
+
+### 2023-2024
+
+- #4 _Peso Puma_ (Clasificatorio)
+- #23 _Britneys Pelonas_ (Clasificatorio)
+- #52 _Godzilambda_ (Clasificatorio)
+- #63 _Códigos Anónimos_ (Clasificatorio)
+- #148 _NullSkillException_ (Clasificatorio)
 
 
 

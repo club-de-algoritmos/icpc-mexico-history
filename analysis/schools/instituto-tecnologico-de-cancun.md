@@ -13,6 +13,7 @@
 1. _Tucanes4 Cancún_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _Tucanes_ resolvió 2 problemas y obtuvo el lugar #285 (60%) en Gran Premio de Mexico 2020
 1. _Tucanes Cancún_ resolvió 0 problemas y obtuvo el lugar #226 (53%) en The 2021 ICPC Gran Premio de Mexico
+1. _Tucanes1_ resolvió 3 problemas y obtuvo el lugar #301 (34%) en The 2023 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -33,6 +34,11 @@
 - #382 (#82 de TecNM) _Tucanes2 Cancún_ (Clasificatorio)
 - #382 (#82 de TecNM) _Tucanes3 Cancún_ (Clasificatorio)
 - #382 (#82 de TecNM) _Tucanes4 Cancún_ (Clasificatorio)
+
+### 2023-2024
+
+- #301 (#61 de TecNM) _Tucanes1_ (Clasificatorio)
+- #302 (#62 de TecNM) _Tucanes2_ (Clasificatorio)
 
 
 

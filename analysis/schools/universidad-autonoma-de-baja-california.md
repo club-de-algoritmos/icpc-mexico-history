@@ -6,6 +6,7 @@
 
 1. _CIMACODERS_ resolvió 1 problemas y obtuvo el lugar #201 (58%) en The 2021 ICPC Gran Premio de Mexico
 1. _CIMARRONES_ resolvió 0 problemas y obtuvo el lugar #104 (36%) en The 2011 Mexico & Central America Regional Contest
+1. _Cuasar_ resolvió 2 problemas y obtuvo el lugar #291 (36%) en The 2023 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -16,6 +17,10 @@
 ### 2021-2022
 
 - #201 _CIMACODERS_ (Clasificatorio)
+
+### 2023-2024
+
+- #291 _Cuasar_ (Clasificatorio)
 
 
 

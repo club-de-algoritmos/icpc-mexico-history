@@ -17,9 +17,9 @@
 1. _Escoders_ resolvió 5 problemas y obtuvo el lugar #1 (100%) en The 2012 Mexico & Central America Regional Contest
     - Avanzó a la final mundial y resolvió 1 problemas y obtuvo el lugar #94 (21%) en 37th Annual World Finals of the ACM International Collegiate Programming Contest
 1. _Chilaquiles con pollo_ resolvió 5 problemas y obtuvo el lugar #1 (100%) en The 2021 ICPC Mexico Finals
+1. _Catadores de Patas (ahora en ICPC)_ resolvió 19 problemas y obtuvo el lugar #2 (100%) en The 2023 ICPC Gran Premio de Mexico
 1. _Exceso de Fé_ resolvió 6 problemas y obtuvo el lugar #4 (100%) en The 2022 ICPC Mexico Finals
 1. _Error: "Team Name" not defined_ resolvió 6 problemas y obtuvo el lugar #7 (100%) en The 2019 ICPC Mexico Finals
-1. _New avengers_ resolvió 6 problemas y obtuvo el lugar #4 (99%) en The 2016 ACM-ICPC Mexico and Central America Finals
 
 ## Participaciones
 
@@ -268,6 +268,37 @@
 - #382 _Newbies Hardstuck V3_ (Clasificatorio)
 - #382 _Trikitrakatelas_ (Clasificatorio)
 - #382 _dESCOMtrolados_ (Clasificatorio)
+
+### 2023-2024
+
+- #2 _Catadores de Patas (ahora en ICPC)_ (Clasificatorio)
+- #5 _God Save Galois_ (Clasificatorio)
+- #8 _Tres de suadero con todo_ (Clasificatorio)
+- #22 _Not only WA but also TLE_ (Clasificatorio)
+- #24 _CE intentó_ (Clasificatorio)
+- #28 _Red de Transporte Público_ (Clasificatorio)
+- #30 _DBD Crew_ (Clasificatorio)
+- #62 _To ICPC and beyond_ (Clasificatorio)
+- #66 _Descongelen a Víctor Moreno_ (Clasificatorio)
+- #71 _De Última Hora_ (Clasificatorio)
+- #98 _You Can (Not) Compile_ (Clasificatorio)
+- #100 _Los fritos_ (Clasificatorio)
+- #120 _Las Picafresas_ (Clasificatorio)
+- #136 _lasCuries_ (Clasificatorio)
+- #149 _Los reales_ (Clasificatorio)
+- #156 _Mejor me Cambio de Carrera_ (Clasificatorio)
+- #187 _3 boys 1 AC_ (Clasificatorio)
+- #231 _Equipo Amistad 4_ (Clasificatorio)
+- #298 _Syntaxys JEG_ (Clasificatorio)
+- #306 _Viejos piojos_ (Clasificatorio)
+- #310 _ESCOMinions_ (Clasificatorio)
+- #327 _Los Morgancitos del shine de neza_ (Clasificatorio)
+- #343 _buchon++_ (Clasificatorio)
+- #356 _ChenGPT6_ (Clasificatorio)
+- #376 _Sueño Chaman_ (Clasificatorio)
+- #426 _KittyCodersBelicos_ (Clasificatorio)
+- #427 _Maíces nixtamalizados_ (Clasificatorio)
+- #428 _diaMar_ (Clasificatorio)
 
 
 

@@ -63,5 +63,10 @@
 
 - #382 _Elvis_ (Clasificatorio)
 
+### 2023-2024
+
+- #403 _Los numerables_ (Clasificatorio)
+- #404 _Aleph_0_ (Clasificatorio)
+
 
 

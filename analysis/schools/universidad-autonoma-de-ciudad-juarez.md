@@ -4,6 +4,7 @@
 
 ## Mejores 10 equipos
 
+1. _First to Penalty_ resolvió 12 problemas y obtuvo el lugar #15 (97%) en The 2023 ICPC Gran Premio de Mexico
 1. _TLE_SQUARED_ resolvió 3 problemas y obtuvo el lugar #29 (97%) en The 2022 ICPC Mexico Finals
 1. _AlgoTeam_ resolvió 1 problemas y obtuvo el lugar #40 (92%) en The 2021 ICPC Mexico Finals
 1. _Ctrl alt del_ resolvió 5 problemas y obtuvo el lugar #160 (85%) en The 2022 ICPC Gran Premio de Mexico
@@ -12,8 +13,7 @@
 1. _Rajas con Queso_ resolvió 2 problemas y obtuvo el lugar #296 (72%) en The 2022 ICPC Gran Premio de Mexico
 1. _UACJ2019_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _no estudio programación_ resolvió 2 problemas y obtuvo el lugar #322 (69%) en The 2022 ICPC Gran Premio de Mexico
-1. _Brainarys_ resolvió 4 problemas y obtuvo el lugar #238 (66%) en Gran Premio de Mexico 2020
-1. _Asimilando la ignorancia_ resolvió 1 problemas y obtuvo el lugar #356 (66%) en The 2022 ICPC Gran Premio de Mexico
+1. _relenTLEss_ resolvió 4 problemas y obtuvo el lugar #152 (67%) en The 2023 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -44,6 +44,12 @@
 - #296 _Rajas con Queso_ (Clasificatorio)
 - #322 _no estudio programación_ (Clasificatorio)
 - #356 _Asimilando la ignorancia_ (Clasificatorio)
+
+### 2023-2024
+
+- #15 _First to Penalty_ (Clasificatorio)
+- #152 _relenTLEss_ (Clasificatorio)
+- #205 _Impossibru_ (Clasificatorio)
 
 
 

@@ -159,5 +159,21 @@
 - #382 _Código con chanfle_ (Clasificatorio)
 - #382 _Mexiware_ (Clasificatorio)
 
+### 2023-2024
+
+- #40 _súbditos de sommerville_ (Clasificatorio)
+- #77 _pi/3_ (Clasificatorio)
+- #88 _Sí pifa ? Ehhh : Owww_ (Clasificatorio)
+- #107 _Code enjoyers_ (Clasificatorio)
+- #164 _EL EQUIPOBOL_ (Clasificatorio)
+- #165 _Byte Me_ (Clasificatorio)
+- #178 _Using BrainSpace;_ (Clasificatorio)
+- #204 _Rivolta_ (Clasificatorio)
+- #211 _404 Name Not Found_ (Clasificatorio)
+- #226 _Kabrilian_ (Clasificatorio)
+- #227 _Mango_ (Clasificatorio)
+- #248 _C3P0_ICPC_ (Clasificatorio)
+- #260 _Last minute_ (Clasificatorio)
+
 
 

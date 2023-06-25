@@ -112,5 +112,11 @@
 - #382 (#82 de TecNM) _Punto y Coma_ (Clasificatorio)
 - #382 (#82 de TecNM) _TeamL&S_ (Clasificatorio)
 
+### 2023-2024
+
+- #313 (#68 de TecNM) _ITLAC100_ (Clasificatorio)
+- #336 (#77 de TecNM) _Black flag_ (Clasificatorio)
+- #435 (#116 de TecNM) _Estrella_ (Clasificatorio)
+
 
 

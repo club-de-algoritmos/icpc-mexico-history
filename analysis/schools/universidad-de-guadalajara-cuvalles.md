@@ -79,5 +79,10 @@
 - #130 _Valles.py_ (Clasificatorio)
 - #138 _Programamistas_ (Clasificatorio)
 
+### 2023-2024
+
+- #114 _Valles.py_ (Clasificatorio)
+- #138 _Programamistas_ (Clasificatorio)
+
 
 

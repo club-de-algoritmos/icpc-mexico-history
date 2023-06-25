@@ -150,5 +150,10 @@
 - #316 _Castores media_ (Clasificatorio)
 - #334 _Miramar raccoons_ (Clasificatorio)
 
+### 2023-2024
+
+- #110 _Los Papus Pro_ (Clasificatorio)
+- #124 _TDManiaticos_ (Clasificatorio)
+
 
 

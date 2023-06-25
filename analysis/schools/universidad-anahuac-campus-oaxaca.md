@@ -10,10 +10,10 @@
 1. _JCC_ resolvió 3 problemas y obtuvo el lugar #28 (95%) en The 2016 ACM-ICPC Mexico and Central America Finals
 1. _FAV_ resolvió 2 problemas y obtuvo el lugar #36 (95%) en The 2017 ACM-ICPC Mexico and Central America Finals
 1. _JJL_ resolvió 3 problemas y obtuvo el lugar #39 (95%) en The 2018 ICPC Mexico and Central America Finals
+1. _Leones->Code();_ resolvió 9 problemas y obtuvo el lugar #31 (93%) en The 2023 ICPC Gran Premio de Mexico
 1. _JJC_ resolvió 2 problemas y obtuvo el lugar #48 (93%) en The 2017 ACM-ICPC Mexico and Central America Finals
 1. _Los vengadores_ resolvió 2 problemas y obtuvo el lugar #58 (89%) en The 2016 ACM-ICPC Mexico and Central America Finals
 1. _SAJ_ resolvió 4 problemas y obtuvo el lugar #152 (88%) en Gran Premio de Mexico 2019
-1. _int genieros;_ resolvió 4 problemas y obtuvo el lugar #157 (88%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 
@@ -75,6 +75,13 @@
 - #157 _Team Overflow_ (Clasificatorio)
 - #180 _Leoncitos(x,d);_ (Clasificatorio)
 - #225 _new Team("DPJ");_ (Clasificatorio)
+
+### 2023-2024
+
+- #31 _Leones->Code();_ (Clasificatorio)
+- #146 _Team Overflow_ (Clasificatorio)
+- #222 _LHM_ (Clasificatorio)
+- #256 _APC_ (Clasificatorio)
 
 
 

@@ -93,5 +93,11 @@
 - #382 (#82 de TecNM) _Platinos_ (Clasificatorio)
 - #382 (#82 de TecNM) _Pythem_ (Clasificatorio)
 
+### 2023-2024
+
+- #183 (#33 de TecNM) _MSV_ (Clasificatorio)
+- #186 (#35 de TecNM) _OverClock_ (Clasificatorio)
+- #382 (#101 de TecNM) _      Lincoder´s_ (Clasificatorio)
+
 
 

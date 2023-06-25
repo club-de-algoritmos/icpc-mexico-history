@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
+1. _UMG.2.1++_ resolvió 4 problemas y obtuvo el lugar #191 (58%) en The 2023 ICPC Gran Premio de Mexico
 1. _Marista Three_ resolvió 2 problemas y obtuvo el lugar #93 (54%) en The 2010 Mexico & Central America Regional Contest
 1. _UMG++_ resolvió 0 problemas y obtuvo el lugar #226 (53%) en The 2021 ICPC Gran Premio de Mexico
 1. _Lasalle 2_ resolvió 1 problemas y obtuvo el lugar #69 (51%) en The 2005 ACM Mexico and Central America Programming Contest
 1. _LasalleGRC_ resolvió 1 problemas y obtuvo el lugar #60 (47%) en The 2004 ACM Mexico and Central America Programming Contest
 1. _DeltaUMG_ resolvió 0 problemas y obtuvo el lugar #95 (46%) en The 2013 Mexico & Central America Regional Contest
 1. _LasalleDDE_ resolvió 1 problemas y obtuvo el lugar #63 (45%) en The 2004 ACM Mexico and Central America Programming Contest
+1. _UMG.2.0++_ resolvió 3 problemas y obtuvo el lugar #251 (45%) en The 2023 ICPC Gran Premio de Mexico
 1. _Lasalle 1_ resolvió 0 problemas y obtuvo el lugar #85 (40%) en The 2005 ACM Mexico and Central America Programming Contest
 1. _Marista White_ resolvió 0 problemas y obtuvo el lugar #104 (36%) en The 2011 Mexico & Central America Regional Contest
-1. _Como Sea_ resolvió 2 problemas y obtuvo el lugar #149 (33%) en Mexico and Central America Finals - Programming Battle
-1. _LasalleFAI_ resolvió 1 problemas y obtuvo el lugar #77 (32%) en The 2004 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 
@@ -59,6 +59,13 @@
 ### 2021-2022
 
 - #226 _UMG++_ (Clasificatorio)
+
+### 2023-2024
+
+- #191 _UMG.2.1++_ (Clasificatorio)
+- #251 _UMG.2.0++_ (Clasificatorio)
+- #332 _UMG.8.0++_ (Clasificatorio)
+- #397 _UMG.4.0++_ (Clasificatorio)
 
 
 

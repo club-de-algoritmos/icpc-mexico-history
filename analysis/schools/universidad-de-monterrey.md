@@ -9,11 +9,11 @@
 1. _Troyanos_ resolvió 3 problemas y obtuvo el lugar #10 (92%) en The 2004 ACM Mexico and Central America Programming Contest
 1. _Serendipia_ resolvió 6 problemas y obtuvo el lugar #113 (89%) en The 2022 ICPC Gran Premio de Mexico
 1. _UDEM1_ resolvió 2 problemas y obtuvo el lugar #20 (86%) en The 2005 ACM Mexico and Central America Programming Contest
+1. _The Chosen O(n)es_ resolvió 6 problemas y obtuvo el lugar #67 (86%) en The 2023 ICPC Gran Premio de Mexico
 1. _trying_ resolvió 4 problemas y obtuvo el lugar #183 (86%) en Gran Premio de Mexico 2019
 1. _aoc_ resolvió 3 problemas y obtuvo el lugar #196 (85%) en Gran Premio de Mexico 2019
 1. _Vikings_ resolvió 4 problemas y obtuvo el lugar #179 (83%) en The 2022 ICPC Gran Premio de Mexico
 1. _WebCeleb_ resolvió 3 problemas y obtuvo el lugar #217 (83%) en Gran Premio de Mexico 2019
-1. _Los changoleones_ resolvió 3 problemas y obtuvo el lugar #86 (82%) en The 2021 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -105,6 +105,16 @@
 - #382 _Boolean Autocrats_ (Clasificatorio)
 - #382 _Edgerunners-2077_ (Clasificatorio)
 - #382 _supersónicos_ (Clasificatorio)
+
+### 2023-2024
+
+- #67 _The Chosen O(n)es_ (Clasificatorio)
+- #84 _Cyberpsychos_ (Clasificatorio)
+- #129 _DebugX_ (Clasificatorio)
+- #179 _Pastel de 3 Leches_ (Clasificatorio)
+- #195 _Umizoomi_ (Clasificatorio)
+- #220 _JoJoCa_ (Clasificatorio)
+- #249 _DDH_ (Clasificatorio)
 
 
 

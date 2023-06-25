@@ -7,13 +7,13 @@
 1. _Compilando..._ resolvió 2 problemas y obtuvo el lugar #66 (87%) en The 2016 ACM-ICPC Mexico and Central America Finals
 1. _HashTable_ resolvió 3 problemas y obtuvo el lugar #28 (83%) en The 2012 Mexico & Central America Regional Contest
 1. _IOException_ resolvió 3 problemas y obtuvo el lugar #219 (83%) en Gran Premio de Mexico 2019
+1. _DeepMaze_ resolvió 5 problemas y obtuvo el lugar #91 (80%) en The 2023 ICPC Gran Premio de Mexico
 1. _DeepMaze_ resolvió 2 problemas y obtuvo el lugar #235 (78%) en The 2022 ICPC Gran Premio de Mexico
 1. _Lira coders_ resolvió 2 problemas y obtuvo el lugar #236 (78%) en The 2022 ICPC Gran Premio de Mexico
 1. _alt+F4_ resolvió 2 problemas y obtuvo el lugar #286 (78%) en Gran Premio de Mexico 2019
 1. _4luX1t0s_ resolvió 2 problemas y obtuvo el lugar #38 (77%) en The 2012 Mexico & Central America Regional Contest
 1. _Hashtable_ resolvió 1 problemas y obtuvo el lugar #57 (77%) en The 2014 ACM-ICPC Mexico and Central America Finals
 1. _Esclavos_del_API_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _01MrRobot_ resolvió 4 problemas y obtuvo el lugar #236 (67%) en Gran Premio de Mexico 2020
 
 ## Participaciones
 
@@ -110,6 +110,14 @@
 - #236 (#44 de TecNM) _Lira coders_ (Clasificatorio)
 - #380 (#80 de TecNM) _3_Monos_ (Clasificatorio)
 - #382 (#82 de TecNM) _Mascahuayas_ (Clasificatorio)
+
+### 2023-2024
+
+- #91 (#15 de TecNM) _DeepMaze_ (Clasificatorio)
+- #233 (#44 de TecNM) _1CodeHunters_ (Clasificatorio)
+- #277 (#54 de TecNM) _#3Monos_ (Clasificatorio)
+- #278 (#55 de TecNM) _3 Sotox_ (Clasificatorio)
+- #280 (#57 de TecNM) _Los huay chivos del itescam_ (Clasificatorio)
 
 
 

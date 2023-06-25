@@ -240,5 +240,28 @@
 - #382 (#82 de TecNM) _Pandora box++;_ (Clasificatorio)
 - #382 (#82 de TecNM) _sICPuede_ (Clasificatorio)
 
+### 2023-2024
+
+- #18 (#2 de TecNM) _BITsur_ (Clasificatorio)
+- #50 (#6 de TecNM) _Me levanto, un baño y me pongo a Codear_ (Clasificatorio)
+- #58 (#8 de TecNM) _The more you code, the more you drink_ (Clasificatorio)
+- #61 (#9 de TecNM) _ITSURprises_ (Clasificatorio)
+- #76 (#12 de TecNM) _Tenemosfe.cpp_ (Clasificatorio)
+- #94 (#16 de TecNM) _Códigos tumbados del Sur de GTO_ (Clasificatorio)
+- #99 (#17 de TecNM) _Coffe_and_tea_ (Clasificatorio)
+- #109 (#21 de TecNM) _BugsHunters.cpp_ (Clasificatorio)
+- #172 (#30 de TecNM) _ Copy&&Paste_ (Clasificatorio)
+- #235 (#45 de TecNM) _codeShare_ (Clasificatorio)
+- #258 (#49 de TecNM) _SKITTL3S_ (Clasificatorio)
+- #269 (#50 de TecNM) _Styles_ (Clasificatorio)
+- #276 (#53 de TecNM) _sICPuede_ (Clasificatorio)
+- #354 (#88 de TecNM) _Ya Estuvo Suavicremas_ (Clasificatorio)
+- #384 (#102 de TecNM) _Los Papus_ (Clasificatorio)
+- #396 (#108 de TecNM) _K-really_ (Clasificatorio)
+- #398 (#109 de TecNM) _Code Warriors_ (Clasificatorio)
+- #432 (#113 de TecNM) _MS-TRES_ (Clasificatorio)
+- #433 (#114 de TecNM) _ICPCoders_ (Clasificatorio)
+- #434 (#115 de TecNM) _Jeshejojo's_ (Clasificatorio)
+
 
 

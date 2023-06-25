@@ -6,14 +6,14 @@
 
 1. _EspantaBugs_ resolvió 2 problemas y obtuvo el lugar #37 (97%) en The 2022 ICPC Mexico Finals
 1. _ITLN_ resolvió 7 problemas y obtuvo el lugar #101 (92%) en Gran Premio de Mexico 2019
+1. _EspantaBugs_ resolvió 5 problemas y obtuvo el lugar #43 (91%) en The 2023 ICPC Gran Premio de Mexico
+1. _SPTeam_ resolvió 6 problemas y obtuvo el lugar #74 (84%) en The 2023 ICPC Gran Premio de Mexico
 1. _ITLN_ resolvió 6 problemas y obtuvo el lugar #105 (84%) en Gran Premio de Mexico & Centroamerica 2017
 1. _VectorRaptor's_ resolvió 4 problemas y obtuvo el lugar #171 (84%) en The 2022 ICPC Gran Premio de Mexico
 1. _DinamitaTeam_ resolvió 4 problemas y obtuvo el lugar #173 (84%) en The 2022 ICPC Gran Premio de Mexico
 1. _Navy_ resolvió 1 problemas y obtuvo el lugar #48 (81%) en The 2014 ACM-ICPC Mexico and Central America Finals
 1. _Mega Equipo del Tio Oswi_ resolvió 5 problemas y obtuvo el lugar #129 (80%) en Gran Premio de Mexico & Centroamerica 2017
-1. _TecLaguna1_ resolvió 1 problemas y obtuvo el lugar #311 (76%) en Gran Premio de Mexico 2019
-1. _CodeKillers_ resolvió 2 problemas y obtuvo el lugar #281 (73%) en The 2022 ICPC Gran Premio de Mexico
-1. _TEAM VICE_ resolvió 2 problemas y obtuvo el lugar #290 (73%) en The 2022 ICPC Gran Premio de Mexico
+1. _PuroTecLaguna_ resolvió 5 problemas y obtuvo el lugar #101 (78%) en The 2023 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -115,6 +115,20 @@
 - #382 (#82 de TecNM) _Monkey Devs_ (Clasificatorio)
 - #382 (#82 de TecNM) _TeamRocket_ (Clasificatorio)
 - #382 (#82 de TecNM) _echo_ (Clasificatorio)
+
+### 2023-2024
+
+- #43 (#4 de TecNM) _EspantaBugs_ (Clasificatorio)
+- #74 (#11 de TecNM) _SPTeam_ (Clasificatorio)
+- #101 (#18 de TecNM) _PuroTecLaguna_ (Clasificatorio)
+- #307 (#65 de TecNM) _Chicharron Prensado_ (Clasificatorio)
+- #330 (#73 de TecNM) _echo_ (Clasificatorio)
+- #333 (#75 de TecNM) _MonkeyDevs_ (Clasificatorio)
+- #365 (#93 de TecNM) _LAFCoding Team_ (Clasificatorio)
+- #385 (#103 de TecNM) _Panas Frescos_ (Clasificatorio)
+- #386 (#104 de TecNM) _CH3PO_ (Clasificatorio)
+- #391 (#107 de TecNM) _Las Chicas Superpoderosas_ (Clasificatorio)
+- #431 (#112 de TecNM) _Castech team_ (Clasificatorio)
 
 
 

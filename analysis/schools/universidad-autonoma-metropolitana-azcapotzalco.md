@@ -12,8 +12,8 @@
 1. _UAMitos_ resolvió 9 problemas y obtuvo el lugar #69 (95%) en Gran Premio de Mexico 2019
 1. _UAM-A 2017-1_ resolvió 2 problemas y obtuvo el lugar #42 (94%) en The 2017 ACM-ICPC Mexico and Central America Finals
 1. _UAMitosPlusPlus_ resolvió 2 problemas y obtuvo el lugar #45 (94%) en The 2020 ICPC Mexico Finals
+1. _La mejor remontada_ resolvió 10 problemas y obtuvo el lugar #32 (93%) en The 2023 ICPC Gran Premio de Mexico
 1. _UAM Azcapotzalco 2016_ resolvió 3 problemas y obtuvo el lugar #36 (93%) en The 2016 ACM-ICPC Mexico and Central America Finals
-1. _#include <uam.h>_ resolvió 1 problemas y obtuvo el lugar #37 (93%) en The 2021 ICPC Mexico Finals
 
 ## Participaciones
 
@@ -124,6 +124,11 @@
 - #72 _Los WAnsos_ (Clasificatorio)
 - #76 _Equation Group_ (Clasificatorio)
 - #111 _AzcaCode_ (Clasificatorio)
+
+### 2023-2024
+
+- #32 _La mejor remontada_ (Clasificatorio)
+- #153 _cagUAM++_ (Clasificatorio)
 
 
 

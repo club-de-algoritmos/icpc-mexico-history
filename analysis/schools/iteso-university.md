@@ -805,5 +805,13 @@
 - #382 _Err("Team not found")_ (Clasificatorio)
 - #382 _pydudes_ (Clasificatorio)
 
+### 2023-2024
+
+- #82 _Red Squadron 2023_ (Clasificatorio)
+- #85 _Ingeniebrios_ (Clasificatorio)
+- #108 _Hijos de Gatica_ (Clasificatorio)
+- #181 _Tilines ICPC_ (Clasificatorio)
+- #229 _Codisaurios_ (Clasificatorio)
+
 
 

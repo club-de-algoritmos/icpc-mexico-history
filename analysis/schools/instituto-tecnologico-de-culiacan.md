@@ -10,12 +10,12 @@
     - Avanzó a la final mundial y resolvió 0 problemas y obtuvo el lugar #90 (10%) en The 2008 ACM Programming Contest World Finals
 1. _Ludus G++_ resolvió 4 problemas y obtuvo el lugar #14 (99%) en The 2022 ICPC Mexico Finals
 1. _JRA_ resolvió 5 problemas y obtuvo el lugar #9 (97%) en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _Sieve of Ludus_ resolvió 11 problemas y obtuvo el lugar #13 (97%) en The 2023 ICPC Gran Premio de Mexico
 1. _Three Bits_ resolvió 4 problemas y obtuvo el lugar #12 (93%) en The 2012 Mexico & Central America Regional Contest
 1. _Ludus G++_ resolvió 2 problemas y obtuvo el lugar #36 (93%) en The 2021 ICPC Mexico Finals
+1. _AC2++_ resolvió 9 problemas y obtuvo el lugar #36 (92%) en The 2023 ICPC Gran Premio de Mexico
 1. _tec de Culiacán_ resolvió 4 problemas y obtuvo el lugar #16 (91%) en The 2009 Mexico & Central America Contest
 1. _Hijos de Honor_ resolvió 7 problemas y obtuvo el lugar #93 (91%) en The 2022 ICPC Gran Premio de Mexico
-1. _Team Belico_ resolvió 6 problemas y obtuvo el lugar #110 (90%) en The 2022 ICPC Gran Premio de Mexico
-1. _Broncos4Life_ resolvió 5 problemas y obtuvo el lugar #116 (89%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -95,6 +95,21 @@
 - #222 (#36 de TecNM) _Los tilines insanos_ (Clasificatorio)
 - #227 (#38 de TecNM) _New Legacy_ (Clasificatorio)
 - #382 (#82 de TecNM) _SeatWorks_ (Clasificatorio)
+
+### 2023-2024
+
+- #13 (#1 de TecNM) _Sieve of Ludus_ (Clasificatorio)
+- #36 (#3 de TecNM) _AC2++_ (Clasificatorio)
+- #83 (#13 de TecNM) _Citric Vindicators_ (Clasificatorio)
+- #103 (#19 de TecNM) _Gatos Bajo la Lluvia_ (Clasificatorio)
+- #115 (#22 de TecNM) _O(zuna)_ (Clasificatorio)
+- #147 (#26 de TecNM) _Hasbulla Lovers Official Fans Club_ (Clasificatorio)
+- #168 (#28 de TecNM) _Triforce_ (Clasificatorio)
+- #170 (#29 de TecNM) _CHIQUETE'S CHILI CHEESE FRIES_ (Clasificatorio)
+- #184 (#34 de TecNM) _Chicas Superpoderosas_ (Clasificatorio)
+- #303 (#63 de TecNM) _Datahead_ (Clasificatorio)
+- #319 (#70 de TecNM) _los traperitos_ (Clasificatorio)
+- #457 (#136 de TecNM) _Las Llaves_ (Clasificatorio)
 
 
 

@@ -87,5 +87,10 @@
 
 - #161 _Siglo XIII_ (Clasificatorio)
 
+### 2023-2024
+
+- #111 _ Space Cadets_ (Clasificatorio)
+- #194 _Los mecatrochos_ (Clasificatorio)
+
 
 

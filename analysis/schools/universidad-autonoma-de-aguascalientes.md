@@ -175,5 +175,12 @@
 - #213 _Enchiladas Mexicanas_ (Clasificatorio)
 - #226 _IDK_ (Clasificatorio)
 
+### 2023-2024
+
+- #41 _MIT (Michoacán Institute of Technology)_ (Clasificatorio)
+- #102 _Bit Brawlers_ (Clasificatorio)
+- #299 _OverCode_ (Clasificatorio)
+- #359 _Hacknerds_ (Clasificatorio)
+
 
 

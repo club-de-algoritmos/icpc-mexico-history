@@ -13,7 +13,7 @@
 1. _Firmala Gio_ resolvió 7 problemas y obtuvo el lugar #99 (92%) en Gran Premio de Mexico 2019
 1. _Coding Horror_ resolvió 3 problemas y obtuvo el lugar #23 (91%) en The 2014 ACM-ICPC Mexico and Central America Finals
 1. _Coding Horror_ resolvió 3 problemas y obtuvo el lugar #29 (91%) en The 2015 ACM-ICPC Mexico and Central America Finals
-1. _FMAT_Coders_ resolvió 3 problemas y obtuvo el lugar #17 (90%) en The 2012 Mexico & Central America Regional Contest
+1. _Gauss N’ Roses_ resolvió 8 problemas y obtuvo el lugar #44 (91%) en The 2023 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -115,6 +115,13 @@
 ### 2022-2023
 
 - #32 _Gauss N' Roses_ (Regional)
+
+### 2023-2024
+
+- #44 _Gauss N’ Roses_ (Clasificatorio)
+- #189 _Sasser_ (Clasificatorio)
+- #223 _FMAT-01_ (Clasificatorio)
+- #238 _TripleByte_ (Clasificatorio)
 
 
 

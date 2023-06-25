@@ -125,5 +125,13 @@
 - #208 _IXES_ (Clasificatorio)
 - #285 _#include<bits/tumbados++.h>_ (Clasificatorio)
 
+### 2023-2024
+
+- #33 _Silicon Strikers_ (Clasificatorio)
+- #86 _Out of Bounds_ (Clasificatorio)
+- #119 _NullPointers_ (Clasificatorio)
+- #174 _Fire Machine_ (Clasificatorio)
+- #370 _Turing Solvers_ (Clasificatorio)
+
 
 

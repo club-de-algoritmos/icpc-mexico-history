@@ -422,5 +422,38 @@
 - #382 _O(NO)_ (Clasificatorio)
 - #382 _SegmentationFault_ (Clasificatorio)
 
+### 2023-2024
+
+- #20 _GOLDEN_ (Clasificatorio)
+- #29 _team.cpp_ (Clasificatorio)
+- #38 _Data Divas_ (Clasificatorio)
+- #53 _La Sosiedad_ (Clasificatorio)
+- #73 _Los DEVastadores_ (Clasificatorio)
+- #75 _Sabritones_ (Clasificatorio)
+- #90 _O(NO)_ (Clasificatorio)
+- #130 _Trinidad_ (Clasificatorio)
+- #132 _Crusaders_ (Clasificatorio)
+- #135 _Aguacate Overflow_ (Clasificatorio)
+- #141 _Walking Devs_ (Clasificatorio)
+- #193 _Rbrgs.cpp_ (Clasificatorio)
+- #200 _EZPZ_ (Clasificatorio)
+- #210 _Chefsitos_ (Clasificatorio)
+- #265 _Coding Chimps_ (Clasificatorio)
+- #294 _O(n)_ (Clasificatorio)
+- #305 _letsC +h -a_ (Clasificatorio)
+- #308 _O(n^2)_ (Clasificatorio)
+- #309 _chepeverapp_ (Clasificatorio)
+- #322 _Void9_ (Clasificatorio)
+- #323 _Pepenadores_ (Clasificatorio)
+- #345 _Los Titanes_ (Clasificatorio)
+- #393 _Criptómanas_ (Clasificatorio)
+- #407 _compilation error_ (Clasificatorio)
+- #408 _Rodolfines_ (Clasificatorio)
+- #409 _Oslo_ (Clasificatorio)
+- #410 _return Nombre;_ (Clasificatorio)
+- #411 _CypherPlus_ (Clasificatorio)
+- #412 _Gansitos_ (Clasificatorio)
+- #413 _GOLDEN.X_ (Clasificatorio)
+
 
 

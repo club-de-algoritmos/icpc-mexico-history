@@ -234,5 +234,16 @@
 - #382 _Null_ (Clasificatorio)
 - #382 _RifZac2_ (Clasificatorio)
 
+### 2023-2024
+
+- #47 _EncuereC++_ (Clasificatorio)
+- #89 _PuerkaSquad_ (Clasificatorio)
+- #127 _ByteBusters_ (Clasificatorio)
+- #140 _WaitForAMinute_ (Clasificatorio)
+- #203 _Decodes Talkers_ (Clasificatorio)
+- #282 _FullHouse_ (Clasificatorio)
+- #357 _Los Rencorosos_ (Clasificatorio)
+- #383 _Phoenix Paradox_ (Clasificatorio)
+
 
 

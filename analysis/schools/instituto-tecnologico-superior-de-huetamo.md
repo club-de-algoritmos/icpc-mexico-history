@@ -43,5 +43,14 @@
 - #382 (#82 de TecNM) _Tech Giants_ (Clasificatorio)
 - #382 (#82 de TecNM) _TheLastUs_ (Clasificatorio)
 
+### 2023-2024
+
+- #328 (#72 de TecNM) _Java-Limo++_ (Clasificatorio)
+- #337 (#78 de TecNM) _Java-Limo++V2_ (Clasificatorio)
+- #390 (#106 de TecNM) _Java-Limo++_CKEM_ (Clasificatorio)
+- #445 (#124 de TecNM) _Java-Limo++_Team-Iguana_ (Clasificatorio)
+- #446 (#125 de TecNM) _Java-Limo++V4_ (Clasificatorio)
+- #447 (#126 de TecNM) _Java-Limo++V3_ (Clasificatorio)
+
 
 

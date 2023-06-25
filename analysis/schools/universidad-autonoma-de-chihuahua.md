@@ -60,5 +60,17 @@
 - #128 _RTNGS_ (Clasificatorio)
 - #195 _Stray Girls_ (Clasificatorio)
 
+### 2023-2024
+
+- #123 _Kashin Koji_ (Clasificatorio)
+- #145 _Los mejores amigos_ (Clasificatorio)
+- #166 _Kyhos I_ (Clasificatorio)
+- #167 _Reflex_ (Clasificatorio)
+- #169 _Pilas AAA_ (Clasificatorio)
+- #215 _Los espantaviejas_ (Clasificatorio)
+- #259 _Motomachinas_ (Clasificatorio)
+- #348 _Las Chicas Superprogramadoras_ (Clasificatorio)
+- #387 _UACH-icoleros_ (Clasificatorio)
+
 
 

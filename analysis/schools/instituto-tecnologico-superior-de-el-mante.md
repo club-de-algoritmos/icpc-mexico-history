@@ -137,5 +137,17 @@
 - #382 (#82 de TecNM) _Malvaviscos_ (Clasificatorio)
 - #382 (#82 de TecNM) _TilinesSUS_ (Clasificatorio)
 
+### 2023-2024
+
+- #311 (#66 de TecNM) _Los Tilines_ (Clasificatorio)
+- #331 (#74 de TecNM) _Los Rivera_ (Clasificatorio)
+- #339 (#79 de TecNM) _FileNotFound_ (Clasificatorio)
+- #368 (#95 de TecNM) _Tamales con mayonesa_ (Clasificatorio)
+- #381 (#100 de TecNM) _Onda Software_ (Clasificatorio)
+- #438 (#119 de TecNM) _Los malvaviscos_ (Clasificatorio)
+- #439 (#120 de TecNM) _Pangolin_ (Clasificatorio)
+- #440 (#121 de TecNM) _Los Angeles_ (Clasificatorio)
+- #441 (#122 de TecNM) _Los Lemures_ (Clasificatorio)
+
 
 

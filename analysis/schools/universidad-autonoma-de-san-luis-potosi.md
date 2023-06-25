@@ -12,8 +12,8 @@
 1. _Equipo_ resolvió 3 problemas y obtuvo el lugar #45 (95%) en The 2018 ICPC Mexico and Central America Finals
 1. _js++_ resolvió 1 problemas y obtuvo el lugar #53 (95%) en The 2022 ICPC Mexico Finals
 1. _camel_case_ resolvió 10 problemas y obtuvo el lugar #61 (94%) en The 2022 ICPC Gran Premio de Mexico
+1. _!nullptr_ resolvió 9 problemas y obtuvo el lugar #34 (93%) en The 2023 ICPC Gran Premio de Mexico
 1. _Algorítmicos_ resolvió 9 problemas y obtuvo el lugar #68 (93%) en The 2022 ICPC Gran Premio de Mexico
-1. _Los Testigos de Botello_ resolvió 7 problemas y obtuvo el lugar #105 (92%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 
@@ -99,6 +99,30 @@
 - #315 _Vodka Juniors_ (Clasificatorio)
 - #363 _ThreeAmigos_ (Clasificatorio)
 - #377 _programeitors_ (Clasificatorio)
+
+### 2023-2024
+
+- #34 _!nullptr_ (Clasificatorio)
+- #92 _camel_case_ (Clasificatorio)
+- #117 _smoothBrains_ (Clasificatorio)
+- #121 _soul_segmentation_reborn_ (Clasificatorio)
+- #144 _Xavineta_ (Clasificatorio)
+- #151 _Coca de piña_ (Clasificatorio)
+- #160 _Haterz_ (Clasificatorio)
+- #177 _Chaotics_ (Clasificatorio)
+- #199 _Equipo IVE_ (Clasificatorio)
+- #208 _Vodka Juniors_ (Clasificatorio)
+- #234 _Syntax Error_ (Clasificatorio)
+- #240 _Plan C_ (Clasificatorio)
+- #243 _Dynamic girls_ (Clasificatorio)
+- #254 _pipepu's_ (Clasificatorio)
+- #257 _PRO_ (Clasificatorio)
+- #273 _Los del ciber_ (Clasificatorio)
+- #293 _Nopers_ (Clasificatorio)
+- #315 _Los Edwins (sin Edwin ni Uriel)_ (Clasificatorio)
+- #316 _The Worst Generation_ (Clasificatorio)
+- #329 _Kernel panic_ (Clasificatorio)
+- #418 _The Esys_ (Clasificatorio)
 
 
 

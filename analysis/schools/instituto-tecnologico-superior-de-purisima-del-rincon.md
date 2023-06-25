@@ -4,6 +4,7 @@
 
 ## Mejores 10 equipos
 
+1. _Nameless.jar_ resolvió 5 problemas y obtuvo el lugar #118 (74%) en The 2023 ICPC Gran Premio de Mexico
 1. _CodeBusters_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _JAIL-Breakers_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _3 BITS_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
@@ -11,9 +12,8 @@
 1. _Geek Foxes 2.0_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _Nameless.jar_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _Shark Geeks_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Black Wolf_ resolvió 4 problemas y obtuvo el lugar #188 (59%) en The 2023 ICPC Gran Premio de Mexico
 1. _Shark Geeks_ resolvió 0 problemas y obtuvo el lugar #226 (53%) en The 2021 ICPC Gran Premio de Mexico
-1. _3XPRO_ resolvió 0 problemas y obtuvo el lugar #351 (50%) en Gran Premio de Mexico 2020
-1. _Dream Lords_ resolvió 0 problemas y obtuvo el lugar #351 (50%) en Gran Premio de Mexico 2020
 
 ## Participaciones
 
@@ -43,6 +43,14 @@
 - #382 (#82 de TecNM) _Geek Foxes 2.0_ (Clasificatorio)
 - #382 (#82 de TecNM) _Nameless.jar_ (Clasificatorio)
 - #382 (#82 de TecNM) _Shark Geeks_ (Clasificatorio)
+
+### 2023-2024
+
+- #118 (#23 de TecNM) _Nameless.jar_ (Clasificatorio)
+- #188 (#36 de TecNM) _Black Wolf_ (Clasificatorio)
+- #218 (#41 de TecNM) _3 Bits_ (Clasificatorio)
+- #279 (#56 de TecNM) _Champions_ (Clasificatorio)
+- #355 (#89 de TecNM) _Simplex_Team_ (Clasificatorio)
 
 
 

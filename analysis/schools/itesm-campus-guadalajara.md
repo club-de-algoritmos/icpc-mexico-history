@@ -4,6 +4,7 @@
 
 ## Mejores 10 equipos
 
+1. _Borregos Salvajes_ resolvió 15 problemas y obtuvo el lugar #6 (99%) en The 2023 ICPC Gran Premio de Mexico
 1. _Tsurus Tuneados_ resolvió 3 problemas y obtuvo el lugar #18 (98%) en The 2022 ICPC Mexico Finals
 1. _ViralBugSyndrome.exe_ resolvió 4 problemas y obtuvo el lugar #20 (98%) en The 2018 ICPC Mexico and Central America Finals
 1. _Carlit-OS_ resolvió 4 problemas y obtuvo el lugar #10 (95%) en The 2008 Mexico & Central America Contest
@@ -13,7 +14,6 @@
 1. _McTrio_ resolvió 3 problemas y obtuvo el lugar #11 (93%) en The 2007 ACM Mexico and Central America Programming Contest
 1. _Tec GDL 6_ resolvió 1 problemas y obtuvo el lugar #47 (91%) en The 2021 ICPC Mexico Finals
 1. _Aleph_ resolvió 2 problemas y obtuvo el lugar #10 (90%) en The 2002 ACM Mexico and Central America Programming Contest
-1. _Los seguidores de Karel_ resolvió 0 problemas y obtuvo el lugar #50 (90%) en The 2021 ICPC Mexico Finals
 
 ## Participaciones
 
@@ -163,6 +163,15 @@
 - #382 _Maraca_ (Clasificatorio)
 - #382 _Pozole de Oompa Loompas_ (Clasificatorio)
 - #382 _SJF_ (Clasificatorio)
+
+### 2023-2024
+
+- #6 _Borregos Salvajes_ (Clasificatorio)
+- #201 _Los Fosa_ (Clasificatorio)
+- #295 _Bubble Sorters_ (Clasificatorio)
+- #321 _TECueme_ (Clasificatorio)
+- #374 _CodICI_ (Clasificatorio)
+- #423 _GADAX_ (Clasificatorio)
 
 
 

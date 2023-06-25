@@ -9,11 +9,11 @@
 1. _Gods Programming_ resolvió 4 problemas y obtuvo el lugar #151 (86%) en The 2022 ICPC Gran Premio de Mexico
 1. _Aprovecha el bug_ resolvió 4 problemas y obtuvo el lugar #149 (78%) en Gran Premio de Mexico 2018
 1. _Singleton_ resolvió 1 problemas y obtuvo el lugar #351 (73%) en Gran Premio de Mexico 2019
+1. _THE THREE MUSKETEERS_ resolvió 5 problemas y obtuvo el lugar #133 (71%) en The 2023 ICPC Gran Premio de Mexico
 1. _Código Enigma_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _TryCatch_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Nexus_ resolvió 4 problemas y obtuvo el lugar #162 (65%) en The 2023 ICPC Gran Premio de Mexico
 1. _El Pariente Technologies_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _Hog Riders_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _AHF4_ resolvió 1 problemas y obtuvo el lugar #346 (54%) en Gran Premio de Mexico 2018
 
 ## Participaciones
 
@@ -40,6 +40,14 @@
 - #151 _Gods Programming_ (Clasificatorio)
 - #382 _El Pariente Technologies_ (Clasificatorio)
 - #382 _Hog Riders_ (Clasificatorio)
+
+### 2023-2024
+
+- #133 _THE THREE MUSKETEERS_ (Clasificatorio)
+- #162 _Nexus_ (Clasificatorio)
+- #214 _KOZINA_ (Clasificatorio)
+- #442 _New Jeans_ (Clasificatorio)
+- #443 _Gods Programming_ (Clasificatorio)
 
 
 

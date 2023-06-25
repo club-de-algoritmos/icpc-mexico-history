@@ -106,5 +106,10 @@
 - #382 (#82 de TecNM) _Los trifantasticos_ (Clasificatorio)
 - #382 (#82 de TecNM) _Sopa de Codito_ (Clasificatorio)
 
+### 2023-2024
+
+- #325 (#71 de TecNM) _Novatos_ (Clasificatorio)
+- #361 (#91 de TecNM) _GelatinaDeVaporrulax_ (Clasificatorio)
+
 
 

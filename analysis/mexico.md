@@ -136,55 +136,12 @@
 - #51 (#2 de México, resolvió 2) FoundTheBug.ItsMe (Instituto Tecnológico Autónomo de México)
 
 
-## Ranking de equipos
-
-### Sobresalientes
+## Equipos sobresalientes
 
 1. _PU++_ (Facultad De Ciencias-Universidad Nacional Autonoma De Mexico) resolvió 5 problemas y obtuvo el lugar #31 (78%) en 42nd Annual World Finals of the International Collegiate Programming Contest
 1. _UPsolving_ (Universidad Panamericana Campus Bonaterra) resolvió 5 problemas y obtuvo el lugar #41 (69%) en 45th Annual World Finals of the International Collegiate Programming Contest
 1. _Los Chidory_ (Universidad Panamericana Campus Bonaterra) resolvió 2 problemas y obtuvo el lugar #45 (64%) en 38th Annual World Finals of the ACM International Collegiate Programming Contest
 1. _Los Románticos_ (Instituto Tecnologico Autonomo De Mexico) resolvió 4 problemas y obtuvo el lugar #56 (58%) en 41st Annual World Finals of the ACM International Collegiate Programming Contest
 1. _Turing Machines_ (Instituto Tecnologico De Culiacan) resolvió 3 problemas y obtuvo el lugar #49 (52%) en 33rd Annual World Finals of the ACM International Collegiate Programming Contest
-
-### Mención honorífica
-
-1. _Leones(0,0,0)_ (Universidad De Guadalajara Cucei) resolvió 3 problemas y obtuvo el lugar #51 (62%) en 45th Annual World Finals of the International Collegiate Programming Contest
-1. _FoundTheBug.ItsMe_ (Instituto Tecnologico Autonomo De Mexico) resolvió 2 problemas y obtuvo el lugar #51 (62%) en 45th Annual World Finals of the International Collegiate Programming Contest
-1. _Legendary Grand Newbies_ (Itesm Campus Monterrey) resolvió 2 problemas y obtuvo el lugar #51 (62%) en 45th Annual World Finals of the International Collegiate Programming Contest
-1. _Los A´s_ (Universidad Autonoma De Nuevo Leon) resolvió 3 problemas y obtuvo el lugar #57 (60%) en 42nd Annual World Finals of the International Collegiate Programming Contest
-1. _Pragma_ (Itesm Campus Queretaro) resolvió 2 problemas y obtuvo el lugar #57 (60%) en 42nd Annual World Finals of the International Collegiate Programming Contest
-1. _Los A´S_ (Universidad Autonoma De Nuevo Leon) resolvió 3 problemas y obtuvo el lugar #57 (58%) en 41st Annual World Finals of the ACM International Collegiate Programming Contest
-1. _PU++_ (Facultad De Ciencias-Universidad Nacional Autonoma De Mexico) resolvió 3 problemas y obtuvo el lugar #57 (58%) en 41st Annual World Finals of the ACM International Collegiate Programming Contest
-1. _#define TriLCI(404.0) :v_ (Instituto Tecnologico Superior Del Sur De Guanajuato) resolvió 2 problemas y obtuvo el lugar #63 (54%) en 43rd Annual World Finals of the International Collegiate Programming Contest
-1. _Legendary Grandpupils_ (Itesm Campus Monterrey) resolvió 2 problemas y obtuvo el lugar #63 (54%) en 43rd Annual World Finals of the International Collegiate Programming Contest
-1. _The Beat Alls_ (Instituto Tecnologico Autonomo De Mexico) resolvió 2 problemas y obtuvo el lugar #63 (54%) en 43rd Annual World Finals of the International Collegiate Programming Contest
-1. _lA_Criba de ceros y unos_ (Escuela Superior De Computo Instituto Politecnico Nacional) resolvió 2 problemas y obtuvo el lugar #63 (54%) en 43rd Annual World Finals of the International Collegiate Programming Contest
-1. _Los Románticos_ (Instituto Tecnologico Autonomo De Mexico) resolvió 4 problemas y obtuvo el lugar #69 (46%) en 40th Annual World Finals of the ACM International Collegiate Programming Contest
-1. _AEI_ (Universidad Panamericana Campus Bonaterra) resolvió 2 problemas y obtuvo el lugar #76 (36%) en 37th Annual World Finals of the ACM International Collegiate Programming Contest
-1. _Norman is Hunting_ (Escuela Superior De Computo Instituto Politecnico Nacional) resolvió 4 problemas y obtuvo el lugar #36 (36%) en The ICPC World Finals Invitational Contest
-1. _U de G ACM Problem Solvers_ (Universidad De Guadalajara) resolvió 2 problemas y obtuvo el lugar #65 (35%) en The 2008 ACM Programming Contest World Finals
-1. _Hurones Pwneadores_ (Escuela Superior De Computo Instituto Politecnico Nacional) resolvió 1 problemas y obtuvo el lugar #80 (35%) en 38th Annual World Finals of the ACM International Collegiate Programming Contest
-1. _UTMixteca NONAME_ (Universidad Tecnologica De La Mixteca) resolvió 1 problemas y obtuvo el lugar #56 (33%) en The 2006 ACM Programming Contest World Finals
-1. _Manowar_ (Universidad De Guanajuato - Cimat) resolvió 2 problemas y obtuvo el lugar #74 (30%) en 35th Annual World Finals of the ACM International Collegiate Programming Contest
-1. _Manowar_ (Universidad De Guanajuato - Cimat) resolvió 2 problemas y obtuvo el lugar #80 (29%) en 36th Annual World Finals of the ACM International Collegiate Programming Contest
-1. _La Carabina del AC_ (Escuela Superior De Computo Instituto Politecnico Nacional) resolvió 3 problemas y obtuvo el lugar #92 (28%) en 40th Annual World Finals of the ACM International Collegiate Programming Contest
-1. _Los Pericos Brujos_ (Itesm Campus Monterrey) resolvió 2 problemas y obtuvo el lugar #47 (27%) en The 2002 ACM Programming Contest World Finals
-1. _ITESM Queretaro Los punteros_ (Itesm Campus Queretaro) resolvió 2 problemas y obtuvo el lugar #76 (26%) en 34th Annual World Finals of the ACM International Collegiate Programming Contest
-1. _U Guanajuato Hausdorff_ (Universidad De Guanajuato) resolvió 2 problemas y obtuvo el lugar #77 (25%) en 34th Annual World Finals of the ACM International Collegiate Programming Contest
-1. _Escoolers_ (Escuela Superior De Computo Instituto Politecnico Nacional) resolvió 3 problemas y obtuvo el lugar #96 (25%) en 39th Annual World Finals of the ACM International Collegiate Programming Contest
-1. _Escoders_ (Escuela Superior De Computo Instituto Politecnico Nacional) resolvió 1 problemas y obtuvo el lugar #94 (21%) en 37th Annual World Finals of the ACM International Collegiate Programming Contest
-1. _HaKings_ (Itesm Campus Monterrey) resolvió 2 problemas y obtuvo el lugar #107 (17%) en 40th Annual World Finals of the ACM International Collegiate Programming Contest
-1. _PU++_ (Facultad De Ciencias-Universidad Nacional Autonoma De Mexico) resolvió 3 problemas y obtuvo el lugar #47 (16%) en The ICPC World Finals Invitational Contest
-1. _U de las Americas_ (Universidad De Las Americas-Puebla) resolvió 1 problemas y obtuvo el lugar #53 (15%) en The 1999 ACM Programming Contest World Finals
-1. _Peludos_ (Universidad Autonoma De Aguascalientes) resolvió 2 problemas y obtuvo el lugar #110 (14%) en 39th Annual World Finals of the ACM International Collegiate Programming Contest
-1. _BUA de Puebla - Los Alfalfas_ (Benemerita Universidad Autonoma De Puebla) resolvió 2 problemas y obtuvo el lugar #69 (12%) en The 2005 ACM Programming Contest World Finals
-1. _Justice League_ (Universidad Tecnologica De La Mixteca) resolvió 1 problemas y obtuvo el lugar #101 (10%) en 36th Annual World Finals of the ACM International Collegiate Programming Contest
-1. _C_mita_ (Itesm Campus Puebla) resolvió 1 problemas y obtuvo el lugar #101 (10%) en 36th Annual World Finals of the ACM International Collegiate Programming Contest
-1. _ITESM ProZac_ (Itesm Campus Monterrey) resolvió 1 problemas y obtuvo el lugar #56 (10%) en The 1999 ACM Programming Contest World Finals
-1. _SWART_ (Itesm Campus Monterrey) resolvió 1 problemas y obtuvo el lugar #59 (8%) en The 2001 ACM Programming Contest World Finals
-1. _Locos_ (Itesm Campus Monterrey) resolvió 1 problemas y obtuvo el lugar #121 (6%) en 39th Annual World Finals of the ACM International Collegiate Programming Contest
-1. _#define TriLCI(404.0) :v_ (Instituto Tecnologico Superior Del Sur De Guanajuato) resolvió 2 problemas y obtuvo el lugar #53 (5%) en The ICPC World Finals Invitational Contest
-1. _UTMixteca Poor Dogs_ (Universidad Tecnologica De La Mixteca) resolvió 1 problemas y obtuvo el lugar #74 (5%) en The 2005 ACM Programming Contest World Finals
-
 
 

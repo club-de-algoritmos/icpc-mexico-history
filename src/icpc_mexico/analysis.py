@@ -41,7 +41,6 @@ class Analyzer:
                                                           f'resolvió {team.problems_solved})'
                                                           f' {team.name} ({team.institution}{community_desc})')
 
-                honorable_teams: List[RankedTeam] = []
                 high_teams: List[RankedTeam] = []
                 teams = self._queries.get_ranked_teams(country=MEXICO)
                 for team in teams:
@@ -49,21 +48,15 @@ class Analyzer:
                     if not ext_result or not ext_result.team_result.problems_solved:
                         continue
 
+                    # Check whether the team was in the top half of the ranking
                     last_rank = ext_result.contest.team_results[-1].rank
-                    if ext_result.team_result.rank == last_rank or ext_result.percentile < 0.5:
-                        honorable_teams.append(team)
-                    else:
+                    if ext_result.team_result.rank < last_rank and ext_result.percentile >= 0.5:
                         high_teams.append(team)
 
-                with markdown.section('Ranking de equipos'):
-                    self._print_detailed_ranking(title='Sobresalientes',
-                                                 teams=high_teams,
-                                                 markdown=markdown,
-                                                 display_world_only=True)
-                    self._print_detailed_ranking(title='Mención honorífica',
-                                                 teams=honorable_teams,
-                                                 markdown=markdown,
-                                                 display_world_only=True)
+                self._print_detailed_ranking(title='Equipos sobresalientes',
+                                             teams=high_teams,
+                                             markdown=markdown,
+                                             display_world_only=True)
 
     @log_run_time
     def _analyze_community(self, community: SchoolCommunity, community_name: str) -> None:

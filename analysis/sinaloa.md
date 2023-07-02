@@ -19,196 +19,198 @@
 
 ### 2001-2002
 
-- #18 _Deth-Therion_ (Itesm Campus Mazatlan) (Regional)
-- #44 _Los Afro_ (Itesm Campus Mazatlan) (Regional)
-- #55 _LO QUE SEA_ (Itesm Campus Mazatlan) (Regional)
-- #55 _Tec Campus Mazatlán_ (Itesm Campus Mazatlan) (Regional)
+1. #18 _Deth-Therion_ (Itesm Campus Mazatlan) (Regional)
+1. #44 _Los Afro_ (Itesm Campus Mazatlan) (Regional)
+1. #55 _LO QUE SEA_ (Itesm Campus Mazatlan) (Regional)
+1. #55 _Tec Campus Mazatlán_ (Itesm Campus Mazatlan) (Regional)
 
 ### 2002-2003
 
-- #7 _Campus Mazatlán_ (Itesm Campus Mazatlan) (Regional)
-- #13 _HMJ21_ (Itesm Campus Mazatlan) (Regional)
-- #21 _YHS20_ (Itesm Campus Mazatlan) (Regional)
-- #24 _Let it C_ (Itesm Campus Mazatlan) (Regional)
-- #27 _COD22_ (Itesm Campus Mazatlan) (Regional)
-- #27 _Knights EC_ (Itesm Campus Mazatlan) (Regional)
-- #27 _drink team_ (Itesm Campus Mazatlan) (Regional)
+1. #7 _Campus Mazatlán_ (Itesm Campus Mazatlan) (Regional)
+1. #13 _HMJ21_ (Itesm Campus Mazatlan) (Regional)
+1. #21 _YHS20_ (Itesm Campus Mazatlan) (Regional)
+1. #24 _Let it C_ (Itesm Campus Mazatlan) (Regional)
+1. #27 _COD22_ (Itesm Campus Mazatlan) (Regional)
+1. #27 _Knights EC_ (Itesm Campus Mazatlan) (Regional)
+1. #27 _drink team_ (Itesm Campus Mazatlan) (Regional)
 
 ### 2003-2004
 
-- #26 _.RHR._ (Itesm Campus Mazatlan) (Regional)
-- #30 _ISC++_ (Itesm Campus Mazatlan) (Regional)
-- #32 _JHack_ (Itesm Campus Mazatlan) (Regional)
-- #36 _Dangerous Minds_ (Itesm Campus Mazatlan) (Regional)
-- #41 _Campus Mazatlán_ (Itesm Campus Mazatlan) (Regional)
-- #41 _Mazatlán II_ (Itesm Campus Mazatlan) (Regional)
+1. #26 _.RHR._ (Itesm Campus Mazatlan) (Regional)
+1. #30 _ISC++_ (Itesm Campus Mazatlan) (Regional)
+1. #32 _JHack_ (Itesm Campus Mazatlan) (Regional)
+1. #36 _Dangerous Minds_ (Itesm Campus Mazatlan) (Regional)
+1. #41 _Campus Mazatlán_ (Itesm Campus Mazatlan) (Regional)
+1. #41 _Mazatlán II_ (Itesm Campus Mazatlan) (Regional)
 
 ### 2004-2005
 
-- #5 _MTY1_ (Itesm Campus Mazatlan) (Regional)
-- #11 _MTY2_ (Itesm Campus Mazatlan) (Regional)
-- #80 _itesm 4_ (Itesm Campus Mazatlan) (Regional)
-- #90 _MTY3_ (Itesm Campus Mazatlan) (Regional)
+1. #5 _MTY1_ (Itesm Campus Mazatlan) (Regional)
+1. #11 _MTY2_ (Itesm Campus Mazatlan) (Regional)
+1. #80 _itesm 4_ (Itesm Campus Mazatlan) (Regional)
+1. #90 _MTY3_ (Itesm Campus Mazatlan) (Regional)
 
 ### 2005-2006
 
-- #4 _MTY01_ (Itesm Campus Mazatlan) (Regional)
-- #8 _javaglets_ (Itesm Campus Mazatlan) (Regional)
-- #11 _Sapphire_ (Itesm Campus Mazatlan) (Regional)
-- #16 _MTY03_ (Itesm Campus Mazatlan) (Regional)
-- #18 _MTY02_ (Itesm Campus Mazatlan) (Regional)
-- #31 _Les Chevaliers D''Or_ (Itesm Campus Mazatlan) (Regional)
-- #32 _2 hot 2 handle_ (Itesm Campus Mazatlan) (Regional)
-- #46 _ITESM Masters_ (Itesm Campus Mazatlan) (Regional)
+1. #4 _MTY01_ (Itesm Campus Mazatlan) (Regional)
+1. #8 _javaglets_ (Itesm Campus Mazatlan) (Regional)
+1. #11 _Sapphire_ (Itesm Campus Mazatlan) (Regional)
+1. #16 _MTY03_ (Itesm Campus Mazatlan) (Regional)
+1. #18 _MTY02_ (Itesm Campus Mazatlan) (Regional)
+1. #31 _Les Chevaliers D''Or_ (Itesm Campus Mazatlan) (Regional)
+1. #32 _2 hot 2 handle_ (Itesm Campus Mazatlan) (Regional)
+1. #46 _ITESM Masters_ (Itesm Campus Mazatlan) (Regional)
 
 ### 2006-2007
 
-- #23 _Revival_ (Itesm Campus Mazatlan) (Regional)
-- #27 _StackOverflow_ (Instituto Tecnologico De Culiacan) (Regional)
-- #30 _Burros sin Mecate_ (Itesm Campus Mazatlan) (Regional)
-- #33 _aqua_ (Itesm Campus Mazatlan) (Regional)
-- #36 _Balls of Fire_ (Itesm Campus Mazatlan) (Regional)
-- #50 _Carlit-OS_ (Itesm Campus Mazatlan) (Regional)
-- #55 _Borregos PACK_ (Itesm Campus Mazatlan) (Regional)
-- #85 _Hijos de Efren_ (Itesm Campus Mazatlan) (Regional)
-- #85 _ITESM Mazatlán_ (Itesm Campus Mazatlan) (Regional)
-- #85 _ITESM ZAC 1_ (Itesm Campus Mazatlan) (Regional)
-- #85 _Los Mazatlecos_ (Itesm Campus Mazatlan) (Regional)
-- #85 _Punishers_ (Itesm Campus Mazatlan) (Regional)
+1. #23 _Revival_ (Itesm Campus Mazatlan) (Regional)
+1. #27 (#6 de TecNM) _StackOverflow_ (Instituto Tecnologico De Culiacan) (Regional)
+1. #30 _Burros sin Mecate_ (Itesm Campus Mazatlan) (Regional)
+1. #33 _aqua_ (Itesm Campus Mazatlan) (Regional)
+1. #36 _Balls of Fire_ (Itesm Campus Mazatlan) (Regional)
+1. #50 _Carlit-OS_ (Itesm Campus Mazatlan) (Regional)
+1. #55 _Borregos PACK_ (Itesm Campus Mazatlan) (Regional)
+1. #85 _Hijos de Efren_ (Itesm Campus Mazatlan) (Regional)
+1. #85 _ITESM Mazatlán_ (Itesm Campus Mazatlan) (Regional)
+1. #85 _ITESM ZAC 1_ (Itesm Campus Mazatlan) (Regional)
+1. #85 _Los Mazatlecos_ (Itesm Campus Mazatlan) (Regional)
+1. #85 _Punishers_ (Itesm Campus Mazatlan) (Regional)
 
 ### 2007-2008
 
-- #90 _ITC Turing Machines_ (Instituto Tecnologico De Culiacan) (Final Mundial)
-- #6 _los punteros_ (Itesm Campus Mazatlan) (Regional)
-- #19 _ITESM CEM_ (Itesm Campus Mazatlan) (Regional)
-- #35 _Objeto.metodo()_ (Itesm Campus Mazatlan) (Regional)
-- #61 _3-108_ (Itesm Campus Mazatlan) (Regional)
-- #61 _FORZA ITIC 1_ (Itesm Campus Mazatlan) (Regional)
-- #61 _Pascaleros_ (Itesm Campus Mazatlan) (Regional)
-- #61 _Top Coder_ (Itesm Campus Mazatlan) (Regional)
+1. #3 (#1 de TecNM) _ITC Turing Machines_ (Instituto Tecnologico De Culiacan) (Regional)
+    - Avanzó a la final mundial y resolvió 0 problemas obtuviendo el lugar #90 (10%) en The 2008 ACM Programming Contest World Finals
+1. #6 _los punteros_ (Itesm Campus Mazatlan) (Regional)
+1. #19 _ITESM CEM_ (Itesm Campus Mazatlan) (Regional)
+1. #35 _Objeto.metodo()_ (Itesm Campus Mazatlan) (Regional)
+1. #61 _3-108_ (Itesm Campus Mazatlan) (Regional)
+1. #61 _FORZA ITIC 1_ (Itesm Campus Mazatlan) (Regional)
+1. #61 _Pascaleros_ (Itesm Campus Mazatlan) (Regional)
+1. #61 _Top Coder_ (Itesm Campus Mazatlan) (Regional)
 
 ### 2008-2009
 
-- #49 _Turing Machines_ (Instituto Tecnologico De Culiacan) (Final Mundial)
-- #47 _Salchipulpos_ (Instituto Tecnologico De Culiacan) (Regional)
-- #67 _Dark side of the code_ (Instituto Tecnologico De Culiacan) (Regional)
+1. #1 (#1 de TecNM) _Turing Machines_ (Instituto Tecnologico De Culiacan) (Regional)
+    - Avanzó a la final mundial y resolvió 3 problemas obtuviendo el lugar #49 (52%) en 33rd Annual World Finals of the ACM International Collegiate Programming Contest
+1. #47 (#5 de TecNM) _Salchipulpos_ (Instituto Tecnologico De Culiacan) (Regional)
+1. #67 (#9 de TecNM) _Dark side of the code_ (Instituto Tecnologico De Culiacan) (Regional)
 
 ### 2009-2010
 
-- #16 _tec de Culiacán_ (Instituto Tecnologico De Culiacan) (Regional)
+1. #16 (#1 de TecNM) _tec de Culiacán_ (Instituto Tecnologico De Culiacan) (Regional)
 
 ### 2010-2011
 
-- #69 _Three Little Bits_ (Instituto Tecnologico De Culiacan) (Regional)
-- #90 _Unreal Coders_ (Instituto Tecnologico De Culiacan) (Regional)
+1. #69 (#8 de TecNM) _Three Little Bits_ (Instituto Tecnologico De Culiacan) (Regional)
+1. #90 (#13 de TecNM) _Unreal Coders_ (Instituto Tecnologico De Culiacan) (Regional)
 
 ### 2011-2012
 
-- #48 _Three Bits_ (Instituto Tecnologico De Culiacan) (Regional)
-- #92 _UPSIN DELTA_ (Universidad Politecnica De Sinaloa) (Regional)
-- #101 _UPSIN GAMMA_ (Universidad Politecnica De Sinaloa) (Regional)
-- #104 _UPSIN ALFA_ (Universidad Politecnica De Sinaloa) (Regional)
-- #104 _UPSIN BETA_ (Universidad Politecnica De Sinaloa) (Regional)
+1. #48 (#6 de TecNM) _Three Bits_ (Instituto Tecnologico De Culiacan) (Regional)
+1. #92 _UPSIN DELTA_ (Universidad Politecnica De Sinaloa) (Regional)
+1. #101 _UPSIN GAMMA_ (Universidad Politecnica De Sinaloa) (Regional)
+1. #104 _UPSIN ALFA_ (Universidad Politecnica De Sinaloa) (Regional)
+1. #104 _UPSIN BETA_ (Universidad Politecnica De Sinaloa) (Regional)
 
 ### 2012-2013
 
-- #12 _Three Bits_ (Instituto Tecnologico De Culiacan) (Regional)
-- #55 _Caldo de pollo_ (Instituto Tecnologico De Culiacan) (Regional)
-- #103 _Salchipulpos_ (Instituto Tecnologico De Culiacan) (Regional)
+1. #12 (#2 de TecNM) _Three Bits_ (Instituto Tecnologico De Culiacan) (Regional)
+1. #55 (#21 de TecNM) _Caldo de pollo_ (Instituto Tecnologico De Culiacan) (Regional)
+1. #103 (#39 de TecNM) _Salchipulpos_ (Instituto Tecnologico De Culiacan) (Regional)
 
 ### 2013-2014
 
-- #39 _Dynamic_ (Instituto Tecnologico De Culiacan) (Regional)
-- #60 _PM4L_ (Instituto Tecnologico De Culiacan) (Regional)
+1. #39 (#3 de TecNM) _Dynamic_ (Instituto Tecnologico De Culiacan) (Regional)
+1. #60 (#9 de TecNM) _PM4L_ (Instituto Tecnologico De Culiacan) (Regional)
 
 ### 2014-2015
 
-- #9 _JRA_ (Instituto Tecnologico De Culiacan) (Regional)
-- #54 _Los Cansados_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
-- #90 _Los simuladores_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
-- #153 _Mighty Morphin 335_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
-- #204 _Equipo Rocket_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
-- #204 _JDK_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+1. #9 (#1 de TecNM) _JRA_ (Instituto Tecnologico De Culiacan) (Regional)
+1. #54 (#6 de TecNM) _Los Cansados_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+1. #90 (#14 de TecNM) _Los simuladores_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+1. #153 (#36 de TecNM) _Mighty Morphin 335_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+1. #204 (#52 de TecNM) _Equipo Rocket_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+1. #204 (#52 de TecNM) _JDK_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
 
 ### 2015-2016
 
-- #108 _Bonum faciunt_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
-- #108 _EPN Y LOS 43?_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
-- #108 _Exception_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
-- #108 _Qbits_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+1. #108 (#28 de TecNM) _Bonum faciunt_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+1. #108 (#28 de TecNM) _EPN Y LOS 43?_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+1. #108 (#28 de TecNM) _Exception_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+1. #108 (#28 de TecNM) _Qbits_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
 
 ### 2018-2019
 
-- #149 _Aprovecha el bug_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
-- #346 _AHF4_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
-- #350 _Los Patos_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
-- #359 _Another One_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
-- #378 _Linux Team_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
-- #394 _Coffee Team_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
-- #394 _Error 404: Not found_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
-- #395 _Team UAdeO_ (Universidad De Occidente, Unidad Culiacan) (Clasificatorio)
+1. #149 _Aprovecha el bug_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
+1. #346 _AHF4_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
+1. #350 _Los Patos_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
+1. #359 _Another One_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
+1. #378 _Linux Team_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
+1. #394 _Coffee Team_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
+1. #394 _Error 404: Not found_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
+1. #395 _Team UAdeO_ (Universidad De Occidente, Unidad Culiacan) (Clasificatorio)
 
 ### 2019-2020
 
-- #135 _The Bytes_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
-- #206 _Equipo106_ (Universidad De Occidente, Unidad Culiacan) (Clasificatorio)
-- #351 _Singleton_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
-- #354 _Team-Capi_ (Universidad Autonoma De Occidente) (Clasificatorio)
-- #382 _Código Enigma_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
-- #382 _TryCatch_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
+1. #135 _The Bytes_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
+1. #206 _Equipo106_ (Universidad De Occidente, Unidad Culiacan) (Clasificatorio)
+1. #351 _Singleton_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
+1. #354 _Team-Capi_ (Universidad Autonoma De Occidente) (Clasificatorio)
+1. #382 _Código Enigma_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
+1. #382 _TryCatch_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
 
 ### 2020-2021
 
-- #351 _Picudos 1 ISC_ (Tecnologico Nacional De Mexico / Instituto Tecnologico De Mazatlan) (Clasificatorio)
+1. #351 (#65 de TecNM) _Picudos 1 ISC_ (Tecnologico Nacional De Mexico / Instituto Tecnologico De Mazatlan) (Clasificatorio)
 
 ### 2021-2022
 
-- #36 _Ludus G++_ (Instituto Tecnologico De Culiacan) (Regional)
-- #124 _Zandunga_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
-- #140 _Hijos de Honor_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
-- #145 _ArsGoetia_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
-- #171 _Salchipulpos_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
-- #211 _SpiderTeam_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
-- #225 _Beesechurger_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+1. #36 (#5 de TecNM) _Ludus G++_ (Instituto Tecnologico De Culiacan) (Regional)
+1. #124 (#11 de TecNM) _Zandunga_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+1. #140 (#12 de TecNM) _Hijos de Honor_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+1. #145 (#13 de TecNM) _ArsGoetia_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+1. #171 (#18 de TecNM) _Salchipulpos_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+1. #211 (#30 de TecNM) _SpiderTeam_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+1. #225 (#35 de TecNM) _Beesechurger_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
 
 ### 2022-2023
 
-- #14 _Ludus G++_ (Instituto Tecnologico De Culiacan) (Regional)
-- #93 _Hijos de Honor_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
-- #108 _Nexus_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
-- #110 _Team Belico_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
-- #116 _Broncos4Life_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
-- #127 _3Logy_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
-- #133 _Los Padrinos del C++_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
-- #151 _Gods Programming_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
-- #221 _Chicas Superpoderosas_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
-- #222 _Los tilines insanos_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
-- #227 _New Legacy_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
-- #267 _FIMAZ_ (Facultad De Informatica Mazatlan Uas) (Clasificatorio)
-- #382 _El Pariente Technologies_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
-- #382 _Hog Riders_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
-- #382 _SeatWorks_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+1. #14 (#1 de TecNM) _Ludus G++_ (Instituto Tecnologico De Culiacan) (Regional)
+1. #93 (#11 de TecNM) _Hijos de Honor_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+1. #108 _Nexus_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
+1. #110 (#14 de TecNM) _Team Belico_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+1. #116 (#15 de TecNM) _Broncos4Life_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+1. #127 (#20 de TecNM) _3Logy_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+1. #133 (#21 de TecNM) _Los Padrinos del C++_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+1. #151 _Gods Programming_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
+1. #221 (#35 de TecNM) _Chicas Superpoderosas_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+1. #222 (#36 de TecNM) _Los tilines insanos_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+1. #227 (#38 de TecNM) _New Legacy_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+1. #267 _FIMAZ_ (Facultad De Informatica Mazatlan Uas) (Clasificatorio)
+1. #382 _El Pariente Technologies_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
+1. #382 _Hog Riders_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
+1. #382 (#82 de TecNM) _SeatWorks_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
 
 ### 2023-2024
 
-- #13 _Sieve of Ludus_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
-- #36 _AC2++_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
-- #83 _Citric Vindicators_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
-- #103 _Gatos Bajo la Lluvia_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
-- #112 _Los Monos Bichis_ (Facultad De Informatica Mazatlan Uas) (Clasificatorio)
-- #115 _O(zuna)_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
-- #133 _THE THREE MUSKETEERS_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
-- #147 _Hasbulla Lovers Official Fans Club_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
-- #162 _Nexus_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
-- #168 _Triforce_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
-- #170 _CHIQUETE'S CHILI CHEESE FRIES_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
-- #184 _Chicas Superpoderosas_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
-- #214 _KOZINA_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
-- #303 _Datahead_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
-- #319 _los traperitos_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
-- #442 _New Jeans_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
-- #443 _Gods Programming_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
-- #457 _Las Llaves_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+1. #13 (#1 de TecNM) _Sieve of Ludus_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+1. #36 (#3 de TecNM) _AC2++_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+1. #83 (#13 de TecNM) _Citric Vindicators_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+1. #103 (#19 de TecNM) _Gatos Bajo la Lluvia_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+1. #112 _Los Monos Bichis_ (Facultad De Informatica Mazatlan Uas) (Clasificatorio)
+1. #115 (#22 de TecNM) _O(zuna)_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+1. #133 _THE THREE MUSKETEERS_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
+1. #147 (#26 de TecNM) _Hasbulla Lovers Official Fans Club_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+1. #162 _Nexus_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
+1. #168 (#28 de TecNM) _Triforce_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+1. #170 (#29 de TecNM) _CHIQUETE'S CHILI CHEESE FRIES_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+1. #184 (#34 de TecNM) _Chicas Superpoderosas_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+1. #214 _KOZINA_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
+1. #303 (#63 de TecNM) _Datahead_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+1. #319 (#70 de TecNM) _los traperitos_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
+1. #442 _New Jeans_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
+1. #443 _Gods Programming_ (Universidad Autonoma De Sinaloa) (Clasificatorio)
+1. #457 (#136 de TecNM) _Las Llaves_ (Instituto Tecnologico De Culiacan) (Clasificatorio)
 
 
 

@@ -92,15 +92,15 @@ class Analyzer:
                                     markdown.bullet_point(participation)
 
                 with markdown.section('Mejores 5 en el regional de México'):
-                    for contest in self._queries.get_contests_by_type(ContestType.REGIONAL):
-                        with markdown.section(contest.description()):
-                            for team in contest.team_results:
-                                if team.community != community:
-                                    continue
-                                if team.community_rank > 5 or not team.problems_solved:
-                                    break
-                                markdown.bullet_point(f'#{team.rank} (#{team.community_rank} de {community_name})'
-                                                      f' {team.name} ({team.institution})')
+                    for season in self._queries.contest_seasons:
+                        season_teams = [team
+                                        for team in season.teams
+                                        if team.school and
+                                        team.school.community == community and
+                                        team.regional_result and
+                                        team.regional_result.team_result.community_rank <= 5 and
+                                        team.regional_result.team_result.problems_solved]
+                        self._print_simple_ranking(season.name, season_teams, markdown)
 
     @log_run_time
     def _analyze_state(self, state: str) -> None:
@@ -113,16 +113,7 @@ class Analyzer:
                 with markdown.section('Participaciones'):
                     for season in self._queries.contest_seasons:
                         season_teams = [team for team in season.teams if team.school and team.school.state == state]
-                        if not season_teams:
-                            # No school from this state participated this year
-                            continue
-
-                        with markdown.section(season.name):
-                            for team in season_teams:
-                                ext_team_result = team.top_result
-                                markdown.bullet_point(f'#{ext_team_result.team_result.rank} _{team.name}_'
-                                                      f' ({team.school.name.title()})'
-                                                      f' ({ext_team_result.contest.type.title()})')
+                        self._print_simple_ranking(season.name, season_teams, markdown)
 
     def analyze_schools_by_country(self, country: str) -> None:
         schools = self._queries.get_schools_by_country(country)
@@ -147,27 +138,18 @@ class Analyzer:
                 with markdown.section('Participaciones'):
                     for season in self._queries.contest_seasons:
                         season_teams = [team for team in season.teams if team.school == school]
-                        if not season_teams:
-                            # School did not participate this year
-                            continue
-
-                        with markdown.section(season.name):
-                            for team in season_teams:
-                                ext_team_result = team.top_result
-                                community_rank = ''
-                                if team.school.community == SchoolCommunity.TECNM:
-                                    community_rank = f' (#{ext_team_result.team_result.community_rank} de TecNM)'
-                                markdown.bullet_point(f'#{ext_team_result.team_result.rank}{community_rank}'
-                                                      f' _{team.name}_'
-                                                      f' ({ext_team_result.contest.type.title()})')
+                        self._print_simple_ranking(season.name, season_teams, markdown, display_school=False)
 
     def _print_detailed_ranking(self,
                                 title: str,
                                 teams: List[RankedTeam],
                                 markdown: Markdown,
                                 display_school: bool = True,
-                                display_world_only: bool = False
+                                display_world_only: bool = False,
                                 ) -> None:
+        if not teams:
+            return
+
         def result_to_str(result: ExtendedTeamResult, percentile: float) -> str:
             return (f'resolvió {result.team_result.problems_solved} problemas'
                     f' y obtuvo el lugar #{result.team_result.rank}'
@@ -193,3 +175,31 @@ class Analyzer:
                         f'_{team.name}_{school_str} {result_to_str(top_result, top_result.percentile)}')
                     if not display_world_only:
                         markdown.bullet_point('No hay datos del regional', indent=1)
+
+    def _print_simple_ranking(self,
+                              title: str,
+                              teams: List[RankedTeam],
+                              markdown: Markdown,
+                              display_school: bool = True,
+                              ) -> None:
+        if not teams:
+            return
+
+        with markdown.section(title):
+            for team in teams:
+                school_str = f' ({team.school.name.title()})' if display_school else ''
+                top_result = team.regional_result or team.qualifier_result
+                community_rank = ''
+                if team.school.community == SchoolCommunity.TECNM:
+                    community_rank = f' (#{top_result.team_result.community_rank} de TecNM)'
+                markdown.numbered_bullet_point(f'#{top_result.team_result.rank}{community_rank}'
+                                               f' _{team.name}_{school_str}'
+                                               f' ({top_result.contest.type.title()})')
+                world_result = team.world_result
+                if world_result:
+                    markdown.bullet_point(
+                        (f'Avanzó a la final mundial y resolvió {world_result.team_result.problems_solved}'
+                         f' problemas obtuviendo el lugar #{world_result.team_result.rank}'
+                         f' ({format_percentile(world_result.percentile)}) en'
+                         f' {world_result.contest.name}'),
+                        indent=1)

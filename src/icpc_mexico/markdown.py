@@ -1,5 +1,5 @@
 import enum
-from typing import TextIO
+from typing import TextIO, List
 
 
 class MarkdownFile:
@@ -61,9 +61,17 @@ class Markdown:
     def numbered_bullet_point(self, text: str, indent: int = 0) -> None:
         self._write_line(f'{" " * 4 * indent}1. {text}')
 
-    def collapsible(self, summary: str):
+    def collapsible(self, summary: str) -> None:
         self.context.append(MarkdownContext.COLLAPSIBLE)
         self._write_line('<details>')
         self._write_line(f'<summary>{summary}</summary>')
         self._write_line()
-        return self
+
+    def table(self, headers: List[str], rows: List[List[str]]) -> None:
+        def row_to_str(row_items: List[str]) -> str:
+            return f"| {' | '.join(row_items)} |"
+
+        self._write_line(row_to_str(headers))
+        self._write_line(row_to_str(['---'] * len(headers)))
+        for row in rows:
+            self._write_line(row_to_str(row))

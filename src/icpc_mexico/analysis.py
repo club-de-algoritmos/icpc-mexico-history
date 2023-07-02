@@ -1,10 +1,11 @@
 import os
-from typing import List, Set, Tuple
+from collections import defaultdict
+from typing import List, Set, Tuple, Dict
 
 from icpc_mexico.data import FinishedContest, ContestType, SchoolCommunity, School, MEXICO, TeamResult
 from icpc_mexico.markdown import Markdown, MarkdownFile
 from icpc_mexico.queries import Queries
-from icpc_mexico.query_data import RankedTeam, ExtendedTeamResult
+from icpc_mexico.query_data import RankedTeam, ExtendedTeamResult, ContestSeason
 from icpc_mexico.utils import normalize_as_filename, log_run_time, format_percentile
 
 TeamRank = Tuple[float, FinishedContest, TeamResult]
@@ -57,6 +58,44 @@ class Analyzer:
                                              teams=high_teams,
                                              markdown=markdown,
                                              display_world_only=True)
+
+            with markdown.section('Ranking de escuelas'):
+                recent_seasons = []
+                world_finals_count = 0
+                for season in reversed(self._queries.contest_seasons):
+                    recent_seasons.append(season)
+                    if season.worlds:
+                        world_finals_count += 1
+                        if world_finals_count == 5:
+                            break
+
+                self._print_school_ranking(markdown, 'Últimos 5 años', recent_seasons)
+                self._print_school_ranking(markdown, 'Histórico', self._queries.contest_seasons)
+
+    def _print_school_ranking(self, markdown: Markdown, title: str, seasons: List[ContestSeason]) -> None:
+        school_stats: Dict[str, List] = defaultdict(lambda: [0, 0, 0])
+        for season in seasons:
+            for team in season.teams:
+                if not team.school or team.school.country != MEXICO:
+                    continue
+
+                stat = school_stats[team.school.name.title()]
+                if team.world_result:
+                    stat[0] += 1
+                elif team.regional_result:
+                    stat[1] += 1
+                elif team.qualifier_result:
+                    stat[2] += 1
+
+        school_ranking = sorted(school_stats.items(), key=lambda school_stat: school_stat[1], reverse=True)
+        rank = 0
+        school_table = []
+        for school, stats in school_ranking:
+            if stats[0]:  # Only world finalist schools
+                rank += 1
+                school_table.append([str(rank), school] + list(map(str, stats)))
+        with markdown.section(title):
+            markdown.table(['#', 'Escuela', 'Finales mundiales', 'Regionales', 'Clasificatorios'], school_table)
 
     @log_run_time
     def _analyze_community(self, community: SchoolCommunity, community_name: str) -> None:

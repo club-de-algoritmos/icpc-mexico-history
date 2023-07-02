@@ -145,3 +145,48 @@
 1. _Turing Machines_ (Instituto Tecnologico De Culiacan) resolvió 3 problemas y obtuvo el lugar #49 (52%) en 33rd Annual World Finals of the ACM International Collegiate Programming Contest
 
 
+# Ranking de escuelas
+
+## Últimos 5 años
+
+| # | Escuela | Finales mundiales | Regionales | Clasificatorios |
+| --- | --- | --- | --- | --- |
+| 1 | Facultad De Ciencias-Universidad Nacional Autonoma De Mexico | 3 | 12 | 58 |
+| 2 | Instituto Tecnologico Autonomo De Mexico | 3 | 6 | 18 |
+| 3 | Escuela Superior De Computo Instituto Politecnico Nacional | 2 | 25 | 130 |
+| 4 | Itesm Campus Monterrey | 2 | 21 | 256 |
+| 5 | Universidad Panamericana Campus Bonaterra | 2 | 15 | 60 |
+| 6 | Instituto Tecnologico Superior Del Sur De Guanajuato | 2 | 12 | 162 |
+| 7 | Universidad Autonoma De Nuevo Leon | 2 | 10 | 64 |
+| 8 | Universidad De Guanajuato - Dcne | 1 | 19 | 30 |
+| 9 | Universidad De Guadalajara Cucei | 1 | 15 | 98 |
+| 10 | Itesm Campus Queretaro | 1 | 6 | 22 |
+
+## Histórico
+
+| # | Escuela | Finales mundiales | Regionales | Clasificatorios |
+| --- | --- | --- | --- | --- |
+| 1 | Itesm Campus Monterrey | 9 | 82 | 269 |
+| 2 | Escuela Superior De Computo Instituto Politecnico Nacional | 6 | 59 | 146 |
+| 3 | Universidad Tecnologica De La Mixteca | 5 | 38 | 29 |
+| 4 | Instituto Tecnologico Autonomo De Mexico | 4 | 33 | 21 |
+| 5 | Universidad Panamericana Campus Bonaterra | 4 | 29 | 70 |
+| 6 | Universidad De Las Americas-Puebla | 4 | 21 | 0 |
+| 7 | Universidad De Guanajuato | 3 | 26 | 1 |
+| 8 | Facultad De Ciencias-Universidad Nacional Autonoma De Mexico | 3 | 15 | 58 |
+| 9 | Itesm Campus Queretaro | 2 | 67 | 25 |
+| 10 | Universidad Autonoma De Nuevo Leon | 2 | 52 | 66 |
+| 11 | Universidad Autonoma De Aguascalientes | 2 | 37 | 76 |
+| 12 | Benemerita Universidad Autonoma De Puebla | 2 | 35 | 14 |
+| 13 | Instituto Tecnologico De Ciudad Madero | 2 | 33 | 41 |
+| 14 | Itesm Campus Estado De Mexico | 2 | 27 | 73 |
+| 15 | Instituto Tecnologico Superior Del Sur De Guanajuato | 2 | 23 | 177 |
+| 16 | Instituto Tecnologico De Culiacan | 2 | 15 | 36 |
+| 17 | Universidad De Guanajuato - Cimat | 2 | 7 | 7 |
+| 18 | Universidad De Guadalajara Cucei | 1 | 59 | 120 |
+| 19 | Universidad Autonoma De Tlaxcala | 1 | 34 | 41 |
+| 20 | Itesm Campus Puebla | 1 | 21 | 47 |
+| 21 | Universidad De Guanajuato - Dcne | 1 | 19 | 30 |
+| 22 | Universidad De Guadalajara | 1 | 10 | 4 |
+
+

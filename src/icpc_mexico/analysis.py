@@ -73,7 +73,7 @@ class Analyzer:
                 self._print_school_ranking(markdown, 'Histórico', self._queries.contest_seasons)
 
     def _print_school_ranking(self, markdown: Markdown, title: str, seasons: List[ContestSeason]) -> None:
-        school_stats: Dict[str, List] = defaultdict(lambda: [0, 0, 0])
+        school_stats: Dict[str, List] = defaultdict(lambda: [0, 0, 0, 0])
         for season in seasons:
             for team in season.teams:
                 if not team.school or team.school.country != MEXICO:
@@ -82,10 +82,11 @@ class Analyzer:
                 stat = school_stats[team.school.name.title()]
                 if team.world_result:
                     stat[0] += 1
-                elif team.regional_result:
+                if team.regional_result:
                     stat[1] += 1
-                elif team.qualifier_result:
+                if team.qualifier_result:
                     stat[2] += 1
+                stat[3] += 1
 
         school_ranking = sorted(school_stats.items(), key=lambda school_stat: school_stat[1], reverse=True)
         rank = 0
@@ -95,7 +96,8 @@ class Analyzer:
                 rank += 1
                 school_table.append([str(rank), school] + list(map(str, stats)))
         with markdown.section(title):
-            markdown.table(['#', 'Escuela', 'Finales mundiales', 'Regionales', 'Clasificatorios'], school_table)
+            markdown.table(['#', 'Escuela', 'Finales mundiales', 'Regionales', 'Clasificatorios', 'Total'],
+                           school_table)
 
     @log_run_time
     def _analyze_community(self, community: SchoolCommunity, community_name: str) -> None:

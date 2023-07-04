@@ -149,44 +149,44 @@
 
 ## Últimos 5 años
 
-| # | Escuela | Finales mundiales | Regionales | Clasificatorios |
-| --- | --- | --- | --- | --- |
-| 1 | Facultad De Ciencias-Universidad Nacional Autonoma De Mexico | 3 | 12 | 58 |
-| 2 | Instituto Tecnologico Autonomo De Mexico | 3 | 6 | 18 |
-| 3 | Escuela Superior De Computo Instituto Politecnico Nacional | 2 | 25 | 130 |
-| 4 | Itesm Campus Monterrey | 2 | 21 | 256 |
-| 5 | Universidad Panamericana Campus Bonaterra | 2 | 15 | 60 |
-| 6 | Instituto Tecnologico Superior Del Sur De Guanajuato | 2 | 12 | 162 |
-| 7 | Universidad Autonoma De Nuevo Leon | 2 | 10 | 64 |
-| 8 | Universidad De Guanajuato - Dcne | 1 | 19 | 30 |
-| 9 | Universidad De Guadalajara Cucei | 1 | 15 | 98 |
-| 10 | Itesm Campus Queretaro | 1 | 6 | 22 |
+| # | Escuela | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Facultad De Ciencias-Universidad Nacional Autonoma De Mexico | 3 | 14 | 72 | 73 |
+| 2 | Instituto Tecnologico Autonomo De Mexico | 3 | 9 | 27 | 27 |
+| 3 | Escuela Superior De Computo Instituto Politecnico Nacional | 2 | 27 | 155 | 157 |
+| 4 | Itesm Campus Monterrey | 2 | 23 | 278 | 279 |
+| 5 | Universidad Panamericana Campus Bonaterra | 2 | 17 | 77 | 77 |
+| 6 | Instituto Tecnologico Superior Del Sur De Guanajuato | 2 | 14 | 176 | 176 |
+| 7 | Universidad Autonoma De Nuevo Leon | 2 | 12 | 76 | 76 |
+| 8 | Universidad De Guanajuato - Dcne | 1 | 20 | 50 | 50 |
+| 9 | Universidad De Guadalajara Cucei | 1 | 16 | 114 | 114 |
+| 10 | Itesm Campus Queretaro | 1 | 7 | 28 | 29 |
 
 ## Histórico
 
-| # | Escuela | Finales mundiales | Regionales | Clasificatorios |
-| --- | --- | --- | --- | --- |
-| 1 | Itesm Campus Monterrey | 9 | 82 | 269 |
-| 2 | Escuela Superior De Computo Instituto Politecnico Nacional | 6 | 59 | 146 |
-| 3 | Universidad Tecnologica De La Mixteca | 5 | 38 | 29 |
-| 4 | Instituto Tecnologico Autonomo De Mexico | 4 | 33 | 21 |
-| 5 | Universidad Panamericana Campus Bonaterra | 4 | 29 | 70 |
-| 6 | Universidad De Las Americas-Puebla | 4 | 21 | 0 |
-| 7 | Universidad De Guanajuato | 3 | 26 | 1 |
-| 8 | Facultad De Ciencias-Universidad Nacional Autonoma De Mexico | 3 | 15 | 58 |
-| 9 | Itesm Campus Queretaro | 2 | 67 | 25 |
-| 10 | Universidad Autonoma De Nuevo Leon | 2 | 52 | 66 |
-| 11 | Universidad Autonoma De Aguascalientes | 2 | 37 | 76 |
-| 12 | Benemerita Universidad Autonoma De Puebla | 2 | 35 | 14 |
-| 13 | Instituto Tecnologico De Ciudad Madero | 2 | 33 | 41 |
-| 14 | Itesm Campus Estado De Mexico | 2 | 27 | 73 |
-| 15 | Instituto Tecnologico Superior Del Sur De Guanajuato | 2 | 23 | 177 |
-| 16 | Instituto Tecnologico De Culiacan | 2 | 15 | 36 |
-| 17 | Universidad De Guanajuato - Cimat | 2 | 7 | 7 |
-| 18 | Universidad De Guadalajara Cucei | 1 | 59 | 120 |
-| 19 | Universidad Autonoma De Tlaxcala | 1 | 34 | 41 |
-| 20 | Itesm Campus Puebla | 1 | 21 | 47 |
-| 21 | Universidad De Guanajuato - Dcne | 1 | 19 | 30 |
-| 22 | Universidad De Guadalajara | 1 | 10 | 4 |
+| # | Escuela | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Itesm Campus Monterrey | 9 | 89 | 297 | 360 |
+| 2 | Escuela Superior De Computo Instituto Politecnico Nacional | 6 | 65 | 176 | 211 |
+| 3 | Universidad Tecnologica De La Mixteca | 5 | 43 | 35 | 72 |
+| 4 | Instituto Tecnologico Autonomo De Mexico | 4 | 37 | 33 | 58 |
+| 5 | Universidad Panamericana Campus Bonaterra | 4 | 33 | 90 | 103 |
+| 6 | Universidad De Las Americas-Puebla | 4 | 23 | 0 | 25 |
+| 7 | Universidad De Guanajuato | 3 | 28 | 4 | 30 |
+| 8 | Facultad De Ciencias-Universidad Nacional Autonoma De Mexico | 3 | 17 | 75 | 76 |
+| 9 | Itesm Campus Queretaro | 2 | 68 | 33 | 94 |
+| 10 | Universidad Autonoma De Nuevo Leon | 2 | 54 | 80 | 120 |
+| 11 | Universidad Autonoma De Aguascalientes | 2 | 39 | 90 | 115 |
+| 12 | Benemerita Universidad Autonoma De Puebla | 2 | 37 | 15 | 51 |
+| 13 | Instituto Tecnologico De Ciudad Madero | 2 | 34 | 43 | 76 |
+| 14 | Itesm Campus Estado De Mexico | 2 | 27 | 87 | 102 |
+| 15 | Instituto Tecnologico Superior Del Sur De Guanajuato | 2 | 25 | 194 | 202 |
+| 16 | Instituto Tecnologico De Culiacan | 2 | 17 | 39 | 53 |
+| 17 | Universidad De Guanajuato - Cimat | 2 | 9 | 11 | 16 |
+| 18 | Universidad De Guadalajara Cucei | 1 | 60 | 138 | 180 |
+| 19 | Universidad Autonoma De Tlaxcala | 1 | 35 | 41 | 76 |
+| 20 | Itesm Campus Puebla | 1 | 22 | 57 | 69 |
+| 21 | Universidad De Guanajuato - Dcne | 1 | 20 | 50 | 50 |
+| 22 | Universidad De Guadalajara | 1 | 11 | 4 | 15 |
 
 

@@ -1,6 +1,6 @@
 import os
 from collections import defaultdict
-from typing import List, Set, Tuple, Dict
+from typing import List, Set, Tuple, Dict, Optional, Any
 
 from icpc_mexico.data import FinishedContest, ContestType, SchoolCommunity, School, MEXICO, TeamResult
 from icpc_mexico.markdown import Markdown, MarkdownFile
@@ -59,24 +59,45 @@ class Analyzer:
                                              markdown=markdown,
                                              display_world_only=True)
 
-            with markdown.section('Ranking de escuelas'):
-                recent_seasons = []
-                world_finals_count = 0
-                for season in reversed(self._queries.contest_seasons):
-                    recent_seasons.append(season)
-                    if season.worlds:
-                        world_finals_count += 1
-                        if world_finals_count == 5:
-                            break
+            self._print_school_rankings(markdown)
 
-                self._print_school_ranking(markdown, 'Últimos 5 años', recent_seasons)
-                self._print_school_ranking(markdown, 'Histórico', self._queries.contest_seasons)
+    def _print_school_rankings(self,
+                               markdown: Markdown,
+                               community: Optional[SchoolCommunity] = None,
+                               state: Optional[str] = None,
+                               contest_type: Optional[ContestType] = ContestType.WORLD,
+                               ) -> None:
+        with markdown.section('Ranking de escuelas'):
+            recent_seasons = []
+            world_finals_count = 0
+            for season in reversed(self._queries.contest_seasons):
+                recent_seasons.append(season)
+                if season.worlds:
+                    world_finals_count += 1
+                    if world_finals_count == 5:
+                        break
 
-    def _print_school_ranking(self, markdown: Markdown, title: str, seasons: List[ContestSeason]) -> None:
+            self._print_school_ranking(
+                markdown, 'Últimos 5 años', recent_seasons, community, state, contest_type)
+            self._print_school_ranking(
+                markdown, 'Histórico', self._queries.contest_seasons, community, state, contest_type)
+
+    def _print_school_ranking(self,
+                              markdown: Markdown,
+                              title: str,
+                              seasons: List[ContestSeason],
+                              community: Optional[SchoolCommunity],
+                              state: Optional[str],
+                              contest_type: Optional[ContestType],
+                              ) -> None:
         school_stats: Dict[str, List] = defaultdict(lambda: [0, 0, 0, 0])
         for season in seasons:
             for team in season.teams:
                 if not team.school or team.school.country != MEXICO:
+                    continue
+                if community and community != team.school.community:
+                    continue
+                if state and state != team.school.state:
                     continue
 
                 stat = school_stats[team.school.name.title()]
@@ -88,13 +109,20 @@ class Analyzer:
                     stat[2] += 1
                 stat[3] += 1
 
-        school_ranking = sorted(school_stats.items(), key=lambda school_stat: school_stat[1], reverse=True)
+        school_ranking = sorted(school_stats.items(),
+                                key=lambda school_stat: school_stat[1] + [school_stat[0]],
+                                reverse=True)
         rank = 0
         school_table = []
         for school, stats in school_ranking:
-            if stats[0]:  # Only world finalist schools
-                rank += 1
-                school_table.append([str(rank), school] + list(map(str, stats)))
+            if contest_type == ContestType.WORLD and not stats[0]:
+                continue
+            if contest_type == ContestType.REGIONAL and not (stats[0] + stats[1]):
+                continue
+
+            rank += 1
+            school_table.append([str(rank), school] + list(map(str, stats)))
+
         with markdown.section(title):
             markdown.table(['#', 'Escuela', 'Finales mundiales', 'Regionales', 'Clasificatorios', 'Total'],
                            school_table)
@@ -136,6 +164,8 @@ class Analyzer:
                                         team.regional_result.team_result.problems_solved]
                         self._print_simple_ranking(season.name, season_teams, markdown)
 
+            self._print_school_rankings(markdown, community=SchoolCommunity.TECNM, contest_type=ContestType.REGIONAL)
+
     @log_run_time
     def _analyze_state(self, state: str) -> None:
         print(f'Analyzing results of state {state.title()}')
@@ -148,6 +178,8 @@ class Analyzer:
                     for season in self._queries.contest_seasons:
                         season_teams = [team for team in season.teams if team.school and team.school.state == state]
                         self._print_simple_ranking(season.name, season_teams, markdown)
+
+            self._print_school_rankings(markdown, state=state, contest_type=None)
 
     def analyze_schools_by_country(self, country: str) -> None:
         schools = self._queries.get_schools_by_country(country)

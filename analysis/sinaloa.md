@@ -214,3 +214,30 @@
 
 
 
+# Ranking de escuelas
+
+## Últimos 5 años
+
+| # | Escuela | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Instituto Tecnologico De Culiacan | 0 | 2 | 29 | 29 |
+| 2 | Universidad Autonoma De Sinaloa | 0 | 0 | 20 | 20 |
+| 3 | Universidad De Occidente, Unidad Culiacan | 0 | 0 | 2 | 2 |
+| 4 | Facultad De Informatica Mazatlan Uas | 0 | 0 | 2 | 2 |
+| 5 | Universidad Autonoma De Occidente | 0 | 0 | 1 | 1 |
+| 6 | Tecnologico Nacional De Mexico / Instituto Tecnologico De Mazatlan | 0 | 0 | 1 | 1 |
+
+## Histórico
+
+| # | Escuela | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Instituto Tecnologico De Culiacan | 2 | 17 | 39 | 53 |
+| 2 | Itesm Campus Mazatlan | 0 | 47 | 0 | 47 |
+| 3 | Universidad Politecnica De Sinaloa | 0 | 4 | 0 | 4 |
+| 4 | Universidad Autonoma De Sinaloa | 0 | 0 | 20 | 20 |
+| 5 | Universidad De Occidente, Unidad Culiacan | 0 | 0 | 2 | 2 |
+| 6 | Facultad De Informatica Mazatlan Uas | 0 | 0 | 2 | 2 |
+| 7 | Universidad Autonoma De Occidente | 0 | 0 | 1 | 1 |
+| 8 | Tecnologico Nacional De Mexico / Instituto Tecnologico De Mazatlan | 0 | 0 | 1 | 1 |
+
+

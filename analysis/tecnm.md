@@ -209,3 +209,97 @@
 
 
 
+# Ranking de escuelas
+
+## Últimos 5 años
+
+| # | Escuela | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Instituto Tecnologico Superior Del Sur De Guanajuato | 2 | 14 | 176 | 176 |
+| 2 | Instituto Tecnologico Superior De Los Reyes | 0 | 7 | 11 | 11 |
+| 3 | Instituto Tecnologico De Veracruz | 0 | 6 | 49 | 49 |
+| 4 | Instituto Tecnologico Superior De Guanajuato | 0 | 6 | 42 | 42 |
+| 5 | Instituto Tecnologico De Nuevo Leon | 0 | 3 | 58 | 58 |
+| 6 | Instituto Tecnologico De Culiacan | 0 | 2 | 29 | 29 |
+| 7 | Instituto Tecnologico De Lazaro Cardenas | 0 | 1 | 63 | 63 |
+| 8 | Instituto Tecnologico Superior De Lerdo | 0 | 1 | 62 | 62 |
+| 9 | Instituto Tecnologico De La Laguna | 0 | 1 | 62 | 62 |
+| 10 | Instituto Tecnologico Superior De Ciudad Hidalgo | 0 | 1 | 58 | 58 |
+| 11 | Instituto Tecnologico De Ciudad Madero | 0 | 1 | 35 | 35 |
+| 12 | Instituto Tecnologico De Ciudad Guzman | 0 | 1 | 33 | 33 |
+| 13 | Tecnologico Nacional De Mexico , Instituto Tecnologico De Leon | 0 | 1 | 31 | 31 |
+| 14 | Instituto Tecnologico Superior De Calkini | 0 | 1 | 22 | 22 |
+| 15 | Instituto Tecnologico De Queretaro | 0 | 1 | 14 | 14 |
+
+## Histórico
+
+| # | Escuela | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Instituto Tecnologico De Ciudad Madero | 2 | 34 | 43 | 76 |
+| 2 | Instituto Tecnologico Superior Del Sur De Guanajuato | 2 | 25 | 194 | 202 |
+| 3 | Instituto Tecnologico De Culiacan | 2 | 17 | 39 | 53 |
+| 4 | Instituto Tecnologico De Nuevo Leon | 0 | 37 | 63 | 96 |
+| 5 | Instituto Tecnologico De Saltillo | 0 | 28 | 6 | 34 |
+| 6 | Instituto Tecnologico Superior De Los Reyes | 0 | 27 | 13 | 31 |
+| 7 | Instituto Tecnologico Superior De Lerdo | 0 | 26 | 74 | 98 |
+| 8 | Instituto Tecnologico Superior De Zapopan | 0 | 25 | 17 | 42 |
+| 9 | Instituto Tecnologico De Queretaro | 0 | 25 | 14 | 38 |
+| 10 | Instituto Tecnologico De La Laguna | 0 | 23 | 65 | 86 |
+| 11 | Instituto Tecnologico Superior De Ciudad Hidalgo | 0 | 22 | 69 | 88 |
+| 12 | Instituto Tecnologico De Durango | 0 | 20 | 1 | 21 |
+| 13 | Instituto Tecnologico De Mexicali | 0 | 19 | 12 | 31 |
+| 14 | Instituto Tecnologico De Estudios Superiores De Zamora | 0 | 18 | 6 | 24 |
+| 15 | Instituto Tecnologico De Ciudad Victoria | 0 | 18 | 0 | 18 |
+| 16 | Instituto Tecnologico Superior De Calkini | 0 | 17 | 30 | 45 |
+| 17 | Instituto Tecnologico Superior De Apatzingan | 0 | 17 | 27 | 44 |
+| 18 | Instituto Tecnologico De Celaya | 0 | 16 | 18 | 34 |
+| 19 | Instituto Tecnologico De Zacatecas | 0 | 16 | 12 | 28 |
+| 20 | Instituto Tecnologico Superior De Panuco | 0 | 15 | 7 | 22 |
+| 21 | Instituto Tecnologico De Veracruz | 0 | 14 | 57 | 62 |
+| 22 | Instituto Tecnologico Superior De Uruapan | 0 | 13 | 46 | 59 |
+| 23 | Instituto Tecnologico De Morelia | 0 | 13 | 19 | 32 |
+| 24 | Instituto Tecnologico Superior De Santiago Papasquiaro | 0 | 12 | 31 | 43 |
+| 25 | Instituto Tecnologico De Cuautla | 0 | 12 | 20 | 32 |
+| 26 | Instituto Tecnologico Superior De Tacambaro | 0 | 12 | 13 | 25 |
+| 27 | Instituto Tecnologico Superior De Fresnillo | 0 | 12 | 6 | 18 |
+| 28 | Instituto Tecnologico Superior De Patzcuaro | 0 | 11 | 44 | 55 |
+| 29 | Instituto Tecnologico De Lazaro Cardenas | 0 | 9 | 63 | 71 |
+| 30 | Instituto Tecnologico Superior De Guanajuato | 0 | 9 | 47 | 47 |
+| 31 | Instituto Tecnologico Superior De Loreto | 0 | 8 | 8 | 16 |
+| 32 | Instituto Tecnologico De Zitacuaro | 0 | 8 | 4 | 12 |
+| 33 | Instituto Tecnologico De Parral | 0 | 7 | 18 | 25 |
+| 34 | Instituto Tecnologico Superior De Tantoyuca | 0 | 7 | 4 | 11 |
+| 35 | Instituto Tecnologico Superior P'Urhepecha | 0 | 7 | 2 | 9 |
+| 36 | Instituto Tecnologico Superior De El Mante | 0 | 6 | 98 | 102 |
+| 37 | Instituto Tecnologico De Ciudad Guzman | 0 | 6 | 35 | 40 |
+| 38 | Instituto Tecnologico Superior De El Grullo | 0 | 6 | 21 | 26 |
+| 39 | Instituto Tecnologico Superior Sombrerete Zacatecas Occidente | 0 | 5 | 11 | 16 |
+| 40 | Instituto Tecnologico Superior De Puruandiro | 0 | 4 | 1 | 5 |
+| 41 | Instituto Tecnologico Superior De Alamo Temapache | 0 | 3 | 13 | 16 |
+| 42 | Instituto Tecnologico De Matamoros | 0 | 3 | 12 | 15 |
+| 43 | Instituto Tecnologico De Agua Prieta | 0 | 3 | 3 | 6 |
+| 44 | Instituto Tecnologico De Tuxtepec | 0 | 3 | 1 | 4 |
+| 45 | Instituto Tecnologico Superior De Coalcoman | 0 | 3 | 0 | 3 |
+| 46 | Instituto Tecnologico De Villahermosa | 0 | 3 | 0 | 3 |
+| 47 | Instituto Tecnologico De Cd. Victoria | 0 | 3 | 0 | 3 |
+| 48 | Tecnologico Nacional De Mexico , Instituto Tecnologico De Leon | 0 | 2 | 37 | 37 |
+| 49 | Instituto Tecnologico Superior De Chapala | 0 | 2 | 7 | 9 |
+| 50 | Instituto Tecnologico Superior De Puerto Vallarta | 0 | 2 | 4 | 6 |
+| 51 | Instituto Tecnologico Superior De Lagos De Moreno | 0 | 2 | 4 | 6 |
+| 52 | Instituto Tecnologico Superior De Centla | 0 | 2 | 1 | 3 |
+| 53 | Instituto Tecnologico De Villa La Venta | 0 | 2 | 1 | 3 |
+| 54 | Instituto Tecnologico Del Valle Del Guadiana | 0 | 2 | 0 | 2 |
+| 55 | Instituto Tecnologico Superior De Comalcalco | 0 | 1 | 17 | 18 |
+| 56 | Instituto Tecnologico De Pachuca | 0 | 1 | 11 | 12 |
+| 57 | Instituto Tecnologico Superior De Arandas | 0 | 1 | 5 | 6 |
+| 58 | Instituto Tecnologico De Aguascalientes | 0 | 1 | 4 | 5 |
+| 59 | Instituto Tecnologico Superior De Xalapa | 0 | 1 | 1 | 2 |
+| 60 | Instituto Tecnologico Superior De Villa La Venta | 0 | 1 | 1 | 2 |
+| 61 | Instituto Tecnologico De Minatitlan | 0 | 1 | 1 | 2 |
+| 62 | Instituto Tecnologico Superior De Tierra Blanca | 0 | 1 | 0 | 1 |
+| 63 | Instituto Tecnologico Superior De Irapuato Campus Purisima Del Rincon | 0 | 1 | 0 | 1 |
+| 64 | Instituto Tecnologico Forestal No 1 | 0 | 1 | 0 | 1 |
+| 65 | Instituto Tecnologico De Tuxtla Gutierrez | 0 | 1 | 0 | 1 |
+| 66 | Instituto Tecnologico De Las Americas | 0 | 1 | 0 | 1 |
+
+

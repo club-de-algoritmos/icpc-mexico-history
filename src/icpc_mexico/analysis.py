@@ -59,7 +59,45 @@ class Analyzer:
                                              markdown=markdown,
                                              display_world_only=True)
 
+            self._print_participation_stats(markdown)
+
             self._print_school_rankings(markdown)
+
+    def _print_participation_stats(self,
+                                   markdown: Markdown,
+                                   community: Optional[SchoolCommunity] = None,
+                                   state: Optional[str] = None,
+                                   ) -> None:
+        participations_table = []
+        totals = [0, 0, 0, 0]
+        for season in self._queries.contest_seasons:
+            stats = [0, 0, 0, 0]
+            for team in season.teams:
+                if not team.school or team.school.country != MEXICO:
+                    continue
+                if community and community != team.school.community:
+                    continue
+                if state and state != team.school.state:
+                    continue
+
+                if team.world_result:
+                    stats[0] += 1
+                if team.regional_result:
+                    stats[1] += 1
+                if team.qualifier_result:
+                    stats[2] += 1
+                stats[3] += 1
+
+            for i in range(len(totals)):
+                totals[i] += stats[i]
+
+            participations_table.append([season.name] + list(map(str, stats)))
+
+        participations_table.insert(0, ['**Total**'] + [f'**{total}**' for total in totals])
+
+        with markdown.section('Participaciones'):
+            markdown.table(['Temporada', 'Finales mundiales', 'Regionales', 'Clasificatorios', 'Total'],
+                           participations_table)
 
     def _print_school_rankings(self,
                                markdown: Markdown,
@@ -164,6 +202,8 @@ class Analyzer:
                                         team.regional_result.team_result.problems_solved]
                         self._print_simple_ranking(season.name, season_teams, markdown, display_community=False)
 
+            self._print_participation_stats(markdown, community=SchoolCommunity.TECNM)
+
             self._print_school_rankings(markdown, community=SchoolCommunity.TECNM, contest_type=ContestType.REGIONAL)
 
     @log_run_time
@@ -178,6 +218,8 @@ class Analyzer:
                     for season in self._queries.contest_seasons:
                         season_teams = [team for team in season.teams if team.school and team.school.state == state]
                         self._print_simple_ranking(season.name, season_teams, markdown)
+
+            self._print_participation_stats(markdown, state=state)
 
             self._print_school_rankings(markdown, state=state, contest_type=None)
 

@@ -21,11 +21,13 @@
 
 ### 1998-1999
 
-1. #60 _ITESM GaToZ LoCoZ_ (Final Mundial)
+1. No hay datos del regional
+    - Avanzó a la final mundial y resolvió 0 problemas obtuviendo el lugar #60 (3%) en The 1999 ACM Programming Contest World Finals
 
 ### 1999-2000
 
-1. #22 _ITESM CEM GaToZ LoCoZ_ (Final Mundial)
+1. No hay datos del regional
+    - Avanzó a la final mundial y resolvió 0 problemas obtuviendo el lugar #22 (64%) en The 2000 ACM Programming Contest World Finals
 
 ### 2001-2002
 

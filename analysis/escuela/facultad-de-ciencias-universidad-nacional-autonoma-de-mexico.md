@@ -54,7 +54,8 @@
 
 ### 2019-2020
 
-1. #47 _PU++_ (Final Mundial)
+1. No hay datos del regional
+    - Avanzó a la final mundial y resolvió 3 problemas obtuviendo el lugar #47 (16%) en The ICPC World Finals Invitational Contest
 1. #4 _pu+os_ (Regional)
 1. #15 _Pumas+_ (Regional)
 1. #19 _EZLN_ (Clasificatorio)

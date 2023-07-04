@@ -220,15 +220,19 @@ class Analyzer:
         with markdown.section(title):
             for team in teams:
                 school_str = f' ({team.school.name.title()})' if display_school else ''
-                top_result = team.regional_result or team.qualifier_result or team.world_result
-                community_rank = ''
-                if team.school.community == SchoolCommunity.TECNM:
-                    community_rank = f' (#{top_result.team_result.community_rank} de TecNM)'
-                markdown.numbered_bullet_point(f'#{top_result.team_result.rank}{community_rank}'
-                                               f' _{team.name}_{school_str}'
-                                               f' ({top_result.contest.type.title()})')
+                regional_result = team.regional_result or team.qualifier_result
+                if regional_result:
+                    community_rank = ''
+                    if team.school.community == SchoolCommunity.TECNM:
+                        community_rank = f' (#{regional_result.team_result.community_rank} de TecNM)'
+                    markdown.numbered_bullet_point(f'#{regional_result.team_result.rank}{community_rank}'
+                                                   f' _{team.name}_{school_str}'
+                                                   f' ({regional_result.contest.type.title()})')
+                else:
+                    markdown.numbered_bullet_point('No hay datos del regional')
+
                 world_result = team.world_result
-                if world_result and world_result != top_result:
+                if world_result:
                     markdown.bullet_point(
                         (f'Avanzó a la final mundial y resolvió {world_result.team_result.problems_solved}'
                          f' problemas obtuviendo el lugar #{world_result.team_result.rank}'

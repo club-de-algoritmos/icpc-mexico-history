@@ -23,11 +23,13 @@
 
 ### 1998-1999
 
-1. #53 _U de las Americas_ (Final Mundial)
+1. No hay datos del regional
+    - Avanzó a la final mundial y resolvió 1 problemas obtuviendo el lugar #53 (15%) en The 1999 ACM Programming Contest World Finals
 
 ### 1999-2000
 
-1. #47 _U de las Americas Waxtron_ (Final Mundial)
+1. No hay datos del regional
+    - Avanzó a la final mundial y resolvió 0 problemas obtuviendo el lugar #47 (22%) en The 2000 ACM Programming Contest World Finals
 
 ### 2001-2002
 

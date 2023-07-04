@@ -80,7 +80,8 @@
 
 ### 2009-2010
 
-1. #76 _ITESM Queretaro Los punteros_ (Final Mundial)
+1. No hay datos del regional
+    - Avanzó a la final mundial y resolvió 2 problemas obtuviendo el lugar #76 (26%) en 34th Annual World Finals of the ACM International Collegiate Programming Contest
 1. #1 _Los punteros_ (Regional)
 1. #19 _TheHiveClusterIsUnderAttack!!!_ (Regional)
 1. #30 _DethLok_ (Regional)

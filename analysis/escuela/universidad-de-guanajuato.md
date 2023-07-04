@@ -68,7 +68,8 @@
 
 ### 2009-2010
 
-1. #77 _U Guanajuato Hausdorff_ (Final Mundial)
+1. No hay datos del regional
+    - Avanzó a la final mundial y resolvió 2 problemas obtuviendo el lugar #77 (25%) en 34th Annual World Finals of the ACM International Collegiate Programming Contest
 1. #2 _Hausdorff_ (Regional)
 1. #24 _Lyapunov_ (Regional)
 

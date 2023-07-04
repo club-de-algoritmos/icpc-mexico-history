@@ -28,11 +28,13 @@
 
 ### 1998-1999
 
-1. #56 _ITESM ProZac_ (Final Mundial)
+1. No hay datos del regional
+    - Avanzó a la final mundial y resolvió 1 problemas obtuviendo el lugar #56 (10%) en The 1999 ACM Programming Contest World Finals
 
 ### 2000-2001
 
-1. #59 _SWART_ (Final Mundial)
+1. No hay datos del regional
+    - Avanzó a la final mundial y resolvió 1 problemas obtuviendo el lugar #59 (8%) en The 2001 ACM Programming Contest World Finals
 
 ### 2001-2002
 

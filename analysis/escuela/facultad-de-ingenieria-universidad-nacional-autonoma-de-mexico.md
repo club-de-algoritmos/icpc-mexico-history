@@ -27,17 +27,15 @@
 | 2022-2023 | 0 | 2 | 10 | 10 |
 | 2023-2024 | 0 | 0 | 9 | 9 |
 
-### Detalle
-
-#### 2020-2021
+### 2020-2021
 
 1. #145 _BRAXAD_ (Clasificatorio)
 
-#### 2021-2022
+### 2021-2022
 
 1. #133 _BRYXEND_ (Clasificatorio)
 
-#### 2022-2023
+### 2022-2023
 
 1. #33 _Los Chicos Superpoderosos_ (Regional)
 1. #42 _NoC++_ (Regional)
@@ -50,7 +48,7 @@
 1. #382 _Byzantine generals_ (Clasificatorio)
 1. #382 _Zaunitas_ (Clasificatorio)
 
-#### 2023-2024
+### 2023-2024
 
 1. #25 _Solanitos_ (Clasificatorio)
 1. #48 _Quesabirria Flamin'Hot_ (Clasificatorio)
@@ -61,7 +59,6 @@
 1. #154 _Cageto_ (Clasificatorio)
 1. #157 _Varvazsan_ (Clasificatorio)
 1. #392 _La Crikolosa_ (Clasificatorio)
-
 
 
 

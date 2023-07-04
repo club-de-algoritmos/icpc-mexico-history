@@ -18,15 +18,12 @@
 | **Total** | **0** | **0** | **4** | **4** |
 | 2020-2021 | 0 | 0 | 4 | 4 |
 
-### Detalle
-
-#### 2020-2021
+### 2020-2021
 
 1. #149 (#12 de TecNM) _Packeros_ (Clasificatorio)
 1. #186 (#21 de TecNM) _ Axolototl_ (Clasificatorio)
 1. #258 (#30 de TecNM) _TGang_ (Clasificatorio)
 1. #334 (#56 de TecNM) _Peripatéticos_ (Clasificatorio)
-
 
 
 

@@ -32,9 +32,7 @@
 | 2022-2023 | 0 | 1 | 31 | 31 |
 | 2023-2024 | 0 | 0 | 11 | 11 |
 
-### Detalle
-
-#### 2001-2002
+### 2001-2002
 
 1. #55 (#13 de TecNM) _GATOS_ (Regional)
 1. #55 (#13 de TecNM) _GATOS NEGROS 1_ (Regional)
@@ -43,7 +41,7 @@
 1. #55 (#13 de TecNM) _GATOS NEGROS 4_ (Regional)
 1. #55 (#13 de TecNM) _GATOS NEGROS 5_ (Regional)
 
-#### 2002-2003
+### 2002-2003
 
 1. #27 (#3 de TecNM) _Black Cats I_ (Regional)
 1. #27 (#3 de TecNM) _Black Cats II_ (Regional)
@@ -59,18 +57,18 @@
 1. #27 (#3 de TecNM) _TecLaguna - 1_ (Regional)
 1. #27 (#3 de TecNM) _TecLaguna - 2_ (Regional)
 
-#### 2013-2014
+### 2013-2014
 
 1. #95 (#24 de TecNM) _Tec Laguna 1_ (Regional)
 1. #95 (#24 de TecNM) _Tec Laguna 2_ (Regional)
 
-#### 2014-2015
+### 2014-2015
 
 1. #48 (#6 de TecNM) _Navy_ (Regional)
 1. #110 (#16 de TecNM) _Syntax Error_ (Clasificatorio)
 1. #133 (#25 de TecNM) _PERROS DEL MAL_ (Clasificatorio)
 
-#### 2017-2018
+### 2017-2018
 
 1. #105 (#11 de TecNM) _ITLN_ (Clasificatorio)
 1. #129 (#18 de TecNM) _Mega Equipo del Tio Oswi_ (Clasificatorio)
@@ -80,7 +78,7 @@
 1. #251 (#53 de TecNM) _LSK-ITL_ (Clasificatorio)
 1. #371 (#86 de TecNM) _Ternarios_ (Clasificatorio)
 
-#### 2018-2019
+### 2018-2019
 
 1. #196 (#29 de TecNM) _ITLN_ (Clasificatorio)
 1. #221 (#35 de TecNM) _Ad Honorum_ (Clasificatorio)
@@ -90,7 +88,7 @@
 1. #345 (#81 de TecNM) _NULL POINTER EXCEPTION_ (Clasificatorio)
 1. #394 (#103 de TecNM) _TipoElem_ (Clasificatorio)
 
-#### 2019-2020
+### 2019-2020
 
 1. #101 (#12 de TecNM) _ITLN_ (Clasificatorio)
 1. #311 (#67 de TecNM) _TecLaguna1_ (Clasificatorio)
@@ -99,7 +97,7 @@
 1. #382 (#98 de TecNM) _TecLaguna2_ (Clasificatorio)
 1. #382 (#98 de TecNM) _ULTIMO LUGAR_ (Clasificatorio)
 
-#### 2022-2023
+### 2022-2023
 
 1. #37 (#4 de TecNM) _EspantaBugs_ (Regional)
 1. #171 (#29 de TecNM) _VectorRaptor's_ (Clasificatorio)
@@ -133,7 +131,7 @@
 1. #382 (#82 de TecNM) _TeamRocket_ (Clasificatorio)
 1. #382 (#82 de TecNM) _echo_ (Clasificatorio)
 
-#### 2023-2024
+### 2023-2024
 
 1. #43 (#4 de TecNM) _EspantaBugs_ (Clasificatorio)
 1. #74 (#11 de TecNM) _SPTeam_ (Clasificatorio)
@@ -146,7 +144,6 @@
 1. #386 (#104 de TecNM) _CH3PO_ (Clasificatorio)
 1. #391 (#107 de TecNM) _Las Chicas Superpoderosas_ (Clasificatorio)
 1. #431 (#112 de TecNM) _Castech team_ (Clasificatorio)
-
 
 
 

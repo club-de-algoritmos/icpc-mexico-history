@@ -24,25 +24,22 @@
 | 2020-2021 | 0 | 0 | 3 | 3 |
 | 2022-2023 | 0 | 0 | 1 | 1 |
 
-### Detalle
-
-#### 2019-2020
+### 2019-2020
 
 1. #382 (#98 de TecNM) _LOS GUAPOS_ (Clasificatorio)
 1. #382 (#98 de TecNM) _LOS JAROCHOS_ (Clasificatorio)
 1. #382 (#98 de TecNM) _LOS PRIMERISOS_ (Clasificatorio)
 1. #382 (#98 de TecNM) _TIMSOFT TEC CARRANZA _ (Clasificatorio)
 
-#### 2020-2021
+### 2020-2021
 
 1. #351 (#65 de TecNM) _HackDinamita_ (Clasificatorio)
 1. #351 (#65 de TecNM) _INFORMATICOSTECCARRANZA_ (Clasificatorio)
 1. #351 (#65 de TecNM) _ISCTECCARRANZA_ (Clasificatorio)
 
-#### 2022-2023
+### 2022-2023
 
 1. #382 (#82 de TecNM) _TRIO-ARE_ (Clasificatorio)
-
 
 
 

@@ -27,14 +27,12 @@
 | 2019-2020 | 0 | 1 | 2 | 2 |
 | 2020-2021 | 0 | 0 | 1 | 1 |
 
-### Detalle
-
-#### 2016-2017
+### 2016-2017
 
 1. #121 _Cetys1_ (Clasificatorio)
 1. #121 _Developerros_ (Clasificatorio)
 
-#### 2018-2019
+### 2018-2019
 
 1. #54 _Cuauhtemoc_ (Regional)
 1. #140 _Hello, ICE_ (Clasificatorio)
@@ -42,15 +40,14 @@
 1. #305 _Team Skype ft. Chema_ (Clasificatorio)
 1. #394 _++Ters_ (Clasificatorio)
 
-#### 2019-2020
+### 2019-2020
 
 1. #30 _Cuahutémoc_ (Regional)
 1. #214 _ABP_ (Clasificatorio)
 
-#### 2020-2021
+### 2020-2021
 
 1. #267 _Legotaco_ (Clasificatorio)
-
 
 
 

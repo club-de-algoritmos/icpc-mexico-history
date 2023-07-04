@@ -22,21 +22,18 @@
 | 2017-2018 | 0 | 0 | 3 | 3 |
 | 2018-2019 | 0 | 1 | 4 | 4 |
 
-### Detalle
-
-#### 2017-2018
+### 2017-2018
 
 1. #204 _Mortal Kode 3.0_ (Clasificatorio)
 1. #288 _Xlien_ (Clasificatorio)
 1. #405 _RDA_ (Clasificatorio)
 
-#### 2018-2019
+### 2018-2019
 
 1. #75 _#TeamNavajas//_ (Regional)
 1. #175 _Khalasar Coronitas_ (Clasificatorio)
 1. #177 _Ella no te ama we :v_ (Clasificatorio)
 1. #266 _Gatito Include_ (Clasificatorio)
-
 
 
 

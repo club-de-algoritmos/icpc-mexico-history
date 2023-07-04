@@ -22,23 +22,20 @@
 | 2017-2018 | 0 | 0 | 2 | 2 |
 | 2019-2020 | 0 | 0 | 2 | 2 |
 
-### Detalle
-
-#### 2008-2009
+### 2008-2009
 
 1. #101 (#26 de TecNM) _Los Programadores lagos_ (Regional)
 1. #101 (#26 de TecNM) _MMO_ (Regional)
 
-#### 2017-2018
+### 2017-2018
 
 1. #405 (#97 de TecNM) _Lagos1_ (Clasificatorio)
 1. #405 (#97 de TecNM) _Lagos2_ (Clasificatorio)
 
-#### 2019-2020
+### 2019-2020
 
 1. #382 (#98 de TecNM) _Lagos 1_ (Clasificatorio)
 1. #382 (#98 de TecNM) _Lagos 2_ (Clasificatorio)
-
 
 
 

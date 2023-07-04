@@ -16,13 +16,10 @@
 | **Total** | **0** | **0** | **2** | **2** |
 | 2018-2019 | 0 | 0 | 2 | 2 |
 
-### Detalle
-
-#### 2018-2019
+### 2018-2019
 
 1. #395 _UNIMESO1_ (Clasificatorio)
 1. #395 _UNIMESO2_ (Clasificatorio)
-
 
 
 

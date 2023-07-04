@@ -19,20 +19,17 @@
 | 2020-2021 | 0 | 0 | 1 | 1 |
 | 2021-2022 | 0 | 0 | 1 | 1 |
 
-### Detalle
-
-#### 2019-2020
+### 2019-2020
 
 1. #382 (#98 de TecNM) _Exception(NLD)_ (Clasificatorio)
 
-#### 2020-2021
+### 2020-2021
 
 1. #351 (#65 de TecNM) _Exception(NLD)_ (Clasificatorio)
 
-#### 2021-2022
+### 2021-2022
 
 1. #226 (#36 de TecNM) _Exception(NLD)_ (Clasificatorio)
-
 
 
 

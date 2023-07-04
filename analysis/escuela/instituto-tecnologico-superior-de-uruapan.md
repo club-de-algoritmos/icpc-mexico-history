@@ -34,52 +34,50 @@
 | 2021-2022 | 0 | 0 | 6 | 6 |
 | 2022-2023 | 0 | 0 | 28 | 28 |
 
-### Detalle
-
-#### 2009-2010
+### 2009-2010
 
 1. #97 (#25 de TecNM) _ITESU01_ (Regional)
 1. #103 (#27 de TecNM) _ITESU03_ (Regional)
 1. #116 (#31 de TecNM) _ITESU02_ (Regional)
 
-#### 2010-2011
+### 2010-2011
 
 1. #96 (#16 de TecNM) _British steel_ (Regional)
 1. #135 (#35 de TecNM) _Quantum Team_ (Regional)
 1. #154 (#42 de TecNM) _ITESU001_ (Regional)
 
-#### 2011-2012
+### 2011-2012
 
 1. #66 (#14 de TecNM) _itsu_uruapan1_ (Regional)
 1. #104 (#33 de TecNM) _itsu_uruapan2_ (Regional)
 1. #104 (#33 de TecNM) _itsu_uruapan3_ (Regional)
 
-#### 2012-2013
+### 2012-2013
 
 1. #90 (#34 de TecNM) _itsu1_ (Regional)
 1. #129 (#50 de TecNM) _itsu3_ (Regional)
 1. #134 (#53 de TecNM) _itsu2_ (Regional)
 
-#### 2013-2014
+### 2013-2014
 
 1. #95 (#24 de TecNM) _itsu01_ (Regional)
 
-#### 2016-2017
+### 2016-2017
 
 1. #121 (#20 de TecNM) _Quantus_ (Clasificatorio)
 
-#### 2017-2018
+### 2017-2018
 
 1. #325 (#69 de TecNM) _Quantum_ (Clasificatorio)
 1. #353 (#78 de TecNM) _Armexx_ (Clasificatorio)
 
-#### 2019-2020
+### 2019-2020
 
 1. #382 (#98 de TecNM) _Equipo7_ (Clasificatorio)
 1. #382 (#98 de TecNM) _MBP_ (Clasificatorio)
 1. #382 (#98 de TecNM) _Otro equipo de 3_ (Clasificatorio)
 
-#### 2020-2021
+### 2020-2021
 
 1. #351 (#65 de TecNM) _BRODING_ (Clasificatorio)
 1. #351 (#65 de TecNM) _EQUIPO-7_ (Clasificatorio)
@@ -88,7 +86,7 @@
 1. #351 (#65 de TecNM) _VenadosBITSU_ (Clasificatorio)
 1. #351 (#65 de TecNM) _ikimenhani_ (Clasificatorio)
 
-#### 2021-2022
+### 2021-2022
 
 1. #226 (#36 de TecNM) _Beni's Club_ (Clasificatorio)
 1. #226 (#36 de TecNM) _HUYSA_ (Clasificatorio)
@@ -97,7 +95,7 @@
 1. #226 (#36 de TecNM) _Team Shinigami_ (Clasificatorio)
 1. #226 (#36 de TecNM) _UINHAPINI_ (Clasificatorio)
 
-#### 2022-2023
+### 2022-2023
 
 1. #382 (#82 de TecNM) _3B_ (Clasificatorio)
 1. #382 (#82 de TecNM) _AlphaTeam_ (Clasificatorio)
@@ -127,7 +125,6 @@
 1. #382 (#82 de TecNM) _Traijard's_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Venados_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Venados ITSU_ (Clasificatorio)
-
 
 
 

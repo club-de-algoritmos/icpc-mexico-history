@@ -24,25 +24,22 @@
 | 2021-2022 | 0 | 0 | 4 | 4 |
 | 2022-2023 | 0 | 0 | 2 | 2 |
 
-### Detalle
-
-#### 2020-2021
+### 2020-2021
 
 1. #351 (#65 de TecNM) _Buhos Team_ (Clasificatorio)
 1. #351 (#65 de TecNM) _primeroito_ (Clasificatorio)
 
-#### 2021-2022
+### 2021-2022
 
 1. #226 (#36 de TecNM) _IEEX_ (Clasificatorio)
 1. #226 (#36 de TecNM) _Kittens++_ (Clasificatorio)
 1. #226 (#36 de TecNM) _Team_FMD_ (Clasificatorio)
 1. #226 (#36 de TecNM) _Team_PDF_ (Clasificatorio)
 
-#### 2022-2023
+### 2022-2023
 
 1. #382 (#82 de TecNM) _Buhosys_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Golden girls_ (Clasificatorio)
-
 
 
 

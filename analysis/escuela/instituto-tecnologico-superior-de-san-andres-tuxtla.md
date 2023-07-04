@@ -26,9 +26,7 @@
 | 2021-2022 | 0 | 0 | 9 | 9 |
 | 2022-2023 | 0 | 0 | 15 | 15 |
 
-### Detalle
-
-#### 2020-2021
+### 2020-2021
 
 1. #351 (#65 de TecNM) _Cyberpunk277_ (Clasificatorio)
 1. #351 (#65 de TecNM) _ITSSAT-Eq3-Invencibles_ (Clasificatorio)
@@ -38,7 +36,7 @@
 1. #351 (#65 de TecNM) _KINGS OF CODE_ (Clasificatorio)
 1. #351 (#65 de TecNM) _OOZMA Kappa_ (Clasificatorio)
 
-#### 2021-2022
+### 2021-2022
 
 1. #226 (#36 de TecNM) _BRAWL STARS_ (Clasificatorio)
 1. #226 (#36 de TecNM) _CODIGO IMAGINARIO_ (Clasificatorio)
@@ -50,7 +48,7 @@
 1. #226 (#36 de TecNM) _Oozma kappa_ (Clasificatorio)
 1. #226 (#36 de TecNM) _War Machine_ (Clasificatorio)
 
-#### 2022-2023
+### 2022-2023
 
 1. #382 (#82 de TecNM) _Ants_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Azcatl_ (Clasificatorio)
@@ -67,7 +65,6 @@
 1. #382 (#82 de TecNM) _warlocks_ (Clasificatorio)
 1. #382 (#82 de TecNM) _warlocks-2_ (Clasificatorio)
 1. #382 (#82 de TecNM) _wizard2_ (Clasificatorio)
-
 
 
 

@@ -26,9 +26,7 @@
 | 2018-2019 | 0 | 0 | 19 | 19 |
 | 2019-2020 | 0 | 0 | 27 | 27 |
 
-### Detalle
-
-#### 2017-2018
+### 2017-2018
 
 1. #364 (#84 de TecNM) _HAL 9000_ (Clasificatorio)
 1. #405 (#97 de TecNM) _2 Oportunidad Squad_ (Clasificatorio)
@@ -52,7 +50,7 @@
 1. #405 (#97 de TecNM) _Two and a half men_ (Clasificatorio)
 1. #405 (#97 de TecNM) _fsociety.data_ (Clasificatorio)
 
-#### 2018-2019
+### 2018-2019
 
 1. #307 (#69 de TecNM) _Sintaxis Error_ (Clasificatorio)
 1. #365 (#87 de TecNM) _Turing_ (Clasificatorio)
@@ -74,7 +72,7 @@
 1. #394 (#103 de TecNM) _Sombras_ (Clasificatorio)
 1. #394 (#103 de TecNM) _The Honkai_ (Clasificatorio)
 
-#### 2019-2020
+### 2019-2020
 
 1. #275 (#51 de TecNM) _los chicos del tec_ (Clasificatorio)
 1. #382 (#98 de TecNM) _AKB_ (Clasificatorio)
@@ -103,7 +101,6 @@
 1. #382 (#98 de TecNM) _ral_ (Clasificatorio)
 1. #382 (#98 de TecNM) _sistemaSjl_ (Clasificatorio)
 1. #382 (#98 de TecNM) _zal_ (Clasificatorio)
-
 
 
 

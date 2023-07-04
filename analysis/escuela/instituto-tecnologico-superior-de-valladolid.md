@@ -24,9 +24,7 @@
 | **Total** | **0** | **0** | **17** | **17** |
 | 2019-2020 | 0 | 0 | 17 | 17 |
 
-### Detalle
-
-#### 2019-2020
+### 2019-2020
 
 1. #382 (#98 de TecNM) _3M_ (Clasificatorio)
 1. #382 (#98 de TecNM) _Alpha Omega_ (Clasificatorio)
@@ -45,7 +43,6 @@
 1. #382 (#98 de TecNM) _Tres tristes tigres_ (Clasificatorio)
 1. #382 (#98 de TecNM) _Tux_ (Clasificatorio)
 1. #382 (#98 de TecNM) _Wadowsky_ (Clasificatorio)
-
 
 
 

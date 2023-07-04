@@ -31,37 +31,35 @@
 | 2021-2022 | 0 | 0 | 2 | 2 |
 | 2022-2023 | 0 | 0 | 6 | 6 |
 
-### Detalle
-
-#### 2009-2010
+### 2009-2010
 
 1. #67 (#12 de TecNM) _Fail_ (Regional)
 1. #95 (#24 de TecNM) _Tuxinator_ (Regional)
 
-#### 2010-2011
+### 2010-2011
 
 1. #102 (#18 de TecNM) _ITM 2_ (Regional)
 1. #110 (#23 de TecNM) _ITM1_ (Regional)
 1. #156 (#44 de TecNM) _ITM3_ (Regional)
 
-#### 2011-2012
+### 2011-2012
 
 1. #20 (#1 de TecNM) _ITM-3_ (Regional)
 1. #64 (#12 de TecNM) _ITM-2_ (Regional)
 1. #79 (#21 de TecNM) _ITM-1_ (Regional)
 
-#### 2012-2013
+### 2012-2013
 
 1. #46 (#17 de TecNM) _Tec Morelia 1_ (Regional)
 1. #63 (#24 de TecNM) _ITM - Tec Morelia 2_ (Regional)
 1. #81 (#31 de TecNM) _ITM - Tec Morelia 3_ (Regional)
 
-#### 2013-2014
+### 2013-2014
 
 1. #18 (#2 de TecNM) _TecMorelia2_ (Regional)
 1. #75 (#13 de TecNM) _TecMorelia1_ (Regional)
 
-#### 2020-2021
+### 2020-2021
 
 1. #273 (#32 de TecNM) _VISUAL DIM_ (Clasificatorio)
 1. #351 (#65 de TecNM) _Brenefer_ (Clasificatorio)
@@ -75,12 +73,12 @@
 1. #351 (#65 de TecNM) _THORTAS_ (Clasificatorio)
 1. #351 (#65 de TecNM) _TecForce_ (Clasificatorio)
 
-#### 2021-2022
+### 2021-2022
 
 1. #226 (#36 de TecNM) _Los Pixies_ (Clasificatorio)
 1. #226 (#36 de TecNM) _Rubber Duckies_ (Clasificatorio)
 
-#### 2022-2023
+### 2022-2023
 
 1. #382 (#82 de TecNM) _Bichotas_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Lucas 21:16_ (Clasificatorio)
@@ -88,7 +86,6 @@
 1. #382 (#82 de TecNM) _PyJava++_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Ticsitos_ (Clasificatorio)
 1. #382 (#82 de TecNM) _pony force_ (Clasificatorio)
-
 
 
 

@@ -26,17 +26,15 @@
 | 2017-2018 | 0 | 0 | 5 | 5 |
 | 2019-2020 | 0 | 0 | 2 | 2 |
 
-### Detalle
-
-#### 2011-2012
+### 2011-2012
 
 1. #104 (#33 de TecNM) _Chapala 3_ (Regional)
 
-#### 2012-2013
+### 2012-2013
 
 1. #134 (#53 de TecNM) _Los Truchas_ (Regional)
 
-#### 2017-2018
+### 2017-2018
 
 1. #405 (#97 de TecNM) _Chapala1_ (Clasificatorio)
 1. #405 (#97 de TecNM) _Chapala2_ (Clasificatorio)
@@ -44,11 +42,10 @@
 1. #405 (#97 de TecNM) _Tecno Team_ (Clasificatorio)
 1. #405 (#97 de TecNM) _mmTeam_ (Clasificatorio)
 
-#### 2019-2020
+### 2019-2020
 
 1. #382 (#98 de TecNM) _Chapala 1_ (Clasificatorio)
 1. #382 (#98 de TecNM) _Chapala 2_ (Clasificatorio)
-
 
 
 

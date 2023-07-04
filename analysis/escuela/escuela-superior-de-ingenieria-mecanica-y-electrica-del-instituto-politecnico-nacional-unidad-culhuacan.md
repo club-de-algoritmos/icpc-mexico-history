@@ -17,14 +17,11 @@
 | **Total** | **0** | **0** | **3** | **3** |
 | 2023-2024 | 0 | 0 | 3 | 3 |
 
-### Detalle
-
-#### 2023-2024
+### 2023-2024
 
 1. #150 _ESIMECU-Anthrax_ (Clasificatorio)
 1. #175 _ESIMECU-NullByte_ (Clasificatorio)
 1. #242 _ESIMECU-Zeniith_ (Clasificatorio)
-
 
 
 

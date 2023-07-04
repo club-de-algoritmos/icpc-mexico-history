@@ -26,33 +26,30 @@
 | 2020-2021 | 0 | 0 | 1 | 1 |
 | 2023-2024 | 0 | 0 | 1 | 1 |
 
-### Detalle
-
-#### 2007-2008
+### 2007-2008
 
 1. #61 _Coders4Life_ (Regional)
 
-#### 2008-2009
+### 2008-2009
 
 1. #101 _AlCEMY.C_ (Regional)
 1. #101 _RiEdAl.H_ (Regional)
 
-#### 2018-2019
+### 2018-2019
 
 1. #394 _Los Bytes_ (Clasificatorio)
 
-#### 2019-2020
+### 2019-2020
 
 1. #382 _Los Programadoruskis_ (Clasificatorio)
 
-#### 2020-2021
+### 2020-2021
 
 1. #351 _IngCode_ (Clasificatorio)
 
-#### 2023-2024
+### 2023-2024
 
 1. #419 _Capa 8 Runtime Error_ (Clasificatorio)
-
 
 
 

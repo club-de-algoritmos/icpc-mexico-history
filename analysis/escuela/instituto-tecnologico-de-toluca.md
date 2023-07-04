@@ -24,27 +24,24 @@
 | 2021-2022 | 0 | 0 | 2 | 2 |
 | 2022-2023 | 0 | 0 | 2 | 2 |
 
-### Detalle
-
-#### 2019-2020
+### 2019-2020
 
 1. #382 (#98 de TecNM) _ITToluca1_ (Clasificatorio)
 
-#### 2020-2021
+### 2020-2021
 
 1. #351 (#65 de TecNM) _Halcones Toluca_ (Clasificatorio)
 1. #351 (#65 de TecNM) _Tec Toluca_ (Clasificatorio)
 
-#### 2021-2022
+### 2021-2022
 
 1. #226 (#36 de TecNM) _Halcones_ (Clasificatorio)
 1. #226 (#36 de TecNM) _Hawk Power_ (Clasificatorio)
 
-#### 2022-2023
+### 2022-2023
 
 1. #382 (#82 de TecNM) _Halcones Toluca_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Tecnológico de Toluca_ (Clasificatorio)
-
 
 
 

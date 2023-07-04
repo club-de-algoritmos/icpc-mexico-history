@@ -27,9 +27,7 @@
 | 2021-2022 | 0 | 0 | 8 | 8 |
 | 2022-2023 | 0 | 0 | 13 | 13 |
 
-### Detalle
-
-#### 2019-2020
+### 2019-2020
 
 1. #382 (#98 de TecNM) _Código Templario_ (Clasificatorio)
 1. #382 (#98 de TecNM) _Dubalin_ (Clasificatorio)
@@ -43,7 +41,7 @@
 1. #382 (#98 de TecNM) _Team SAD_ (Clasificatorio)
 1. #382 (#98 de TecNM) _punto y coma_ (Clasificatorio)
 
-#### 2020-2021
+### 2020-2021
 
 1. #351 (#65 de TecNM) _ Wonder Pets_ (Clasificatorio)
 1. #351 (#65 de TecNM) _Aquipo alfa!!!_ (Clasificatorio)
@@ -58,7 +56,7 @@
 1. #351 (#65 de TecNM) _Programadores 01_ (Clasificatorio)
 1. #351 (#65 de TecNM) _X-Code_ (Clasificatorio)
 
-#### 2021-2022
+### 2021-2022
 
 1. #226 (#36 de TecNM) _Arabian cats_ (Clasificatorio)
 1. #226 (#36 de TecNM) _C0D3 Reapers_ (Clasificatorio)
@@ -69,7 +67,7 @@
 1. #226 (#36 de TecNM) _Walking soft_ (Clasificatorio)
 1. #226 (#36 de TecNM) _X-Force_ (Clasificatorio)
 
-#### 2022-2023
+### 2022-2023
 
 1. #382 (#82 de TecNM) _.Zip_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Anonimus Power_ (Clasificatorio)
@@ -84,7 +82,6 @@
 1. #382 (#82 de TecNM) _The Best Programmers_ (Clasificatorio)
 1. #382 (#82 de TecNM) _The Powerpuff Girls_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Trifuerza_ (Clasificatorio)
-
 
 
 

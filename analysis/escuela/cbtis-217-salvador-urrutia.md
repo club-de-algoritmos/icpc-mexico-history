@@ -18,15 +18,12 @@
 | **Total** | **0** | **0** | **4** | **4** |
 | 2022-2023 | 0 | 0 | 4 | 4 |
 
-### Detalle
-
-#### 2022-2023
+### 2022-2023
 
 1. #382 _CBTIS217-Los catrines _ (Clasificatorio)
 1. #382 _EMJ Code_ (Clasificatorio)
 1. #382 _Los Humildes_ (Clasificatorio)
 1. #382 _The ORIG rejected us_ (Clasificatorio)
-
 
 
 

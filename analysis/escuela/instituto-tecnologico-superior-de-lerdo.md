@@ -41,57 +41,55 @@
 | 2022-2023 | 0 | 0 | 13 | 13 |
 | 2023-2024 | 0 | 0 | 8 | 8 |
 
-### Detalle
-
-#### 2005-2006
+### 2005-2006
 
 1. #85 (#11 de TecNM) _Correcaminos Lerdo_ (Regional)
 1. #85 (#11 de TecNM) _ITSL Lerdo_ (Regional)
 1. #85 (#11 de TecNM) _Laguneros Lerdo_ (Regional)
 
-#### 2007-2008
+### 2007-2008
 
 1. #35 (#6 de TecNM) _correcaminos_ (Regional)
 1. #61 (#15 de TecNM) _kyubis team_ (Regional)
 1. #61 (#15 de TecNM) _return this_ (Regional)
 
-#### 2008-2009
+### 2008-2009
 
 1. #97 (#25 de TecNM) _Road_Runner_ (Regional)
 1. #101 (#26 de TecNM) _KYUBIS_TEAM _ (Regional)
 1. #101 (#26 de TecNM) _LOS OBLIGADOS_ (Regional)
 
-#### 2009-2010
+### 2009-2010
 
 1. #68 (#13 de TecNM) _Develovers_ (Regional)
 1. #116 (#31 de TecNM) _Predefinidos por el usuario_ (Regional)
 1. #116 (#31 de TecNM) _The FAD_ (Regional)
 
-#### 2010-2011
+### 2010-2011
 
 1. #49 (#4 de TecNM) _THE  FAD_ (Regional)
 1. #156 (#44 de TecNM) _HIDROGO´S POWER_ (Regional)
 1. #156 (#44 de TecNM) _SHINIGAMIS_ (Regional)
 
-#### 2011-2012
+### 2011-2012
 
 1. #51 (#7 de TecNM) _The FAD_ (Regional)
 1. #77 (#19 de TecNM) _LOS OBLIGADOS_ (Regional)
 1. #104 (#33 de TecNM) _Shinigamis_ (Regional)
 
-#### 2012-2013
+### 2012-2013
 
 1. #26 (#6 de TecNM) _The Last Fad_ (Regional)
 1. #66 (#25 de TecNM) _Pok_ (Regional)
 1. #76 (#29 de TecNM) _Null_ (Regional)
 
-#### 2013-2014
+### 2013-2014
 
 1. #95 (#24 de TecNM) _KL_ (Regional)
 1. #95 (#24 de TecNM) _NULL_ (Regional)
 1. #95 (#24 de TecNM) _POK_ (Regional)
 
-#### 2014-2015
+### 2014-2015
 
 1. #142 (#32 de TecNM) _NULL_ (Clasificatorio)
 1. #174 (#42 de TecNM) _Triforce_ (Clasificatorio)
@@ -101,7 +99,7 @@
 1. #204 (#52 de TecNM) _Los que sean_ (Clasificatorio)
 1. #204 (#52 de TecNM) _Vengadores_ (Clasificatorio)
 
-#### 2015-2016
+### 2015-2016
 
 1. #76 (#15 de TecNM) _MASTER.NET_ (Regional)
 1. #108 (#28 de TecNM) _11Progamadores_ (Clasificatorio)
@@ -109,7 +107,7 @@
 1. #108 (#28 de TecNM) _PandemixSoft_ (Clasificatorio)
 1. #108 (#28 de TecNM) _m&m_ (Clasificatorio)
 
-#### 2016-2017
+### 2016-2017
 
 1. #75 (#11 de TecNM) _MASTER.NET_ (Regional)
 1. #121 (#20 de TecNM) _AMM_ (Clasificatorio)
@@ -120,7 +118,7 @@
 1. #121 (#20 de TecNM) _Silver Coding_ (Clasificatorio)
 1. #121 (#20 de TecNM) _Tec-2Net_ (Clasificatorio)
 
-#### 2017-2018
+### 2017-2018
 
 1. #111 (#13 de TecNM) _MASTER.NET_ (Clasificatorio)
 1. #151 (#26 de TecNM) _Tec-2Net_ (Clasificatorio)
@@ -129,14 +127,14 @@
 1. #214 (#39 de TecNM) _Pandemix Soft_ (Clasificatorio)
 1. #227 (#46 de TecNM) _HAD++_ (Clasificatorio)
 
-#### 2018-2019
+### 2018-2019
 
 1. #162 (#24 de TecNM) _MASTER.NET_ (Clasificatorio)
 1. #176 (#26 de TecNM) _California Team_ (Clasificatorio)
 1. #193 (#28 de TecNM) _CHAR IZARD_ (Clasificatorio)
 1. #394 (#103 de TecNM) _Dinocos_ (Clasificatorio)
 
-#### 2019-2020
+### 2019-2020
 
 1. #113 (#13 de TecNM) _MASTER.NET_ (Clasificatorio)
 1. #223 (#37 de TecNM) _WHITE_SPACE_ (Clasificatorio)
@@ -147,7 +145,7 @@
 1. #360 (#85 de TecNM) _Los Cerebros de Pollo_ (Clasificatorio)
 1. #372 (#93 de TecNM) _Los Noobs_ (Clasificatorio)
 
-#### 2020-2021
+### 2020-2021
 
 1. #81 (#9 de TecNM) _THE MASTER_ (Clasificatorio)
 1. #229 (#24 de TecNM) _GWalker_ (Clasificatorio)
@@ -159,7 +157,7 @@
 1. #351 (#65 de TecNM) _PrimeC_ (Clasificatorio)
 1. #351 (#65 de TecNM) _ProgBots_ (Clasificatorio)
 
-#### 2021-2022
+### 2021-2022
 
 1. #121 (#10 de TecNM) _G2_ (Clasificatorio)
 1. #205 (#27 de TecNM) _PCF Team_ (Clasificatorio)
@@ -168,7 +166,7 @@
 1. #226 (#36 de TecNM) _PrimeC_ (Clasificatorio)
 1. #226 (#36 de TecNM) _Titan_ (Clasificatorio)
 
-#### 2022-2023
+### 2022-2023
 
 1. #141 (#24 de TecNM) _The Walker_ (Clasificatorio)
 1. #148 (#27 de TecNM) _Guardians_ (Clasificatorio)
@@ -184,7 +182,7 @@
 1. #382 (#82 de TecNM) _Pollos Hermanos_ (Clasificatorio)
 1. #382 (#82 de TecNM) _PrimeroPro_ (Clasificatorio)
 
-#### 2023-2024
+### 2023-2024
 
 1. #143 (#25 de TecNM) _The Walker_ (Clasificatorio)
 1. #192 (#37 de TecNM) _ZaGa Team_ (Clasificatorio)
@@ -194,7 +192,6 @@
 1. #389 (#105 de TecNM) _ALGAmigos_ (Clasificatorio)
 1. #436 (#117 de TecNM) _Destructores_ (Clasificatorio)
 1. #437 (#118 de TecNM) _The Code Girls_ (Clasificatorio)
-
 
 
 

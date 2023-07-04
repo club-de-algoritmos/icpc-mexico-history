@@ -25,9 +25,7 @@
 | 2019-2020 | 0 | 0 | 7 | 7 |
 | 2022-2023 | 0 | 0 | 7 | 7 |
 
-### Detalle
-
-#### 2019-2020
+### 2019-2020
 
 1. #382 (#98 de TecNM) _C++ Y ALGO MAS_ (Clasificatorio)
 1. #382 (#98 de TecNM) _DINAMITA_ (Clasificatorio)
@@ -37,7 +35,7 @@
 1. #382 (#98 de TecNM) _Mexican Power_ (Clasificatorio)
 1. #382 (#98 de TecNM) _XForce_ (Clasificatorio)
 
-#### 2022-2023
+### 2022-2023
 
 1. #382 (#82 de TecNM) _AMATERASU_ (Clasificatorio)
 1. #382 (#82 de TecNM) _ANONIMUS ITMAII_ (Clasificatorio)
@@ -46,7 +44,6 @@
 1. #382 (#82 de TecNM) _Python Beta_ (Clasificatorio)
 1. #382 (#82 de TecNM) _TOBITETEAMPLAYER M1_ (Clasificatorio)
 1. #382 (#82 de TecNM) _XZUNUN_ (Clasificatorio)
-
 
 
 

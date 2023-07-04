@@ -17,14 +17,11 @@
 | **Total** | **0** | **3** | **0** | **3** |
 | 2001-2002 | 0 | 3 | 0 | 3 |
 
-### Detalle
-
-#### 2001-2002
+### 2001-2002
 
 1. #27 _Tec Panuco 1_ (Regional)
 1. #55 _CBtis 55_ (Regional)
 1. #55 _Tec Panuco 2_ (Regional)
-
 
 
 

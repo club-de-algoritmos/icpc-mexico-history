@@ -34,22 +34,20 @@
 | 2022-2023 | 0 | 1 | 4 | 4 |
 | 2023-2024 | 0 | 0 | 4 | 4 |
 
-### Detalle
-
-#### 2012-2013
+### 2012-2013
 
 1. #75 _Univ Anahuac@Oaxaca_ (Regional)
 
-#### 2014-2015
+### 2014-2015
 
 1. #44 _Zion_ (Regional)
 1. #127 _Sigma_ (Clasificatorio)
 
-#### 2015-2016
+### 2015-2016
 
 1. #55 _JCC_ (Regional)
 
-#### 2016-2017
+### 2016-2017
 
 1. #28 _JCC_ (Regional)
 1. #58 _Los vengadores_ (Regional)
@@ -57,51 +55,50 @@
 1. #121 _LAE_ (Clasificatorio)
 1. #121 _TWP_ (Clasificatorio)
 
-#### 2017-2018
+### 2017-2018
 
 1. #36 _FAV_ (Regional)
 1. #48 _JJC_ (Regional)
 1. #193 _Los Magio_ (Clasificatorio)
 1. #194 _LSD_ (Clasificatorio)
 
-#### 2018-2019
+### 2018-2019
 
 1. #39 _JJL_ (Regional)
 1. #108 _Syntax Kingdom_ (Clasificatorio)
 1. #171 _ACC_ (Clasificatorio)
 
-#### 2019-2020
+### 2019-2020
 
 1. #20 _JJL_ (Regional)
 1. #152 _SAJ_ (Clasificatorio)
 1. #157 _int genieros;_ (Clasificatorio)
 
-#### 2020-2021
+### 2020-2021
 
 1. #22 _JJL_ (Regional)
 1. #106 _SAJ.cpp_ (Clasificatorio)
 1. #107 _oaxaCode();_ (Clasificatorio)
 1. #247 _String nameTeam;_ (Clasificatorio)
 
-#### 2021-2022
+### 2021-2022
 
 1. #80 _oaxaCode();_ (Clasificatorio)
 1. #191 _Syntax Error(JPJ)_ (Clasificatorio)
 
-#### 2022-2023
+### 2022-2023
 
 1. #30 _Leones->Code();_ (Regional)
 1. #157 _Team Overflow_ (Clasificatorio)
 1. #180 _Leoncitos(x,d);_ (Clasificatorio)
 1. #225 _new Team("DPJ");_ (Clasificatorio)
 
-#### 2023-2024
+### 2023-2024
 
 1. #31 _Leones->Code();_ (Clasificatorio)
 1. #146 _Team Overflow_ (Clasificatorio)
 1. #222 _LHM_ (Clasificatorio)
 1. #256 _APC_ (Clasificatorio)
-
 
 
 

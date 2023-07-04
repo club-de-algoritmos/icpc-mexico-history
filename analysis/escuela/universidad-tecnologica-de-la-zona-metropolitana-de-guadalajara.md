@@ -23,26 +23,23 @@
 | 2010-2011 | 0 | 1 | 0 | 1 |
 | 2011-2012 | 0 | 2 | 0 | 2 |
 
-### Detalle
-
-#### 2008-2009
+### 2008-2009
 
 1. #101 _Corvus Reloaded_ (Regional)
 1. #101 _Warnings_ (Regional)
 
-#### 2009-2010
+### 2009-2010
 
 1. #116 _VG software_ (Regional)
 
-#### 2010-2011
+### 2010-2011
 
 1. #115 _VG software_ (Regional)
 
-#### 2011-2012
+### 2011-2012
 
 1. #91 _VGUTZMG_ (Regional)
 1. #104 _utZs_ (Regional)
-
 
 
 

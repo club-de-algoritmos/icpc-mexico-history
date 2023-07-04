@@ -22,21 +22,18 @@
 | 2005-2006 | 0 | 4 | 0 | 4 |
 | 2008-2009 | 0 | 3 | 0 | 3 |
 
-### Detalle
-
-#### 2005-2006
+### 2005-2006
 
 1. #3 _Nemesis_ (Regional)
 1. #10 _ACRUX_ (Regional)
 1. #58 _PROGINNT_ (Regional)
 1. #85 _IGDA Iteso_ (Regional)
 
-#### 2008-2009
+### 2008-2009
 
 1. #53 _BSoD_ (Regional)
 1. #79 _Kernel Panic_ (Regional)
 1. #91 _NetBeaners_ (Regional)
-
 
 
 

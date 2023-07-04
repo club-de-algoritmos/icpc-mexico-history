@@ -28,33 +28,30 @@
 | 2016-2017 | 0 | 0 | 1 | 1 |
 | 2017-2018 | 0 | 0 | 2 | 2 |
 
-### Detalle
-
-#### 2010-2011
+### 2010-2011
 
 1. #98 _FS - 148.212.19.18_ (Regional)
 1. #142 _FS - Rootkits_ (Regional)
 1. #156 _FS - E-link_ (Regional)
 
-#### 2014-2015
+### 2014-2015
 
 1. #18 _The bugs_ (Regional)
 1. #35 _Los Choquistas_ (Clasificatorio)
 1. #38 _Majos_ (Clasificatorio)
 
-#### 2015-2016
+### 2015-2016
 
 1. #108 _Math Kids_ (Clasificatorio)
 
-#### 2016-2017
+### 2016-2017
 
 1. #121 _IceCream_ (Clasificatorio)
 
-#### 2017-2018
+### 2017-2018
 
 1. #218 _azul_ (Clasificatorio)
 1. #383 _Verde_ (Clasificatorio)
-
 
 
 

@@ -25,16 +25,14 @@
 | 2017-2018 | 0 | 0 | 4 | 4 |
 | 2019-2020 | 0 | 0 | 6 | 6 |
 
-### Detalle
-
-#### 2017-2018
+### 2017-2018
 
 1. #304 (#67 de TecNM) _In Code We Trust_ (Clasificatorio)
 1. #340 (#73 de TecNM) _zapofreeks_ (Clasificatorio)
 1. #385 (#89 de TecNM) _Los LuGlaeS_ (Clasificatorio)
 1. #405 (#97 de TecNM) _SID_ (Clasificatorio)
 
-#### 2019-2020
+### 2019-2020
 
 1. #312 (#68 de TecNM) _STDIO.H_ (Clasificatorio)
 1. #336 (#77 de TecNM) _Los Teslas_ (Clasificatorio)
@@ -42,7 +40,6 @@
 1. #382 (#98 de TecNM) _Don Julio´s 70_ (Clasificatorio)
 1. #382 (#98 de TecNM) _Los Wasauski_ (Clasificatorio)
 1. #382 (#98 de TecNM) _X-Force_ (Clasificatorio)
-
 
 
 

@@ -20,21 +20,18 @@
 | 2018-2019 | 0 | 1 | 2 | 2 |
 | 2019-2020 | 0 | 0 | 1 | 1 |
 
-### Detalle
-
-#### 2017-2018
+### 2017-2018
 
 1. #286 _BLACK JACK_ (Clasificatorio)
 
-#### 2018-2019
+### 2018-2019
 
 1. #76 _Note NV_ (Regional)
 1. #394 _CognitiveCode_ (Clasificatorio)
 
-#### 2019-2020
+### 2019-2020
 
 1. #340 _Note NV_ (Clasificatorio)
-
 
 
 

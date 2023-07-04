@@ -37,41 +37,39 @@
 | 2022-2023 | 0 | 1 | 8 | 8 |
 | 2023-2024 | 0 | 0 | 4 | 4 |
 
-### Detalle
-
-#### 2007-2008
+### 2007-2008
 
 1. #61 _MACoders_ (Regional)
 
-#### 2011-2012
+### 2011-2012
 
 1. #11 _cocodrilos_ (Regional)
 1. #31 _macpaches_ (Regional)
 1. #70 _POLICEMAN!!!_ (Regional)
 
-#### 2012-2013
+### 2012-2013
 
 1. #20 _Macoders_ (Regional)
 1. #40 _Mapaches_ (Regional)
 
-#### 2013-2014
+### 2013-2014
 
 1. #10 _Burst Programming_ (Regional)
 1. #57 _Mapaches_ (Regional)
 1. #73 _Code Hunters_ (Regional)
 1. #95 _Noobs_ (Regional)
 
-#### 2014-2015
+### 2014-2015
 
 1. #6 _Burst Programming_ (Regional)
 1. #36 _Deprecated Machine_ (Regional)
 
-#### 2015-2016
+### 2015-2016
 
 1. #42 _Deprecated Machine_ (Regional)
 1. #107 _Los Lechugos Guerreros_ (Clasificatorio)
 
-#### 2016-2017
+### 2016-2017
 
 1. #23 _twt_ (Regional)
 1. #61 _The orden of the T-Rex_ (Regional)
@@ -80,14 +78,14 @@
 1. #121 _NOLASTNAME 404_ (Clasificatorio)
 1. #121 _Parálisis Permanente_ (Clasificatorio)
 
-#### 2017-2018
+### 2017-2018
 
 1. #31 _turing incompleto_ (Regional)
 1. #49 _hombres C_ (Regional)
 1. #201 _marcosoft_ (Clasificatorio)
 1. #405 _e^z_ (Clasificatorio)
 
-#### 2018-2019
+### 2018-2019
 
 1. #23 _Topoboros_ (Regional)
 1. #50 _La Mafia del Poder_ (Regional)
@@ -96,7 +94,7 @@
 1. #183 _Beaners_ (Clasificatorio)
 1. #321 _Extra xD_ (Clasificatorio)
 
-#### 2019-2020
+### 2019-2020
 
 1. #35 _LAVANDA NORTEÑA_ (Regional)
 1. #42 _LA MAFIA DEL PODER_ (Regional)
@@ -107,14 +105,14 @@
 1. #382 _FIRECODE_ (Clasificatorio)
 1. #382 _NOC++_ (Clasificatorio)
 
-#### 2020-2021
+### 2020-2021
 
 1. #33 _Lavanda Norteña_ (Regional)
 1. #50 _UTF-8_ (Regional)
 1. #56 _M@C'nificas_ (Regional)
 1. #62 _Problem 3n - 1_ (Clasificatorio)
 
-#### 2021-2022
+### 2021-2022
 
 1. #39 _UTF-8_ (Regional)
 1. #46 _Los Panaceas_ (Regional)
@@ -123,7 +121,7 @@
 1. #112 _El PolloGato de uwu_ (Clasificatorio)
 1. #226 _Miau Omega Miau_ (Clasificatorio)
 
-#### 2022-2023
+### 2022-2023
 
 1. #39 _M@C'nificas _ (Regional)
 1. #84 _axolotes_ (Clasificatorio)
@@ -134,13 +132,12 @@
 1. #241 _los +P2_ (Clasificatorio)
 1. #382 _Meztlicalli_ (Clasificatorio)
 
-#### 2023-2024
+### 2023-2024
 
 1. #42 _FANGnaticos de lo sensual_ (Clasificatorio)
 1. #95 _M@cAtletas_ (Clasificatorio)
 1. #228 _PDF(Pasado de flow)_ (Clasificatorio)
 1. #429 _Minitas_chinas++_ (Clasificatorio)
-
 
 
 

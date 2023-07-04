@@ -20,9 +20,7 @@
 | **Total** | **0** | **0** | **6** | **6** |
 | 2022-2023 | 0 | 0 | 6 | 6 |
 
-### Detalle
-
-#### 2022-2023
+### 2022-2023
 
 1. #382 (#82 de TecNM) _Bestias Binarias_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Devs Team ITSSMT_ (Clasificatorio)
@@ -30,7 +28,6 @@
 1. #382 (#82 de TecNM) _RGV-ISC_ (Clasificatorio)
 1. #382 (#82 de TecNM) _SMartinTics_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Sparks_ (Clasificatorio)
-
 
 
 

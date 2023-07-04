@@ -27,9 +27,7 @@
 | 2021-2022 | 0 | 0 | 7 | 7 |
 | 2022-2023 | 0 | 0 | 6 | 6 |
 
-### Detalle
-
-#### 2019-2020
+### 2019-2020
 
 1. #382 (#98 de TecNM) _CAPA 8_ (Clasificatorio)
 1. #382 (#98 de TecNM) _Code-Legends_ (Clasificatorio)
@@ -41,7 +39,7 @@
 1. #382 (#98 de TecNM) _RDL Legends_ (Clasificatorio)
 1. #382 (#98 de TecNM) _TeamPRL_ (Clasificatorio)
 
-#### 2020-2021
+### 2020-2021
 
 1. #351 (#65 de TecNM) _AJA_ (Clasificatorio)
 1. #351 (#65 de TecNM) _Ad astra_ (Clasificatorio)
@@ -53,7 +51,7 @@
 1. #351 (#65 de TecNM) _PRL Team_ (Clasificatorio)
 1. #351 (#65 de TecNM) _ß Lobo_ (Clasificatorio)
 
-#### 2021-2022
+### 2021-2022
 
 1. #226 (#36 de TecNM) _Ad astra_ (Clasificatorio)
 1. #226 (#36 de TecNM) _Dragon Work_ (Clasificatorio)
@@ -63,7 +61,7 @@
 1. #226 (#36 de TecNM) _Los Novatos_ (Clasificatorio)
 1. #226 (#36 de TecNM) _MGM-ITSOEH-TICs_ (Clasificatorio)
 
-#### 2022-2023
+### 2022-2023
 
 1. #382 (#82 de TecNM) _ALFA TEAM_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Bucle Infinito_ (Clasificatorio)
@@ -71,7 +69,6 @@
 1. #382 (#82 de TecNM) _Gateway-TICs-ITSOEH_ (Clasificatorio)
 1. #382 (#82 de TecNM) _ITSOEH ISIC Error 404_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Not Found 404_ (Clasificatorio)
-
 
 
 

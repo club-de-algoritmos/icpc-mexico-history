@@ -17,14 +17,11 @@
 | **Total** | **0** | **0** | **3** | **3** |
 | 2020-2021 | 0 | 0 | 3 | 3 |
 
-### Detalle
-
-#### 2020-2021
+### 2020-2021
 
 1. #345 _{W1LDC4TS_SR} 1_ (Clasificatorio)
 1. #351 _{W1LDC4TS_SR} 2_ (Clasificatorio)
 1. #351 _{W1LDC4TS_SR} 3_ (Clasificatorio)
-
 
 
 

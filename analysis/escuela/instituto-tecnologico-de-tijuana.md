@@ -25,9 +25,7 @@
 | 2019-2020 | 0 | 0 | 3 | 3 |
 | 2020-2021 | 0 | 0 | 1 | 1 |
 
-### Detalle
-
-#### 2015-2016
+### 2015-2016
 
 1. #108 (#28 de TecNM) _Black Team_ (Clasificatorio)
 1. #108 (#28 de TecNM) _DeCodder_ (Clasificatorio)
@@ -35,16 +33,15 @@
 1. #108 (#28 de TecNM) _The Amazing Three_ (Clasificatorio)
 1. #108 (#28 de TecNM) _Tonny y los Gemelos Laser_ (Clasificatorio)
 
-#### 2019-2020
+### 2019-2020
 
 1. #382 (#98 de TecNM) _G41G05_ (Clasificatorio)
 1. #382 (#98 de TecNM) _Galgos ++_ (Clasificatorio)
 1. #382 (#98 de TecNM) _Los Ciberneticos_ (Clasificatorio)
 
-#### 2020-2021
+### 2020-2021
 
 1. #351 (#65 de TecNM) _mod++_ (Clasificatorio)
-
 
 
 

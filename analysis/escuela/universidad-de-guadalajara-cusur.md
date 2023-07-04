@@ -31,25 +31,23 @@
 | 2020-2021 | 0 | 0 | 2 | 2 |
 | 2022-2023 | 0 | 0 | 3 | 3 |
 
-### Detalle
-
-#### 2014-2015
+### 2014-2015
 
 1. #118 _Los hijos de Odín_ (Clasificatorio)
 1. #192 _DRothers_ (Clasificatorio)
 1. #204 _Tlacuaches Team_ (Clasificatorio)
 
-#### 2015-2016
+### 2015-2016
 
 1. #108 _Evil Machine_ (Clasificatorio)
 1. #108 _Skyline_ (Clasificatorio)
 
-#### 2016-2017
+### 2016-2017
 
 1. #121 _Evil Machine_ (Clasificatorio)
 1. #121 _SkyLine_ (Clasificatorio)
 
-#### 2017-2018
+### 2017-2018
 
 1. #360 _The Floyd_ (Clasificatorio)
 1. #370 _Evil_Machine_ (Clasificatorio)
@@ -59,29 +57,28 @@
 1. #405 _Los Padawan de Arechiga_ (Clasificatorio)
 1. #405 _Sniffero_ (Clasificatorio)
 
-#### 2018-2019
+### 2018-2019
 
 1. #64 _EvilMachine_ (Regional)
 1. #394 _Fénix_ (Clasificatorio)
 
-#### 2019-2020
+### 2019-2020
 
 1. #317 _Acapulqueques_ (Clasificatorio)
 1. #382 _Error 404_CUSUR_ (Clasificatorio)
 1. #382 _Error de capa 8_ (Clasificatorio)
 1. #382 _Fenix_CUSUR_ (Clasificatorio)
 
-#### 2020-2021
+### 2020-2021
 
 1. #272 _Evilmachine_ (Clasificatorio)
 1. #351 _Fenix_ (Clasificatorio)
 
-#### 2022-2023
+### 2022-2023
 
 1. #382 _BWT combinados_ (Clasificatorio)
 1. #382 _ERROR 404_ (Clasificatorio)
 1. #382 _ITEL TEAM_ (Clasificatorio)
-
 
 
 

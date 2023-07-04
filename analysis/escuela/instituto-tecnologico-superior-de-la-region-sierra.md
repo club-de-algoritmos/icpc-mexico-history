@@ -17,14 +17,11 @@
 | **Total** | **0** | **0** | **3** | **3** |
 | 2022-2023 | 0 | 0 | 3 | 3 |
 
-### Detalle
-
-#### 2022-2023
+### 2022-2023
 
 1. #382 (#82 de TecNM) _BLACK_ (Clasificatorio)
 1. #382 (#82 de TecNM) _CyberDevs_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Sierra 3_ (Clasificatorio)
-
 
 
 

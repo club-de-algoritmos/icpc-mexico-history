@@ -19,18 +19,15 @@
 | 2021-2022 | 0 | 0 | 3 | 3 |
 | 2022-2023 | 0 | 0 | 1 | 1 |
 
-### Detalle
-
-#### 2021-2022
+### 2021-2022
 
 1. #226 _HWorld!_ (Clasificatorio)
 1. #226 _LogBuhos_ (Clasificatorio)
 1. #226 _Los Juanchitos_ (Clasificatorio)
 
-#### 2022-2023
+### 2022-2023
 
 1. #330 _LogBuhos 2.0_ (Clasificatorio)
-
 
 
 

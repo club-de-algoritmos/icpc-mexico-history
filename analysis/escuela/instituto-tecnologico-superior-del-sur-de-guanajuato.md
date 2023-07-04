@@ -39,29 +39,27 @@
 | 2022-2023 | 0 | 3 | 29 | 29 |
 | 2023-2024 | 0 | 0 | 20 | 20 |
 
-### Detalle
-
-#### 2010-2011
+### 2010-2011
 
 1. #131 (#33 de TecNM) _ITSUR-1_ (Regional)
 1. #134 (#34 de TecNM) _ITSUR-2_ (Regional)
 1. #156 (#44 de TecNM) _CRUZ AZUL_ (Regional)
 
-#### 2011-2012
+### 2011-2012
 
 1. #65 (#13 de TecNM) _ITSUR_ (Regional)
 
-#### 2012-2013
+### 2012-2013
 
 1. #29 (#8 de TecNM) _ITSUR_1_ (Regional)
 1. #134 (#53 de TecNM) _ITSUR-2_ (Regional)
 
-#### 2013-2014
+### 2013-2014
 
 1. #8 (#1 de TecNM) _ITSUR-MIXLANG CODERS_ (Regional)
 1. #49 (#7 de TecNM) _ITSUR 2_ (Regional)
 
-#### 2014-2015
+### 2014-2015
 
 1. #10 (#2 de TecNM) _ITSUR MIX LANG CODERS_ (Regional)
 1. #81 (#12 de TecNM) _SISTEMA MJE_ (Clasificatorio)
@@ -73,7 +71,7 @@
 1. #204 (#52 de TecNM) _Informatica ONE_ (Clasificatorio)
 1. #204 (#52 de TecNM) _Vector_ (Clasificatorio)
 
-#### 2015-2016
+### 2015-2016
 
 1. #11 (#1 de TecNM) _Laughing Coffee_ (Regional)
 1. #33 (#2 de TecNM) _ITSUR MIXLANG CODERS_ (Regional)
@@ -85,7 +83,7 @@
 1. #108 (#28 de TecNM) _ProgAmando_ (Clasificatorio)
 1. #108 (#28 de TecNM) _TheBestCREW_ (Clasificatorio)
 
-#### 2016-2017
+### 2016-2017
 
 1. #14 (#2 de TecNM) _ITSUR MIX LANG COFFEE_ (Regional)
 1. #83 (#13 de TecNM) _Brave System_ (Regional)
@@ -104,7 +102,7 @@
 1. #121 (#20 de TecNM) _The Winner Pattern_ (Clasificatorio)
 1. #121 (#20 de TecNM) _WRANDOLOGOS_ (Clasificatorio)
 
-#### 2017-2018
+### 2017-2018
 
 1. #8 (#1 de TecNM) _define TriLCI 404_ (Regional)
 1. #113 (#14 de TecNM) _Wild System_ (Clasificatorio)
@@ -130,7 +128,7 @@
 1. #405 (#97 de TecNM) _The developer's team_ (Clasificatorio)
 1. #405 (#97 de TecNM) _Titan Code_ (Clasificatorio)
 
-#### 2018-2019
+### 2018-2019
 
 1. #4 (#1 de TecNM) _#define TriLCI(404.0) :v_ (Regional)
     - Avanzó a la final mundial y resolvió 2 problemas obtuviendo el lugar #63 (54%) en 43rd Annual World Finals of the International Collegiate Programming Contest
@@ -153,7 +151,7 @@
 1. #394 (#103 de TecNM) _FenixBit_ (Clasificatorio)
 1. #394 (#103 de TecNM) _Kuhaku_ (Clasificatorio)
 
-#### 2019-2020
+### 2019-2020
 
 1. #3 (#1 de TecNM) _#define TriLCI(404.0) :v_ (Regional)
     - Avanzó a la final mundial y resolvió 2 problemas obtuviendo el lugar #53 (5%) en The ICPC World Finals Invitational Contest
@@ -185,7 +183,7 @@
 1. #382 (#98 de TecNM) _W#0_ (Clasificatorio)
 1. #382 (#98 de TecNM) _X-FORCE_ (Clasificatorio)
 
-#### 2020-2021
+### 2020-2021
 
 1. #29 (#1 de TecNM) _010 girls & 001 Mike_ (Regional)
 1. #36 (#2 de TecNM) _Too lazy to propagate_ (Regional)
@@ -212,7 +210,7 @@
 1. #351 (#65 de TecNM) _Panaderos con el pan_ (Clasificatorio)
 1. #351 (#65 de TecNM) _Program Rangers_ (Clasificatorio)
 
-#### 2021-2022
+### 2021-2022
 
 1. #30 (#2 de TecNM) _Too lazy to propagate_ (Regional)
 1. #31 (#3 de TecNM) _Los picateclas_ (Regional)
@@ -232,7 +230,7 @@
 1. #226 (#36 de TecNM) _hola;_ (Clasificatorio)
 1. #226 (#36 de TecNM) _Ándale gordo_ (Clasificatorio)
 
-#### 2022-2023
+### 2022-2023
 
 1. #19 (#2 de TecNM) _Hugs for Bugs_ (Regional)
 1. #20 (#3 de TecNM) _Javamonos_ (Regional)
@@ -264,7 +262,7 @@
 1. #382 (#82 de TecNM) _Pandora box++;_ (Clasificatorio)
 1. #382 (#82 de TecNM) _sICPuede_ (Clasificatorio)
 
-#### 2023-2024
+### 2023-2024
 
 1. #18 (#2 de TecNM) _BITsur_ (Clasificatorio)
 1. #50 (#6 de TecNM) _Me levanto, un baño y me pongo a Codear_ (Clasificatorio)
@@ -286,7 +284,6 @@
 1. #432 (#113 de TecNM) _MS-TRES_ (Clasificatorio)
 1. #433 (#114 de TecNM) _ICPCoders_ (Clasificatorio)
 1. #434 (#115 de TecNM) _Jeshejojo's_ (Clasificatorio)
-
 
 
 

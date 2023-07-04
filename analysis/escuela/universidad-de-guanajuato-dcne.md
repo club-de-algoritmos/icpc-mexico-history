@@ -32,9 +32,7 @@
 | 2022-2023 | 0 | 3 | 10 | 10 |
 | 2023-2024 | 0 | 0 | 5 | 5 |
 
-### Detalle
-
-#### 2016-2017
+### 2016-2017
 
 1. #6 _E3_ (Regional)
 1. #8 _Perrillos_ (Regional)
@@ -44,7 +42,7 @@
 1. #121 _Complete Turing_ (Clasificatorio)
 1. #121 _Shiwaweños_ (Clasificatorio)
 
-#### 2017-2018
+### 2017-2018
 
 1. #5 _E3_ (Regional)
 1. #18 _FMB_ (Regional)
@@ -53,7 +51,7 @@
 1. #108 _Code-Frog_ (Clasificatorio)
 1. #272 _Las chicas Superpoderosas_ (Clasificatorio)
 
-#### 2018-2019
+### 2018-2019
 
 1. #6 _E3_ (Regional)
 1. #8 _Duel a morte con coitelos_ (Regional)
@@ -61,7 +59,7 @@
 1. #19 _CRACK_ (Clasificatorio)
 1. #394 _Last Minute_ (Clasificatorio)
 
-#### 2019-2020
+### 2019-2020
 
 1. #2 _E3_ (Regional)
     - Avanzó a la final mundial y resolvió None problemas obtuviendo el lugar #47 (61%) en 44th Annual World Finals of the International Collegiate Programming Contest
@@ -69,7 +67,7 @@
 1. #14 _Talla Mediana_ (Regional)
 1. #18 _Two and a Half Compus_ (Clasificatorio)
 
-#### 2020-2021
+### 2020-2021
 
 1. #6 _EEE_ (Regional)
 1. #11 _UG + es;_ (Regional)
@@ -78,7 +76,7 @@
 1. #189 _Cheemtos_ (Clasificatorio)
 1. #227 _Valedores_ (Clasificatorio)
 
-#### 2021-2022
+### 2021-2022
 
 1. #5 _OWO_ (Regional)
 1. #8 _Ug+es_ (Regional)
@@ -88,7 +86,7 @@
 1. #135 _Red Bool_ (Clasificatorio)
 1. #226 _The Donuts_ (Clasificatorio)
 
-#### 2022-2023
+### 2022-2023
 
 1. #1 _OWO_ (Regional)
 1. #5 _JoJoJo’S_ (Regional)
@@ -101,14 +99,13 @@
 1. #382 _Bee Programmer Club_ (Clasificatorio)
 1. #382 _Python-esp_ (Clasificatorio)
 
-#### 2023-2024
+### 2023-2024
 
 1. #1 _OWO_ (Clasificatorio)
 1. #9 _La última y nos vamos_ (Clasificatorio)
 1. #14 _Mathgic_ (Clasificatorio)
 1. #16 _cin>>nombre;_ (Clasificatorio)
 1. #27 _JoJoJo's_ (Clasificatorio)
-
 
 
 

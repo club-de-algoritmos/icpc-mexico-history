@@ -31,49 +31,47 @@
 | 2015-2016 | 0 | 2 | 2 | 2 |
 | 2016-2017 | 0 | 2 | 13 | 13 |
 
-### Detalle
-
-#### 2005-2006
+### 2005-2006
 
 1. #85 _Pumas 1_ (Regional)
 1. #85 _Pumas 2_ (Regional)
 
-#### 2009-2010
+### 2009-2010
 
 1. #116 _Sistemas_ (Regional)
 1. #116 _Sistemas 2_ (Regional)
 1. #116 _Sistemas 3_ (Regional)
 1. #116 _Sistemas 4_ (Regional)
 
-#### 2010-2011
+### 2010-2011
 
 1. #156 _UAdeC - Extreme Coders_ (Regional)
 1. #156 _UAdeC - It 3! exe_ (Regional)
 1. #156 _UAdeC - Lo C+_ (Regional)
 
-#### 2011-2012
+### 2011-2012
 
 1. #69 _Error 404_ (Regional)
 1. #104 _148.212.19.18_ (Regional)
 1. #104 _MPC_ (Regional)
 1. #104 _Rootkids_ (Regional)
 
-#### 2012-2013
+### 2012-2013
 
 1. #60 _extreme coders_ (Regional)
 1. #61 _error 404_ (Regional)
 
-#### 2013-2014
+### 2013-2014
 
 1. #68 _Kawabonga_ (Regional)
 1. #95 _CPP_ (Regional)
 
-#### 2015-2016
+### 2015-2016
 
 1. #23 _DeBugs_ (Regional)
 1. #51 _TsZuuuaaaah_ (Regional)
 
-#### 2016-2017
+### 2016-2017
 
 1. #21 _Wasabi_ (Regional)
 1. #82 _Team FisMat_ (Regional)
@@ -88,7 +86,6 @@
 1. #121 _Torreon 2_ (Clasificatorio)
 1. #121 _azul_ (Clasificatorio)
 1. #121 _verde_amarillo_ (Clasificatorio)
-
 
 
 

@@ -23,13 +23,11 @@
 | 2019-2020 | 0 | 0 | 1 | 1 |
 | 2022-2023 | 0 | 0 | 7 | 7 |
 
-### Detalle
-
-#### 2019-2020
+### 2019-2020
 
 1. #382 (#98 de TecNM) _“Los Casimiritos”_ (Clasificatorio)
 
-#### 2022-2023
+### 2022-2023
 
 1. #382 (#82 de TecNM) _Code Warriors_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Error404_ (Clasificatorio)
@@ -38,7 +36,6 @@
 1. #382 (#82 de TecNM) _Sistemas2_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Sistemas3_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Sistemas4_ (Clasificatorio)
-
 
 
 

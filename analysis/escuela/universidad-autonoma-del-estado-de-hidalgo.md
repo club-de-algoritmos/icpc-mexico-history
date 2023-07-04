@@ -28,28 +28,26 @@
 | 2022-2023 | 0 | 1 | 4 | 4 |
 | 2023-2024 | 0 | 0 | 13 | 13 |
 
-### Detalle
-
-#### 2014-2015
+### 2014-2015
 
 1. #190 _UAEH TUX´s_ (Clasificatorio)
 
-#### 2015-2016
+### 2015-2016
 
 1. #108 _UAEH TUX´s_ (Clasificatorio)
 
-#### 2017-2018
+### 2017-2018
 
 1. #405 _Dev Jaguar_ (Clasificatorio)
 
-#### 2022-2023
+### 2022-2023
 
 1. #47 _CRIGED.PY_ (Regional)
 1. #132 _CTRL2_ (Clasificatorio)
 1. #204 _Mavericks_ (Clasificatorio)
 1. #219 _Código a Vapor_ (Clasificatorio)
 
-#### 2023-2024
+### 2023-2024
 
 1. #35 _CRIGED.PY_ (Clasificatorio)
 1. #96 _Coding Slayer_ (Clasificatorio)
@@ -64,7 +62,6 @@
 1. #375 _CroSS LiTe_ (Clasificatorio)
 1. #380 _Harcode_ (Clasificatorio)
 1. #406 _Software-Punk_ (Clasificatorio)
-
 
 
 

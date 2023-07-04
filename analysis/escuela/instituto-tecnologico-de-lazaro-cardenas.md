@@ -33,26 +33,24 @@
 | 2022-2023 | 0 | 0 | 16 | 16 |
 | 2023-2024 | 0 | 0 | 3 | 3 |
 
-### Detalle
-
-#### 2011-2012
+### 2011-2012
 
 1. #104 (#33 de TecNM) _Delfines_ (Regional)
 1. #104 (#33 de TecNM) _Tiburones_ (Regional)
 
-#### 2012-2013
+### 2012-2013
 
 1. #44 (#15 de TecNM) _anonymous_ (Regional)
 1. #134 (#53 de TecNM) _Delfines_ (Regional)
 1. #134 (#53 de TecNM) _KAME_ (Regional)
 
-#### 2013-2014
+### 2013-2014
 
 1. #95 (#24 de TecNM) _Error 404 Programmers NF_ (Regional)
 1. #95 (#24 de TecNM) _KUINIKES_ (Regional)
 1. #95 (#24 de TecNM) _Recyclers Coders_ (Regional)
 
-#### 2017-2018
+### 2017-2018
 
 1. #131 (#19 de TecNM) _Base16_ (Clasificatorio)
 1. #298 (#65 de TecNM) _itlac4_ (Clasificatorio)
@@ -65,7 +63,7 @@
 1. #405 (#97 de TecNM) _The Fast_ (Clasificatorio)
 1. #405 (#97 de TecNM) _amc_ (Clasificatorio)
 
-#### 2018-2019
+### 2018-2019
 
 1. #51 (#5 de TecNM) _Base16_ (Regional)
 1. #251 (#49 de TecNM) _Shark Code_ (Clasificatorio)
@@ -84,7 +82,7 @@
 1. #394 (#103 de TecNM) _SysTeCode3.0_ (Clasificatorio)
 1. #394 (#103 de TecNM) _The Insiders_ (Clasificatorio)
 
-#### 2019-2020
+### 2019-2020
 
 1. #130 (#18 de TecNM) _Base16_ (Clasificatorio)
 1. #184 (#24 de TecNM) _Innombrables_ (Clasificatorio)
@@ -96,13 +94,13 @@
 1. #375 (#95 de TecNM) _charizar;_ (Clasificatorio)
 1. #382 (#98 de TecNM) _lossuperconocidos_ (Clasificatorio)
 
-#### 2020-2021
+### 2020-2021
 
 1. #79 (#8 de TecNM) _base16_ (Clasificatorio)
 1. #160 (#14 de TecNM) _char mander_ (Clasificatorio)
 1. #301 (#40 de TecNM) _The Powerpuff Girls_ (Clasificatorio)
 
-#### 2021-2022
+### 2021-2022
 
 1. #156 (#16 de TecNM) _KND: Los chicos sin barrio_ (Clasificatorio)
 1. #226 (#36 de TecNM) _ITLAC3_ (Clasificatorio)
@@ -111,7 +109,7 @@
 1. #226 (#36 de TecNM) _Los renegados del ITLAC_ (Clasificatorio)
 1. #226 (#36 de TecNM) _char mander_ (Clasificatorio)
 
-#### 2022-2023
+### 2022-2023
 
 1. #89 (#10 de TecNM) _Guerreros del Sol_ (Clasificatorio)
 1. #277 (#50 de TecNM) _char mander_ (Clasificatorio)
@@ -130,12 +128,11 @@
 1. #382 (#82 de TecNM) _Punto y Coma_ (Clasificatorio)
 1. #382 (#82 de TecNM) _TeamL&S_ (Clasificatorio)
 
-#### 2023-2024
+### 2023-2024
 
 1. #313 (#68 de TecNM) _ITLAC100_ (Clasificatorio)
 1. #336 (#77 de TecNM) _Black flag_ (Clasificatorio)
 1. #435 (#116 de TecNM) _Estrella_ (Clasificatorio)
-
 
 
 

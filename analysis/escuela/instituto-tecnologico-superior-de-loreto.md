@@ -28,29 +28,27 @@
 | 2012-2013 | 0 | 1 | 0 | 1 |
 | 2018-2019 | 0 | 0 | 8 | 8 |
 
-### Detalle
-
-#### 2005-2006
+### 2005-2006
 
 1. #85 (#11 de TecNM) _ZORRO1_ (Regional)
 1. #85 (#11 de TecNM) _ZORRO2_ (Regional)
 1. #85 (#11 de TecNM) _ZORRO3_ (Regional)
 
-#### 2006-2007
+### 2006-2007
 
 1. #85 (#19 de TecNM) _Halcones 1_ (Regional)
 1. #85 (#19 de TecNM) _Halcones 2_ (Regional)
 1. #85 (#19 de TecNM) _Halcones2_ (Regional)
 
-#### 2008-2009
+### 2008-2009
 
 1. #101 (#26 de TecNM) _Halcones_ (Regional)
 
-#### 2012-2013
+### 2012-2013
 
 1. #89 (#33 de TecNM) _GALAXIS_ (Regional)
 
-#### 2018-2019
+### 2018-2019
 
 1. #377 (#90 de TecNM) _Beaners_Loreto_ (Clasificatorio)
 1. #381 (#93 de TecNM) _Heavy Metal_ (Clasificatorio)
@@ -60,7 +58,6 @@
 1. #394 (#103 de TecNM) _Picateclas_ (Clasificatorio)
 1. #394 (#103 de TecNM) _Scorpions_Loreto_ (Clasificatorio)
 1. #394 (#103 de TecNM) _bloodfallel_ (Clasificatorio)
-
 
 
 

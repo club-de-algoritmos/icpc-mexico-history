@@ -37,48 +37,46 @@
 | 2021-2022 | 0 | 1 | 1 | 1 |
 | 2022-2023 | 0 | 0 | 3 | 3 |
 
-### Detalle
-
-#### 2003-2004
+### 2003-2004
 
 1. #35 _Cuernavaca_ (Regional)
 
-#### 2004-2005
+### 2004-2005
 
 1. #17 _javaglets_ (Regional)
 
-#### 2006-2007
+### 2006-2007
 
 1. #18 _Chevaliers_ (Regional)
 1. #72 _Le Cancer_ (Regional)
 
-#### 2008-2009
+### 2008-2009
 
 1. #23 _Cancer_ (Regional)
 1. #82 _S.T.A.R.S. _ (Regional)
 1. #86 _Happy Hippo_ (Regional)
 
-#### 2009-2010
+### 2009-2010
 
 1. #105 _DeadLockers_ (Regional)
 
-#### 2010-2011
+### 2010-2011
 
 1. #156 _*.UES_ (Regional)
 
-#### 2015-2016
+### 2015-2016
 
 1. #107 _Hardcoding_ (Clasificatorio)
 1. #107 _Thunders_ (Clasificatorio)
 
-#### 2016-2017
+### 2016-2017
 
 1. #121 _Espartanos_ (Clasificatorio)
 1. #121 _Los destructores_ (Clasificatorio)
 1. #121 _Neto y los OMI_ (Clasificatorio)
 1. #121 _STL Team_ (Clasificatorio)
 
-#### 2017-2018
+### 2017-2018
 
 1. #100 _EpicTeam_ (Clasificatorio)
 1. #123 _Los que no vinieron_ (Clasificatorio)
@@ -88,30 +86,29 @@
 1. #405 _Charmanders_ (Clasificatorio)
 1. #405 _DreamTeam_ (Clasificatorio)
 
-#### 2018-2019
+### 2018-2019
 
 1. #26 _RAM_ (Regional)
 1. #122 _Team.jar_ (Clasificatorio)
 
-#### 2019-2020
+### 2019-2020
 
 1. #43 _Los que no vinieron_ (Regional)
 1. #192 _Rike Polle de 10 pesitos_ (Clasificatorio)
 
-#### 2020-2021
+### 2020-2021
 
 1. #12 _Los que no vinieron_ (Regional)
 
-#### 2021-2022
+### 2021-2022
 
 1. #10 _Los que no vinieron_ (Regional)
 
-#### 2022-2023
+### 2022-2023
 
 1. #56 _Los que SÍ vinieron_ (Clasificatorio)
 1. #194 _Armadillos_ (Clasificatorio)
 1. #343 _Pythonist_ (Clasificatorio)
-
 
 
 

@@ -19,20 +19,17 @@
 | 2003-2004 | 0 | 1 | 0 | 1 |
 | 2006-2007 | 0 | 1 | 0 | 1 |
 
-### Detalle
-
-#### 2002-2003
+### 2002-2003
 
 1. #27 (#3 de TecNM) _Jawares_ (Regional)
 
-#### 2003-2004
+### 2003-2004
 
 1. #41 (#9 de TecNM) _The Matrix : Reloaded_ (Regional)
 
-#### 2006-2007
+### 2006-2007
 
 1. #67 (#15 de TecNM) _ITVM Durango_ (Regional)
-
 
 
 

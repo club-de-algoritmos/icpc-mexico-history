@@ -18,15 +18,12 @@
 | **Total** | **0** | **0** | **4** | **4** |
 | 2022-2023 | 0 | 0 | 4 | 4 |
 
-### Detalle
-
-#### 2022-2023
+### 2022-2023
 
 1. #382 _Echo Linxes _ (Clasificatorio)
 1. #382 _The Goat_ (Clasificatorio)
 1. #382 _Theme Tic_ (Clasificatorio)
 1. #382 _TicCoders_ (Clasificatorio)
-
 
 
 

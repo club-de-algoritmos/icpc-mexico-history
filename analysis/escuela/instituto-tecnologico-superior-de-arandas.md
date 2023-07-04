@@ -22,23 +22,20 @@
 | 2017-2018 | 0 | 0 | 2 | 2 |
 | 2019-2020 | 0 | 0 | 2 | 2 |
 
-### Detalle
-
-#### 2014-2015
+### 2014-2015
 
 1. #55 (#9 de TecNM) _Arandas1_ (Regional)
 1. #180 (#43 de TecNM) _Arandas_ (Clasificatorio)
 
-#### 2017-2018
+### 2017-2018
 
 1. #405 (#97 de TecNM) _Arandas1_ (Clasificatorio)
 1. #405 (#97 de TecNM) _Arandas2_ (Clasificatorio)
 
-#### 2019-2020
+### 2019-2020
 
 1. #382 (#98 de TecNM) _Arandas 1_ (Clasificatorio)
 1. #382 (#98 de TecNM) _CODE BREAKERS_ (Clasificatorio)
-
 
 
 

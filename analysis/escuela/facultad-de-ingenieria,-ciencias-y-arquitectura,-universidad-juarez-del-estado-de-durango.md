@@ -16,13 +16,10 @@
 | **Total** | **0** | **0** | **2** | **2** |
 | 2018-2019 | 0 | 0 | 2 | 2 |
 
-### Detalle
-
-#### 2018-2019
+### 2018-2019
 
 1. #394 _C#arly_ (Clasificatorio)
 1. #394 _Sistemas Fica 1_ (Clasificatorio)
-
 
 
 

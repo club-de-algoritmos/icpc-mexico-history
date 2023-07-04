@@ -21,22 +21,19 @@
 | 2021-2022 | 0 | 1 | 2 | 2 |
 | 2022-2023 | 0 | 0 | 1 | 1 |
 
-### Detalle
-
-#### 2020-2021
+### 2020-2021
 
 1. #98 _PumasDS_ (Clasificatorio)
 1. #105 _i++_ (Clasificatorio)
 
-#### 2021-2022
+### 2021-2022
 
 1. #29 _PumasDS_ (Regional)
 1. #114 _Backpropagated Poets_ (Clasificatorio)
 
-#### 2022-2023
+### 2022-2023
 
 1. #43 _PumasDS_ (Clasificatorio)
-
 
 
 

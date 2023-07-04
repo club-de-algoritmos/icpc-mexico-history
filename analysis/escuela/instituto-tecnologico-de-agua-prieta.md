@@ -22,23 +22,20 @@
 | 2019-2020 | 0 | 0 | 1 | 1 |
 | 2022-2023 | 0 | 0 | 2 | 2 |
 
-### Detalle
-
-#### 2005-2006
+### 2005-2006
 
 1. #85 (#11 de TecNM) _coyotes_ (Regional)
 1. #85 (#11 de TecNM) _itap_ (Regional)
 1. #85 (#11 de TecNM) _tecap_ (Regional)
 
-#### 2019-2020
+### 2019-2020
 
 1. #382 (#98 de TecNM) _ganando.cpp_ (Clasificatorio)
 
-#### 2022-2023
+### 2022-2023
 
 1. #382 (#82 de TecNM) _Delta ITAP_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Luxury Programers _ (Clasificatorio)
-
 
 
 

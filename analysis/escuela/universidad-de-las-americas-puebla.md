@@ -35,25 +35,23 @@
 | 2005-2006 | 0 | 7 | 0 | 7 |
 | 2006-2007 | 0 | 1 | 0 | 1 |
 
-### Detalle
-
-#### 1998-1999
+### 1998-1999
 
 1. No hay datos del regional
     - Avanzó a la final mundial y resolvió 1 problemas obtuviendo el lugar #53 (15%) en The 1999 ACM Programming Contest World Finals
 
-#### 1999-2000
+### 1999-2000
 
 1. No hay datos del regional
     - Avanzó a la final mundial y resolvió 0 problemas obtuviendo el lugar #47 (22%) en The 2000 ACM Programming Contest World Finals
 
-#### 2001-2002
+### 2001-2002
 
 1. #43 _UDLAP1_ (Regional)
 1. #47 _UDLAP2_ (Regional)
 1. #51 _UDLAP3_ (Regional)
 
-#### 2002-2003
+### 2002-2003
 
 1. #1 _Los Novatos_ (Regional)
     - Avanzó a la final mundial y resolvió 0 problemas obtuviendo el lugar #56 (18%) en The 2003 ACM Programming Contest World Finals
@@ -61,7 +59,7 @@
 1. #20 _UDLAP2-Sith_ (Regional)
 1. #26 _UDLAP3-Padawans_ (Regional)
 
-#### 2003-2004
+### 2003-2004
 
 1. #1 _Los novatos reloaded_ (Regional)
     - Avanzó a la final mundial y resolvió 0 problemas obtuviendo el lugar #68 (7%) en The 2004 ACM Programming Contest World Finals
@@ -69,14 +67,14 @@
 1. #24 _Yar revolutions_ (Regional)
 1. #41 _UDLAP4-The Mayas_ (Regional)
 
-#### 2004-2005
+### 2004-2005
 
 1. #3 _NO-NAME_ (Regional)
 1. #27 _UDLAP100-NeU_ (Regional)
 1. #46 _UDLAP1-0xFFFFFFFF_ (Regional)
 1. #52 _UDLAP2-10% de la Calificacion_ (Regional)
 
-#### 2005-2006
+### 2005-2006
 
 1. #21 _UDLAP2-IO-PROMPT_ (Regional)
 1. #29 _UDLAP5-EOF_ (Regional)
@@ -86,10 +84,9 @@
 1. #85 _UDLAP6-el orgullo por el suelo_ (Regional)
 1. #85 _UDLAP7_ (Regional)
 
-#### 2006-2007
+### 2006-2007
 
 1. #26 _Beta Version_ (Regional)
-
 
 
 

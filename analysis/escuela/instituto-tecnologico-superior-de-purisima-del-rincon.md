@@ -28,14 +28,12 @@
 | 2022-2023 | 0 | 0 | 5 | 5 |
 | 2023-2024 | 0 | 0 | 5 | 5 |
 
-### Detalle
-
-#### 2019-2020
+### 2019-2020
 
 1. #382 (#98 de TecNM) _CodeBusters_ (Clasificatorio)
 1. #382 (#98 de TecNM) _JAIL-Breakers_ (Clasificatorio)
 
-#### 2020-2021
+### 2020-2021
 
 1. #351 (#65 de TecNM) _3XPRO_ (Clasificatorio)
 1. #351 (#65 de TecNM) _Dream Lords_ (Clasificatorio)
@@ -45,11 +43,11 @@
 1. #351 (#65 de TecNM) _Maquina del Mal_ (Clasificatorio)
 1. #351 (#65 de TecNM) _No se presentó_ (Clasificatorio)
 
-#### 2021-2022
+### 2021-2022
 
 1. #226 (#36 de TecNM) _Shark Geeks_ (Clasificatorio)
 
-#### 2022-2023
+### 2022-2023
 
 1. #382 (#82 de TecNM) _3 BITS_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Black Wolf_ (Clasificatorio)
@@ -57,14 +55,13 @@
 1. #382 (#82 de TecNM) _Nameless.jar_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Shark Geeks_ (Clasificatorio)
 
-#### 2023-2024
+### 2023-2024
 
 1. #118 (#23 de TecNM) _Nameless.jar_ (Clasificatorio)
 1. #188 (#36 de TecNM) _Black Wolf_ (Clasificatorio)
 1. #218 (#41 de TecNM) _3 Bits_ (Clasificatorio)
 1. #279 (#56 de TecNM) _Champions_ (Clasificatorio)
 1. #355 (#89 de TecNM) _Simplex_Team_ (Clasificatorio)
-
 
 
 

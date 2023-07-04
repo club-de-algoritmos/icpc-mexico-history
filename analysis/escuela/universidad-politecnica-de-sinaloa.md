@@ -18,15 +18,12 @@
 | **Total** | **0** | **4** | **0** | **4** |
 | 2011-2012 | 0 | 4 | 0 | 4 |
 
-### Detalle
-
-#### 2011-2012
+### 2011-2012
 
 1. #92 _UPSIN DELTA_ (Regional)
 1. #101 _UPSIN GAMMA_ (Regional)
 1. #104 _UPSIN ALFA_ (Regional)
 1. #104 _UPSIN BETA_ (Regional)
-
 
 
 

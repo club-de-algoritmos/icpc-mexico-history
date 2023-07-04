@@ -26,9 +26,7 @@
 | 2020-2021 | 0 | 0 | 11 | 11 |
 | 2021-2022 | 0 | 0 | 3 | 3 |
 
-### Detalle
-
-#### 2019-2020
+### 2019-2020
 
 1. #382 (#98 de TecNM) _Adrián y los Joseses_ (Clasificatorio)
 1. #382 (#98 de TecNM) _Awake_ (Clasificatorio)
@@ -44,7 +42,7 @@
 1. #382 (#98 de TecNM) _Undercode_ (Clasificatorio)
 1. #382 (#98 de TecNM) _Uno_ (Clasificatorio)
 
-#### 2020-2021
+### 2020-2021
 
 1. #351 (#65 de TecNM) _Abejas de Delicias_ (Clasificatorio)
 1. #351 (#65 de TecNM) _Burritos paseados_ (Clasificatorio)
@@ -58,12 +56,11 @@
 1. #351 (#65 de TecNM) _Rent a Developer_ (Clasificatorio)
 1. #351 (#65 de TecNM) _Tacos de Perro_ (Clasificatorio)
 
-#### 2021-2022
+### 2021-2022
 
 1. #226 (#36 de TecNM) _CTR_ (Clasificatorio)
 1. #226 (#36 de TecNM) _Equipo C_ (Clasificatorio)
 1. #226 (#36 de TecNM) _Los jalapeños_ (Clasificatorio)
-
 
 
 

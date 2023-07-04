@@ -17,14 +17,11 @@
 | **Total** | **0** | **0** | **3** | **3** |
 | 2015-2016 | 0 | 0 | 3 | 3 |
 
-### Detalle
-
-#### 2015-2016
+### 2015-2016
 
 1. #108 _PANTHERA PARDUS_ (Clasificatorio)
 1. #108 _SeaDragonsUNEDL_ (Clasificatorio)
 1. #108 _WolvesUNEDL_ (Clasificatorio)
-
 
 
 

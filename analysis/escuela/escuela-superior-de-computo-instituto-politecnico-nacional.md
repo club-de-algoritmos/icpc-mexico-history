@@ -51,69 +51,67 @@
 | 2022-2023 | 0 | 5 | 27 | 27 |
 | 2023-2024 | 0 | 0 | 28 | 28 |
 
-### Detalle
-
-#### 2001-2002
+### 2001-2002
 
 1. #11 _Escom Tepoztlan_ (Regional)
 1. #40 _ESCOMI_ (Regional)
 
-#### 2002-2003
+### 2002-2003
 
 1. #23 _quitajtohuilia_ (Regional)
 1. #27 _Escomi_ (Regional)
 
-#### 2003-2004
+### 2003-2004
 
 1. #41 _ESCOMI_ (Regional)
 
-#### 2004-2005
+### 2004-2005
 
 1. #7 _ESCOM UNO_ (Regional)
 1. #51 _ESCOM DOS_ (Regional)
 1. #90 _ESCOM A_ (Regional)
 1. #90 _ESCOM B_ (Regional)
 
-#### 2005-2006
+### 2005-2006
 
 1. #7 _ESCOM-1_ (Regional)
 
-#### 2006-2007
+### 2006-2007
 
 1. #9 _ESCOM1_ (Regional)
 1. #24 _ESCOM2_ (Regional)
 
-#### 2007-2008
+### 2007-2008
 
 1. #12 _ESCOM1_ (Regional)
 1. #52 _ESCOM2_ (Regional)
 1. #61 _ESCOM3_ (Regional)
 
-#### 2008-2009
+### 2008-2009
 
 1. #20 _ESCOM56_ (Regional)
 1. #24 _ESCOM2_ (Regional)
 
-#### 2009-2010
+### 2009-2010
 
 1. #5 _Escom56_ (Regional)
 1. #25 _Escom_ (Regional)
 1. #64 _Burros Blancos_ (Regional)
 
-#### 2011-2012
+### 2011-2012
 
 1. #6 _Escoders._ (Regional)
 1. #19 _Hurones salvajes._ (Regional)
 1. #52 _Dragones._ (Regional)
 
-#### 2012-2013
+### 2012-2013
 
 1. #1 _Escoders_ (Regional)
     - Avanzó a la final mundial y resolvió 1 problemas obtuviendo el lugar #94 (21%) en 37th Annual World Finals of the ACM International Collegiate Programming Contest
 1. #5 _Hurones FTW!_ (Regional)
 1. #8 _Dragones_ (Regional)
 
-#### 2013-2014
+### 2013-2014
 
 1. #1 _Hurones Pwneadores_ (Regional)
     - Avanzó a la final mundial y resolvió 1 problemas obtuviendo el lugar #80 (35%) en 38th Annual World Finals of the ACM International Collegiate Programming Contest
@@ -124,7 +122,7 @@
 1. #49 _Los Chimpas Felices_ (Regional)
 1. #74 _Fatal Error_ (Regional)
 
-#### 2014-2015
+### 2014-2015
 
 1. #3 _Escoolers_ (Regional)
     - Avanzó a la final mundial y resolvió 3 problemas obtuviendo el lugar #96 (25%) en 39th Annual World Finals of the ACM International Collegiate Programming Contest
@@ -138,7 +136,7 @@
 1. #82 _ESCOMOMOS_ (Clasificatorio)
 1. #89 _The Wolves of CodeStreet_ (Clasificatorio)
 
-#### 2015-2016
+### 2015-2016
 
 1. #1 _La Carabina del AC_ (Regional)
     - Avanzó a la final mundial y resolvió 3 problemas obtuviendo el lugar #92 (28%) en 40th Annual World Finals of the ACM International Collegiate Programming Contest
@@ -153,7 +151,7 @@
 1. #107 _TanKeZ_ (Clasificatorio)
 1. #107 _The Punishers_ (Clasificatorio)
 
-#### 2016-2017
+### 2016-2017
 
 1. #4 _New avengers_ (Regional)
 1. #10 _Quetzal.h_ (Regional)
@@ -169,7 +167,7 @@
 1. #121 _New Team_ (Clasificatorio)
 1. #121 _Xirosame_ (Clasificatorio)
 
-#### 2017-2018
+### 2017-2018
 
 1. #6 _Rocky IV_ (Regional)
 1. #7 _ManiAC_ (Regional)
@@ -188,7 +186,7 @@
 1. #294 _CpiJava_ (Clasificatorio)
 1. #295 _burrOS_ (Clasificatorio)
 
-#### 2018-2019
+### 2018-2019
 
 1. #2 _lA_Criba de ceros y unos_ (Regional)
     - Avanzó a la final mundial y resolvió 2 problemas obtuviendo el lugar #63 (54%) en 43rd Annual World Finals of the International Collegiate Programming Contest
@@ -216,7 +214,7 @@
 1. #329 _BORMAP_ (Clasificatorio)
 1. #330 _Smittywerberjagermanjensen_ (Clasificatorio)
 
-#### 2019-2020
+### 2019-2020
 
 1. #1 _Norman is Hunting_ (Regional)
     - Avanzó a la final mundial y resolvió 4 problemas obtuviendo el lugar #36 (36%) en The ICPC World Finals Invitational Contest
@@ -244,7 +242,7 @@
 1. #380 _Las Colorburgers_ (Clasificatorio)
 1. #382 _Los ESCOMpas_ (Clasificatorio)
 
-#### 2020-2021
+### 2020-2021
 
 1. #7 _Cámara Ya Súbelo Asi w_ (Regional)
 1. #8 _Escuela Superior de Comedia_ (Regional)
@@ -260,7 +258,7 @@
 1. #89 _TLE_ (Clasificatorio)
 1. #192 _lasCuries_ (Clasificatorio)
 
-#### 2021-2022
+### 2021-2022
 
 1. #1 _Chilaquiles con pollo_ (Regional)
 1. #13 _Discípulos de Marckess_ (Regional)
@@ -275,7 +273,7 @@
 1. #120 _Norbertos Cibernéticos_ (Clasificatorio)
 1. #192 _No nos funen plox_ (Clasificatorio)
 
-#### 2022-2023
+### 2022-2023
 
 1. #4 _Exceso de Fé_ (Regional)
 1. #8 _AC Forever_ (Regional)
@@ -305,7 +303,7 @@
 1. #382 _Trikitrakatelas_ (Clasificatorio)
 1. #382 _dESCOMtrolados_ (Clasificatorio)
 
-#### 2023-2024
+### 2023-2024
 
 1. #2 _Catadores de Patas (ahora en ICPC)_ (Clasificatorio)
 1. #5 _God Save Galois_ (Clasificatorio)
@@ -335,7 +333,6 @@
 1. #426 _KittyCodersBelicos_ (Clasificatorio)
 1. #427 _Maíces nixtamalizados_ (Clasificatorio)
 1. #428 _diaMar_ (Clasificatorio)
-
 
 
 

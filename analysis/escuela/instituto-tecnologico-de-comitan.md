@@ -19,18 +19,15 @@
 | 2022-2023 | 0 | 0 | 2 | 2 |
 | 2023-2024 | 0 | 0 | 2 | 2 |
 
-### Detalle
-
-#### 2022-2023
+### 2022-2023
 
 1. #382 (#82 de TecNM) _COMIHACKS_ (Clasificatorio)
 1. #382 (#82 de TecNM) _SERVERS SQUAD_ (Clasificatorio)
 
-#### 2023-2024
+### 2023-2024
 
 1. #341 (#81 de TecNM) _LOS CAZADORES DE BUGS_ (Clasificatorio)
 1. #342 (#82 de TecNM) _QUIMERA TEAM_ (Clasificatorio)
-
 
 
 

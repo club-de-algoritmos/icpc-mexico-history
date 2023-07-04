@@ -41,31 +41,29 @@
 | 2022-2023 | 0 | 1 | 7 | 7 |
 | 2023-2024 | 0 | 0 | 4 | 4 |
 
-### Detalle
-
-#### 2005-2006
+### 2005-2006
 
 1. #85 _Kerus_ (Regional)
 
-#### 2009-2010
+### 2009-2010
 
 1. #43 _gallos uaa_ (Regional)
 1. #116 _UAA- 2_ (Regional)
 1. #116 _UAA-1_ (Regional)
 
-#### 2010-2011
+### 2010-2011
 
 1. #74 _Ne_Ne!_ISC_ (Regional)
 1. #140 _ICI_ (Regional)
 1. #145 _gallos uaa_ (Regional)
 
-#### 2011-2012
+### 2011-2012
 
 1. #33 _ne_ne!_isc_ (Regional)
 1. #57 _LTI-LMA_ (Regional)
 1. #83 _ICI_ (Regional)
 
-#### 2012-2013
+### 2012-2013
 
 1. #3 _Peludos_ (Regional)
 1. #51 _Anomcodes_ (Regional)
@@ -75,7 +73,7 @@
 1. #83 _UAA_Masters._ (Regional)
 1. #99 _UAA_Builders_ (Regional)
 
-#### 2013-2014
+### 2013-2014
 
 1. #2 _Peludos_ (Regional)
     - Avanzó a la final mundial y resolvió 0 problemas obtuviendo el lugar #103 (16%) en 38th Annual World Finals of the ACM International Collegiate Programming Contest
@@ -87,7 +85,7 @@
 1. #95 _LTI-UAANDROIDES_ (Regional)
 1. #95 _Lyon Programing_ (Regional)
 
-#### 2014-2015
+### 2014-2015
 
 1. #1 _Peludos_ (Regional)
     - Avanzó a la final mundial y resolvió 2 problemas obtuviendo el lugar #110 (14%) en 39th Annual World Finals of the ACM International Collegiate Programming Contest
@@ -105,7 +103,7 @@
 1. #176 _KOTLIN_ (Clasificatorio)
 1. #193 _BOB'S_ (Clasificatorio)
 
-#### 2015-2016
+### 2015-2016
 
 1. #7 _Leulz_ (Regional)
 1. #54 _The Mikers_ (Regional)
@@ -124,7 +122,7 @@
 1. #108 _The Wave_ (Clasificatorio)
 1. #108 _UAA pos_ (Clasificatorio)
 
-#### 2016-2017
+### 2016-2017
 
 1. #31 _Nac-OS_ (Regional)
 1. #56 _Chinchanpu_ (Regional)
@@ -140,7 +138,7 @@
 1. #121 _Tesla_ (Clasificatorio)
 1. #121 _jaguaar_ (Clasificatorio)
 
-#### 2017-2018
+### 2017-2018
 
 1. #21 _nac-OS_ (Regional)
 1. #34 _greñud-OS_ (Regional)
@@ -158,7 +156,7 @@
 1. #405 _Los judas Iscariote_ (Clasificatorio)
 1. #405 _jaguaar_ (Clasificatorio)
 
-#### 2018-2019
+### 2018-2019
 
 1. #24 _WA de WAccepted_ (Regional)
 1. #68 _CTVS_ (Clasificatorio)
@@ -171,7 +169,7 @@
 1. #375 _APA_ (Clasificatorio)
 1. #394 _NO.C_ (Clasificatorio)
 
-#### 2019-2020
+### 2019-2020
 
 1. #32 _Los testigos de Aarón_ (Regional)
 1. #134 _Percepctrón_ (Clasificatorio)
@@ -180,18 +178,18 @@
 1. #344 _SoftTrooper_ (Clasificatorio)
 1. #382 _Tower Code_ (Clasificatorio)
 
-#### 2020-2021
+### 2020-2021
 
 1. #15 _cagUAA++_ (Regional)
 1. #41 _Los testigos de Aarón - Aarón_ (Regional)
 1. #150 _Infinabyte_ (Clasificatorio)
 
-#### 2021-2022
+### 2021-2022
 
 1. #24 _Team Puzzles_ (Regional)
 1. #226 _Infinabyte_ (Clasificatorio)
 
-#### 2022-2023
+### 2022-2023
 
 1. #25 _Gallos_ (Regional)
 1. #48 _TREE(3)_ (Clasificatorio)
@@ -201,13 +199,12 @@
 1. #213 _Enchiladas Mexicanas_ (Clasificatorio)
 1. #226 _IDK_ (Clasificatorio)
 
-#### 2023-2024
+### 2023-2024
 
 1. #41 _MIT (Michoacán Institute of Technology)_ (Clasificatorio)
 1. #102 _Bit Brawlers_ (Clasificatorio)
 1. #299 _OverCode_ (Clasificatorio)
 1. #359 _Hacknerds_ (Clasificatorio)
-
 
 
 

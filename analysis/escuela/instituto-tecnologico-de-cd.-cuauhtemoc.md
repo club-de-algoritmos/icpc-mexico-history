@@ -27,16 +27,14 @@
 | 2021-2022 | 0 | 0 | 1 | 1 |
 | 2022-2023 | 0 | 0 | 6 | 6 |
 
-### Detalle
-
-#### 2019-2020
+### 2019-2020
 
 1. #382 (#98 de TecNM) _3B ISC ITCC_ (Clasificatorio)
 1. #382 (#98 de TecNM) _7A ISC ITCC_ (Clasificatorio)
 1. #382 (#98 de TecNM) _CimCoders_ (Clasificatorio)
 1. #382 (#98 de TecNM) _Los Binarios_ (Clasificatorio)
 
-#### 2020-2021
+### 2020-2021
 
 1. #351 (#65 de TecNM) _ITCC01_ (Clasificatorio)
 1. #351 (#65 de TecNM) _ITCC02_ (Clasificatorio)
@@ -44,11 +42,11 @@
 1. #351 (#65 de TecNM) _ITCC04_ (Clasificatorio)
 1. #351 (#65 de TecNM) _ITCC05_ (Clasificatorio)
 
-#### 2021-2022
+### 2021-2022
 
 1. #155 (#15 de TecNM) _CIMARRON  ZEN_ (Clasificatorio)
 
-#### 2022-2023
+### 2022-2023
 
 1. #382 (#82 de TecNM) _CJL Programmers_ (Clasificatorio)
 1. #382 (#82 de TecNM) _HW_ (Clasificatorio)
@@ -56,7 +54,6 @@
 1. #382 (#82 de TecNM) _Semi N_ (Clasificatorio)
 1. #382 (#82 de TecNM) _ShadowCoders_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Supreme_ (Clasificatorio)
-
 
 
 

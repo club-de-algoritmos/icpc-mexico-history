@@ -31,43 +31,40 @@
 | 2015-2016 | 0 | 0 | 2 | 2 |
 | 2017-2018 | 0 | 0 | 1 | 1 |
 
-### Detalle
-
-#### 2007-2008
+### 2007-2008
 
 1. #61 (#15 de TecNM) _IO EXCEPTION_ (Regional)
 
-#### 2010-2011
+### 2010-2011
 
 1. #156 (#44 de TecNM) _HIMAGA_ (Regional)
 1. #156 (#44 de TecNM) _SIMULADORES_ (Regional)
 
-#### 2011-2012
+### 2011-2012
 
 1. #104 (#33 de TecNM) _HINAGA_ (Regional)
 
-#### 2012-2013
+### 2012-2013
 
 1. #104 (#40 de TecNM) _working_ (Regional)
 1. #128 (#49 de TecNM) _s-black_ (Regional)
 
-#### 2013-2014
+### 2013-2014
 
 1. #95 (#24 de TecNM) _SHARK_ (Regional)
 
-#### 2014-2015
+### 2014-2015
 
 1. #135 (#27 de TecNM) _Giga Shark_ (Clasificatorio)
 
-#### 2015-2016
+### 2015-2016
 
 1. #108 (#28 de TecNM) _GIGASHARK_ (Clasificatorio)
 1. #108 (#28 de TecNM) _TUX_ (Clasificatorio)
 
-#### 2017-2018
+### 2017-2018
 
 1. #405 (#97 de TecNM) _JAVALINUX_ (Clasificatorio)
-
 
 
 

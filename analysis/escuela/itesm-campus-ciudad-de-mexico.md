@@ -35,43 +35,41 @@
 | 2021-2022 | 0 | 0 | 1 | 1 |
 | 2023-2024 | 0 | 0 | 2 | 2 |
 
-### Detalle
-
-#### 2009-2010
+### 2009-2010
 
 1. #12 _ITCCM_ (Regional)
 1. #40 _Itsenautas_ (Regional)
 1. #109 _Children of Evolution_ (Regional)
 
-#### 2010-2011
+### 2010-2011
 
 1. #51 _Spartans!_ (Regional)
 1. #57 _El Santo contra las Momias_ (Regional)
 1. #105 _Ka-Tet_ (Regional)
 
-#### 2011-2012
+### 2011-2012
 
 1. #37 _SA²_ (Regional)
 1. #47 _Echo_ (Regional)
 1. #61 _Tryte_ (Regional)
 
-#### 2012-2013
+### 2012-2013
 
 1. #115 _ccm1_ (Regional)
 1. #124 _ccm2_ (Regional)
 
-#### 2015-2016
+### 2015-2016
 
 1. #18 _EOF_ (Regional)
 1. #41 _Byte-me_ (Regional)
 
-#### 2016-2017
+### 2016-2017
 
 1. #30 _make sandwich_ (Regional)
 1. #32 _M3_ (Regional)
 1. #121 _The enigmas_ (Clasificatorio)
 
-#### 2017-2018
+### 2017-2018
 
 1. #60 _The Screens_ (Regional)
 1. #73 _43FAD958_ (Clasificatorio)
@@ -79,19 +77,19 @@
 1. #285 _Bits please_ (Clasificatorio)
 1. #331 _Los Switch_ (Clasificatorio)
 
-#### 2018-2019
+### 2018-2019
 
 1. #72 _MDP_ (Clasificatorio)
 1. #204 _RADAR_ (Clasificatorio)
 
-#### 2019-2020
+### 2019-2020
 
 1. #23 _mdp_ (Regional)
 1. #120 _Elite Penguin Force_ (Clasificatorio)
 1. #136 _Team extends God_ (Clasificatorio)
 1. #243 _El cartel de Java_ (Clasificatorio)
 
-#### 2020-2021
+### 2020-2021
 
 1. #35 _BrUwUs_ (Regional)
 1. #114 _Montadioses_ (Clasificatorio)
@@ -99,15 +97,14 @@
 1. #158 _Echo Coding_ (Clasificatorio)
 1. #232 _Nautilus Phi_ (Clasificatorio)
 
-#### 2021-2022
+### 2021-2022
 
 1. #79 _Echo Coding_ (Clasificatorio)
 
-#### 2023-2024
+### 2023-2024
 
 1. #219 _Los tres jinetes_ (Clasificatorio)
 1. #318 _devsociety_ (Clasificatorio)
-
 
 
 

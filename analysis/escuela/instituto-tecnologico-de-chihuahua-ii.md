@@ -16,13 +16,10 @@
 | **Total** | **0** | **0** | **2** | **2** |
 | 2022-2023 | 0 | 0 | 2 | 2 |
 
-### Detalle
-
-#### 2022-2023
+### 2022-2023
 
 1. #382 (#82 de TecNM) _BisontesLocos_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Geek Warriors_ (Clasificatorio)
-
 
 
 

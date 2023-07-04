@@ -31,28 +31,26 @@
 | 2014-2015 | 0 | 2 | 5 | 5 |
 | 2015-2016 | 0 | 2 | 6 | 6 |
 
-### Detalle
-
-#### 2010-2011
+### 2010-2011
 
 1. #1 _Manowar_ (Regional)
     - Avanzó a la final mundial y resolvió 2 problemas obtuviendo el lugar #74 (30%) en 35th Annual World Finals of the ACM International Collegiate Programming Contest
 
-#### 2011-2012
+### 2011-2012
 
 1. #1 _Manowar_ (Regional)
     - Avanzó a la final mundial y resolvió 2 problemas obtuviendo el lugar #80 (29%) en 36th Annual World Finals of the ACM International Collegiate Programming Contest
 
-#### 2012-2013
+### 2012-2013
 
 1. #6 _Nautilus_ (Regional)
 1. #7 _DragonCurve_ (Regional)
 
-#### 2013-2014
+### 2013-2014
 
 1. #11 _Nautilus_ (Regional)
 
-#### 2014-2015
+### 2014-2015
 
 1. #5 _NNN No es Nautilus_ (Regional)
 1. #8 _Delta_ (Regional)
@@ -60,7 +58,7 @@
 1. #31 _Triforce coders_ (Clasificatorio)
 1. #179 _Mohajona_ (Clasificatorio)
 
-#### 2015-2016
+### 2015-2016
 
 1. #6 _#include "Shell.h"_ (Regional)
 1. #13 _E3_ (Regional)
@@ -68,7 +66,6 @@
 1. #104 _Fractal Fox_ (Clasificatorio)
 1. #108 _Tapatíos_ (Clasificatorio)
 1. #108 _string = "Team J-K-V"_ (Clasificatorio)
-
 
 
 

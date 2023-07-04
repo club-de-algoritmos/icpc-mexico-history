@@ -44,16 +44,14 @@
 | 2022-2023 | 0 | 5 | 23 | 23 |
 | 2023-2024 | 0 | 0 | 18 | 18 |
 
-### Detalle
-
-#### 2003-2004
+### 2003-2004
 
 1. #11 _Ciberleones de Guadalajara_ (Regional)
 1. #18 _Digital Advance_ (Regional)
 1. #41 _Leones Negros_ (Regional)
 1. #41 _Patitox CUCEI_ (Regional)
 
-#### 2004-2005
+### 2004-2005
 
 1. #13 _fishbowlHead_ (Regional)
 1. #16 _Caballo Negro_ (Regional)
@@ -62,7 +60,7 @@
 1. #37 _LionSoft_ (Regional)
 1. #68 _Leones Negros_ (Regional)
 
-#### 2005-2006
+### 2005-2006
 
 1. #9 _Digital Advance_ (Regional)
 1. #23 _1000%wapos_ (Regional)
@@ -72,50 +70,50 @@
 1. #85 _    _ (Regional)
 1. #85 _Warner Brothers_ (Regional)
 
-#### 2006-2007
+### 2006-2007
 
 1. #6 _Vini Programmi Victi_ (Regional)
 1. #48 _1.5H_ (Regional)
 1. #73 _A7X_ (Regional)
 
-#### 2008-2009
+### 2008-2009
 
 1. #38 _ACM PROBLEM SOLVERS_ (Regional)
 1. #101 _Leones Negros_ (Regional)
 1. #101 _Swordfish_ (Regional)
 1. #101 _The Creepers_ (Regional)
 
-#### 2009-2010
+### 2009-2010
 
 1. #8 _ACM Problem Solvers_ (Regional)
 1. #62 _CUCEI People_ (Regional)
 1. #88 _Null Breakers_ (Regional)
 
-#### 2010-2011
+### 2010-2011
 
 1. #6 _ACM Problem Solvers_ (Regional)
 1. #83 _Crazy Coders_ (Regional)
 
-#### 2011-2012
+### 2011-2012
 
 1. #26 _(void *) 0_ (Regional)
 1. #46 _Crazy Coders_ (Regional)
 1. #56 _The Assemblers_ (Regional)
 
-#### 2012-2013
+### 2012-2013
 
 1. #27 _Astrum_ (Regional)
 1. #77 _Little bobby nully_ (Regional)
 1. #121 _Drunkard´s Walk_ (Regional)
 
-#### 2013-2014
+### 2013-2014
 
 1. #16 _Astrum_ (Regional)
 1. #17 _Épsilon_ (Regional)
 1. #33 _Floyd_ (Regional)
 1. #36 _Krieger_ (Regional)
 
-#### 2014-2015
+### 2014-2015
 
 1. #20 _Astrum_ (Regional)
 1. #6 _Astrum****_ (Clasificatorio)
@@ -134,7 +132,7 @@
 1. #167 _Beep_ (Clasificatorio)
 1. #202 _Betaguys****_ (Clasificatorio)
 
-#### 2015-2016
+### 2015-2016
 
 1. #25 _LaUltimaYNosVamos_ (Regional)
 1. #93 _Error404_ (Clasificatorio)
@@ -148,7 +146,7 @@
 1. #108 _Team Turing_ (Clasificatorio)
 1. #108 _XD_ (Clasificatorio)
 
-#### 2016-2017
+### 2016-2017
 
 1. #29 _Entscheidungsteam_ (Regional)
 1. #121 _Arcade_ (Clasificatorio)
@@ -169,7 +167,7 @@
 1. #121 _Thestrals_ (Clasificatorio)
 1. #121 _eagle eye_ (Clasificatorio)
 
-#### 2017-2018
+### 2017-2018
 
 1. #68 _BinaryThree_ (Clasificatorio)
 1. #82 _Leones (0,0,0)_ (Clasificatorio)
@@ -185,7 +183,7 @@
 1. #405 _Ronin_ (Clasificatorio)
 1. #405 _Team DooM_ (Clasificatorio)
 
-#### 2018-2019
+### 2018-2019
 
 1. #52 _Leones (0,0,0)_ (Regional)
 1. #82 _Binary Three_ (Clasificatorio)
@@ -199,7 +197,7 @@
 1. #395 _Desintegradores de almas_ (Clasificatorio)
 1. #395 _La Manzana De Dana_ (Clasificatorio)
 
-#### 2019-2020
+### 2019-2020
 
 1. #17 _Leones(0,0,0);_ (Regional)
 1. #40 _Code Wizards_ (Regional)
@@ -219,7 +217,7 @@
 1. #382 _The Endurance_ (Clasificatorio)
 1. #382 _Wozniak_ (Clasificatorio)
 
-#### 2020-2021
+### 2020-2021
 
 1. #4 _Leones(0,0,0)_ (Regional)
     - Avanzó a la final mundial y resolvió 3 problemas obtuviendo el lugar #51 (62%) en 45th Annual World Finals of the International Collegiate Programming Contest
@@ -230,7 +228,7 @@
 1. #65 _JRM-E_ (Clasificatorio)
 1. #80 _BroCode_ (Clasificatorio)
 
-#### 2021-2022
+### 2021-2022
 
 1. #2 _Leones(0,0,0)_ (Regional)
 1. #15 _A New Hope_ (Regional)
@@ -240,7 +238,7 @@
 1. #141 _Develoopers_ (Clasificatorio)
 1. #226 _Mr. Asimov_ (Clasificatorio)
 
-#### 2022-2023
+### 2022-2023
 
 1. #9 _Almost Retired_ (Regional)
 1. #10 _Ma+aLeones7000_ (Regional)
@@ -266,7 +264,7 @@
 1. #382 _Uploading..._ (Clasificatorio)
 1. #382 _XOXO_ (Clasificatorio)
 
-#### 2023-2024
+### 2023-2024
 
 1. #7 _The Silence of the Lambdas_ (Clasificatorio)
 1. #17 _DeltaWing_ (Clasificatorio)
@@ -286,7 +284,6 @@
 1. #421 _Raptors_ (Clasificatorio)
 1. #422 _Bugbusters_ (Clasificatorio)
 1. #424 _Spring bug_ (Clasificatorio)
-
 
 
 

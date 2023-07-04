@@ -43,53 +43,51 @@
 | 2022-2023 | 0 | 1 | 14 | 14 |
 | 2023-2024 | 0 | 0 | 13 | 13 |
 
-### Detalle
-
-#### 1998-1999
+### 1998-1999
 
 1. No hay datos del regional
     - Avanzó a la final mundial y resolvió 0 problemas obtuviendo el lugar #60 (3%) en The 1999 ACM Programming Contest World Finals
 
-#### 1999-2000
+### 1999-2000
 
 1. No hay datos del regional
     - Avanzó a la final mundial y resolvió 0 problemas obtuviendo el lugar #22 (64%) en The 2000 ACM Programming Contest World Finals
 
-#### 2001-2002
+### 2001-2002
 
 1. #4 _Heavy Wizardy!_ (Regional)
 1. #28 _Emoticons_ (Regional)
 1. #36 _WC-M_ (Regional)
 
-#### 2002-2003
+### 2002-2003
 
 1. #17 _Dragon Army_ (Regional)
 1. #27 _Chin Chan Pú_ (Regional)
 1. #27 _Omega_ (Regional)
 
-#### 2008-2009
+### 2008-2009
 
 1. #34 _Wild RAM's_ (Regional)
 
-#### 2010-2011
+### 2010-2011
 
 1. #12 _CEM 42_ (Regional)
 
-#### 2011-2012
+### 2011-2012
 
 1. #24 _Bitshifters_ (Regional)
 
-#### 2013-2014
+### 2013-2014
 
 1. #14 _CEMbitshifters_ (Regional)
 1. #66 _Error 418_ (Regional)
 1. #93 _Kebabs_ (Regional)
 
-#### 2014-2015
+### 2014-2015
 
 1. #12 _Bitshifters Open_ (Regional)
 
-#### 2015-2016
+### 2015-2016
 
 1. #26 _Bitshifters_ (Regional)
 1. #36 _IndexOutOfBounds_ (Regional)
@@ -99,7 +97,7 @@
 1. #107 _TheFeelTrain_ (Clasificatorio)
 1. #108 _javapointers_ (Clasificatorio)
 
-#### 2016-2017
+### 2016-2017
 
 1. #27 _The Feel Train_ (Regional)
 1. #33 _Kebabs_ (Regional)
@@ -112,7 +110,7 @@
 1. #121 _Syntax Error_ (Clasificatorio)
 1. #121 _kdump_ (Clasificatorio)
 
-#### 2017-2018
+### 2017-2018
 
 1. #27 _The Feel Train_ (Regional)
 1. #46 _Kygerand_ (Regional)
@@ -124,7 +122,7 @@
 1. #171 _Glorious Kebabs_ (Clasificatorio)
 1. #209 _Your Socialist Hacker_ (Clasificatorio)
 
-#### 2018-2019
+### 2018-2019
 
 1. #22 _Kygerand_ (Regional)
 1. #41 _Rebel Coders_ (Regional)
@@ -137,7 +135,7 @@
 1. #157 _NullSoft_ (Clasificatorio)
 1. #395 _CodeChallengers_ (Clasificatorio)
 
-#### 2019-2020
+### 2019-2020
 
 1. #28 _Kygerand_ (Regional)
 1. #52 _The girls have no name_ (Regional)
@@ -150,7 +148,7 @@
 1. #182 _Yippee ki-yay mother coders_ (Clasificatorio)
 1. #185 _Codebusters_ (Clasificatorio)
 
-#### 2020-2021
+### 2020-2021
 
 1. #46 _Pitones 2.7_ (Regional)
 1. #72 _root@scramblers_ (Clasificatorio)
@@ -159,7 +157,7 @@
 1. #262 _Salsa5_ (Clasificatorio)
 1. #292 _helloGoodByte_ (Clasificatorio)
 
-#### 2021-2022
+### 2021-2022
 
 1. #22 _F TLE_ (Regional)
 1. #96 _O(Nice)_ (Clasificatorio)
@@ -170,7 +168,7 @@
 1. #216 _GCoders_ (Clasificatorio)
 1. #226 _Pandas de fuego_ (Clasificatorio)
 
-#### 2022-2023
+### 2022-2023
 
 1. #28 _F TLE_ (Regional)
 1. #159 _Debuggers_ (Clasificatorio)
@@ -187,7 +185,7 @@
 1. #382 _Código con chanfle_ (Clasificatorio)
 1. #382 _Mexiware_ (Clasificatorio)
 
-#### 2023-2024
+### 2023-2024
 
 1. #40 _súbditos de sommerville_ (Clasificatorio)
 1. #77 _pi/3_ (Clasificatorio)
@@ -202,7 +200,6 @@
 1. #227 _Mango_ (Clasificatorio)
 1. #248 _C3P0_ICPC_ (Clasificatorio)
 1. #260 _Last minute_ (Clasificatorio)
-
 
 
 

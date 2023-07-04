@@ -30,16 +30,14 @@
 | 2022-2023 | 0 | 0 | 4 | 4 |
 | 2023-2024 | 0 | 0 | 5 | 5 |
 
-### Detalle
-
-#### 2017-2018
+### 2017-2018
 
 1. #305 _CU-COSTA_ (Clasificatorio)
 1. #382 _Telematicos_ (Clasificatorio)
 1. #405 _MEBUPO_ (Clasificatorio)
 1. #405 _OCTAVO_ (Clasificatorio)
 
-#### 2018-2019
+### 2018-2019
 
 1. #80 _COSTA4_ (Regional)
 1. #249 _COSTA2_ (Clasificatorio)
@@ -48,7 +46,7 @@
 1. #358 _COSTA3_ (Clasificatorio)
 1. #394 _COSTA6_ (Clasificatorio)
 
-#### 2019-2020
+### 2019-2020
 
 1. #202 _COSTA8_ (Clasificatorio)
 1. #205 _Ya nos vamos_ (Clasificatorio)
@@ -57,33 +55,32 @@
 1. #382 _COSTA9_ (Clasificatorio)
 1. #382 _Por la anecdota_ (Clasificatorio)
 
-#### 2020-2021
+### 2020-2021
 
 1. #351 _Club Penguin_ (Clasificatorio)
 1. #351 _CoronaInges_ (Clasificatorio)
 1. #351 _ErrorLinea12_ (Clasificatorio)
 1. #351 _JavaSharp_ (Clasificatorio)
 
-#### 2021-2022
+### 2021-2022
 
 1. #226 _BRONTOBYTE_ (Clasificatorio)
 1. #226 _SOFTWARELA_ (Clasificatorio)
 
-#### 2022-2023
+### 2022-2023
 
 1. #382 _CLM_ (Clasificatorio)
 1. #382 _Dream Team_ (Clasificatorio)
 1. #382 _HTTPS_ (Clasificatorio)
 1. #382 _Los "Hola Mundo";_ (Clasificatorio)
 
-#### 2023-2024
+### 2023-2024
 
 1. #264 _Barrio Estación_ (Clasificatorio)
 1. #274 _California Boys_ (Clasificatorio)
 1. #283 _Los Ezqui_ (Clasificatorio)
 1. #287 _Tsurus Apocalípticos_ (Clasificatorio)
 1. #289 _MAC-TEL_ (Clasificatorio)
-
 
 
 

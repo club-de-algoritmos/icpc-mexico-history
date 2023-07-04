@@ -27,9 +27,7 @@
 | 2021-2022 | 0 | 0 | 5 | 5 |
 | 2022-2023 | 0 | 0 | 3 | 3 |
 
-### Detalle
-
-#### 2019-2020
+### 2019-2020
 
 1. #382 (#98 de TecNM) _CIO-ITESA_ (Clasificatorio)
 1. #382 (#98 de TecNM) _FOM-ITESA_ (Clasificatorio)
@@ -43,13 +41,13 @@
 1. #382 (#98 de TecNM) _TeamBlue_ (Clasificatorio)
 1. #382 (#98 de TecNM) _Troyanos_ (Clasificatorio)
 
-#### 2020-2021
+### 2020-2021
 
 1. #351 (#65 de TecNM) _EquipoITESA_ (Clasificatorio)
 1. #351 (#65 de TecNM) _Lagarto 2020_ (Clasificatorio)
 1. #351 (#65 de TecNM) _Los grasitos_ (Clasificatorio)
 
-#### 2021-2022
+### 2021-2022
 
 1. #226 (#36 de TecNM) _Code Evolution_ (Clasificatorio)
 1. #226 (#36 de TecNM) _Equipo ITESA_ (Clasificatorio)
@@ -57,12 +55,11 @@
 1. #226 (#36 de TecNM) _Los Leopoldos_ (Clasificatorio)
 1. #226 (#36 de TecNM) _MasterHelloWorld - Remastered_ (Clasificatorio)
 
-#### 2022-2023
+### 2022-2023
 
 1. #382 (#82 de TecNM) _Equipo ITESA_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Los Big-O_ (Clasificatorio)
 1. #382 (#82 de TecNM) _MasterHelloWorld! - Remastered_ (Clasificatorio)
-
 
 
 

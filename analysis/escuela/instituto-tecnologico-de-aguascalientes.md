@@ -21,22 +21,19 @@
 | 2019-2020 | 0 | 0 | 3 | 3 |
 | 2020-2021 | 0 | 0 | 1 | 1 |
 
-### Detalle
-
-#### 2013-2014
+### 2013-2014
 
 1. #94 (#23 de TecNM) _Encoded_ (Regional)
 
-#### 2019-2020
+### 2019-2020
 
 1. #382 (#98 de TecNM) _DVS_ (Clasificatorio)
 1. #382 (#98 de TecNM) _Discípulos de Ponce_ (Clasificatorio)
 1. #382 (#98 de TecNM) _GC: Geek Code_ (Clasificatorio)
 
-#### 2020-2021
+### 2020-2021
 
 1. #351 (#65 de TecNM) _Java for Rookies_ (Clasificatorio)
-
 
 
 

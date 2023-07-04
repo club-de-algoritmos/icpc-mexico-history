@@ -26,15 +26,13 @@
 | 2020-2021 | 0 | 0 | 10 | 10 |
 | 2022-2023 | 0 | 0 | 13 | 13 |
 
-### Detalle
-
-#### 2019-2020
+### 2019-2020
 
 1. #382 (#98 de TecNM) _Code-Guy's_ (Clasificatorio)
 1. #382 (#98 de TecNM) _TPDC_ (Clasificatorio)
 1. #382 (#98 de TecNM) _ldbl_ (Clasificatorio)
 
-#### 2020-2021
+### 2020-2021
 
 1. #351 (#65 de TecNM) _Archetype_ (Clasificatorio)
 1. #351 (#65 de TecNM) _Correcaminos ITSPP 1_ (Clasificatorio)
@@ -47,7 +45,7 @@
 1. #351 (#65 de TecNM) _TEEN'S TEC_ (Clasificatorio)
 1. #351 (#65 de TecNM) _X Force_ (Clasificatorio)
 
-#### 2022-2023
+### 2022-2023
 
 1. #382 (#82 de TecNM) _3 RANCHOS_ (Clasificatorio)
 1. #382 (#82 de TecNM) _BACKSTREET BOYS_ (Clasificatorio)
@@ -62,7 +60,6 @@
 1. #382 (#82 de TecNM) _No sabemos_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Shasadia_ (Clasificatorio)
 1. #382 (#82 de TecNM) _UMIZUMI_ (Clasificatorio)
-
 
 
 

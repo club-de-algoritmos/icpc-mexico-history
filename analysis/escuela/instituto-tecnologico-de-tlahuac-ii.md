@@ -18,15 +18,12 @@
 | **Total** | **0** | **0** | **4** | **4** |
 | 2019-2020 | 0 | 0 | 4 | 4 |
 
-### Detalle
-
-#### 2019-2020
+### 2019-2020
 
 1. #382 (#98 de TecNM) _C++ Turbo_ (Clasificatorio)
 1. #382 (#98 de TecNM) _MEMORIA RAM_ (Clasificatorio)
 1. #382 (#98 de TecNM) _PROCESADORES_ (Clasificatorio)
 1. #382 (#98 de TecNM) _TARJETA MADRE_ (Clasificatorio)
-
 
 
 

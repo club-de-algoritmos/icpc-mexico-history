@@ -27,19 +27,17 @@
 | 2021-2022 | 0 | 0 | 9 | 9 |
 | 2022-2023 | 0 | 0 | 8 | 8 |
 
-### Detalle
-
-#### 2019-2020
+### 2019-2020
 
 1. #123 (#15 de TecNM) _ITSAHackers_ (Clasificatorio)
 1. #218 (#35 de TecNM) _Sick Programmation_ (Clasificatorio)
 
-#### 2020-2021
+### 2020-2021
 
 1. #196 (#22 de TecNM) _ITSAHACKERS.JR_ (Clasificatorio)
 1. #351 (#65 de TecNM) _TOROS TEC_ (Clasificatorio)
 
-#### 2021-2022
+### 2021-2022
 
 1. #226 (#36 de TecNM) _Código sin limites_ (Clasificatorio)
 1. #226 (#36 de TecNM) _INFINITY ENGINEERS_ (Clasificatorio)
@@ -51,7 +49,7 @@
 1. #226 (#36 de TecNM) _Toros TEC_ (Clasificatorio)
 1. #226 (#36 de TecNM) _VD TEAM_ (Clasificatorio)
 
-#### 2022-2023
+### 2022-2023
 
 1. #382 (#82 de TecNM) _GPJ TEAM_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Los Belicosos_ (Clasificatorio)
@@ -61,7 +59,6 @@
 1. #382 (#82 de TecNM) _Sistemac_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Snapdragon_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Thot_ (Clasificatorio)
-
 
 
 

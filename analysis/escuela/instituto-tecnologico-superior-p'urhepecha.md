@@ -26,29 +26,26 @@
 | 2013-2014 | 0 | 3 | 0 | 3 |
 | 2020-2021 | 0 | 0 | 2 | 2 |
 
-### Detalle
-
-#### 2011-2012
+### 2011-2012
 
 1. #104 (#33 de TecNM) _Antrax_ (Regional)
 1. #104 (#33 de TecNM) _Back Track_ (Regional)
 
-#### 2012-2013
+### 2012-2013
 
 1. #134 (#53 de TecNM) _alfa_ (Regional)
 1. #134 (#53 de TecNM) _beta_ (Regional)
 
-#### 2013-2014
+### 2013-2014
 
 1. #95 (#24 de TecNM) _CRUX_ (Regional)
 1. #95 (#24 de TecNM) _Kaus_ (Regional)
 1. #95 (#24 de TecNM) _POLARIS_ (Regional)
 
-#### 2020-2021
+### 2020-2021
 
 1. #351 (#65 de TecNM) _keri_1_ (Clasificatorio)
 1. #351 (#65 de TecNM) _keri_2_ (Clasificatorio)
-
 
 
 

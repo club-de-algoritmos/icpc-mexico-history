@@ -18,17 +18,14 @@
 | 2008-2009 | 0 | 2 | 0 | 2 |
 | 2010-2011 | 0 | 1 | 0 | 1 |
 
-### Detalle
-
-#### 2008-2009
+### 2008-2009
 
 1. #101 _Utj Application_ (Regional)
 1. #101 _Utj vespertino_ (Regional)
 
-#### 2010-2011
+### 2010-2011
 
 1. #156 _Omega_ (Regional)
-
 
 
 

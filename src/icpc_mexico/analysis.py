@@ -260,10 +260,9 @@ class Analyzer:
                 with markdown.section('Participaciones'):
                     self._print_participation_stats(markdown, title='Resumen', school=school, skip_empty=True)
 
-                    with markdown.section('Detalle'):
-                        for season in self._queries.contest_seasons:
-                            season_teams = [team for team in season.teams if team.school == school]
-                            self._print_simple_ranking(season.name, season_teams, markdown, display_school=False)
+                    for season in self._queries.contest_seasons:
+                        season_teams = [team for team in season.teams if team.school == school]
+                        self._print_simple_ranking(season.name, season_teams, markdown, display_school=False)
 
     def _print_detailed_ranking(self,
                                 title: str,

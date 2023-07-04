@@ -29,37 +29,34 @@
 | 2005-2006 | 0 | 2 | 0 | 2 |
 | 2006-2007 | 0 | 3 | 0 | 3 |
 
-### Detalle
-
-#### 2001-2002
+### 2001-2002
 
 1. #21 _Los hijos del mouse_ (Regional)
 
-#### 2002-2003
+### 2002-2003
 
 1. #5 _C0D3RZ_ (Regional)
 
-#### 2003-2004
+### 2003-2004
 
 1. #10 _C0D3RZ overflow_ (Regional)
 1. #41 _Ingeniería_ (Regional)
 
-#### 2004-2005
+### 2004-2005
 
 1. #4 _C0D3RZ do not dance!_ (Regional)
 1. #42 _Pucca_ (Regional)
 
-#### 2005-2006
+### 2005-2006
 
 1. #15 _Los +acuatas_ (Regional)
 1. #85 _Sinalouwa_ (Regional)
 
-#### 2006-2007
+### 2006-2007
 
 1. #17 _Time Limit Exceeded_ (Regional)
 1. #85 _Output Limit Exceeded_ (Regional)
 1. #85 _Runtime Error_ (Regional)
-
 
 
 

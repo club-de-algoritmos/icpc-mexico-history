@@ -27,22 +27,20 @@
 | 2022-2023 | 0 | 0 | 12 | 12 |
 | 2023-2024 | 0 | 0 | 6 | 6 |
 
-### Detalle
-
-#### 2019-2020
+### 2019-2020
 
 1. #382 (#98 de TecNM) _DDR3_ (Clasificatorio)
 1. #382 (#98 de TecNM) _LIMITLESS_ (Clasificatorio)
 1. #382 (#98 de TecNM) _NullPointer_ (Clasificatorio)
 
-#### 2021-2022
+### 2021-2022
 
 1. #226 (#36 de TecNM) _Code Testers_ (Clasificatorio)
 1. #226 (#36 de TecNM) _SIA Inceptor_ (Clasificatorio)
 1. #226 (#36 de TecNM) _Sintax Error_ (Clasificatorio)
 1. #226 (#36 de TecNM) _Totitos_ (Clasificatorio)
 
-#### 2022-2023
+### 2022-2023
 
 1. #274 (#49 de TecNM) _Syntax Error_ (Clasificatorio)
 1. #306 (#56 de TecNM) _Objetivos Sistemáticos_ (Clasificatorio)
@@ -57,7 +55,7 @@
 1. #382 (#82 de TecNM) _Programación Básica_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Return  0_ (Clasificatorio)
 
-#### 2023-2024
+### 2023-2024
 
 1. #312 (#67 de TecNM) _LuciaFernandas_ (Clasificatorio)
 1. #450 (#129 de TecNM) _LosCAC_ (Clasificatorio)
@@ -65,7 +63,6 @@
 1. #452 (#131 de TecNM) _Real Programes _ (Clasificatorio)
 1. #453 (#132 de TecNM) _ProgramaTec_ (Clasificatorio)
 1. #454 (#133 de TecNM) _Los Pixies_ (Clasificatorio)
-
 
 
 

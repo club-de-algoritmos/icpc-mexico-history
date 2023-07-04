@@ -23,9 +23,7 @@
 | **Total** | **0** | **0** | **9** | **9** |
 | 2019-2020 | 0 | 0 | 9 | 9 |
 
-### Detalle
-
-#### 2019-2020
+### 2019-2020
 
 1. #382 (#98 de TecNM) _Arbeiten_ (Clasificatorio)
 1. #382 (#98 de TecNM) _DESARROLLADORES IMPERIO AZTECA_ (Clasificatorio)
@@ -36,7 +34,6 @@
 1. #382 (#98 de TecNM) _Programadores Junior_ (Clasificatorio)
 1. #382 (#98 de TecNM) _Umbrella_ (Clasificatorio)
 1. #382 (#98 de TecNM) _ZUSEAN_ (Clasificatorio)
-
 
 
 

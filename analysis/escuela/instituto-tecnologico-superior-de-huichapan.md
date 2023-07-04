@@ -27,9 +27,7 @@
 | 2021-2022 | 0 | 0 | 6 | 6 |
 | 2022-2023 | 0 | 0 | 41 | 41 |
 
-### Detalle
-
-#### 2019-2020
+### 2019-2020
 
 1. #382 (#98 de TecNM) _CIIA_ (Clasificatorio)
 1. #382 (#98 de TecNM) _Clan Lan_ (Clasificatorio)
@@ -47,7 +45,7 @@
 1. #382 (#98 de TecNM) _Troyanos007_ (Clasificatorio)
 1. #382 (#98 de TecNM) _Trío de oro_ (Clasificatorio)
 
-#### 2020-2021
+### 2020-2021
 
 1. #351 (#65 de TecNM) _Clan Lan_ (Clasificatorio)
 1. #351 (#65 de TecNM) _El tridente_ (Clasificatorio)
@@ -57,7 +55,7 @@
 1. #351 (#65 de TecNM) _SantiagoySuGrupoIlusion_ (Clasificatorio)
 1. #351 (#65 de TecNM) _Trikis_ (Clasificatorio)
 
-#### 2021-2022
+### 2021-2022
 
 1. #226 (#36 de TecNM) _All For One _ (Clasificatorio)
 1. #226 (#36 de TecNM) _Clan Lan_ (Clasificatorio)
@@ -66,7 +64,7 @@
 1. #226 (#36 de TecNM) _Nebula89_ (Clasificatorio)
 1. #226 (#36 de TecNM) _ROCKETISC_ (Clasificatorio)
 
-#### 2022-2023
+### 2022-2023
 
 1. #382 (#82 de TecNM) _6TRAYANOS_ (Clasificatorio)
 1. #382 (#82 de TecNM) _AKOKITSA_ (Clasificatorio)
@@ -109,7 +107,6 @@
 1. #382 (#82 de TecNM) _Scrums_ (Clasificatorio)
 1. #382 (#82 de TecNM) _TORTA DE TAMAL_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Tacitas de Café_ (Clasificatorio)
-
 
 
 

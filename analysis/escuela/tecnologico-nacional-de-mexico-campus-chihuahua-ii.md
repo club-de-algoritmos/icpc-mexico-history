@@ -15,12 +15,9 @@
 | **Total** | **0** | **0** | **1** | **1** |
 | 2020-2021 | 0 | 0 | 1 | 1 |
 
-### Detalle
-
-#### 2020-2021
+### 2020-2021
 
 1. #351 (#65 de TecNM) _Tecnm_ChihII_equipo1_ (Clasificatorio)
-
 
 
 

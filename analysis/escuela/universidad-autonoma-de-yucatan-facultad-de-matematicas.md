@@ -19,20 +19,17 @@
 | 2020-2021 | 0 | 0 | 1 | 1 |
 | 2023-2024 | 0 | 0 | 1 | 1 |
 
-### Detalle
-
-#### 2019-2020
+### 2019-2020
 
 1. #174 _Aj Compleja_ (Clasificatorio)
 
-#### 2020-2021
+### 2020-2021
 
 1. #351 _koders_ (Clasificatorio)
 
-#### 2023-2024
+### 2023-2024
 
 1. #326 _NullPointer_ (Clasificatorio)
-
 
 
 

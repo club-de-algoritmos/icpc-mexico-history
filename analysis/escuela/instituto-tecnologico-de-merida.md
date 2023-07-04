@@ -20,19 +20,16 @@
 | 2019-2020 | 0 | 0 | 4 | 4 |
 | 2021-2022 | 0 | 0 | 1 | 1 |
 
-### Detalle
-
-#### 2019-2020
+### 2019-2020
 
 1. #382 (#98 de TecNM) _404NotFound_ (Clasificatorio)
 1. #382 (#98 de TecNM) _A.s.m._ (Clasificatorio)
 1. #382 (#98 de TecNM) _dinamita_ (Clasificatorio)
 1. #382 (#98 de TecNM) _type_null_ (Clasificatorio)
 
-#### 2021-2022
+### 2021-2022
 
 1. #226 (#36 de TecNM) _OMEN_ (Clasificatorio)
-
 
 
 

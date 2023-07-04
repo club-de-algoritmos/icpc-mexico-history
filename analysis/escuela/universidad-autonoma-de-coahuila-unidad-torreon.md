@@ -21,22 +21,19 @@
 | 2018-2019 | 0 | 0 | 2 | 2 |
 | 2019-2020 | 0 | 0 | 1 | 1 |
 
-### Detalle
-
-#### 2017-2018
+### 2017-2018
 
 1. #150 _Procoders_ (Clasificatorio)
 1. #253 _TICIIS_ (Clasificatorio)
 
-#### 2018-2019
+### 2018-2019
 
 1. #131 _Procoders_ (Clasificatorio)
 1. #132 _TICIIS_ (Clasificatorio)
 
-#### 2019-2020
+### 2019-2020
 
 1. #382 _tics.RAR_ (Clasificatorio)
-
 
 
 

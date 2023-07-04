@@ -28,9 +28,7 @@
 | 2022-2023 | 0 | 0 | 8 | 8 |
 | 2023-2024 | 0 | 0 | 1 | 1 |
 
-### Detalle
-
-#### 2019-2020
+### 2019-2020
 
 1. #382 (#98 de TecNM) _2+1_ (Clasificatorio)
 1. #382 (#98 de TecNM) _3BT_ (Clasificatorio)
@@ -42,15 +40,15 @@
 1. #382 (#98 de TecNM) _NERV_ (Clasificatorio)
 1. #382 (#98 de TecNM) _SUMARI_ (Clasificatorio)
 
-#### 2020-2021
+### 2020-2021
 
 1. #351 (#65 de TecNM) _TecJrz++_ (Clasificatorio)
 
-#### 2021-2022
+### 2021-2022
 
 1. #226 (#36 de TecNM) _ITCJC2_ (Clasificatorio)
 
-#### 2022-2023
+### 2022-2023
 
 1. #178 (#31 de TecNM) _TecnoTeam_ (Clasificatorio)
 1. #382 (#82 de TecNM) _ALA_ (Clasificatorio)
@@ -61,10 +59,9 @@
 1. #382 (#82 de TecNM) _Red Unida_ (Clasificatorio)
 1. #382 (#82 de TecNM) _TPK_ (Clasificatorio)
 
-#### 2023-2024
+### 2023-2024
 
 1. #444 (#123 de TecNM) _Código Chihuahuense_ (Clasificatorio)
-
 
 
 

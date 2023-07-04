@@ -28,15 +28,13 @@
 | 2019-2020 | 0 | 2 | 3 | 3 |
 | 2020-2021 | 0 | 1 | 1 | 1 |
 
-### Detalle
-
-#### 2016-2017
+### 2016-2017
 
 1. #9 _Wolves_ (Regional)
 1. #68 _Penguins_ (Regional)
 1. #115 _Los tres jinetes_ (Clasificatorio)
 
-#### 2017-2018
+### 2017-2018
 
 1. #15 _Wolves_ (Regional)
 1. #22 _Los tres jinetes_ (Regional)
@@ -47,7 +45,7 @@
 1. #405 _Team C++_ (Clasificatorio)
 1. #405 _The dark (and strange) side_ (Clasificatorio)
 
-#### 2018-2019
+### 2018-2019
 
 1. #29 _Wolves_ (Regional)
 1. #31 _Los tres jinetes_ (Regional)
@@ -61,16 +59,15 @@
 1. #371 _Escuadron 201_ (Clasificatorio)
 1. #394 _Los Contendientes_ (Clasificatorio)
 
-#### 2019-2020
+### 2019-2020
 
 1. #10 _Wolves_ (Regional)
 1. #36 _Los Tres Jinetes_ (Regional)
 1. #110 _Sistemos_ (Clasificatorio)
 
-#### 2020-2021
+### 2020-2021
 
 1. #21 _Wolves_ (Regional)
-
 
 
 

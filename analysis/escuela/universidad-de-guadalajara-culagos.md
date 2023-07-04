@@ -17,14 +17,11 @@
 | **Total** | **0** | **0** | **3** | **3** |
 | 2018-2019 | 0 | 0 | 3 | 3 |
 
-### Detalle
-
-#### 2018-2019
+### 2018-2019
 
 1. #216 _Linces_ (Clasificatorio)
 1. #385 _Smart Code_ (Clasificatorio)
 1. #394 _Los Eskutia_ (Clasificatorio)
-
 
 
 

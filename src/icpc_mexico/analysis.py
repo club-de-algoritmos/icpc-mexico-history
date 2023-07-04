@@ -73,9 +73,11 @@ class Analyzer:
                                    skip_empty: bool = False,
                                    ) -> None:
         participations_table = []
-        totals = [0, 0, 0, 0]
+        totals = [0, 0, 0, 0, 0]
+        all_schools: Set[str] = set()
         for season in self._queries.contest_seasons:
-            stats = [0, 0, 0, 0]
+            stats = [0, 0, 0, 0, 0]
+            season_schools: Set[str] = set()
             for team in season.teams:
                 if not team.school or team.school.country != MEXICO:
                     continue
@@ -93,7 +95,10 @@ class Analyzer:
                 if team.qualifier_result:
                     stats[2] += 1
                 stats[3] += 1
+                season_schools.add(team.school.name)
+                all_schools.add(team.school.name)
 
+            stats[4] = len(season_schools)
             if skip_empty and sum(stats) == 0:
                 continue
 
@@ -102,11 +107,18 @@ class Analyzer:
 
             participations_table.append([season.name] + list(map(str, stats)))
 
+        totals[4] = len(all_schools)
         participations_table.insert(0, ['**Total**'] + [f'**{total}**' for total in totals])
 
+        headers = ['Temporada', 'Finales mundiales', 'Regionales', 'Clasificatorios', 'Equipos', 'Escuelas']
+        if school:
+            # Drop the school counts because there is only one school
+            headers.pop()
+            for participation in participations_table:
+                participation.pop()
+
         with markdown.section(title):
-            markdown.table(['Temporada', 'Finales mundiales', 'Regionales', 'Clasificatorios', 'Total'],
-                           participations_table)
+            markdown.table(headers, participations_table)
 
     def _print_school_rankings(self,
                                markdown: Markdown,

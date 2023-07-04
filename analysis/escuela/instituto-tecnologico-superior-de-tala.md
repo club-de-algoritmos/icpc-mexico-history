@@ -12,12 +12,12 @@
 
 ### 2017-2018
 
-- #405 (#97 de TecNM) _Los Spartans_ (Clasificatorio)
+1. #405 (#97 de TecNM) _Los Spartans_ (Clasificatorio)
 
 ### 2019-2020
 
-- #382 (#98 de TecNM) _NapKings_ (Clasificatorio)
-- #382 (#98 de TecNM) _epabbcomprechispitas_ (Clasificatorio)
+1. #382 (#98 de TecNM) _NapKings_ (Clasificatorio)
+1. #382 (#98 de TecNM) _epabbcomprechispitas_ (Clasificatorio)
 
 
 

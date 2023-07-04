@@ -12,12 +12,12 @@
 
 ### 2008-2009
 
-- #101 _Utj Application_ (Regional)
-- #101 _Utj vespertino_ (Regional)
+1. #101 _Utj Application_ (Regional)
+1. #101 _Utj vespertino_ (Regional)
 
 ### 2010-2011
 
-- #156 _Omega_ (Regional)
+1. #156 _Omega_ (Regional)
 
 
 

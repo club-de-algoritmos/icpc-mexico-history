@@ -11,11 +11,11 @@
 
 ### 2010-2011
 
-- #27 _Nomen nescio_ (Regional)
+1. #27 _Nomen nescio_ (Regional)
 
 ### 2012-2013
 
-- #42 _aguascalientitos_ (Regional)
+1. #42 _aguascalientitos_ (Regional)
 
 
 

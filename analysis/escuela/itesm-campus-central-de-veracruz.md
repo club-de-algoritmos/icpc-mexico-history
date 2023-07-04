@@ -18,27 +18,27 @@
 
 ### 2001-2002
 
-- #55 _Los Niguas_ (Regional)
+1. #55 _Los Niguas_ (Regional)
 
 ### 2002-2003
 
-- #27 _Los Booleanos_ (Regional)
-- #27 _Tina Co._ (Regional)
+1. #27 _Los Booleanos_ (Regional)
+1. #27 _Tina Co._ (Regional)
 
 ### 2004-2005
 
-- #21 _booleanos_ (Regional)
-- #50 _Tinquin in LLaBA_ (Regional)
+1. #21 _booleanos_ (Regional)
+1. #50 _Tinquin in LLaBA_ (Regional)
 
 ### 2005-2006
 
-- #85 _Null name exception_ (Regional)
-- #85 _Tinquin in llaba tim_ (Regional)
+1. #85 _Null name exception_ (Regional)
+1. #85 _Tinquin in llaba tim_ (Regional)
 
 ### 2010-2011
 
-- #77 _CCV DP_ (Regional)
-- #148 _CCV TTLS_ (Regional)
+1. #77 _CCV DP_ (Regional)
+1. #148 _CCV TTLS_ (Regional)
 
 
 

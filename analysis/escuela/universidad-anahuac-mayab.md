@@ -13,19 +13,19 @@
 
 ### 2017-2018
 
-- #41 _Lions_ (Regional)
+1. #41 _Lions_ (Regional)
 
 ### 2018-2019
 
-- #161 _#include <BAD>_ (Clasificatorio)
+1. #161 _#include <BAD>_ (Clasificatorio)
 
 ### 2019-2020
 
-- #49 _Chichén <int> zá_ (Regional)
+1. #49 _Chichén <int> zá_ (Regional)
 
 ### 2020-2021
 
-- #126 _Chichén <int> zá_ (Clasificatorio)
+1. #126 _Chichén <int> zá_ (Clasificatorio)
 
 
 

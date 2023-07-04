@@ -11,8 +11,8 @@
 
 ### 2020-2021
 
-- #351 (#65 de TecNM) _AguilasIII_ (Clasificatorio)
-- #351 (#65 de TecNM) _The Players_ (Clasificatorio)
+1. #351 (#65 de TecNM) _AguilasIII_ (Clasificatorio)
+1. #351 (#65 de TecNM) _The Players_ (Clasificatorio)
 
 
 

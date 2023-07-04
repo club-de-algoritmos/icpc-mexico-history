@@ -14,14 +14,14 @@
 
 ### 2013-2014
 
-- #95 (#24 de TecNM) _3 Cell_ (Regional)
-- #95 (#24 de TecNM) _Lazy Boys_ (Regional)
-- #95 (#24 de TecNM) _Novatos_ (Regional)
-- #95 (#24 de TecNM) _Spartans_ (Regional)
+1. #95 (#24 de TecNM) _3 Cell_ (Regional)
+1. #95 (#24 de TecNM) _Lazy Boys_ (Regional)
+1. #95 (#24 de TecNM) _Novatos_ (Regional)
+1. #95 (#24 de TecNM) _Spartans_ (Regional)
 
 ### 2017-2018
 
-- #405 (#97 de TecNM) _ITESP-ArtLang_ (Clasificatorio)
+1. #405 (#97 de TecNM) _ITESP-ArtLang_ (Clasificatorio)
 
 
 

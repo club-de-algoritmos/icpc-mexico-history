@@ -19,36 +19,36 @@
 
 ### 2006-2007
 
-- #85 (#19 de TecNM) _Gorilas_ (Regional)
+1. #85 (#19 de TecNM) _Gorilas_ (Regional)
 
 ### 2007-2008
 
-- #61 (#15 de TecNM) _ITM_Gorilas1_ (Regional)
-- #61 (#15 de TecNM) _ITM_Gorilas2_ (Regional)
+1. #61 (#15 de TecNM) _ITM_Gorilas1_ (Regional)
+1. #61 (#15 de TecNM) _ITM_Gorilas2_ (Regional)
 
 ### 2018-2019
 
-- #395 (#159 de TecNM) _Dark knight’s_ (Clasificatorio)
-- #395 (#159 de TecNM) _IRSSALO_ (Clasificatorio)
-- #395 (#159 de TecNM) _Team Informatic_ (Clasificatorio)
-- #395 (#159 de TecNM) _The Winter_ (Clasificatorio)
-- #395 (#159 de TecNM) _√ELOALPHA_ (Clasificatorio)
+1. #395 (#159 de TecNM) _Dark knight’s_ (Clasificatorio)
+1. #395 (#159 de TecNM) _IRSSALO_ (Clasificatorio)
+1. #395 (#159 de TecNM) _Team Informatic_ (Clasificatorio)
+1. #395 (#159 de TecNM) _The Winter_ (Clasificatorio)
+1. #395 (#159 de TecNM) _√ELOALPHA_ (Clasificatorio)
 
 ### 2019-2020
 
-- #334 (#76 de TecNM) _Tacos++_ (Clasificatorio)
-- #382 (#98 de TecNM) _Hawks_ (Clasificatorio)
-- #382 (#98 de TecNM) _Los Fishados_ (Clasificatorio)
-- #382 (#98 de TecNM) _Televisa Presenta_ (Clasificatorio)
-- #382 (#98 de TecNM) _TheTokens_ (Clasificatorio)
+1. #334 (#76 de TecNM) _Tacos++_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Hawks_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Los Fishados_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Televisa Presenta_ (Clasificatorio)
+1. #382 (#98 de TecNM) _TheTokens_ (Clasificatorio)
 
 ### 2020-2021
 
-- #276 (#34 de TecNM) _#GoriBytes_ (Clasificatorio)
+1. #276 (#34 de TecNM) _#GoriBytes_ (Clasificatorio)
 
 ### 2021-2022
 
-- #226 (#36 de TecNM) _while gorilas:_ (Clasificatorio)
+1. #226 (#36 de TecNM) _while gorilas:_ (Clasificatorio)
 
 
 

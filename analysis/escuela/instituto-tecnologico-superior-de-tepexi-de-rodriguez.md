@@ -19,26 +19,26 @@
 
 ### 2019-2020
 
-- #382 (#98 de TecNM) _A.A.G_ (Clasificatorio)
-- #382 (#98 de TecNM) _Class_Leccion_ (Clasificatorio)
-- #382 (#98 de TecNM) _E.F.C_ (Clasificatorio)
-- #382 (#98 de TecNM) _ESCUADRON SISTEMAS_ (Clasificatorio)
-- #382 (#98 de TecNM) _J.A.E_ (Clasificatorio)
-- #382 (#98 de TecNM) _Procod_ (Clasificatorio)
-- #382 (#98 de TecNM) _RAF_ (Clasificatorio)
-- #382 (#98 de TecNM) _TLITCOALTL_ (Clasificatorio)
+1. #382 (#98 de TecNM) _A.A.G_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Class_Leccion_ (Clasificatorio)
+1. #382 (#98 de TecNM) _E.F.C_ (Clasificatorio)
+1. #382 (#98 de TecNM) _ESCUADRON SISTEMAS_ (Clasificatorio)
+1. #382 (#98 de TecNM) _J.A.E_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Procod_ (Clasificatorio)
+1. #382 (#98 de TecNM) _RAF_ (Clasificatorio)
+1. #382 (#98 de TecNM) _TLITCOALTL_ (Clasificatorio)
 
 ### 2020-2021
 
-- #351 (#65 de TecNM) _ISCRaptors_ (Clasificatorio)
+1. #351 (#65 de TecNM) _ISCRaptors_ (Clasificatorio)
 
 ### 2021-2022
 
-- #226 (#36 de TecNM) _SHERPA_ (Clasificatorio)
+1. #226 (#36 de TecNM) _SHERPA_ (Clasificatorio)
 
 ### 2022-2023
 
-- #382 (#82 de TecNM) _CGA TEAM_ (Clasificatorio)
+1. #382 (#82 de TecNM) _CGA TEAM_ (Clasificatorio)
 
 
 

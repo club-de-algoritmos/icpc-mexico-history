@@ -10,7 +10,7 @@
 
 ### 2003-2004
 
-- #9 _Deth-Therion_ (Regional)
+1. #9 _Deth-Therion_ (Regional)
 
 
 

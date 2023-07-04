@@ -12,9 +12,9 @@
 
 ### 2019-2020
 
-- #382 _CEBJY_ (Clasificatorio)
-- #382 _HalconesTesco_ (Clasificatorio)
-- #382 _Noble Team_ (Clasificatorio)
+1. #382 _CEBJY_ (Clasificatorio)
+1. #382 _HalconesTesco_ (Clasificatorio)
+1. #382 _Noble Team_ (Clasificatorio)
 
 
 

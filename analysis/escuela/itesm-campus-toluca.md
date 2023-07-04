@@ -19,69 +19,69 @@
 
 ### 2007-2008
 
-- #61 _Temerarios_ (Regional)
+1. #61 _Temerarios_ (Regional)
 
 ### 2008-2009
 
-- #96 _QueEquipo_ (Regional)
-- #101 _CualEquipo_ (Regional)
-- #101 _WhataTeam_ (Regional)
+1. #96 _QueEquipo_ (Regional)
+1. #101 _CualEquipo_ (Regional)
+1. #101 _WhataTeam_ (Regional)
 
 ### 2009-2010
 
-- #81 _Arigato_ (Regional)
-- #116 _QueEquipo_ (Regional)
+1. #81 _Arigato_ (Regional)
+1. #116 _QueEquipo_ (Regional)
 
 ### 2010-2011
 
-- #44 _TTTeam_ (Regional)
-- #156 _Blue Screen of Death_ (Regional)
+1. #44 _TTTeam_ (Regional)
+1. #156 _Blue Screen of Death_ (Regional)
 
 ### 2012-2013
 
-- #119 _losrivas_ (Regional)
-- #121 _losparces_ (Regional)
+1. #119 _losrivas_ (Regional)
+1. #121 _losparces_ (Regional)
 
 ### 2016-2017
 
-- #121 _ITESM TOLUCA_ (Clasificatorio)
+1. #121 _ITESM TOLUCA_ (Clasificatorio)
 
 ### 2017-2018
 
-- #88 _Googol_ (Clasificatorio)
-- #134 _ARM_ (Clasificatorio)
-- #210 _Abelord's Children_ (Clasificatorio)
-- #389 _ALB_ (Clasificatorio)
-- #405 _Madre mia Willy_ (Clasificatorio)
-- #405 _Trycatch_ (Clasificatorio)
+1. #88 _Googol_ (Clasificatorio)
+1. #134 _ARM_ (Clasificatorio)
+1. #210 _Abelord's Children_ (Clasificatorio)
+1. #389 _ALB_ (Clasificatorio)
+1. #405 _Madre mia Willy_ (Clasificatorio)
+1. #405 _Trycatch_ (Clasificatorio)
 
 ### 2020-2021
 
-- #250 _Minute Men_ (Clasificatorio)
-- #256 _Tinthas_ (Clasificatorio)
-- #306 _3xploit3rs_ (Clasificatorio)
+1. #250 _Minute Men_ (Clasificatorio)
+1. #256 _Tinthas_ (Clasificatorio)
+1. #306 _3xploit3rs_ (Clasificatorio)
 
 ### 2021-2022
 
-- #49 _BugHunterAddicts_ (Regional)
-- #126 _AjoloTechs_ (Clasificatorio)
-- #164 _!JTA_ (Clasificatorio)
-- #169 _Ranas Tácticas_ (Clasificatorio)
-- #226 _BlackDragons_ (Clasificatorio)
+1. #49 _BugHunterAddicts_ (Regional)
+1. #126 _AjoloTechs_ (Clasificatorio)
+1. #164 _!JTA_ (Clasificatorio)
+1. #169 _Ranas Tácticas_ (Clasificatorio)
+1. #226 _BlackDragons_ (Clasificatorio)
 
 ### 2022-2023
 
-- #94 _Lxs Pixies_ (Clasificatorio)
-- #223 _Los Tlacuaches de Turín_ (Clasificatorio)
-- #244 _Siuuu++_ (Clasificatorio)
-- #382 _BugHunterAddicts_ (Clasificatorio)
-- #382 _Codin' Cave_ (Clasificatorio)
+1. #94 _Lxs Pixies_ (Clasificatorio)
+1. #223 _Los Tlacuaches de Turín_ (Clasificatorio)
+1. #244 _Siuuu++_ (Clasificatorio)
+1. #382 _BugHunterAddicts_ (Clasificatorio)
+1. #382 _Codin' Cave_ (Clasificatorio)
 
 ### 2023-2024
 
-- #60 _Siuuu++_ (Clasificatorio)
-- #93 _Los Tlacuaches de Turín_ (Clasificatorio)
-- #171 _Lxs Pixies_ (Clasificatorio)
+1. #60 _Siuuu++_ (Clasificatorio)
+1. #93 _Los Tlacuaches de Turín_ (Clasificatorio)
+1. #171 _Lxs Pixies_ (Clasificatorio)
 
 
 

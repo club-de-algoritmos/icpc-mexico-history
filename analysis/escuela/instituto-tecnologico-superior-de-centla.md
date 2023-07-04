@@ -12,12 +12,12 @@
 
 ### 2005-2006
 
-- #85 (#11 de TecNM) _ITSCe_ (Regional)
-- #85 (#11 de TecNM) _ITSCe2_ (Regional)
+1. #85 (#11 de TecNM) _ITSCe_ (Regional)
+1. #85 (#11 de TecNM) _ITSCe2_ (Regional)
 
 ### 2022-2023
 
-- #382 (#82 de TecNM) _Digital ITSCe2_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Digital ITSCe2_ (Clasificatorio)
 
 
 

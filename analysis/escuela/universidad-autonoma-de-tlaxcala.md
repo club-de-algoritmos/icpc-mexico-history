@@ -20,133 +20,134 @@
 
 ### 2002-2003
 
-- #15 _Smart Survivors_ (Regional)
-- #27 _Mapaches_ (Regional)
-- #27 _Programming Fury_ (Regional)
+1. #15 _Smart Survivors_ (Regional)
+1. #27 _Mapaches_ (Regional)
+1. #27 _Programming Fury_ (Regional)
 
 ### 2003-2004
 
-- #14 _Tlacuaches_ (Regional)
-- #41 _Los Rabales_ (Regional)
-- #41 _Smart Survivors_ (Regional)
+1. #14 _Tlacuaches_ (Regional)
+1. #41 _Los Rabales_ (Regional)
+1. #41 _Smart Survivors_ (Regional)
 
 ### 2004-2005
 
-- #19 _Los Rabales_ (Regional)
-- #20 _Survival Machines_ (Regional)
+1. #19 _Los Rabales_ (Regional)
+1. #20 _Survival Machines_ (Regional)
 
 ### 2005-2006
 
-- #82 _UAT The Tlaxcallan Kings_ (Final Mundial)
-- #65 _ragnarok_ (Regional)
+1. #2 _UAT The Tlaxcallan Kings_ (Regional)
+    - Avanzó a la final mundial y resolvió 0 problemas obtuviendo el lugar #82 (1%) en The 2006 ACM Programming Contest World Finals
+1. #65 _ragnarok_ (Regional)
 
 ### 2006-2007
 
-- #20 _C.java_ (Regional)
-- #85 _Encriptados_ (Regional)
-- #85 _Survival Machines_ (Regional)
+1. #20 _C.java_ (Regional)
+1. #85 _Encriptados_ (Regional)
+1. #85 _Survival Machines_ (Regional)
 
 ### 2007-2008
 
-- #24 _RAM_ (Regional)
-- #32 _Codec_ (Regional)
-- #61 _JAV''s_ (Regional)
-- #61 _Kiut_ (Regional)
+1. #24 _RAM_ (Regional)
+1. #32 _Codec_ (Regional)
+1. #61 _JAV''s_ (Regional)
+1. #61 _Kiut_ (Regional)
 
 ### 2008-2009
 
-- #27 _Mapaches UATx_ (Regional)
-- #77 _Omi's UATx_ (Regional)
-- #101 _ICC UATx_ (Regional)
+1. #27 _Mapaches UATx_ (Regional)
+1. #77 _Omi's UATx_ (Regional)
+1. #101 _ICC UATx_ (Regional)
 
 ### 2009-2010
 
-- #26 _Maze Minds_ (Regional)
-- #74 _Fire Code_ (Regional)
-- #116 _UAT-D.S. Corp._ (Regional)
+1. #26 _Maze Minds_ (Regional)
+1. #74 _Fire Code_ (Regional)
+1. #116 _UAT-D.S. Corp._ (Regional)
 
 ### 2010-2011
 
-- #104 _FIRE CODE_ (Regional)
-- #149 _ALU_ (Regional)
-- #156 _QLAN_ (Regional)
+1. #104 _FIRE CODE_ (Regional)
+1. #149 _ALU_ (Regional)
+1. #156 _QLAN_ (Regional)
 
 ### 2011-2012
 
-- #50 _AJM_ (Regional)
-- #104 _3L_ (Regional)
-- #104 _QLAN_ (Regional)
+1. #50 _AJM_ (Regional)
+1. #104 _3L_ (Regional)
+1. #104 _QLAN_ (Regional)
 
 ### 2012-2013
 
-- #43 _Vigorexia Total_ (Regional)
-- #68 _QLAN v2_ (Regional)
-- #95 _G++_ (Regional)
+1. #43 _Vigorexia Total_ (Regional)
+1. #68 _QLAN v2_ (Regional)
+1. #95 _G++_ (Regional)
 
 ### 2013-2014
 
-- #80 _AM JAI_ (Regional)
-- #95 _404-NotFound_ (Regional)
-- #95 _ACM1PT._ (Regional)
+1. #80 _AM JAI_ (Regional)
+1. #95 _404-NotFound_ (Regional)
+1. #95 _ACM1PT._ (Regional)
 
 ### 2015-2016
 
-- #108 _Do-for_ (Clasificatorio)
-- #108 _IEEA_ (Clasificatorio)
+1. #108 _Do-for_ (Clasificatorio)
+1. #108 _IEEA_ (Clasificatorio)
 
 ### 2016-2017
 
-- #121 _Cerbero_ (Clasificatorio)
-- #121 _DO-FOR_ (Clasificatorio)
-- #121 _IEEA_ (Clasificatorio)
-- #121 _NO-VATOS_ (Clasificatorio)
+1. #121 _Cerbero_ (Clasificatorio)
+1. #121 _DO-FOR_ (Clasificatorio)
+1. #121 _IEEA_ (Clasificatorio)
+1. #121 _NO-VATOS_ (Clasificatorio)
 
 ### 2017-2018
 
-- #168 _UAT_ (Clasificatorio)
-- #220 _RAM_ (Clasificatorio)
-- #268 _Los discípulos de Ernesto_ (Clasificatorio)
-- #376 _Los discípulos de Albores_ (Clasificatorio)
-- #387 _Hackerelite_ (Clasificatorio)
-- #399 _DO-FOR_ (Clasificatorio)
-- #405 _CAD_ (Clasificatorio)
-- #405 _DoFor_ (Clasificatorio)
-- #405 _LAIKANS_ (Clasificatorio)
-- #405 _LETYMON_ (Clasificatorio)
-- #405 _LORDS SEMPAI_ (Clasificatorio)
-- #405 _MAPACHES_ (Clasificatorio)
-- #405 _MG_ (Clasificatorio)
-- #405 _raccoons_ (Clasificatorio)
+1. #168 _UAT_ (Clasificatorio)
+1. #220 _RAM_ (Clasificatorio)
+1. #268 _Los discípulos de Ernesto_ (Clasificatorio)
+1. #376 _Los discípulos de Albores_ (Clasificatorio)
+1. #387 _Hackerelite_ (Clasificatorio)
+1. #399 _DO-FOR_ (Clasificatorio)
+1. #405 _CAD_ (Clasificatorio)
+1. #405 _DoFor_ (Clasificatorio)
+1. #405 _LAIKANS_ (Clasificatorio)
+1. #405 _LETYMON_ (Clasificatorio)
+1. #405 _LORDS SEMPAI_ (Clasificatorio)
+1. #405 _MAPACHES_ (Clasificatorio)
+1. #405 _MG_ (Clasificatorio)
+1. #405 _raccoons_ (Clasificatorio)
 
 ### 2018-2019
 
-- #394 _Cheese_ (Clasificatorio)
-- #394 _EL pro xD_ (Clasificatorio)
-- #394 _Equipo Dinamita Alfa Lobo_ (Clasificatorio)
-- #394 _Mapachitos + El pro_ (Clasificatorio)
-- #394 _Mapachitos UATx_ (Clasificatorio)
-- #394 _Maquina del Mal_ (Clasificatorio)
-- #394 _Pacmans_ (Clasificatorio)
-- #394 _Progranerds_ (Clasificatorio)
-- #394 _The steals_ (Clasificatorio)
+1. #394 _Cheese_ (Clasificatorio)
+1. #394 _EL pro xD_ (Clasificatorio)
+1. #394 _Equipo Dinamita Alfa Lobo_ (Clasificatorio)
+1. #394 _Mapachitos + El pro_ (Clasificatorio)
+1. #394 _Mapachitos UATx_ (Clasificatorio)
+1. #394 _Maquina del Mal_ (Clasificatorio)
+1. #394 _Pacmans_ (Clasificatorio)
+1. #394 _Progranerds_ (Clasificatorio)
+1. #394 _The steals_ (Clasificatorio)
 
 ### 2019-2020
 
-- #320 _Gree_You_ (Clasificatorio)
-- #341 _Los Charks_ (Clasificatorio)
-- #364 _UAT_Mapachitos_ (Clasificatorio)
-- #378 _BAM_ (Clasificatorio)
-- #382 _Great Programmers_ (Clasificatorio)
-- #382 _LPM_ (Clasificatorio)
-- #382 _Los Padrotes_ (Clasificatorio)
-- #382 _Racoons Crew 2.0_ (Clasificatorio)
-- #382 _UAT_coders_ (Clasificatorio)
+1. #320 _Gree_You_ (Clasificatorio)
+1. #341 _Los Charks_ (Clasificatorio)
+1. #364 _UAT_Mapachitos_ (Clasificatorio)
+1. #378 _BAM_ (Clasificatorio)
+1. #382 _Great Programmers_ (Clasificatorio)
+1. #382 _LPM_ (Clasificatorio)
+1. #382 _Los Padrotes_ (Clasificatorio)
+1. #382 _Racoons Crew 2.0_ (Clasificatorio)
+1. #382 _UAT_coders_ (Clasificatorio)
 
 ### 2020-2021
 
-- #241 _Akatsuki_ (Clasificatorio)
-- #351 _ANBU_ (Clasificatorio)
-- #351 _Titanes JEN_ (Clasificatorio)
+1. #241 _Akatsuki_ (Clasificatorio)
+1. #351 _ANBU_ (Clasificatorio)
+1. #351 _Titanes JEN_ (Clasificatorio)
 
 
 

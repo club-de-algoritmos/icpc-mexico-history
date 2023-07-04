@@ -11,11 +11,11 @@
 
 ### 2007-2008
 
-- #61 _The black engineers_ (Regional)
+1. #61 _The black engineers_ (Regional)
 
 ### 2009-2010
 
-- #104 _Win2_ (Regional)
+1. #104 _Win2_ (Regional)
 
 
 

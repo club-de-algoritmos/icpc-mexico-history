@@ -19,42 +19,42 @@
 
 ### 2001-2002
 
-- #19 (#5 de TecNM) _Tec Victoria 2_ (Regional)
-- #55 (#13 de TecNM) _Tec Victoria 1_ (Regional)
+1. #19 (#5 de TecNM) _Tec Victoria 2_ (Regional)
+1. #55 (#13 de TecNM) _Tec Victoria 1_ (Regional)
 
 ### 2002-2003
 
-- #27 (#3 de TecNM) _MAI Team_ (Regional)
-- #27 (#3 de TecNM) _X-NET_ (Regional)
+1. #27 (#3 de TecNM) _MAI Team_ (Regional)
+1. #27 (#3 de TecNM) _X-NET_ (Regional)
 
 ### 2003-2004
 
-- #41 (#9 de TecNM) _ITCV-1_ (Regional)
-- #41 (#9 de TecNM) _ITCV-2_ (Regional)
-- #41 (#9 de TecNM) _ITCV-3_ (Regional)
-- #41 (#9 de TecNM) _ITCV-4_ (Regional)
+1. #41 (#9 de TecNM) _ITCV-1_ (Regional)
+1. #41 (#9 de TecNM) _ITCV-2_ (Regional)
+1. #41 (#9 de TecNM) _ITCV-3_ (Regional)
+1. #41 (#9 de TecNM) _ITCV-4_ (Regional)
 
 ### 2004-2005
 
-- #57 (#12 de TecNM) _Gigabyte_ (Regional)
+1. #57 (#12 de TecNM) _Gigabyte_ (Regional)
 
 ### 2005-2006
 
-- #38 (#4 de TecNM) _Worms_ (Regional)
-- #85 (#11 de TecNM) _2Active_ (Regional)
-- #85 (#11 de TecNM) _Gigabyte_ (Regional)
+1. #38 (#4 de TecNM) _Worms_ (Regional)
+1. #85 (#11 de TecNM) _2Active_ (Regional)
+1. #85 (#11 de TecNM) _Gigabyte_ (Regional)
 
 ### 2007-2008
 
-- #26 (#4 de TecNM) _Code Poets_ (Regional)
-- #61 (#15 de TecNM) _Code Team_ (Regional)
-- #61 (#15 de TecNM) _OAK_ (Regional)
-- #61 (#15 de TecNM) _SYSTEMS 04_ (Regional)
-- #61 (#15 de TecNM) _SYSTEMS 06_ (Regional)
+1. #26 (#4 de TecNM) _Code Poets_ (Regional)
+1. #61 (#15 de TecNM) _Code Team_ (Regional)
+1. #61 (#15 de TecNM) _OAK_ (Regional)
+1. #61 (#15 de TecNM) _SYSTEMS 04_ (Regional)
+1. #61 (#15 de TecNM) _SYSTEMS 06_ (Regional)
 
 ### 2008-2009
 
-- #74 (#12 de TecNM) _CodePoets_ (Regional)
+1. #74 (#12 de TecNM) _CodePoets_ (Regional)
 
 
 

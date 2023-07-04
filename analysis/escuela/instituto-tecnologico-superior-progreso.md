@@ -13,10 +13,10 @@
 
 ### 2019-2020
 
-- #382 (#98 de TecNM) _Aaronchis_ (Clasificatorio)
-- #382 (#98 de TecNM) _Equipo.asm _ (Clasificatorio)
-- #382 (#98 de TecNM) _SESOID_ (Clasificatorio)
-- #382 (#98 de TecNM) _The black power_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Aaronchis_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Equipo.asm _ (Clasificatorio)
+1. #382 (#98 de TecNM) _SESOID_ (Clasificatorio)
+1. #382 (#98 de TecNM) _The black power_ (Clasificatorio)
 
 
 

@@ -16,22 +16,22 @@
 
 ### 2015-2016
 
-- #45 _USAC_ (Regional)
+1. #45 _USAC_ (Regional)
 
 ### 2016-2017
 
-- #53 _Repechaje_ (Regional)
+1. #53 _Repechaje_ (Regional)
 
 ### 2017-2018
 
-- #75 _HardCore Code_ (Regional)
-- #405 _Dwes GT_ (Clasificatorio)
-- #405 _Rinocerontes_ (Clasificatorio)
-- #405 _UsaC++_ (Clasificatorio)
+1. #75 _HardCore Code_ (Regional)
+1. #405 _Dwes GT_ (Clasificatorio)
+1. #405 _Rinocerontes_ (Clasificatorio)
+1. #405 _UsaC++_ (Clasificatorio)
 
 ### 2018-2019
 
-- #58 _HardCore Code_ (Regional)
+1. #58 _HardCore Code_ (Regional)
 
 
 

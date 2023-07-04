@@ -13,13 +13,13 @@
 
 ### 2020-2021
 
-- #351 (#65 de TecNM) _Albatros system_ (Clasificatorio)
-- #351 (#65 de TecNM) _Alien X_ (Clasificatorio)
-- #351 (#65 de TecNM) _VAK_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Albatros system_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Alien X_ (Clasificatorio)
+1. #351 (#65 de TecNM) _VAK_ (Clasificatorio)
 
 ### 2021-2022
 
-- #226 (#36 de TecNM) _Dark eyes like a raccoon_ (Clasificatorio)
+1. #226 (#36 de TecNM) _Dark eyes like a raccoon_ (Clasificatorio)
 
 
 

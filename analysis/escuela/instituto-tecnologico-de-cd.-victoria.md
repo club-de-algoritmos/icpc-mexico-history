@@ -12,12 +12,12 @@
 
 ### 2004-2005
 
-- #90 (#22 de TecNM) _stratovarius_ (Regional)
+1. #90 (#22 de TecNM) _stratovarius_ (Regional)
 
 ### 2008-2009
 
-- #94 (#24 de TecNM) _Bash_ (Regional)
-- #101 (#26 de TecNM) _TeamGeist_ (Regional)
+1. #94 (#24 de TecNM) _Bash_ (Regional)
+1. #101 (#26 de TecNM) _TeamGeist_ (Regional)
 
 
 

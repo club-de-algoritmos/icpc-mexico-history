@@ -10,7 +10,7 @@
 
 ### 2018-2019
 
-- #395 _Ryzen_ (Clasificatorio)
+1. #395 _Ryzen_ (Clasificatorio)
 
 
 

@@ -19,28 +19,28 @@
 
 ### 2010-2011
 
-- #98 _FS - 148.212.19.18_ (Regional)
-- #142 _FS - Rootkits_ (Regional)
-- #156 _FS - E-link_ (Regional)
+1. #98 _FS - 148.212.19.18_ (Regional)
+1. #142 _FS - Rootkits_ (Regional)
+1. #156 _FS - E-link_ (Regional)
 
 ### 2014-2015
 
-- #18 _The bugs_ (Regional)
-- #35 _Los Choquistas_ (Clasificatorio)
-- #38 _Majos_ (Clasificatorio)
+1. #18 _The bugs_ (Regional)
+1. #35 _Los Choquistas_ (Clasificatorio)
+1. #38 _Majos_ (Clasificatorio)
 
 ### 2015-2016
 
-- #108 _Math Kids_ (Clasificatorio)
+1. #108 _Math Kids_ (Clasificatorio)
 
 ### 2016-2017
 
-- #121 _IceCream_ (Clasificatorio)
+1. #121 _IceCream_ (Clasificatorio)
 
 ### 2017-2018
 
-- #218 _azul_ (Clasificatorio)
-- #383 _Verde_ (Clasificatorio)
+1. #218 _azul_ (Clasificatorio)
+1. #383 _Verde_ (Clasificatorio)
 
 
 

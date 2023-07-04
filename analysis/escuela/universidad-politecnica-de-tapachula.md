@@ -13,10 +13,10 @@
 
 ### 2019-2020
 
-- #382 _CODEX-UPTAP_ (Clasificatorio)
-- #382 _Loopers_ (Clasificatorio)
-- #382 _RAM-UPTAP_ (Clasificatorio)
-- #382 _Soft7_ (Clasificatorio)
+1. #382 _CODEX-UPTAP_ (Clasificatorio)
+1. #382 _Loopers_ (Clasificatorio)
+1. #382 _RAM-UPTAP_ (Clasificatorio)
+1. #382 _Soft7_ (Clasificatorio)
 
 
 

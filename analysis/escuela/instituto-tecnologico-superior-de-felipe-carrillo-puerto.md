@@ -11,11 +11,11 @@
 
 ### 2020-2021
 
-- #351 (#65 de TecNM) _3code_ (Clasificatorio)
+1. #351 (#65 de TecNM) _3code_ (Clasificatorio)
 
 ### 2021-2022
 
-- #226 (#36 de TecNM) _3code_ (Clasificatorio)
+1. #226 (#36 de TecNM) _3code_ (Clasificatorio)
 
 
 

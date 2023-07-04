@@ -19,19 +19,19 @@
 
 ### 2019-2020
 
-- #382 (#98 de TecNM) _Afflatus_ (Clasificatorio)
-- #382 (#98 de TecNM) _FCC System_ (Clasificatorio)
-- #382 (#98 de TecNM) _IguanaSoft_ (Clasificatorio)
-- #382 (#98 de TecNM) _JUNIORS "SARUMA"_ (Clasificatorio)
-- #382 (#98 de TecNM) _LOS INFORMATICOS_ (Clasificatorio)
-- #382 (#98 de TecNM) _LOS PICATECLAS_ (Clasificatorio)
-- #382 (#98 de TecNM) _Team Dinamita_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Afflatus_ (Clasificatorio)
+1. #382 (#98 de TecNM) _FCC System_ (Clasificatorio)
+1. #382 (#98 de TecNM) _IguanaSoft_ (Clasificatorio)
+1. #382 (#98 de TecNM) _JUNIORS "SARUMA"_ (Clasificatorio)
+1. #382 (#98 de TecNM) _LOS INFORMATICOS_ (Clasificatorio)
+1. #382 (#98 de TecNM) _LOS PICATECLAS_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Team Dinamita_ (Clasificatorio)
 
 ### 2020-2021
 
-- #351 (#65 de TecNM) _Avengers_ (Clasificatorio)
-- #351 (#65 de TecNM) _Junior SARUMA_ (Clasificatorio)
-- #351 (#65 de TecNM) _Soy Tec_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Avengers_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Junior SARUMA_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Soy Tec_ (Clasificatorio)
 
 
 

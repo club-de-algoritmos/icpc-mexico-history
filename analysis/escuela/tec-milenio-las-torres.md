@@ -11,8 +11,8 @@
 
 ### 2018-2019
 
-- #395 _Save State_ (Clasificatorio)
-- #395 _What The Coders (WTC)_ (Clasificatorio)
+1. #395 _Save State_ (Clasificatorio)
+1. #395 _What The Coders (WTC)_ (Clasificatorio)
 
 
 

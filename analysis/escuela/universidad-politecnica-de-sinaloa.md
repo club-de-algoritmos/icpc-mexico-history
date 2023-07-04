@@ -13,10 +13,10 @@
 
 ### 2011-2012
 
-- #92 _UPSIN DELTA_ (Regional)
-- #101 _UPSIN GAMMA_ (Regional)
-- #104 _UPSIN ALFA_ (Regional)
-- #104 _UPSIN BETA_ (Regional)
+1. #92 _UPSIN DELTA_ (Regional)
+1. #101 _UPSIN GAMMA_ (Regional)
+1. #104 _UPSIN ALFA_ (Regional)
+1. #104 _UPSIN BETA_ (Regional)
 
 
 

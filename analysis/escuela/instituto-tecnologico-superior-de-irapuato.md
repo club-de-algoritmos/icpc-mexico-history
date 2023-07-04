@@ -19,99 +19,99 @@
 
 ### 2001-2002
 
-- #22 _ITESI Tres_ (Regional)
-- #26 _ITESI-fundadores_ (Regional)
-- #46 _ITESI-El ultimo_ (Regional)
+1. #22 _ITESI Tres_ (Regional)
+1. #26 _ITESI-fundadores_ (Regional)
+1. #46 _ITESI-El ultimo_ (Regional)
 
 ### 2002-2003
 
-- #27 _ITESI Fundadores_ (Regional)
-- #27 _ITESI Revelacion_ (Regional)
+1. #27 _ITESI Fundadores_ (Regional)
+1. #27 _ITESI Revelacion_ (Regional)
 
 ### 2003-2004
 
-- #39 _ITESI LI_ (Regional)
-- #41 _ITESI ISC_ (Regional)
+1. #39 _ITESI LI_ (Regional)
+1. #41 _ITESI ISC_ (Regional)
 
 ### 2004-2005
 
-- #70 _ITESIMyWalids_ (Regional)
-- #90 _ITESIXitlalits_ (Regional)
+1. #70 _ITESIMyWalids_ (Regional)
+1. #90 _ITESIXitlalits_ (Regional)
 
 ### 2005-2006
 
-- #60 _Los peques_ (Regional)
-- #85 _Los Maygualids_ (Regional)
+1. #60 _Los peques_ (Regional)
+1. #85 _Los Maygualids_ (Regional)
 
 ### 2006-2007
 
-- #85 _ITESI 1_ (Regional)
-- #85 _ITESI II_ (Regional)
+1. #85 _ITESI 1_ (Regional)
+1. #85 _ITESI II_ (Regional)
 
 ### 2007-2008
 
-- #54 _ITESI 2_ (Regional)
-- #61 _ITESI 1_ (Regional)
-- #61 _ITESI 3_ (Regional)
+1. #54 _ITESI 2_ (Regional)
+1. #61 _ITESI 1_ (Regional)
+1. #61 _ITESI 3_ (Regional)
 
 ### 2008-2009
 
-- #65 _Buhos Blancos ITESI 3_ (Regional)
-- #72 _Buhos Blancos ITESI 1_ (Regional)
-- #101 _Buhos Blancos ITESI 2_ (Regional)
+1. #65 _Buhos Blancos ITESI 3_ (Regional)
+1. #72 _Buhos Blancos ITESI 1_ (Regional)
+1. #101 _Buhos Blancos ITESI 2_ (Regional)
 
 ### 2009-2010
 
-- #106 _Buhos Blancos 3_ (Regional)
-- #115 _Buhos Blancos 1_ (Regional)
-- #116 _Buhos Blancos 2_ (Regional)
-- #116 _Buhos Blancos 4_ (Regional)
+1. #106 _Buhos Blancos 3_ (Regional)
+1. #115 _Buhos Blancos 1_ (Regional)
+1. #116 _Buhos Blancos 2_ (Regional)
+1. #116 _Buhos Blancos 4_ (Regional)
 
 ### 2010-2011
 
-- #129 _Buhos Blancos ISC_ (Regional)
-- #156 _Buhos Blancos Informatica 2_ (Regional)
-- #156 _Buhos Blancos Informática_ (Regional)
-- #156 _Buhos Blancos Sistemas 2_ (Regional)
+1. #129 _Buhos Blancos ISC_ (Regional)
+1. #156 _Buhos Blancos Informatica 2_ (Regional)
+1. #156 _Buhos Blancos Informática_ (Regional)
+1. #156 _Buhos Blancos Sistemas 2_ (Regional)
 
 ### 2011-2012
 
-- #104 _Los enviados de Elias_ (Regional)
+1. #104 _Los enviados de Elias_ (Regional)
 
 ### 2012-2013
 
-- #134 _Los Galácticos_ (Regional)
-- #134 _No soy un bot_ (Regional)
-- #134 _The Avengers_ (Regional)
+1. #134 _Los Galácticos_ (Regional)
+1. #134 _No soy un bot_ (Regional)
+1. #134 _The Avengers_ (Regional)
 
 ### 2013-2014
 
-- #95 _The Avengers_ (Regional)
+1. #95 _The Avengers_ (Regional)
 
 ### 2014-2015
 
-- #163 _Programale Chido_ (Clasificatorio)
-- #204 _The ITESI Programmers_ (Clasificatorio)
-- #204 _USOFT_ (Clasificatorio)
+1. #163 _Programale Chido_ (Clasificatorio)
+1. #204 _The ITESI Programmers_ (Clasificatorio)
+1. #204 _USOFT_ (Clasificatorio)
 
 ### 2015-2016
 
-- #108 _ITESI_01_ (Clasificatorio)
+1. #108 _ITESI_01_ (Clasificatorio)
 
 ### 2016-2017
 
-- #121 _Buhos_ (Clasificatorio)
-- #121 _TeamM101_ (Clasificatorio)
-- #121 _búhosblancos_ (Clasificatorio)
-- #121 _mortifagos_ (Clasificatorio)
+1. #121 _Buhos_ (Clasificatorio)
+1. #121 _TeamM101_ (Clasificatorio)
+1. #121 _búhosblancos_ (Clasificatorio)
+1. #121 _mortifagos_ (Clasificatorio)
 
 ### 2018-2019
 
-- #394 _DARK ARMY_ (Clasificatorio)
+1. #394 _DARK ARMY_ (Clasificatorio)
 
 ### 2022-2023
 
-- #382 _MTIs_ (Clasificatorio)
+1. #382 _MTIs_ (Clasificatorio)
 
 
 

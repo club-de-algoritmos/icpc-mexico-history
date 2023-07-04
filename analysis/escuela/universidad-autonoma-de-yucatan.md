@@ -19,109 +19,109 @@
 
 ### 2001-2002
 
-- #12 _UADY_ (Regional)
+1. #12 _UADY_ (Regional)
 
 ### 2002-2003
 
-- #27 _FMAT_ (Regional)
-- #27 _FMAT-UADY_ (Regional)
+1. #27 _FMAT_ (Regional)
+1. #27 _FMAT-UADY_ (Regional)
 
 ### 2004-2005
 
-- #89 _FMAT1_ (Regional)
+1. #89 _FMAT1_ (Regional)
 
 ### 2011-2012
 
-- #29 _FMAT-Coders_ (Regional)
+1. #29 _FMAT-Coders_ (Regional)
 
 ### 2012-2013
 
-- #17 _FMAT_Coders_ (Regional)
+1. #17 _FMAT_Coders_ (Regional)
 
 ### 2013-2014
 
-- #78 _Sparky_ (Regional)
-- #95 _FMAT Coders_ (Regional)
+1. #78 _Sparky_ (Regional)
+1. #95 _FMAT Coders_ (Regional)
 
 ### 2014-2015
 
-- #23 _Coding Horror_ (Regional)
-- #58 _DireStraits_ (Clasificatorio)
-- #67 _MayaCode_ (Clasificatorio)
-- #93 _ZeroDay_ (Clasificatorio)
-- #101 _One-liners_ (Clasificatorio)
-- #117 _Digitos_ (Clasificatorio)
-- #145 _Lucaritos_ (Clasificatorio)
-- #150 _"Tender coders"_ (Clasificatorio)
+1. #23 _Coding Horror_ (Regional)
+1. #58 _DireStraits_ (Clasificatorio)
+1. #67 _MayaCode_ (Clasificatorio)
+1. #93 _ZeroDay_ (Clasificatorio)
+1. #101 _One-liners_ (Clasificatorio)
+1. #117 _Digitos_ (Clasificatorio)
+1. #145 _Lucaritos_ (Clasificatorio)
+1. #150 _"Tender coders"_ (Clasificatorio)
 
 ### 2015-2016
 
-- #24 _Equilateros_ (Regional)
-- #29 _Coding Horror_ (Regional)
-- #108 _Beta Team_ (Clasificatorio)
-- #108 _Intelygente_ (Clasificatorio)
-- #108 _Java-Daba-Du_ (Clasificatorio)
-- #108 _TRISB_ (Clasificatorio)
-- #108 _inserte.nombre_aqui_ (Clasificatorio)
+1. #24 _Equilateros_ (Regional)
+1. #29 _Coding Horror_ (Regional)
+1. #108 _Beta Team_ (Clasificatorio)
+1. #108 _Intelygente_ (Clasificatorio)
+1. #108 _Java-Daba-Du_ (Clasificatorio)
+1. #108 _TRISB_ (Clasificatorio)
+1. #108 _inserte.nombre_aqui_ (Clasificatorio)
 
 ### 2016-2017
 
-- #22 _Gleichseitiges_ (Regional)
-- #42 _Coding Horror_ (Regional)
-- #121 _Best Team LAN_ (Clasificatorio)
-- #121 _Intelygente_ (Clasificatorio)
+1. #22 _Gleichseitiges_ (Regional)
+1. #42 _Coding Horror_ (Regional)
+1. #121 _Best Team LAN_ (Clasificatorio)
+1. #121 _Intelygente_ (Clasificatorio)
 
 ### 2017-2018
 
-- #17 _Coding Horror_ (Regional)
-- #110 _LosObjetivos_ (Clasificatorio)
-- #139 _Cyborg Lunatics_ (Clasificatorio)
-- #239 _Stranger Team_ (Clasificatorio)
-- #278 __AA&&LJB__ (Clasificatorio)
-- #405 _mathdev_ (Clasificatorio)
+1. #17 _Coding Horror_ (Regional)
+1. #110 _LosObjetivos_ (Clasificatorio)
+1. #139 _Cyborg Lunatics_ (Clasificatorio)
+1. #239 _Stranger Team_ (Clasificatorio)
+1. #278 __AA&&LJB__ (Clasificatorio)
+1. #405 _mathdev_ (Clasificatorio)
 
 ### 2018-2019
 
-- #56 _Coding Horor v2.0_ (Regional)
-- #146 _CodeKaizers_ (Clasificatorio)
-- #165 _Los CDRs_ (Clasificatorio)
-- #195 _FMAT YUCATAN_ (Clasificatorio)
-- #220 _Mind.squad_ (Clasificatorio)
-- #314 _Dinamita Buena Onda_ (Clasificatorio)
-- #394 _TolokCoders_ (Clasificatorio)
+1. #56 _Coding Horor v2.0_ (Regional)
+1. #146 _CodeKaizers_ (Clasificatorio)
+1. #165 _Los CDRs_ (Clasificatorio)
+1. #195 _FMAT YUCATAN_ (Clasificatorio)
+1. #220 _Mind.squad_ (Clasificatorio)
+1. #314 _Dinamita Buena Onda_ (Clasificatorio)
+1. #394 _TolokCoders_ (Clasificatorio)
 
 ### 2019-2020
 
-- #99 _Firmala Gio_ (Clasificatorio)
-- #155 _01_ (Clasificatorio)
-- #170 _Monkeys coders_ (Clasificatorio)
-- #306 _ASDw_ (Clasificatorio)
-- #323 _KODERS_ (Clasificatorio)
-- #382 _Cafeina Incluida_ (Clasificatorio)
-- #382 _Los Recursivos_ (Clasificatorio)
-- #382 _Source's Team_ (Clasificatorio)
+1. #99 _Firmala Gio_ (Clasificatorio)
+1. #155 _01_ (Clasificatorio)
+1. #170 _Monkeys coders_ (Clasificatorio)
+1. #306 _ASDw_ (Clasificatorio)
+1. #323 _KODERS_ (Clasificatorio)
+1. #382 _Cafeina Incluida_ (Clasificatorio)
+1. #382 _Los Recursivos_ (Clasificatorio)
+1. #382 _Source's Team_ (Clasificatorio)
 
 ### 2020-2021
 
-- #291 _Deadly strike Raccoons_ (Clasificatorio)
-- #328 _SyntaxError_ (Clasificatorio)
-- #351 _DAP_ (Clasificatorio)
+1. #291 _Deadly strike Raccoons_ (Clasificatorio)
+1. #328 _SyntaxError_ (Clasificatorio)
+1. #351 _DAP_ (Clasificatorio)
 
 ### 2021-2022
 
-- #111 _Jaguares_ (Clasificatorio)
-- #226 _Enanos Liberales_ (Clasificatorio)
+1. #111 _Jaguares_ (Clasificatorio)
+1. #226 _Enanos Liberales_ (Clasificatorio)
 
 ### 2022-2023
 
-- #32 _Gauss N' Roses_ (Regional)
+1. #32 _Gauss N' Roses_ (Regional)
 
 ### 2023-2024
 
-- #44 _Gauss N’ Roses_ (Clasificatorio)
-- #189 _Sasser_ (Clasificatorio)
-- #223 _FMAT-01_ (Clasificatorio)
-- #238 _TripleByte_ (Clasificatorio)
+1. #44 _Gauss N’ Roses_ (Clasificatorio)
+1. #189 _Sasser_ (Clasificatorio)
+1. #223 _FMAT-01_ (Clasificatorio)
+1. #238 _TripleByte_ (Clasificatorio)
 
 
 

@@ -15,12 +15,12 @@
 
 ### 2015-2016
 
-- #108 (#28 de TecNM) _ISC7_ (Clasificatorio)
-- #108 (#28 de TecNM) _ITSZaSISC5_ (Clasificatorio)
-- #108 (#28 de TecNM) _ITSZaSISC7_ (Clasificatorio)
-- #108 (#28 de TecNM) _Los Caxcanes_ (Clasificatorio)
-- #108 (#28 de TecNM) _Zorros335_ (Clasificatorio)
-- #108 (#28 de TecNM) _Zorros5_ (Clasificatorio)
+1. #108 (#28 de TecNM) _ISC7_ (Clasificatorio)
+1. #108 (#28 de TecNM) _ITSZaSISC5_ (Clasificatorio)
+1. #108 (#28 de TecNM) _ITSZaSISC7_ (Clasificatorio)
+1. #108 (#28 de TecNM) _Los Caxcanes_ (Clasificatorio)
+1. #108 (#28 de TecNM) _Zorros335_ (Clasificatorio)
+1. #108 (#28 de TecNM) _Zorros5_ (Clasificatorio)
 
 
 

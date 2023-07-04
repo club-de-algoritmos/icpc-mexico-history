@@ -19,27 +19,27 @@
 
 ### 2020-2021
 
-- #28 _Hijos de Turing_ (Regional)
+1. #28 _Hijos de Turing_ (Regional)
 
 ### 2021-2022
 
-- #25 _Sereno el Fullereno_ (Regional)
-- #134 _Ángstroms_ (Clasificatorio)
+1. #25 _Sereno el Fullereno_ (Regional)
+1. #134 _Ángstroms_ (Clasificatorio)
 
 ### 2022-2023
 
-- #13 _Sereno El Fullereno_ (Regional)
-- #136 _int bellakos = 3;_ (Clasificatorio)
-- #143 _Programamis_ (Clasificatorio)
-- #152 _Bypass Space_ (Clasificatorio)
+1. #13 _Sereno El Fullereno_ (Regional)
+1. #136 _int bellakos = 3;_ (Clasificatorio)
+1. #143 _Programamis_ (Clasificatorio)
+1. #152 _Bypass Space_ (Clasificatorio)
 
 ### 2023-2024
 
-- #11 _Sereno El Fullereno_ (Clasificatorio)
-- #81 _Programamis_ (Clasificatorio)
-- #182 _Int Bellakos = 3;_ (Clasificatorio)
-- #255 _ByPass Space_ (Clasificatorio)
-- #372 _Team Frio.py_ (Clasificatorio)
+1. #11 _Sereno El Fullereno_ (Clasificatorio)
+1. #81 _Programamis_ (Clasificatorio)
+1. #182 _Int Bellakos = 3;_ (Clasificatorio)
+1. #255 _ByPass Space_ (Clasificatorio)
+1. #372 _Team Frio.py_ (Clasificatorio)
 
 
 

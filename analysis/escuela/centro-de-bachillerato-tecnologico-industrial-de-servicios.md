@@ -12,12 +12,12 @@
 
 ### 2001-2002
 
-- #55 _Cbtis 164-1_ (Regional)
-- #55 _Cbtis 164-2_ (Regional)
+1. #55 _Cbtis 164-1_ (Regional)
+1. #55 _Cbtis 164-2_ (Regional)
 
 ### 2003-2004
 
-- #41 _CBTIS 164_ (Regional)
+1. #41 _CBTIS 164_ (Regional)
 
 
 

@@ -19,25 +19,25 @@
 
 ### 2020-2021
 
-- #351 (#65 de TecNM) _CARDENALESISC_ (Clasificatorio)
-- #351 (#65 de TecNM) _Cardenales Tec_ (Clasificatorio)
-- #351 (#65 de TecNM) _Coding Snake_ (Clasificatorio)
-- #351 (#65 de TecNM) _Tehuacan2_ (Clasificatorio)
-- #351 (#65 de TecNM) _Tehuacan3_ (Clasificatorio)
+1. #351 (#65 de TecNM) _CARDENALESISC_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Cardenales Tec_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Coding Snake_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Tehuacan2_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Tehuacan3_ (Clasificatorio)
 
 ### 2021-2022
 
-- #226 (#36 de TecNM) _Cardenales Tec_ (Clasificatorio)
+1. #226 (#36 de TecNM) _Cardenales Tec_ (Clasificatorio)
 
 ### 2022-2023
 
-- #382 (#82 de TecNM) _<chicos>ITT</chicos>_ (Clasificatorio)
-- #382 (#82 de TecNM) _CODECS_ (Clasificatorio)
-- #382 (#82 de TecNM) _Cardenales Tec ISC_ (Clasificatorio)
-- #382 (#82 de TecNM) _DINAMITA_ (Clasificatorio)
-- #382 (#82 de TecNM) _PROGRAMANDO DE CHILL_ (Clasificatorio)
-- #382 (#82 de TecNM) _Tecnólogos ISC_ (Clasificatorio)
-- #382 (#82 de TecNM) _¿Apoco si muy programadores?_ (Clasificatorio)
+1. #382 (#82 de TecNM) _<chicos>ITT</chicos>_ (Clasificatorio)
+1. #382 (#82 de TecNM) _CODECS_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Cardenales Tec ISC_ (Clasificatorio)
+1. #382 (#82 de TecNM) _DINAMITA_ (Clasificatorio)
+1. #382 (#82 de TecNM) _PROGRAMANDO DE CHILL_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Tecnólogos ISC_ (Clasificatorio)
+1. #382 (#82 de TecNM) _¿Apoco si muy programadores?_ (Clasificatorio)
 
 
 

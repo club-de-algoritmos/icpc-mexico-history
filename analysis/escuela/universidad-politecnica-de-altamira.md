@@ -17,23 +17,23 @@
 
 ### 2013-2014
 
-- #95 _Upalt Soldiers_ (Regional)
+1. #95 _Upalt Soldiers_ (Regional)
 
 ### 2015-2016
 
-- #108 _Javalies 1_ (Clasificatorio)
-- #108 _Javalies 2_ (Clasificatorio)
+1. #108 _Javalies 1_ (Clasificatorio)
+1. #108 _Javalies 2_ (Clasificatorio)
 
 ### 2022-2023
 
-- #382 _Bit By Bit_ (Clasificatorio)
-- #382 _PseudoBoom_ (Clasificatorio)
+1. #382 _Bit By Bit_ (Clasificatorio)
+1. #382 _PseudoBoom_ (Clasificatorio)
 
 ### 2023-2024
 
-- #126 _Bit By Bit_ (Clasificatorio)
-- #198 _Prietos en Aprietos_ (Clasificatorio)
-- #292 _Code Void_ (Clasificatorio)
+1. #126 _Bit By Bit_ (Clasificatorio)
+1. #198 _Prietos en Aprietos_ (Clasificatorio)
+1. #292 _Code Void_ (Clasificatorio)
 
 
 

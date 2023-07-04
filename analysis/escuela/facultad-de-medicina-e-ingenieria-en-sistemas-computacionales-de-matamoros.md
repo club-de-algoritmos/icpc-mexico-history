@@ -11,8 +11,8 @@
 
 ### 2018-2019
 
-- #395 _Correcaminos_ (Clasificatorio)
-- #395 _Correcaminos UAT_ (Clasificatorio)
+1. #395 _Correcaminos_ (Clasificatorio)
+1. #395 _Correcaminos UAT_ (Clasificatorio)
 
 
 

@@ -13,13 +13,13 @@
 
 ### 2011-2012
 
-- #86 _UTM Takataka_ (Regional)
-- #104 _UTM Sorpresa_ (Regional)
+1. #86 _UTM Takataka_ (Regional)
+1. #104 _UTM Sorpresa_ (Regional)
 
 ### 2012-2013
 
-- #48 _UTM_MIX_ (Regional)
-- #93 _UTM_MEBER_ (Regional)
+1. #48 _UTM_MIX_ (Regional)
+1. #93 _UTM_MEBER_ (Regional)
 
 
 

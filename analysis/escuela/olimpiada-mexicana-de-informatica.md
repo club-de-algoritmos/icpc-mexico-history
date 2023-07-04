@@ -16,22 +16,22 @@
 
 ### 2019-2020
 
-- #54 _Campeones OMI 2019_ (Regional)
+1. #54 _Campeones OMI 2019_ (Regional)
 
 ### 2020-2021
 
-- #58 _Campeones OMI 2020_ (Regional)
+1. #58 _Campeones OMI 2020_ (Regional)
 
 ### 2021-2022
 
-- #55 _Campeones OMI 2021_ (Regional)
+1. #55 _Campeones OMI 2021_ (Regional)
 
 ### 2022-2023
 
-- #56 _equipo_ (Regional)
-- #56 _Campeones OMI 2022_ (Regional)
-- #382 _DMC_ (Clasificatorio)
-- #382 _Turron Verde_ (Clasificatorio)
+1. #56 _equipo_ (Regional)
+1. #56 _Campeones OMI 2022_ (Regional)
+1. #382 _DMC_ (Clasificatorio)
+1. #382 _Turron Verde_ (Clasificatorio)
 
 
 

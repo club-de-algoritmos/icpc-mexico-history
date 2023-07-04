@@ -19,38 +19,38 @@
 
 ### 2019-2020
 
-- #382 (#98 de TecNM) _Bartolito_ (Clasificatorio)
-- #382 (#98 de TecNM) _COD_ (Clasificatorio)
-- #382 (#98 de TecNM) _INGE_ (Clasificatorio)
-- #382 (#98 de TecNM) _JLE_ (Clasificatorio)
-- #382 (#98 de TecNM) _Jhovys_ (Clasificatorio)
-- #382 (#98 de TecNM) _Los Limones_ (Clasificatorio)
-- #382 (#98 de TecNM) _Los Quintos_ (Clasificatorio)
-- #382 (#98 de TecNM) _Los marcos_ (Clasificatorio)
-- #382 (#98 de TecNM) _Master_ (Clasificatorio)
-- #382 (#98 de TecNM) _Romeros_ (Clasificatorio)
-- #382 (#98 de TecNM) _We are CSS_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Bartolito_ (Clasificatorio)
+1. #382 (#98 de TecNM) _COD_ (Clasificatorio)
+1. #382 (#98 de TecNM) _INGE_ (Clasificatorio)
+1. #382 (#98 de TecNM) _JLE_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Jhovys_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Los Limones_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Los Quintos_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Los marcos_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Master_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Romeros_ (Clasificatorio)
+1. #382 (#98 de TecNM) _We are CSS_ (Clasificatorio)
 
 ### 2022-2023
 
-- #382 (#82 de TecNM) _CodeKem_ (Clasificatorio)
-- #382 (#82 de TecNM) _Computer team_ (Clasificatorio)
-- #382 (#82 de TecNM) _Dixtractor_ (Clasificatorio)
-- #382 (#82 de TecNM) _ISICMD_ (Clasificatorio)
-- #382 (#82 de TecNM) _Los Fatui_ (Clasificatorio)
-- #382 (#82 de TecNM) _Rocket_ (Clasificatorio)
-- #382 (#82 de TecNM) _RuntimeError_ (Clasificatorio)
-- #382 (#82 de TecNM) _Tech Giants_ (Clasificatorio)
-- #382 (#82 de TecNM) _TheLastUs_ (Clasificatorio)
+1. #382 (#82 de TecNM) _CodeKem_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Computer team_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Dixtractor_ (Clasificatorio)
+1. #382 (#82 de TecNM) _ISICMD_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Los Fatui_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Rocket_ (Clasificatorio)
+1. #382 (#82 de TecNM) _RuntimeError_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Tech Giants_ (Clasificatorio)
+1. #382 (#82 de TecNM) _TheLastUs_ (Clasificatorio)
 
 ### 2023-2024
 
-- #328 (#72 de TecNM) _Java-Limo++_ (Clasificatorio)
-- #337 (#78 de TecNM) _Java-Limo++V2_ (Clasificatorio)
-- #390 (#106 de TecNM) _Java-Limo++_CKEM_ (Clasificatorio)
-- #445 (#124 de TecNM) _Java-Limo++_Team-Iguana_ (Clasificatorio)
-- #446 (#125 de TecNM) _Java-Limo++V4_ (Clasificatorio)
-- #447 (#126 de TecNM) _Java-Limo++V3_ (Clasificatorio)
+1. #328 (#72 de TecNM) _Java-Limo++_ (Clasificatorio)
+1. #337 (#78 de TecNM) _Java-Limo++V2_ (Clasificatorio)
+1. #390 (#106 de TecNM) _Java-Limo++_CKEM_ (Clasificatorio)
+1. #445 (#124 de TecNM) _Java-Limo++_Team-Iguana_ (Clasificatorio)
+1. #446 (#125 de TecNM) _Java-Limo++V4_ (Clasificatorio)
+1. #447 (#126 de TecNM) _Java-Limo++V3_ (Clasificatorio)
 
 
 

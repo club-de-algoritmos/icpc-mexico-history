@@ -14,11 +14,11 @@
 
 ### 2022-2023
 
-- #382 (#82 de TecNM) _Browlet_ (Clasificatorio)
-- #382 (#82 de TecNM) _Impostores_ (Clasificatorio)
-- #382 (#82 de TecNM) _Los Pixis_ (Clasificatorio)
-- #382 (#82 de TecNM) _Umizoomi_ (Clasificatorio)
-- #382 (#82 de TecNM) _Union_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Browlet_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Impostores_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Los Pixis_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Umizoomi_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Union_ (Clasificatorio)
 
 
 

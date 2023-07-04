@@ -19,76 +19,76 @@
 
 ### 2003-2004
 
-- #35 _Cuernavaca_ (Regional)
+1. #35 _Cuernavaca_ (Regional)
 
 ### 2004-2005
 
-- #17 _javaglets_ (Regional)
+1. #17 _javaglets_ (Regional)
 
 ### 2006-2007
 
-- #18 _Chevaliers_ (Regional)
-- #72 _Le Cancer_ (Regional)
+1. #18 _Chevaliers_ (Regional)
+1. #72 _Le Cancer_ (Regional)
 
 ### 2008-2009
 
-- #23 _Cancer_ (Regional)
-- #82 _S.T.A.R.S. _ (Regional)
-- #86 _Happy Hippo_ (Regional)
+1. #23 _Cancer_ (Regional)
+1. #82 _S.T.A.R.S. _ (Regional)
+1. #86 _Happy Hippo_ (Regional)
 
 ### 2009-2010
 
-- #105 _DeadLockers_ (Regional)
+1. #105 _DeadLockers_ (Regional)
 
 ### 2010-2011
 
-- #156 _*.UES_ (Regional)
+1. #156 _*.UES_ (Regional)
 
 ### 2015-2016
 
-- #107 _Hardcoding_ (Clasificatorio)
-- #107 _Thunders_ (Clasificatorio)
+1. #107 _Hardcoding_ (Clasificatorio)
+1. #107 _Thunders_ (Clasificatorio)
 
 ### 2016-2017
 
-- #121 _Espartanos_ (Clasificatorio)
-- #121 _Los destructores_ (Clasificatorio)
-- #121 _Neto y los OMI_ (Clasificatorio)
-- #121 _STL Team_ (Clasificatorio)
+1. #121 _Espartanos_ (Clasificatorio)
+1. #121 _Los destructores_ (Clasificatorio)
+1. #121 _Neto y los OMI_ (Clasificatorio)
+1. #121 _STL Team_ (Clasificatorio)
 
 ### 2017-2018
 
-- #100 _EpicTeam_ (Clasificatorio)
-- #123 _Los que no vinieron_ (Clasificatorio)
-- #140 _Olympus_ (Clasificatorio)
-- #299 _For Honor_ (Clasificatorio)
-- #344 _MBuzdalovers_ (Clasificatorio)
-- #405 _Charmanders_ (Clasificatorio)
-- #405 _DreamTeam_ (Clasificatorio)
+1. #100 _EpicTeam_ (Clasificatorio)
+1. #123 _Los que no vinieron_ (Clasificatorio)
+1. #140 _Olympus_ (Clasificatorio)
+1. #299 _For Honor_ (Clasificatorio)
+1. #344 _MBuzdalovers_ (Clasificatorio)
+1. #405 _Charmanders_ (Clasificatorio)
+1. #405 _DreamTeam_ (Clasificatorio)
 
 ### 2018-2019
 
-- #26 _RAM_ (Regional)
-- #122 _Team.jar_ (Clasificatorio)
+1. #26 _RAM_ (Regional)
+1. #122 _Team.jar_ (Clasificatorio)
 
 ### 2019-2020
 
-- #43 _Los que no vinieron_ (Regional)
-- #192 _Rike Polle de 10 pesitos_ (Clasificatorio)
+1. #43 _Los que no vinieron_ (Regional)
+1. #192 _Rike Polle de 10 pesitos_ (Clasificatorio)
 
 ### 2020-2021
 
-- #12 _Los que no vinieron_ (Regional)
+1. #12 _Los que no vinieron_ (Regional)
 
 ### 2021-2022
 
-- #10 _Los que no vinieron_ (Regional)
+1. #10 _Los que no vinieron_ (Regional)
 
 ### 2022-2023
 
-- #56 _Los que SÍ vinieron_ (Clasificatorio)
-- #194 _Armadillos_ (Clasificatorio)
-- #343 _Pythonist_ (Clasificatorio)
+1. #56 _Los que SÍ vinieron_ (Clasificatorio)
+1. #194 _Armadillos_ (Clasificatorio)
+1. #343 _Pythonist_ (Clasificatorio)
 
 
 

@@ -11,8 +11,8 @@
 
 ### 2017-2018
 
-- #12 _LCA_ (Regional)
-- #57 _PTYCODERS_ (Regional)
+1. #12 _LCA_ (Regional)
+1. #57 _PTYCODERS_ (Regional)
 
 
 

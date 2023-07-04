@@ -19,38 +19,38 @@
 
 ### 2014-2015
 
-- #190 _UAEH TUX´s_ (Clasificatorio)
+1. #190 _UAEH TUX´s_ (Clasificatorio)
 
 ### 2015-2016
 
-- #108 _UAEH TUX´s_ (Clasificatorio)
+1. #108 _UAEH TUX´s_ (Clasificatorio)
 
 ### 2017-2018
 
-- #405 _Dev Jaguar_ (Clasificatorio)
+1. #405 _Dev Jaguar_ (Clasificatorio)
 
 ### 2022-2023
 
-- #47 _CRIGED.PY_ (Regional)
-- #132 _CTRL2_ (Clasificatorio)
-- #204 _Mavericks_ (Clasificatorio)
-- #219 _Código a Vapor_ (Clasificatorio)
+1. #47 _CRIGED.PY_ (Regional)
+1. #132 _CTRL2_ (Clasificatorio)
+1. #204 _Mavericks_ (Clasificatorio)
+1. #219 _Código a Vapor_ (Clasificatorio)
 
 ### 2023-2024
 
-- #35 _CRIGED.PY_ (Clasificatorio)
-- #96 _Coding Slayer_ (Clasificatorio)
-- #104 _Dos tequilas y un mojito_ (Clasificatorio)
-- #216 _San Ashers ++_ (Clasificatorio)
-- #241 _Byte Bandits_ (Clasificatorio)
-- #261 _Comando Tesla_ (Clasificatorio)
-- #286 _Lirio Azul_ (Clasificatorio)
-- #300 _EDACS_ (Clasificatorio)
-- #335 _LetterCoders_ (Clasificatorio)
-- #350 _Runtime Terror MBP_ (Clasificatorio)
-- #375 _CroSS LiTe_ (Clasificatorio)
-- #380 _Harcode_ (Clasificatorio)
-- #406 _Software-Punk_ (Clasificatorio)
+1. #35 _CRIGED.PY_ (Clasificatorio)
+1. #96 _Coding Slayer_ (Clasificatorio)
+1. #104 _Dos tequilas y un mojito_ (Clasificatorio)
+1. #216 _San Ashers ++_ (Clasificatorio)
+1. #241 _Byte Bandits_ (Clasificatorio)
+1. #261 _Comando Tesla_ (Clasificatorio)
+1. #286 _Lirio Azul_ (Clasificatorio)
+1. #300 _EDACS_ (Clasificatorio)
+1. #335 _LetterCoders_ (Clasificatorio)
+1. #350 _Runtime Terror MBP_ (Clasificatorio)
+1. #375 _CroSS LiTe_ (Clasificatorio)
+1. #380 _Harcode_ (Clasificatorio)
+1. #406 _Software-Punk_ (Clasificatorio)
 
 
 

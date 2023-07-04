@@ -13,10 +13,10 @@
 
 ### 2020-2021
 
-- #284 (#36 de TecNM) _Itesca 1_ (Clasificatorio)
-- #331 (#54 de TecNM) _La dinastia Norteña_ (Clasificatorio)
-- #348 (#63 de TecNM) _Code not found_ (Clasificatorio)
-- #351 (#65 de TecNM) _Los Coricos_ (Clasificatorio)
+1. #284 (#36 de TecNM) _Itesca 1_ (Clasificatorio)
+1. #331 (#54 de TecNM) _La dinastia Norteña_ (Clasificatorio)
+1. #348 (#63 de TecNM) _Code not found_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Los Coricos_ (Clasificatorio)
 
 
 

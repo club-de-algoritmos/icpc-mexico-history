@@ -19,54 +19,54 @@
 
 ### 2005-2006
 
-- #77 _Los twinkis_ (Regional)
+1. #77 _Los twinkis_ (Regional)
 
 ### 2007-2008
 
-- #30 _FISMAT exception_ (Regional)
+1. #30 _FISMAT exception_ (Regional)
 
 ### 2009-2010
 
-- #56 _Compilando..._ (Regional)
+1. #56 _Compilando..._ (Regional)
 
 ### 2010-2011
 
-- #89 _fismateros_ (Regional)
+1. #89 _fismateros_ (Regional)
 
 ### 2011-2012
 
-- #12 _f(i)=Smat_ (Regional)
+1. #12 _f(i)=Smat_ (Regional)
 
 ### 2012-2013
 
-- #19 _Fismateros_ (Regional)
+1. #19 _Fismateros_ (Regional)
 
 ### 2013-2014
 
-- #15 _Fismateros_ (Regional)
-- #23 _Lerak Team_ (Regional)
+1. #15 _Fismateros_ (Regional)
+1. #23 _Lerak Team_ (Regional)
 
 ### 2014-2015
 
-- #13 _Lerak Team_ (Regional)
+1. #13 _Lerak Team_ (Regional)
 
 ### 2015-2016
 
-- #108 _lerak team_ (Clasificatorio)
+1. #108 _lerak team_ (Clasificatorio)
 
 ### 2017-2018
 
-- #315 _coders_ (Clasificatorio)
-- #405 _FISMAT2_ (Clasificatorio)
+1. #315 _coders_ (Clasificatorio)
+1. #405 _FISMAT2_ (Clasificatorio)
 
 ### 2019-2020
 
-- #382 _Elvis_ (Clasificatorio)
+1. #382 _Elvis_ (Clasificatorio)
 
 ### 2023-2024
 
-- #403 _Los numerables_ (Clasificatorio)
-- #404 _Aleph_0_ (Clasificatorio)
+1. #403 _Los numerables_ (Clasificatorio)
+1. #404 _Aleph_0_ (Clasificatorio)
 
 
 

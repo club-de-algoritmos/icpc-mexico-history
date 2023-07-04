@@ -11,11 +11,11 @@
 
 ### 2008-2009
 
-- #70 _ASFG - OMIJAL_ (Regional)
+1. #70 _ASFG - OMIJAL_ (Regional)
 
 ### 2009-2010
 
-- #54 _Omijal - American School_ (Regional)
+1. #54 _Omijal - American School_ (Regional)
 
 
 

@@ -13,10 +13,10 @@
 
 ### 2022-2023
 
-- #382 _Echo Linxes _ (Clasificatorio)
-- #382 _The Goat_ (Clasificatorio)
-- #382 _Theme Tic_ (Clasificatorio)
-- #382 _TicCoders_ (Clasificatorio)
+1. #382 _Echo Linxes _ (Clasificatorio)
+1. #382 _The Goat_ (Clasificatorio)
+1. #382 _Theme Tic_ (Clasificatorio)
+1. #382 _TicCoders_ (Clasificatorio)
 
 
 

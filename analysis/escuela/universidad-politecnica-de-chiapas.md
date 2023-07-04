@@ -15,15 +15,15 @@
 
 ### 2016-2017
 
-- #121 _chomsky_ (Clasificatorio)
+1. #121 _chomsky_ (Clasificatorio)
 
 ### 2019-2020
 
-- #382 _Dev's Team_ (Clasificatorio)
-- #382 _RTD-3_ (Clasificatorio)
-- #382 _TDF_ (Clasificatorio)
-- #382 _TURIN_ (Clasificatorio)
-- #382 _Upworks_ (Clasificatorio)
+1. #382 _Dev's Team_ (Clasificatorio)
+1. #382 _RTD-3_ (Clasificatorio)
+1. #382 _TDF_ (Clasificatorio)
+1. #382 _TURIN_ (Clasificatorio)
+1. #382 _Upworks_ (Clasificatorio)
 
 
 

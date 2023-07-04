@@ -19,36 +19,36 @@
 
 ### 2001-2002
 
-- #15 _Drink Team_ (Regional)
-- #55 _Ctrl+Alt+Supr_ (Regional)
+1. #15 _Drink Team_ (Regional)
+1. #55 _Ctrl+Alt+Supr_ (Regional)
 
 ### 2003-2004
 
-- #29 _Drink Team_ (Regional)
-- #41 _Web-ones_ (Regional)
+1. #29 _Drink Team_ (Regional)
+1. #41 _Web-ones_ (Regional)
 
 ### 2006-2007
 
-- #58 _Javalio_ (Regional)
-- #60 _LPT_ (Regional)
-- #85 _Los Looney''s_ (Regional)
-- #85 _noName=" ";_ (Regional)
+1. #58 _Javalio_ (Regional)
+1. #60 _LPT_ (Regional)
+1. #85 _Los Looney''s_ (Regional)
+1. #85 _noName=" ";_ (Regional)
 
 ### 2007-2008
 
-- #53 _PMR 4000_ (Regional)
-- #61 _COF_ (Regional)
-- #61 _Los intensos_ (Regional)
+1. #53 _PMR 4000_ (Regional)
+1. #61 _COF_ (Regional)
+1. #61 _Los intensos_ (Regional)
 
 ### 2009-2010
 
-- #42 _Laguna 3_ (Regional)
-- #77 _Laguna 1_ (Regional)
-- #116 _Laguna 2_ (Regional)
+1. #42 _Laguna 3_ (Regional)
+1. #77 _Laguna 1_ (Regional)
+1. #116 _Laguna 2_ (Regional)
 
 ### 2010-2011
 
-- #137 _GameOver Laguna_ (Regional)
+1. #137 _GameOver Laguna_ (Regional)
 
 
 

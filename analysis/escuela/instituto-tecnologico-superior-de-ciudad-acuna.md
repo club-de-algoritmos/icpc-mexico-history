@@ -19,36 +19,36 @@
 
 ### 2019-2020
 
-- #123 (#15 de TecNM) _ITSAHackers_ (Clasificatorio)
-- #218 (#35 de TecNM) _Sick Programmation_ (Clasificatorio)
+1. #123 (#15 de TecNM) _ITSAHackers_ (Clasificatorio)
+1. #218 (#35 de TecNM) _Sick Programmation_ (Clasificatorio)
 
 ### 2020-2021
 
-- #196 (#22 de TecNM) _ITSAHACKERS.JR_ (Clasificatorio)
-- #351 (#65 de TecNM) _TOROS TEC_ (Clasificatorio)
+1. #196 (#22 de TecNM) _ITSAHACKERS.JR_ (Clasificatorio)
+1. #351 (#65 de TecNM) _TOROS TEC_ (Clasificatorio)
 
 ### 2021-2022
 
-- #226 (#36 de TecNM) _Código sin limites_ (Clasificatorio)
-- #226 (#36 de TecNM) _INFINITY ENGINEERS_ (Clasificatorio)
-- #226 (#36 de TecNM) _ITSAHACKERS_ (Clasificatorio)
-- #226 (#36 de TecNM) _Java Squad_ (Clasificatorio)
-- #226 (#36 de TecNM) _Shattenhacken_ (Clasificatorio)
-- #226 (#36 de TecNM) _TechBros_ (Clasificatorio)
-- #226 (#36 de TecNM) _Tecno Girls_ (Clasificatorio)
-- #226 (#36 de TecNM) _Toros TEC_ (Clasificatorio)
-- #226 (#36 de TecNM) _VD TEAM_ (Clasificatorio)
+1. #226 (#36 de TecNM) _Código sin limites_ (Clasificatorio)
+1. #226 (#36 de TecNM) _INFINITY ENGINEERS_ (Clasificatorio)
+1. #226 (#36 de TecNM) _ITSAHACKERS_ (Clasificatorio)
+1. #226 (#36 de TecNM) _Java Squad_ (Clasificatorio)
+1. #226 (#36 de TecNM) _Shattenhacken_ (Clasificatorio)
+1. #226 (#36 de TecNM) _TechBros_ (Clasificatorio)
+1. #226 (#36 de TecNM) _Tecno Girls_ (Clasificatorio)
+1. #226 (#36 de TecNM) _Toros TEC_ (Clasificatorio)
+1. #226 (#36 de TecNM) _VD TEAM_ (Clasificatorio)
 
 ### 2022-2023
 
-- #382 (#82 de TecNM) _GPJ TEAM_ (Clasificatorio)
-- #382 (#82 de TecNM) _Los Belicosos_ (Clasificatorio)
-- #382 (#82 de TecNM) _Los simples_ (Clasificatorio)
-- #382 (#82 de TecNM) _Punto & coma;_ (Clasificatorio)
-- #382 (#82 de TecNM) _Py-ITSA's_ (Clasificatorio)
-- #382 (#82 de TecNM) _Sistemac_ (Clasificatorio)
-- #382 (#82 de TecNM) _Snapdragon_ (Clasificatorio)
-- #382 (#82 de TecNM) _Thot_ (Clasificatorio)
+1. #382 (#82 de TecNM) _GPJ TEAM_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Los Belicosos_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Los simples_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Punto & coma;_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Py-ITSA's_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Sistemac_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Snapdragon_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Thot_ (Clasificatorio)
 
 
 

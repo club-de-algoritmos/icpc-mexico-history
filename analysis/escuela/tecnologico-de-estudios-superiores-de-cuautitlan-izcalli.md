@@ -19,23 +19,23 @@
 
 ### 2020-2021
 
-- #351 _Coding TESCI_ (Clasificatorio)
-- #351 _Escuadrón Rino TIC_ (Clasificatorio)
-- #351 _Maravilla Programadora_ (Clasificatorio)
-- #351 _TeamTesci_ (Clasificatorio)
+1. #351 _Coding TESCI_ (Clasificatorio)
+1. #351 _Escuadrón Rino TIC_ (Clasificatorio)
+1. #351 _Maravilla Programadora_ (Clasificatorio)
+1. #351 _TeamTesci_ (Clasificatorio)
 
 ### 2021-2022
 
-- #226 _Meliora_ (Clasificatorio)
-- #226 _Zooming_ (Clasificatorio)
+1. #226 _Meliora_ (Clasificatorio)
+1. #226 _Zooming_ (Clasificatorio)
 
 ### 2022-2023
 
-- #382 _Black Homies_ (Clasificatorio)
-- #382 _CALIGARIS_ (Clasificatorio)
-- #382 _Las Cariñosas 931_ (Clasificatorio)
-- #382 _Rhinos Programmers_ (Clasificatorio)
-- #382 _Águilas Aztecas_ (Clasificatorio)
+1. #382 _Black Homies_ (Clasificatorio)
+1. #382 _CALIGARIS_ (Clasificatorio)
+1. #382 _Las Cariñosas 931_ (Clasificatorio)
+1. #382 _Rhinos Programmers_ (Clasificatorio)
+1. #382 _Águilas Aztecas_ (Clasificatorio)
 
 
 

@@ -11,8 +11,8 @@
 
 ### 2002-2003
 
-- #27 _M@JUSTO_ (Regional)
-- #27 _NPIP_ (Regional)
+1. #27 _M@JUSTO_ (Regional)
+1. #27 _NPIP_ (Regional)
 
 
 

@@ -11,8 +11,8 @@
 
 ### 2018-2019
 
-- #394 _C#arly_ (Clasificatorio)
-- #394 _Sistemas Fica 1_ (Clasificatorio)
+1. #394 _C#arly_ (Clasificatorio)
+1. #394 _Sistemas Fica 1_ (Clasificatorio)
 
 
 

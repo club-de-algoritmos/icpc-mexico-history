@@ -11,8 +11,8 @@
 
 ### 2018-2019
 
-- #395 _UNIMESO1_ (Clasificatorio)
-- #395 _UNIMESO2_ (Clasificatorio)
+1. #395 _UNIMESO1_ (Clasificatorio)
+1. #395 _UNIMESO2_ (Clasificatorio)
 
 
 

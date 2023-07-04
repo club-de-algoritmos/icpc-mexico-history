@@ -17,20 +17,20 @@
 
 ### 2009-2010
 
-- #53 _Alpha_ (Regional)
-- #101 _Epsilon_ (Regional)
-- #116 _Omicron_ (Regional)
+1. #53 _Alpha_ (Regional)
+1. #101 _Epsilon_ (Regional)
+1. #116 _Omicron_ (Regional)
 
 ### 2010-2011
 
-- #18 _FTW_ (Regional)
-- #147 _Zergs_ (Regional)
-- #156 _Protos_ (Regional)
+1. #18 _FTW_ (Regional)
+1. #147 _Zergs_ (Regional)
+1. #156 _Protos_ (Regional)
 
 ### 2011-2012
 
-- #15 _ftw_ (Regional)
-- #104 _protrolls_ (Regional)
+1. #15 _ftw_ (Regional)
+1. #104 _protrolls_ (Regional)
 
 
 

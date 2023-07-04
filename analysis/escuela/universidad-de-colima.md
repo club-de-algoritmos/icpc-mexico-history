@@ -12,15 +12,15 @@
 
 ### 2018-2019
 
-- #395 _Dumas_ (Clasificatorio)
+1. #395 _Dumas_ (Clasificatorio)
 
 ### 2020-2021
 
-- #268 _ACM amo_ (Clasificatorio)
+1. #268 _ACM amo_ (Clasificatorio)
 
 ### 2022-2023
 
-- #382 _G3_ (Clasificatorio)
+1. #382 _G3_ (Clasificatorio)
 
 
 

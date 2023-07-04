@@ -12,9 +12,9 @@
 
 ### 2019-2020
 
-- #382 (#98 de TecNM) _Bufalos_ (Clasificatorio)
-- #382 (#98 de TecNM) _Sonora_ (Clasificatorio)
-- #382 (#98 de TecNM) _Yaquis_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Bufalos_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Sonora_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Yaquis_ (Clasificatorio)
 
 
 

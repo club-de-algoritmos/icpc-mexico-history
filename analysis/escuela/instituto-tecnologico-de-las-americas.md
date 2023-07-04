@@ -10,7 +10,7 @@
 
 ### 2009-2010
 
-- #91 (#21 de TecNM) _ITLA_ (Regional)
+1. #91 (#21 de TecNM) _ITLA_ (Regional)
 
 
 

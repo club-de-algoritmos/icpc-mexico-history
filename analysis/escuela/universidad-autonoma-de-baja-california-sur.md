@@ -12,12 +12,12 @@
 
 ### 2014-2015
 
-- #60 _GATOS SALVAJES_ (Regional)
+1. #60 _GATOS SALVAJES_ (Regional)
 
 ### 2021-2022
 
-- #226 _Wild Cats_ (Clasificatorio)
-- #226 _masterExploder_ (Clasificatorio)
+1. #226 _Wild Cats_ (Clasificatorio)
+1. #226 _masterExploder_ (Clasificatorio)
 
 
 

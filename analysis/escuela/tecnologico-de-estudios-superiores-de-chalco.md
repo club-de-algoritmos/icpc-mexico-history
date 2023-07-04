@@ -18,18 +18,18 @@
 
 ### 2020-2021
 
-- #203 _Prolux_ (Clasificatorio)
-- #351 _ANDROIDE TEAM_ (Clasificatorio)
-- #351 _Chavos1_ (Clasificatorio)
-- #351 _DARCK_ (Clasificatorio)
-- #351 _Gibbys_ (Clasificatorio)
-- #351 _Guerreros Z_ (Clasificatorio)
-- #351 _The syntax error_ (Clasificatorio)
-- #351 _Virtualrookies_ (Clasificatorio)
+1. #203 _Prolux_ (Clasificatorio)
+1. #351 _ANDROIDE TEAM_ (Clasificatorio)
+1. #351 _Chavos1_ (Clasificatorio)
+1. #351 _DARCK_ (Clasificatorio)
+1. #351 _Gibbys_ (Clasificatorio)
+1. #351 _Guerreros Z_ (Clasificatorio)
+1. #351 _The syntax error_ (Clasificatorio)
+1. #351 _Virtualrookies_ (Clasificatorio)
 
 ### 2021-2022
 
-- #226 _programming-stars_ (Clasificatorio)
+1. #226 _programming-stars_ (Clasificatorio)
 
 
 

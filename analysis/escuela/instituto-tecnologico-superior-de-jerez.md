@@ -18,21 +18,21 @@
 
 ### 2015-2016
 
-- #108 (#28 de TecNM) _Noobsters_ (Clasificatorio)
-- #108 (#28 de TecNM) _Rogers_ (Clasificatorio)
-- #108 (#28 de TecNM) _Rubik_ (Clasificatorio)
+1. #108 (#28 de TecNM) _Noobsters_ (Clasificatorio)
+1. #108 (#28 de TecNM) _Rogers_ (Clasificatorio)
+1. #108 (#28 de TecNM) _Rubik_ (Clasificatorio)
 
 ### 2018-2019
 
-- #395 (#159 de TecNM) _Kings of Code_ (Clasificatorio)
+1. #395 (#159 de TecNM) _Kings of Code_ (Clasificatorio)
 
 ### 2019-2020
 
-- #382 (#98 de TecNM) _Alpha Code_ (Clasificatorio)
-- #382 (#98 de TecNM) _Noobsters_ (Clasificatorio)
-- #382 (#98 de TecNM) _QualitySoft_ (Clasificatorio)
-- #382 (#98 de TecNM) _Team Prophet_ (Clasificatorio)
-- #382 (#98 de TecNM) _VCode_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Alpha Code_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Noobsters_ (Clasificatorio)
+1. #382 (#98 de TecNM) _QualitySoft_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Team Prophet_ (Clasificatorio)
+1. #382 (#98 de TecNM) _VCode_ (Clasificatorio)
 
 
 

@@ -11,8 +11,8 @@
 
 ### 2019-2020
 
-- #382 (#98 de TecNM) _CodeYakuin_ (Clasificatorio)
-- #382 (#98 de TecNM) _DDOS_ (Clasificatorio)
+1. #382 (#98 de TecNM) _CodeYakuin_ (Clasificatorio)
+1. #382 (#98 de TecNM) _DDOS_ (Clasificatorio)
 
 
 

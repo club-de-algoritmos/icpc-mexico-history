@@ -12,12 +12,12 @@
 
 ### 2002-2003
 
-- #27 _UVB1_ (Regional)
-- #27 _UVB2_ (Regional)
+1. #27 _UVB1_ (Regional)
+1. #27 _UVB2_ (Regional)
 
 ### 2004-2005
 
-- #58 _UVM Neuronal Graphs_ (Regional)
+1. #58 _UVM Neuronal Graphs_ (Regional)
 
 
 

@@ -19,36 +19,36 @@
 
 ### 2020-2021
 
-- #145 _BRAXAD_ (Clasificatorio)
+1. #145 _BRAXAD_ (Clasificatorio)
 
 ### 2021-2022
 
-- #133 _BRYXEND_ (Clasificatorio)
+1. #133 _BRYXEND_ (Clasificatorio)
 
 ### 2022-2023
 
-- #33 _Los Chicos Superpoderosos_ (Regional)
-- #42 _NoC++_ (Regional)
-- #82 _JVF-007_ (Clasificatorio)
-- #95 _Bryxelz _ (Clasificatorio)
-- #183 _OutOfRange_ (Clasificatorio)
-- #199 _Tribilines_ (Clasificatorio)
-- #253 _No Name_ (Clasificatorio)
-- #302 _IngeCs_ (Clasificatorio)
-- #382 _Byzantine generals_ (Clasificatorio)
-- #382 _Zaunitas_ (Clasificatorio)
+1. #33 _Los Chicos Superpoderosos_ (Regional)
+1. #42 _NoC++_ (Regional)
+1. #82 _JVF-007_ (Clasificatorio)
+1. #95 _Bryxelz _ (Clasificatorio)
+1. #183 _OutOfRange_ (Clasificatorio)
+1. #199 _Tribilines_ (Clasificatorio)
+1. #253 _No Name_ (Clasificatorio)
+1. #302 _IngeCs_ (Clasificatorio)
+1. #382 _Byzantine generals_ (Clasificatorio)
+1. #382 _Zaunitas_ (Clasificatorio)
 
 ### 2023-2024
 
-- #25 _Solanitos_ (Clasificatorio)
-- #48 _Quesabirria Flamin'Hot_ (Clasificatorio)
-- #51 _Los Chicos Superpoderosos_ (Clasificatorio)
-- #80 _Bogo sorters_ (Clasificatorio)
-- #105 _GH^2_ (Clasificatorio)
-- #142 _Dragons ++_ (Clasificatorio)
-- #154 _Cageto_ (Clasificatorio)
-- #157 _Varvazsan_ (Clasificatorio)
-- #392 _La Crikolosa_ (Clasificatorio)
+1. #25 _Solanitos_ (Clasificatorio)
+1. #48 _Quesabirria Flamin'Hot_ (Clasificatorio)
+1. #51 _Los Chicos Superpoderosos_ (Clasificatorio)
+1. #80 _Bogo sorters_ (Clasificatorio)
+1. #105 _GH^2_ (Clasificatorio)
+1. #142 _Dragons ++_ (Clasificatorio)
+1. #154 _Cageto_ (Clasificatorio)
+1. #157 _Varvazsan_ (Clasificatorio)
+1. #392 _La Crikolosa_ (Clasificatorio)
 
 
 

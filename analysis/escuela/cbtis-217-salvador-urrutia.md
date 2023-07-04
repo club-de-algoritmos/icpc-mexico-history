@@ -13,10 +13,10 @@
 
 ### 2022-2023
 
-- #382 _CBTIS217-Los catrines _ (Clasificatorio)
-- #382 _EMJ Code_ (Clasificatorio)
-- #382 _Los Humildes_ (Clasificatorio)
-- #382 _The ORIG rejected us_ (Clasificatorio)
+1. #382 _CBTIS217-Los catrines _ (Clasificatorio)
+1. #382 _EMJ Code_ (Clasificatorio)
+1. #382 _Los Humildes_ (Clasificatorio)
+1. #382 _The ORIG rejected us_ (Clasificatorio)
 
 
 

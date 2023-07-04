@@ -19,16 +19,16 @@
 
 ### 2017-2018
 
-- #86 _return to-sleepj_ (Regional)
-- #245 _JCO-Premier_ (Clasificatorio)
-- #320 _Swing_ (Clasificatorio)
-- #324 _Iguana Soft_ (Clasificatorio)
-- #330 _Code Art_ (Clasificatorio)
-- #336 _Redmont_ (Clasificatorio)
-- #405 _DreamTeamUCA_ (Clasificatorio)
-- #405 _Gang of Seven_ (Clasificatorio)
-- #405 _JAR_ (Clasificatorio)
-- #405 _UCA++_ (Clasificatorio)
+1. #86 _return to-sleepj_ (Regional)
+1. #245 _JCO-Premier_ (Clasificatorio)
+1. #320 _Swing_ (Clasificatorio)
+1. #324 _Iguana Soft_ (Clasificatorio)
+1. #330 _Code Art_ (Clasificatorio)
+1. #336 _Redmont_ (Clasificatorio)
+1. #405 _DreamTeamUCA_ (Clasificatorio)
+1. #405 _Gang of Seven_ (Clasificatorio)
+1. #405 _JAR_ (Clasificatorio)
+1. #405 _UCA++_ (Clasificatorio)
 
 
 

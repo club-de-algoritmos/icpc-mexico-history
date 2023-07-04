@@ -10,7 +10,7 @@
 
 ### 2022-2023
 
-- #56 _OMIJAL-2_ (Regional)
+1. #56 _OMIJAL-2_ (Regional)
 
 
 

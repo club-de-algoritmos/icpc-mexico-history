@@ -19,116 +19,116 @@
 
 ### 2004-2005
 
-- #31 _UAM Azcapotzalco I_ (Regional)
-- #78 _UAM Azcapotzalco II_ (Regional)
+1. #31 _UAM Azcapotzalco I_ (Regional)
+1. #78 _UAM Azcapotzalco II_ (Regional)
 
 ### 2005-2006
 
-- #17 _UAM Azcapotzalco III_ (Regional)
-- #63 _UAM Azcapotzalco IV_ (Regional)
+1. #17 _UAM Azcapotzalco III_ (Regional)
+1. #63 _UAM Azcapotzalco IV_ (Regional)
 
 ### 2006-2007
 
-- #14 _UAM Azcapotzalco VI_ (Regional)
-- #30 _UAM Azcapotzalco V_ (Regional)
-- #85 _UAM Azcapotzalco VII_ (Regional)
+1. #14 _UAM Azcapotzalco VI_ (Regional)
+1. #30 _UAM Azcapotzalco V_ (Regional)
+1. #85 _UAM Azcapotzalco VII_ (Regional)
 
 ### 2007-2008
 
-- #22 _UAM Azcapotzalco X_ (Regional)
-- #37 _UAM Azcapotzalco  VIII_ (Regional)
-- #61 _Panteras_ (Regional)
+1. #22 _UAM Azcapotzalco X_ (Regional)
+1. #37 _UAM Azcapotzalco  VIII_ (Regional)
+1. #61 _Panteras_ (Regional)
 
 ### 2008-2009
 
-- #36 _UAM Azcapotzalco XI_ (Regional)
-- #43 _UAM Azcapotzalco XIII_ (Regional)
-- #64 _UAM Azcapotzalco XII_ (Regional)
+1. #36 _UAM Azcapotzalco XI_ (Regional)
+1. #43 _UAM Azcapotzalco XIII_ (Regional)
+1. #64 _UAM Azcapotzalco XII_ (Regional)
 
 ### 2009-2010
 
-- #29 _UAM Azcapotzalco XIV_ (Regional)
-- #37 _UAM Azcapotzalco XVI_ (Regional)
-- #72 _UAM Azcapotzalco XV_ (Regional)
+1. #29 _UAM Azcapotzalco XIV_ (Regional)
+1. #37 _UAM Azcapotzalco XVI_ (Regional)
+1. #72 _UAM Azcapotzalco XV_ (Regional)
 
 ### 2010-2011
 
-- #31 _UAM Azcapotzalco XVII_ (Regional)
-- #113 _UAM Azcapotzalco XVIII_ (Regional)
-- #143 _UAM Azcapotzalco XIX_ (Regional)
+1. #31 _UAM Azcapotzalco XVII_ (Regional)
+1. #113 _UAM Azcapotzalco XVIII_ (Regional)
+1. #143 _UAM Azcapotzalco XIX_ (Regional)
 
 ### 2011-2012
 
-- #5 _UAM Azcapotzalco XX_ (Regional)
-- #18 _UAM Azcapotzalco XXI_ (Regional)
-- #97 _UAM Azcapotzalco XXII_ (Regional)
+1. #5 _UAM Azcapotzalco XX_ (Regional)
+1. #18 _UAM Azcapotzalco XXI_ (Regional)
+1. #97 _UAM Azcapotzalco XXII_ (Regional)
 
 ### 2012-2013
 
-- #21 _UAM Azcapotzalco XXIV_ (Regional)
-- #67 _UAM Azcapotzalco XXV_ (Regional)
-- #109 _UAM Azcapotzalco XXIII_ (Regional)
+1. #21 _UAM Azcapotzalco XXIV_ (Regional)
+1. #67 _UAM Azcapotzalco XXV_ (Regional)
+1. #109 _UAM Azcapotzalco XXIII_ (Regional)
 
 ### 2013-2014
 
-- #26 _UAM Azcapotzalco XXVI_ (Regional)
-- #48 _UAM Azcapotzalco XXVII_ (Regional)
-- #64 _UAM Azcapotzalco XXVIII_ (Regional)
+1. #26 _UAM Azcapotzalco XXVI_ (Regional)
+1. #48 _UAM Azcapotzalco XXVII_ (Regional)
+1. #64 _UAM Azcapotzalco XXVIII_ (Regional)
 
 ### 2015-2016
 
-- #31 _UAM Azcapotzalco 2015-1_ (Regional)
-- #46 _UAM Azcapotzalco 2015-3_ (Clasificatorio)
-- #72 _UAM Azcapotzalco 2015-2_ (Regional)
-- #94 _UAM Azcapotzalco 2015-4_ (Clasificatorio)
+1. #31 _UAM Azcapotzalco 2015-1_ (Regional)
+1. #46 _UAM Azcapotzalco 2015-3_ (Clasificatorio)
+1. #72 _UAM Azcapotzalco 2015-2_ (Regional)
+1. #94 _UAM Azcapotzalco 2015-4_ (Clasificatorio)
 
 ### 2016-2017
 
-- #24 _UAM Azcapotzalco 2016 II_ (Regional)
-- #36 _UAM Azcapotzalco 2016_ (Regional)
-- #80 _UAM Azcapotzalco 2016 III_ (Clasificatorio)
+1. #24 _UAM Azcapotzalco 2016 II_ (Regional)
+1. #36 _UAM Azcapotzalco 2016_ (Regional)
+1. #80 _UAM Azcapotzalco 2016 III_ (Clasificatorio)
 
 ### 2017-2018
 
-- #42 _UAM-A 2017-1_ (Regional)
-- #112 _UAM-A 2017-2_ (Clasificatorio)
+1. #42 _UAM-A 2017-1_ (Regional)
+1. #112 _UAM-A 2017-2_ (Clasificatorio)
 
 ### 2018-2019
 
-- #19 _++UAM_ (Regional)
-- #88 _uam_ito's_ (Clasificatorio)
-- #182 _Grupo B++_ (Clasificatorio)
-- #189 _The Determined Squad_ (Clasificatorio)
+1. #19 _++UAM_ (Regional)
+1. #88 _uam_ito's_ (Clasificatorio)
+1. #182 _Grupo B++_ (Clasificatorio)
+1. #189 _The Determined Squad_ (Clasificatorio)
 
 ### 2019-2020
 
-- #26 _++UAM_ (Regional)
-- #69 _UAMitos_ (Clasificatorio)
+1. #26 _++UAM_ (Regional)
+1. #69 _UAMitos_ (Clasificatorio)
 
 ### 2020-2021
 
-- #45 _UAMitosPlusPlus_ (Regional)
-- #97 _Final Spark_ (Clasificatorio)
-- #163 _UAMKanda_ (Clasificatorio)
+1. #45 _UAMitosPlusPlus_ (Regional)
+1. #97 _Final Spark_ (Clasificatorio)
+1. #163 _UAMKanda_ (Clasificatorio)
 
 ### 2021-2022
 
-- #37 _#include <uam.h>_ (Regional)
-- #41 _Los WAnsos_ (Regional)
-- #70 _CompuMundoHiperMegaRed_ (Clasificatorio)
-- #143 _Kernel Panic_ (Clasificatorio)
+1. #37 _#include <uam.h>_ (Regional)
+1. #41 _Los WAnsos_ (Regional)
+1. #70 _CompuMundoHiperMegaRed_ (Clasificatorio)
+1. #143 _Kernel Panic_ (Clasificatorio)
 
 ### 2022-2023
 
-- #48 _Los Lobos Solitarios_ (Regional)
-- #72 _Los WAnsos_ (Clasificatorio)
-- #76 _Equation Group_ (Clasificatorio)
-- #111 _AzcaCode_ (Clasificatorio)
+1. #48 _Los Lobos Solitarios_ (Regional)
+1. #72 _Los WAnsos_ (Clasificatorio)
+1. #76 _Equation Group_ (Clasificatorio)
+1. #111 _AzcaCode_ (Clasificatorio)
 
 ### 2023-2024
 
-- #32 _La mejor remontada_ (Clasificatorio)
-- #153 _cagUAM++_ (Clasificatorio)
+1. #32 _La mejor remontada_ (Clasificatorio)
+1. #153 _cagUAM++_ (Clasificatorio)
 
 
 

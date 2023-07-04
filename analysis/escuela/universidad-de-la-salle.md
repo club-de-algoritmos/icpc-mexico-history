@@ -11,8 +11,8 @@
 
 ### 2007-2008
 
-- #61 _Lasalle Power_ (Regional)
-- #61 _Otaku desu_ (Regional)
+1. #61 _Lasalle Power_ (Regional)
+1. #61 _Otaku desu_ (Regional)
 
 
 

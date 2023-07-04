@@ -19,28 +19,28 @@
 
 ### 2007-2008
 
-- #61 _FORZA ITIC 2_ (Regional)
-- #61 _Overclocking_ (Regional)
+1. #61 _FORZA ITIC 2_ (Regional)
+1. #61 _Overclocking_ (Regional)
 
 ### 2008-2009
 
-- #14 _Smash coders_ (Regional)
-- #30 _Null team_ (Regional)
-- #101 _JM++_ (Regional)
+1. #14 _Smash coders_ (Regional)
+1. #30 _Null team_ (Regional)
+1. #101 _JM++_ (Regional)
 
 ### 2009-2010
 
-- #41 _Team.name = null;_ (Regional)
+1. #41 _Team.name = null;_ (Regional)
 
 ### 2010-2011
 
-- #29 _Big Blue Team_ (Regional)
-- #156 _Javasalir_ (Regional)
-- #156 _NullCoders_ (Regional)
+1. #29 _Big Blue Team_ (Regional)
+1. #156 _Javasalir_ (Regional)
+1. #156 _NullCoders_ (Regional)
 
 ### 2013-2014
 
-- #79 _AIO_ (Regional)
+1. #79 _AIO_ (Regional)
 
 
 

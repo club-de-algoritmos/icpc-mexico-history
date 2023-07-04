@@ -12,15 +12,15 @@
 
 ### 2019-2020
 
-- #174 _Aj Compleja_ (Clasificatorio)
+1. #174 _Aj Compleja_ (Clasificatorio)
 
 ### 2020-2021
 
-- #351 _koders_ (Clasificatorio)
+1. #351 _koders_ (Clasificatorio)
 
 ### 2023-2024
 
-- #326 _NullPointer_ (Clasificatorio)
+1. #326 _NullPointer_ (Clasificatorio)
 
 
 

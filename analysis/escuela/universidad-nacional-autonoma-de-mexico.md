@@ -19,59 +19,59 @@
 
 ### 2002-2003
 
-- #8 _proteco_ (Regional)
+1. #8 _proteco_ (Regional)
 
 ### 2003-2004
 
-- #16 _Pumas FC-FI 2_ (Regional)
-- #22 _Pumas FC-FI_ (Regional)
+1. #16 _Pumas FC-FI 2_ (Regional)
+1. #22 _Pumas FC-FI_ (Regional)
 
 ### 2006-2007
 
-- #69 _Under-ground_ (Regional)
+1. #69 _Under-ground_ (Regional)
 
 ### 2007-2008
 
-- #21 _Underground_ (Regional)
+1. #21 _Underground_ (Regional)
 
 ### 2008-2009
 
-- #37 _bsod_ (Regional)
-- #45 _Guru Meditation_ (Regional)
-- #54 _fork bomb_ (Regional)
-- #100 _Prioqueuers_ (Regional)
+1. #37 _bsod_ (Regional)
+1. #45 _Guru Meditation_ (Regional)
+1. #54 _fork bomb_ (Regional)
+1. #100 _Prioqueuers_ (Regional)
 
 ### 2009-2010
 
-- #76 _MACoides_ (Regional)
-- #113 _Leperianos_ (Regional)
-- #116 _PumasOO_ (Regional)
-- #116 _SisteMAC_ (Regional)
+1. #76 _MACoides_ (Regional)
+1. #113 _Leperianos_ (Regional)
+1. #116 _PumasOO_ (Regional)
+1. #116 _SisteMAC_ (Regional)
 
 ### 2010-2011
 
-- #72 _S_T_DIO.h_ (Regional)
-- #79 _~U()_ (Regional)
-- #82 _Áureo_ (Regional)
-- #121 _Bubulubu FI UNAM_ (Regional)
-- #132 _GSH_ (Regional)
-- #156 _¶M@_ (Regional)
+1. #72 _S_T_DIO.h_ (Regional)
+1. #79 _~U()_ (Regional)
+1. #82 _Áureo_ (Regional)
+1. #121 _Bubulubu FI UNAM_ (Regional)
+1. #132 _GSH_ (Regional)
+1. #156 _¶M@_ (Regional)
 
 ### 2011-2012
 
-- #7 _PU++_ (Regional)
+1. #7 _PU++_ (Regional)
 
 ### 2012-2013
 
-- #15 _PU++ 2.0_ (Regional)
+1. #15 _PU++ 2.0_ (Regional)
 
 ### 2013-2014
 
-- #5 _PU++_ (Regional)
+1. #5 _PU++_ (Regional)
 
 ### 2015-2016
 
-- #4 _UNAM 1_ (Regional)
+1. #4 _UNAM 1_ (Regional)
 
 
 

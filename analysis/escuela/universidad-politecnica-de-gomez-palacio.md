@@ -10,7 +10,7 @@
 
 ### 2018-2019
 
-- #319 _CodeCrafters_ (Clasificatorio)
+1. #319 _CodeCrafters_ (Clasificatorio)
 
 
 

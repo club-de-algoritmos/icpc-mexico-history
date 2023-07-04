@@ -19,33 +19,33 @@
 
 ### 2006-2007
 
-- #46 (#9 de TecNM) _Versión Beta_ (Regional)
+1. #46 (#9 de TecNM) _Versión Beta_ (Regional)
 
 ### 2018-2019
 
-- #234 (#43 de TecNM) _itp1.0_ (Clasificatorio)
-- #394 (#103 de TecNM) _itp2.0_ (Clasificatorio)
+1. #234 (#43 de TecNM) _itp1.0_ (Clasificatorio)
+1. #394 (#103 de TecNM) _itp2.0_ (Clasificatorio)
 
 ### 2019-2020
 
-- #382 (#98 de TecNM) _CODEVS_ (Clasificatorio)
-- #382 (#98 de TecNM) _ITP v2.0_ (Clasificatorio)
+1. #382 (#98 de TecNM) _CODEVS_ (Clasificatorio)
+1. #382 (#98 de TecNM) _ITP v2.0_ (Clasificatorio)
 
 ### 2020-2021
 
-- #351 (#65 de TecNM) _Tec_Pachuca_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Tec_Pachuca_ (Clasificatorio)
 
 ### 2021-2022
 
-- #226 (#36 de TecNM) _TecPachuca_01_ (Clasificatorio)
-- #226 (#36 de TecNM) _TecPachuca_02_ (Clasificatorio)
+1. #226 (#36 de TecNM) _TecPachuca_01_ (Clasificatorio)
+1. #226 (#36 de TecNM) _TecPachuca_02_ (Clasificatorio)
 
 ### 2022-2023
 
-- #382 (#82 de TecNM) _Bug Programmers (BP)_ (Clasificatorio)
-- #382 (#82 de TecNM) _CodeArtisans_ (Clasificatorio)
-- #382 (#82 de TecNM) _League of Coders_ (Clasificatorio)
-- #382 (#82 de TecNM) _TuzoGlitchXP_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Bug Programmers (BP)_ (Clasificatorio)
+1. #382 (#82 de TecNM) _CodeArtisans_ (Clasificatorio)
+1. #382 (#82 de TecNM) _League of Coders_ (Clasificatorio)
+1. #382 (#82 de TecNM) _TuzoGlitchXP_ (Clasificatorio)
 
 
 

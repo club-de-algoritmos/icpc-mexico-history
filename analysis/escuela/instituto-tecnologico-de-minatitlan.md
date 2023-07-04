@@ -11,11 +11,11 @@
 
 ### 2003-2004
 
-- #41 (#9 de TecNM) _HALCONES_ (Regional)
+1. #41 (#9 de TecNM) _HALCONES_ (Regional)
 
 ### 2019-2020
 
-- #382 (#98 de TecNM) _Lambdaf_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Lambdaf_ (Clasificatorio)
 
 
 

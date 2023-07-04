@@ -19,44 +19,44 @@
 
 ### 2016-2017
 
-- #9 _Wolves_ (Regional)
-- #68 _Penguins_ (Regional)
-- #115 _Los tres jinetes_ (Clasificatorio)
+1. #9 _Wolves_ (Regional)
+1. #68 _Penguins_ (Regional)
+1. #115 _Los tres jinetes_ (Clasificatorio)
 
 ### 2017-2018
 
-- #15 _Wolves_ (Regional)
-- #22 _Los tres jinetes_ (Regional)
-- #115 _Penguins_ (Clasificatorio)
-- #125 _Ubees_ (Clasificatorio)
-- #137 _return to_sleep_ (Clasificatorio)
-- #261 _Beginners in C_ (Clasificatorio)
-- #405 _Team C++_ (Clasificatorio)
-- #405 _The dark (and strange) side_ (Clasificatorio)
+1. #15 _Wolves_ (Regional)
+1. #22 _Los tres jinetes_ (Regional)
+1. #115 _Penguins_ (Clasificatorio)
+1. #125 _Ubees_ (Clasificatorio)
+1. #137 _return to_sleep_ (Clasificatorio)
+1. #261 _Beginners in C_ (Clasificatorio)
+1. #405 _Team C++_ (Clasificatorio)
+1. #405 _The dark (and strange) side_ (Clasificatorio)
 
 ### 2018-2019
 
-- #29 _Wolves_ (Regional)
-- #31 _Los tres jinetes_ (Regional)
-- #123 _Ubees_ (Clasificatorio)
-- #128 _Wintempla Champions_ (Clasificatorio)
-- #174 _Código Fama_ (Clasificatorio)
-- #226 _Guardians of the Galaxy_ (Clasificatorio)
-- #311 _KB Raptors_ (Clasificatorio)
-- #327 _Beginners in C_ (Clasificatorio)
-- #363 _J-A-J-Team_ (Clasificatorio)
-- #371 _Escuadron 201_ (Clasificatorio)
-- #394 _Los Contendientes_ (Clasificatorio)
+1. #29 _Wolves_ (Regional)
+1. #31 _Los tres jinetes_ (Regional)
+1. #123 _Ubees_ (Clasificatorio)
+1. #128 _Wintempla Champions_ (Clasificatorio)
+1. #174 _Código Fama_ (Clasificatorio)
+1. #226 _Guardians of the Galaxy_ (Clasificatorio)
+1. #311 _KB Raptors_ (Clasificatorio)
+1. #327 _Beginners in C_ (Clasificatorio)
+1. #363 _J-A-J-Team_ (Clasificatorio)
+1. #371 _Escuadron 201_ (Clasificatorio)
+1. #394 _Los Contendientes_ (Clasificatorio)
 
 ### 2019-2020
 
-- #10 _Wolves_ (Regional)
-- #36 _Los Tres Jinetes_ (Regional)
-- #110 _Sistemos_ (Clasificatorio)
+1. #10 _Wolves_ (Regional)
+1. #36 _Los Tres Jinetes_ (Regional)
+1. #110 _Sistemos_ (Clasificatorio)
 
 ### 2020-2021
 
-- #21 _Wolves_ (Regional)
+1. #21 _Wolves_ (Regional)
 
 
 

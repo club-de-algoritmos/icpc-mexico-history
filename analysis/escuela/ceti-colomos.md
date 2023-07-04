@@ -12,15 +12,15 @@
 
 ### 2009-2010
 
-- #89 _OMIJAL - CETI_ (Regional)
+1. #89 _OMIJAL - CETI_ (Regional)
 
 ### 2010-2011
 
-- #127 _CETI Guan_ (Regional)
+1. #127 _CETI Guan_ (Regional)
 
 ### 2022-2023
 
-- #382 _FAST in Ohio_ (Clasificatorio)
+1. #382 _FAST in Ohio_ (Clasificatorio)
 
 
 

@@ -11,11 +11,11 @@
 
 ### 2001-2002
 
-- #8 _URL-Excelencia_ (Regional)
+1. #8 _URL-Excelencia_ (Regional)
 
 ### 2003-2004
 
-- #41 _URL-DAC_ (Regional)
+1. #41 _URL-DAC_ (Regional)
 
 
 

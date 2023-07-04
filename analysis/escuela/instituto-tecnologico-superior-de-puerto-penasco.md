@@ -19,38 +19,38 @@
 
 ### 2019-2020
 
-- #382 (#98 de TecNM) _Code-Guy's_ (Clasificatorio)
-- #382 (#98 de TecNM) _TPDC_ (Clasificatorio)
-- #382 (#98 de TecNM) _ldbl_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Code-Guy's_ (Clasificatorio)
+1. #382 (#98 de TecNM) _TPDC_ (Clasificatorio)
+1. #382 (#98 de TecNM) _ldbl_ (Clasificatorio)
 
 ### 2020-2021
 
-- #351 (#65 de TecNM) _Archetype_ (Clasificatorio)
-- #351 (#65 de TecNM) _Correcaminos ITSPP 1_ (Clasificatorio)
-- #351 (#65 de TecNM) _Correcaminos ITSPP 2_ (Clasificatorio)
-- #351 (#65 de TecNM) _Correcaminos ITSPP 3_ (Clasificatorio)
-- #351 (#65 de TecNM) _Correcaminos ITSPP 4_ (Clasificatorio)
-- #351 (#65 de TecNM) _CorrecaminosTec_ (Clasificatorio)
-- #351 (#65 de TecNM) _CorrecaminosTec2_ (Clasificatorio)
-- #351 (#65 de TecNM) _SentientsUmbra_ (Clasificatorio)
-- #351 (#65 de TecNM) _TEEN'S TEC_ (Clasificatorio)
-- #351 (#65 de TecNM) _X Force_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Archetype_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Correcaminos ITSPP 1_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Correcaminos ITSPP 2_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Correcaminos ITSPP 3_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Correcaminos ITSPP 4_ (Clasificatorio)
+1. #351 (#65 de TecNM) _CorrecaminosTec_ (Clasificatorio)
+1. #351 (#65 de TecNM) _CorrecaminosTec2_ (Clasificatorio)
+1. #351 (#65 de TecNM) _SentientsUmbra_ (Clasificatorio)
+1. #351 (#65 de TecNM) _TEEN'S TEC_ (Clasificatorio)
+1. #351 (#65 de TecNM) _X Force_ (Clasificatorio)
 
 ### 2022-2023
 
-- #382 (#82 de TecNM) _3 RANCHOS_ (Clasificatorio)
-- #382 (#82 de TecNM) _BACKSTREET BOYS_ (Clasificatorio)
-- #382 (#82 de TecNM) _BOMBÓN, BELLOTA Y BURBULA_ (Clasificatorio)
-- #382 (#82 de TecNM) _CUANDO SE ACABA EL SEMESTRE?_ (Clasificatorio)
-- #382 (#82 de TecNM) _Depredadores _ (Clasificatorio)
-- #382 (#82 de TecNM) _FECH_ (Clasificatorio)
-- #382 (#82 de TecNM) _GENTE DEL SEÑOR CHEMA_ (Clasificatorio)
-- #382 (#82 de TecNM) _GROVE STREET_ (Clasificatorio)
-- #382 (#82 de TecNM) _KAMIKASES_ (Clasificatorio)
-- #382 (#82 de TecNM) _LOS MOSQUETEROS_ (Clasificatorio)
-- #382 (#82 de TecNM) _No sabemos_ (Clasificatorio)
-- #382 (#82 de TecNM) _Shasadia_ (Clasificatorio)
-- #382 (#82 de TecNM) _UMIZUMI_ (Clasificatorio)
+1. #382 (#82 de TecNM) _3 RANCHOS_ (Clasificatorio)
+1. #382 (#82 de TecNM) _BACKSTREET BOYS_ (Clasificatorio)
+1. #382 (#82 de TecNM) _BOMBÓN, BELLOTA Y BURBULA_ (Clasificatorio)
+1. #382 (#82 de TecNM) _CUANDO SE ACABA EL SEMESTRE?_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Depredadores _ (Clasificatorio)
+1. #382 (#82 de TecNM) _FECH_ (Clasificatorio)
+1. #382 (#82 de TecNM) _GENTE DEL SEÑOR CHEMA_ (Clasificatorio)
+1. #382 (#82 de TecNM) _GROVE STREET_ (Clasificatorio)
+1. #382 (#82 de TecNM) _KAMIKASES_ (Clasificatorio)
+1. #382 (#82 de TecNM) _LOS MOSQUETEROS_ (Clasificatorio)
+1. #382 (#82 de TecNM) _No sabemos_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Shasadia_ (Clasificatorio)
+1. #382 (#82 de TecNM) _UMIZUMI_ (Clasificatorio)
 
 
 

@@ -12,9 +12,9 @@
 
 ### 2010-2011
 
-- #45 _UMCC2_ (Regional)
-- #78 _UMCC4_ (Regional)
-- #150 _UMCC1_ (Regional)
+1. #45 _UMCC2_ (Regional)
+1. #78 _UMCC4_ (Regional)
+1. #150 _UMCC1_ (Regional)
 
 
 

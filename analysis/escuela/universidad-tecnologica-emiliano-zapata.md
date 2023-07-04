@@ -10,7 +10,7 @@
 
 ### 2019-2020
 
-- #382 _Mexikhans_ (Clasificatorio)
+1. #382 _Mexikhans_ (Clasificatorio)
 
 
 

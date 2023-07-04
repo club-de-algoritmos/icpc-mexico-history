@@ -19,23 +19,23 @@
 
 ### 2017-2018
 
-- #225 _Code Breaker_ (Clasificatorio)
-- #247 _Puzzles_ (Clasificatorio)
-- #400 _Izipisi_ (Clasificatorio)
-- #405 _BlueLine_ (Clasificatorio)
-- #405 _RedLine_ (Clasificatorio)
+1. #225 _Code Breaker_ (Clasificatorio)
+1. #247 _Puzzles_ (Clasificatorio)
+1. #400 _Izipisi_ (Clasificatorio)
+1. #405 _BlueLine_ (Clasificatorio)
+1. #405 _RedLine_ (Clasificatorio)
 
 ### 2018-2019
 
-- #236 _Izipizi_ (Clasificatorio)
-- #252 _Puzzles_ (Clasificatorio)
-- #353 _Los potatoes 2.0_ (Clasificatorio)
+1. #236 _Izipizi_ (Clasificatorio)
+1. #252 _Puzzles_ (Clasificatorio)
+1. #353 _Los potatoes 2.0_ (Clasificatorio)
 
 ### 2019-2020
 
-- #382 _Code Breakers_ (Clasificatorio)
-- #382 _DJM_ (Clasificatorio)
-- #382 _Los Potatoes 7.0_ (Clasificatorio)
+1. #382 _Code Breakers_ (Clasificatorio)
+1. #382 _DJM_ (Clasificatorio)
+1. #382 _Los Potatoes 7.0_ (Clasificatorio)
 
 
 

@@ -19,34 +19,34 @@
 
 ### 2005-2006
 
-- #85 (#11 de TecNM) _ZORRO1_ (Regional)
-- #85 (#11 de TecNM) _ZORRO2_ (Regional)
-- #85 (#11 de TecNM) _ZORRO3_ (Regional)
+1. #85 (#11 de TecNM) _ZORRO1_ (Regional)
+1. #85 (#11 de TecNM) _ZORRO2_ (Regional)
+1. #85 (#11 de TecNM) _ZORRO3_ (Regional)
 
 ### 2006-2007
 
-- #85 (#19 de TecNM) _Halcones 1_ (Regional)
-- #85 (#19 de TecNM) _Halcones 2_ (Regional)
-- #85 (#19 de TecNM) _Halcones2_ (Regional)
+1. #85 (#19 de TecNM) _Halcones 1_ (Regional)
+1. #85 (#19 de TecNM) _Halcones 2_ (Regional)
+1. #85 (#19 de TecNM) _Halcones2_ (Regional)
 
 ### 2008-2009
 
-- #101 (#26 de TecNM) _Halcones_ (Regional)
+1. #101 (#26 de TecNM) _Halcones_ (Regional)
 
 ### 2012-2013
 
-- #89 (#33 de TecNM) _GALAXIS_ (Regional)
+1. #89 (#33 de TecNM) _GALAXIS_ (Regional)
 
 ### 2018-2019
 
-- #377 (#90 de TecNM) _Beaners_Loreto_ (Clasificatorio)
-- #381 (#93 de TecNM) _Heavy Metal_ (Clasificatorio)
-- #387 (#96 de TecNM) _Fenix_ (Clasificatorio)
-- #394 (#103 de TecNM) _Alcontec_ (Clasificatorio)
-- #394 (#103 de TecNM) _J&H_ (Clasificatorio)
-- #394 (#103 de TecNM) _Picateclas_ (Clasificatorio)
-- #394 (#103 de TecNM) _Scorpions_Loreto_ (Clasificatorio)
-- #394 (#103 de TecNM) _bloodfallel_ (Clasificatorio)
+1. #377 (#90 de TecNM) _Beaners_Loreto_ (Clasificatorio)
+1. #381 (#93 de TecNM) _Heavy Metal_ (Clasificatorio)
+1. #387 (#96 de TecNM) _Fenix_ (Clasificatorio)
+1. #394 (#103 de TecNM) _Alcontec_ (Clasificatorio)
+1. #394 (#103 de TecNM) _J&H_ (Clasificatorio)
+1. #394 (#103 de TecNM) _Picateclas_ (Clasificatorio)
+1. #394 (#103 de TecNM) _Scorpions_Loreto_ (Clasificatorio)
+1. #394 (#103 de TecNM) _bloodfallel_ (Clasificatorio)
 
 
 

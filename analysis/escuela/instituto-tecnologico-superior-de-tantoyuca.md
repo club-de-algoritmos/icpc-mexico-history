@@ -19,38 +19,38 @@
 
 ### 2007-2008
 
-- #61 (#15 de TecNM) _IO EXCEPTION_ (Regional)
+1. #61 (#15 de TecNM) _IO EXCEPTION_ (Regional)
 
 ### 2010-2011
 
-- #156 (#44 de TecNM) _HIMAGA_ (Regional)
-- #156 (#44 de TecNM) _SIMULADORES_ (Regional)
+1. #156 (#44 de TecNM) _HIMAGA_ (Regional)
+1. #156 (#44 de TecNM) _SIMULADORES_ (Regional)
 
 ### 2011-2012
 
-- #104 (#33 de TecNM) _HINAGA_ (Regional)
+1. #104 (#33 de TecNM) _HINAGA_ (Regional)
 
 ### 2012-2013
 
-- #104 (#40 de TecNM) _working_ (Regional)
-- #128 (#49 de TecNM) _s-black_ (Regional)
+1. #104 (#40 de TecNM) _working_ (Regional)
+1. #128 (#49 de TecNM) _s-black_ (Regional)
 
 ### 2013-2014
 
-- #95 (#24 de TecNM) _SHARK_ (Regional)
+1. #95 (#24 de TecNM) _SHARK_ (Regional)
 
 ### 2014-2015
 
-- #135 (#27 de TecNM) _Giga Shark_ (Clasificatorio)
+1. #135 (#27 de TecNM) _Giga Shark_ (Clasificatorio)
 
 ### 2015-2016
 
-- #108 (#28 de TecNM) _GIGASHARK_ (Clasificatorio)
-- #108 (#28 de TecNM) _TUX_ (Clasificatorio)
+1. #108 (#28 de TecNM) _GIGASHARK_ (Clasificatorio)
+1. #108 (#28 de TecNM) _TUX_ (Clasificatorio)
 
 ### 2017-2018
 
-- #405 (#97 de TecNM) _JAVALINUX_ (Clasificatorio)
+1. #405 (#97 de TecNM) _JAVALINUX_ (Clasificatorio)
 
 
 

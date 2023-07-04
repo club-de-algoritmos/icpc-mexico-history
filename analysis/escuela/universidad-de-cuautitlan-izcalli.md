@@ -10,7 +10,7 @@
 
 ### 2002-2003
 
-- #27 _freak programmers_ (Regional)
+1. #27 _freak programmers_ (Regional)
 
 
 

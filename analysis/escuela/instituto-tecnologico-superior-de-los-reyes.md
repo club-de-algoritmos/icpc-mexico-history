@@ -19,70 +19,70 @@
 
 ### 2005-2006
 
-- #85 (#11 de TecNM) _ITS Los Reyes 2_ (Regional)
-- #85 (#11 de TecNM) _ITSLos Reyes 1_ (Regional)
+1. #85 (#11 de TecNM) _ITS Los Reyes 2_ (Regional)
+1. #85 (#11 de TecNM) _ITSLos Reyes 1_ (Regional)
 
 ### 2009-2010
 
-- #47 (#6 de TecNM) _Coyotes Alfa_ (Regional)
-- #116 (#31 de TecNM) _Coyotes Omega_ (Regional)
+1. #47 (#6 de TecNM) _Coyotes Alfa_ (Regional)
+1. #116 (#31 de TecNM) _Coyotes Omega_ (Regional)
 
 ### 2010-2011
 
-- #88 (#12 de TecNM) _Coyotes Alpha_ (Regional)
-- #109 (#22 de TecNM) _Coyotes Omega_ (Regional)
+1. #88 (#12 de TecNM) _Coyotes Alpha_ (Regional)
+1. #109 (#22 de TecNM) _Coyotes Omega_ (Regional)
 
 ### 2011-2012
 
-- #43 (#4 de TecNM) _Coyotes Alpha_ (Regional)
-- #87 (#25 de TecNM) _Coyotes Beta_ (Regional)
-- #104 (#33 de TecNM) _Coyotes Gama_ (Regional)
+1. #43 (#4 de TecNM) _Coyotes Alpha_ (Regional)
+1. #87 (#25 de TecNM) _Coyotes Beta_ (Regional)
+1. #104 (#33 de TecNM) _Coyotes Gama_ (Regional)
 
 ### 2012-2013
 
-- #32 (#11 de TecNM) _Coyotes Alpha_ (Regional)
-- #69 (#26 de TecNM) _Coyotes Beta_ (Regional)
-- #98 (#36 de TecNM) _Coyotes Gama_ (Regional)
+1. #32 (#11 de TecNM) _Coyotes Alpha_ (Regional)
+1. #69 (#26 de TecNM) _Coyotes Beta_ (Regional)
+1. #98 (#36 de TecNM) _Coyotes Gama_ (Regional)
 
 ### 2013-2014
 
-- #46 (#6 de TecNM) _Coyotes Alpha_ (Regional)
-- #86 (#18 de TecNM) _Coyotes Betha_ (Regional)
-- #95 (#24 de TecNM) _GAMA_ (Regional)
+1. #46 (#6 de TecNM) _Coyotes Alpha_ (Regional)
+1. #86 (#18 de TecNM) _Coyotes Betha_ (Regional)
+1. #95 (#24 de TecNM) _GAMA_ (Regional)
 
 ### 2014-2015
 
-- #48 (#6 de TecNM) _COYOTES Alpha_ (Regional)
-- #59 (#12 de TecNM) _Mozzart_ (Regional)
-- #60 (#13 de TecNM) _COYOTES BeTha_ (Regional)
+1. #48 (#6 de TecNM) _COYOTES Alpha_ (Regional)
+1. #59 (#12 de TecNM) _Mozzart_ (Regional)
+1. #60 (#13 de TecNM) _COYOTES BeTha_ (Regional)
 
 ### 2015-2016
 
-- #48 (#7 de TecNM) _Coyotes AlPha_ (Regional)
-- #64 (#12 de TecNM) _Tk7++_ (Regional)
+1. #48 (#7 de TecNM) _Coyotes AlPha_ (Regional)
+1. #64 (#12 de TecNM) _Tk7++_ (Regional)
 
 ### 2016-2017
 
-- #44 (#6 de TecNM) _Dagas++_ (Regional)
-- #76 (#12 de TecNM) _Las Chonchas_ (Regional)
+1. #44 (#6 de TecNM) _Dagas++_ (Regional)
+1. #76 (#12 de TecNM) _Las Chonchas_ (Regional)
 
 ### 2017-2018
 
-- #33 (#3 de TecNM) _Yisuscrush_ (Regional)
-- #70 (#6 de TecNM) _Los Rolones_ (Regional)
-- #102 (#10 de TecNM) _LosMenosUno_ (Clasificatorio)
+1. #33 (#3 de TecNM) _Yisuscrush_ (Regional)
+1. #70 (#6 de TecNM) _Los Rolones_ (Regional)
+1. #102 (#10 de TecNM) _LosMenosUno_ (Clasificatorio)
 
 ### 2018-2019
 
-- #21 (#2 de TecNM) _Las chistorras_ (Regional)
-- #70 (#6 de TecNM) _Los R3y3s_ (Regional)
+1. #21 (#2 de TecNM) _Las chistorras_ (Regional)
+1. #70 (#6 de TecNM) _Los R3y3s_ (Regional)
 
 ### 2019-2020
 
-- #18 (#2 de TecNM) _Los chac's_ (Regional)
-- #66 (#9 de TecNM) _C#io_ (Clasificatorio)
-- #94 (#11 de TecNM) _En el b no hay internet_ (Clasificatorio)
-- #119 (#14 de TecNM) _Real.colicos_ (Clasificatorio)
+1. #18 (#2 de TecNM) _Los chac's_ (Regional)
+1. #66 (#9 de TecNM) _C#io_ (Clasificatorio)
+1. #94 (#11 de TecNM) _En el b no hay internet_ (Clasificatorio)
+1. #119 (#14 de TecNM) _Real.colicos_ (Clasificatorio)
 
 
 

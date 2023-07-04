@@ -15,15 +15,15 @@
 
 ### 2009-2010
 
-- #64 _UHo_Team01_ (Regional)
-- #90 _UHo_Team02_ (Regional)
-- #111 _UHo_Team04_ (Regional)
-- #116 _UHo_Team03_ (Regional)
+1. #64 _UHo_Team01_ (Regional)
+1. #90 _UHo_Team02_ (Regional)
+1. #111 _UHo_Team04_ (Regional)
+1. #116 _UHo_Team03_ (Regional)
 
 ### 2010-2011
 
-- #57 _UHo-01_ (Regional)
-- #65 _UHo-Soap_ (Regional)
+1. #57 _UHo-01_ (Regional)
+1. #65 _UHo-Soap_ (Regional)
 
 
 

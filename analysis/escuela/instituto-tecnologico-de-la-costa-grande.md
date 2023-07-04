@@ -11,8 +11,8 @@
 
 ### 2018-2019
 
-- #394 (#103 de TecNM) _Cocodrilos1_ (Clasificatorio)
-- #394 (#103 de TecNM) _Cocodrilos2_ (Clasificatorio)
+1. #394 (#103 de TecNM) _Cocodrilos1_ (Clasificatorio)
+1. #394 (#103 de TecNM) _Cocodrilos2_ (Clasificatorio)
 
 
 

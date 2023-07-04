@@ -12,12 +12,12 @@
 
 ### 2020-2021
 
-- #351 _NegCoders_ (Clasificatorio)
+1. #351 _NegCoders_ (Clasificatorio)
 
 ### 2021-2022
 
-- #226 _NullPointer_ (Clasificatorio)
-- #226 _QCoders_ (Clasificatorio)
+1. #226 _NullPointer_ (Clasificatorio)
+1. #226 _QCoders_ (Clasificatorio)
 
 
 

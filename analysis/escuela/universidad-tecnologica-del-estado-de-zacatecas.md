@@ -17,23 +17,23 @@
 
 ### 2015-2016
 
-- #108 _Codecs_ (Clasificatorio)
-- #108 _robotics_ (Clasificatorio)
+1. #108 _Codecs_ (Clasificatorio)
+1. #108 _robotics_ (Clasificatorio)
 
 ### 2016-2017
 
-- #121 _Código Oculto_ (Clasificatorio)
-- #121 _PUNTO Y COMA_ (Clasificatorio)
+1. #121 _Código Oculto_ (Clasificatorio)
+1. #121 _PUNTO Y COMA_ (Clasificatorio)
 
 ### 2017-2018
 
-- #405 _Chispitas_ (Clasificatorio)
-- #405 _Los venados_ (Clasificatorio)
+1. #405 _Chispitas_ (Clasificatorio)
+1. #405 _Los venados_ (Clasificatorio)
 
 ### 2019-2020
 
-- #382 _Chispitas_ (Clasificatorio)
-- #382 _Error404_ (Clasificatorio)
+1. #382 _Chispitas_ (Clasificatorio)
+1. #382 _Error404_ (Clasificatorio)
 
 
 

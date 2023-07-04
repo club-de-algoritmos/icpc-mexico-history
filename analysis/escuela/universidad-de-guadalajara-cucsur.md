@@ -14,11 +14,11 @@
 
 ### 2018-2019
 
-- #79 _Pedritos_ (Regional)
-- #197 _Coding Hogs_ (Clasificatorio)
-- #312 _BSOD_ (Clasificatorio)
-- #356 _Gryffindor_ (Clasificatorio)
-- #367 _Davila's slaves_ (Clasificatorio)
+1. #79 _Pedritos_ (Regional)
+1. #197 _Coding Hogs_ (Clasificatorio)
+1. #312 _BSOD_ (Clasificatorio)
+1. #356 _Gryffindor_ (Clasificatorio)
+1. #367 _Davila's slaves_ (Clasificatorio)
 
 
 

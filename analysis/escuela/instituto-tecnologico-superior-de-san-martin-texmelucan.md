@@ -15,12 +15,12 @@
 
 ### 2022-2023
 
-- #382 (#82 de TecNM) _Bestias Binarias_ (Clasificatorio)
-- #382 (#82 de TecNM) _Devs Team ITSSMT_ (Clasificatorio)
-- #382 (#82 de TecNM) _KINDRED_ (Clasificatorio)
-- #382 (#82 de TecNM) _RGV-ISC_ (Clasificatorio)
-- #382 (#82 de TecNM) _SMartinTics_ (Clasificatorio)
-- #382 (#82 de TecNM) _Sparks_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Bestias Binarias_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Devs Team ITSSMT_ (Clasificatorio)
+1. #382 (#82 de TecNM) _KINDRED_ (Clasificatorio)
+1. #382 (#82 de TecNM) _RGV-ISC_ (Clasificatorio)
+1. #382 (#82 de TecNM) _SMartinTics_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Sparks_ (Clasificatorio)
 
 
 

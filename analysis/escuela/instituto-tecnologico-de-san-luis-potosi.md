@@ -14,20 +14,20 @@
 
 ### 2019-2020
 
-- #382 _An0maly_ (Clasificatorio)
-- #382 _Error 405_ (Clasificatorio)
+1. #382 _An0maly_ (Clasificatorio)
+1. #382 _Error 405_ (Clasificatorio)
 
 ### 2020-2021
 
-- #351 _Ardillas50_ (Clasificatorio)
+1. #351 _Ardillas50_ (Clasificatorio)
 
 ### 2021-2022
 
-- #226 _0UT0FB0UND5_ (Clasificatorio)
+1. #226 _0UT0FB0UND5_ (Clasificatorio)
 
 ### 2022-2023
 
-- #382 _0UT0FB0UN5_ (Clasificatorio)
+1. #382 _0UT0FB0UN5_ (Clasificatorio)
 
 
 

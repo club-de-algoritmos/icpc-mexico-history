@@ -19,64 +19,64 @@
 
 ### 2001-2002
 
-- #30 (#10 de TecNM) _Mapaches2_ (Regional)
-- #55 (#13 de TecNM) _Mapaches1_ (Regional)
+1. #30 (#10 de TecNM) _Mapaches2_ (Regional)
+1. #55 (#13 de TecNM) _Mapaches1_ (Regional)
 
 ### 2002-2003
 
-- #16 (#2 de TecNM) _Mapache 3_ (Regional)
-- #27 (#3 de TecNM) _Mapache 1_ (Regional)
-- #27 (#3 de TecNM) _Mapache 2_ (Regional)
+1. #16 (#2 de TecNM) _Mapache 3_ (Regional)
+1. #27 (#3 de TecNM) _Mapache 1_ (Regional)
+1. #27 (#3 de TecNM) _Mapache 2_ (Regional)
 
 ### 2003-2004
 
-- #41 (#9 de TecNM) _Mapache1_ (Regional)
-- #41 (#9 de TecNM) _Mapache2_ (Regional)
-- #41 (#9 de TecNM) _Mapache3_ (Regional)
-- #41 (#9 de TecNM) _Mapache4_ (Regional)
-- #41 (#9 de TecNM) _Mapache5_ (Regional)
-- #41 (#9 de TecNM) _Mapache6_ (Regional)
+1. #41 (#9 de TecNM) _Mapache1_ (Regional)
+1. #41 (#9 de TecNM) _Mapache2_ (Regional)
+1. #41 (#9 de TecNM) _Mapache3_ (Regional)
+1. #41 (#9 de TecNM) _Mapache4_ (Regional)
+1. #41 (#9 de TecNM) _Mapache5_ (Regional)
+1. #41 (#9 de TecNM) _Mapache6_ (Regional)
 
 ### 2004-2005
 
-- #64 (#13 de TecNM) _Fractales_ (Regional)
-- #81 (#19 de TecNM) _Marco-Joel-Sergio_ (Regional)
-- #90 (#22 de TecNM) _LOS TOPOS-ISC_ (Regional)
-- #90 (#22 de TecNM) _Novatos Reload_ (Regional)
+1. #64 (#13 de TecNM) _Fractales_ (Regional)
+1. #81 (#19 de TecNM) _Marco-Joel-Sergio_ (Regional)
+1. #90 (#22 de TecNM) _LOS TOPOS-ISC_ (Regional)
+1. #90 (#22 de TecNM) _Novatos Reload_ (Regional)
 
 ### 2005-2006
 
-- #62 (#8 de TecNM) _Daemons_ (Regional)
+1. #62 (#8 de TecNM) _Daemons_ (Regional)
 
 ### 2015-2016
 
-- #108 (#28 de TecNM) _A.M. Turing ITZ_ (Clasificatorio)
-- #108 (#28 de TecNM) _Jhon McCarthy ITZ_ (Clasificatorio)
+1. #108 (#28 de TecNM) _A.M. Turing ITZ_ (Clasificatorio)
+1. #108 (#28 de TecNM) _Jhon McCarthy ITZ_ (Clasificatorio)
 
 ### 2016-2017
 
-- #121 (#20 de TecNM) _TESLA_ITZ_ (Clasificatorio)
+1. #121 (#20 de TecNM) _TESLA_ITZ_ (Clasificatorio)
 
 ### 2017-2018
 
-- #405 (#97 de TecNM) _Stack_ (Clasificatorio)
+1. #405 (#97 de TecNM) _Stack_ (Clasificatorio)
 
 ### 2018-2019
 
-- #296 (#65 de TecNM) _TeslaITZ_ (Clasificatorio)
-- #333 (#78 de TecNM) _HUNTERS_ (Clasificatorio)
-- #394 (#103 de TecNM) _MapachesITZ_ (Clasificatorio)
-- #395 (#159 de TecNM) _Stack0_ (Clasificatorio)
+1. #296 (#65 de TecNM) _TeslaITZ_ (Clasificatorio)
+1. #333 (#78 de TecNM) _HUNTERS_ (Clasificatorio)
+1. #394 (#103 de TecNM) _MapachesITZ_ (Clasificatorio)
+1. #395 (#159 de TecNM) _Stack0_ (Clasificatorio)
 
 ### 2019-2020
 
-- #242 (#44 de TecNM) _Programadores lógicos en fase de aprendizaje 1_ (Clasificatorio)
-- #319 (#72 de TecNM) _Programadores lógicos en fase de aprendizaje 2_ (Clasificatorio)
+1. #242 (#44 de TecNM) _Programadores lógicos en fase de aprendizaje 1_ (Clasificatorio)
+1. #319 (#72 de TecNM) _Programadores lógicos en fase de aprendizaje 2_ (Clasificatorio)
 
 ### 2022-2023
 
-- #382 (#82 de TecNM) _Raccoons_ (Clasificatorio)
-- #382 (#82 de TecNM) _TecCode_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Raccoons_ (Clasificatorio)
+1. #382 (#82 de TecNM) _TecCode_ (Clasificatorio)
 
 
 

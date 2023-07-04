@@ -19,104 +19,104 @@
 
 ### 2006-2007
 
-- #85 (#19 de TecNM) _IT-Veracruz_ (Regional)
+1. #85 (#19 de TecNM) _IT-Veracruz_ (Regional)
 
 ### 2012-2013
 
-- #31 (#10 de TecNM) _ACMIPT_ (Regional)
-- #91 (#35 de TecNM) _java 2g_ (Regional)
+1. #31 (#10 de TecNM) _ACMIPT_ (Regional)
+1. #91 (#35 de TecNM) _java 2g_ (Regional)
 
 ### 2013-2014
 
-- #67 (#11 de TecNM) _El Equipo Rocket_ (Regional)
-- #71 (#12 de TecNM) _ACM1PT_ (Regional)
+1. #67 (#11 de TecNM) _El Equipo Rocket_ (Regional)
+1. #71 (#12 de TecNM) _ACM1PT_ (Regional)
 
 ### 2014-2015
 
-- #39 (#5 de TecNM) _Long-aniza_ (Regional)
-- #63 (#8 de TecNM) _New cholos nazis_ (Clasificatorio)
+1. #39 (#5 de TecNM) _Long-aniza_ (Regional)
+1. #63 (#8 de TecNM) _New cholos nazis_ (Clasificatorio)
 
 ### 2015-2016
 
-- #34 (#3 de TecNM) _FastFingers lml_ (Regional)
-- #39 (#4 de TecNM) _Warriors LEL_ (Regional)
-- #78 (#16 de TecNM) _Re Bemol_ (Clasificatorio)
-- #82 (#19 de TecNM) _the three fantastic_ (Clasificatorio)
-- #83 (#20 de TecNM) _INCAUTOS.cpp_ (Clasificatorio)
-- #108 (#28 de TecNM) _Metamorfcodeados_ (Clasificatorio)
+1. #34 (#3 de TecNM) _FastFingers lml_ (Regional)
+1. #39 (#4 de TecNM) _Warriors LEL_ (Regional)
+1. #78 (#16 de TecNM) _Re Bemol_ (Clasificatorio)
+1. #82 (#19 de TecNM) _the three fantastic_ (Clasificatorio)
+1. #83 (#20 de TecNM) _INCAUTOS.cpp_ (Clasificatorio)
+1. #108 (#28 de TecNM) _Metamorfcodeados_ (Clasificatorio)
 
 ### 2016-2017
 
-- #13 (#1 de TecNM) _FastFingers lml_ (Regional)
-- #48 (#5 de TecNM) _Programmers Crew_ (Clasificatorio)
-- #52 (#8 de TecNM) _HeavyMachineGun_ (Regional)
-- #56 (#6 de TecNM) _Warriors LEL_ (Clasificatorio)
-- #108 (#18 de TecNM) _RookieCode_ (Clasificatorio)
-- #121 (#20 de TecNM) _BasicTeam_ (Clasificatorio)
-- #121 (#20 de TecNM) _Fullmetal Alchemist_ (Clasificatorio)
-- #121 (#20 de TecNM) _SlowFingers_ (Clasificatorio)
+1. #13 (#1 de TecNM) _FastFingers lml_ (Regional)
+1. #48 (#5 de TecNM) _Programmers Crew_ (Clasificatorio)
+1. #52 (#8 de TecNM) _HeavyMachineGun_ (Regional)
+1. #56 (#6 de TecNM) _Warriors LEL_ (Clasificatorio)
+1. #108 (#18 de TecNM) _RookieCode_ (Clasificatorio)
+1. #121 (#20 de TecNM) _BasicTeam_ (Clasificatorio)
+1. #121 (#20 de TecNM) _Fullmetal Alchemist_ (Clasificatorio)
+1. #121 (#20 de TecNM) _SlowFingers_ (Clasificatorio)
 
 ### 2017-2018
 
-- #28 (#2 de TecNM) _Warriors Z_ (Regional)
-- #38 (#4 de TecNM) _Eternity_ (Regional)
-- #62 (#7 de TecNM) _ProgrammersCrew_ (Clasificatorio)
-- #83 (#8 de TecNM) _HeavyMachineGun_ (Clasificatorio)
-- #107 (#12 de TecNM) _Toshinovo_ (Clasificatorio)
-- #200 (#38 de TecNM) _ByteMe_ (Clasificatorio)
+1. #28 (#2 de TecNM) _Warriors Z_ (Regional)
+1. #38 (#4 de TecNM) _Eternity_ (Regional)
+1. #62 (#7 de TecNM) _ProgrammersCrew_ (Clasificatorio)
+1. #83 (#8 de TecNM) _HeavyMachineGun_ (Clasificatorio)
+1. #107 (#12 de TecNM) _Toshinovo_ (Clasificatorio)
+1. #200 (#38 de TecNM) _ByteMe_ (Clasificatorio)
 
 ### 2018-2019
 
-- #36 (#4 de TecNM) _Code4Life_ (Regional)
-- #105 (#14 de TecNM) _ByteMe_ (Clasificatorio)
-- #124 (#18 de TecNM) _CodeBreakers_ (Clasificatorio)
-- #245 (#47 de TecNM) _Shax_ (Clasificatorio)
+1. #36 (#4 de TecNM) _Code4Life_ (Regional)
+1. #105 (#14 de TecNM) _ByteMe_ (Clasificatorio)
+1. #124 (#18 de TecNM) _CodeBreakers_ (Clasificatorio)
+1. #245 (#47 de TecNM) _Shax_ (Clasificatorio)
 
 ### 2019-2020
 
-- #167 (#23 de TecNM) _<CodeBreakers/>_ (Clasificatorio)
-- #224 (#38 de TecNM) _G.E.N.E.S.I.S_ (Clasificatorio)
-- #283 (#56 de TecNM) _Dragones_ (Clasificatorio)
-- #310 (#66 de TecNM) _DIY_ (Clasificatorio)
-- #314 (#69 de TecNM) _EDDAN_ (Clasificatorio)
-- #322 (#73 de TecNM) _ANONYMUS_ (Clasificatorio)
-- #338 (#78 de TecNM) _Lobos Galacticos_ (Clasificatorio)
-- #362 (#87 de TecNM) _Abstract Team_ (Clasificatorio)
-- #382 (#98 de TecNM) _C-TEC_ (Clasificatorio)
-- #382 (#98 de TecNM) _D.E.C.O.D.E.R.S_ (Clasificatorio)
-- #382 (#98 de TecNM) _Team Ultimate_ (Clasificatorio)
+1. #167 (#23 de TecNM) _<CodeBreakers/>_ (Clasificatorio)
+1. #224 (#38 de TecNM) _G.E.N.E.S.I.S_ (Clasificatorio)
+1. #283 (#56 de TecNM) _Dragones_ (Clasificatorio)
+1. #310 (#66 de TecNM) _DIY_ (Clasificatorio)
+1. #314 (#69 de TecNM) _EDDAN_ (Clasificatorio)
+1. #322 (#73 de TecNM) _ANONYMUS_ (Clasificatorio)
+1. #338 (#78 de TecNM) _Lobos Galacticos_ (Clasificatorio)
+1. #362 (#87 de TecNM) _Abstract Team_ (Clasificatorio)
+1. #382 (#98 de TecNM) _C-TEC_ (Clasificatorio)
+1. #382 (#98 de TecNM) _D.E.C.O.D.E.R.S_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Team Ultimate_ (Clasificatorio)
 
 ### 2020-2021
 
-- #43 (#5 de TecNM) _<CodeBreakers/>_ (Regional)
-- #135 (#10 de TecNM) _GrafosSolution_ (Clasificatorio)
-- #182 (#19 de TecNM) _The Hackers_ (Clasificatorio)
-- #255 (#29 de TecNM) _TroubleShooters Itver(TSI)_ (Clasificatorio)
+1. #43 (#5 de TecNM) _<CodeBreakers/>_ (Regional)
+1. #135 (#10 de TecNM) _GrafosSolution_ (Clasificatorio)
+1. #182 (#19 de TecNM) _The Hackers_ (Clasificatorio)
+1. #255 (#29 de TecNM) _TroubleShooters Itver(TSI)_ (Clasificatorio)
 
 ### 2021-2022
 
-- #226 (#36 de TecNM) _5 Tacos x 10 pesos_ (Clasificatorio)
-- #226 (#36 de TecNM) _AzteCoders_ (Clasificatorio)
-- #226 (#36 de TecNM) _Las vacas de Jalisco_ (Clasificatorio)
-- #226 (#36 de TecNM) _Pollos in Pantuflas_ (Clasificatorio)
+1. #226 (#36 de TecNM) _5 Tacos x 10 pesos_ (Clasificatorio)
+1. #226 (#36 de TecNM) _AzteCoders_ (Clasificatorio)
+1. #226 (#36 de TecNM) _Las vacas de Jalisco_ (Clasificatorio)
+1. #226 (#36 de TecNM) _Pollos in Pantuflas_ (Clasificatorio)
 
 ### 2022-2023
 
-- #44 (#5 de TecNM) _fe++_ (Clasificatorio)
-- #137 (#23 de TecNM) _Programadores Noob_ (Clasificatorio)
-- #382 (#82 de TecNM) _Alfa Wolf Team_ (Clasificatorio)
-- #382 (#82 de TecNM) _Enchiladas de Yakult_ (Clasificatorio)
-- #382 (#82 de TecNM) _Javarianos_ (Clasificatorio)
-- #382 (#82 de TecNM) _Los Seguidores de Karely_ (Clasificatorio)
-- #382 (#82 de TecNM) _ProgramamosConLosPies_ (Clasificatorio)
+1. #44 (#5 de TecNM) _fe++_ (Clasificatorio)
+1. #137 (#23 de TecNM) _Programadores Noob_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Alfa Wolf Team_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Enchiladas de Yakult_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Javarianos_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Los Seguidores de Karely_ (Clasificatorio)
+1. #382 (#82 de TecNM) _ProgramamosConLosPies_ (Clasificatorio)
 
 ### 2023-2024
 
-- #54 (#7 de TecNM) _#include<itverpower>_ (Clasificatorio)
-- #128 (#24 de TecNM) _The Future Code_ (Clasificatorio)
-- #180 (#32 de TecNM) _Javarianos_ (Clasificatorio)
-- #197 (#38 de TecNM) _SXTeam_ (Clasificatorio)
-- #297 (#60 de TecNM) _Program in raptor_ (Clasificatorio)
+1. #54 (#7 de TecNM) _#include<itverpower>_ (Clasificatorio)
+1. #128 (#24 de TecNM) _The Future Code_ (Clasificatorio)
+1. #180 (#32 de TecNM) _Javarianos_ (Clasificatorio)
+1. #197 (#38 de TecNM) _SXTeam_ (Clasificatorio)
+1. #297 (#60 de TecNM) _Program in raptor_ (Clasificatorio)
 
 
 

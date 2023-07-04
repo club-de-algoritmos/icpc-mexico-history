@@ -14,17 +14,17 @@
 
 ### 2013-2014
 
-- #95 _#ErrorDeSintaxis_ (Regional)
+1. #95 _#ErrorDeSintaxis_ (Regional)
 
 ### 2018-2019
 
-- #395 _Los indecisos_ (Clasificatorio)
+1. #395 _Los indecisos_ (Clasificatorio)
 
 ### 2019-2020
 
-- #382 _HelloByte2_ (Clasificatorio)
-- #382 _Jalpa Dynasty_ (Clasificatorio)
-- #382 _Los Private_ (Clasificatorio)
+1. #382 _HelloByte2_ (Clasificatorio)
+1. #382 _Jalpa Dynasty_ (Clasificatorio)
+1. #382 _Los Private_ (Clasificatorio)
 
 
 

@@ -12,9 +12,9 @@
 
 ### 2023-2024
 
-- #150 _ESIMECU-Anthrax_ (Clasificatorio)
-- #175 _ESIMECU-NullByte_ (Clasificatorio)
-- #242 _ESIMECU-Zeniith_ (Clasificatorio)
+1. #150 _ESIMECU-Anthrax_ (Clasificatorio)
+1. #175 _ESIMECU-NullByte_ (Clasificatorio)
+1. #242 _ESIMECU-Zeniith_ (Clasificatorio)
 
 
 

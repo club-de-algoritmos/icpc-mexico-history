@@ -10,7 +10,7 @@
 
 ### 2018-2019
 
-- #91 _Scorpions_ (Regional)
+1. #91 _Scorpions_ (Regional)
 
 
 

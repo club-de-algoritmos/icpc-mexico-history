@@ -10,7 +10,7 @@
 
 ### 2010-2011
 
-- #99 _SAPNA-PONY_ (Regional)
+1. #99 _SAPNA-PONY_ (Regional)
 
 
 

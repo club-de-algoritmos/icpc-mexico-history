@@ -11,11 +11,11 @@
 
 ### 2020-2021
 
-- #59 _OMIZAC_ (Regional)
+1. #59 _OMIZAC_ (Regional)
 
 ### 2021-2022
 
-- #55 _OMIZAC_ (Regional)
+1. #55 _OMIZAC_ (Regional)
 
 
 

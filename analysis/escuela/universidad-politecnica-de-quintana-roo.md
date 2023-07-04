@@ -12,12 +12,12 @@
 
 ### 2014-2015
 
-- #34 _upcode_ (Regional)
+1. #34 _upcode_ (Regional)
 
 ### 2016-2017
 
-- #77 _UPQROO Cancún_ (Regional)
-- #121 _UPQROO Cancún II_ (Clasificatorio)
+1. #77 _UPQROO Cancún_ (Regional)
+1. #121 _UPQROO Cancún II_ (Clasificatorio)
 
 
 

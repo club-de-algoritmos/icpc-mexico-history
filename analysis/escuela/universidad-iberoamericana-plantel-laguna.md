@@ -11,8 +11,8 @@
 
 ### 2001-2002
 
-- #55 _Lobas_ (Regional)
-- #55 _Lobos_ (Regional)
+1. #55 _Lobas_ (Regional)
+1. #55 _Lobos_ (Regional)
 
 
 

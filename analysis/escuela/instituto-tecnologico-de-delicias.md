@@ -19,39 +19,39 @@
 
 ### 2019-2020
 
-- #382 (#98 de TecNM) _Adrián y los Joseses_ (Clasificatorio)
-- #382 (#98 de TecNM) _Awake_ (Clasificatorio)
-- #382 (#98 de TecNM) _Code breakers_ (Clasificatorio)
-- #382 (#98 de TecNM) _Los Campers_ (Clasificatorio)
-- #382 (#98 de TecNM) _Los Code Ranch_ (Clasificatorio)
-- #382 (#98 de TecNM) _Los Foraneos_ (Clasificatorio)
-- #382 (#98 de TecNM) _Los Indecisos1_ (Clasificatorio)
-- #382 (#98 de TecNM) _Los Picateclas_ (Clasificatorio)
-- #382 (#98 de TecNM) _Los chilaquiles_ (Clasificatorio)
-- #382 (#98 de TecNM) _Natus Vincere_ (Clasificatorio)
-- #382 (#98 de TecNM) _Tacos de Perro_ (Clasificatorio)
-- #382 (#98 de TecNM) _Undercode_ (Clasificatorio)
-- #382 (#98 de TecNM) _Uno_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Adrián y los Joseses_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Awake_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Code breakers_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Los Campers_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Los Code Ranch_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Los Foraneos_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Los Indecisos1_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Los Picateclas_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Los chilaquiles_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Natus Vincere_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Tacos de Perro_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Undercode_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Uno_ (Clasificatorio)
 
 ### 2020-2021
 
-- #351 (#65 de TecNM) _Abejas de Delicias_ (Clasificatorio)
-- #351 (#65 de TecNM) _Burritos paseados_ (Clasificatorio)
-- #351 (#65 de TecNM) _Dino_ (Clasificatorio)
-- #351 (#65 de TecNM) _Equipo C_ (Clasificatorio)
-- #351 (#65 de TecNM) _La Plebe de Montión_ (Clasificatorio)
-- #351 (#65 de TecNM) _Los Eléctricos_ (Clasificatorio)
-- #351 (#65 de TecNM) _Los bits_ (Clasificatorio)
-- #351 (#65 de TecNM) _Panas_ (Clasificatorio)
-- #351 (#65 de TecNM) _Rebaño_ (Clasificatorio)
-- #351 (#65 de TecNM) _Rent a Developer_ (Clasificatorio)
-- #351 (#65 de TecNM) _Tacos de Perro_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Abejas de Delicias_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Burritos paseados_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Dino_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Equipo C_ (Clasificatorio)
+1. #351 (#65 de TecNM) _La Plebe de Montión_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Los Eléctricos_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Los bits_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Panas_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Rebaño_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Rent a Developer_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Tacos de Perro_ (Clasificatorio)
 
 ### 2021-2022
 
-- #226 (#36 de TecNM) _CTR_ (Clasificatorio)
-- #226 (#36 de TecNM) _Equipo C_ (Clasificatorio)
-- #226 (#36 de TecNM) _Los jalapeños_ (Clasificatorio)
+1. #226 (#36 de TecNM) _CTR_ (Clasificatorio)
+1. #226 (#36 de TecNM) _Equipo C_ (Clasificatorio)
+1. #226 (#36 de TecNM) _Los jalapeños_ (Clasificatorio)
 
 
 

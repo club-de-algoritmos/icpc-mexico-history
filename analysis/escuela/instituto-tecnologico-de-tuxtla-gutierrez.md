@@ -10,7 +10,7 @@
 
 ### 2011-2012
 
-- #102 (#32 de TecNM) _conejos_ (Regional)
+1. #102 (#32 de TecNM) _conejos_ (Regional)
 
 
 

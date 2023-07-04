@@ -11,11 +11,11 @@
 
 ### 2018-2019
 
-- #395 _Team UAdeO_ (Clasificatorio)
+1. #395 _Team UAdeO_ (Clasificatorio)
 
 ### 2019-2020
 
-- #206 _Equipo106_ (Clasificatorio)
+1. #206 _Equipo106_ (Clasificatorio)
 
 
 

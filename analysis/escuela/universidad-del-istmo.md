@@ -10,7 +10,7 @@
 
 ### 2017-2018
 
-- #84 _Javaagarrandolosuyo_ (Regional)
+1. #84 _Javaagarrandolosuyo_ (Regional)
 
 
 

@@ -17,17 +17,17 @@
 
 ### 2019-2020
 
-- #382 (#98 de TecNM) _“Los Casimiritos”_ (Clasificatorio)
+1. #382 (#98 de TecNM) _“Los Casimiritos”_ (Clasificatorio)
 
 ### 2022-2023
 
-- #382 (#82 de TecNM) _Code Warriors_ (Clasificatorio)
-- #382 (#82 de TecNM) _Error404_ (Clasificatorio)
-- #382 (#82 de TecNM) _Proyecto Génesis_ (Clasificatorio)
-- #382 (#82 de TecNM) _Sistemas1_ (Clasificatorio)
-- #382 (#82 de TecNM) _Sistemas2_ (Clasificatorio)
-- #382 (#82 de TecNM) _Sistemas3_ (Clasificatorio)
-- #382 (#82 de TecNM) _Sistemas4_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Code Warriors_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Error404_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Proyecto Génesis_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Sistemas1_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Sistemas2_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Sistemas3_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Sistemas4_ (Clasificatorio)
 
 
 

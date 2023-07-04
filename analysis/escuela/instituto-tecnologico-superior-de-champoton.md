@@ -15,15 +15,15 @@
 
 ### 2021-2022
 
-- #226 (#36 de TecNM) _ITESCHAM Coders_ (Clasificatorio)
+1. #226 (#36 de TecNM) _ITESCHAM Coders_ (Clasificatorio)
 
 ### 2022-2023
 
-- #382 (#82 de TecNM) _Error 401_ (Clasificatorio)
-- #382 (#82 de TecNM) _ITESCHAM Coders_ (Clasificatorio)
-- #382 (#82 de TecNM) _TECISIC_5A_ (Clasificatorio)
-- #382 (#82 de TecNM) _TECISIC_B_ (Clasificatorio)
-- #382 (#82 de TecNM) _Tech It Out ITESCHAM_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Error 401_ (Clasificatorio)
+1. #382 (#82 de TecNM) _ITESCHAM Coders_ (Clasificatorio)
+1. #382 (#82 de TecNM) _TECISIC_5A_ (Clasificatorio)
+1. #382 (#82 de TecNM) _TECISIC_B_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Tech It Out ITESCHAM_ (Clasificatorio)
 
 
 

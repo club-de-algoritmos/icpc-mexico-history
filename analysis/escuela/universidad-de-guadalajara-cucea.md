@@ -16,16 +16,16 @@
 
 ### 2017-2018
 
-- #365 _Zephyr_ (Clasificatorio)
-- #405 _Constantes_ (Clasificatorio)
-- #405 _InnoCode_ (Clasificatorio)
-- #405 _Legion_ (Clasificatorio)
-- #405 _Los Vagos TI_ (Clasificatorio)
-- #405 _Underscore_ (Clasificatorio)
+1. #365 _Zephyr_ (Clasificatorio)
+1. #405 _Constantes_ (Clasificatorio)
+1. #405 _InnoCode_ (Clasificatorio)
+1. #405 _Legion_ (Clasificatorio)
+1. #405 _Los Vagos TI_ (Clasificatorio)
+1. #405 _Underscore_ (Clasificatorio)
 
 ### 2018-2019
 
-- #394 _Zephyr_ (Clasificatorio)
+1. #394 _Zephyr_ (Clasificatorio)
 
 
 

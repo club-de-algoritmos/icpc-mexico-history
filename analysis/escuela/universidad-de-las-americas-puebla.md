@@ -23,52 +23,54 @@
 
 ### 1998-1999
 
-- #53 _U de las Americas_ (Final Mundial)
+1. #53 _U de las Americas_ (Final Mundial)
 
 ### 1999-2000
 
-- #47 _U de las Americas Waxtron_ (Final Mundial)
+1. #47 _U de las Americas Waxtron_ (Final Mundial)
 
 ### 2001-2002
 
-- #43 _UDLAP1_ (Regional)
-- #47 _UDLAP2_ (Regional)
-- #51 _UDLAP3_ (Regional)
+1. #43 _UDLAP1_ (Regional)
+1. #47 _UDLAP2_ (Regional)
+1. #51 _UDLAP3_ (Regional)
 
 ### 2002-2003
 
-- #56 _Los Novatos_ (Final Mundial)
-- #12 _UDLAP4-NoName_ (Regional)
-- #20 _UDLAP2-Sith_ (Regional)
-- #26 _UDLAP3-Padawans_ (Regional)
+1. #1 _Los Novatos_ (Regional)
+    - Avanzó a la final mundial y resolvió 0 problemas obtuviendo el lugar #56 (18%) en The 2003 ACM Programming Contest World Finals
+1. #12 _UDLAP4-NoName_ (Regional)
+1. #20 _UDLAP2-Sith_ (Regional)
+1. #26 _UDLAP3-Padawans_ (Regional)
 
 ### 2003-2004
 
-- #68 _Los novatos reloaded_ (Final Mundial)
-- #23 _UDLAP2-Sith_ (Regional)
-- #24 _Yar revolutions_ (Regional)
-- #41 _UDLAP4-The Mayas_ (Regional)
+1. #1 _Los novatos reloaded_ (Regional)
+    - Avanzó a la final mundial y resolvió 0 problemas obtuviendo el lugar #68 (7%) en The 2004 ACM Programming Contest World Finals
+1. #23 _UDLAP2-Sith_ (Regional)
+1. #24 _Yar revolutions_ (Regional)
+1. #41 _UDLAP4-The Mayas_ (Regional)
 
 ### 2004-2005
 
-- #3 _NO-NAME_ (Regional)
-- #27 _UDLAP100-NeU_ (Regional)
-- #46 _UDLAP1-0xFFFFFFFF_ (Regional)
-- #52 _UDLAP2-10% de la Calificacion_ (Regional)
+1. #3 _NO-NAME_ (Regional)
+1. #27 _UDLAP100-NeU_ (Regional)
+1. #46 _UDLAP1-0xFFFFFFFF_ (Regional)
+1. #52 _UDLAP2-10% de la Calificacion_ (Regional)
 
 ### 2005-2006
 
-- #21 _UDLAP2-IO-PROMPT_ (Regional)
-- #29 _UDLAP5-EOF_ (Regional)
-- #33 _UDLAP3-TGO_ (Regional)
-- #39 _UDLAP4-AcidSoft_ (Regional)
-- #60 _UDLAP1-0x0A_ (Regional)
-- #85 _UDLAP6-el orgullo por el suelo_ (Regional)
-- #85 _UDLAP7_ (Regional)
+1. #21 _UDLAP2-IO-PROMPT_ (Regional)
+1. #29 _UDLAP5-EOF_ (Regional)
+1. #33 _UDLAP3-TGO_ (Regional)
+1. #39 _UDLAP4-AcidSoft_ (Regional)
+1. #60 _UDLAP1-0x0A_ (Regional)
+1. #85 _UDLAP6-el orgullo por el suelo_ (Regional)
+1. #85 _UDLAP7_ (Regional)
 
 ### 2006-2007
 
-- #26 _Beta Version_ (Regional)
+1. #26 _Beta Version_ (Regional)
 
 
 

@@ -19,102 +19,102 @@
 
 ### 2001-2002
 
-- #55 _TECPOZAR_ (Regional)
+1. #55 _TECPOZAR_ (Regional)
 
 ### 2002-2003
 
-- #27 _TEC POZA RICA_ (Regional)
+1. #27 _TEC POZA RICA_ (Regional)
 
 ### 2003-2004
 
-- #41 _ITS Poza Rica_ (Regional)
+1. #41 _ITS Poza Rica_ (Regional)
 
 ### 2004-2005
 
-- #38 _ITSPR DEVELOPERS_ (Regional)
-- #86 _ITSPR JACM_ (Regional)
-- #90 _TALIBANES NGX_ (Regional)
+1. #38 _ITSPR DEVELOPERS_ (Regional)
+1. #86 _ITSPR JACM_ (Regional)
+1. #90 _TALIBANES NGX_ (Regional)
 
 ### 2007-2008
 
-- #55 _Eclipse_ (Regional)
-- #61 _Jozafra_ (Regional)
+1. #55 _Eclipse_ (Regional)
+1. #61 _Jozafra_ (Regional)
 
 ### 2008-2009
 
-- #49 _itspr_ (Regional)
+1. #49 _itspr_ (Regional)
 
 ### 2009-2010
 
-- #70 _ITSPR-1_ (Regional)
-- #116 _ITSPR-2_ (Regional)
+1. #70 _ITSPR-1_ (Regional)
+1. #116 _ITSPR-2_ (Regional)
 
 ### 2010-2011
 
-- #39 _ITSPR-3_ (Regional)
-- #133 _ITSPR-1_ (Regional)
-- #153 _ITSPR-2_ (Regional)
+1. #39 _ITSPR-3_ (Regional)
+1. #133 _ITSPR-1_ (Regional)
+1. #153 _ITSPR-2_ (Regional)
 
 ### 2011-2012
 
-- #42 _ITSPR-1_ (Regional)
-- #103 _ITSPR-2_ (Regional)
+1. #42 _ITSPR-1_ (Regional)
+1. #103 _ITSPR-2_ (Regional)
 
 ### 2012-2013
 
-- #112 _ITSPR2_ (Regional)
-- #133 _Kyoo Corp_ (Regional)
+1. #112 _ITSPR2_ (Regional)
+1. #133 _Kyoo Corp_ (Regional)
 
 ### 2013-2014
 
-- #95 _Error 404_ (Regional)
-- #95 _Nemesis_ (Regional)
+1. #95 _Error 404_ (Regional)
+1. #95 _Nemesis_ (Regional)
 
 ### 2014-2015
 
-- #51 _ITSPR2_ (Regional)
-- #83 _ITSPR4_ (Clasificatorio)
-- #184 _ITSPR1_ (Clasificatorio)
-- #194 _ITSPR3_ (Clasificatorio)
+1. #51 _ITSPR2_ (Regional)
+1. #83 _ITSPR4_ (Clasificatorio)
+1. #184 _ITSPR1_ (Clasificatorio)
+1. #194 _ITSPR3_ (Clasificatorio)
 
 ### 2015-2016
 
-- #108 _Arkadia_ (Clasificatorio)
-- #108 _Atlas_ (Clasificatorio)
-- #108 _Error 404_ (Clasificatorio)
-- #108 _Kronos con k_ (Clasificatorio)
-- #108 _Zeus_ (Clasificatorio)
+1. #108 _Arkadia_ (Clasificatorio)
+1. #108 _Atlas_ (Clasificatorio)
+1. #108 _Error 404_ (Clasificatorio)
+1. #108 _Kronos con k_ (Clasificatorio)
+1. #108 _Zeus_ (Clasificatorio)
 
 ### 2016-2017
 
-- #37 _ITSPR1_ (Regional)
-- #71 _ITSPR2_ (Regional)
-- #121 _ITSPR3_ (Clasificatorio)
-- #121 _ITSPR4_ (Clasificatorio)
+1. #37 _ITSPR1_ (Regional)
+1. #71 _ITSPR2_ (Regional)
+1. #121 _ITSPR3_ (Clasificatorio)
+1. #121 _ITSPR4_ (Clasificatorio)
 
 ### 2017-2018
 
-- #405 _ATLAS_ (Clasificatorio)
-- #405 _Code Fire_ (Clasificatorio)
-- #405 _Tuxpan team_ (Clasificatorio)
+1. #405 _ATLAS_ (Clasificatorio)
+1. #405 _Code Fire_ (Clasificatorio)
+1. #405 _Tuxpan team_ (Clasificatorio)
 
 ### 2019-2020
 
-- #293 _Cometa azul_ (Clasificatorio)
-- #370 _Team Jar_ (Clasificatorio)
-- #382 _Creative Tech Giants_ (Clasificatorio)
-- #382 _Cypher_ (Clasificatorio)
-- #382 _Dinamita_2019_ (Clasificatorio)
-- #382 _Los Rolos_ (Clasificatorio)
+1. #293 _Cometa azul_ (Clasificatorio)
+1. #370 _Team Jar_ (Clasificatorio)
+1. #382 _Creative Tech Giants_ (Clasificatorio)
+1. #382 _Cypher_ (Clasificatorio)
+1. #382 _Dinamita_2019_ (Clasificatorio)
+1. #382 _Los Rolos_ (Clasificatorio)
 
 ### 2021-2022
 
-- #154 _Three Ocean_ (Clasificatorio)
+1. #154 _Three Ocean_ (Clasificatorio)
 
 ### 2022-2023
 
-- #154 _Three Ocean_ (Clasificatorio)
-- #382 _My Little Python_ (Clasificatorio)
+1. #154 _Three Ocean_ (Clasificatorio)
+1. #382 _My Little Python_ (Clasificatorio)
 
 
 

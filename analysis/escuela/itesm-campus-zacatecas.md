@@ -19,39 +19,39 @@
 
 ### 2001-2002
 
-- #37 _Dead programmers society_ (Regional)
-- #55 _EROS_ (Regional)
+1. #37 _Dead programmers society_ (Regional)
+1. #55 _EROS_ (Regional)
 
 ### 2003-2004
 
-- #21 _Los Necios_ (Regional)
-- #41 _Los Yucas_ (Regional)
+1. #21 _Los Necios_ (Regional)
+1. #41 _Los Yucas_ (Regional)
 
 ### 2004-2005
 
-- #62 _+31_ (Regional)
+1. #62 _+31_ (Regional)
 
 ### 2005-2006
 
-- #68 _Strongers_ (Regional)
-- #84 _Across_ (Regional)
+1. #68 _Strongers_ (Regional)
+1. #84 _Across_ (Regional)
 
 ### 2008-2009
 
-- #88 _Los hijos de Efrén_ (Regional)
+1. #88 _Los hijos de Efrén_ (Regional)
 
 ### 2009-2010
 
-- #116 _ITIC Zacatecas_ (Regional)
+1. #116 _ITIC Zacatecas_ (Regional)
 
 ### 2010-2011
 
-- #87 _ITIC ZAC 1_ (Regional)
-- #156 _ITIC ZAC 2_ (Regional)
+1. #87 _ITIC ZAC 1_ (Regional)
+1. #156 _ITIC ZAC 2_ (Regional)
 
 ### 2011-2012
 
-- #49 _Logics_ (Regional)
+1. #49 _Logics_ (Regional)
 
 
 

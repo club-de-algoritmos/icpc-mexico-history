@@ -19,57 +19,57 @@
 
 ### 2014-2015
 
-- #125 _The one's_ (Clasificatorio)
-- #131 _Code Crysis_ (Clasificatorio)
-- #147 _Captain Crunch_ (Clasificatorio)
-- #165 _Stack overflow_ (Clasificatorio)
+1. #125 _The one's_ (Clasificatorio)
+1. #131 _Code Crysis_ (Clasificatorio)
+1. #147 _Captain Crunch_ (Clasificatorio)
+1. #165 _Stack overflow_ (Clasificatorio)
 
 ### 2017-2018
 
-- #361 _Los Chapulines_ (Clasificatorio)
-- #405 _PID_ (Clasificatorio)
+1. #361 _Los Chapulines_ (Clasificatorio)
+1. #405 _PID_ (Clasificatorio)
 
 ### 2018-2019
 
-- #57 _Sí no gano,me corren - CUALTOS_ (Regional)
-- #67 _Chapulines 2.0 - CUALTOS_ (Regional)
-- #141 _Heavy Machine Team - CUALTOS_ (Clasificatorio)
-- #147 _Ecuipo Dinamita -CUALTOS_ (Clasificatorio)
-- #150 _Astroboys - CUALTOS_ (Clasificatorio)
+1. #57 _Sí no gano,me corren - CUALTOS_ (Regional)
+1. #67 _Chapulines 2.0 - CUALTOS_ (Regional)
+1. #141 _Heavy Machine Team - CUALTOS_ (Clasificatorio)
+1. #147 _Ecuipo Dinamita -CUALTOS_ (Clasificatorio)
+1. #150 _Astroboys - CUALTOS_ (Clasificatorio)
 
 ### 2019-2020
 
-- #39 _Si no gano, me corren_ (Regional)
-- #77 _Mercería Paquita :D_ (Clasificatorio)
-- #78 _SyntaxError :v_ (Clasificatorio)
-- #79 _System_32_ (Clasificatorio)
-- #80 _String Productions_ (Clasificatorio)
-- #84 _Macboy´s_ (Clasificatorio)
-- #220 _Ayuwoki_ (Clasificatorio)
-- #221 _Zero_ (Clasificatorio)
-- #382 _Araña_Patudona_ (Clasificatorio)
+1. #39 _Si no gano, me corren_ (Regional)
+1. #77 _Mercería Paquita :D_ (Clasificatorio)
+1. #78 _SyntaxError :v_ (Clasificatorio)
+1. #79 _System_32_ (Clasificatorio)
+1. #80 _String Productions_ (Clasificatorio)
+1. #84 _Macboy´s_ (Clasificatorio)
+1. #220 _Ayuwoki_ (Clasificatorio)
+1. #221 _Zero_ (Clasificatorio)
+1. #382 _Araña_Patudona_ (Clasificatorio)
 
 ### 2020-2021
 
-- #73 _Si no gano, me corren_ (Clasificatorio)
-- #84 _Zero_ (Clasificatorio)
-- #142 _0 de IQ_ (Clasificatorio)
-- #197 _Macboy´s_ (Clasificatorio)
-- #202 _StringProductions_ (Clasificatorio)
-- #240 _ADA TEAM_ (Clasificatorio)
-- #288 _Quetzalcóatl_ (Clasificatorio)
-- #351 _Team-T_ (Clasificatorio)
+1. #73 _Si no gano, me corren_ (Clasificatorio)
+1. #84 _Zero_ (Clasificatorio)
+1. #142 _0 de IQ_ (Clasificatorio)
+1. #197 _Macboy´s_ (Clasificatorio)
+1. #202 _StringProductions_ (Clasificatorio)
+1. #240 _ADA TEAM_ (Clasificatorio)
+1. #288 _Quetzalcóatl_ (Clasificatorio)
+1. #351 _Team-T_ (Clasificatorio)
 
 ### 2021-2022
 
-- #78 _0 de IQ_ (Clasificatorio)
-- #82 _Zero_ (Clasificatorio)
-- #118 _Leonas_ (Clasificatorio)
-- #226 _Los provechos_ (Clasificatorio)
+1. #78 _0 de IQ_ (Clasificatorio)
+1. #82 _Zero_ (Clasificatorio)
+1. #118 _Leonas_ (Clasificatorio)
+1. #226 _Los provechos_ (Clasificatorio)
 
 ### 2022-2023
 
-- #257 _0 de IQ_ (Clasificatorio)
+1. #257 _0 de IQ_ (Clasificatorio)
 
 
 

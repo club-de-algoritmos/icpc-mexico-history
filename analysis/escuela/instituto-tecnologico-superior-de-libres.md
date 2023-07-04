@@ -16,13 +16,13 @@
 
 ### 2022-2023
 
-- #382 (#82 de TecNM) _Dragons ITSL_ (Clasificatorio)
-- #382 (#82 de TecNM) _DreamTeam_ (Clasificatorio)
-- #382 (#82 de TecNM) _ITSLTEAM_ (Clasificatorio)
-- #382 (#82 de TecNM) _Rising Developers_ (Clasificatorio)
-- #382 (#82 de TecNM) _Smart Coding_ (Clasificatorio)
-- #382 (#82 de TecNM) _Spectrus Software_ (Clasificatorio)
-- #382 (#82 de TecNM) _wolves-programmers_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Dragons ITSL_ (Clasificatorio)
+1. #382 (#82 de TecNM) _DreamTeam_ (Clasificatorio)
+1. #382 (#82 de TecNM) _ITSLTEAM_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Rising Developers_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Smart Coding_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Spectrus Software_ (Clasificatorio)
+1. #382 (#82 de TecNM) _wolves-programmers_ (Clasificatorio)
 
 
 

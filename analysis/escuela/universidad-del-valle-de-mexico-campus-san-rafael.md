@@ -12,9 +12,9 @@
 
 ### 2020-2021
 
-- #345 _{W1LDC4TS_SR} 1_ (Clasificatorio)
-- #351 _{W1LDC4TS_SR} 2_ (Clasificatorio)
-- #351 _{W1LDC4TS_SR} 3_ (Clasificatorio)
+1. #345 _{W1LDC4TS_SR} 1_ (Clasificatorio)
+1. #351 _{W1LDC4TS_SR} 2_ (Clasificatorio)
+1. #351 _{W1LDC4TS_SR} 3_ (Clasificatorio)
 
 
 

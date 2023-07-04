@@ -10,7 +10,7 @@
 
 ### 2019-2020
 
-- #382 (#98 de TecNM) _Impalas_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Impalas_ (Clasificatorio)
 
 
 

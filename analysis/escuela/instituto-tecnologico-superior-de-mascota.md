@@ -12,12 +12,12 @@
 
 ### 2017-2018
 
-- #405 (#97 de TecNM) _La Secta_ (Clasificatorio)
-- #405 (#97 de TecNM) _Los Sistematicos_ (Clasificatorio)
+1. #405 (#97 de TecNM) _La Secta_ (Clasificatorio)
+1. #405 (#97 de TecNM) _Los Sistematicos_ (Clasificatorio)
 
 ### 2019-2020
 
-- #382 (#98 de TecNM) _Me canso ganso_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Me canso ganso_ (Clasificatorio)
 
 
 

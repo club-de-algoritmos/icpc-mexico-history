@@ -15,12 +15,12 @@
 
 ### 2022-2023
 
-- #382 (#82 de TecNM) _GavilanesHuatusco_ (Clasificatorio)
-- #382 (#82 de TecNM) _ISCITSHSGA_ (Clasificatorio)
-- #382 (#82 de TecNM) _ITSH CodeEasy_ (Clasificatorio)
-- #382 (#82 de TecNM) _ITSH Los foráneos_ (Clasificatorio)
-- #382 (#82 de TecNM) _ITSH OpenCode_ (Clasificatorio)
-- #382 (#82 de TecNM) _Lakershuatusco_ (Clasificatorio)
+1. #382 (#82 de TecNM) _GavilanesHuatusco_ (Clasificatorio)
+1. #382 (#82 de TecNM) _ISCITSHSGA_ (Clasificatorio)
+1. #382 (#82 de TecNM) _ITSH CodeEasy_ (Clasificatorio)
+1. #382 (#82 de TecNM) _ITSH Los foráneos_ (Clasificatorio)
+1. #382 (#82 de TecNM) _ITSH OpenCode_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Lakershuatusco_ (Clasificatorio)
 
 
 

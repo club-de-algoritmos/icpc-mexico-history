@@ -11,8 +11,8 @@
 
 ### 2019-2020
 
-- #382 (#98 de TecNM) _CRALER_ (Clasificatorio)
-- #382 (#98 de TecNM) _TEC ++_ (Clasificatorio)
+1. #382 (#98 de TecNM) _CRALER_ (Clasificatorio)
+1. #382 (#98 de TecNM) _TEC ++_ (Clasificatorio)
 
 
 

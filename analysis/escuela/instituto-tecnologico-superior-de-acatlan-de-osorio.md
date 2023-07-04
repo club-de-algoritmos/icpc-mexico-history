@@ -19,37 +19,37 @@
 
 ### 2019-2020
 
-- #382 (#98 de TecNM) _0&1_ (Clasificatorio)
-- #382 (#98 de TecNM) _JAV_ (Clasificatorio)
-- #382 (#98 de TecNM) _Jovenes_Itsao_ (Clasificatorio)
+1. #382 (#98 de TecNM) _0&1_ (Clasificatorio)
+1. #382 (#98 de TecNM) _JAV_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Jovenes_Itsao_ (Clasificatorio)
 
 ### 2020-2021
 
-- #351 (#65 de TecNM) _Chicos_codigo_ (Clasificatorio)
-- #351 (#65 de TecNM) _Code Iguanas Tec_ (Clasificatorio)
-- #351 (#65 de TecNM) _DUJ_ (Clasificatorio)
-- #351 (#65 de TecNM) _Iguanas_ (Clasificatorio)
-- #351 (#65 de TecNM) _IguanitasTec_ (Clasificatorio)
-- #351 (#65 de TecNM) _JAV_ (Clasificatorio)
-- #351 (#65 de TecNM) _Mujeres en la programación _ (Clasificatorio)
-- #351 (#65 de TecNM) _team_itsao_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Chicos_codigo_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Code Iguanas Tec_ (Clasificatorio)
+1. #351 (#65 de TecNM) _DUJ_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Iguanas_ (Clasificatorio)
+1. #351 (#65 de TecNM) _IguanitasTec_ (Clasificatorio)
+1. #351 (#65 de TecNM) _JAV_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Mujeres en la programación _ (Clasificatorio)
+1. #351 (#65 de TecNM) _team_itsao_ (Clasificatorio)
 
 ### 2021-2022
 
-- #226 (#36 de TecNM) _Compu_coding_ (Clasificatorio)
-- #226 (#36 de TecNM) _IGUANAS_ (Clasificatorio)
-- #226 (#36 de TecNM) _Jaguares_Team_ (Clasificatorio)
-- #226 (#36 de TecNM) _JeRA_ITSAO_ (Clasificatorio)
+1. #226 (#36 de TecNM) _Compu_coding_ (Clasificatorio)
+1. #226 (#36 de TecNM) _IGUANAS_ (Clasificatorio)
+1. #226 (#36 de TecNM) _Jaguares_Team_ (Clasificatorio)
+1. #226 (#36 de TecNM) _JeRA_ITSAO_ (Clasificatorio)
 
 ### 2022-2023
 
-- #382 (#82 de TecNM) _DESPLAZADOS_ (Clasificatorio)
-- #382 (#82 de TecNM) _Gios_ (Clasificatorio)
-- #382 (#82 de TecNM) _IGUANAS_ (Clasificatorio)
-- #382 (#82 de TecNM) _Iguanas22_ (Clasificatorio)
-- #382 (#82 de TecNM) _NiñasProgramando_ (Clasificatorio)
-- #382 (#82 de TecNM) _PRIMERISOS_ (Clasificatorio)
-- #382 (#82 de TecNM) _We_Need_Coffee_ (Clasificatorio)
+1. #382 (#82 de TecNM) _DESPLAZADOS_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Gios_ (Clasificatorio)
+1. #382 (#82 de TecNM) _IGUANAS_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Iguanas22_ (Clasificatorio)
+1. #382 (#82 de TecNM) _NiñasProgramando_ (Clasificatorio)
+1. #382 (#82 de TecNM) _PRIMERISOS_ (Clasificatorio)
+1. #382 (#82 de TecNM) _We_Need_Coffee_ (Clasificatorio)
 
 
 

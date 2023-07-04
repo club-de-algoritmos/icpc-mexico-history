@@ -10,7 +10,7 @@
 
 ### 2011-2012
 
-- #104 (#33 de TecNM) _Purisima 4_ (Regional)
+1. #104 (#33 de TecNM) _Purisima 4_ (Regional)
 
 
 

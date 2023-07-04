@@ -12,15 +12,15 @@
 
 ### 2011-2012
 
-- #104 _CIMARRONES_ (Regional)
+1. #104 _CIMARRONES_ (Regional)
 
 ### 2021-2022
 
-- #201 _CIMACODERS_ (Clasificatorio)
+1. #201 _CIMACODERS_ (Clasificatorio)
 
 ### 2023-2024
 
-- #291 _Cuasar_ (Clasificatorio)
+1. #291 _Cuasar_ (Clasificatorio)
 
 
 

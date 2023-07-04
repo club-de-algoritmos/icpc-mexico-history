@@ -19,27 +19,27 @@
 
 ### 2018-2019
 
-- #395 (#159 de TecNM) _Anonimos ITJ_ (Clasificatorio)
-- #395 (#159 de TecNM) _Black and White_ (Clasificatorio)
-- #395 (#159 de TecNM) _Death Code_ (Clasificatorio)
-- #395 (#159 de TecNM) _Equipo B.O.M.A.I.D._ (Clasificatorio)
-- #395 (#159 de TecNM) _HexaBytes_ (Clasificatorio)
-- #395 (#159 de TecNM) _Last King_ (Clasificatorio)
-- #395 (#159 de TecNM) _Los ATM_ (Clasificatorio)
-- #395 (#159 de TecNM) _Los Guadalupanos_ (Clasificatorio)
-- #395 (#159 de TecNM) _Los Halcones_ (Clasificatorio)
-- #395 (#159 de TecNM) _Los Padrinos_ (Clasificatorio)
-- #395 (#159 de TecNM) _Titán_ (Clasificatorio)
+1. #395 (#159 de TecNM) _Anonimos ITJ_ (Clasificatorio)
+1. #395 (#159 de TecNM) _Black and White_ (Clasificatorio)
+1. #395 (#159 de TecNM) _Death Code_ (Clasificatorio)
+1. #395 (#159 de TecNM) _Equipo B.O.M.A.I.D._ (Clasificatorio)
+1. #395 (#159 de TecNM) _HexaBytes_ (Clasificatorio)
+1. #395 (#159 de TecNM) _Last King_ (Clasificatorio)
+1. #395 (#159 de TecNM) _Los ATM_ (Clasificatorio)
+1. #395 (#159 de TecNM) _Los Guadalupanos_ (Clasificatorio)
+1. #395 (#159 de TecNM) _Los Halcones_ (Clasificatorio)
+1. #395 (#159 de TecNM) _Los Padrinos_ (Clasificatorio)
+1. #395 (#159 de TecNM) _Titán_ (Clasificatorio)
 
 ### 2020-2021
 
-- #351 (#65 de TecNM) _HalconesJiq_ (Clasificatorio)
+1. #351 (#65 de TecNM) _HalconesJiq_ (Clasificatorio)
 
 ### 2022-2023
 
-- #382 (#82 de TecNM) _Halcones-ISIC-1_ (Clasificatorio)
-- #382 (#82 de TecNM) _Halcones-ISIC-2_ (Clasificatorio)
-- #382 (#82 de TecNM) _Halcones-ISIC-3_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Halcones-ISIC-1_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Halcones-ISIC-2_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Halcones-ISIC-3_ (Clasificatorio)
 
 
 

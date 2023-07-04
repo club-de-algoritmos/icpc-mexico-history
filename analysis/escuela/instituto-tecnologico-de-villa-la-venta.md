@@ -12,15 +12,15 @@
 
 ### 2007-2008
 
-- #61 (#15 de TecNM) _Olmecas Tec_ (Regional)
+1. #61 (#15 de TecNM) _Olmecas Tec_ (Regional)
 
 ### 2012-2013
 
-- #134 (#53 de TecNM) _javaclass_ (Regional)
+1. #134 (#53 de TecNM) _javaclass_ (Regional)
 
 ### 2019-2020
 
-- #382 (#98 de TecNM) _CodigoTec_ (Clasificatorio)
+1. #382 (#98 de TecNM) _CodigoTec_ (Clasificatorio)
 
 
 

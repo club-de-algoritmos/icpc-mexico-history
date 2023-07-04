@@ -10,7 +10,7 @@
 
 ### 2020-2021
 
-- #153 _Legión_ (Clasificatorio)
+1. #153 _Legión_ (Clasificatorio)
 
 
 

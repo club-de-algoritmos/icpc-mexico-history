@@ -19,26 +19,26 @@
 
 ### 2015-2016
 
-- #108 (#28 de TecNM) _Celtic_ (Clasificatorio)
+1. #108 (#28 de TecNM) _Celtic_ (Clasificatorio)
 
 ### 2019-2020
 
-- #382 (#98 de TecNM) _Byters_ (Clasificatorio)
-- #382 (#98 de TecNM) _CaRaCa Team_ (Clasificatorio)
-- #382 (#98 de TecNM) _Oceloti_ (Clasificatorio)
-- #382 (#98 de TecNM) _Osiris_ (Clasificatorio)
-- #382 (#98 de TecNM) _ProjecTics_ (Clasificatorio)
-- #382 (#98 de TecNM) _Supersónicos_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Byters_ (Clasificatorio)
+1. #382 (#98 de TecNM) _CaRaCa Team_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Oceloti_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Osiris_ (Clasificatorio)
+1. #382 (#98 de TecNM) _ProjecTics_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Supersónicos_ (Clasificatorio)
 
 ### 2020-2021
 
-- #351 (#65 de TecNM) _36s_ (Clasificatorio)
-- #351 (#65 de TecNM) _CODE PLUGIN LIONS_ (Clasificatorio)
-- #351 (#65 de TecNM) _GAL_ (Clasificatorio)
-- #351 (#65 de TecNM) _HOLA MUNDO_ (Clasificatorio)
-- #351 (#65 de TecNM) _Los Pica Teclas_ (Clasificatorio)
-- #351 (#65 de TecNM) _Los cracks_ (Clasificatorio)
-- #351 (#65 de TecNM) _Truelse_ (Clasificatorio)
+1. #351 (#65 de TecNM) _36s_ (Clasificatorio)
+1. #351 (#65 de TecNM) _CODE PLUGIN LIONS_ (Clasificatorio)
+1. #351 (#65 de TecNM) _GAL_ (Clasificatorio)
+1. #351 (#65 de TecNM) _HOLA MUNDO_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Los Pica Teclas_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Los cracks_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Truelse_ (Clasificatorio)
 
 
 

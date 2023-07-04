@@ -19,59 +19,59 @@
 
 ### 2009-2010
 
-- #67 (#12 de TecNM) _Fail_ (Regional)
-- #95 (#24 de TecNM) _Tuxinator_ (Regional)
+1. #67 (#12 de TecNM) _Fail_ (Regional)
+1. #95 (#24 de TecNM) _Tuxinator_ (Regional)
 
 ### 2010-2011
 
-- #102 (#18 de TecNM) _ITM 2_ (Regional)
-- #110 (#23 de TecNM) _ITM1_ (Regional)
-- #156 (#44 de TecNM) _ITM3_ (Regional)
+1. #102 (#18 de TecNM) _ITM 2_ (Regional)
+1. #110 (#23 de TecNM) _ITM1_ (Regional)
+1. #156 (#44 de TecNM) _ITM3_ (Regional)
 
 ### 2011-2012
 
-- #20 (#1 de TecNM) _ITM-3_ (Regional)
-- #64 (#12 de TecNM) _ITM-2_ (Regional)
-- #79 (#21 de TecNM) _ITM-1_ (Regional)
+1. #20 (#1 de TecNM) _ITM-3_ (Regional)
+1. #64 (#12 de TecNM) _ITM-2_ (Regional)
+1. #79 (#21 de TecNM) _ITM-1_ (Regional)
 
 ### 2012-2013
 
-- #46 (#17 de TecNM) _Tec Morelia 1_ (Regional)
-- #63 (#24 de TecNM) _ITM - Tec Morelia 2_ (Regional)
-- #81 (#31 de TecNM) _ITM - Tec Morelia 3_ (Regional)
+1. #46 (#17 de TecNM) _Tec Morelia 1_ (Regional)
+1. #63 (#24 de TecNM) _ITM - Tec Morelia 2_ (Regional)
+1. #81 (#31 de TecNM) _ITM - Tec Morelia 3_ (Regional)
 
 ### 2013-2014
 
-- #18 (#2 de TecNM) _TecMorelia2_ (Regional)
-- #75 (#13 de TecNM) _TecMorelia1_ (Regional)
+1. #18 (#2 de TecNM) _TecMorelia2_ (Regional)
+1. #75 (#13 de TecNM) _TecMorelia1_ (Regional)
 
 ### 2020-2021
 
-- #273 (#32 de TecNM) _VISUAL DIM_ (Clasificatorio)
-- #351 (#65 de TecNM) _Brenefer_ (Clasificatorio)
-- #351 (#65 de TecNM) _Bugueadores_ (Clasificatorio)
-- #351 (#65 de TecNM) _CADURI_ (Clasificatorio)
-- #351 (#65 de TecNM) _Inscrixd_ (Clasificatorio)
-- #351 (#65 de TecNM) _JavaTrue_ (Clasificatorio)
-- #351 (#65 de TecNM) _PonyCode_ (Clasificatorio)
-- #351 (#65 de TecNM) _Proprogrammers_ (Clasificatorio)
-- #351 (#65 de TecNM) _ROCKET_ (Clasificatorio)
-- #351 (#65 de TecNM) _THORTAS_ (Clasificatorio)
-- #351 (#65 de TecNM) _TecForce_ (Clasificatorio)
+1. #273 (#32 de TecNM) _VISUAL DIM_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Brenefer_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Bugueadores_ (Clasificatorio)
+1. #351 (#65 de TecNM) _CADURI_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Inscrixd_ (Clasificatorio)
+1. #351 (#65 de TecNM) _JavaTrue_ (Clasificatorio)
+1. #351 (#65 de TecNM) _PonyCode_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Proprogrammers_ (Clasificatorio)
+1. #351 (#65 de TecNM) _ROCKET_ (Clasificatorio)
+1. #351 (#65 de TecNM) _THORTAS_ (Clasificatorio)
+1. #351 (#65 de TecNM) _TecForce_ (Clasificatorio)
 
 ### 2021-2022
 
-- #226 (#36 de TecNM) _Los Pixies_ (Clasificatorio)
-- #226 (#36 de TecNM) _Rubber Duckies_ (Clasificatorio)
+1. #226 (#36 de TecNM) _Los Pixies_ (Clasificatorio)
+1. #226 (#36 de TecNM) _Rubber Duckies_ (Clasificatorio)
 
 ### 2022-2023
 
-- #382 (#82 de TecNM) _Bichotas_ (Clasificatorio)
-- #382 (#82 de TecNM) _Lucas 21:16_ (Clasificatorio)
-- #382 (#82 de TecNM) _Pony Code_ (Clasificatorio)
-- #382 (#82 de TecNM) _PyJava++_ (Clasificatorio)
-- #382 (#82 de TecNM) _Ticsitos_ (Clasificatorio)
-- #382 (#82 de TecNM) _pony force_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Bichotas_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Lucas 21:16_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Pony Code_ (Clasificatorio)
+1. #382 (#82 de TecNM) _PyJava++_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Ticsitos_ (Clasificatorio)
+1. #382 (#82 de TecNM) _pony force_ (Clasificatorio)
 
 
 

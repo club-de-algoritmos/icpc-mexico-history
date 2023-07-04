@@ -10,7 +10,7 @@
 
 ### 2007-2008
 
-- #61 _BultosTeam_ (Regional)
+1. #61 _BultosTeam_ (Regional)
 
 
 

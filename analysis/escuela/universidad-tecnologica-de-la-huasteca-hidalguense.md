@@ -16,25 +16,25 @@
 
 ### 2001-2002
 
-- #55 _UTHH 1_ (Regional)
+1. #55 _UTHH 1_ (Regional)
 
 ### 2002-2003
 
-- #27 _Orion_ (Regional)
+1. #27 _Orion_ (Regional)
 
 ### 2003-2004
 
-- #41 _Fénix_ (Regional)
-- #41 _Orion_ (Regional)
+1. #41 _Fénix_ (Regional)
+1. #41 _Orion_ (Regional)
 
 ### 2004-2005
 
-- #73 _Nemesis_ (Regional)
-- #90 _Apocalipsis3_ (Regional)
+1. #73 _Nemesis_ (Regional)
+1. #90 _Apocalipsis3_ (Regional)
 
 ### 2013-2014
 
-- #95 _Los tordos_ (Regional)
+1. #95 _Los tordos_ (Regional)
 
 
 

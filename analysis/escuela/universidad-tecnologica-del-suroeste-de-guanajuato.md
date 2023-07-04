@@ -11,11 +11,11 @@
 
 ### 2014-2015
 
-- #166 _ITIC-UTSOE_ (Clasificatorio)
+1. #166 _ITIC-UTSOE_ (Clasificatorio)
 
 ### 2016-2017
 
-- #121 _TIC.18G_ (Clasificatorio)
+1. #121 _TIC.18G_ (Clasificatorio)
 
 
 

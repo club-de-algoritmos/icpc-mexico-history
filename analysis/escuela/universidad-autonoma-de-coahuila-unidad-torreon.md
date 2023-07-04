@@ -14,17 +14,17 @@
 
 ### 2017-2018
 
-- #150 _Procoders_ (Clasificatorio)
-- #253 _TICIIS_ (Clasificatorio)
+1. #150 _Procoders_ (Clasificatorio)
+1. #253 _TICIIS_ (Clasificatorio)
 
 ### 2018-2019
 
-- #131 _Procoders_ (Clasificatorio)
-- #132 _TICIIS_ (Clasificatorio)
+1. #131 _Procoders_ (Clasificatorio)
+1. #132 _TICIIS_ (Clasificatorio)
 
 ### 2019-2020
 
-- #382 _tics.RAR_ (Clasificatorio)
+1. #382 _tics.RAR_ (Clasificatorio)
 
 
 

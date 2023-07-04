@@ -13,13 +13,13 @@
 
 ### 2019-2020
 
-- #382 (#98 de TecNM) _CINERE_ (Clasificatorio)
-- #382 (#98 de TecNM) _Delp_ (Clasificatorio)
-- #382 (#98 de TecNM) _XHAHUIS_ (Clasificatorio)
+1. #382 (#98 de TecNM) _CINERE_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Delp_ (Clasificatorio)
+1. #382 (#98 de TecNM) _XHAHUIS_ (Clasificatorio)
 
 ### 2020-2021
 
-- #351 (#65 de TecNM) _Istmo _ (Clasificatorio)
+1. #351 (#65 de TecNM) _Istmo _ (Clasificatorio)
 
 
 

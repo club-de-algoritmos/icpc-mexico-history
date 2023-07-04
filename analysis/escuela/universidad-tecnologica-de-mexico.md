@@ -19,29 +19,29 @@
 
 ### 2002-2003
 
-- #22 _senorbac_ (Regional)
-- #27 _swordfish_ (Regional)
+1. #22 _senorbac_ (Regional)
+1. #27 _swordfish_ (Regional)
 
 ### 2003-2004
 
-- #41 _EDEDNO_ (Regional)
-- #41 _EQUIS_ (Regional)
-- #41 _RAIDERS_ (Regional)
+1. #41 _EDEDNO_ (Regional)
+1. #41 _EQUIS_ (Regional)
+1. #41 _RAIDERS_ (Regional)
 
 ### 2004-2005
 
-- #25 _Equis V.2.0_ (Regional)
+1. #25 _Equis V.2.0_ (Regional)
 
 ### 2006-2007
 
-- #40 _Equis Ver. 3.0_ (Regional)
-- #85 _Trial Core_ (Regional)
-- #86 _Quake_ (Regional)
+1. #40 _Equis Ver. 3.0_ (Regional)
+1. #85 _Trial Core_ (Regional)
+1. #86 _Quake_ (Regional)
 
 ### 2007-2008
 
-- #61 _EQUIS v.4.0_ (Regional)
-- #61 _UNITEC 2_ (Regional)
+1. #61 _EQUIS v.4.0_ (Regional)
+1. #61 _UNITEC 2_ (Regional)
 
 
 

@@ -19,28 +19,28 @@
 
 ### 2001-2002
 
-- #17 _UPMX2_ (Regional)
-- #45 _UPMX1_ (Regional)
+1. #17 _UPMX2_ (Regional)
+1. #45 _UPMX1_ (Regional)
 
 ### 2002-2003
 
-- #25 _yamerito_ (Regional)
-- #27 _NEUTRINOS_ (Regional)
+1. #25 _yamerito_ (Regional)
+1. #27 _NEUTRINOS_ (Regional)
 
 ### 2004-2005
 
-- #23 _A* Rules_ (Regional)
-- #83 _Quantum_ (Regional)
+1. #23 _A* Rules_ (Regional)
+1. #83 _Quantum_ (Regional)
 
 ### 2005-2006
 
-- #67 _Courage_ (Regional)
-- #71 _Camarelos Corp._ (Regional)
+1. #67 _Courage_ (Regional)
+1. #71 _Camarelos Corp._ (Regional)
 
 ### 2006-2007
 
-- #37 _ACM's Guild_ (Regional)
-- #85 _Compilers_ (Regional)
+1. #37 _ACM's Guild_ (Regional)
+1. #85 _Compilers_ (Regional)
 
 
 

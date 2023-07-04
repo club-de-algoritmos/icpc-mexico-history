@@ -12,12 +12,12 @@
 
 ### 2014-2015
 
-- #109 _ISSC1216_ (Clasificatorio)
+1. #109 _ISSC1216_ (Clasificatorio)
 
 ### 2016-2017
 
-- #121 _Aguilas de Fuego_ (Clasificatorio)
-- #121 _The choosens_ (Clasificatorio)
+1. #121 _Aguilas de Fuego_ (Clasificatorio)
+1. #121 _The choosens_ (Clasificatorio)
 
 
 

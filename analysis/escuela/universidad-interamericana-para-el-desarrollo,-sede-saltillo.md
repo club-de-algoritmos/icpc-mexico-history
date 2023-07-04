@@ -10,7 +10,7 @@
 
 ### 2016-2017
 
-- #121 _Lobos Rojos_ (Clasificatorio)
+1. #121 _Lobos Rojos_ (Clasificatorio)
 
 
 

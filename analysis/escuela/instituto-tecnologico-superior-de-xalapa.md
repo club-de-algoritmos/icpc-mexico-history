@@ -11,11 +11,11 @@
 
 ### 2001-2002
 
-- #55 (#13 de TecNM) _ITSX_ (Regional)
+1. #55 (#13 de TecNM) _ITSX_ (Regional)
 
 ### 2020-2021
 
-- #351 (#65 de TecNM) _JuniorsITSX_ (Clasificatorio)
+1. #351 (#65 de TecNM) _JuniorsITSX_ (Clasificatorio)
 
 
 

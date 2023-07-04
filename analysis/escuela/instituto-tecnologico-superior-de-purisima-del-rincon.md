@@ -19,38 +19,38 @@
 
 ### 2019-2020
 
-- #382 (#98 de TecNM) _CodeBusters_ (Clasificatorio)
-- #382 (#98 de TecNM) _JAIL-Breakers_ (Clasificatorio)
+1. #382 (#98 de TecNM) _CodeBusters_ (Clasificatorio)
+1. #382 (#98 de TecNM) _JAIL-Breakers_ (Clasificatorio)
 
 ### 2020-2021
 
-- #351 (#65 de TecNM) _3XPRO_ (Clasificatorio)
-- #351 (#65 de TecNM) _Dream Lords_ (Clasificatorio)
-- #351 (#65 de TecNM) _El equipo buena onda_ (Clasificatorio)
-- #351 (#65 de TecNM) _Los Empresaurios_ (Clasificatorio)
-- #351 (#65 de TecNM) _Los Tecpanas_ (Clasificatorio)
-- #351 (#65 de TecNM) _Maquina del Mal_ (Clasificatorio)
-- #351 (#65 de TecNM) _No se presentó_ (Clasificatorio)
+1. #351 (#65 de TecNM) _3XPRO_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Dream Lords_ (Clasificatorio)
+1. #351 (#65 de TecNM) _El equipo buena onda_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Los Empresaurios_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Los Tecpanas_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Maquina del Mal_ (Clasificatorio)
+1. #351 (#65 de TecNM) _No se presentó_ (Clasificatorio)
 
 ### 2021-2022
 
-- #226 (#36 de TecNM) _Shark Geeks_ (Clasificatorio)
+1. #226 (#36 de TecNM) _Shark Geeks_ (Clasificatorio)
 
 ### 2022-2023
 
-- #382 (#82 de TecNM) _3 BITS_ (Clasificatorio)
-- #382 (#82 de TecNM) _Black Wolf_ (Clasificatorio)
-- #382 (#82 de TecNM) _Geek Foxes 2.0_ (Clasificatorio)
-- #382 (#82 de TecNM) _Nameless.jar_ (Clasificatorio)
-- #382 (#82 de TecNM) _Shark Geeks_ (Clasificatorio)
+1. #382 (#82 de TecNM) _3 BITS_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Black Wolf_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Geek Foxes 2.0_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Nameless.jar_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Shark Geeks_ (Clasificatorio)
 
 ### 2023-2024
 
-- #118 (#23 de TecNM) _Nameless.jar_ (Clasificatorio)
-- #188 (#36 de TecNM) _Black Wolf_ (Clasificatorio)
-- #218 (#41 de TecNM) _3 Bits_ (Clasificatorio)
-- #279 (#56 de TecNM) _Champions_ (Clasificatorio)
-- #355 (#89 de TecNM) _Simplex_Team_ (Clasificatorio)
+1. #118 (#23 de TecNM) _Nameless.jar_ (Clasificatorio)
+1. #188 (#36 de TecNM) _Black Wolf_ (Clasificatorio)
+1. #218 (#41 de TecNM) _3 Bits_ (Clasificatorio)
+1. #279 (#56 de TecNM) _Champions_ (Clasificatorio)
+1. #355 (#89 de TecNM) _Simplex_Team_ (Clasificatorio)
 
 
 

@@ -10,7 +10,7 @@
 
 ### 2008-2009
 
-- #98 _CIUSC_ (Regional)
+1. #98 _CIUSC_ (Regional)
 
 
 

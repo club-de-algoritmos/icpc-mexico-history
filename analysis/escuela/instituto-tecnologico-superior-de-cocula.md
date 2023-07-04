@@ -14,14 +14,14 @@
 
 ### 2017-2018
 
-- #405 (#97 de TecNM) _Cocula1_ (Clasificatorio)
-- #405 (#97 de TecNM) _TecCocula_ (Clasificatorio)
+1. #405 (#97 de TecNM) _Cocula1_ (Clasificatorio)
+1. #405 (#97 de TecNM) _TecCocula_ (Clasificatorio)
 
 ### 2019-2020
 
-- #382 (#98 de TecNM) _Punto y coma_ (Clasificatorio)
-- #382 (#98 de TecNM) _The last fight_ (Clasificatorio)
-- #382 (#98 de TecNM) _Virtus Pro_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Punto y coma_ (Clasificatorio)
+1. #382 (#98 de TecNM) _The last fight_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Virtus Pro_ (Clasificatorio)
 
 
 

@@ -19,44 +19,44 @@
 
 ### 2014-2015
 
-- #175 _8Bits_ (Clasificatorio)
+1. #175 _8Bits_ (Clasificatorio)
 
 ### 2016-2017
 
-- #48 _CaribbeanCoders_ (Regional)
+1. #48 _CaribbeanCoders_ (Regional)
 
 ### 2017-2018
 
-- #80 _Caribbean Coders_ (Clasificatorio)
-- #119 _Mariachi_ (Clasificatorio)
-- #337 _Los Mariks_ (Clasificatorio)
+1. #80 _Caribbean Coders_ (Clasificatorio)
+1. #119 _Mariachi_ (Clasificatorio)
+1. #337 _Los Mariks_ (Clasificatorio)
 
 ### 2018-2019
 
-- #76 _Caribbean Coders_ (Clasificatorio)
-- #168 _Mariachi_ (Clasificatorio)
-- #179 _Los Mariks_ (Clasificatorio)
-- #239 _BOOLdogs_ (Clasificatorio)
-- #268 _Los Gatos de Schrödinger_ (Clasificatorio)
+1. #76 _Caribbean Coders_ (Clasificatorio)
+1. #168 _Mariachi_ (Clasificatorio)
+1. #179 _Los Mariks_ (Clasificatorio)
+1. #239 _BOOLdogs_ (Clasificatorio)
+1. #268 _Los Gatos de Schrödinger_ (Clasificatorio)
 
 ### 2019-2020
 
-- #96 _Mariachi_ (Clasificatorio)
-- #107 _Caribbean Coders_ (Clasificatorio)
-- #121 _Los Mariks_ (Clasificatorio)
-- #158 _Los Gatos de Schrödinger_ (Clasificatorio)
-- #171 _Apóstol Cahazu_ (Clasificatorio)
-- #382 _BOOLdogs_ (Clasificatorio)
+1. #96 _Mariachi_ (Clasificatorio)
+1. #107 _Caribbean Coders_ (Clasificatorio)
+1. #121 _Los Mariks_ (Clasificatorio)
+1. #158 _Los Gatos de Schrödinger_ (Clasificatorio)
+1. #171 _Apóstol Cahazu_ (Clasificatorio)
+1. #382 _BOOLdogs_ (Clasificatorio)
 
 ### 2020-2021
 
-- #49 _CaribbeanCoders_ (Regional)
-- #124 _Los Mariks_ (Clasificatorio)
-- #201 _Los Gatos de Schrödinger_ (Clasificatorio)
-- #209 _Mariachi_ (Clasificatorio)
-- #271 _Apóstol Cahazu_ (Clasificatorio)
-- #275 _Traficantes de #'s_ (Clasificatorio)
-- #320 _Adictos a las Líneas_ (Clasificatorio)
+1. #49 _CaribbeanCoders_ (Regional)
+1. #124 _Los Mariks_ (Clasificatorio)
+1. #201 _Los Gatos de Schrödinger_ (Clasificatorio)
+1. #209 _Mariachi_ (Clasificatorio)
+1. #271 _Apóstol Cahazu_ (Clasificatorio)
+1. #275 _Traficantes de #'s_ (Clasificatorio)
+1. #320 _Adictos a las Líneas_ (Clasificatorio)
 
 
 

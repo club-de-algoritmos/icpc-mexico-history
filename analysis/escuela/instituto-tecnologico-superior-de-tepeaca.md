@@ -19,20 +19,20 @@
 
 ### 2017-2018
 
-- #405 (#97 de TecNM) _AADFORCE_ (Clasificatorio)
-- #405 (#97 de TecNM) _ALPHA-TEAM_ (Clasificatorio)
-- #405 (#97 de TecNM) _GIRL_ADD(P)_ (Clasificatorio)
-- #405 (#97 de TecNM) _KILL Systems_ (Clasificatorio)
-- #405 (#97 de TecNM) _Magic Code_ (Clasificatorio)
-- #405 (#97 de TecNM) _Sploit_ (Clasificatorio)
+1. #405 (#97 de TecNM) _AADFORCE_ (Clasificatorio)
+1. #405 (#97 de TecNM) _ALPHA-TEAM_ (Clasificatorio)
+1. #405 (#97 de TecNM) _GIRL_ADD(P)_ (Clasificatorio)
+1. #405 (#97 de TecNM) _KILL Systems_ (Clasificatorio)
+1. #405 (#97 de TecNM) _Magic Code_ (Clasificatorio)
+1. #405 (#97 de TecNM) _Sploit_ (Clasificatorio)
 
 ### 2018-2019
 
-- #394 (#103 de TecNM) _Hello World_ (Clasificatorio)
-- #394 (#103 de TecNM) _Mundial_ (Clasificatorio)
-- #394 (#103 de TecNM) _Panfilos_ (Clasificatorio)
-- #394 (#103 de TecNM) _The Ghosts_ (Clasificatorio)
-- #394 (#103 de TecNM) _The Warriors_ (Clasificatorio)
+1. #394 (#103 de TecNM) _Hello World_ (Clasificatorio)
+1. #394 (#103 de TecNM) _Mundial_ (Clasificatorio)
+1. #394 (#103 de TecNM) _Panfilos_ (Clasificatorio)
+1. #394 (#103 de TecNM) _The Ghosts_ (Clasificatorio)
+1. #394 (#103 de TecNM) _The Warriors_ (Clasificatorio)
 
 
 

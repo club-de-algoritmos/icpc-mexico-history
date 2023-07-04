@@ -20,114 +20,115 @@
 
 ### 2008-2009
 
-- #28 _D06_ (Regional)
-- #62 _Kill -9 132_ (Regional)
-- #101 _Svarogih_ (Regional)
+1. #28 _D06_ (Regional)
+1. #62 _Kill -9 132_ (Regional)
+1. #101 _Svarogih_ (Regional)
 
 ### 2010-2011
 
-- #40 _C-mita_ (Regional)
-- #52 _Unicoders_ (Regional)
-- #94 _Los bien vestidos_ (Regional)
-- #100 _Los3ReyesMagos_ (Regional)
-- #156 _Aguilas_ (Regional)
-- #156 _ICE_ (Regional)
+1. #40 _C-mita_ (Regional)
+1. #52 _Unicoders_ (Regional)
+1. #94 _Los bien vestidos_ (Regional)
+1. #100 _Los3ReyesMagos_ (Regional)
+1. #156 _Aguilas_ (Regional)
+1. #156 _ICE_ (Regional)
 
 ### 2011-2012
 
-- #101 _C_mita_ (Final Mundial)
-- #4 _C-mita_ (Regional)
+1. #4 _C_mita_ (Regional)
+    - Avanzó a la final mundial y resolvió 1 problemas obtuviendo el lugar #101 (10%) en 36th Annual World Finals of the ACM International Collegiate Programming Contest
+1. #4 _C-mita_ (Regional)
 
 ### 2012-2013
 
-- #11 _C-mita_ (Regional)
+1. #11 _C-mita_ (Regional)
 
 ### 2014-2015
 
-- #27 _Easycode_ (Regional)
-- #74 _Cmita++_ (Clasificatorio)
-- #80 _Cemita#_ (Clasificatorio)
+1. #27 _Easycode_ (Regional)
+1. #74 _Cmita++_ (Clasificatorio)
+1. #80 _Cemita#_ (Clasificatorio)
 
 ### 2015-2016
 
-- #15 _Clfies_ (Regional)
-- #35 _TacOS_ (Regional)
-- #70 _Space Monkeys_ (Clasificatorio)
-- #102 _easycode_ (Clasificatorio)
-- #103 _Quantum Code_ (Clasificatorio)
+1. #15 _Clfies_ (Regional)
+1. #35 _TacOS_ (Regional)
+1. #70 _Space Monkeys_ (Clasificatorio)
+1. #102 _easycode_ (Clasificatorio)
+1. #103 _Quantum Code_ (Clasificatorio)
 
 ### 2016-2017
 
-- #16 _char mander;_ (Regional)
-- #18 _Clfies_ (Regional)
-- #43 _TacOS_ (Clasificatorio)
-- #68 _Los Lunas_ (Clasificatorio)
-- #121 _SpaceMonkeys_ (Clasificatorio)
+1. #16 _char mander;_ (Regional)
+1. #18 _Clfies_ (Regional)
+1. #43 _TacOS_ (Clasificatorio)
+1. #68 _Los Lunas_ (Clasificatorio)
+1. #121 _SpaceMonkeys_ (Clasificatorio)
 
 ### 2017-2018
 
-- #16 _Los Flotantes_ (Regional)
-- #19 _bool basaur_ (Regional)
-- #54 _Clfies_ (Clasificatorio)
-- #63 _char meleon;_ (Clasificatorio)
-- #69 _Gekko_ (Clasificatorio)
-- #93 _LLPs_ (Clasificatorio)
-- #117 _Dansquad_ (Clasificatorio)
-- #166 _bool.dog_ (Clasificatorio)
-- #197 _Itnusuals_ (Clasificatorio)
-- #213 _The Team_ (Clasificatorio)
-- #256 _Linces_ (Clasificatorio)
+1. #16 _Los Flotantes_ (Regional)
+1. #19 _bool basaur_ (Regional)
+1. #54 _Clfies_ (Clasificatorio)
+1. #63 _char meleon;_ (Clasificatorio)
+1. #69 _Gekko_ (Clasificatorio)
+1. #93 _LLPs_ (Clasificatorio)
+1. #117 _Dansquad_ (Clasificatorio)
+1. #166 _bool.dog_ (Clasificatorio)
+1. #197 _Itnusuals_ (Clasificatorio)
+1. #213 _The Team_ (Clasificatorio)
+1. #256 _Linces_ (Clasificatorio)
 
 ### 2018-2019
 
-- #28 _int ensos;_ (Regional)
-- #60 _Gekko_ (Regional)
-- #61 _Oblivion_ (Clasificatorio)
-- #115 _Los Fanys_ (Clasificatorio)
-- #253 _BimBams_ (Clasificatorio)
+1. #28 _int ensos;_ (Regional)
+1. #60 _Gekko_ (Regional)
+1. #61 _Oblivion_ (Clasificatorio)
+1. #115 _Los Fanys_ (Clasificatorio)
+1. #253 _BimBams_ (Clasificatorio)
 
 ### 2019-2020
 
-- #63 _Gekko_ (Clasificatorio)
-- #67 _char izard;_ (Clasificatorio)
-- #93 _name not found_ (Clasificatorio)
-- #254 _Tornados Tlaquepaque_ (Clasificatorio)
+1. #63 _Gekko_ (Clasificatorio)
+1. #67 _char izard;_ (Clasificatorio)
+1. #93 _name not found_ (Clasificatorio)
+1. #254 _Tornados Tlaquepaque_ (Clasificatorio)
 
 ### 2020-2021
 
-- #47 _Oblivion_ (Regional)
-- #133 _Quantum Coders_ (Clasificatorio)
-- #185 _DevelopTecs_ (Clasificatorio)
-- #194 _Tec Coder's_ (Clasificatorio)
-- #225 _Segmentation fault_ (Clasificatorio)
-- #237 _Debuggers_ (Clasificatorio)
-- #243 _Interconexion de Redes_ (Clasificatorio)
-- #277 _CodeBreakers_ (Clasificatorio)
-- #280 _Sinonymous_ (Clasificatorio)
-- #351 _JurassicHackers_ (Clasificatorio)
+1. #47 _Oblivion_ (Regional)
+1. #133 _Quantum Coders_ (Clasificatorio)
+1. #185 _DevelopTecs_ (Clasificatorio)
+1. #194 _Tec Coder's_ (Clasificatorio)
+1. #225 _Segmentation fault_ (Clasificatorio)
+1. #237 _Debuggers_ (Clasificatorio)
+1. #243 _Interconexion de Redes_ (Clasificatorio)
+1. #277 _CodeBreakers_ (Clasificatorio)
+1. #280 _Sinonymous_ (Clasificatorio)
+1. #351 _JurassicHackers_ (Clasificatorio)
 
 ### 2021-2022
 
-- #136 _Programadioses_ (Clasificatorio)
-- #188 _Océano Atlántico_ (Clasificatorio)
-- #226 _Mexastech_ (Clasificatorio)
-- #226 _Patos de Hule_ (Clasificatorio)
+1. #136 _Programadioses_ (Clasificatorio)
+1. #188 _Océano Atlántico_ (Clasificatorio)
+1. #226 _Mexastech_ (Clasificatorio)
+1. #226 _Patos de Hule_ (Clasificatorio)
 
 ### 2022-2023
 
-- #205 _DoS Attack_ (Clasificatorio)
-- #270 _Equipo_Progra4_ (Clasificatorio)
-- #304 _Robotics.py_ (Clasificatorio)
-- #364 _Ionicos_ (Clasificatorio)
-- #382 _Ajolotes_ (Clasificatorio)
-- #382 _MonkiTeam_ (Clasificatorio)
-- #382 _Patos de Hule_ (Clasificatorio)
-- #382 _TecByters.cpp_ (Clasificatorio)
+1. #205 _DoS Attack_ (Clasificatorio)
+1. #270 _Equipo_Progra4_ (Clasificatorio)
+1. #304 _Robotics.py_ (Clasificatorio)
+1. #364 _Ionicos_ (Clasificatorio)
+1. #382 _Ajolotes_ (Clasificatorio)
+1. #382 _MonkiTeam_ (Clasificatorio)
+1. #382 _Patos de Hule_ (Clasificatorio)
+1. #382 _TecByters.cpp_ (Clasificatorio)
 
 ### 2023-2024
 
-- #97 _DoSAttack_ (Clasificatorio)
-- #122 _Programasters_ (Clasificatorio)
+1. #97 _DoSAttack_ (Clasificatorio)
+1. #122 _Programasters_ (Clasificatorio)
 
 
 

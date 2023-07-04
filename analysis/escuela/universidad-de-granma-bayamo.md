@@ -10,7 +10,7 @@
 
 ### 2009-2010
 
-- #100 _Granma_ (Regional)
+1. #100 _Granma_ (Regional)
 
 
 

@@ -19,49 +19,49 @@
 
 ### 2004-2005
 
-- #90 (#22 de TecNM) _TOPOS-SIS_ (Regional)
+1. #90 (#22 de TecNM) _TOPOS-SIS_ (Regional)
 
 ### 2005-2006
 
-- #85 (#11 de TecNM) _TopoSIS_ (Regional)
+1. #85 (#11 de TecNM) _TopoSIS_ (Regional)
 
 ### 2006-2007
 
-- #61 (#12 de TecNM) _Topos ITSZO_ (Regional)
+1. #61 (#12 de TecNM) _Topos ITSZO_ (Regional)
 
 ### 2007-2008
 
-- #42 (#9 de TecNM) _Topos I.T.S.Z.O_ (Regional)
+1. #42 (#9 de TecNM) _Topos I.T.S.Z.O_ (Regional)
 
 ### 2008-2009
 
-- #101 (#26 de TecNM) _Topos_ (Regional)
+1. #101 (#26 de TecNM) _Topos_ (Regional)
 
 ### 2016-2017
 
-- #121 (#20 de TecNM) _Topos_ (Clasificatorio)
+1. #121 (#20 de TecNM) _Topos_ (Clasificatorio)
 
 ### 2017-2018
 
-- #339 (#72 de TecNM) _Pop Team_ (Clasificatorio)
-- #405 (#97 de TecNM) _ItszoCode_ (Clasificatorio)
-- #405 (#97 de TecNM) _Los Colombianos_ (Clasificatorio)
+1. #339 (#72 de TecNM) _Pop Team_ (Clasificatorio)
+1. #405 (#97 de TecNM) _ItszoCode_ (Clasificatorio)
+1. #405 (#97 de TecNM) _Los Colombianos_ (Clasificatorio)
 
 ### 2018-2019
 
-- #337 (#79 de TecNM) _PyCo_ (Clasificatorio)
-- #347 (#82 de TecNM) _insultin y unaceptabol_ (Clasificatorio)
+1. #337 (#79 de TecNM) _PyCo_ (Clasificatorio)
+1. #347 (#82 de TecNM) _insultin y unaceptabol_ (Clasificatorio)
 
 ### 2019-2020
 
-- #382 (#98 de TecNM) _ITSZO1_ (Clasificatorio)
+1. #382 (#98 de TecNM) _ITSZO1_ (Clasificatorio)
 
 ### 2022-2023
 
-- #193 (#34 de TecNM) _CXC Code_ (Clasificatorio)
-- #240 (#46 de TecNM) _Lobos del Escuadrón_ (Clasificatorio)
-- #382 (#82 de TecNM) _#IncludeITSZO_ (Clasificatorio)
-- #382 (#82 de TecNM) _ITSZOCoding_ (Clasificatorio)
+1. #193 (#34 de TecNM) _CXC Code_ (Clasificatorio)
+1. #240 (#46 de TecNM) _Lobos del Escuadrón_ (Clasificatorio)
+1. #382 (#82 de TecNM) _#IncludeITSZO_ (Clasificatorio)
+1. #382 (#82 de TecNM) _ITSZOCoding_ (Clasificatorio)
 
 
 

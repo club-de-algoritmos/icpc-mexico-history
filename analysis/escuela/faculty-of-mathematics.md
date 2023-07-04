@@ -10,7 +10,7 @@
 
 ### 2005-2006
 
-- #85 _Tzotzes_ (Regional)
+1. #85 _Tzotzes_ (Regional)
 
 
 

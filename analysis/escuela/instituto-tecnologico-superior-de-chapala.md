@@ -18,24 +18,24 @@
 
 ### 2011-2012
 
-- #104 (#33 de TecNM) _Chapala 3_ (Regional)
+1. #104 (#33 de TecNM) _Chapala 3_ (Regional)
 
 ### 2012-2013
 
-- #134 (#53 de TecNM) _Los Truchas_ (Regional)
+1. #134 (#53 de TecNM) _Los Truchas_ (Regional)
 
 ### 2017-2018
 
-- #405 (#97 de TecNM) _Chapala1_ (Clasificatorio)
-- #405 (#97 de TecNM) _Chapala2_ (Clasificatorio)
-- #405 (#97 de TecNM) _Rumba_ (Clasificatorio)
-- #405 (#97 de TecNM) _Tecno Team_ (Clasificatorio)
-- #405 (#97 de TecNM) _mmTeam_ (Clasificatorio)
+1. #405 (#97 de TecNM) _Chapala1_ (Clasificatorio)
+1. #405 (#97 de TecNM) _Chapala2_ (Clasificatorio)
+1. #405 (#97 de TecNM) _Rumba_ (Clasificatorio)
+1. #405 (#97 de TecNM) _Tecno Team_ (Clasificatorio)
+1. #405 (#97 de TecNM) _mmTeam_ (Clasificatorio)
 
 ### 2019-2020
 
-- #382 (#98 de TecNM) _Chapala 1_ (Clasificatorio)
-- #382 (#98 de TecNM) _Chapala 2_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Chapala 1_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Chapala 2_ (Clasificatorio)
 
 
 

@@ -19,41 +19,41 @@
 
 ### 2015-2016
 
-- #16 _CSF1_ (Regional)
-- #108 _CSF2_ (Clasificatorio)
-- #108 _CSF3_ (Clasificatorio)
+1. #16 _CSF1_ (Regional)
+1. #108 _CSF2_ (Clasificatorio)
+1. #108 _CSF3_ (Clasificatorio)
 
 ### 2016-2017
 
-- #38 _CSF1_ (Regional)
-- #54 _The Brewskis_ (Regional)
-- #121 _CSF2_ (Clasificatorio)
-- #121 _CSF3_ (Clasificatorio)
-- #121 _ITCrew_ (Clasificatorio)
+1. #38 _CSF1_ (Regional)
+1. #54 _The Brewskis_ (Regional)
+1. #121 _CSF2_ (Clasificatorio)
+1. #121 _CSF3_ (Clasificatorio)
+1. #121 _ITCrew_ (Clasificatorio)
 
 ### 2017-2018
 
-- #67 _Assassin Bugs_ (Clasificatorio)
-- #79 _ITCrew_ (Clasificatorio)
-- #293 _The Belgians_ (Clasificatorio)
-- #314 _Los C-nadores_ (Clasificatorio)
-- #405 _The Brewskis_ (Clasificatorio)
+1. #67 _Assassin Bugs_ (Clasificatorio)
+1. #79 _ITCrew_ (Clasificatorio)
+1. #293 _The Belgians_ (Clasificatorio)
+1. #314 _Los C-nadores_ (Clasificatorio)
+1. #405 _The Brewskis_ (Clasificatorio)
 
 ### 2018-2019
 
-- #102 _C-nadores_ (Clasificatorio)
-- #118 _Trinidad_ (Clasificatorio)
-- #126 _C buscan_ (Clasificatorio)
-- #394 _Assassin Bugs_ (Clasificatorio)
+1. #102 _C-nadores_ (Clasificatorio)
+1. #118 _Trinidad_ (Clasificatorio)
+1. #126 _C buscan_ (Clasificatorio)
+1. #394 _Assassin Bugs_ (Clasificatorio)
 
 ### 2019-2020
 
-- #181 _C-nadores_ (Clasificatorio)
-- #382 _Trinidad_ (Clasificatorio)
+1. #181 _C-nadores_ (Clasificatorio)
+1. #382 _Trinidad_ (Clasificatorio)
 
 ### 2020-2021
 
-- #26 _Assassin Bugs_ (Regional)
+1. #26 _Assassin Bugs_ (Regional)
 
 
 

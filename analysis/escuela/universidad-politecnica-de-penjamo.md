@@ -19,21 +19,21 @@
 
 ### 2019-2020
 
-- #382 _AKB_Penjamo_ (Clasificatorio)
-- #382 _UPP Correcaminos_ (Clasificatorio)
+1. #382 _AKB_Penjamo_ (Clasificatorio)
+1. #382 _UPP Correcaminos_ (Clasificatorio)
 
 ### 2020-2021
 
-- #260 _The last_ (Clasificatorio)
-- #351 _A2E_ (Clasificatorio)
-- #351 _Dreamers_ (Clasificatorio)
-- #351 _J2A_ (Clasificatorio)
-- #351 _LP_ (Clasificatorio)
-- #351 _Los Dinámicos_ (Clasificatorio)
-- #351 _MaPaLi_ (Clasificatorio)
-- #351 _babyCorrecaminos_ (Clasificatorio)
-- #351 _correcaminos_ (Clasificatorio)
-- #351 _principiantes.exe_ (Clasificatorio)
+1. #260 _The last_ (Clasificatorio)
+1. #351 _A2E_ (Clasificatorio)
+1. #351 _Dreamers_ (Clasificatorio)
+1. #351 _J2A_ (Clasificatorio)
+1. #351 _LP_ (Clasificatorio)
+1. #351 _Los Dinámicos_ (Clasificatorio)
+1. #351 _MaPaLi_ (Clasificatorio)
+1. #351 _babyCorrecaminos_ (Clasificatorio)
+1. #351 _correcaminos_ (Clasificatorio)
+1. #351 _principiantes.exe_ (Clasificatorio)
 
 
 

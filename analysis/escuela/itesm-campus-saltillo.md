@@ -15,21 +15,21 @@
 
 ### 2008-2009
 
-- #101 _iTIC Tekito_ (Regional)
+1. #101 _iTIC Tekito_ (Regional)
 
 ### 2010-2011
 
-- #66 _The Expendables_ (Regional)
-- #76 _Los aprendices_ (Regional)
+1. #66 _The Expendables_ (Regional)
+1. #76 _Los aprendices_ (Regional)
 
 ### 2011-2012
 
-- #39 _The Expendables_ (Regional)
+1. #39 _The Expendables_ (Regional)
 
 ### 2016-2017
 
-- #121 _CyberRams1_ (Clasificatorio)
-- #121 _c0derz_ (Clasificatorio)
+1. #121 _CyberRams1_ (Clasificatorio)
+1. #121 _c0derz_ (Clasificatorio)
 
 
 

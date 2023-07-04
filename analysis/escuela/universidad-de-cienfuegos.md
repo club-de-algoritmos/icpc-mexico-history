@@ -13,13 +13,13 @@
 
 ### 2009-2010
 
-- #60 _UCF-02_ (Regional)
-- #116 _UCF-01_ (Regional)
+1. #60 _UCF-02_ (Regional)
+1. #116 _UCF-01_ (Regional)
 
 ### 2010-2011
 
-- #73 _UCF-HelloWorld!_ (Regional)
-- #117 _UCF-Sudden_ (Regional)
+1. #73 _UCF-HelloWorld!_ (Regional)
+1. #117 _UCF-Sudden_ (Regional)
 
 
 

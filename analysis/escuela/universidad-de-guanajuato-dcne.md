@@ -20,77 +20,78 @@
 
 ### 2016-2017
 
-- #6 _E3_ (Regional)
-- #8 _Perrillos_ (Regional)
-- #40 _CRACK!_ (Clasificatorio)
-- #116 _Team KOL_ (Clasificatorio)
-- #117 _Lobos_ (Clasificatorio)
-- #121 _Complete Turing_ (Clasificatorio)
-- #121 _Shiwaweños_ (Clasificatorio)
+1. #6 _E3_ (Regional)
+1. #8 _Perrillos_ (Regional)
+1. #40 _CRACK!_ (Clasificatorio)
+1. #116 _Team KOL_ (Clasificatorio)
+1. #117 _Lobos_ (Clasificatorio)
+1. #121 _Complete Turing_ (Clasificatorio)
+1. #121 _Shiwaweños_ (Clasificatorio)
 
 ### 2017-2018
 
-- #5 _E3_ (Regional)
-- #18 _FMB_ (Regional)
-- #23 _Perrillos_ (Regional)
-- #22 _CRACK_ (Clasificatorio)
-- #108 _Code-Frog_ (Clasificatorio)
-- #272 _Las chicas Superpoderosas_ (Clasificatorio)
+1. #5 _E3_ (Regional)
+1. #18 _FMB_ (Regional)
+1. #23 _Perrillos_ (Regional)
+1. #22 _CRACK_ (Clasificatorio)
+1. #108 _Code-Frog_ (Clasificatorio)
+1. #272 _Las chicas Superpoderosas_ (Clasificatorio)
 
 ### 2018-2019
 
-- #6 _E3_ (Regional)
-- #8 _Duel a morte con coitelos_ (Regional)
-- #14 _FMB_ (Regional)
-- #19 _CRACK_ (Clasificatorio)
-- #394 _Last Minute_ (Clasificatorio)
+1. #6 _E3_ (Regional)
+1. #8 _Duel a morte con coitelos_ (Regional)
+1. #14 _FMB_ (Regional)
+1. #19 _CRACK_ (Clasificatorio)
+1. #394 _Last Minute_ (Clasificatorio)
 
 ### 2019-2020
 
-- #47 _E3_ (Final Mundial)
-- #9 _Hypercube Destroyers_ (Regional)
-- #14 _Talla Mediana_ (Regional)
-- #18 _Two and a Half Compus_ (Clasificatorio)
+1. #2 _E3_ (Regional)
+    - Avanzó a la final mundial y resolvió None problemas obtuviendo el lugar #47 (61%) en 44th Annual World Finals of the International Collegiate Programming Contest
+1. #9 _Hypercube Destroyers_ (Regional)
+1. #14 _Talla Mediana_ (Regional)
+1. #18 _Two and a Half Compus_ (Clasificatorio)
 
 ### 2020-2021
 
-- #6 _EEE_ (Regional)
-- #11 _UG + es;_ (Regional)
-- #32 _Deep Think_ (Regional)
-- #37 _JoJoJo's_ (Clasificatorio)
-- #189 _Cheemtos_ (Clasificatorio)
-- #227 _Valedores_ (Clasificatorio)
+1. #6 _EEE_ (Regional)
+1. #11 _UG + es;_ (Regional)
+1. #32 _Deep Think_ (Regional)
+1. #37 _JoJoJo's_ (Clasificatorio)
+1. #189 _Cheemtos_ (Clasificatorio)
+1. #227 _Valedores_ (Clasificatorio)
 
 ### 2021-2022
 
-- #5 _OWO_ (Regional)
-- #8 _Ug+es_ (Regional)
-- #12 _JoJoJo's_ (Regional)
-- #34 _Bourbaki_ (Clasificatorio)
-- #62 _Purple Haze_ (Clasificatorio)
-- #135 _Red Bool_ (Clasificatorio)
-- #226 _The Donuts_ (Clasificatorio)
+1. #5 _OWO_ (Regional)
+1. #8 _Ug+es_ (Regional)
+1. #12 _JoJoJo's_ (Regional)
+1. #34 _Bourbaki_ (Clasificatorio)
+1. #62 _Purple Haze_ (Clasificatorio)
+1. #135 _Red Bool_ (Clasificatorio)
+1. #226 _The Donuts_ (Clasificatorio)
 
 ### 2022-2023
 
-- #1 _OWO_ (Regional)
-- #5 _JoJoJo’S_ (Regional)
-- #7 _Ug+es;_ (Regional)
-- #42 _cin>>nombre_ (Clasificatorio)
-- #75 _Mathgic_ (Clasificatorio)
-- #78 _Red Bool Coding_ (Clasificatorio)
-- #217 _MAD_ (Clasificatorio)
-- #287 _Ranas ++_ (Clasificatorio)
-- #382 _Bee Programmer Club_ (Clasificatorio)
-- #382 _Python-esp_ (Clasificatorio)
+1. #1 _OWO_ (Regional)
+1. #5 _JoJoJo’S_ (Regional)
+1. #7 _Ug+es;_ (Regional)
+1. #42 _cin>>nombre_ (Clasificatorio)
+1. #75 _Mathgic_ (Clasificatorio)
+1. #78 _Red Bool Coding_ (Clasificatorio)
+1. #217 _MAD_ (Clasificatorio)
+1. #287 _Ranas ++_ (Clasificatorio)
+1. #382 _Bee Programmer Club_ (Clasificatorio)
+1. #382 _Python-esp_ (Clasificatorio)
 
 ### 2023-2024
 
-- #1 _OWO_ (Clasificatorio)
-- #9 _La última y nos vamos_ (Clasificatorio)
-- #14 _Mathgic_ (Clasificatorio)
-- #16 _cin>>nombre;_ (Clasificatorio)
-- #27 _JoJoJo's_ (Clasificatorio)
+1. #1 _OWO_ (Clasificatorio)
+1. #9 _La última y nos vamos_ (Clasificatorio)
+1. #14 _Mathgic_ (Clasificatorio)
+1. #16 _cin>>nombre;_ (Clasificatorio)
+1. #27 _JoJoJo's_ (Clasificatorio)
 
 
 

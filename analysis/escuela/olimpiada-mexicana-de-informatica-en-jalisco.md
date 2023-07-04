@@ -14,23 +14,23 @@
 
 ### 2008-2009
 
-- #101 _OMIJAL - ASFG_ (Regional)
+1. #101 _OMIJAL - ASFG_ (Regional)
 
 ### 2009-2010
 
-- #80 _OMIJAL - Gira Jalisco_ (Regional)
+1. #80 _OMIJAL - Gira Jalisco_ (Regional)
 
 ### 2010-2011
 
-- #156 _OMIJal - Preparatoria_ (Regional)
+1. #156 _OMIJal - Preparatoria_ (Regional)
 
 ### 2011-2012
 
-- #34 _OMIJal_Prepa_ (Regional)
+1. #34 _OMIJal_Prepa_ (Regional)
 
 ### 2022-2023
 
-- #56 _OMIJAL_ (Regional)
+1. #56 _OMIJAL_ (Regional)
 
 
 

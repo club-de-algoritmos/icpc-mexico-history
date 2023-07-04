@@ -13,13 +13,13 @@
 
 ### 2020-2021
 
-- #351 (#65 de TecNM) _CLAsoft_ (Clasificatorio)
+1. #351 (#65 de TecNM) _CLAsoft_ (Clasificatorio)
 
 ### 2021-2022
 
-- #226 (#36 de TecNM) _Konosuba_ (Clasificatorio)
-- #226 (#36 de TecNM) _SDB_ (Clasificatorio)
-- #226 (#36 de TecNM) _Softeam_ (Clasificatorio)
+1. #226 (#36 de TecNM) _Konosuba_ (Clasificatorio)
+1. #226 (#36 de TecNM) _SDB_ (Clasificatorio)
+1. #226 (#36 de TecNM) _Softeam_ (Clasificatorio)
 
 
 

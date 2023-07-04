@@ -9,6 +9,7 @@ _NORMALIZED_LETTERS = {
     'ó': 'o',
     'ú': 'u',
     'ñ': 'n',
+    'ü': 'u',
 }
 
 
@@ -21,8 +22,7 @@ def normalize_str(value: str) -> str:
 
 def normalize_as_filename(value: str) -> str:
     normalized_value = normalize_str(value).replace(' ', '-').replace('/', '-')
-    normalized_value = re.sub('-+', '-', normalized_value)
-    return normalized_value
+    return re.sub('-+', '-', normalized_value)
 
 
 def get_percentile(rank: int, count: int) -> float:

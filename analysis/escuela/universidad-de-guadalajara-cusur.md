@@ -19,52 +19,52 @@
 
 ### 2014-2015
 
-- #118 _Los hijos de Odín_ (Clasificatorio)
-- #192 _DRothers_ (Clasificatorio)
-- #204 _Tlacuaches Team_ (Clasificatorio)
+1. #118 _Los hijos de Odín_ (Clasificatorio)
+1. #192 _DRothers_ (Clasificatorio)
+1. #204 _Tlacuaches Team_ (Clasificatorio)
 
 ### 2015-2016
 
-- #108 _Evil Machine_ (Clasificatorio)
-- #108 _Skyline_ (Clasificatorio)
+1. #108 _Evil Machine_ (Clasificatorio)
+1. #108 _Skyline_ (Clasificatorio)
 
 ### 2016-2017
 
-- #121 _Evil Machine_ (Clasificatorio)
-- #121 _SkyLine_ (Clasificatorio)
+1. #121 _Evil Machine_ (Clasificatorio)
+1. #121 _SkyLine_ (Clasificatorio)
 
 ### 2017-2018
 
-- #360 _The Floyd_ (Clasificatorio)
-- #370 _Evil_Machine_ (Clasificatorio)
-- #405 _Discipulos de Abraham_ (Clasificatorio)
-- #405 _FAM_ (Clasificatorio)
-- #405 _Los Doritos_ (Clasificatorio)
-- #405 _Los Padawan de Arechiga_ (Clasificatorio)
-- #405 _Sniffero_ (Clasificatorio)
+1. #360 _The Floyd_ (Clasificatorio)
+1. #370 _Evil_Machine_ (Clasificatorio)
+1. #405 _Discipulos de Abraham_ (Clasificatorio)
+1. #405 _FAM_ (Clasificatorio)
+1. #405 _Los Doritos_ (Clasificatorio)
+1. #405 _Los Padawan de Arechiga_ (Clasificatorio)
+1. #405 _Sniffero_ (Clasificatorio)
 
 ### 2018-2019
 
-- #64 _EvilMachine_ (Regional)
-- #394 _Fénix_ (Clasificatorio)
+1. #64 _EvilMachine_ (Regional)
+1. #394 _Fénix_ (Clasificatorio)
 
 ### 2019-2020
 
-- #317 _Acapulqueques_ (Clasificatorio)
-- #382 _Error 404_CUSUR_ (Clasificatorio)
-- #382 _Error de capa 8_ (Clasificatorio)
-- #382 _Fenix_CUSUR_ (Clasificatorio)
+1. #317 _Acapulqueques_ (Clasificatorio)
+1. #382 _Error 404_CUSUR_ (Clasificatorio)
+1. #382 _Error de capa 8_ (Clasificatorio)
+1. #382 _Fenix_CUSUR_ (Clasificatorio)
 
 ### 2020-2021
 
-- #272 _Evilmachine_ (Clasificatorio)
-- #351 _Fenix_ (Clasificatorio)
+1. #272 _Evilmachine_ (Clasificatorio)
+1. #351 _Fenix_ (Clasificatorio)
 
 ### 2022-2023
 
-- #382 _BWT combinados_ (Clasificatorio)
-- #382 _ERROR 404_ (Clasificatorio)
-- #382 _ITEL TEAM_ (Clasificatorio)
+1. #382 _BWT combinados_ (Clasificatorio)
+1. #382 _ERROR 404_ (Clasificatorio)
+1. #382 _ITEL TEAM_ (Clasificatorio)
 
 
 

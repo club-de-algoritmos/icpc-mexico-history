@@ -12,9 +12,9 @@
 
 ### 2020-2021
 
-- #351 (#65 de TecNM) _ZapotlanejoInfo3_ (Clasificatorio)
-- #351 (#65 de TecNM) _ZapotlanejoInfo5_ (Clasificatorio)
-- #351 (#65 de TecNM) _ZapotlanejoInfo7_ (Clasificatorio)
+1. #351 (#65 de TecNM) _ZapotlanejoInfo3_ (Clasificatorio)
+1. #351 (#65 de TecNM) _ZapotlanejoInfo5_ (Clasificatorio)
+1. #351 (#65 de TecNM) _ZapotlanejoInfo7_ (Clasificatorio)
 
 
 

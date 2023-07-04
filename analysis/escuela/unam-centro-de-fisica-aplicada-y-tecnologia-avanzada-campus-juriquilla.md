@@ -11,8 +11,8 @@
 
 ### 2017-2018
 
-- #188 _PIC_ (Clasificatorio)
-- #405 _VICTOREM_ (Clasificatorio)
+1. #188 _PIC_ (Clasificatorio)
+1. #405 _VICTOREM_ (Clasificatorio)
 
 
 

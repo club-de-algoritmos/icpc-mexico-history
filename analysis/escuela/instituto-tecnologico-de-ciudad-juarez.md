@@ -12,12 +12,12 @@
 
 ### 2022-2023
 
-- #382 (#82 de TecNM) _TodoPorPTS_ (Clasificatorio)
+1. #382 (#82 de TecNM) _TodoPorPTS_ (Clasificatorio)
 
 ### 2023-2024
 
-- #65 (#10 de TecNM) _Burritos de atole_ (Clasificatorio)
-- #290 (#59 de TecNM) _Team Avast Premier_ (Clasificatorio)
+1. #65 (#10 de TecNM) _Burritos de atole_ (Clasificatorio)
+1. #290 (#59 de TecNM) _Team Avast Premier_ (Clasificatorio)
 
 
 

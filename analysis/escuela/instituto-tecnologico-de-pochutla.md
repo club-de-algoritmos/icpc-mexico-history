@@ -10,7 +10,7 @@
 
 ### 2022-2023
 
-- #382 (#82 de TecNM) _Pocoders_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Pocoders_ (Clasificatorio)
 
 
 

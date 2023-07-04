@@ -19,32 +19,32 @@
 
 ### 2001-2002
 
-- #21 _Los hijos del mouse_ (Regional)
+1. #21 _Los hijos del mouse_ (Regional)
 
 ### 2002-2003
 
-- #5 _C0D3RZ_ (Regional)
+1. #5 _C0D3RZ_ (Regional)
 
 ### 2003-2004
 
-- #10 _C0D3RZ overflow_ (Regional)
-- #41 _Ingeniería_ (Regional)
+1. #10 _C0D3RZ overflow_ (Regional)
+1. #41 _Ingeniería_ (Regional)
 
 ### 2004-2005
 
-- #4 _C0D3RZ do not dance!_ (Regional)
-- #42 _Pucca_ (Regional)
+1. #4 _C0D3RZ do not dance!_ (Regional)
+1. #42 _Pucca_ (Regional)
 
 ### 2005-2006
 
-- #15 _Los +acuatas_ (Regional)
-- #85 _Sinalouwa_ (Regional)
+1. #15 _Los +acuatas_ (Regional)
+1. #85 _Sinalouwa_ (Regional)
 
 ### 2006-2007
 
-- #17 _Time Limit Exceeded_ (Regional)
-- #85 _Output Limit Exceeded_ (Regional)
-- #85 _Runtime Error_ (Regional)
+1. #17 _Time Limit Exceeded_ (Regional)
+1. #85 _Output Limit Exceeded_ (Regional)
+1. #85 _Runtime Error_ (Regional)
 
 
 

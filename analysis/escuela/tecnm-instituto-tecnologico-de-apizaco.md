@@ -11,11 +11,11 @@
 
 ### 2020-2021
 
-- #351 (#65 de TecNM) _TOROS CRACK'S_ (Clasificatorio)
+1. #351 (#65 de TecNM) _TOROS CRACK'S_ (Clasificatorio)
 
 ### 2021-2022
 
-- #226 (#36 de TecNM) _Faze code_ (Clasificatorio)
+1. #226 (#36 de TecNM) _Faze code_ (Clasificatorio)
 
 
 

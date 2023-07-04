@@ -12,9 +12,9 @@
 
 ### 2019-2020
 
-- #382 _Los Camaritas_ (Clasificatorio)
-- #382 _Los Cousins_ (Clasificatorio)
-- #382 _OTS_ (Clasificatorio)
+1. #382 _Los Camaritas_ (Clasificatorio)
+1. #382 _Los Cousins_ (Clasificatorio)
+1. #382 _OTS_ (Clasificatorio)
 
 
 

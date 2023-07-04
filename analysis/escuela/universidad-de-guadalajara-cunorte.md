@@ -13,16 +13,16 @@
 
 ### 2017-2018
 
-- #286 _BLACK JACK_ (Clasificatorio)
+1. #286 _BLACK JACK_ (Clasificatorio)
 
 ### 2018-2019
 
-- #76 _Note NV_ (Regional)
-- #394 _CognitiveCode_ (Clasificatorio)
+1. #76 _Note NV_ (Regional)
+1. #394 _CognitiveCode_ (Clasificatorio)
 
 ### 2019-2020
 
-- #340 _Note NV_ (Clasificatorio)
+1. #340 _Note NV_ (Clasificatorio)
 
 
 

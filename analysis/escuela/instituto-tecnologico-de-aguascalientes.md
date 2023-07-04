@@ -14,17 +14,17 @@
 
 ### 2013-2014
 
-- #94 (#23 de TecNM) _Encoded_ (Regional)
+1. #94 (#23 de TecNM) _Encoded_ (Regional)
 
 ### 2019-2020
 
-- #382 (#98 de TecNM) _DVS_ (Clasificatorio)
-- #382 (#98 de TecNM) _Discípulos de Ponce_ (Clasificatorio)
-- #382 (#98 de TecNM) _GC: Geek Code_ (Clasificatorio)
+1. #382 (#98 de TecNM) _DVS_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Discípulos de Ponce_ (Clasificatorio)
+1. #382 (#98 de TecNM) _GC: Geek Code_ (Clasificatorio)
 
 ### 2020-2021
 
-- #351 (#65 de TecNM) _Java for Rookies_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Java for Rookies_ (Clasificatorio)
 
 
 

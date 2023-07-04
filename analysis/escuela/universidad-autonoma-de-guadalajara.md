@@ -16,16 +16,16 @@
 
 ### 2005-2006
 
-- #3 _Nemesis_ (Regional)
-- #10 _ACRUX_ (Regional)
-- #58 _PROGINNT_ (Regional)
-- #85 _IGDA Iteso_ (Regional)
+1. #3 _Nemesis_ (Regional)
+1. #10 _ACRUX_ (Regional)
+1. #58 _PROGINNT_ (Regional)
+1. #85 _IGDA Iteso_ (Regional)
 
 ### 2008-2009
 
-- #53 _BSoD_ (Regional)
-- #79 _Kernel Panic_ (Regional)
-- #91 _NetBeaners_ (Regional)
+1. #53 _BSoD_ (Regional)
+1. #79 _Kernel Panic_ (Regional)
+1. #91 _NetBeaners_ (Regional)
 
 
 

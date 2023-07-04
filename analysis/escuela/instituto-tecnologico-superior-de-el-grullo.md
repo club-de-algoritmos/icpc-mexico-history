@@ -19,59 +19,59 @@
 
 ### 2008-2009
 
-- #101 (#26 de TecNM) _El Grullo1_ (Regional)
-- #101 (#26 de TecNM) _El Grullo2_ (Regional)
+1. #101 (#26 de TecNM) _El Grullo1_ (Regional)
+1. #101 (#26 de TecNM) _El Grullo2_ (Regional)
 
 ### 2009-2010
 
-- #116 (#31 de TecNM) _TecGrullo_ (Regional)
+1. #116 (#31 de TecNM) _TecGrullo_ (Regional)
 
 ### 2010-2011
 
-- #156 (#44 de TecNM) _El Grullo_ (Regional)
+1. #156 (#44 de TecNM) _El Grullo_ (Regional)
 
 ### 2011-2012
 
-- #104 (#33 de TecNM) _JOVAvsJAVA_ (Regional)
+1. #104 (#33 de TecNM) _JOVAvsJAVA_ (Regional)
 
 ### 2014-2015
 
-- #37 (#4 de TecNM) _TecGrullo_ (Regional)
+1. #37 (#4 de TecNM) _TecGrullo_ (Regional)
 
 ### 2015-2016
 
-- #108 (#28 de TecNM) _TecGrullo1_ (Clasificatorio)
-- #108 (#28 de TecNM) _TecGrullo2_ (Clasificatorio)
-- #108 (#28 de TecNM) _TecGrullo22_ (Clasificatorio)
-- #108 (#28 de TecNM) _TecGrullo4_ (Clasificatorio)
+1. #108 (#28 de TecNM) _TecGrullo1_ (Clasificatorio)
+1. #108 (#28 de TecNM) _TecGrullo2_ (Clasificatorio)
+1. #108 (#28 de TecNM) _TecGrullo22_ (Clasificatorio)
+1. #108 (#28 de TecNM) _TecGrullo4_ (Clasificatorio)
 
 ### 2016-2017
 
-- #121 (#20 de TecNM) _TecGrullo2_ (Clasificatorio)
-- #121 (#20 de TecNM) _TecGrullo2_2_ (Clasificatorio)
-- #121 (#20 de TecNM) _TecGrullo3_ (Clasificatorio)
+1. #121 (#20 de TecNM) _TecGrullo2_ (Clasificatorio)
+1. #121 (#20 de TecNM) _TecGrullo2_2_ (Clasificatorio)
+1. #121 (#20 de TecNM) _TecGrullo3_ (Clasificatorio)
 
 ### 2017-2018
 
-- #332 (#70 de TecNM) _TMMGrullo1_ (Clasificatorio)
-- #343 (#74 de TecNM) _TMMGrullo3_ (Clasificatorio)
-- #390 (#91 de TecNM) _TMMGrullo5_ (Clasificatorio)
-- #396 (#93 de TecNM) _TMMGrullo2_ (Clasificatorio)
-- #405 (#97 de TecNM) _TMMGrullo4_ (Clasificatorio)
+1. #332 (#70 de TecNM) _TMMGrullo1_ (Clasificatorio)
+1. #343 (#74 de TecNM) _TMMGrullo3_ (Clasificatorio)
+1. #390 (#91 de TecNM) _TMMGrullo5_ (Clasificatorio)
+1. #396 (#93 de TecNM) _TMMGrullo2_ (Clasificatorio)
+1. #405 (#97 de TecNM) _TMMGrullo4_ (Clasificatorio)
 
 ### 2018-2019
 
-- #263 (#54 de TecNM) _TMMGrullo2_ (Clasificatorio)
-- #276 (#59 de TecNM) _TMMGrullo3_ (Clasificatorio)
-- #279 (#61 de TecNM) _TMMGrullo1_ (Clasificatorio)
-- #384 (#94 de TecNM) _TMMGrullo4_ (Clasificatorio)
+1. #263 (#54 de TecNM) _TMMGrullo2_ (Clasificatorio)
+1. #276 (#59 de TecNM) _TMMGrullo3_ (Clasificatorio)
+1. #279 (#61 de TecNM) _TMMGrullo1_ (Clasificatorio)
+1. #384 (#94 de TecNM) _TMMGrullo4_ (Clasificatorio)
 
 ### 2019-2020
 
-- #369 (#92 de TecNM) _TecMM Grullo 2_ (Clasificatorio)
-- #382 (#98 de TecNM) _TecMM Grullo 1_ (Clasificatorio)
-- #382 (#98 de TecNM) _TecMM Grullo 3_ (Clasificatorio)
-- #382 (#98 de TecNM) _TecMM Grullo 4_ (Clasificatorio)
+1. #369 (#92 de TecNM) _TecMM Grullo 2_ (Clasificatorio)
+1. #382 (#98 de TecNM) _TecMM Grullo 1_ (Clasificatorio)
+1. #382 (#98 de TecNM) _TecMM Grullo 3_ (Clasificatorio)
+1. #382 (#98 de TecNM) _TecMM Grullo 4_ (Clasificatorio)
 
 
 

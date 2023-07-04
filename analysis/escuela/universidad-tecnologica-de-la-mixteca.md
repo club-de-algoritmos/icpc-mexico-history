@@ -24,126 +24,131 @@
 
 ### 2004-2005
 
-- #74 _UTMixteca Poor Dogs_ (Final Mundial)
-- #9 _Rivendel's council_ (Regional)
-- #14 _teyundako_ (Regional)
+1. #2 _UTMixteca Poor Dogs_ (Regional)
+    - Avanzó a la final mundial y resolvió 1 problemas obtuviendo el lugar #74 (5%) en The 2005 ACM Programming Contest World Finals
+1. #9 _Rivendel's council_ (Regional)
+1. #14 _teyundako_ (Regional)
 
 ### 2005-2006
 
-- #56 _UTMixteca NONAME_ (Final Mundial)
-- #12 _Nexus A_ (Regional)
-- #22 _Tayundako_ (Regional)
-- #51 _C+TURBO_ (Regional)
+1. #1 _UTMixteca NONAME_ (Regional)
+    - Avanzó a la final mundial y resolvió 1 problemas obtuviendo el lugar #56 (33%) en The 2006 ACM Programming Contest World Finals
+1. #12 _Nexus A_ (Regional)
+1. #22 _Tayundako_ (Regional)
+1. #51 _C+TURBO_ (Regional)
 
 ### 2006-2007
 
-- #86 _Poor Dogs_ (Final Mundial)
-- #13 _NoName_ (Regional)
-- #15 _Gosus_ (Regional)
-- #29 _Nikunu Tayundako_ (Regional)
+1. #1 _Poor Dogs_ (Regional)
+    - Avanzó a la final mundial y resolvió 0 problemas obtuviendo el lugar #86 (2%) en The 2007 ACM Programming Contest World Finals
+1. #13 _NoName_ (Regional)
+1. #15 _Gosus_ (Regional)
+1. #29 _Nikunu Tayundako_ (Regional)
 
 ### 2007-2008
 
-- #5 _Batch Mode_ (Regional)
-- #13 _Grajam_ (Regional)
-- #31 _ASCII "kers"_ (Regional)
+1. #5 _Batch Mode_ (Regional)
+1. #13 _Grajam_ (Regional)
+1. #31 _ASCII "kers"_ (Regional)
 
 ### 2008-2009
 
-- #68 _grajam_ (Final Mundial)
-- #8 _Anti-Grajam_ (Regional)
-- #15 _asciikers_ (Regional)
-- #60 _ad hoc_ (Regional)
+1. #2 _grajam_ (Regional)
+    - Avanzó a la final mundial y resolvió 0 problemas obtuviendo el lugar #68 (32%) en 33rd Annual World Finals of the ACM International Collegiate Programming Contest
+1. #8 _Anti-Grajam_ (Regional)
+1. #15 _asciikers_ (Regional)
+1. #60 _ad hoc_ (Regional)
 
 ### 2009-2010
 
-- #15 _Extintor_ (Regional)
-- #22 _Jovenes Promesa_ (Regional)
-- #34 _UTPhenom_ (Regional)
-- #45 _Trinomio_ (Regional)
+1. #15 _Extintor_ (Regional)
+1. #22 _Jovenes Promesa_ (Regional)
+1. #34 _UTPhenom_ (Regional)
+1. #45 _Trinomio_ (Regional)
 
 ### 2010-2011
 
-- #8 _Granja_ (Regional)
-- #14 _Dinamacion Programica_ (Regional)
-- #119 _programming for a dream_ (Regional)
+1. #8 _Granja_ (Regional)
+1. #14 _Dinamacion Programica_ (Regional)
+1. #119 _programming for a dream_ (Regional)
 
 ### 2011-2012
 
-- #101 _Justice League_ (Final Mundial)
-- #14 _Zylo Rabbit_ (Regional)
-- #22 _Scribus_ (Regional)
-- #25 _NONAME_ (Regional)
+1. #3 _Justice League_ (Regional)
+    - Avanzó a la final mundial y resolvió 1 problemas obtuviendo el lugar #101 (10%) en 36th Annual World Finals of the ACM International Collegiate Programming Contest
+1. #14 _Zylo Rabbit_ (Regional)
+1. #22 _Scribus_ (Regional)
+1. #25 _NONAME_ (Regional)
 
 ### 2012-2013
 
-- #4 _Faith + 1_ (Regional)
-- #33 _Daa.cpp_ (Regional)
-- #37 _Doña Cata Lovers_ (Regional)
-- #78 _Prhogrameitorz_ (Regional)
+1. #4 _Faith + 1_ (Regional)
+1. #33 _Daa.cpp_ (Regional)
+1. #37 _Doña Cata Lovers_ (Regional)
+1. #78 _Prhogrameitorz_ (Regional)
 
 ### 2013-2014
 
-- #9 _Mictlan Guardians_ (Regional)
-- #69 _String Tokenizer_ (Regional)
-- #82 _UTMadre_ (Regional)
+1. #9 _Mictlan Guardians_ (Regional)
+1. #69 _String Tokenizer_ (Regional)
+1. #82 _UTMadre_ (Regional)
 
 ### 2014-2015
 
-- #19 _Mictlan  Guardians_ (Regional)
-- #24 _TriForce_ (Regional)
-- #19 _Mictlan Guardians_ (Clasificatorio)
-- #46 _String Tokenizer_ (Clasificatorio)
-- #68 _CODEMEN_ (Clasificatorio)
-- #71 _Los Pollos Hermanos_ (Clasificatorio)
-- #77 _Fenix_ (Clasificatorio)
-- #98 _Fire Ferrets_ (Clasificatorio)
+1. #19 _Mictlan  Guardians_ (Regional)
+1. #24 _TriForce_ (Regional)
+1. #19 _Mictlan Guardians_ (Clasificatorio)
+1. #46 _String Tokenizer_ (Clasificatorio)
+1. #68 _CODEMEN_ (Clasificatorio)
+1. #71 _Los Pollos Hermanos_ (Clasificatorio)
+1. #77 _Fenix_ (Clasificatorio)
+1. #98 _Fire Ferrets_ (Clasificatorio)
 
 ### 2016-2017
 
-- #15 _the foos_ (Regional)
+1. #15 _the foos_ (Regional)
 
 ### 2017-2018
 
-- #179 _Uncompilables_ (Clasificatorio)
-- #184 _Mosquegatos_ (Clasificatorio)
-- #191 _Illuminatim_ (Clasificatorio)
-- #276 _DMTeam_ (Clasificatorio)
-- #301 _Estudiambres_ (Clasificatorio)
-- #405 _foraneosTeam_ (Clasificatorio)
+1. #179 _Uncompilables_ (Clasificatorio)
+1. #184 _Mosquegatos_ (Clasificatorio)
+1. #191 _Illuminatim_ (Clasificatorio)
+1. #276 _DMTeam_ (Clasificatorio)
+1. #301 _Estudiambres_ (Clasificatorio)
+1. #405 _foraneosTeam_ (Clasificatorio)
 
 ### 2018-2019
 
-- #55 _Los K-Bzones_ (Regional)
-- #186 _cabeshon++_ (Clasificatorio)
-- #261 _Uncompilables_ (Clasificatorio)
+1. #55 _Los K-Bzones_ (Regional)
+1. #186 _cabeshon++_ (Clasificatorio)
+1. #261 _Uncompilables_ (Clasificatorio)
 
 ### 2019-2020
 
-- #31 _K-bezones_ (Regional)
-- #86 _Uncompilables_ (Clasificatorio)
-- #90 _Los súper conocidos_ (Clasificatorio)
-- #91 _Scorpius_ (Clasificatorio)
-- #137 _Cabezones en bytecode_ (Clasificatorio)
-- #195 _Los requetecoquetos_ (Clasificatorio)
-- #252 _Oozma Kappa_ (Clasificatorio)
-- #253 _LGM_ (Clasificatorio)
-- #260 _LUMIB_17_ (Clasificatorio)
-- #284 _DATAFORSKER_ (Clasificatorio)
-- #382 _AA Team_ (Clasificatorio)
-- #382 _GAMMA_ (Clasificatorio)
-- #382 _Gaema_ (Clasificatorio)
-- #382 _REN_ (Clasificatorio)
-- #382 _Tiranos_ (Clasificatorio)
-- #382 _difain_ (Clasificatorio)
+1. #31 _K-bezones_ (Regional)
+1. #86 _Uncompilables_ (Clasificatorio)
+1. #90 _Los súper conocidos_ (Clasificatorio)
+1. #91 _Scorpius_ (Clasificatorio)
+1. #137 _Cabezones en bytecode_ (Clasificatorio)
+1. #195 _Los requetecoquetos_ (Clasificatorio)
+1. #252 _Oozma Kappa_ (Clasificatorio)
+1. #253 _LGM_ (Clasificatorio)
+1. #260 _LUMIB_17_ (Clasificatorio)
+1. #284 _DATAFORSKER_ (Clasificatorio)
+1. #382 _AA Team_ (Clasificatorio)
+1. #382 _GAMMA_ (Clasificatorio)
+1. #382 _Gaema_ (Clasificatorio)
+1. #382 _REN_ (Clasificatorio)
+1. #382 _Tiranos_ (Clasificatorio)
+1. #382 _difain_ (Clasificatorio)
 
 ### 2020-2021
 
-- #19 _Alcachofis_ (Regional)
+1. #19 _Alcachofis_ (Regional)
 
 ### 2021-2022
 
-- #35 _UTMiitas_ (Regional)
+1. #35 _UTMiitas_ (Regional)
 
 
 

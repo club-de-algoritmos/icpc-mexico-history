@@ -11,11 +11,11 @@
 
 ### 2013-2014
 
-- #95 (#24 de TecNM) _OverrideITSLV_ (Regional)
+1. #95 (#24 de TecNM) _OverrideITSLV_ (Regional)
 
 ### 2015-2016
 
-- #108 (#28 de TecNM) _Jerarquia_ (Clasificatorio)
+1. #108 (#28 de TecNM) _Jerarquia_ (Clasificatorio)
 
 
 

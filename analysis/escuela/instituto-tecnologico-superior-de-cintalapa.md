@@ -13,10 +13,10 @@
 
 ### 2019-2020
 
-- #382 (#98 de TecNM) _Cilantro_ (Clasificatorio)
-- #382 (#98 de TecNM) _Diego´s_ (Clasificatorio)
-- #382 (#98 de TecNM) _Escuadron Suicida_ (Clasificatorio)
-- #382 (#98 de TecNM) _Tigres_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Cilantro_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Diego´s_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Escuadron Suicida_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Tigres_ (Clasificatorio)
 
 
 

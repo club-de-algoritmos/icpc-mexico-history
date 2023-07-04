@@ -19,42 +19,42 @@
 
 ### 2007-2008
 
-- #61 (#15 de TecNM) _Felinos del ITSF_ (Regional)
-- #61 (#15 de TecNM) _Gatos del ITSF_ (Regional)
+1. #61 (#15 de TecNM) _Felinos del ITSF_ (Regional)
+1. #61 (#15 de TecNM) _Gatos del ITSF_ (Regional)
 
 ### 2008-2009
 
-- #83 (#17 de TecNM) _the cats_ (Regional)
-- #101 (#26 de TecNM) _the dragons_ (Regional)
+1. #83 (#17 de TecNM) _the cats_ (Regional)
+1. #101 (#26 de TecNM) _the dragons_ (Regional)
 
 ### 2009-2010
 
-- #87 (#20 de TecNM) _Buchanans_ (Regional)
-- #116 (#31 de TecNM) _The Dragons_ (Regional)
+1. #87 (#20 de TecNM) _Buchanans_ (Regional)
+1. #116 (#31 de TecNM) _The Dragons_ (Regional)
 
 ### 2010-2011
 
-- #110 (#23 de TecNM) _Gatos Salvajes_ (Regional)
-- #141 (#39 de TecNM) _LOS NOVATOS_ (Regional)
+1. #110 (#23 de TecNM) _Gatos Salvajes_ (Regional)
+1. #141 (#39 de TecNM) _LOS NOVATOS_ (Regional)
 
 ### 2011-2012
 
-- #52 (#8 de TecNM) _Javeros_ (Regional)
-- #74 (#17 de TecNM) _Novatos_ (Regional)
+1. #52 (#8 de TecNM) _Javeros_ (Regional)
+1. #74 (#17 de TecNM) _Novatos_ (Regional)
 
 ### 2012-2013
 
-- #52 (#19 de TecNM) _Los Mininos_ (Regional)
-- #105 (#41 de TecNM) _ThunderTecs_ (Regional)
+1. #52 (#19 de TecNM) _Los Mininos_ (Regional)
+1. #105 (#41 de TecNM) _ThunderTecs_ (Regional)
 
 ### 2022-2023
 
-- #382 (#82 de TecNM) _Dev Wild Cats_ (Clasificatorio)
-- #382 (#82 de TecNM) _Lombax TEAM_ (Clasificatorio)
-- #382 (#82 de TecNM) _Los Confucios_ (Clasificatorio)
-- #382 (#82 de TecNM) _Program_Ar_ (Clasificatorio)
-- #382 (#82 de TecNM) _Program_As_ (Clasificatorio)
-- #382 (#82 de TecNM) _Tech Savvy_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Dev Wild Cats_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Lombax TEAM_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Los Confucios_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Program_Ar_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Program_As_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Tech Savvy_ (Clasificatorio)
 
 
 

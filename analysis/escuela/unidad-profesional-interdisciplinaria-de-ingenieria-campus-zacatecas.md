@@ -19,78 +19,78 @@
 
 ### 2014-2015
 
-- #50 _SNCB_ (Regional)
-- #204 _Burros_dragones_ (Clasificatorio)
-- #204 _SISTEMAS_IPN_X_ (Clasificatorio)
+1. #50 _SNCB_ (Regional)
+1. #204 _Burros_dragones_ (Clasificatorio)
+1. #204 _SISTEMAS_IPN_X_ (Clasificatorio)
 
 ### 2015-2016
 
-- #48 _404 Not Found_ (Regional)
-- #66 _SNBC&D_ (Regional)
-- #108 _Banderola_ (Clasificatorio)
-- #108 _Maquinas Digitales_ (Clasificatorio)
-- #108 _Printfers_ (Clasificatorio)
-- #108 _Sistemas X_ (Clasificatorio)
-- #108 _javaswitnesses_ (Clasificatorio)
+1. #48 _404 Not Found_ (Regional)
+1. #66 _SNBC&D_ (Regional)
+1. #108 _Banderola_ (Clasificatorio)
+1. #108 _Maquinas Digitales_ (Clasificatorio)
+1. #108 _Printfers_ (Clasificatorio)
+1. #108 _Sistemas X_ (Clasificatorio)
+1. #108 _javaswitnesses_ (Clasificatorio)
 
 ### 2016-2017
 
-- #35 _Printfers_ (Regional)
-- #46 _3idiotas_ (Regional)
-- #121 _404_not_found_ (Clasificatorio)
-- #121 _Internautas por amor_ (Clasificatorio)
-- #121 _Los nuevos_ (Clasificatorio)
-- #121 _Los_asiaticos_ (Clasificatorio)
-- #121 _if_then_else_ (Clasificatorio)
+1. #35 _Printfers_ (Regional)
+1. #46 _3idiotas_ (Regional)
+1. #121 _404_not_found_ (Clasificatorio)
+1. #121 _Internautas por amor_ (Clasificatorio)
+1. #121 _Los nuevos_ (Clasificatorio)
+1. #121 _Los_asiaticos_ (Clasificatorio)
+1. #121 _if_then_else_ (Clasificatorio)
 
 ### 2017-2018
 
-- #53 _solo_dos_idiotas_y_lalo_ (Regional)
-- #55 _Printfers_ (Regional)
-- #99 _404 NOT FOUND_ (Clasificatorio)
-- #114 _Los Nuevos_ (Clasificatorio)
-- #237 _Team bash_ (Clasificatorio)
-- #297 _ElOtroIdiotayDosChiquitines_ (Clasificatorio)
-- #316 _dedsek_ (Clasificatorio)
-- #405 _asinus++_ (Clasificatorio)
+1. #53 _solo_dos_idiotas_y_lalo_ (Regional)
+1. #55 _Printfers_ (Regional)
+1. #99 _404 NOT FOUND_ (Clasificatorio)
+1. #114 _Los Nuevos_ (Clasificatorio)
+1. #237 _Team bash_ (Clasificatorio)
+1. #297 _ElOtroIdiotayDosChiquitines_ (Clasificatorio)
+1. #316 _dedsek_ (Clasificatorio)
+1. #405 _asinus++_ (Clasificatorio)
 
 ### 2018-2019
 
-- #67 _Concilio de ancianos_ (Clasificatorio)
-- #90 _pi22_ (Clasificatorio)
-- #170 _Nautilus_ (Clasificatorio)
-- #214 _Atom_ (Clasificatorio)
-- #246 _Mecatrochos_ (Clasificatorio)
+1. #67 _Concilio de ancianos_ (Clasificatorio)
+1. #90 _pi22_ (Clasificatorio)
+1. #170 _Nautilus_ (Clasificatorio)
+1. #214 _Atom_ (Clasificatorio)
+1. #246 _Mecatrochos_ (Clasificatorio)
 
 ### 2019-2020
 
-- #45 _Las pistas de NULL_ (Regional)
-- #83 _Escuadron alpha lobo dinamita_ (Clasificatorio)
-- #138 _Donas's Team_ (Clasificatorio)
-- #272 _Bynamite_ (Clasificatorio)
-- #382 _Los H4ck3rs_ (Clasificatorio)
+1. #45 _Las pistas de NULL_ (Regional)
+1. #83 _Escuadron alpha lobo dinamita_ (Clasificatorio)
+1. #138 _Donas's Team_ (Clasificatorio)
+1. #272 _Bynamite_ (Clasificatorio)
+1. #382 _Los H4ck3rs_ (Clasificatorio)
 
 ### 2020-2021
 
-- #40 _Las pistas de nullptr_ (Regional)
-- #125 _D3dSec.exe_ (Clasificatorio)
-- #147 _ICPPN was not declared_ (Clasificatorio)
-- #340 _AwA de UwU sabor OwO_ (Clasificatorio)
-- #351 _PainCoders_ (Clasificatorio)
+1. #40 _Las pistas de nullptr_ (Regional)
+1. #125 _D3dSec.exe_ (Clasificatorio)
+1. #147 _ICPPN was not declared_ (Clasificatorio)
+1. #340 _AwA de UwU sabor OwO_ (Clasificatorio)
+1. #351 _PainCoders_ (Clasificatorio)
 
 ### 2021-2022
 
-- #45 _Los charlies de Angel_ (Regional)
-- #88 _D3dSec.exe_ (Clasificatorio)
+1. #45 _Los charlies de Angel_ (Regional)
+1. #88 _D3dSec.exe_ (Clasificatorio)
 
 ### 2022-2023
 
-- #161 _Siglo XIII_ (Clasificatorio)
+1. #161 _Siglo XIII_ (Clasificatorio)
 
 ### 2023-2024
 
-- #111 _ Space Cadets_ (Clasificatorio)
-- #194 _Los mecatrochos_ (Clasificatorio)
+1. #111 _ Space Cadets_ (Clasificatorio)
+1. #194 _Los mecatrochos_ (Clasificatorio)
 
 
 

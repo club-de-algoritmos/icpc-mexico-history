@@ -15,18 +15,18 @@
 
 ### 2005-2006
 
-- #85 (#11 de TecNM) _coyotes_ (Regional)
-- #85 (#11 de TecNM) _itap_ (Regional)
-- #85 (#11 de TecNM) _tecap_ (Regional)
+1. #85 (#11 de TecNM) _coyotes_ (Regional)
+1. #85 (#11 de TecNM) _itap_ (Regional)
+1. #85 (#11 de TecNM) _tecap_ (Regional)
 
 ### 2019-2020
 
-- #382 (#98 de TecNM) _ganando.cpp_ (Clasificatorio)
+1. #382 (#98 de TecNM) _ganando.cpp_ (Clasificatorio)
 
 ### 2022-2023
 
-- #382 (#82 de TecNM) _Delta ITAP_ (Clasificatorio)
-- #382 (#82 de TecNM) _Luxury Programers _ (Clasificatorio)
+1. #382 (#82 de TecNM) _Delta ITAP_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Luxury Programers _ (Clasificatorio)
 
 
 

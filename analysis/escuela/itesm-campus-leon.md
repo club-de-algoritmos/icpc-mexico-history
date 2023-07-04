@@ -14,17 +14,17 @@
 
 ### 2001-2002
 
-- #53 _ITESM Leon_ (Regional)
+1. #53 _ITESM Leon_ (Regional)
 
 ### 2003-2004
 
-- #41 _I_C_Dead_People( );_ (Regional)
+1. #41 _I_C_Dead_People( );_ (Regional)
 
 ### 2004-2005
 
-- #53 _Cranberries_ (Regional)
-- #55 _Los Templarios_ (Regional)
-- #59 _Los Falcons_ (Regional)
+1. #53 _Cranberries_ (Regional)
+1. #55 _Los Templarios_ (Regional)
+1. #59 _Los Falcons_ (Regional)
 
 
 

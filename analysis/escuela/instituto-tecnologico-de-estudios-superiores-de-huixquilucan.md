@@ -11,11 +11,11 @@
 
 ### 2018-2019
 
-- #369 (#89 de TecNM) _Develop-TESH_ (Clasificatorio)
+1. #369 (#89 de TecNM) _Develop-TESH_ (Clasificatorio)
 
 ### 2019-2020
 
-- #382 (#98 de TecNM) _Camaleones_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Camaleones_ (Clasificatorio)
 
 
 

@@ -13,10 +13,10 @@
 
 ### 2016-2017
 
-- #121 _BUGs_ (Clasificatorio)
-- #121 _Birlik_ (Clasificatorio)
-- #121 _GuardiaNocturna_ (Clasificatorio)
-- #121 _StraightEdge_ (Clasificatorio)
+1. #121 _BUGs_ (Clasificatorio)
+1. #121 _Birlik_ (Clasificatorio)
+1. #121 _GuardiaNocturna_ (Clasificatorio)
+1. #121 _StraightEdge_ (Clasificatorio)
 
 
 

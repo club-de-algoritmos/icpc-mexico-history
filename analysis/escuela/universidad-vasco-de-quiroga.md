@@ -19,38 +19,38 @@
 
 ### 2005-2006
 
-- #28 _UVAQ1_ (Regional)
-- #85 _UVAQ2_ (Regional)
+1. #28 _UVAQ1_ (Regional)
+1. #85 _UVAQ2_ (Regional)
 
 ### 2006-2007
 
-- #32 _UVAQ_MORELIA_ (Regional)
+1. #32 _UVAQ_MORELIA_ (Regional)
 
 ### 2007-2008
 
-- #61 _8 BITS_ (Regional)
+1. #61 _8 BITS_ (Regional)
 
 ### 2010-2011
 
-- #35 _Javangelists_ (Regional)
-- #144 _Acapella_ (Regional)
+1. #35 _Javangelists_ (Regional)
+1. #144 _Acapella_ (Regional)
 
 ### 2011-2012
 
-- #59 _Javangelist_ (Regional)
+1. #59 _Javangelist_ (Regional)
 
 ### 2012-2013
 
-- #49 _UVAQ - GW2_ (Regional)
+1. #49 _UVAQ - GW2_ (Regional)
 
 ### 2013-2014
 
-- #95 _UVAQ 1_ (Regional)
-- #95 _UVAQ 2_ (Regional)
+1. #95 _UVAQ 1_ (Regional)
+1. #95 _UVAQ 2_ (Regional)
 
 ### 2014-2015
 
-- #136 _UVAQ 5to_ (Clasificatorio)
+1. #136 _UVAQ 5to_ (Clasificatorio)
 
 
 

@@ -19,73 +19,73 @@
 
 ### 2008-2009
 
-- #33 (#3 de TecNM) _Kachibombos ++_ (Regional)
+1. #33 (#3 de TecNM) _Kachibombos ++_ (Regional)
 
 ### 2009-2010
 
-- #66 (#11 de TecNM) _Kachibombos ++_ (Regional)
-- #75 (#15 de TecNM) _Los 11 Mosqueteros_ (Regional)
+1. #66 (#11 de TecNM) _Kachibombos ++_ (Regional)
+1. #75 (#15 de TecNM) _Los 11 Mosqueteros_ (Regional)
 
 ### 2010-2011
 
-- #114 (#26 de TecNM) _STONE CODE_ (Regional)
+1. #114 (#26 de TecNM) _STONE CODE_ (Regional)
 
 ### 2011-2012
 
-- #104 (#33 de TecNM) _1UP_ (Regional)
+1. #104 (#33 de TecNM) _1UP_ (Regional)
 
 ### 2014-2015
 
-- #171 (#40 de TecNM) _los galles_ (Clasificatorio)
-- #196 (#48 de TecNM) _el ultimo byte_ (Clasificatorio)
+1. #171 (#40 de TecNM) _los galles_ (Clasificatorio)
+1. #196 (#48 de TecNM) _el ultimo byte_ (Clasificatorio)
 
 ### 2016-2017
 
-- #121 (#20 de TecNM) _itcg rules_ (Clasificatorio)
-- #121 (#20 de TecNM) _sala 5_ (Clasificatorio)
+1. #121 (#20 de TecNM) _itcg rules_ (Clasificatorio)
+1. #121 (#20 de TecNM) _sala 5_ (Clasificatorio)
 
 ### 2017-2018
 
-- #91 (#9 de TecNM) _Ustedes_ (Clasificatorio)
-- #127 (#17 de TecNM) _ESCUADRON LOBO_ (Clasificatorio)
-- #163 (#32 de TecNM) _Los vigilantes_ (Clasificatorio)
-- #219 (#42 de TecNM) _System 32_ (Clasificatorio)
+1. #91 (#9 de TecNM) _Ustedes_ (Clasificatorio)
+1. #127 (#17 de TecNM) _ESCUADRON LOBO_ (Clasificatorio)
+1. #163 (#32 de TecNM) _Los vigilantes_ (Clasificatorio)
+1. #219 (#42 de TecNM) _System 32_ (Clasificatorio)
 
 ### 2018-2019
 
-- #94 (#11 de TecNM) _Titanes_ (Clasificatorio)
-- #100 (#12 de TecNM) _Ustedes_ (Clasificatorio)
-- #144 (#20 de TecNM) _Los vigilantes_ (Clasificatorio)
-- #164 (#25 de TecNM) _System 32_ (Clasificatorio)
-- #283 (#63 de TecNM) _Gorditos y bonitos_ (Clasificatorio)
-- #318 (#70 de TecNM) _COGPrime_ (Clasificatorio)
+1. #94 (#11 de TecNM) _Titanes_ (Clasificatorio)
+1. #100 (#12 de TecNM) _Ustedes_ (Clasificatorio)
+1. #144 (#20 de TecNM) _Los vigilantes_ (Clasificatorio)
+1. #164 (#25 de TecNM) _System 32_ (Clasificatorio)
+1. #283 (#63 de TecNM) _Gorditos y bonitos_ (Clasificatorio)
+1. #318 (#70 de TecNM) _COGPrime_ (Clasificatorio)
 
 ### 2019-2020
 
-- #51 (#5 de TecNM) _Ti-Tanis_ (Regional)
-- #89 (#10 de TecNM) _SYSTEM 32_ (Clasificatorio)
-- #160 (#21 de TecNM) _Taurina_ (Clasificatorio)
-- #161 (#22 de TecNM) _LOS VIGILANTES_ (Clasificatorio)
-- #259 (#48 de TecNM) _GORDITOS Y BONITOS_ (Clasificatorio)
-- #343 (#79 de TecNM) _Noobmaster69_ (Clasificatorio)
-- #382 (#98 de TecNM) _AFterByte_ (Clasificatorio)
-- #382 (#98 de TecNM) _Delta_ (Clasificatorio)
-- #382 (#98 de TecNM) _Int_ensos_ (Clasificatorio)
-- #382 (#98 de TecNM) _JODT_ (Clasificatorio)
-- #382 (#98 de TecNM) _JavAdictos_ (Clasificatorio)
-- #382 (#98 de TecNM) _Los pollitos_ (Clasificatorio)
-- #382 (#98 de TecNM) _Nameless Solution_ (Clasificatorio)
-- #382 (#98 de TecNM) _OmegaITCG_ (Clasificatorio)
-- #382 (#98 de TecNM) _TeamSinManos_ (Clasificatorio)
+1. #51 (#5 de TecNM) _Ti-Tanis_ (Regional)
+1. #89 (#10 de TecNM) _SYSTEM 32_ (Clasificatorio)
+1. #160 (#21 de TecNM) _Taurina_ (Clasificatorio)
+1. #161 (#22 de TecNM) _LOS VIGILANTES_ (Clasificatorio)
+1. #259 (#48 de TecNM) _GORDITOS Y BONITOS_ (Clasificatorio)
+1. #343 (#79 de TecNM) _Noobmaster69_ (Clasificatorio)
+1. #382 (#98 de TecNM) _AFterByte_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Delta_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Int_ensos_ (Clasificatorio)
+1. #382 (#98 de TecNM) _JODT_ (Clasificatorio)
+1. #382 (#98 de TecNM) _JavAdictos_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Los pollitos_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Nameless Solution_ (Clasificatorio)
+1. #382 (#98 de TecNM) _OmegaITCG_ (Clasificatorio)
+1. #382 (#98 de TecNM) _TeamSinManos_ (Clasificatorio)
 
 ### 2020-2021
 
-- #296 (#38 de TecNM) _Gavilanes ITCG_ (Clasificatorio)
-- #351 (#65 de TecNM) _Afterbyte_ (Clasificatorio)
-- #351 (#65 de TecNM) _Lions Team_ (Clasificatorio)
-- #351 (#65 de TecNM) _Los Lunas_ (Clasificatorio)
-- #351 (#65 de TecNM) _The sensationalboys_ (Clasificatorio)
-- #351 (#65 de TecNM) _Ti-tanis_ (Clasificatorio)
+1. #296 (#38 de TecNM) _Gavilanes ITCG_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Afterbyte_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Lions Team_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Los Lunas_ (Clasificatorio)
+1. #351 (#65 de TecNM) _The sensationalboys_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Ti-tanis_ (Clasificatorio)
 
 
 

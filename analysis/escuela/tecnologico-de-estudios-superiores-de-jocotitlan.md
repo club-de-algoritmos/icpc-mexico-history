@@ -19,31 +19,31 @@
 
 ### 2015-2016
 
-- #105 _TESJo_ (Clasificatorio)
-- #108 _Lobos TESJo_ (Clasificatorio)
+1. #105 _TESJo_ (Clasificatorio)
+1. #108 _Lobos TESJo_ (Clasificatorio)
 
 ### 2020-2021
 
-- #351 _Los Chiclosillos_ (Clasificatorio)
-- #351 _Novatos_ (Clasificatorio)
-- #351 _Tesjo_ (Clasificatorio)
-- #351 _Tesjo 1_ (Clasificatorio)
-- #351 _Umisumi_ (Clasificatorio)
-- #351 _los internautas_ (Clasificatorio)
+1. #351 _Los Chiclosillos_ (Clasificatorio)
+1. #351 _Novatos_ (Clasificatorio)
+1. #351 _Tesjo_ (Clasificatorio)
+1. #351 _Tesjo 1_ (Clasificatorio)
+1. #351 _Umisumi_ (Clasificatorio)
+1. #351 _los internautas_ (Clasificatorio)
 
 ### 2021-2022
 
-- #226 _ Botsitos_ (Clasificatorio)
-- #226 _ALITER_ (Clasificatorio)
-- #226 _Alpha_ (Clasificatorio)
-- #226 _EDG_ (Clasificatorio)
-- #226 _EndSub_ (Clasificatorio)
-- #226 _Fantasticos_ (Clasificatorio)
-- #226 _Marbelu_ (Clasificatorio)
+1. #226 _ Botsitos_ (Clasificatorio)
+1. #226 _ALITER_ (Clasificatorio)
+1. #226 _Alpha_ (Clasificatorio)
+1. #226 _EDG_ (Clasificatorio)
+1. #226 _EndSub_ (Clasificatorio)
+1. #226 _Fantasticos_ (Clasificatorio)
+1. #226 _Marbelu_ (Clasificatorio)
 
 ### 2022-2023
 
-- #382 _ Botsitos_ (Clasificatorio)
+1. #382 _ Botsitos_ (Clasificatorio)
 
 
 

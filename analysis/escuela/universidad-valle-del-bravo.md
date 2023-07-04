@@ -12,9 +12,9 @@
 
 ### 2003-2004
 
-- #41 _UVB-1_ (Regional)
-- #41 _UVB-2_ (Regional)
-- #41 _UVB-3_ (Regional)
+1. #41 _UVB-1_ (Regional)
+1. #41 _UVB-2_ (Regional)
+1. #41 _UVB-3_ (Regional)
 
 
 

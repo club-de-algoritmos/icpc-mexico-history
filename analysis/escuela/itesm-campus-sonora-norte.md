@@ -13,16 +13,16 @@
 
 ### 2003-2004
 
-- #41 _Sonoran Supremacy_ (Regional)
+1. #41 _Sonoran Supremacy_ (Regional)
 
 ### 2005-2006
 
-- #85 _LosTres_ (Regional)
-- #85 _OmegaDelta_ (Regional)
+1. #85 _LosTres_ (Regional)
+1. #85 _OmegaDelta_ (Regional)
 
 ### 2006-2007
 
-- #77 _Sonora Technologies_ (Regional)
+1. #77 _Sonora Technologies_ (Regional)
 
 
 

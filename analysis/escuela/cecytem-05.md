@@ -10,7 +10,7 @@
 
 ### 2022-2023
 
-- #382 _CECYTE 05_ (Clasificatorio)
+1. #382 _CECYTE 05_ (Clasificatorio)
 
 
 

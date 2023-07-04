@@ -16,19 +16,19 @@
 
 ### 2011-2012
 
-- #104 _Durango 1_ (Regional)
-- #104 _Durango 2_ (Regional)
+1. #104 _Durango 1_ (Regional)
+1. #104 _Durango 2_ (Regional)
 
 ### 2012-2013
 
-- #134 _utd_Durango2_ (Regional)
-- #134 _utd_durango1_ (Regional)
+1. #134 _utd_Durango2_ (Regional)
+1. #134 _utd_durango1_ (Regional)
 
 ### 2019-2020
 
-- #382 _Ampersand_ (Clasificatorio)
-- #382 _Resilience_ (Clasificatorio)
-- #382 _The Three Amigos_ (Clasificatorio)
+1. #382 _Ampersand_ (Clasificatorio)
+1. #382 _Resilience_ (Clasificatorio)
+1. #382 _The Three Amigos_ (Clasificatorio)
 
 
 

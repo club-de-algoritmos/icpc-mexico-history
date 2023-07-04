@@ -12,9 +12,9 @@
 
 ### 2001-2002
 
-- #27 _Tec Panuco 1_ (Regional)
-- #55 _CBtis 55_ (Regional)
-- #55 _Tec Panuco 2_ (Regional)
+1. #27 _Tec Panuco 1_ (Regional)
+1. #55 _CBtis 55_ (Regional)
+1. #55 _Tec Panuco 2_ (Regional)
 
 
 

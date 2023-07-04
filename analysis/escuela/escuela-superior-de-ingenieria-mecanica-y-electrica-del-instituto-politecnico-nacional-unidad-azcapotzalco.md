@@ -12,15 +12,15 @@
 
 ### 2015-2016
 
-- #107 _RoboCode_ (Clasificatorio)
+1. #107 _RoboCode_ (Clasificatorio)
 
 ### 2016-2017
 
-- #121 _Robocode_ (Clasificatorio)
+1. #121 _Robocode_ (Clasificatorio)
 
 ### 2017-2018
 
-- #307 _shrek is love_ (Clasificatorio)
+1. #307 _shrek is love_ (Clasificatorio)
 
 
 

@@ -14,17 +14,17 @@
 
 ### 2020-2021
 
-- #98 _PumasDS_ (Clasificatorio)
-- #105 _i++_ (Clasificatorio)
+1. #98 _PumasDS_ (Clasificatorio)
+1. #105 _i++_ (Clasificatorio)
 
 ### 2021-2022
 
-- #29 _PumasDS_ (Regional)
-- #114 _Backpropagated Poets_ (Clasificatorio)
+1. #29 _PumasDS_ (Regional)
+1. #114 _Backpropagated Poets_ (Clasificatorio)
 
 ### 2022-2023
 
-- #43 _PumasDS_ (Clasificatorio)
+1. #43 _PumasDS_ (Clasificatorio)
 
 
 

@@ -13,10 +13,10 @@
 
 ### 2020-2021
 
-- #149 (#12 de TecNM) _Packeros_ (Clasificatorio)
-- #186 (#21 de TecNM) _ Axolototl_ (Clasificatorio)
-- #258 (#30 de TecNM) _TGang_ (Clasificatorio)
-- #334 (#56 de TecNM) _Peripatéticos_ (Clasificatorio)
+1. #149 (#12 de TecNM) _Packeros_ (Clasificatorio)
+1. #186 (#21 de TecNM) _ Axolototl_ (Clasificatorio)
+1. #258 (#30 de TecNM) _TGang_ (Clasificatorio)
+1. #334 (#56 de TecNM) _Peripatéticos_ (Clasificatorio)
 
 
 

@@ -12,15 +12,15 @@
 
 ### 2019-2020
 
-- #382 (#98 de TecNM) _Exception(NLD)_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Exception(NLD)_ (Clasificatorio)
 
 ### 2020-2021
 
-- #351 (#65 de TecNM) _Exception(NLD)_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Exception(NLD)_ (Clasificatorio)
 
 ### 2021-2022
 
-- #226 (#36 de TecNM) _Exception(NLD)_ (Clasificatorio)
+1. #226 (#36 de TecNM) _Exception(NLD)_ (Clasificatorio)
 
 
 

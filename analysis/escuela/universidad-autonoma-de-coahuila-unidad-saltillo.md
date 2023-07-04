@@ -19,48 +19,48 @@
 
 ### 2017-2018
 
-- #12 _Supernovas_ (Regional)
-- #77 _Grafoliebers (╯°□°)╯︵ ɹoɹɹƎ_ (Regional)
-- #85 _The Little Kruskals_ (Clasificatorio)
-- #138 _SHAZAM_ (Clasificatorio)
-- #156 _Foraneos Team_ (Clasificatorio)
-- #203 _Guardians_ (Clasificatorio)
-- #394 _Calavera_ (Clasificatorio)
-- #405 _CHJJ_ (Clasificatorio)
-- #405 _Debug's_ (Clasificatorio)
+1. #12 _Supernovas_ (Regional)
+1. #77 _Grafoliebers (╯°□°)╯︵ ɹoɹɹƎ_ (Regional)
+1. #85 _The Little Kruskals_ (Clasificatorio)
+1. #138 _SHAZAM_ (Clasificatorio)
+1. #156 _Foraneos Team_ (Clasificatorio)
+1. #203 _Guardians_ (Clasificatorio)
+1. #394 _Calavera_ (Clasificatorio)
+1. #405 _CHJJ_ (Clasificatorio)
+1. #405 _Debug's_ (Clasificatorio)
 
 ### 2018-2019
 
-- #15 _Los Choquistas 2.0_ (Regional)
-- #70 _Grafoliebers_ (Clasificatorio)
-- #80 _Let it C_ (Clasificatorio)
-- #129 _Los Entrópicos_ (Clasificatorio)
-- #136 _SHAZAM_ (Clasificatorio)
-- #394 _CHJJ_ (Clasificatorio)
-- #394 _One Code MEN_ (Clasificatorio)
+1. #15 _Los Choquistas 2.0_ (Regional)
+1. #70 _Grafoliebers_ (Clasificatorio)
+1. #80 _Let it C_ (Clasificatorio)
+1. #129 _Los Entrópicos_ (Clasificatorio)
+1. #136 _SHAZAM_ (Clasificatorio)
+1. #394 _CHJJ_ (Clasificatorio)
+1. #394 _One Code MEN_ (Clasificatorio)
 
 ### 2019-2020
 
-- #100 _Let it C_ (Clasificatorio)
-- #106 _Error (╯°□°)╯︵ ┻━┻ ɹoɹɹƎ_ (Clasificatorio)
-- #125 _Ignite_ (Clasificatorio)
-- #176 _Jajajava_ (Clasificatorio)
-- #209 _Isanse_ (Clasificatorio)
-- #212 _Smite_ (Clasificatorio)
-- #245 _Hackemate_ (Clasificatorio)
-- #324 _Shazam_ (Clasificatorio)
-- #331 _QBITS_ (Clasificatorio)
-- #359 _Los primos de Fermat_ (Clasificatorio)
+1. #100 _Let it C_ (Clasificatorio)
+1. #106 _Error (╯°□°)╯︵ ┻━┻ ɹoɹɹƎ_ (Clasificatorio)
+1. #125 _Ignite_ (Clasificatorio)
+1. #176 _Jajajava_ (Clasificatorio)
+1. #209 _Isanse_ (Clasificatorio)
+1. #212 _Smite_ (Clasificatorio)
+1. #245 _Hackemate_ (Clasificatorio)
+1. #324 _Shazam_ (Clasificatorio)
+1. #331 _QBITS_ (Clasificatorio)
+1. #359 _Los primos de Fermat_ (Clasificatorio)
 
 ### 2020-2021
 
-- #116 _Oozma Kappa_ (Clasificatorio)
-- #130 _ExcelOverFlow_ (Clasificatorio)
-- #179 _The good, the bad & the programmer_ (Clasificatorio)
-- #200 _cout << "Hola";_ (Clasificatorio)
-- #253 _world.execute(me);_ (Clasificatorio)
-- #259 _Pitones_ (Clasificatorio)
-- #300 _Duck Bang_ (Clasificatorio)
+1. #116 _Oozma Kappa_ (Clasificatorio)
+1. #130 _ExcelOverFlow_ (Clasificatorio)
+1. #179 _The good, the bad & the programmer_ (Clasificatorio)
+1. #200 _cout << "Hola";_ (Clasificatorio)
+1. #253 _world.execute(me);_ (Clasificatorio)
+1. #259 _Pitones_ (Clasificatorio)
+1. #300 _Duck Bang_ (Clasificatorio)
 
 
 

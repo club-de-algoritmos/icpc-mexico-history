@@ -15,24 +15,24 @@
 
 ### 2001-2002
 
-- #49 _SI C C_ (Regional)
+1. #49 _SI C C_ (Regional)
 
 ### 2002-2003
 
-- #27 _TecSLP_ (Regional)
+1. #27 _TecSLP_ (Regional)
 
 ### 2003-2004
 
-- #41 _PLU'S Team_ (Regional)
+1. #41 _PLU'S Team_ (Regional)
 
 ### 2005-2006
 
-- #75 _Tec SLP 2_ (Regional)
-- #83 _Tec SLP 1_ (Regional)
+1. #75 _Tec SLP 2_ (Regional)
+1. #83 _Tec SLP 1_ (Regional)
 
 ### 2010-2011
 
-- #124 _Los Borregos de San Luis_ (Regional)
+1. #124 _Los Borregos de San Luis_ (Regional)
 
 
 

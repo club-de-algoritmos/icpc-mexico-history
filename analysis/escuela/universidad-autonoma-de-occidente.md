@@ -10,7 +10,7 @@
 
 ### 2019-2020
 
-- #354 _Team-Capi_ (Clasificatorio)
+1. #354 _Team-Capi_ (Clasificatorio)
 
 
 

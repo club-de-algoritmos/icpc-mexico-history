@@ -10,7 +10,7 @@
 
 ### 2013-2014
 
-- #95 _Los Paralelos_ (Regional)
+1. #95 _Los Paralelos_ (Regional)
 
 
 

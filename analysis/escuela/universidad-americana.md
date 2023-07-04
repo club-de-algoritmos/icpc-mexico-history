@@ -10,7 +10,7 @@
 
 ### 2017-2018
 
-- #86 _UAM-PTY_ (Regional)
+1. #86 _UAM-PTY_ (Regional)
 
 
 

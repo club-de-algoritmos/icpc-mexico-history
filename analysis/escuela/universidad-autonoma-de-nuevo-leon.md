@@ -21,192 +21,194 @@
 
 ### 2001-2002
 
-- #3 _FCFM1_ (Regional)
-- #34 _FCFM2_ (Regional)
-- #48 _FCFM3_ (Regional)
+1. #3 _FCFM1_ (Regional)
+1. #34 _FCFM2_ (Regional)
+1. #48 _FCFM3_ (Regional)
 
 ### 2002-2003
 
-- #3 _Los Irmos_ (Regional)
-- #27 _Los 3 Jinetes del Apocalipsis_ (Regional)
-- #27 _Los Desconocidos_ (Regional)
+1. #3 _Los Irmos_ (Regional)
+1. #27 _Los 3 Jinetes del Apocalipsis_ (Regional)
+1. #27 _Los Desconocidos_ (Regional)
 
 ### 2003-2004
 
-- #3 _Los Irmos_ (Regional)
-- #41 _Noname00_ (Regional)
-- #41 _Y donde esta el suplente?_ (Regional)
+1. #3 _Los Irmos_ (Regional)
+1. #41 _Noname00_ (Regional)
+1. #41 _Y donde esta el suplente?_ (Regional)
 
 ### 2004-2005
 
-- #24 _Last_ (Regional)
+1. #24 _Last_ (Regional)
 
 ### 2005-2006
 
-- #30 _Whatever_ (Regional)
-- #44 _wes_ (Regional)
-- #47 _Linux Men`s Club_ (Regional)
-- #85 _nai_ (Regional)
+1. #30 _Whatever_ (Regional)
+1. #44 _wes_ (Regional)
+1. #47 _Linux Men`s Club_ (Regional)
+1. #85 _nai_ (Regional)
 
 ### 2006-2007
 
-- #28 _Bisontes1_ (Regional)
-- #83 _Bisontes2_ (Regional)
+1. #28 _Bisontes1_ (Regional)
+1. #83 _Bisontes2_ (Regional)
 
 ### 2007-2008
 
-- #18 _Bisontes 2_ (Regional)
-- #28 _Bisontes 1_ (Regional)
-- #61 _Wayll_ (Regional)
+1. #18 _Bisontes 2_ (Regional)
+1. #28 _Bisontes 1_ (Regional)
+1. #61 _Wayll_ (Regional)
 
 ### 2008-2009
 
-- #57 _Javax_ (Regional)
-- #59 _Bisontes 3_ (Regional)
-- #92 _Bisontes_ (Regional)
-- #101 _Random Bushido_ (Regional)
+1. #57 _Javax_ (Regional)
+1. #59 _Bisontes 3_ (Regional)
+1. #92 _Bisontes_ (Regional)
+1. #101 _Random Bushido_ (Regional)
 
 ### 2009-2010
 
-- #116 _Javax_ (Regional)
-- #116 _NetSOFt_ (Regional)
+1. #116 _Javax_ (Regional)
+1. #116 _NetSOFt_ (Regional)
 
 ### 2010-2011
 
-- #33 _Los Parsers_ (Regional)
-- #60 _/dev/null_ (Regional)
+1. #33 _Los Parsers_ (Regional)
+1. #60 _/dev/null_ (Regional)
 
 ### 2011-2012
 
-- #8 _SOS_ (Regional)
-- #27 _NibbleSOFt_ (Regional)
-- #30 _NPCs_ (Regional)
-- #104 _Ascii Bit_ (Regional)
-- #104 _Rebel Alliance_ (Regional)
+1. #8 _SOS_ (Regional)
+1. #27 _NibbleSOFt_ (Regional)
+1. #30 _NPCs_ (Regional)
+1. #104 _Ascii Bit_ (Regional)
+1. #104 _Rebel Alliance_ (Regional)
 
 ### 2012-2013
 
-- #59 _NPCs_ (Regional)
-- #80 _Nibblesoft_ (Regional)
-- #82 _BSOD_ (Regional)
-- #134 _Ascii Bit_ (Regional)
+1. #59 _NPCs_ (Regional)
+1. #80 _Nibblesoft_ (Regional)
+1. #82 _BSOD_ (Regional)
+1. #134 _Ascii Bit_ (Regional)
 
 ### 2013-2014
 
-- #7 _En la line_ (Regional)
-- #30 _TSM_ (Regional)
-- #95 _Hardcoders_ (Regional)
-- #95 _Polybius_ (Regional)
+1. #7 _En la line_ (Regional)
+1. #30 _TSM_ (Regional)
+1. #95 _Hardcoders_ (Regional)
+1. #95 _Polybius_ (Regional)
 
 ### 2014-2015
 
-- #16 _CTBS_ (Regional)
-- #40 _Los Palazorros_ (Clasificatorio)
+1. #16 _CTBS_ (Regional)
+1. #40 _Los Palazorros_ (Clasificatorio)
 
 ### 2015-2016
 
-- #17 _OMMI_ (Regional)
-- #108 _Bisontes_ (Clasificatorio)
+1. #17 _OMMI_ (Regional)
+1. #108 _Bisontes_ (Clasificatorio)
 
 ### 2016-2017
 
-- #57 _Los A´S_ (Final Mundial)
+1. #3 _Los A´S_ (Regional)
+    - Avanzó a la final mundial y resolvió 3 problemas obtuviendo el lugar #57 (58%) en 41st Annual World Finals of the ACM International Collegiate Programming Contest
 
 ### 2017-2018
 
-- #57 _Los A´s_ (Final Mundial)
-- #155 _Taco.c_ (Clasificatorio)
+1. #1 _Los A´s_ (Regional)
+    - Avanzó a la final mundial y resolvió 3 problemas obtuviendo el lugar #57 (60%) en 42nd Annual World Finals of the International Collegiate Programming Contest
+1. #155 _Taco.c_ (Clasificatorio)
 
 ### 2018-2019
 
-- #38 _Axolotl_ (Regional)
-- #53 _Maquina de Arturing_ (Regional)
+1. #38 _Axolotl_ (Regional)
+1. #53 _Maquina de Arturing_ (Regional)
 
 ### 2019-2020
 
-- #19 _TriAda_ (Regional)
-- #41 _Flying Kiwi _ (Regional)
-- #186 _A cuanto las paletas de a peso_ (Clasificatorio)
-- #204 _Süße Cloud_ (Clasificatorio)
-- #222 _Indigo_ (Clasificatorio)
-- #240 _Los Herederos de Solís_ (Clasificatorio)
-- #300 _Grizzlies_ (Clasificatorio)
-- #335 _Syntax Error_ (Clasificatorio)
-- #382 _Ayuwoscript_ (Clasificatorio)
-- #382 _Emu Nerds_ (Clasificatorio)
-- #382 _MMA_ (Clasificatorio)
-- #382 _Team Emperador_ (Clasificatorio)
+1. #19 _TriAda_ (Regional)
+1. #41 _Flying Kiwi _ (Regional)
+1. #186 _A cuanto las paletas de a peso_ (Clasificatorio)
+1. #204 _Süße Cloud_ (Clasificatorio)
+1. #222 _Indigo_ (Clasificatorio)
+1. #240 _Los Herederos de Solís_ (Clasificatorio)
+1. #300 _Grizzlies_ (Clasificatorio)
+1. #335 _Syntax Error_ (Clasificatorio)
+1. #382 _Ayuwoscript_ (Clasificatorio)
+1. #382 _Emu Nerds_ (Clasificatorio)
+1. #382 _MMA_ (Clasificatorio)
+1. #382 _Team Emperador_ (Clasificatorio)
 
 ### 2020-2021
 
-- #10 _TriAda_ (Regional)
-- #31 _OlympiAC_ (Regional)
-- #139 _BigO_ (Clasificatorio)
-- #143 _Jitomates_ (Clasificatorio)
-- #154 _Süße Cloud_ (Clasificatorio)
-- #161 _Equipo M.A.L._ (Clasificatorio)
-- #222 _Los Ponches sin Ponche_ (Clasificatorio)
-- #278 _Team Emperador_ (Clasificatorio)
-- #286 _Urania FCFM_ (Clasificatorio)
-- #293 _Game of Codes_ (Clasificatorio)
-- #351 _Los 3 Mosquitos_ (Clasificatorio)
+1. #10 _TriAda_ (Regional)
+1. #31 _OlympiAC_ (Regional)
+1. #139 _BigO_ (Clasificatorio)
+1. #143 _Jitomates_ (Clasificatorio)
+1. #154 _Süße Cloud_ (Clasificatorio)
+1. #161 _Equipo M.A.L._ (Clasificatorio)
+1. #222 _Los Ponches sin Ponche_ (Clasificatorio)
+1. #278 _Team Emperador_ (Clasificatorio)
+1. #286 _Urania FCFM_ (Clasificatorio)
+1. #293 _Game of Codes_ (Clasificatorio)
+1. #351 _Los 3 Mosquitos_ (Clasificatorio)
 
 ### 2021-2022
 
-- #4 _TriAda_ (Regional)
-- #38 _Los Tres Paleteros_ (Regional)
-- #58 _Booleanos_ (Clasificatorio)
-- #100 _Syntax Error_ (Clasificatorio)
-- #138 _Etas_ (Clasificatorio)
-- #226 _Bit Signs_ (Clasificatorio)
-- #226 _C Power_ (Clasificatorio)
-- #226 _Cheems_ (Clasificatorio)
-- #226 _JOD_ (Clasificatorio)
-- #226 _Los Wookies de Slytherin_ (Clasificatorio)
-- #226 _Team Emperador_ (Clasificatorio)
+1. #4 _TriAda_ (Regional)
+1. #38 _Los Tres Paleteros_ (Regional)
+1. #58 _Booleanos_ (Clasificatorio)
+1. #100 _Syntax Error_ (Clasificatorio)
+1. #138 _Etas_ (Clasificatorio)
+1. #226 _Bit Signs_ (Clasificatorio)
+1. #226 _C Power_ (Clasificatorio)
+1. #226 _Cheems_ (Clasificatorio)
+1. #226 _JOD_ (Clasificatorio)
+1. #226 _Los Wookies de Slytherin_ (Clasificatorio)
+1. #226 _Team Emperador_ (Clasificatorio)
 
 ### 2022-2023
 
-- #11 _ACE_ (Regional)
-- #15 _nu1l_ (Regional)
-- #49 _Los Tres Paleteros_ (Clasificatorio)
-- #103 _Syntax Error_UANL_ (Clasificatorio)
-- #144 _error 404_ (Clasificatorio)
-- #149 _Team Kiwi_ (Clasificatorio)
-- #153 _Triada Oscura_ (Clasificatorio)
-- #158 _DosTercios_ (Clasificatorio)
-- #200 _The Bots_ (Clasificatorio)
-- #215 _JDA_ (Clasificatorio)
-- #237 _Los programadores de chill_ (Clasificatorio)
-- #239 _Berserkers_ (Clasificatorio)
-- #255 _NSP_ (Clasificatorio)
-- #313 _Los NPC's_ (Clasificatorio)
-- #352 _SpookyScript_ (Clasificatorio)
-- #353 _FastCode_ (Clasificatorio)
-- #357 _Estresados Check_ (Clasificatorio)
-- #368 _Bisontes FCFM_ (Clasificatorio)
-- #382 _C+MATH_ (Clasificatorio)
-- #382 _Las superpoderosas_ (Clasificatorio)
-- #382 _Lechuzas bebés_ (Clasificatorio)
-- #382 _Los saraperos_ (Clasificatorio)
-- #382 _The coders_ (Clasificatorio)
+1. #11 _ACE_ (Regional)
+1. #15 _nu1l_ (Regional)
+1. #49 _Los Tres Paleteros_ (Clasificatorio)
+1. #103 _Syntax Error_UANL_ (Clasificatorio)
+1. #144 _error 404_ (Clasificatorio)
+1. #149 _Team Kiwi_ (Clasificatorio)
+1. #153 _Triada Oscura_ (Clasificatorio)
+1. #158 _DosTercios_ (Clasificatorio)
+1. #200 _The Bots_ (Clasificatorio)
+1. #215 _JDA_ (Clasificatorio)
+1. #237 _Los programadores de chill_ (Clasificatorio)
+1. #239 _Berserkers_ (Clasificatorio)
+1. #255 _NSP_ (Clasificatorio)
+1. #313 _Los NPC's_ (Clasificatorio)
+1. #352 _SpookyScript_ (Clasificatorio)
+1. #353 _FastCode_ (Clasificatorio)
+1. #357 _Estresados Check_ (Clasificatorio)
+1. #368 _Bisontes FCFM_ (Clasificatorio)
+1. #382 _C+MATH_ (Clasificatorio)
+1. #382 _Las superpoderosas_ (Clasificatorio)
+1. #382 _Lechuzas bebés_ (Clasificatorio)
+1. #382 _Los saraperos_ (Clasificatorio)
+1. #382 _The coders_ (Clasificatorio)
 
 ### 2023-2024
 
-- #19 _Tigres.cpp_ (Clasificatorio)
-- #45 _Los Tres Paleteros_ (Clasificatorio)
-- #125 _xor_ (Clasificatorio)
-- #209 _los rapidines_ (Clasificatorio)
-- #217 _Hacking Squad_ (Clasificatorio)
-- #239 _Los angelocochones_ (Clasificatorio)
-- #246 _Equipo Dinamita_ (Clasificatorio)
-- #250 _Axioma404_ (Clasificatorio)
-- #338 _Baby Owls_ (Clasificatorio)
-- #367 _JYJ_ (Clasificatorio)
-- #414 _Overbyte_ (Clasificatorio)
-- #415 _Attack On Python_ (Clasificatorio)
-- #416 _NanoByte_ (Clasificatorio)
-- #417 _Fast Code_ (Clasificatorio)
+1. #19 _Tigres.cpp_ (Clasificatorio)
+1. #45 _Los Tres Paleteros_ (Clasificatorio)
+1. #125 _xor_ (Clasificatorio)
+1. #209 _los rapidines_ (Clasificatorio)
+1. #217 _Hacking Squad_ (Clasificatorio)
+1. #239 _Los angelocochones_ (Clasificatorio)
+1. #246 _Equipo Dinamita_ (Clasificatorio)
+1. #250 _Axioma404_ (Clasificatorio)
+1. #338 _Baby Owls_ (Clasificatorio)
+1. #367 _JYJ_ (Clasificatorio)
+1. #414 _Overbyte_ (Clasificatorio)
+1. #415 _Attack On Python_ (Clasificatorio)
+1. #416 _NanoByte_ (Clasificatorio)
+1. #417 _Fast Code_ (Clasificatorio)
 
 
 

@@ -19,30 +19,30 @@
 
 ### 2010-2011
 
-- #130 (#32 de TecNM) _ITZit2_ (Regional)
-- #138 (#37 de TecNM) _ITZit1_ (Regional)
-- #139 (#38 de TecNM) _ITZit3_ (Regional)
+1. #130 (#32 de TecNM) _ITZit2_ (Regional)
+1. #138 (#37 de TecNM) _ITZit1_ (Regional)
+1. #139 (#38 de TecNM) _ITZit3_ (Regional)
 
 ### 2011-2012
 
-- #104 (#33 de TecNM) _ITZitacuaro1_ (Regional)
-- #104 (#33 de TecNM) _ITZitacuaro2_ (Regional)
-- #104 (#33 de TecNM) _ITZitacuaro3_ (Regional)
+1. #104 (#33 de TecNM) _ITZitacuaro1_ (Regional)
+1. #104 (#33 de TecNM) _ITZitacuaro2_ (Regional)
+1. #104 (#33 de TecNM) _ITZitacuaro3_ (Regional)
 
 ### 2012-2013
 
-- #116 (#44 de TecNM) _itzitacuaro 2_ (Regional)
-- #134 (#53 de TecNM) _itzitacuaro 1_ (Regional)
+1. #116 (#44 de TecNM) _itzitacuaro 2_ (Regional)
+1. #134 (#53 de TecNM) _itzitacuaro 1_ (Regional)
 
 ### 2018-2019
 
-- #267 (#56 de TecNM) _EquipoZit1_ (Clasificatorio)
-- #343 (#80 de TecNM) _EquipoZit3_ (Clasificatorio)
-- #352 (#85 de TecNM) _EquipoZit2_ (Clasificatorio)
+1. #267 (#56 de TecNM) _EquipoZit1_ (Clasificatorio)
+1. #343 (#80 de TecNM) _EquipoZit3_ (Clasificatorio)
+1. #352 (#85 de TecNM) _EquipoZit2_ (Clasificatorio)
 
 ### 2022-2023
 
-- #382 (#82 de TecNM) _Los 3.1416_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Los 3.1416_ (Clasificatorio)
 
 
 

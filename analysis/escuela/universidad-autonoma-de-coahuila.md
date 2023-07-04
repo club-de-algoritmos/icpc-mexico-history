@@ -19,59 +19,59 @@
 
 ### 2005-2006
 
-- #85 _Pumas 1_ (Regional)
-- #85 _Pumas 2_ (Regional)
+1. #85 _Pumas 1_ (Regional)
+1. #85 _Pumas 2_ (Regional)
 
 ### 2009-2010
 
-- #116 _Sistemas_ (Regional)
-- #116 _Sistemas 2_ (Regional)
-- #116 _Sistemas 3_ (Regional)
-- #116 _Sistemas 4_ (Regional)
+1. #116 _Sistemas_ (Regional)
+1. #116 _Sistemas 2_ (Regional)
+1. #116 _Sistemas 3_ (Regional)
+1. #116 _Sistemas 4_ (Regional)
 
 ### 2010-2011
 
-- #156 _UAdeC - Extreme Coders_ (Regional)
-- #156 _UAdeC - It 3! exe_ (Regional)
-- #156 _UAdeC - Lo C+_ (Regional)
+1. #156 _UAdeC - Extreme Coders_ (Regional)
+1. #156 _UAdeC - It 3! exe_ (Regional)
+1. #156 _UAdeC - Lo C+_ (Regional)
 
 ### 2011-2012
 
-- #69 _Error 404_ (Regional)
-- #104 _148.212.19.18_ (Regional)
-- #104 _MPC_ (Regional)
-- #104 _Rootkids_ (Regional)
+1. #69 _Error 404_ (Regional)
+1. #104 _148.212.19.18_ (Regional)
+1. #104 _MPC_ (Regional)
+1. #104 _Rootkids_ (Regional)
 
 ### 2012-2013
 
-- #60 _extreme coders_ (Regional)
-- #61 _error 404_ (Regional)
+1. #60 _extreme coders_ (Regional)
+1. #61 _error 404_ (Regional)
 
 ### 2013-2014
 
-- #68 _Kawabonga_ (Regional)
-- #95 _CPP_ (Regional)
+1. #68 _Kawabonga_ (Regional)
+1. #95 _CPP_ (Regional)
 
 ### 2015-2016
 
-- #23 _DeBugs_ (Regional)
-- #51 _TsZuuuaaaah_ (Regional)
+1. #23 _DeBugs_ (Regional)
+1. #51 _TsZuuuaaaah_ (Regional)
 
 ### 2016-2017
 
-- #21 _Wasabi_ (Regional)
-- #82 _Team FisMat_ (Regional)
-- #98 _Monroyliebers_ (Clasificatorio)
-- #121 _Code-Breaker_ (Clasificatorio)
-- #121 _Die schnellen und witzigen_ (Clasificatorio)
-- #121 _Foraneos Team_ (Clasificatorio)
-- #121 _Guardians_ (Clasificatorio)
-- #121 _Los AFK_ (Clasificatorio)
-- #121 _MARCIAL RUIZ VARGAS_ (Clasificatorio)
-- #121 _Torreon 1_ (Clasificatorio)
-- #121 _Torreon 2_ (Clasificatorio)
-- #121 _azul_ (Clasificatorio)
-- #121 _verde_amarillo_ (Clasificatorio)
+1. #21 _Wasabi_ (Regional)
+1. #82 _Team FisMat_ (Regional)
+1. #98 _Monroyliebers_ (Clasificatorio)
+1. #121 _Code-Breaker_ (Clasificatorio)
+1. #121 _Die schnellen und witzigen_ (Clasificatorio)
+1. #121 _Foraneos Team_ (Clasificatorio)
+1. #121 _Guardians_ (Clasificatorio)
+1. #121 _Los AFK_ (Clasificatorio)
+1. #121 _MARCIAL RUIZ VARGAS_ (Clasificatorio)
+1. #121 _Torreon 1_ (Clasificatorio)
+1. #121 _Torreon 2_ (Clasificatorio)
+1. #121 _azul_ (Clasificatorio)
+1. #121 _verde_amarillo_ (Clasificatorio)
 
 
 

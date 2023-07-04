@@ -19,40 +19,40 @@
 
 ### 2014-2015
 
-- #143 (#33 de TecNM) _Picazo's Develop_ (Clasificatorio)
-- #172 (#41 de TecNM) _Fito's Team_ (Clasificatorio)
+1. #143 (#33 de TecNM) _Picazo's Develop_ (Clasificatorio)
+1. #172 (#41 de TecNM) _Fito's Team_ (Clasificatorio)
 
 ### 2017-2018
 
-- #143 (#22 de TecNM) _Zorros_ (Clasificatorio)
-- #199 (#37 de TecNM) _Error 404_ (Clasificatorio)
-- #224 (#44 de TecNM) _Destroyers_ (Clasificatorio)
-- #405 (#97 de TecNM) _Delfines_ (Clasificatorio)
-- #405 (#97 de TecNM) _Engineers_ (Clasificatorio)
-- #405 (#97 de TecNM) _Los Javeros_ (Clasificatorio)
-- #405 (#97 de TecNM) _Los Softwareños_ (Clasificatorio)
-- #405 (#97 de TecNM) _Luchana´s Team_ (Clasificatorio)
-- #405 (#97 de TecNM) _System SRL_ (Clasificatorio)
-- #405 (#97 de TecNM) _TeraByts_ (Clasificatorio)
-- #405 (#97 de TecNM) _The Engineers Crazy_ (Clasificatorio)
+1. #143 (#22 de TecNM) _Zorros_ (Clasificatorio)
+1. #199 (#37 de TecNM) _Error 404_ (Clasificatorio)
+1. #224 (#44 de TecNM) _Destroyers_ (Clasificatorio)
+1. #405 (#97 de TecNM) _Delfines_ (Clasificatorio)
+1. #405 (#97 de TecNM) _Engineers_ (Clasificatorio)
+1. #405 (#97 de TecNM) _Los Javeros_ (Clasificatorio)
+1. #405 (#97 de TecNM) _Los Softwareños_ (Clasificatorio)
+1. #405 (#97 de TecNM) _Luchana´s Team_ (Clasificatorio)
+1. #405 (#97 de TecNM) _System SRL_ (Clasificatorio)
+1. #405 (#97 de TecNM) _TeraByts_ (Clasificatorio)
+1. #405 (#97 de TecNM) _The Engineers Crazy_ (Clasificatorio)
 
 ### 2018-2019
 
-- #240 (#44 de TecNM) _Java-Lieron_ (Clasificatorio)
-- #241 (#45 de TecNM) _Survivor_Team_ (Clasificatorio)
-- #254 (#50 de TecNM) _ZORROS_ (Clasificatorio)
-- #394 (#103 de TecNM) _Los Javeros_ (Clasificatorio)
-- #394 (#103 de TecNM) _Luchana's Team_ (Clasificatorio)
-- #394 (#103 de TecNM) _SYSTEM SRL_ (Clasificatorio)
+1. #240 (#44 de TecNM) _Java-Lieron_ (Clasificatorio)
+1. #241 (#45 de TecNM) _Survivor_Team_ (Clasificatorio)
+1. #254 (#50 de TecNM) _ZORROS_ (Clasificatorio)
+1. #394 (#103 de TecNM) _Los Javeros_ (Clasificatorio)
+1. #394 (#103 de TecNM) _Luchana's Team_ (Clasificatorio)
+1. #394 (#103 de TecNM) _SYSTEM SRL_ (Clasificatorio)
 
 ### 2019-2020
 
-- #188 (#25 de TecNM) _LAS 3 GEMAS DEL INFINITO_ (Clasificatorio)
-- #189 (#26 de TecNM) _Jalapeños Developer Team_ (Clasificatorio)
-- #289 (#58 de TecNM) _LAS INEVITABLES_ (Clasificatorio)
-- #382 (#98 de TecNM) _Atletico San Pancho_ (Clasificatorio)
-- #382 (#98 de TecNM) _Los nuevos vengadores_ (Clasificatorio)
-- #382 (#98 de TecNM) _innombrables_ (Clasificatorio)
+1. #188 (#25 de TecNM) _LAS 3 GEMAS DEL INFINITO_ (Clasificatorio)
+1. #189 (#26 de TecNM) _Jalapeños Developer Team_ (Clasificatorio)
+1. #289 (#58 de TecNM) _LAS INEVITABLES_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Atletico San Pancho_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Los nuevos vengadores_ (Clasificatorio)
+1. #382 (#98 de TecNM) _innombrables_ (Clasificatorio)
 
 
 

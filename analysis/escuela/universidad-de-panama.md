@@ -10,7 +10,7 @@
 
 ### 2017-2018
 
-- #85 _MKC_ (Regional)
+1. #85 _MKC_ (Regional)
 
 
 

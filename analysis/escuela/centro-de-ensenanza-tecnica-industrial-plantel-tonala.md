@@ -10,7 +10,7 @@
 
 ### 2010-2011
 
-- #156 _Tonala-1_ (Regional)
+1. #156 _Tonala-1_ (Regional)
 
 
 

@@ -11,11 +11,11 @@
 
 ### 2009-2010
 
-- #116 _Sistemas Loyola_ (Regional)
+1. #116 _Sistemas Loyola_ (Regional)
 
 ### 2010-2011
 
-- #156 _Univ Loyola Tecnologías_ (Regional)
+1. #156 _Univ Loyola Tecnologías_ (Regional)
 
 
 

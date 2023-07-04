@@ -11,11 +11,11 @@
 
 ### 2009-2010
 
-- #116 _UVMistas_ (Regional)
+1. #116 _UVMistas_ (Regional)
 
 ### 2010-2011
 
-- #156 _Icebreakers_ (Regional)
+1. #156 _Icebreakers_ (Regional)
 
 
 

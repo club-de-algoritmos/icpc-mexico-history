@@ -14,14 +14,14 @@
 
 ### 2020-2021
 
-- #351 (#65 de TecNM) _TecValles_ (Clasificatorio)
+1. #351 (#65 de TecNM) _TecValles_ (Clasificatorio)
 
 ### 2022-2023
 
-- #382 (#82 de TecNM) _IMG.png_ (Clasificatorio)
-- #382 (#82 de TecNM) _Mapachitos_ (Clasificatorio)
-- #382 (#82 de TecNM) _WhiteCode_ (Clasificatorio)
-- #382 (#82 de TecNM) _saludaMundos_ (Clasificatorio)
+1. #382 (#82 de TecNM) _IMG.png_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Mapachitos_ (Clasificatorio)
+1. #382 (#82 de TecNM) _WhiteCode_ (Clasificatorio)
+1. #382 (#82 de TecNM) _saludaMundos_ (Clasificatorio)
 
 
 

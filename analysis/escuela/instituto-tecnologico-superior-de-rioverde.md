@@ -19,28 +19,28 @@
 
 ### 2019-2020
 
-- #382 (#98 de TecNM) _A.K.A. Programadores_ (Clasificatorio)
-- #382 (#98 de TecNM) _ABMODEL_ (Clasificatorio)
-- #382 (#98 de TecNM) _Code Lynx;_ (Clasificatorio)
-- #382 (#98 de TecNM) _Linces Programmers_ (Clasificatorio)
-- #382 (#98 de TecNM) _Lynx Team_ (Clasificatorio)
-- #382 (#98 de TecNM) _Mister robot_ (Clasificatorio)
-- #382 (#98 de TecNM) _Tec Developers_ (Clasificatorio)
+1. #382 (#98 de TecNM) _A.K.A. Programadores_ (Clasificatorio)
+1. #382 (#98 de TecNM) _ABMODEL_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Code Lynx;_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Linces Programmers_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Lynx Team_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Mister robot_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Tec Developers_ (Clasificatorio)
 
 ### 2021-2022
 
-- #226 (#36 de TecNM) _E.P.A.S.U.B.A._ (Clasificatorio)
-- #226 (#36 de TecNM) _Prograrookies_ (Clasificatorio)
-- #226 (#36 de TecNM) _kawai_ (Clasificatorio)
-- #226 (#36 de TecNM) _team_oster_ (Clasificatorio)
+1. #226 (#36 de TecNM) _E.P.A.S.U.B.A._ (Clasificatorio)
+1. #226 (#36 de TecNM) _Prograrookies_ (Clasificatorio)
+1. #226 (#36 de TecNM) _kawai_ (Clasificatorio)
+1. #226 (#36 de TecNM) _team_oster_ (Clasificatorio)
 
 ### 2022-2023
 
-- #382 (#82 de TecNM) _Beta_ (Clasificatorio)
-- #382 (#82 de TecNM) _Bytes_ (Clasificatorio)
-- #382 (#82 de TecNM) _Empty_ (Clasificatorio)
-- #382 (#82 de TecNM) _Inge's_ (Clasificatorio)
-- #382 (#82 de TecNM) _Lisdexia_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Beta_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Bytes_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Empty_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Inge's_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Lisdexia_ (Clasificatorio)
 
 
 

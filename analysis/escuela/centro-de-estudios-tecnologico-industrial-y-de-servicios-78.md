@@ -10,7 +10,7 @@
 
 ### 2001-2002
 
-- #14 _ZORROS_ (Regional)
+1. #14 _ZORROS_ (Regional)
 
 
 

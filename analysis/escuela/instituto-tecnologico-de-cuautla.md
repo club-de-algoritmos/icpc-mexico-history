@@ -19,59 +19,59 @@
 
 ### 2001-2002
 
-- #29 (#9 de TecNM) _TecCuautla2_ (Regional)
-- #34 (#12 de TecNM) _TecCuautla1_ (Regional)
+1. #29 (#9 de TecNM) _TecCuautla2_ (Regional)
+1. #34 (#12 de TecNM) _TecCuautla1_ (Regional)
 
 ### 2003-2004
 
-- #34 (#6 de TecNM) _TecCuautla3_ (Regional)
-- #37 (#7 de TecNM) _TecCuautla1_ (Regional)
-- #41 (#9 de TecNM) _TecCuautla2_ (Regional)
+1. #34 (#6 de TecNM) _TecCuautla3_ (Regional)
+1. #37 (#7 de TecNM) _TecCuautla1_ (Regional)
+1. #41 (#9 de TecNM) _TecCuautla2_ (Regional)
 
 ### 2008-2009
 
-- #79 (#15 de TecNM) _Success_ (Regional)
-- #101 (#26 de TecNM) _TecCuautla1_ (Regional)
+1. #79 (#15 de TecNM) _Success_ (Regional)
+1. #101 (#26 de TecNM) _TecCuautla1_ (Regional)
 
 ### 2009-2010
 
-- #38 (#4 de TecNM) _Success_ (Regional)
-- #93 (#23 de TecNM) _itCuautla2_ (Regional)
-- #110 (#29 de TecNM) _itCuautla1_ (Regional)
+1. #38 (#4 de TecNM) _Success_ (Regional)
+1. #93 (#23 de TecNM) _itCuautla2_ (Regional)
+1. #110 (#29 de TecNM) _itCuautla1_ (Regional)
 
 ### 2010-2011
 
-- #80 (#10 de TecNM) _Success_ (Regional)
+1. #80 (#10 de TecNM) _Success_ (Regional)
 
 ### 2011-2012
 
-- #60 (#10 de TecNM) _Success_ (Regional)
+1. #60 (#10 de TecNM) _Success_ (Regional)
 
 ### 2020-2021
 
-- #351 (#65 de TecNM) _Aspiring Coders_ (Clasificatorio)
-- #351 (#65 de TecNM) _BMT_ (Clasificatorio)
-- #351 (#65 de TecNM) _GEHMVS_ (Clasificatorio)
-- #351 (#65 de TecNM) _ROA_ (Clasificatorio)
-- #351 (#65 de TecNM) _TheChyper_ITC_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Aspiring Coders_ (Clasificatorio)
+1. #351 (#65 de TecNM) _BMT_ (Clasificatorio)
+1. #351 (#65 de TecNM) _GEHMVS_ (Clasificatorio)
+1. #351 (#65 de TecNM) _ROA_ (Clasificatorio)
+1. #351 (#65 de TecNM) _TheChyper_ITC_ (Clasificatorio)
 
 ### 2022-2023
 
-- #382 (#82 de TecNM) _>TeamNameGoesHere<_ (Clasificatorio)
-- #382 (#82 de TecNM) _Apple_ (Clasificatorio)
-- #382 (#82 de TecNM) _CHILAQUILES CIBERNETICOS_ (Clasificatorio)
-- #382 (#82 de TecNM) _Creepers_ (Clasificatorio)
-- #382 (#82 de TecNM) _DRAGON CREW_ (Clasificatorio)
-- #382 (#82 de TecNM) _Devil Corp_ (Clasificatorio)
-- #382 (#82 de TecNM) _Guerreros Z_ (Clasificatorio)
-- #382 (#82 de TecNM) _Hello World_ (Clasificatorio)
-- #382 (#82 de TecNM) _Pastelitos_ (Clasificatorio)
-- #382 (#82 de TecNM) _Pequeños Programadores_ (Clasificatorio)
-- #382 (#82 de TecNM) _Programers_ (Clasificatorio)
-- #382 (#82 de TecNM) _ROBERT'S_ (Clasificatorio)
-- #382 (#82 de TecNM) _Team Chimichanga_ (Clasificatorio)
-- #382 (#82 de TecNM) _Titanes Aztecas_ (Clasificatorio)
-- #382 (#82 de TecNM) _Warr10rs_ (Clasificatorio)
+1. #382 (#82 de TecNM) _>TeamNameGoesHere<_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Apple_ (Clasificatorio)
+1. #382 (#82 de TecNM) _CHILAQUILES CIBERNETICOS_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Creepers_ (Clasificatorio)
+1. #382 (#82 de TecNM) _DRAGON CREW_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Devil Corp_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Guerreros Z_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Hello World_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Pastelitos_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Pequeños Programadores_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Programers_ (Clasificatorio)
+1. #382 (#82 de TecNM) _ROBERT'S_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Team Chimichanga_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Titanes Aztecas_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Warr10rs_ (Clasificatorio)
 
 
 

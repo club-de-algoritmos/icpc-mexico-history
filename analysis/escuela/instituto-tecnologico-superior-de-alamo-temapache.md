@@ -19,46 +19,46 @@
 
 ### 2004-2005
 
-- #90 (#22 de TecNM) _ITSAT_ (Regional)
+1. #90 (#22 de TecNM) _ITSAT_ (Regional)
 
 ### 2012-2013
 
-- #134 (#53 de TecNM) _Galvantulas_ (Regional)
+1. #134 (#53 de TecNM) _Galvantulas_ (Regional)
 
 ### 2013-2014
 
-- #95 (#24 de TecNM) _Galvantulas_ (Regional)
+1. #95 (#24 de TecNM) _Galvantulas_ (Regional)
 
 ### 2016-2017
 
-- #121 (#20 de TecNM) _Los 5 Métodos_ (Clasificatorio)
-- #121 (#20 de TecNM) _Los Romies_ (Clasificatorio)
-- #121 (#20 de TecNM) _The Mirror's_ (Clasificatorio)
+1. #121 (#20 de TecNM) _Los 5 Métodos_ (Clasificatorio)
+1. #121 (#20 de TecNM) _Los Romies_ (Clasificatorio)
+1. #121 (#20 de TecNM) _The Mirror's_ (Clasificatorio)
 
 ### 2017-2018
 
-- #236 (#47 de TecNM) _ITSAT 2_ (Clasificatorio)
-- #250 (#52 de TecNM) _ITSAT 3_ (Clasificatorio)
-- #405 (#97 de TecNM) _ITSAT 1_ (Clasificatorio)
+1. #236 (#47 de TecNM) _ITSAT 2_ (Clasificatorio)
+1. #250 (#52 de TecNM) _ITSAT 3_ (Clasificatorio)
+1. #405 (#97 de TecNM) _ITSAT 1_ (Clasificatorio)
 
 ### 2019-2020
 
-- #382 (#98 de TecNM) _Conejos digitales_ (Clasificatorio)
-- #382 (#98 de TecNM) _Warriors_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Conejos digitales_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Warriors_ (Clasificatorio)
 
 ### 2020-2021
 
-- #351 (#65 de TecNM) _CodeBit_ (Clasificatorio)
-- #351 (#65 de TecNM) _CodeOne_ (Clasificatorio)
+1. #351 (#65 de TecNM) _CodeBit_ (Clasificatorio)
+1. #351 (#65 de TecNM) _CodeOne_ (Clasificatorio)
 
 ### 2021-2022
 
-- #226 (#36 de TecNM) _CodeOne_ (Clasificatorio)
+1. #226 (#36 de TecNM) _CodeOne_ (Clasificatorio)
 
 ### 2022-2023
 
-- #382 (#82 de TecNM) _BitCodeOne_ (Clasificatorio)
-- #382 (#82 de TecNM) _CodeOne_ (Clasificatorio)
+1. #382 (#82 de TecNM) _BitCodeOne_ (Clasificatorio)
+1. #382 (#82 de TecNM) _CodeOne_ (Clasificatorio)
 
 
 

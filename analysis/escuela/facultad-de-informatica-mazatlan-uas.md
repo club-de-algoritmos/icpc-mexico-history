@@ -11,11 +11,11 @@
 
 ### 2022-2023
 
-- #267 _FIMAZ_ (Clasificatorio)
+1. #267 _FIMAZ_ (Clasificatorio)
 
 ### 2023-2024
 
-- #112 _Los Monos Bichis_ (Clasificatorio)
+1. #112 _Los Monos Bichis_ (Clasificatorio)
 
 
 

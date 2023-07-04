@@ -19,25 +19,25 @@
 
 ### 2019-2020
 
-- #382 _Los Mapogos_ (Clasificatorio)
-- #382 _Try and Catch_ (Clasificatorio)
+1. #382 _Los Mapogos_ (Clasificatorio)
+1. #382 _Try and Catch_ (Clasificatorio)
 
 ### 2020-2021
 
-- #131 _RoadToGold_ (Clasificatorio)
-- #351 _AMADA_ (Clasificatorio)
+1. #131 _RoadToGold_ (Clasificatorio)
+1. #351 _AMADA_ (Clasificatorio)
 
 ### 2021-2022
 
-- #226 _BitsNCode_ (Clasificatorio)
-- #226 _Jaiba's code_ (Clasificatorio)
+1. #226 _BitsNCode_ (Clasificatorio)
+1. #226 _Jaiba's code_ (Clasificatorio)
 
 ### 2022-2023
 
-- #382 _Booleanos_ (Clasificatorio)
-- #382 _Coders breakers_ (Clasificatorio)
-- #382 _JAR_ (Clasificatorio)
-- #382 _JAY_ (Clasificatorio)
+1. #382 _Booleanos_ (Clasificatorio)
+1. #382 _Coders breakers_ (Clasificatorio)
+1. #382 _JAR_ (Clasificatorio)
+1. #382 _JAY_ (Clasificatorio)
 
 
 

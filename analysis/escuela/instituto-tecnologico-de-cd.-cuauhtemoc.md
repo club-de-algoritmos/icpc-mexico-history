@@ -19,31 +19,31 @@
 
 ### 2019-2020
 
-- #382 (#98 de TecNM) _3B ISC ITCC_ (Clasificatorio)
-- #382 (#98 de TecNM) _7A ISC ITCC_ (Clasificatorio)
-- #382 (#98 de TecNM) _CimCoders_ (Clasificatorio)
-- #382 (#98 de TecNM) _Los Binarios_ (Clasificatorio)
+1. #382 (#98 de TecNM) _3B ISC ITCC_ (Clasificatorio)
+1. #382 (#98 de TecNM) _7A ISC ITCC_ (Clasificatorio)
+1. #382 (#98 de TecNM) _CimCoders_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Los Binarios_ (Clasificatorio)
 
 ### 2020-2021
 
-- #351 (#65 de TecNM) _ITCC01_ (Clasificatorio)
-- #351 (#65 de TecNM) _ITCC02_ (Clasificatorio)
-- #351 (#65 de TecNM) _ITCC03_ (Clasificatorio)
-- #351 (#65 de TecNM) _ITCC04_ (Clasificatorio)
-- #351 (#65 de TecNM) _ITCC05_ (Clasificatorio)
+1. #351 (#65 de TecNM) _ITCC01_ (Clasificatorio)
+1. #351 (#65 de TecNM) _ITCC02_ (Clasificatorio)
+1. #351 (#65 de TecNM) _ITCC03_ (Clasificatorio)
+1. #351 (#65 de TecNM) _ITCC04_ (Clasificatorio)
+1. #351 (#65 de TecNM) _ITCC05_ (Clasificatorio)
 
 ### 2021-2022
 
-- #155 (#15 de TecNM) _CIMARRON  ZEN_ (Clasificatorio)
+1. #155 (#15 de TecNM) _CIMARRON  ZEN_ (Clasificatorio)
 
 ### 2022-2023
 
-- #382 (#82 de TecNM) _CJL Programmers_ (Clasificatorio)
-- #382 (#82 de TecNM) _HW_ (Clasificatorio)
-- #382 (#82 de TecNM) _JJM_ (Clasificatorio)
-- #382 (#82 de TecNM) _Semi N_ (Clasificatorio)
-- #382 (#82 de TecNM) _ShadowCoders_ (Clasificatorio)
-- #382 (#82 de TecNM) _Supreme_ (Clasificatorio)
+1. #382 (#82 de TecNM) _CJL Programmers_ (Clasificatorio)
+1. #382 (#82 de TecNM) _HW_ (Clasificatorio)
+1. #382 (#82 de TecNM) _JJM_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Semi N_ (Clasificatorio)
+1. #382 (#82 de TecNM) _ShadowCoders_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Supreme_ (Clasificatorio)
 
 
 

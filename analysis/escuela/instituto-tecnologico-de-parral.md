@@ -19,64 +19,64 @@
 
 ### 2003-2004
 
-- #41 (#9 de TecNM) _ITParral_ (Regional)
+1. #41 (#9 de TecNM) _ITParral_ (Regional)
 
 ### 2004-2005
 
-- #12 (#2 de TecNM) _Los Otros_ (Regional)
+1. #12 (#2 de TecNM) _Los Otros_ (Regional)
 
 ### 2005-2006
 
-- #85 (#11 de TecNM) _ITPARRAL_ (Regional)
+1. #85 (#11 de TecNM) _ITPARRAL_ (Regional)
 
 ### 2006-2007
 
-- #59 (#11 de TecNM) _TIMOGA2006_ (Regional)
+1. #59 (#11 de TecNM) _TIMOGA2006_ (Regional)
 
 ### 2007-2008
 
-- #44 (#10 de TecNM) _Venados07_ (Regional)
+1. #44 (#10 de TecNM) _Venados07_ (Regional)
 
 ### 2008-2009
 
-- #101 (#26 de TecNM) _Omega 2012_ (Regional)
+1. #101 (#26 de TecNM) _Omega 2012_ (Regional)
 
 ### 2010-2011
 
-- #156 (#44 de TecNM) _Los Osados_ (Regional)
+1. #156 (#44 de TecNM) _Los Osados_ (Regional)
 
 ### 2019-2020
 
-- #255 (#47 de TecNM) _Espartanos_ (Clasificatorio)
-- #382 (#98 de TecNM) _ALT+F4_ (Clasificatorio)
-- #382 (#98 de TecNM) _Codigo de Rehuso_ (Clasificatorio)
-- #382 (#98 de TecNM) _DE COMPUTO 3.0_ (Clasificatorio)
-- #382 (#98 de TecNM) _Fenixoft_ (Clasificatorio)
-- #382 (#98 de TecNM) _Helljumpers [maruchan]_ (Clasificatorio)
+1. #255 (#47 de TecNM) _Espartanos_ (Clasificatorio)
+1. #382 (#98 de TecNM) _ALT+F4_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Codigo de Rehuso_ (Clasificatorio)
+1. #382 (#98 de TecNM) _DE COMPUTO 3.0_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Fenixoft_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Helljumpers [maruchan]_ (Clasificatorio)
 
 ### 2020-2021
 
-- #178 (#18 de TecNM) _Spacetacular_ (Clasificatorio)
-- #211 (#23 de TecNM) _Bichologos_ (Clasificatorio)
-- #245 (#27 de TecNM) _Camisas Rojas_ (Clasificatorio)
-- #351 (#65 de TecNM) _Espartanos_itp_ (Clasificatorio)
+1. #178 (#18 de TecNM) _Spacetacular_ (Clasificatorio)
+1. #211 (#23 de TecNM) _Bichologos_ (Clasificatorio)
+1. #245 (#27 de TecNM) _Camisas Rojas_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Espartanos_itp_ (Clasificatorio)
 
 ### 2021-2022
 
-- #95 (#7 de TecNM) _ALT + F4_ (Clasificatorio)
+1. #95 (#7 de TecNM) _ALT + F4_ (Clasificatorio)
 
 ### 2022-2023
 
-- #109 (#13 de TecNM) _ALT + F4_ (Clasificatorio)
+1. #109 (#13 de TecNM) _ALT + F4_ (Clasificatorio)
 
 ### 2023-2024
 
-- #87 (#14 de TecNM) _Alt-F4_ (Clasificatorio)
-- #334 (#76 de TecNM) _ProgramaTEC_ (Clasificatorio)
-- #351 (#85 de TecNM) _UNKnOwN_ (Clasificatorio)
-- #371 (#96 de TecNM) _TechBreak_ (Clasificatorio)
-- #379 (#99 de TecNM) _LA TRIADA B-J-N_ (Clasificatorio)
-- #405 (#111 de TecNM) _Los novatos_ (Clasificatorio)
+1. #87 (#14 de TecNM) _Alt-F4_ (Clasificatorio)
+1. #334 (#76 de TecNM) _ProgramaTEC_ (Clasificatorio)
+1. #351 (#85 de TecNM) _UNKnOwN_ (Clasificatorio)
+1. #371 (#96 de TecNM) _TechBreak_ (Clasificatorio)
+1. #379 (#99 de TecNM) _LA TRIADA B-J-N_ (Clasificatorio)
+1. #405 (#111 de TecNM) _Los novatos_ (Clasificatorio)
 
 
 

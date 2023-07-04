@@ -19,31 +19,31 @@
 
 ### 2003-2004
 
-- #41 _3 Tazas de Café_ (Regional)
-- #41 _CESEROS_ (Regional)
-- #41 _Enproceso.com_ (Regional)
+1. #41 _3 Tazas de Café_ (Regional)
+1. #41 _CESEROS_ (Regional)
+1. #41 _Enproceso.com_ (Regional)
 
 ### 2005-2006
 
-- #85 _ADEM1_ (Regional)
-- #85 _IXOYE_ (Regional)
-- #85 _LOS BYTES_ (Regional)
+1. #85 _ADEM1_ (Regional)
+1. #85 _IXOYE_ (Regional)
+1. #85 _LOS BYTES_ (Regional)
 
 ### 2006-2007
 
-- #85 _Mitotes_ (Regional)
-- #85 _PCMS_ (Regional)
+1. #85 _Mitotes_ (Regional)
+1. #85 _PCMS_ (Regional)
 
 ### 2007-2008
 
-- #61 _ESTRELLITAS ACM_ (Regional)
-- #61 _MAPACHE_ (Regional)
-- #61 _POWER BREAKER_ (Regional)
+1. #61 _ESTRELLITAS ACM_ (Regional)
+1. #61 _MAPACHE_ (Regional)
+1. #61 _POWER BREAKER_ (Regional)
 
 ### 2008-2009
 
-- #101 _Alfa_ (Regional)
-- #101 _Skywest_ (Regional)
+1. #101 _Alfa_ (Regional)
+1. #101 _Skywest_ (Regional)
 
 
 

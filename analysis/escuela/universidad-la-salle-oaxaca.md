@@ -13,13 +13,13 @@
 
 ### 2019-2020
 
-- #382 _ULSAOAX01_ (Clasificatorio)
+1. #382 _ULSAOAX01_ (Clasificatorio)
 
 ### 2020-2021
 
-- #299 _ULSAOAX Jaguar Cósmico_ (Clasificatorio)
-- #326 _ULSAOAX Gatitos Tristes_ (Clasificatorio)
-- #351 _ULSAOAX CLAY_ (Clasificatorio)
+1. #299 _ULSAOAX Jaguar Cósmico_ (Clasificatorio)
+1. #326 _ULSAOAX Gatitos Tristes_ (Clasificatorio)
+1. #351 _ULSAOAX CLAY_ (Clasificatorio)
 
 
 

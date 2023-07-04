@@ -11,8 +11,8 @@
 
 ### 2019-2020
 
-- #382 (#98 de TecNM) _Tequila 1_ (Clasificatorio)
-- #382 (#98 de TecNM) _Tequila 2_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Tequila 1_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Tequila 2_ (Clasificatorio)
 
 
 

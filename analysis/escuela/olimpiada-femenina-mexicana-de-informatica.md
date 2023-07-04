@@ -11,8 +11,8 @@
 
 ### 2021-2022
 
-- #55 _Rojo (OFMI Guanajuato)_ (Regional)
-- #55 _Azul (OFMI Nacional)_ (Regional)
+1. #55 _Rojo (OFMI Guanajuato)_ (Regional)
+1. #55 _Azul (OFMI Nacional)_ (Regional)
 
 
 

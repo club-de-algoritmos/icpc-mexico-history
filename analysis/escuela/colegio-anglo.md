@@ -11,8 +11,8 @@
 
 ### 2022-2023
 
-- #382 _CmasmasGang_ (Clasificatorio)
-- #382 _Pululunga_ (Clasificatorio)
+1. #382 _CmasmasGang_ (Clasificatorio)
+1. #382 _Pululunga_ (Clasificatorio)
 
 
 

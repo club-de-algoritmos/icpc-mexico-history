@@ -15,21 +15,21 @@
 
 ### 2008-2009
 
-- #101 _Corvus Reloaded_ (Regional)
-- #101 _Warnings_ (Regional)
+1. #101 _Corvus Reloaded_ (Regional)
+1. #101 _Warnings_ (Regional)
 
 ### 2009-2010
 
-- #116 _VG software_ (Regional)
+1. #116 _VG software_ (Regional)
 
 ### 2010-2011
 
-- #115 _VG software_ (Regional)
+1. #115 _VG software_ (Regional)
 
 ### 2011-2012
 
-- #91 _VGUTZMG_ (Regional)
-- #104 _utZs_ (Regional)
+1. #91 _VGUTZMG_ (Regional)
+1. #104 _utZs_ (Regional)
 
 
 

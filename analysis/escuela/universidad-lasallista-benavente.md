@@ -10,7 +10,7 @@
 
 ### 2001-2002
 
-- #42 _Dexters_ (Regional)
+1. #42 _Dexters_ (Regional)
 
 
 

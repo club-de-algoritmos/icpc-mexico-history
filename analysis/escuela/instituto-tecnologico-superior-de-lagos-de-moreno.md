@@ -15,18 +15,18 @@
 
 ### 2008-2009
 
-- #101 (#26 de TecNM) _Los Programadores lagos_ (Regional)
-- #101 (#26 de TecNM) _MMO_ (Regional)
+1. #101 (#26 de TecNM) _Los Programadores lagos_ (Regional)
+1. #101 (#26 de TecNM) _MMO_ (Regional)
 
 ### 2017-2018
 
-- #405 (#97 de TecNM) _Lagos1_ (Clasificatorio)
-- #405 (#97 de TecNM) _Lagos2_ (Clasificatorio)
+1. #405 (#97 de TecNM) _Lagos1_ (Clasificatorio)
+1. #405 (#97 de TecNM) _Lagos2_ (Clasificatorio)
 
 ### 2019-2020
 
-- #382 (#98 de TecNM) _Lagos 1_ (Clasificatorio)
-- #382 (#98 de TecNM) _Lagos 2_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Lagos 1_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Lagos 2_ (Clasificatorio)
 
 
 

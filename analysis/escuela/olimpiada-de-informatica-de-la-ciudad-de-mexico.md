@@ -12,9 +12,9 @@
 
 ### 2020-2021
 
-- #352 _Jupiter_ (Clasificatorio)
-- #353 _Dawngramadores_ (Clasificatorio)
-- #354 _Yaunica_ (Clasificatorio)
+1. #352 _Jupiter_ (Clasificatorio)
+1. #353 _Dawngramadores_ (Clasificatorio)
+1. #354 _Yaunica_ (Clasificatorio)
 
 
 

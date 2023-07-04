@@ -13,19 +13,19 @@
 
 ### 2006-2007
 
-- #63 _Lobos_ (Regional)
+1. #63 _Lobos_ (Regional)
 
 ### 2007-2008
 
-- #59 _Lobos_ (Regional)
+1. #59 _Lobos_ (Regional)
 
 ### 2008-2009
 
-- #66 _Los Lobos UIA _ (Regional)
+1. #66 _Los Lobos UIA _ (Regional)
 
 ### 2010-2011
 
-- #156 _Rock N' Coders_ (Regional)
+1. #156 _Rock N' Coders_ (Regional)
 
 
 

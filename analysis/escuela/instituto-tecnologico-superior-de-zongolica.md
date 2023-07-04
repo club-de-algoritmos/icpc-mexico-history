@@ -14,20 +14,20 @@
 
 ### 2020-2021
 
-- #351 (#65 de TecNM) _Incubadora_ (Clasificatorio)
-- #351 (#65 de TecNM) _Syntax_Error_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Incubadora_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Syntax_Error_ (Clasificatorio)
 
 ### 2021-2022
 
-- #226 (#36 de TecNM) _teczon developer_ (Clasificatorio)
+1. #226 (#36 de TecNM) _teczon developer_ (Clasificatorio)
 
 ### 2022-2023
 
-- #382 (#82 de TecNM) _Syntax_Error_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Syntax_Error_ (Clasificatorio)
 
 ### 2023-2024
 
-- #314 (#69 de TecNM) _Delete System32_ (Clasificatorio)
+1. #314 (#69 de TecNM) _Delete System32_ (Clasificatorio)
 
 
 

@@ -11,8 +11,8 @@
 
 ### 2009-2010
 
-- #116 _cug-3ro_ (Regional)
-- #116 _cug-4to_ (Regional)
+1. #116 _cug-3ro_ (Regional)
+1. #116 _cug-4to_ (Regional)
 
 
 

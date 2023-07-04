@@ -19,102 +19,102 @@
 
 ### 2002-2003
 
-- #27 _Los Amarillos_ (Regional)
-- #27 _Los Negros_ (Regional)
+1. #27 _Los Amarillos_ (Regional)
+1. #27 _Los Negros_ (Regional)
 
 ### 2003-2004
 
-- #41 _UDEM I_ (Regional)
-- #41 _UDEM II_ (Regional)
+1. #41 _UDEM I_ (Regional)
+1. #41 _UDEM II_ (Regional)
 
 ### 2004-2005
 
-- #10 _Troyanos_ (Regional)
+1. #10 _Troyanos_ (Regional)
 
 ### 2005-2006
 
-- #20 _UDEM1_ (Regional)
-- #85 _Javadabadu_ (Regional)
+1. #20 _UDEM1_ (Regional)
+1. #85 _Javadabadu_ (Regional)
 
 ### 2006-2007
 
-- #25 _Vodka Jrs._ (Regional)
-- #85 _Los Mind Masters_ (Regional)
+1. #25 _Vodka Jrs._ (Regional)
+1. #85 _Los Mind Masters_ (Regional)
 
 ### 2007-2008
 
-- #61 _Los Tarda2_ (Regional)
+1. #61 _Los Tarda2_ (Regional)
 
 ### 2017-2018
 
-- #317 _char mander;_ (Clasificatorio)
-- #318 _Wildcats_ (Clasificatorio)
-- #326 _#WETHYW_ (Clasificatorio)
-- #335 _null_ (Clasificatorio)
-- #375 _Los machachos_ (Clasificatorio)
+1. #317 _char mander;_ (Clasificatorio)
+1. #318 _Wildcats_ (Clasificatorio)
+1. #326 _#WETHYW_ (Clasificatorio)
+1. #335 _null_ (Clasificatorio)
+1. #375 _Los machachos_ (Clasificatorio)
 
 ### 2018-2019
 
-- #110 _Los Tres Amigos_ (Clasificatorio)
-- #133 _echo_ (Clasificatorio)
-- #138 _Tobe Fly_ (Clasificatorio)
-- #145 _Churromais_ (Clasificatorio)
-- #230 _Los Paletas_ (Clasificatorio)
-- #274 _The Brady Bunch_ (Clasificatorio)
+1. #110 _Los Tres Amigos_ (Clasificatorio)
+1. #133 _echo_ (Clasificatorio)
+1. #138 _Tobe Fly_ (Clasificatorio)
+1. #145 _Churromais_ (Clasificatorio)
+1. #230 _Los Paletas_ (Clasificatorio)
+1. #274 _The Brady Bunch_ (Clasificatorio)
 
 ### 2019-2020
 
-- #183 _trying_ (Clasificatorio)
-- #196 _aoc_ (Clasificatorio)
-- #217 _WebCeleb_ (Clasificatorio)
-- #262 _Los Numpys_ (Clasificatorio)
-- #285 _The North Code_ (Clasificatorio)
-- #290 _Alpha Strike_ (Clasificatorio)
-- #382 _SDB_ (Clasificatorio)
+1. #183 _trying_ (Clasificatorio)
+1. #196 _aoc_ (Clasificatorio)
+1. #217 _WebCeleb_ (Clasificatorio)
+1. #262 _Los Numpys_ (Clasificatorio)
+1. #285 _The North Code_ (Clasificatorio)
+1. #290 _Alpha Strike_ (Clasificatorio)
+1. #382 _SDB_ (Clasificatorio)
 
 ### 2020-2021
 
-- #127 _Octagon_ (Clasificatorio)
-- #159 _Equipo Tres_ (Clasificatorio)
-- #239 _Rayo_ (Clasificatorio)
-- #254 _FaZe PePe_ (Clasificatorio)
+1. #127 _Octagon_ (Clasificatorio)
+1. #159 _Equipo Tres_ (Clasificatorio)
+1. #239 _Rayo_ (Clasificatorio)
+1. #254 _FaZe PePe_ (Clasificatorio)
 
 ### 2021-2022
 
-- #86 _Los changoleones_ (Clasificatorio)
-- #89 _Oasis_ (Clasificatorio)
-- #109 _Hello World_ (Clasificatorio)
-- #116 _Tartarus_ (Clasificatorio)
-- #129 _Chamoy_ (Clasificatorio)
-- #149 _Speed Force_ (Clasificatorio)
-- #165 _Equipo Tres_ (Clasificatorio)
-- #215 _DKH3_ (Clasificatorio)
-- #226 _Code Wizards_ (Clasificatorio)
-- #226 _Las intensas_ (Clasificatorio)
-- #226 _White Walkers_ (Clasificatorio)
-- #226 _alpha dinamita_ (Clasificatorio)
+1. #86 _Los changoleones_ (Clasificatorio)
+1. #89 _Oasis_ (Clasificatorio)
+1. #109 _Hello World_ (Clasificatorio)
+1. #116 _Tartarus_ (Clasificatorio)
+1. #129 _Chamoy_ (Clasificatorio)
+1. #149 _Speed Force_ (Clasificatorio)
+1. #165 _Equipo Tres_ (Clasificatorio)
+1. #215 _DKH3_ (Clasificatorio)
+1. #226 _Code Wizards_ (Clasificatorio)
+1. #226 _Las intensas_ (Clasificatorio)
+1. #226 _White Walkers_ (Clasificatorio)
+1. #226 _alpha dinamita_ (Clasificatorio)
 
 ### 2022-2023
 
-- #45 _Equipo alfa buena maravilla onda dinamita escuadrón lobo_ (Regional)
-- #46 _Raptors_ (Regional)
-- #113 _Serendipia_ (Clasificatorio)
-- #179 _Vikings_ (Clasificatorio)
-- #264 _Loric Garde_ (Clasificatorio)
-- #300 _Los puercoespines radiactivos_ (Clasificatorio)
-- #382 _Boolean Autocrats_ (Clasificatorio)
-- #382 _Edgerunners-2077_ (Clasificatorio)
-- #382 _supersónicos_ (Clasificatorio)
+1. #45 _Equipo alfa buena maravilla onda dinamita escuadrón lobo_ (Regional)
+1. #46 _Raptors_ (Regional)
+1. #113 _Serendipia_ (Clasificatorio)
+1. #179 _Vikings_ (Clasificatorio)
+1. #264 _Loric Garde_ (Clasificatorio)
+1. #300 _Los puercoespines radiactivos_ (Clasificatorio)
+1. #382 _Boolean Autocrats_ (Clasificatorio)
+1. #382 _Edgerunners-2077_ (Clasificatorio)
+1. #382 _supersónicos_ (Clasificatorio)
 
 ### 2023-2024
 
-- #67 _The Chosen O(n)es_ (Clasificatorio)
-- #84 _Cyberpsychos_ (Clasificatorio)
-- #129 _DebugX_ (Clasificatorio)
-- #179 _Pastel de 3 Leches_ (Clasificatorio)
-- #195 _Umizoomi_ (Clasificatorio)
-- #220 _JoJoCa_ (Clasificatorio)
-- #249 _DDH_ (Clasificatorio)
+1. #67 _The Chosen O(n)es_ (Clasificatorio)
+1. #84 _Cyberpsychos_ (Clasificatorio)
+1. #129 _DebugX_ (Clasificatorio)
+1. #179 _Pastel de 3 Leches_ (Clasificatorio)
+1. #195 _Umizoomi_ (Clasificatorio)
+1. #220 _JoJoCa_ (Clasificatorio)
+1. #249 _DDH_ (Clasificatorio)
 
 
 

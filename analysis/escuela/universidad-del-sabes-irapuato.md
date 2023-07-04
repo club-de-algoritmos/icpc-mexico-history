@@ -11,11 +11,11 @@
 
 ### 2018-2019
 
-- #394 _SABES_ (Clasificatorio)
+1. #394 _SABES_ (Clasificatorio)
 
 ### 2019-2020
 
-- #382 _SABES_ (Clasificatorio)
+1. #382 _SABES_ (Clasificatorio)
 
 
 

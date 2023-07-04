@@ -12,9 +12,9 @@
 
 ### 2019-2020
 
-- #382 (#98 de TecNM) _Jaosmi_ (Clasificatorio)
-- #382 (#98 de TecNM) _SKYNET_ (Clasificatorio)
-- #382 (#98 de TecNM) _programers_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Jaosmi_ (Clasificatorio)
+1. #382 (#98 de TecNM) _SKYNET_ (Clasificatorio)
+1. #382 (#98 de TecNM) _programers_ (Clasificatorio)
 
 
 

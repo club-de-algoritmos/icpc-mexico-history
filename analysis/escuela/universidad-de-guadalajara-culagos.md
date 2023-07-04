@@ -12,9 +12,9 @@
 
 ### 2018-2019
 
-- #216 _Linces_ (Clasificatorio)
-- #385 _Smart Code_ (Clasificatorio)
-- #394 _Los Eskutia_ (Clasificatorio)
+1. #216 _Linces_ (Clasificatorio)
+1. #385 _Smart Code_ (Clasificatorio)
+1. #394 _Los Eskutia_ (Clasificatorio)
 
 
 

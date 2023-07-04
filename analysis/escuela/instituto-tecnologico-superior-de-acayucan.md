@@ -19,22 +19,22 @@
 
 ### 2019-2020
 
-- #382 (#98 de TecNM) _I-SAP_ (Clasificatorio)
-- #382 (#98 de TecNM) _JARVIS_ (Clasificatorio)
-- #382 (#98 de TecNM) _Joalda_ (Clasificatorio)
-- #382 (#98 de TecNM) _ROCKET1_ (Clasificatorio)
+1. #382 (#98 de TecNM) _I-SAP_ (Clasificatorio)
+1. #382 (#98 de TecNM) _JARVIS_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Joalda_ (Clasificatorio)
+1. #382 (#98 de TecNM) _ROCKET1_ (Clasificatorio)
 
 ### 2021-2022
 
-- #226 (#36 de TecNM) _ITSA-ISC_ (Clasificatorio)
+1. #226 (#36 de TecNM) _ITSA-ISC_ (Clasificatorio)
 
 ### 2022-2023
 
-- #382 (#82 de TecNM) _EMA+=3_ (Clasificatorio)
-- #382 (#82 de TecNM) _ITSA-ISC-2022_ (Clasificatorio)
-- #382 (#82 de TecNM) _MHOSAR_ (Clasificatorio)
-- #382 (#82 de TecNM) _student.py_ (Clasificatorio)
-- #382 (#82 de TecNM) _umizoomi_ (Clasificatorio)
+1. #382 (#82 de TecNM) _EMA+=3_ (Clasificatorio)
+1. #382 (#82 de TecNM) _ITSA-ISC-2022_ (Clasificatorio)
+1. #382 (#82 de TecNM) _MHOSAR_ (Clasificatorio)
+1. #382 (#82 de TecNM) _student.py_ (Clasificatorio)
+1. #382 (#82 de TecNM) _umizoomi_ (Clasificatorio)
 
 
 

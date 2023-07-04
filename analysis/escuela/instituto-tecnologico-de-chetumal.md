@@ -10,7 +10,7 @@
 
 ### 2020-2021
 
-- #351 (#65 de TecNM) _Mapaches Chetumal_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Mapaches Chetumal_ (Clasificatorio)
 
 
 

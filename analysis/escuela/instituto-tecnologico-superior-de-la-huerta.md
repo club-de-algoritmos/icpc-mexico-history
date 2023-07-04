@@ -11,11 +11,11 @@
 
 ### 2017-2018
 
-- #405 (#97 de TecNM) _HUERTA´S CREW_ (Clasificatorio)
+1. #405 (#97 de TecNM) _HUERTA´S CREW_ (Clasificatorio)
 
 ### 2019-2020
 
-- #382 (#98 de TecNM) _Hello World_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Hello World_ (Clasificatorio)
 
 
 

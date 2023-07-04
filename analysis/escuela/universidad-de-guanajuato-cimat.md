@@ -21,37 +21,39 @@
 
 ### 2010-2011
 
-- #74 _Manowar_ (Final Mundial)
+1. #1 _Manowar_ (Regional)
+    - Avanzó a la final mundial y resolvió 2 problemas obtuviendo el lugar #74 (30%) en 35th Annual World Finals of the ACM International Collegiate Programming Contest
 
 ### 2011-2012
 
-- #80 _Manowar_ (Final Mundial)
+1. #1 _Manowar_ (Regional)
+    - Avanzó a la final mundial y resolvió 2 problemas obtuviendo el lugar #80 (29%) en 36th Annual World Finals of the ACM International Collegiate Programming Contest
 
 ### 2012-2013
 
-- #6 _Nautilus_ (Regional)
-- #7 _DragonCurve_ (Regional)
+1. #6 _Nautilus_ (Regional)
+1. #7 _DragonCurve_ (Regional)
 
 ### 2013-2014
 
-- #11 _Nautilus_ (Regional)
+1. #11 _Nautilus_ (Regional)
 
 ### 2014-2015
 
-- #5 _NNN No es Nautilus_ (Regional)
-- #8 _Delta_ (Regional)
-- #23 _Los otros del cimat_ (Clasificatorio)
-- #31 _Triforce coders_ (Clasificatorio)
-- #179 _Mohajona_ (Clasificatorio)
+1. #5 _NNN No es Nautilus_ (Regional)
+1. #8 _Delta_ (Regional)
+1. #23 _Los otros del cimat_ (Clasificatorio)
+1. #31 _Triforce coders_ (Clasificatorio)
+1. #179 _Mohajona_ (Clasificatorio)
 
 ### 2015-2016
 
-- #6 _#include "Shell.h"_ (Regional)
-- #13 _E3_ (Regional)
-- #100 _Mexican duo and a Guatemalan_ (Clasificatorio)
-- #104 _Fractal Fox_ (Clasificatorio)
-- #108 _Tapatíos_ (Clasificatorio)
-- #108 _string = "Team J-K-V"_ (Clasificatorio)
+1. #6 _#include "Shell.h"_ (Regional)
+1. #13 _E3_ (Regional)
+1. #100 _Mexican duo and a Guatemalan_ (Clasificatorio)
+1. #104 _Fractal Fox_ (Clasificatorio)
+1. #108 _Tapatíos_ (Clasificatorio)
+1. #108 _string = "Team J-K-V"_ (Clasificatorio)
 
 
 

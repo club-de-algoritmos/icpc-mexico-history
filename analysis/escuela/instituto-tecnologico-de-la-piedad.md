@@ -17,20 +17,20 @@
 
 ### 2019-2020
 
-- #382 (#98 de TecNM) _Mecabot_ (Clasificatorio)
-- #382 (#98 de TecNM) _Smart Bytes_ (Clasificatorio)
-- #382 (#98 de TecNM) _TEAM DINAMITA_ (Clasificatorio)
-- #382 (#98 de TecNM) _TicsOlds_ (Clasificatorio)
-- #382 (#98 de TecNM) _Tres veces perfecto_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Mecabot_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Smart Bytes_ (Clasificatorio)
+1. #382 (#98 de TecNM) _TEAM DINAMITA_ (Clasificatorio)
+1. #382 (#98 de TecNM) _TicsOlds_ (Clasificatorio)
+1. #382 (#98 de TecNM) _Tres veces perfecto_ (Clasificatorio)
 
 ### 2020-2021
 
-- #351 (#65 de TecNM) _Smart Bytes_ (Clasificatorio)
-- #351 (#65 de TecNM) _Stranger Team_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Smart Bytes_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Stranger Team_ (Clasificatorio)
 
 ### 2021-2022
 
-- #226 (#36 de TecNM) _SmartBytes_ (Clasificatorio)
+1. #226 (#36 de TecNM) _SmartBytes_ (Clasificatorio)
 
 
 

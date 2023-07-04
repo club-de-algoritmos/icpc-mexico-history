@@ -11,8 +11,8 @@
 
 ### 2009-2010
 
-- #116 _Isla_ (Regional)
-- #116 _Isla++_ (Regional)
+1. #116 _Isla_ (Regional)
+1. #116 _Isla++_ (Regional)
 
 
 

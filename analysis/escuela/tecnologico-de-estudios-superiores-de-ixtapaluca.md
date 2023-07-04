@@ -11,11 +11,11 @@
 
 ### 2020-2021
 
-- #351 _Wozk_ (Clasificatorio)
+1. #351 _Wozk_ (Clasificatorio)
 
 ### 2022-2023
 
-- #382 _Escuadron Alpha-Lobo_ (Clasificatorio)
+1. #382 _Escuadron Alpha-Lobo_ (Clasificatorio)
 
 
 

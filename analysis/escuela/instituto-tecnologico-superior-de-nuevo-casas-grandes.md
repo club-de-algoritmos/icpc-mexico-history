@@ -17,20 +17,20 @@
 
 ### 2020-2021
 
-- #297 (#39 de TecNM) _BinaryFox_ (Clasificatorio)
-- #351 (#65 de TecNM) _Capuchino Team_ (Clasificatorio)
-- #351 (#65 de TecNM) _Tacos_ (Clasificatorio)
+1. #297 (#39 de TecNM) _BinaryFox_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Capuchino Team_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Tacos_ (Clasificatorio)
 
 ### 2021-2022
 
-- #226 (#36 de TecNM) _ITSNCG_ (Clasificatorio)
+1. #226 (#36 de TecNM) _ITSNCG_ (Clasificatorio)
 
 ### 2022-2023
 
-- #382 (#82 de TecNM) _.jar_ (Clasificatorio)
-- #382 (#82 de TecNM) _BinaryFox_ (Clasificatorio)
-- #382 (#82 de TecNM) _Kim Ten_ (Clasificatorio)
-- #382 (#82 de TecNM) _NavBros _ (Clasificatorio)
+1. #382 (#82 de TecNM) _.jar_ (Clasificatorio)
+1. #382 (#82 de TecNM) _BinaryFox_ (Clasificatorio)
+1. #382 (#82 de TecNM) _Kim Ten_ (Clasificatorio)
+1. #382 (#82 de TecNM) _NavBros _ (Clasificatorio)
 
 
 

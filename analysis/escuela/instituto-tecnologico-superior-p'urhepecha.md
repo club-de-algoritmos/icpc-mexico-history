@@ -18,24 +18,24 @@
 
 ### 2011-2012
 
-- #104 (#33 de TecNM) _Antrax_ (Regional)
-- #104 (#33 de TecNM) _Back Track_ (Regional)
+1. #104 (#33 de TecNM) _Antrax_ (Regional)
+1. #104 (#33 de TecNM) _Back Track_ (Regional)
 
 ### 2012-2013
 
-- #134 (#53 de TecNM) _alfa_ (Regional)
-- #134 (#53 de TecNM) _beta_ (Regional)
+1. #134 (#53 de TecNM) _alfa_ (Regional)
+1. #134 (#53 de TecNM) _beta_ (Regional)
 
 ### 2013-2014
 
-- #95 (#24 de TecNM) _CRUX_ (Regional)
-- #95 (#24 de TecNM) _Kaus_ (Regional)
-- #95 (#24 de TecNM) _POLARIS_ (Regional)
+1. #95 (#24 de TecNM) _CRUX_ (Regional)
+1. #95 (#24 de TecNM) _Kaus_ (Regional)
+1. #95 (#24 de TecNM) _POLARIS_ (Regional)
 
 ### 2020-2021
 
-- #351 (#65 de TecNM) _keri_1_ (Clasificatorio)
-- #351 (#65 de TecNM) _keri_2_ (Clasificatorio)
+1. #351 (#65 de TecNM) _keri_1_ (Clasificatorio)
+1. #351 (#65 de TecNM) _keri_2_ (Clasificatorio)
 
 
 

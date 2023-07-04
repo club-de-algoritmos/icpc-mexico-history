@@ -10,7 +10,7 @@
 
 ### 2018-2019
 
-- #394 _Los Sanchez_ (Clasificatorio)
+1. #394 _Los Sanchez_ (Clasificatorio)
 
 
 

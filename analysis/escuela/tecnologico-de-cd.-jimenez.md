@@ -12,9 +12,9 @@
 
 ### 2022-2023
 
-- #382 _ADC_ (Clasificatorio)
-- #382 _Dragos Team_ (Clasificatorio)
-- #382 _TEC JIMENEZ_ (Clasificatorio)
+1. #382 _ADC_ (Clasificatorio)
+1. #382 _Dragos Team_ (Clasificatorio)
+1. #382 _TEC JIMENEZ_ (Clasificatorio)
 
 
 

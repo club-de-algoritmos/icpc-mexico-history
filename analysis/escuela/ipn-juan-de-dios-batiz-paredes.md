@@ -18,27 +18,27 @@
 
 ### 2004-2005
 
-- #74 _Titanes_ (Regional)
+1. #74 _Titanes_ (Regional)
 
 ### 2005-2006
 
-- #26 _UPIITA-2_ (Regional)
-- #85 _UPIITA-1_ (Regional)
+1. #26 _UPIITA-2_ (Regional)
+1. #85 _UPIITA-1_ (Regional)
 
 ### 2006-2007
 
-- #39 _UPIITA-II_ (Regional)
-- #45 _UPIITA-I_ (Regional)
+1. #39 _UPIITA-II_ (Regional)
+1. #45 _UPIITA-I_ (Regional)
 
 ### 2007-2008
 
-- #9 _Fogoneros_ (Regional)
-- #61 _MonsterSee_ (Regional)
+1. #9 _Fogoneros_ (Regional)
+1. #61 _MonsterSee_ (Regional)
 
 ### 2008-2009
 
-- #73 _Fogoneros_ (Regional)
-- #101 _BatizChicos_ (Regional)
+1. #73 _Fogoneros_ (Regional)
+1. #101 _BatizChicos_ (Regional)
 
 
 

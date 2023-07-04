@@ -10,7 +10,7 @@
 
 ### 2018-2019
 
-- #394 _ACK0_ (Clasificatorio)
+1. #394 _ACK0_ (Clasificatorio)
 
 
 

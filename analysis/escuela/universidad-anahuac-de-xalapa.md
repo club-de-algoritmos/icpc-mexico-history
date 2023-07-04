@@ -10,7 +10,7 @@
 
 ### 2003-2004
 
-- #41 _uax-t_ (Regional)
+1. #41 _uax-t_ (Regional)
 
 
 

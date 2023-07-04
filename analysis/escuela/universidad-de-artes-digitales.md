@@ -10,7 +10,7 @@
 
 ### 2011-2012
 
-- #104 _El que sea_ (Regional)
+1. #104 _El que sea_ (Regional)
 
 
 

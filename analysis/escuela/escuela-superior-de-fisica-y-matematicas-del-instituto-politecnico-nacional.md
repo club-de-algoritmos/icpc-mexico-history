@@ -19,31 +19,31 @@
 
 ### 2020-2021
 
-- #37 _Void Guys_ (Regional)
-- #44 _BFF (Brute Force Friend's) TLE :'v_ (Regional)
-- #210 _The Gauss' Fellows_ (Clasificatorio)
+1. #37 _Void Guys_ (Regional)
+1. #44 _BFF (Brute Force Friend's) TLE :'v_ (Regional)
+1. #210 _The Gauss' Fellows_ (Clasificatorio)
 
 ### 2021-2022
 
-- #42 _Los pininos_ (Regional)
-- #43 _Void guys_ (Regional)
-- #76 _MME++.py_ (Clasificatorio)
-- #90 _BFFs (Brute Force Friends) < 3_ (Clasificatorio)
-- #115 _Hornet_ (Clasificatorio)
-- #170 _Aquíno_ (Clasificatorio)
+1. #42 _Los pininos_ (Regional)
+1. #43 _Void guys_ (Regional)
+1. #76 _MME++.py_ (Clasificatorio)
+1. #90 _BFFs (Brute Force Friends) < 3_ (Clasificatorio)
+1. #115 _Hornet_ (Clasificatorio)
+1. #170 _Aquíno_ (Clasificatorio)
 
 ### 2022-2023
 
-- #83 _BFFs(Brute Force Friends)<3_ (Clasificatorio)
-- #261 _Void Guys_ (Clasificatorio)
-- #382 _Eigen-bros_ (Clasificatorio)
+1. #83 _BFFs(Brute Force Friends)<3_ (Clasificatorio)
+1. #261 _Void Guys_ (Clasificatorio)
+1. #382 _Eigen-bros_ (Clasificatorio)
 
 ### 2023-2024
 
-- #68 _Nahuales del Mictlán_ (Clasificatorio)
-- #236 _Fenix*z_ (Clasificatorio)
-- #262 _Campo Real_ (Clasificatorio)
-- #285 _Itzamná_ (Clasificatorio)
+1. #68 _Nahuales del Mictlán_ (Clasificatorio)
+1. #236 _Fenix*z_ (Clasificatorio)
+1. #262 _Campo Real_ (Clasificatorio)
+1. #285 _Itzamná_ (Clasificatorio)
 
 
 

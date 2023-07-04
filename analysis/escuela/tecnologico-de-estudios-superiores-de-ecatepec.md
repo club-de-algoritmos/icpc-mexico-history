@@ -15,18 +15,18 @@
 
 ### 2020-2021
 
-- #351 _Ciberneticas TESE_ (Clasificatorio)
-- #351 _KutzIng_ (Clasificatorio)
-- #351 _Xok-TESE_ (Clasificatorio)
+1. #351 _Ciberneticas TESE_ (Clasificatorio)
+1. #351 _KutzIng_ (Clasificatorio)
+1. #351 _Xok-TESE_ (Clasificatorio)
 
 ### 2021-2022
 
-- #226 _Creators of the future_ (Clasificatorio)
-- #226 _Digital Kutzing of TESE_ (Clasificatorio)
+1. #226 _Creators of the future_ (Clasificatorio)
+1. #226 _Digital Kutzing of TESE_ (Clasificatorio)
 
 ### 2022-2023
 
-- #382 _TESEPEQUENSES_ (Clasificatorio)
+1. #382 _TESEPEQUENSES_ (Clasificatorio)
 
 
 

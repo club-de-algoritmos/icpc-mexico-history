@@ -10,7 +10,7 @@
 
 ### 2018-2019
 
-- #73 _HackMachine_ (Regional)
+1. #73 _HackMachine_ (Regional)
 
 
 

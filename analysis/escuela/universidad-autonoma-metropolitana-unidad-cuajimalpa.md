@@ -19,38 +19,38 @@
 
 ### 2006-2007
 
-- #81 _UAM Iztapalapa_ (Regional)
+1. #81 _UAM Iztapalapa_ (Regional)
 
 ### 2011-2012
 
-- #63 _UAM Cuajimalpa_ (Regional)
+1. #63 _UAM Cuajimalpa_ (Regional)
 
 ### 2013-2014
 
-- #92 _UAM CUAJIMALPA 2013_ (Regional)
+1. #92 _UAM CUAJIMALPA 2013_ (Regional)
 
 ### 2014-2015
 
-- #39 _UAM Cuajimalpa 2014-Compu_ (Regional)
+1. #39 _UAM Cuajimalpa 2014-Compu_ (Regional)
 
 ### 2015-2016
 
-- #32 _UAM Cuajimalpa 2015 A_ (Regional)
-- #78 _UAM Cuajimalpa 2015 B_ (Regional)
+1. #32 _UAM Cuajimalpa 2015 A_ (Regional)
+1. #78 _UAM Cuajimalpa 2015 B_ (Regional)
 
 ### 2016-2017
 
-- #26 _UAMC A_ (Regional)
-- #121 _UAMC 2016 A_ (Clasificatorio)
-- #121 _UAMC 2016 B_ (Clasificatorio)
-- #121 _UAMC 2016 C_ (Clasificatorio)
-- #121 _UAMC 2016 D_ (Clasificatorio)
-- #121 _UAMC 2016 E_ (Clasificatorio)
+1. #26 _UAMC A_ (Regional)
+1. #121 _UAMC 2016 A_ (Clasificatorio)
+1. #121 _UAMC 2016 B_ (Clasificatorio)
+1. #121 _UAMC 2016 C_ (Clasificatorio)
+1. #121 _UAMC 2016 D_ (Clasificatorio)
+1. #121 _UAMC 2016 E_ (Clasificatorio)
 
 ### 2017-2018
 
-- #59 _UAMC A_ (Regional)
-- #192 _UAMC B_ (Clasificatorio)
+1. #59 _UAMC A_ (Regional)
+1. #192 _UAMC B_ (Clasificatorio)
 
 
 

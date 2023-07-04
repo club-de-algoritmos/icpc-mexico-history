@@ -12,15 +12,15 @@
 
 ### 2001-2002
 
-- #50 _IEST_ (Regional)
+1. #50 _IEST_ (Regional)
 
 ### 2003-2004
 
-- #41 _Los Geeks_ (Regional)
+1. #41 _Los Geeks_ (Regional)
 
 ### 2004-2005
 
-- #35 _SIMON INC_ (Regional)
+1. #35 _SIMON INC_ (Regional)
 
 
 

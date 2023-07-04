@@ -11,11 +11,11 @@
 
 ### 2006-2007
 
-- #86 _uaq 4_ (Regional)
+1. #86 _uaq 4_ (Regional)
 
 ### 2016-2017
 
-- #121 _FI-UACAM_ (Clasificatorio)
+1. #121 _FI-UACAM_ (Clasificatorio)
 
 
 

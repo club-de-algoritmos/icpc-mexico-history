@@ -14,10 +14,10 @@ TeamRank = Tuple[float, FinishedContest, TeamResult]
 class Analyzer:
     def __init__(self, queries: Queries, analysis_path: str):
         self._queries = queries
-        self.analysis_path = analysis_path
+        self._analysis_path = analysis_path
 
     def _get_filename(self, *filepath: str) -> str:
-        return os.path.join(self.analysis_path, *filepath)
+        return os.path.join(self._analysis_path, *filepath)
 
     @log_run_time
     def analyze(self) -> None:
@@ -154,7 +154,7 @@ class Analyzer:
             self._analyze_school(school)
 
     def _analyze_school(self, school: School) -> None:
-        with MarkdownFile(self._get_filename('schools', f'{normalize_as_filename(school.name)}.md')) as markdown:
+        with MarkdownFile(self._get_filename('escuela', f'{normalize_as_filename(school.name)}.md')) as markdown:
             with markdown.section(school.name.title()):
                 if school.country == MEXICO:
                     markdown.paragraph(':warning: Equipos que solo participaron en el Repechaje del '

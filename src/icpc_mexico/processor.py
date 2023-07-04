@@ -191,9 +191,15 @@ def get_schools(contests: List[FinishedContest]) -> List[School]:
             schools.append(School(name=school_name, country='costa rica'))
             continue
 
+        if school_name.startswith('universidad centroamericana'):
+            schools.append(School(name=school_name, country='el salvador'))
+            continue
+
         if ('habana' in school_name
                 or school_name.startswith('universidad de las ciencias informaticas')
-                or school_name.startswith('universidad de oriente')):
+                or school_name.startswith('universidad de oriente')
+                or school_name.startswith('universidad de cienfuegos')
+                or 'camaguey' in school_name):
             schools.append(School(name=school_name, country='cuba'))
             continue
 

@@ -2559,7 +2559,7 @@
     "name": "universidad centroamericana",
     "alt_names": [],
     "community": null,
-    "country": "mexico",
+    "country": "el salvador",
     "state": null,
     "is_eligible": true
   },
@@ -2567,7 +2567,7 @@
     "name": "universidad centroamericana jose simeon canas",
     "alt_names": [],
     "community": null,
-    "country": "cuba",
+    "country": "el salvador",
     "state": null,
     "is_eligible": true
   },
@@ -2583,7 +2583,7 @@
     "name": "universidad de camaguey",
     "alt_names": [],
     "community": null,
-    "country": "mexico",
+    "country": "cuba",
     "state": null,
     "is_eligible": true
   },
@@ -2591,7 +2591,7 @@
     "name": "universidad de cienfuegos",
     "alt_names": [],
     "community": null,
-    "country": "mexico",
+    "country": "cuba",
     "state": null,
     "is_eligible": true
   },

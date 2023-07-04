@@ -1,4 +1,5 @@
 import os
+import shutil
 from collections import defaultdict
 from typing import List, Set, Tuple, Dict, Optional, Any
 
@@ -232,6 +233,11 @@ class Analyzer:
             self._print_school_rankings(markdown, state=state, contest_type=None)
 
     def analyze_schools_by_country(self, country: str) -> None:
+        # Re-create the whole school directory so no longer qualifying schools can be dropped
+        school_dir = self._get_filename('escuela')
+        shutil.rmtree(school_dir, ignore_errors=True)
+        os.mkdir(school_dir)
+
         schools = self._queries.get_schools_by_country(country)
         print(f'Analyzing {len(schools)} schools from {country.title()}')
         for school in schools:

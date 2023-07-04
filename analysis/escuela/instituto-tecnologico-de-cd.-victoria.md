@@ -10,14 +10,25 @@
 
 ## Participaciones
 
-### 2004-2005
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **3** | **0** | **3** |
+| 2004-2005 | 0 | 1 | 0 | 1 |
+| 2008-2009 | 0 | 2 | 0 | 2 |
+
+### Detalle
+
+#### 2004-2005
 
 1. #90 (#22 de TecNM) _stratovarius_ (Regional)
 
-### 2008-2009
+#### 2008-2009
 
 1. #94 (#24 de TecNM) _Bash_ (Regional)
 1. #101 (#26 de TecNM) _TeamGeist_ (Regional)
+
 
 
 

@@ -17,21 +17,42 @@
 
 ## Participaciones
 
-### 2001-2002
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **19** | **84** | **99** |
+| 2001-2002 | 0 | 3 | 0 | 3 |
+| 2005-2006 | 0 | 1 | 0 | 1 |
+| 2006-2007 | 0 | 1 | 0 | 1 |
+| 2012-2013 | 0 | 5 | 0 | 5 |
+| 2013-2014 | 0 | 4 | 0 | 4 |
+| 2014-2015 | 0 | 2 | 6 | 7 |
+| 2015-2016 | 0 | 2 | 13 | 13 |
+| 2016-2017 | 0 | 1 | 10 | 10 |
+| 2017-2018 | 0 | 0 | 12 | 12 |
+| 2018-2019 | 0 | 0 | 15 | 15 |
+| 2019-2020 | 0 | 0 | 20 | 20 |
+| 2022-2023 | 0 | 0 | 6 | 6 |
+| 2023-2024 | 0 | 0 | 2 | 2 |
+
+### Detalle
+
+#### 2001-2002
 
 1. #31 _UAM2S 3_ (Regional)
 1. #55 _UAM2S 1_ (Regional)
 1. #55 _UAM2S 2_ (Regional)
 
-### 2005-2006
+#### 2005-2006
 
 1. #85 _UAT_ (Regional)
 
-### 2006-2007
+#### 2006-2007
 
 1. #85 _MDS_ (Regional)
 
-### 2012-2013
+#### 2012-2013
 
 1. #108 _Softluciones_ (Regional)
 1. #111 _Skynet_ (Regional)
@@ -39,14 +60,14 @@
 1. #131 _IntsystXXI_ (Regional)
 1. #134 _Teamwork_ (Regional)
 
-### 2013-2014
+#### 2013-2014
 
 1. #88 _Ubicuo_ (Regional)
 1. #95 _InSyst_ (Regional)
 1. #95 _System.GC_ (Regional)
 1. #95 _TeamWork_ (Regional)
 
-### 2014-2015
+#### 2014-2015
 
 1. #45 _Ami-UbiCom_ (Regional)
 1. #56 _Pinki pie_ (Regional)
@@ -56,7 +77,7 @@
 1. #204 _Sin apoyo_ (Clasificatorio)
 1. #204 _Spiders_ (Clasificatorio)
 
-### 2015-2016
+#### 2015-2016
 
 1. #28 _Pinky_Pie_ (Regional)
 1. #57 _System.GC_ (Clasificatorio)
@@ -72,7 +93,7 @@
 1. #108 _TheCode_ (Clasificatorio)
 1. #108 _WhileTrue_ (Clasificatorio)
 
-### 2016-2017
+#### 2016-2017
 
 1. #79 _AmI-UbiCom_ (Regional)
 1. #121 _Apple Inc_ (Clasificatorio)
@@ -85,7 +106,7 @@
 1. #121 _The masters_ (Clasificatorio)
 1. #121 _Thug Life_ (Clasificatorio)
 
-### 2017-2018
+#### 2017-2018
 
 1. #78 _AmIUbiCom-Rojo_ (Clasificatorio)
 1. #122 _AmIUbiCom-Azul_ (Clasificatorio)
@@ -100,7 +121,7 @@
 1. #405 _Codenant_ (Clasificatorio)
 1. #405 _TheProgrammersLeague_ (Clasificatorio)
 
-### 2018-2019
+#### 2018-2019
 
 1. #73 _AmI-UbiCom Cafe_ (Clasificatorio)
 1. #215 _AmI-UbiCom Verde_ (Clasificatorio)
@@ -118,7 +139,7 @@
 1. #394 _Soso's Team_ (Clasificatorio)
 1. #394 _Team Rocket_ (Clasificatorio)
 
-### 2019-2020
+#### 2019-2020
 
 1. #140 _JAVAlimos_ (Clasificatorio)
 1. #143 _Origins_ (Clasificatorio)
@@ -141,7 +162,7 @@
 1. #382 _Team mo_ (Clasificatorio)
 1. #382 _Tony's Team_ (Clasificatorio)
 
-### 2022-2023
+#### 2022-2023
 
 1. #187 _Tiburoncin U AH! AH!_ (Clasificatorio)
 1. #212 _Pingüinos Loco_ (Clasificatorio)
@@ -150,10 +171,11 @@
 1. #316 _Castores media_ (Clasificatorio)
 1. #334 _Miramar raccoons_ (Clasificatorio)
 
-### 2023-2024
+#### 2023-2024
 
 1. #110 _Los Papus Pro_ (Clasificatorio)
 1. #124 _TDManiaticos_ (Clasificatorio)
+
 
 
 

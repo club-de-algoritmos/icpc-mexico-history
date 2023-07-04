@@ -17,7 +17,34 @@
 
 ## Participaciones
 
-### 2002-2003
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **60** | **689** | **739** |
+| 2002-2003 | 0 | 5 | 0 | 5 |
+| 2003-2004 | 0 | 3 | 0 | 3 |
+| 2004-2005 | 0 | 3 | 0 | 3 |
+| 2008-2009 | 0 | 21 | 0 | 21 |
+| 2009-2010 | 0 | 3 | 0 | 3 |
+| 2010-2011 | 0 | 4 | 0 | 4 |
+| 2011-2012 | 0 | 3 | 0 | 3 |
+| 2012-2013 | 0 | 4 | 0 | 4 |
+| 2013-2014 | 0 | 2 | 0 | 2 |
+| 2014-2015 | 0 | 1 | 5 | 5 |
+| 2015-2016 | 0 | 2 | 14 | 14 |
+| 2016-2017 | 0 | 2 | 89 | 89 |
+| 2017-2018 | 0 | 3 | 118 | 118 |
+| 2018-2019 | 0 | 1 | 231 | 231 |
+| 2019-2020 | 0 | 0 | 211 | 211 |
+| 2020-2021 | 0 | 0 | 1 | 1 |
+| 2021-2022 | 0 | 0 | 6 | 6 |
+| 2022-2023 | 0 | 3 | 9 | 11 |
+| 2023-2024 | 0 | 0 | 5 | 5 |
+
+### Detalle
+
+#### 2002-2003
 
 1. #27 _ITESO_1_ (Regional)
 1. #27 _ITESO_2_ (Regional)
@@ -25,19 +52,19 @@
 1. #27 _Origen_ (Regional)
 1. #27 _Therionizer_ (Regional)
 
-### 2003-2004
+#### 2003-2004
 
 1. #7 _ACRUX_ (Regional)
 1. #27 _Iteso_ (Regional)
 1. #41 _ITESO ++_ (Regional)
 
-### 2004-2005
+#### 2004-2005
 
 1. #6 _ACRUX_ (Regional)
 1. #44 _UDACHA_ (Regional)
 1. #48 _ItesoX_ (Regional)
 
-### 2008-2009
+#### 2008-2009
 
 1. #6 _Mezcla_ (Regional)
 1. #9 _Code Dream_ (Regional)
@@ -61,38 +88,38 @@
 1. #101 _Sylber_ (Regional)
 1. #101 _VL2000_ (Regional)
 
-### 2009-2010
+#### 2009-2010
 
 1. #39 _Seven_ (Regional)
 1. #43 _Tezcatlipoca_ (Regional)
 1. #61 _Sylber Dynamics_ (Regional)
 
-### 2010-2011
+#### 2010-2011
 
 1. #13 _LOL_ (Regional)
 1. #21 _Olimpicos_ (Regional)
 1. #75 _Tezcaltlipoca_ (Regional)
 1. #120 _Overcloaked_ (Regional)
 
-### 2011-2012
+#### 2011-2012
 
 1. #23 _Cheerios_ (Regional)
 1. #104 _10 geeks 100 ever_ (Regional)
 1. #104 _Quorum_ (Regional)
 
-### 2012-2013
+#### 2012-2013
 
 1. #24 _Parabolic Octopi_ (Regional)
 1. #86 _m3xicanos_ (Regional)
 1. #102 _Default Default_ (Regional)
 1. #110 _LA RÉSISTANCE_ (Regional)
 
-### 2013-2014
+#### 2013-2014
 
 1. #29 _Automatoes_ (Regional)
 1. #42 _Los hijos de Piza_ (Regional)
 
-### 2014-2015
+#### 2014-2015
 
 1. #45 _Los Hijos de Piza_ (Regional)
 1. #37 _Time Limit Exceeded_ (Clasificatorio)
@@ -100,7 +127,7 @@
 1. #161 _DAN_ (Clasificatorio)
 1. #177 _Automatoes_ (Clasificatorio)
 
-### 2015-2016
+#### 2015-2016
 
 1. #40 _KDT_ (Regional)
 1. #50 _Überclock_ (Regional)
@@ -117,7 +144,7 @@
 1. #108 _Shockwave Intruders_ (Clasificatorio)
 1. #108 _Topo: La resurreccion_ (Clasificatorio)
 
-### 2016-2017
+#### 2016-2017
 
 1. #55 _MachineGuns_ (Regional)
 1. #81 _KDT_ (Regional)
@@ -209,7 +236,7 @@
 1. #121 _mildreth5_ (Clasificatorio)
 1. #121 _nikolas1_ (Clasificatorio)
 
-### 2017-2018
+#### 2017-2018
 
 1. #30 _KDT_ (Regional)
 1. #56 _MachineGuns_ (Regional)
@@ -330,7 +357,7 @@
 1. #405 _ZAD_ (Clasificatorio)
 1. #405 _Zunis_ (Clasificatorio)
 
-### 2018-2019
+#### 2018-2019
 
 1. #35 _KDT_ (Regional)
 1. #69 _Alivianados_ (Clasificatorio)
@@ -564,7 +591,7 @@
 1. #395 _TRENCH_ (Clasificatorio)
 1. #395 _ULTIMO LUGAR_ (Clasificatorio)
 
-### 2019-2020
+#### 2019-2020
 
 1. #162 _Las comadres_ (Clasificatorio)
 1. #382 _2 Tercios_jorgemr_ (Clasificatorio)
@@ -778,11 +805,11 @@
 1. #382 _jz Reyes del Aguacate_ (Clasificatorio)
 1. #382 _nanoelectronicos_ (Clasificatorio)
 
-### 2020-2021
+#### 2020-2021
 
 1. #351 _Sistemas ITESO_ (Clasificatorio)
 
-### 2021-2022
+#### 2021-2022
 
 1. #151 _BAL-Force_ (Clasificatorio)
 1. #173 _Neko beasts_ (Clasificatorio)
@@ -791,7 +818,7 @@
 1. #223 _Red Squadron_ (Clasificatorio)
 1. #226 _JAB_ (Clasificatorio)
 
-### 2022-2023
+#### 2022-2023
 
 1. #43 _Los colados_ (Regional)
 1. #49 _Hijos de Piza 5_ (Regional)
@@ -805,13 +832,14 @@
 1. #382 _Err("Team not found")_ (Clasificatorio)
 1. #382 _pydudes_ (Clasificatorio)
 
-### 2023-2024
+#### 2023-2024
 
 1. #82 _Red Squadron 2023_ (Clasificatorio)
 1. #85 _Ingeniebrios_ (Clasificatorio)
 1. #108 _Hijos de Gatica_ (Clasificatorio)
 1. #181 _Tilines ICPC_ (Clasificatorio)
 1. #229 _Codisaurios_ (Clasificatorio)
+
 
 
 

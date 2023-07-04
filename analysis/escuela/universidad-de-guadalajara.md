@@ -18,26 +18,41 @@
 
 ## Participaciones
 
-### 2002-2003
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **1** | **11** | **4** | **15** |
+| 2002-2003 | 0 | 2 | 0 | 2 |
+| 2003-2004 | 0 | 1 | 0 | 1 |
+| 2004-2005 | 0 | 2 | 0 | 2 |
+| 2005-2006 | 0 | 2 | 0 | 2 |
+| 2007-2008 | 1 | 4 | 0 | 4 |
+| 2022-2023 | 0 | 0 | 3 | 3 |
+| 2023-2024 | 0 | 0 | 1 | 1 |
+
+### Detalle
+
+#### 2002-2003
 
 1. #11 _Leones de Guadalajara_ (Regional)
 1. #27 _Patitox CUCEI_ (Regional)
 
-### 2003-2004
+#### 2003-2004
 
 1. #41 _Leones Rechazados_ (Regional)
 
-### 2004-2005
+#### 2004-2005
 
 1. #85 _Valles UdeG_ (Regional)
 1. #87 _Cuvallitos UdeG_ (Regional)
 
-### 2005-2006
+#### 2005-2006
 
 1. #85 _Cuvalles UdeG_ (Regional)
 1. #85 _Cuvallitos_ (Regional)
 
-### 2007-2008
+#### 2007-2008
 
 1. #1 _U de G ACM Problem Solvers_ (Regional)
     - Avanzó a la final mundial y resolvió 2 problemas obtuviendo el lugar #65 (35%) en The 2008 ACM Programming Contest World Finals
@@ -45,15 +60,16 @@
 1. #51 _Veni Programmi Victi_ (Regional)
 1. #61 _Untitled_ (Regional)
 
-### 2022-2023
+#### 2022-2023
 
 1. #382 _Sons Of Tanenbaum_ (Clasificatorio)
 1. #382 _system32_ (Clasificatorio)
 1. #382 _telematicos_ (Clasificatorio)
 
-### 2023-2024
+#### 2023-2024
 
 1. #369 _Los Zermeñitos_ (Clasificatorio)
+
 
 
 

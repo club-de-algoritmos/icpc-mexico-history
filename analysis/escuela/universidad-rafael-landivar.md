@@ -9,13 +9,24 @@
 
 ## Participaciones
 
-### 2001-2002
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **2** | **0** | **2** |
+| 2001-2002 | 0 | 1 | 0 | 1 |
+| 2003-2004 | 0 | 1 | 0 | 1 |
+
+### Detalle
+
+#### 2001-2002
 
 1. #8 _URL-Excelencia_ (Regional)
 
-### 2003-2004
+#### 2003-2004
 
 1. #41 _URL-DAC_ (Regional)
+
 
 
 

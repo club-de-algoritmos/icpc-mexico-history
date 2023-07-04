@@ -8,9 +8,19 @@
 
 ## Participaciones
 
-### 2010-2011
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **1** | **0** | **1** |
+| 2010-2011 | 0 | 1 | 0 | 1 |
+
+### Detalle
+
+#### 2010-2011
 
 1. #156 _Tonala-1_ (Regional)
+
 
 
 

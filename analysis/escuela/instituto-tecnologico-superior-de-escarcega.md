@@ -17,11 +17,22 @@
 
 ## Participaciones
 
-### 2020-2021
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **15** | **15** |
+| 2020-2021 | 0 | 0 | 1 | 1 |
+| 2021-2022 | 0 | 0 | 6 | 6 |
+| 2022-2023 | 0 | 0 | 8 | 8 |
+
+### Detalle
+
+#### 2020-2021
 
 1. #351 (#65 de TecNM) _Jaguares1_ (Clasificatorio)
 
-### 2021-2022
+#### 2021-2022
 
 1. #226 (#36 de TecNM) _JAGUARES_A_ (Clasificatorio)
 1. #226 (#36 de TecNM) _JAGUARES_B_ (Clasificatorio)
@@ -30,7 +41,7 @@
 1. #226 (#36 de TecNM) _JAGUARES_E_ (Clasificatorio)
 1. #226 (#36 de TecNM) _Jaguarundis Mayas_ (Clasificatorio)
 
-### 2022-2023
+#### 2022-2023
 
 1. #382 (#82 de TecNM) _Alpha Team_ (Clasificatorio)
 1. #382 (#82 de TecNM) _CRIABKE TEAM_ (Clasificatorio)
@@ -40,6 +51,7 @@
 1. #382 (#82 de TecNM) _SAJUMI TEAM_ (Clasificatorio)
 1. #382 (#82 de TecNM) _TeamInges_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Tlacuaches_ (Clasificatorio)
+
 
 
 

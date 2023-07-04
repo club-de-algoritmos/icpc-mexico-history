@@ -8,9 +8,19 @@
 
 ## Participaciones
 
-### 2013-2014
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **1** | **0** | **1** |
+| 2013-2014 | 0 | 1 | 0 | 1 |
+
+### Detalle
+
+#### 2013-2014
 
 1. #95 _Los Paralelos_ (Regional)
+
 
 
 

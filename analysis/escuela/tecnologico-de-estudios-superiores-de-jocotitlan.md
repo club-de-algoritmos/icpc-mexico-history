@@ -17,12 +17,24 @@
 
 ## Participaciones
 
-### 2015-2016
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **16** | **16** |
+| 2015-2016 | 0 | 0 | 2 | 2 |
+| 2020-2021 | 0 | 0 | 6 | 6 |
+| 2021-2022 | 0 | 0 | 7 | 7 |
+| 2022-2023 | 0 | 0 | 1 | 1 |
+
+### Detalle
+
+#### 2015-2016
 
 1. #105 _TESJo_ (Clasificatorio)
 1. #108 _Lobos TESJo_ (Clasificatorio)
 
-### 2020-2021
+#### 2020-2021
 
 1. #351 _Los Chiclosillos_ (Clasificatorio)
 1. #351 _Novatos_ (Clasificatorio)
@@ -31,7 +43,7 @@
 1. #351 _Umisumi_ (Clasificatorio)
 1. #351 _los internautas_ (Clasificatorio)
 
-### 2021-2022
+#### 2021-2022
 
 1. #226 _ Botsitos_ (Clasificatorio)
 1. #226 _ALITER_ (Clasificatorio)
@@ -41,9 +53,10 @@
 1. #226 _Fantasticos_ (Clasificatorio)
 1. #226 _Marbelu_ (Clasificatorio)
 
-### 2022-2023
+#### 2022-2023
 
 1. #382 _ Botsitos_ (Clasificatorio)
+
 
 
 

@@ -65,8 +65,11 @@ class Analyzer:
 
     def _print_participation_stats(self,
                                    markdown: Markdown,
+                                   title: str = 'Participaciones',
                                    community: Optional[SchoolCommunity] = None,
                                    state: Optional[str] = None,
+                                   school: Optional[School] = None,
+                                   skip_empty: bool = False,
                                    ) -> None:
         participations_table = []
         totals = [0, 0, 0, 0]
@@ -79,6 +82,8 @@ class Analyzer:
                     continue
                 if state and state != team.school.state:
                     continue
+                if school and school != team.school:
+                    continue
 
                 if team.world_result:
                     stats[0] += 1
@@ -88,6 +93,9 @@ class Analyzer:
                     stats[2] += 1
                 stats[3] += 1
 
+            if skip_empty and sum(stats) == 0:
+                continue
+
             for i in range(len(totals)):
                 totals[i] += stats[i]
 
@@ -95,7 +103,7 @@ class Analyzer:
 
         participations_table.insert(0, ['**Total**'] + [f'**{total}**' for total in totals])
 
-        with markdown.section('Participaciones'):
+        with markdown.section(title):
             markdown.table(['Temporada', 'Finales mundiales', 'Regionales', 'Clasificatorios', 'Total'],
                            participations_table)
 
@@ -244,9 +252,12 @@ class Analyzer:
                                              display_school=False)
 
                 with markdown.section('Participaciones'):
-                    for season in self._queries.contest_seasons:
-                        season_teams = [team for team in season.teams if team.school == school]
-                        self._print_simple_ranking(season.name, season_teams, markdown, display_school=False)
+                    self._print_participation_stats(markdown, title='Resumen', school=school, skip_empty=True)
+
+                    with markdown.section('Detalle'):
+                        for season in self._queries.contest_seasons:
+                            season_teams = [team for team in season.teams if team.school == school]
+                            self._print_simple_ranking(season.name, season_teams, markdown, display_school=False)
 
     def _print_detailed_ranking(self,
                                 title: str,

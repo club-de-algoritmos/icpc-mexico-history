@@ -8,9 +8,19 @@
 
 ## Participaciones
 
-### 2021-2022
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **1** | **1** |
+| 2021-2022 | 0 | 0 | 1 | 1 |
+
+### Detalle
+
+#### 2021-2022
 
 1. #137 _Flotantes_ (Clasificatorio)
+
 
 
 

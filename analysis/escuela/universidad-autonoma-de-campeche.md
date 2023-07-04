@@ -9,13 +9,24 @@
 
 ## Participaciones
 
-### 2006-2007
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **1** | **1** | **2** |
+| 2006-2007 | 0 | 1 | 0 | 1 |
+| 2016-2017 | 0 | 0 | 1 | 1 |
+
+### Detalle
+
+#### 2006-2007
 
 1. #86 _uaq 4_ (Regional)
 
-### 2016-2017
+#### 2016-2017
 
 1. #121 _FI-UACAM_ (Clasificatorio)
+
 
 
 

@@ -17,37 +17,53 @@
 
 ## Participaciones
 
-### 2001-2002
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **12** | **20** | **32** |
+| 2001-2002 | 0 | 2 | 0 | 2 |
+| 2003-2004 | 0 | 3 | 0 | 3 |
+| 2008-2009 | 0 | 2 | 0 | 2 |
+| 2009-2010 | 0 | 3 | 0 | 3 |
+| 2010-2011 | 0 | 1 | 0 | 1 |
+| 2011-2012 | 0 | 1 | 0 | 1 |
+| 2020-2021 | 0 | 0 | 5 | 5 |
+| 2022-2023 | 0 | 0 | 15 | 15 |
+
+### Detalle
+
+#### 2001-2002
 
 1. #29 (#9 de TecNM) _TecCuautla2_ (Regional)
 1. #34 (#12 de TecNM) _TecCuautla1_ (Regional)
 
-### 2003-2004
+#### 2003-2004
 
 1. #34 (#6 de TecNM) _TecCuautla3_ (Regional)
 1. #37 (#7 de TecNM) _TecCuautla1_ (Regional)
 1. #41 (#9 de TecNM) _TecCuautla2_ (Regional)
 
-### 2008-2009
+#### 2008-2009
 
 1. #79 (#15 de TecNM) _Success_ (Regional)
 1. #101 (#26 de TecNM) _TecCuautla1_ (Regional)
 
-### 2009-2010
+#### 2009-2010
 
 1. #38 (#4 de TecNM) _Success_ (Regional)
 1. #93 (#23 de TecNM) _itCuautla2_ (Regional)
 1. #110 (#29 de TecNM) _itCuautla1_ (Regional)
 
-### 2010-2011
+#### 2010-2011
 
 1. #80 (#10 de TecNM) _Success_ (Regional)
 
-### 2011-2012
+#### 2011-2012
 
 1. #60 (#10 de TecNM) _Success_ (Regional)
 
-### 2020-2021
+#### 2020-2021
 
 1. #351 (#65 de TecNM) _Aspiring Coders_ (Clasificatorio)
 1. #351 (#65 de TecNM) _BMT_ (Clasificatorio)
@@ -55,7 +71,7 @@
 1. #351 (#65 de TecNM) _ROA_ (Clasificatorio)
 1. #351 (#65 de TecNM) _TheChyper_ITC_ (Clasificatorio)
 
-### 2022-2023
+#### 2022-2023
 
 1. #382 (#82 de TecNM) _>TeamNameGoesHere<_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Apple_ (Clasificatorio)
@@ -72,6 +88,7 @@
 1. #382 (#82 de TecNM) _Team Chimichanga_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Titanes Aztecas_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Warr10rs_ (Clasificatorio)
+
 
 
 

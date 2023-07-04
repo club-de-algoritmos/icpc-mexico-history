@@ -8,9 +8,19 @@
 
 ## Participaciones
 
-### 2002-2003
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **1** | **0** | **1** |
+| 2002-2003 | 0 | 1 | 0 | 1 |
+
+### Detalle
+
+#### 2002-2003
 
 1. #27 _Masters_ (Regional)
+
 
 
 

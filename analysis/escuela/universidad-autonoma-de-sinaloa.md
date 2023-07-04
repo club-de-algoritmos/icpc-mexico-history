@@ -17,7 +17,19 @@
 
 ## Participaciones
 
-### 2018-2019
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **20** | **20** |
+| 2018-2019 | 0 | 0 | 7 | 7 |
+| 2019-2020 | 0 | 0 | 4 | 4 |
+| 2022-2023 | 0 | 0 | 4 | 4 |
+| 2023-2024 | 0 | 0 | 5 | 5 |
+
+### Detalle
+
+#### 2018-2019
 
 1. #149 _Aprovecha el bug_ (Clasificatorio)
 1. #346 _AHF4_ (Clasificatorio)
@@ -27,27 +39,28 @@
 1. #394 _Coffee Team_ (Clasificatorio)
 1. #394 _Error 404: Not found_ (Clasificatorio)
 
-### 2019-2020
+#### 2019-2020
 
 1. #135 _The Bytes_ (Clasificatorio)
 1. #351 _Singleton_ (Clasificatorio)
 1. #382 _Código Enigma_ (Clasificatorio)
 1. #382 _TryCatch_ (Clasificatorio)
 
-### 2022-2023
+#### 2022-2023
 
 1. #108 _Nexus_ (Clasificatorio)
 1. #151 _Gods Programming_ (Clasificatorio)
 1. #382 _El Pariente Technologies_ (Clasificatorio)
 1. #382 _Hog Riders_ (Clasificatorio)
 
-### 2023-2024
+#### 2023-2024
 
 1. #133 _THE THREE MUSKETEERS_ (Clasificatorio)
 1. #162 _Nexus_ (Clasificatorio)
 1. #214 _KOZINA_ (Clasificatorio)
 1. #442 _New Jeans_ (Clasificatorio)
 1. #443 _Gods Programming_ (Clasificatorio)
+
 
 
 

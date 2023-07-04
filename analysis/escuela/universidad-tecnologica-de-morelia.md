@@ -11,15 +11,26 @@
 
 ## Participaciones
 
-### 2011-2012
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **4** | **0** | **4** |
+| 2011-2012 | 0 | 2 | 0 | 2 |
+| 2012-2013 | 0 | 2 | 0 | 2 |
+
+### Detalle
+
+#### 2011-2012
 
 1. #86 _UTM Takataka_ (Regional)
 1. #104 _UTM Sorpresa_ (Regional)
 
-### 2012-2013
+#### 2012-2013
 
 1. #48 _UTM_MIX_ (Regional)
 1. #93 _UTM_MEBER_ (Regional)
+
 
 
 

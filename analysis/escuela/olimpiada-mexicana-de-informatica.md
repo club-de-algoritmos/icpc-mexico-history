@@ -14,24 +14,37 @@
 
 ## Participaciones
 
-### 2019-2020
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **5** | **4** | **7** |
+| 2019-2020 | 0 | 1 | 0 | 1 |
+| 2020-2021 | 0 | 1 | 0 | 1 |
+| 2021-2022 | 0 | 1 | 0 | 1 |
+| 2022-2023 | 0 | 2 | 4 | 4 |
+
+### Detalle
+
+#### 2019-2020
 
 1. #54 _Campeones OMI 2019_ (Regional)
 
-### 2020-2021
+#### 2020-2021
 
 1. #58 _Campeones OMI 2020_ (Regional)
 
-### 2021-2022
+#### 2021-2022
 
 1. #55 _Campeones OMI 2021_ (Regional)
 
-### 2022-2023
+#### 2022-2023
 
 1. #56 _equipo_ (Regional)
 1. #56 _Campeones OMI 2022_ (Regional)
 1. #382 _DMC_ (Clasificatorio)
 1. #382 _Turron Verde_ (Clasificatorio)
+
 
 
 

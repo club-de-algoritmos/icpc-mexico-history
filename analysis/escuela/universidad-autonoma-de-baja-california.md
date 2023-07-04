@@ -10,17 +10,29 @@
 
 ## Participaciones
 
-### 2011-2012
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **1** | **2** | **3** |
+| 2011-2012 | 0 | 1 | 0 | 1 |
+| 2021-2022 | 0 | 0 | 1 | 1 |
+| 2023-2024 | 0 | 0 | 1 | 1 |
+
+### Detalle
+
+#### 2011-2012
 
 1. #104 _CIMARRONES_ (Regional)
 
-### 2021-2022
+#### 2021-2022
 
 1. #201 _CIMACODERS_ (Clasificatorio)
 
-### 2023-2024
+#### 2023-2024
 
 1. #291 _Cuasar_ (Clasificatorio)
+
 
 
 

@@ -8,9 +8,19 @@
 
 ## Participaciones
 
-### 2020-2021
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **1** | **1** |
+| 2020-2021 | 0 | 0 | 1 | 1 |
+
+### Detalle
+
+#### 2020-2021
 
 1. #351 (#65 de TecNM) _TOROS BYTE_ (Clasificatorio)
+
 
 
 

@@ -15,22 +15,34 @@
 
 ## Participaciones
 
-### 2009-2010
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **8** | **0** | **8** |
+| 2009-2010 | 0 | 3 | 0 | 3 |
+| 2010-2011 | 0 | 3 | 0 | 3 |
+| 2011-2012 | 0 | 2 | 0 | 2 |
+
+### Detalle
+
+#### 2009-2010
 
 1. #53 _Alpha_ (Regional)
 1. #101 _Epsilon_ (Regional)
 1. #116 _Omicron_ (Regional)
 
-### 2010-2011
+#### 2010-2011
 
 1. #18 _FTW_ (Regional)
 1. #147 _Zergs_ (Regional)
 1. #156 _Protos_ (Regional)
 
-### 2011-2012
+#### 2011-2012
 
 1. #15 _ftw_ (Regional)
 1. #104 _protrolls_ (Regional)
+
 
 
 

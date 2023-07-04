@@ -17,12 +17,22 @@
 
 ## Participaciones
 
-### 2019-2020
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **12** | **12** |
+| 2019-2020 | 0 | 0 | 2 | 2 |
+| 2020-2021 | 0 | 0 | 10 | 10 |
+
+### Detalle
+
+#### 2019-2020
 
 1. #382 _AKB_Penjamo_ (Clasificatorio)
 1. #382 _UPP Correcaminos_ (Clasificatorio)
 
-### 2020-2021
+#### 2020-2021
 
 1. #260 _The last_ (Clasificatorio)
 1. #351 _A2E_ (Clasificatorio)
@@ -34,6 +44,7 @@
 1. #351 _babyCorrecaminos_ (Clasificatorio)
 1. #351 _correcaminos_ (Clasificatorio)
 1. #351 _principiantes.exe_ (Clasificatorio)
+
 
 
 

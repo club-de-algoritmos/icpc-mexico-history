@@ -13,7 +13,16 @@
 
 ## Participaciones
 
-### 2022-2023
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **6** | **6** |
+| 2022-2023 | 0 | 0 | 6 | 6 |
+
+### Detalle
+
+#### 2022-2023
 
 1. #382 (#82 de TecNM) _ARF_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Los Belas_ (Clasificatorio)
@@ -21,6 +30,7 @@
 1. #382 (#82 de TecNM) _Programs-men_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Umbrella Corporation_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Warriors2_ (Clasificatorio)
+
 
 
 

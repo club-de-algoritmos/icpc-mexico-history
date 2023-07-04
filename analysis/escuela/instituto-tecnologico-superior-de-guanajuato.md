@@ -17,18 +17,35 @@
 
 ## Participaciones
 
-### 2014-2015
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **9** | **47** | **47** |
+| 2014-2015 | 0 | 1 | 3 | 3 |
+| 2015-2016 | 0 | 2 | 2 | 2 |
+| 2016-2017 | 0 | 2 | 5 | 5 |
+| 2017-2018 | 0 | 1 | 5 | 5 |
+| 2018-2019 | 0 | 1 | 4 | 4 |
+| 2019-2020 | 0 | 1 | 8 | 8 |
+| 2020-2021 | 0 | 0 | 4 | 4 |
+| 2021-2022 | 0 | 1 | 7 | 7 |
+| 2022-2023 | 0 | 0 | 9 | 9 |
+
+### Detalle
+
+#### 2014-2015
 
 1. #30 (#3 de TecNM) _Legio I Germania_ (Regional)
 1. #108 (#15 de TecNM) _Legio IX Hispana_ (Clasificatorio)
 1. #204 (#52 de TecNM) _Legio IV Scythia_ (Clasificatorio)
 
-### 2015-2016
+#### 2015-2016
 
 1. #47 (#6 de TecNM) _Moyos_ (Regional)
 1. #51 (#8 de TecNM) _Legio I_ (Regional)
 
-### 2016-2017
+#### 2016-2017
 
 1. #34 (#3 de TecNM) _Los religiosos_ (Regional)
 1. #41 (#5 de TecNM) _Legio I_ (Regional)
@@ -36,7 +53,7 @@
 1. #121 (#20 de TecNM) _Black Dragons_ (Clasificatorio)
 1. #121 (#20 de TecNM) _Los Chufuys_ (Clasificatorio)
 
-### 2017-2018
+#### 2017-2018
 
 1. #39 (#5 de TecNM) _LOS RELIGIOSOS_ (Regional)
 1. #222 (#43 de TecNM) _LVL_ (Clasificatorio)
@@ -44,14 +61,14 @@
 1. #405 (#97 de TecNM) _65536_ (Clasificatorio)
 1. #405 (#97 de TecNM) _HIKERS_ (Clasificatorio)
 
-### 2018-2019
+#### 2018-2019
 
 1. #27 (#3 de TecNM) _Promised Rinascimento_ (Regional)
 1. #248 (#48 de TecNM) _Triforce_ (Clasificatorio)
 1. #259 (#52 de TecNM) _Los Acrobáticos_ (Clasificatorio)
 1. #331 (#76 de TecNM) _La Liga del Código_ (Clasificatorio)
 
-### 2019-2020
+#### 2019-2020
 
 1. #25 (#4 de TecNM) _Promised Rinascimento_ (Regional)
 1. #269 (#50 de TecNM) _Triforce_ (Clasificatorio)
@@ -62,14 +79,14 @@
 1. #382 (#98 de TecNM) _Los bichos 7_ (Clasificatorio)
 1. #382 (#98 de TecNM) _PECESESES_ (Clasificatorio)
 
-### 2020-2021
+#### 2020-2021
 
 1. #282 (#35 de TecNM) _Promised Rinascimento_ (Clasificatorio)
 1. #351 (#65 de TecNM) _Los Tripulantes_ (Clasificatorio)
 1. #351 (#65 de TecNM) _RanasITESG_ (Clasificatorio)
 1. #351 (#65 de TecNM) _Triforce_ (Clasificatorio)
 
-### 2021-2022
+#### 2021-2022
 
 1. #19 (#1 de TecNM) _Promised Rinascimento_ (Regional)
 1. #226 (#36 de TecNM) _Breaking Limits_ (Clasificatorio)
@@ -79,7 +96,7 @@
 1. #226 (#36 de TecNM) _Threebites_ (Clasificatorio)
 1. #226 (#36 de TecNM) _cron-OS_ (Clasificatorio)
 
-### 2022-2023
+#### 2022-2023
 
 1. #382 (#82 de TecNM) _Las .rawr_ (Clasificatorio)
 1. #382 (#82 de TecNM) _PDM_ (Clasificatorio)
@@ -90,6 +107,7 @@
 1. #382 (#82 de TecNM) _Virtuous_ (Clasificatorio)
 1. #382 (#82 de TecNM) _White Hat_ (Clasificatorio)
 1. #382 (#82 de TecNM) _big boys_ (Clasificatorio)
+
 
 
 

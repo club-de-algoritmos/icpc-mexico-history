@@ -17,7 +17,19 @@
 
 ## Participaciones
 
-### 2017-2018
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **3** | **33** | **33** |
+| 2017-2018 | 0 | 2 | 9 | 9 |
+| 2018-2019 | 0 | 1 | 7 | 7 |
+| 2019-2020 | 0 | 0 | 10 | 10 |
+| 2020-2021 | 0 | 0 | 7 | 7 |
+
+### Detalle
+
+#### 2017-2018
 
 1. #12 _Supernovas_ (Regional)
 1. #77 _Grafoliebers (╯°□°)╯︵ ɹoɹɹƎ_ (Regional)
@@ -29,7 +41,7 @@
 1. #405 _CHJJ_ (Clasificatorio)
 1. #405 _Debug's_ (Clasificatorio)
 
-### 2018-2019
+#### 2018-2019
 
 1. #15 _Los Choquistas 2.0_ (Regional)
 1. #70 _Grafoliebers_ (Clasificatorio)
@@ -39,7 +51,7 @@
 1. #394 _CHJJ_ (Clasificatorio)
 1. #394 _One Code MEN_ (Clasificatorio)
 
-### 2019-2020
+#### 2019-2020
 
 1. #100 _Let it C_ (Clasificatorio)
 1. #106 _Error (╯°□°)╯︵ ┻━┻ ɹoɹɹƎ_ (Clasificatorio)
@@ -52,7 +64,7 @@
 1. #331 _QBITS_ (Clasificatorio)
 1. #359 _Los primos de Fermat_ (Clasificatorio)
 
-### 2020-2021
+#### 2020-2021
 
 1. #116 _Oozma Kappa_ (Clasificatorio)
 1. #130 _ExcelOverFlow_ (Clasificatorio)
@@ -61,6 +73,7 @@
 1. #253 _world.execute(me);_ (Clasificatorio)
 1. #259 _Pitones_ (Clasificatorio)
 1. #300 _Duck Bang_ (Clasificatorio)
+
 
 
 

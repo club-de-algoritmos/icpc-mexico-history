@@ -17,7 +17,20 @@
 
 ## Participaciones
 
-### 2019-2020
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **64** | **64** |
+| 2019-2020 | 0 | 0 | 27 | 27 |
+| 2020-2021 | 0 | 0 | 6 | 6 |
+| 2021-2022 | 0 | 0 | 1 | 1 |
+| 2022-2023 | 0 | 0 | 24 | 24 |
+| 2023-2024 | 0 | 0 | 6 | 6 |
+
+### Detalle
+
+#### 2019-2020
 
 1. #382 (#98 de TecNM) _127.0.0.1_ (Clasificatorio)
 1. #382 (#98 de TecNM) _1Byte_ (Clasificatorio)
@@ -47,7 +60,7 @@
 1. #382 (#98 de TecNM) _the booring team_ (Clasificatorio)
 1. #382 (#98 de TecNM) _under coding_ (Clasificatorio)
 
-### 2020-2021
+#### 2020-2021
 
 1. #157 (#13 de TecNM) _Trivial ITESCO_ (Clasificatorio)
 1. #312 (#45 de TecNM) _Recursivos ITESCO_ (Clasificatorio)
@@ -56,11 +69,11 @@
 1. #351 (#65 de TecNM) _TeamISC_ (Clasificatorio)
 1. #351 (#65 de TecNM) _kamikaze_ (Clasificatorio)
 
-### 2021-2022
+#### 2021-2022
 
 1. #226 (#36 de TecNM) _ITESCO-MECATRONICA_ (Clasificatorio)
 
-### 2022-2023
+#### 2022-2023
 
 1. #382 (#82 de TecNM) _404 not found_ (Clasificatorio)
 1. #382 (#82 de TecNM) _AleSay_ (Clasificatorio)
@@ -87,7 +100,7 @@
 1. #382 (#82 de TecNM) _The boys_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Vhagar_ (Clasificatorio)
 
-### 2023-2024
+#### 2023-2024
 
 1. #304 (#64 de TecNM) _The bosses_ (Clasificatorio)
 1. #340 (#80 de TecNM) _SyntaxError_C_ (Clasificatorio)
@@ -95,6 +108,7 @@
 1. #363 (#92 de TecNM) _Pathetic_ (Clasificatorio)
 1. #399 (#110 de TecNM) _Squad Boom_ (Clasificatorio)
 1. #448 (#127 de TecNM) _404 Not Found_ (Clasificatorio)
+
 
 
 

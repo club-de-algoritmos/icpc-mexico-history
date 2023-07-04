@@ -11,15 +11,26 @@
 
 ## Participaciones
 
-### 2013-2014
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **3** | **1** | **4** |
+| 2013-2014 | 0 | 3 | 0 | 3 |
+| 2015-2016 | 0 | 0 | 1 | 1 |
+
+### Detalle
+
+#### 2013-2014
 
 1. #95 _UPV1_ (Regional)
 1. #95 _UPV2_ (Regional)
 1. #95 _UPV3_ (Regional)
 
-### 2015-2016
+#### 2015-2016
 
 1. #108 _Mr. Robot_ (Clasificatorio)
+
 
 
 

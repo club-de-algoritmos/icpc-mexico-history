@@ -8,9 +8,19 @@
 
 ## Participaciones
 
-### 2017-2018
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **1** | **1** | **1** |
+| 2017-2018 | 0 | 1 | 1 | 1 |
+
+### Detalle
+
+#### 2017-2018
 
 1. #85 _MKC_ (Regional)
+
 
 
 

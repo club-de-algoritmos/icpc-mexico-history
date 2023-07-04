@@ -17,36 +17,55 @@
 
 ## Participaciones
 
-### 2007-2008
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **11** | **23** | **33** |
+| 2007-2008 | 0 | 1 | 0 | 1 |
+| 2008-2009 | 0 | 3 | 0 | 3 |
+| 2009-2010 | 0 | 2 | 0 | 2 |
+| 2010-2011 | 0 | 2 | 0 | 2 |
+| 2012-2013 | 0 | 2 | 0 | 2 |
+| 2016-2017 | 0 | 0 | 1 | 1 |
+| 2017-2018 | 0 | 0 | 6 | 6 |
+| 2020-2021 | 0 | 0 | 3 | 3 |
+| 2021-2022 | 0 | 1 | 5 | 5 |
+| 2022-2023 | 0 | 0 | 5 | 5 |
+| 2023-2024 | 0 | 0 | 3 | 3 |
+
+### Detalle
+
+#### 2007-2008
 
 1. #61 _Temerarios_ (Regional)
 
-### 2008-2009
+#### 2008-2009
 
 1. #96 _QueEquipo_ (Regional)
 1. #101 _CualEquipo_ (Regional)
 1. #101 _WhataTeam_ (Regional)
 
-### 2009-2010
+#### 2009-2010
 
 1. #81 _Arigato_ (Regional)
 1. #116 _QueEquipo_ (Regional)
 
-### 2010-2011
+#### 2010-2011
 
 1. #44 _TTTeam_ (Regional)
 1. #156 _Blue Screen of Death_ (Regional)
 
-### 2012-2013
+#### 2012-2013
 
 1. #119 _losrivas_ (Regional)
 1. #121 _losparces_ (Regional)
 
-### 2016-2017
+#### 2016-2017
 
 1. #121 _ITESM TOLUCA_ (Clasificatorio)
 
-### 2017-2018
+#### 2017-2018
 
 1. #88 _Googol_ (Clasificatorio)
 1. #134 _ARM_ (Clasificatorio)
@@ -55,13 +74,13 @@
 1. #405 _Madre mia Willy_ (Clasificatorio)
 1. #405 _Trycatch_ (Clasificatorio)
 
-### 2020-2021
+#### 2020-2021
 
 1. #250 _Minute Men_ (Clasificatorio)
 1. #256 _Tinthas_ (Clasificatorio)
 1. #306 _3xploit3rs_ (Clasificatorio)
 
-### 2021-2022
+#### 2021-2022
 
 1. #49 _BugHunterAddicts_ (Regional)
 1. #126 _AjoloTechs_ (Clasificatorio)
@@ -69,7 +88,7 @@
 1. #169 _Ranas Tácticas_ (Clasificatorio)
 1. #226 _BlackDragons_ (Clasificatorio)
 
-### 2022-2023
+#### 2022-2023
 
 1. #94 _Lxs Pixies_ (Clasificatorio)
 1. #223 _Los Tlacuaches de Turín_ (Clasificatorio)
@@ -77,11 +96,12 @@
 1. #382 _BugHunterAddicts_ (Clasificatorio)
 1. #382 _Codin' Cave_ (Clasificatorio)
 
-### 2023-2024
+#### 2023-2024
 
 1. #60 _Siuuu++_ (Clasificatorio)
 1. #93 _Los Tlacuaches de Turín_ (Clasificatorio)
 1. #171 _Lxs Pixies_ (Clasificatorio)
+
 
 
 

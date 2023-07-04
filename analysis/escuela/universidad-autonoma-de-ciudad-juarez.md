@@ -17,27 +17,41 @@
 
 ## Participaciones
 
-### 2018-2019
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **2** | **16** | **16** |
+| 2018-2019 | 0 | 0 | 2 | 2 |
+| 2019-2020 | 0 | 0 | 1 | 1 |
+| 2020-2021 | 0 | 0 | 4 | 4 |
+| 2021-2022 | 0 | 1 | 1 | 1 |
+| 2022-2023 | 0 | 1 | 5 | 5 |
+| 2023-2024 | 0 | 0 | 3 | 3 |
+
+### Detalle
+
+#### 2018-2019
 
 1. #395 _Equipo Tr3s_ (Clasificatorio)
 1. #395 _Web-Ones 2.0_ (Clasificatorio)
 
-### 2019-2020
+#### 2019-2020
 
 1. #382 _UACJ2019_ (Clasificatorio)
 
-### 2020-2021
+#### 2020-2021
 
 1. #113 _Hard Coders_ (Clasificatorio)
 1. #190 _WINDIIT_ (Clasificatorio)
 1. #238 _Brainarys_ (Clasificatorio)
 1. #261 _Los Coyotes_ (Clasificatorio)
 
-### 2021-2022
+#### 2021-2022
 
 1. #40 _AlgoTeam_ (Regional)
 
-### 2022-2023
+#### 2022-2023
 
 1. #29 _TLE_SQUARED_ (Regional)
 1. #160 _Ctrl alt del_ (Clasificatorio)
@@ -45,11 +59,12 @@
 1. #322 _no estudio programación_ (Clasificatorio)
 1. #356 _Asimilando la ignorancia_ (Clasificatorio)
 
-### 2023-2024
+#### 2023-2024
 
 1. #15 _First to Penalty_ (Clasificatorio)
 1. #152 _relenTLEss_ (Clasificatorio)
 1. #205 _Impossibru_ (Clasificatorio)
+
 
 
 

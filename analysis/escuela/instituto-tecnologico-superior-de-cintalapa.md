@@ -11,12 +11,22 @@
 
 ## Participaciones
 
-### 2019-2020
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **4** | **4** |
+| 2019-2020 | 0 | 0 | 4 | 4 |
+
+### Detalle
+
+#### 2019-2020
 
 1. #382 (#98 de TecNM) _Cilantro_ (Clasificatorio)
 1. #382 (#98 de TecNM) _Diego´s_ (Clasificatorio)
 1. #382 (#98 de TecNM) _Escuadron Suicida_ (Clasificatorio)
 1. #382 (#98 de TecNM) _Tigres_ (Clasificatorio)
+
 
 
 

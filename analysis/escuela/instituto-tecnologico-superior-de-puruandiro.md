@@ -12,16 +12,27 @@
 
 ## Participaciones
 
-### 2013-2014
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **4** | **1** | **5** |
+| 2013-2014 | 0 | 4 | 0 | 4 |
+| 2017-2018 | 0 | 0 | 1 | 1 |
+
+### Detalle
+
+#### 2013-2014
 
 1. #95 (#24 de TecNM) _3 Cell_ (Regional)
 1. #95 (#24 de TecNM) _Lazy Boys_ (Regional)
 1. #95 (#24 de TecNM) _Novatos_ (Regional)
 1. #95 (#24 de TecNM) _Spartans_ (Regional)
 
-### 2017-2018
+#### 2017-2018
 
 1. #405 (#97 de TecNM) _ITESP-ArtLang_ (Clasificatorio)
+
 
 
 

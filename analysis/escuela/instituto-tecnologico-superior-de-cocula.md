@@ -12,16 +12,27 @@
 
 ## Participaciones
 
-### 2017-2018
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **5** | **5** |
+| 2017-2018 | 0 | 0 | 2 | 2 |
+| 2019-2020 | 0 | 0 | 3 | 3 |
+
+### Detalle
+
+#### 2017-2018
 
 1. #405 (#97 de TecNM) _Cocula1_ (Clasificatorio)
 1. #405 (#97 de TecNM) _TecCocula_ (Clasificatorio)
 
-### 2019-2020
+#### 2019-2020
 
 1. #382 (#98 de TecNM) _Punto y coma_ (Clasificatorio)
 1. #382 (#98 de TecNM) _The last fight_ (Clasificatorio)
 1. #382 (#98 de TecNM) _Virtus Pro_ (Clasificatorio)
+
 
 
 

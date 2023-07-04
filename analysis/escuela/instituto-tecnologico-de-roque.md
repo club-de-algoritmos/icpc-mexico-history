@@ -10,14 +10,25 @@
 
 ## Participaciones
 
-### 2020-2021
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **3** | **3** |
+| 2020-2021 | 0 | 0 | 2 | 2 |
+| 2021-2022 | 0 | 0 | 1 | 1 |
+
+### Detalle
+
+#### 2020-2021
 
 1. #351 (#65 de TecNM) _RoqCode_ (Clasificatorio)
 1. #351 (#65 de TecNM) _Roque_ (Clasificatorio)
 
-### 2021-2022
+#### 2021-2022
 
 1. #226 (#36 de TecNM) _Roque_ (Clasificatorio)
+
 
 
 

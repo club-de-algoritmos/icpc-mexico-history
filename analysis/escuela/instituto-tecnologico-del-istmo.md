@@ -11,15 +11,26 @@
 
 ## Participaciones
 
-### 2019-2020
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **4** | **4** |
+| 2019-2020 | 0 | 0 | 3 | 3 |
+| 2020-2021 | 0 | 0 | 1 | 1 |
+
+### Detalle
+
+#### 2019-2020
 
 1. #382 (#98 de TecNM) _CINERE_ (Clasificatorio)
 1. #382 (#98 de TecNM) _Delp_ (Clasificatorio)
 1. #382 (#98 de TecNM) _XHAHUIS_ (Clasificatorio)
 
-### 2020-2021
+#### 2020-2021
 
 1. #351 (#65 de TecNM) _Istmo _ (Clasificatorio)
+
 
 
 

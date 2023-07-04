@@ -10,11 +10,21 @@
 
 ## Participaciones
 
-### 2020-2021
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **3** | **3** |
+| 2020-2021 | 0 | 0 | 3 | 3 |
+
+### Detalle
+
+#### 2020-2021
 
 1. #352 _Jupiter_ (Clasificatorio)
 1. #353 _Dawngramadores_ (Clasificatorio)
 1. #354 _Yaunica_ (Clasificatorio)
+
 
 
 

@@ -17,7 +17,16 @@
 
 ## Participaciones
 
-### 2017-2018
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **1** | **10** | **10** |
+| 2017-2018 | 0 | 1 | 10 | 10 |
+
+### Detalle
+
+#### 2017-2018
 
 1. #86 _return to-sleepj_ (Regional)
 1. #245 _JCO-Premier_ (Clasificatorio)
@@ -29,6 +38,7 @@
 1. #405 _Gang of Seven_ (Clasificatorio)
 1. #405 _JAR_ (Clasificatorio)
 1. #405 _UCA++_ (Clasificatorio)
+
 
 
 

@@ -8,9 +8,19 @@
 
 ## Participaciones
 
-### 2016-2017
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **1** | **1** |
+| 2016-2017 | 0 | 0 | 1 | 1 |
+
+### Detalle
+
+#### 2016-2017
 
 1. #121 _Lobos Rojos_ (Clasificatorio)
+
 
 
 

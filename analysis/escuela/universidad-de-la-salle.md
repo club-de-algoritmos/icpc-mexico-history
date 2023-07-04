@@ -9,10 +9,20 @@
 
 ## Participaciones
 
-### 2007-2008
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **2** | **0** | **2** |
+| 2007-2008 | 0 | 2 | 0 | 2 |
+
+### Detalle
+
+#### 2007-2008
 
 1. #61 _Lasalle Power_ (Regional)
 1. #61 _Otaku desu_ (Regional)
+
 
 
 

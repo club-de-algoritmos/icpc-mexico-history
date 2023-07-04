@@ -9,13 +9,24 @@
 
 ## Participaciones
 
-### 2003-2004
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **1** | **1** | **2** |
+| 2003-2004 | 0 | 1 | 0 | 1 |
+| 2019-2020 | 0 | 0 | 1 | 1 |
+
+### Detalle
+
+#### 2003-2004
 
 1. #41 (#9 de TecNM) _HALCONES_ (Regional)
 
-### 2019-2020
+#### 2019-2020
 
 1. #382 (#98 de TecNM) _Lambdaf_ (Clasificatorio)
+
 
 
 

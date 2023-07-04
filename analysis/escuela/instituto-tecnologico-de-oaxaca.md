@@ -17,7 +17,18 @@
 
 ## Participaciones
 
-### 2019-2020
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **11** | **11** |
+| 2019-2020 | 0 | 0 | 5 | 5 |
+| 2022-2023 | 0 | 0 | 2 | 2 |
+| 2023-2024 | 0 | 0 | 4 | 4 |
+
+### Detalle
+
+#### 2019-2020
 
 1. #382 (#98 de TecNM) _Antler_ (Clasificatorio)
 1. #382 (#98 de TecNM) _CAJ-ITO_ (Clasificatorio)
@@ -25,17 +36,18 @@
 1. #382 (#98 de TecNM) _MAGG_ (Clasificatorio)
 1. #382 (#98 de TecNM) _Team Dinamita de Oaxaca_ (Clasificatorio)
 
-### 2022-2023
+#### 2022-2023
 
 1. #382 (#82 de TecNM) _FuerzITO_ (Clasificatorio)
 1. #382 (#82 de TecNM) _The Warriors_ (Clasificatorio)
 
-### 2023-2024
+#### 2023-2024
 
 1. #202 (#39 de TecNM) _Itosaurios_ (Clasificatorio)
 1. #244 (#46 de TecNM) _Equipo 2_ (Clasificatorio)
 1. #272 (#52 de TecNM) _MonsterUniversity_ (Clasificatorio)
 1. #378 (#98 de TecNM) _TriviumCode_ (Clasificatorio)
+
 
 
 

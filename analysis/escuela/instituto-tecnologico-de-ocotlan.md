@@ -17,7 +17,18 @@
 
 ## Participaciones
 
-### 2019-2020
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **35** | **35** |
+| 2019-2020 | 0 | 0 | 21 | 21 |
+| 2020-2021 | 0 | 0 | 5 | 5 |
+| 2022-2023 | 0 | 0 | 9 | 9 |
+
+### Detalle
+
+#### 2019-2020
 
 1. #382 (#98 de TecNM) _Casei Shirota_ (Clasificatorio)
 1. #382 (#98 de TecNM) _GGB_ (Clasificatorio)
@@ -41,7 +52,7 @@
 1. #382 (#98 de TecNM) _ito1s7_ (Clasificatorio)
 1. #382 (#98 de TecNM) _ito5s1_ (Clasificatorio)
 
-### 2020-2021
+#### 2020-2021
 
 1. #313 (#46 de TecNM) _Los MM_ (Clasificatorio)
 1. #351 (#65 de TecNM) _Delta_ (Clasificatorio)
@@ -49,7 +60,7 @@
 1. #351 (#65 de TecNM) _Noxus team_ (Clasificatorio)
 1. #351 (#65 de TecNM) _PlayWix_ (Clasificatorio)
 
-### 2022-2023
+#### 2022-2023
 
 1. #382 (#82 de TecNM) _" ;Mortal "_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Aldeanos_ (Clasificatorio)
@@ -60,6 +71,7 @@
 1. #382 (#82 de TecNM) _Los Cuacks_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Los Molletes_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Los egocéntricos_ (Clasificatorio)
+
 
 
 

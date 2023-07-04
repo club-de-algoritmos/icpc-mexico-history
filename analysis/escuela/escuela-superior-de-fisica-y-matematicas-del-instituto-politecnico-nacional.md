@@ -17,13 +17,25 @@
 
 ## Participaciones
 
-### 2020-2021
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **4** | **16** | **16** |
+| 2020-2021 | 0 | 2 | 3 | 3 |
+| 2021-2022 | 0 | 2 | 6 | 6 |
+| 2022-2023 | 0 | 0 | 3 | 3 |
+| 2023-2024 | 0 | 0 | 4 | 4 |
+
+### Detalle
+
+#### 2020-2021
 
 1. #37 _Void Guys_ (Regional)
 1. #44 _BFF (Brute Force Friend's) TLE :'v_ (Regional)
 1. #210 _The Gauss' Fellows_ (Clasificatorio)
 
-### 2021-2022
+#### 2021-2022
 
 1. #42 _Los pininos_ (Regional)
 1. #43 _Void guys_ (Regional)
@@ -32,18 +44,19 @@
 1. #115 _Hornet_ (Clasificatorio)
 1. #170 _Aquíno_ (Clasificatorio)
 
-### 2022-2023
+#### 2022-2023
 
 1. #83 _BFFs(Brute Force Friends)<3_ (Clasificatorio)
 1. #261 _Void Guys_ (Clasificatorio)
 1. #382 _Eigen-bros_ (Clasificatorio)
 
-### 2023-2024
+#### 2023-2024
 
 1. #68 _Nahuales del Mictlán_ (Clasificatorio)
 1. #236 _Fenix*z_ (Clasificatorio)
 1. #262 _Campo Real_ (Clasificatorio)
 1. #285 _Itzamná_ (Clasificatorio)
+
 
 
 

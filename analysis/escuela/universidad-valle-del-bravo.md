@@ -10,11 +10,21 @@
 
 ## Participaciones
 
-### 2003-2004
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **3** | **0** | **3** |
+| 2003-2004 | 0 | 3 | 0 | 3 |
+
+### Detalle
+
+#### 2003-2004
 
 1. #41 _UVB-1_ (Regional)
 1. #41 _UVB-2_ (Regional)
 1. #41 _UVB-3_ (Regional)
+
 
 
 

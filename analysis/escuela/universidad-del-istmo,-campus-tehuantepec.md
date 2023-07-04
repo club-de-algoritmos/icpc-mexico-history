@@ -12,19 +12,31 @@
 
 ## Participaciones
 
-### 2009-2010
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **5** | **0** | **5** |
+| 2009-2010 | 0 | 1 | 0 | 1 |
+| 2010-2011 | 0 | 2 | 0 | 2 |
+| 2011-2012 | 0 | 2 | 0 | 2 |
+
+### Detalle
+
+#### 2009-2010
 
 1. #86 _Novatos_ (Regional)
 
-### 2010-2011
+#### 2010-2011
 
 1. #156 _Puchamon Team_ (Regional)
 1. #156 _SENSE_ (Regional)
 
-### 2011-2012
+#### 2011-2012
 
 1. #84 _Unistmo-Bianni_ (Regional)
 1. #104 _UnistmoPitaoCocijo_ (Regional)
+
 
 
 

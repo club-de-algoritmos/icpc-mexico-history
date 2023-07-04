@@ -16,7 +16,17 @@
 
 ## Participaciones
 
-### 2020-2021
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **9** | **9** |
+| 2020-2021 | 0 | 0 | 8 | 8 |
+| 2021-2022 | 0 | 0 | 1 | 1 |
+
+### Detalle
+
+#### 2020-2021
 
 1. #203 _Prolux_ (Clasificatorio)
 1. #351 _ANDROIDE TEAM_ (Clasificatorio)
@@ -27,9 +37,10 @@
 1. #351 _The syntax error_ (Clasificatorio)
 1. #351 _Virtualrookies_ (Clasificatorio)
 
-### 2021-2022
+#### 2021-2022
 
 1. #226 _programming-stars_ (Clasificatorio)
+
 
 
 

@@ -17,21 +17,35 @@
 
 ## Participaciones
 
-### 2014-2015
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **2** | **23** | **23** |
+| 2014-2015 | 0 | 0 | 1 | 1 |
+| 2016-2017 | 0 | 1 | 1 | 1 |
+| 2017-2018 | 0 | 0 | 3 | 3 |
+| 2018-2019 | 0 | 0 | 5 | 5 |
+| 2019-2020 | 0 | 0 | 6 | 6 |
+| 2020-2021 | 0 | 1 | 7 | 7 |
+
+### Detalle
+
+#### 2014-2015
 
 1. #175 _8Bits_ (Clasificatorio)
 
-### 2016-2017
+#### 2016-2017
 
 1. #48 _CaribbeanCoders_ (Regional)
 
-### 2017-2018
+#### 2017-2018
 
 1. #80 _Caribbean Coders_ (Clasificatorio)
 1. #119 _Mariachi_ (Clasificatorio)
 1. #337 _Los Mariks_ (Clasificatorio)
 
-### 2018-2019
+#### 2018-2019
 
 1. #76 _Caribbean Coders_ (Clasificatorio)
 1. #168 _Mariachi_ (Clasificatorio)
@@ -39,7 +53,7 @@
 1. #239 _BOOLdogs_ (Clasificatorio)
 1. #268 _Los Gatos de Schrödinger_ (Clasificatorio)
 
-### 2019-2020
+#### 2019-2020
 
 1. #96 _Mariachi_ (Clasificatorio)
 1. #107 _Caribbean Coders_ (Clasificatorio)
@@ -48,7 +62,7 @@
 1. #171 _Apóstol Cahazu_ (Clasificatorio)
 1. #382 _BOOLdogs_ (Clasificatorio)
 
-### 2020-2021
+#### 2020-2021
 
 1. #49 _CaribbeanCoders_ (Regional)
 1. #124 _Los Mariks_ (Clasificatorio)
@@ -57,6 +71,7 @@
 1. #271 _Apóstol Cahazu_ (Clasificatorio)
 1. #275 _Traficantes de #'s_ (Clasificatorio)
 1. #320 _Adictos a las Líneas_ (Clasificatorio)
+
 
 
 

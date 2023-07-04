@@ -17,30 +17,44 @@
 
 ## Participaciones
 
-### 2001-2002
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **10** | **0** | **10** |
+| 2001-2002 | 0 | 2 | 0 | 2 |
+| 2002-2003 | 0 | 2 | 0 | 2 |
+| 2004-2005 | 0 | 2 | 0 | 2 |
+| 2005-2006 | 0 | 2 | 0 | 2 |
+| 2006-2007 | 0 | 2 | 0 | 2 |
+
+### Detalle
+
+#### 2001-2002
 
 1. #17 _UPMX2_ (Regional)
 1. #45 _UPMX1_ (Regional)
 
-### 2002-2003
+#### 2002-2003
 
 1. #25 _yamerito_ (Regional)
 1. #27 _NEUTRINOS_ (Regional)
 
-### 2004-2005
+#### 2004-2005
 
 1. #23 _A* Rules_ (Regional)
 1. #83 _Quantum_ (Regional)
 
-### 2005-2006
+#### 2005-2006
 
 1. #67 _Courage_ (Regional)
 1. #71 _Camarelos Corp._ (Regional)
 
-### 2006-2007
+#### 2006-2007
 
 1. #37 _ACM's Guild_ (Regional)
 1. #85 _Compilers_ (Regional)
+
 
 
 

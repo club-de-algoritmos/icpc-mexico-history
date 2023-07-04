@@ -17,27 +17,40 @@
 
 ## Participaciones
 
-### 2019-2020
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **10** | **10** |
+| 2019-2020 | 0 | 0 | 2 | 2 |
+| 2020-2021 | 0 | 0 | 2 | 2 |
+| 2021-2022 | 0 | 0 | 2 | 2 |
+| 2022-2023 | 0 | 0 | 4 | 4 |
+
+### Detalle
+
+#### 2019-2020
 
 1. #382 _Los Mapogos_ (Clasificatorio)
 1. #382 _Try and Catch_ (Clasificatorio)
 
-### 2020-2021
+#### 2020-2021
 
 1. #131 _RoadToGold_ (Clasificatorio)
 1. #351 _AMADA_ (Clasificatorio)
 
-### 2021-2022
+#### 2021-2022
 
 1. #226 _BitsNCode_ (Clasificatorio)
 1. #226 _Jaiba's code_ (Clasificatorio)
 
-### 2022-2023
+#### 2022-2023
 
 1. #382 _Booleanos_ (Clasificatorio)
 1. #382 _Coders breakers_ (Clasificatorio)
 1. #382 _JAR_ (Clasificatorio)
 1. #382 _JAY_ (Clasificatorio)
+
 
 
 

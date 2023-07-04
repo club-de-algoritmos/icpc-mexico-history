@@ -17,19 +17,34 @@
 
 ## Participaciones
 
-### 2017-2018
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **9** | **31** | **31** |
+| 2017-2018 | 0 | 1 | 3 | 3 |
+| 2018-2019 | 0 | 2 | 3 | 3 |
+| 2019-2020 | 0 | 3 | 7 | 7 |
+| 2020-2021 | 0 | 1 | 6 | 6 |
+| 2021-2022 | 0 | 1 | 2 | 2 |
+| 2022-2023 | 0 | 1 | 6 | 6 |
+| 2023-2024 | 0 | 0 | 4 | 4 |
+
+### Detalle
+
+#### 2017-2018
 
 1. #13 _La cabaña del tio Raggi_ (Regional)
 1. #109 _Arkanan_ (Clasificatorio)
 1. #167 _Lomitos Suavecitos_ (Clasificatorio)
 
-### 2018-2019
+#### 2018-2019
 
 1. #33 _Tupla de Camarones_ (Regional)
 1. #42 _Los Horchatos_ (Regional)
 1. #87 _La Trifecta_ (Clasificatorio)
 
-### 2019-2020
+#### 2019-2020
 
 1. #27 _BatchNorm3d_ (Regional)
 1. #37 _ProgramaLovers_ (Regional)
@@ -39,7 +54,7 @@
 1. #175 _Las chicas superpoderosas_ (Clasificatorio)
 1. #251 _Los Purepechas_ (Clasificatorio)
 
-### 2020-2021
+#### 2020-2021
 
 1. #42 _Los de arriba son tramposos_ (Regional)
 1. #165 _Los pixies 2.0_ (Clasificatorio)
@@ -48,12 +63,12 @@
 1. #180 _Las neuronas_ (Clasificatorio)
 1. #205 _MichExoTic's_ (Clasificatorio)
 
-### 2021-2022
+#### 2021-2022
 
 1. #34 _La Tremenda Chimichanga_ (Regional)
 1. #108 _Las Bichotas_ (Clasificatorio)
 
-### 2022-2023
+#### 2022-2023
 
 1. #44 _Bugbusters_ (Regional)
 1. #175 _Los papacitos_ (Clasificatorio)
@@ -62,12 +77,13 @@
 1. #284 _Miribka_ (Clasificatorio)
 1. #382 _Los discípulos de Raggi_ (Clasificatorio)
 
-### 2023-2024
+#### 2023-2024
 
 1. #64 _Bowser Bytes_ (Clasificatorio)
 1. #113 _A.k.a._ (Clasificatorio)
 1. #196 _Backyardigans_ (Clasificatorio)
 1. #245 _MegaByteMe_ (Clasificatorio)
+
 
 
 

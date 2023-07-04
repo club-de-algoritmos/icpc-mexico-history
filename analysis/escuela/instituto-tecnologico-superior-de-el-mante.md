@@ -17,14 +17,32 @@
 
 ## Participaciones
 
-### 2013-2014
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **6** | **98** | **102** |
+| 2013-2014 | 0 | 4 | 0 | 4 |
+| 2015-2016 | 0 | 2 | 5 | 5 |
+| 2016-2017 | 0 | 0 | 5 | 5 |
+| 2017-2018 | 0 | 0 | 3 | 3 |
+| 2018-2019 | 0 | 0 | 12 | 12 |
+| 2019-2020 | 0 | 0 | 22 | 22 |
+| 2020-2021 | 0 | 0 | 16 | 16 |
+| 2021-2022 | 0 | 0 | 12 | 12 |
+| 2022-2023 | 0 | 0 | 14 | 14 |
+| 2023-2024 | 0 | 0 | 9 | 9 |
+
+### Detalle
+
+#### 2013-2014
 
 1. #95 (#24 de TecNM) _!Java_ (Regional)
 1. #95 (#24 de TecNM) _FreeCode_ (Regional)
 1. #95 (#24 de TecNM) _Full-Time Programmers_ (Regional)
 1. #95 (#24 de TecNM) _Skynett_ (Regional)
 
-### 2015-2016
+#### 2015-2016
 
 1. #59 (#10 de TecNM) _Triforce_ (Regional)
 1. #74 (#14 de TecNM) _RAL Machine_ (Regional)
@@ -32,7 +50,7 @@
 1. #108 (#28 de TecNM) _Wolfies_ (Clasificatorio)
 1. #108 (#28 de TecNM) _shield_ (Clasificatorio)
 
-### 2016-2017
+#### 2016-2017
 
 1. #121 (#20 de TecNM) _Hope_ (Clasificatorio)
 1. #121 (#20 de TecNM) _Los Osados_ (Clasificatorio)
@@ -40,13 +58,13 @@
 1. #121 (#20 de TecNM) _Reach_ (Clasificatorio)
 1. #121 (#20 de TecNM) _Zurdok_ (Clasificatorio)
 
-### 2017-2018
+#### 2017-2018
 
 1. #355 (#79 de TecNM) _3TNT_ (Clasificatorio)
 1. #378 (#88 de TecNM) _Team-ANG_ (Clasificatorio)
 1. #405 (#97 de TecNM) _Blue Fire_ (Clasificatorio)
 
-### 2018-2019
+#### 2018-2019
 
 1. #395 (#159 de TecNM) _CKT_ (Clasificatorio)
 1. #395 (#159 de TecNM) _Dinamita_ (Clasificatorio)
@@ -61,7 +79,7 @@
 1. #395 (#159 de TecNM) _Tempis Style_ (Clasificatorio)
 1. #395 (#159 de TecNM) _X-Force_ (Clasificatorio)
 
-### 2019-2020
+#### 2019-2020
 
 1. #128 (#16 de TecNM) _CKT_ (Clasificatorio)
 1. #141 (#19 de TecNM) _3.1416T*_ (Clasificatorio)
@@ -86,7 +104,7 @@
 1. #382 (#98 de TecNM) _The Chioss_ (Clasificatorio)
 1. #382 (#98 de TecNM) _Tontos inteligentes _ (Clasificatorio)
 
-### 2020-2021
+#### 2020-2021
 
 1. #141 (#11 de TecNM) _Segmentation Fault_ (Clasificatorio)
 1. #274 (#33 de TecNM) _CKT_ (Clasificatorio)
@@ -105,7 +123,7 @@
 1. #351 (#65 de TecNM) _The Ruices_ (Clasificatorio)
 1. #351 (#65 de TecNM) _Trinity Audosus_ (Clasificatorio)
 
-### 2021-2022
+#### 2021-2022
 
 1. #179 (#19 de TecNM) _Sin pisto no existo_ (Clasificatorio)
 1. #185 (#20 de TecNM) _OneCodeMan_ (Clasificatorio)
@@ -120,7 +138,7 @@
 1. #226 (#36 de TecNM) _RAD_ (Clasificatorio)
 1. #226 (#36 de TecNM) _Trinity Audacious_ (Clasificatorio)
 
-### 2022-2023
+#### 2022-2023
 
 1. #263 (#47 de TecNM) _Los tilines_ (Clasificatorio)
 1. #360 (#70 de TecNM) _The switch_ (Clasificatorio)
@@ -137,7 +155,7 @@
 1. #382 (#82 de TecNM) _Malvaviscos_ (Clasificatorio)
 1. #382 (#82 de TecNM) _TilinesSUS_ (Clasificatorio)
 
-### 2023-2024
+#### 2023-2024
 
 1. #311 (#66 de TecNM) _Los Tilines_ (Clasificatorio)
 1. #331 (#74 de TecNM) _Los Rivera_ (Clasificatorio)
@@ -148,6 +166,7 @@
 1. #439 (#120 de TecNM) _Pangolin_ (Clasificatorio)
 1. #440 (#121 de TecNM) _Los Angeles_ (Clasificatorio)
 1. #441 (#122 de TecNM) _Los Lemures_ (Clasificatorio)
+
 
 
 

@@ -10,17 +10,29 @@
 
 ## Participaciones
 
-### 2018-2019
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **3** | **3** |
+| 2018-2019 | 0 | 0 | 1 | 1 |
+| 2020-2021 | 0 | 0 | 1 | 1 |
+| 2022-2023 | 0 | 0 | 1 | 1 |
+
+### Detalle
+
+#### 2018-2019
 
 1. #395 _Dumas_ (Clasificatorio)
 
-### 2020-2021
+#### 2020-2021
 
 1. #268 _ACM amo_ (Clasificatorio)
 
-### 2022-2023
+#### 2022-2023
 
 1. #382 _G3_ (Clasificatorio)
+
 
 
 

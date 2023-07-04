@@ -8,9 +8,19 @@
 
 ## Participaciones
 
-### 2009-2010
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **1** | **0** | **1** |
+| 2009-2010 | 0 | 1 | 0 | 1 |
+
+### Detalle
+
+#### 2009-2010
 
 1. #91 (#21 de TecNM) _ITLA_ (Regional)
+
 
 
 

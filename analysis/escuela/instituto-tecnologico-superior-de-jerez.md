@@ -16,23 +16,35 @@
 
 ## Participaciones
 
-### 2015-2016
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **9** | **9** |
+| 2015-2016 | 0 | 0 | 3 | 3 |
+| 2018-2019 | 0 | 0 | 1 | 1 |
+| 2019-2020 | 0 | 0 | 5 | 5 |
+
+### Detalle
+
+#### 2015-2016
 
 1. #108 (#28 de TecNM) _Noobsters_ (Clasificatorio)
 1. #108 (#28 de TecNM) _Rogers_ (Clasificatorio)
 1. #108 (#28 de TecNM) _Rubik_ (Clasificatorio)
 
-### 2018-2019
+#### 2018-2019
 
 1. #395 (#159 de TecNM) _Kings of Code_ (Clasificatorio)
 
-### 2019-2020
+#### 2019-2020
 
 1. #382 (#98 de TecNM) _Alpha Code_ (Clasificatorio)
 1. #382 (#98 de TecNM) _Noobsters_ (Clasificatorio)
 1. #382 (#98 de TecNM) _QualitySoft_ (Clasificatorio)
 1. #382 (#98 de TecNM) _Team Prophet_ (Clasificatorio)
 1. #382 (#98 de TecNM) _VCode_ (Clasificatorio)
+
 
 
 

@@ -17,7 +17,18 @@
 
 ## Participaciones
 
-### 2019-2020
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **16** | **16** |
+| 2019-2020 | 0 | 0 | 7 | 7 |
+| 2021-2022 | 0 | 0 | 4 | 4 |
+| 2022-2023 | 0 | 0 | 5 | 5 |
+
+### Detalle
+
+#### 2019-2020
 
 1. #382 (#98 de TecNM) _A.K.A. Programadores_ (Clasificatorio)
 1. #382 (#98 de TecNM) _ABMODEL_ (Clasificatorio)
@@ -27,20 +38,21 @@
 1. #382 (#98 de TecNM) _Mister robot_ (Clasificatorio)
 1. #382 (#98 de TecNM) _Tec Developers_ (Clasificatorio)
 
-### 2021-2022
+#### 2021-2022
 
 1. #226 (#36 de TecNM) _E.P.A.S.U.B.A._ (Clasificatorio)
 1. #226 (#36 de TecNM) _Prograrookies_ (Clasificatorio)
 1. #226 (#36 de TecNM) _kawai_ (Clasificatorio)
 1. #226 (#36 de TecNM) _team_oster_ (Clasificatorio)
 
-### 2022-2023
+#### 2022-2023
 
 1. #382 (#82 de TecNM) _Beta_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Bytes_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Empty_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Inge's_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Lisdexia_ (Clasificatorio)
+
 
 
 

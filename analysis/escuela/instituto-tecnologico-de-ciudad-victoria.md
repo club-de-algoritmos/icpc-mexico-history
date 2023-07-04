@@ -17,34 +17,49 @@
 
 ## Participaciones
 
-### 2001-2002
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **18** | **0** | **18** |
+| 2001-2002 | 0 | 2 | 0 | 2 |
+| 2002-2003 | 0 | 2 | 0 | 2 |
+| 2003-2004 | 0 | 4 | 0 | 4 |
+| 2004-2005 | 0 | 1 | 0 | 1 |
+| 2005-2006 | 0 | 3 | 0 | 3 |
+| 2007-2008 | 0 | 5 | 0 | 5 |
+| 2008-2009 | 0 | 1 | 0 | 1 |
+
+### Detalle
+
+#### 2001-2002
 
 1. #19 (#5 de TecNM) _Tec Victoria 2_ (Regional)
 1. #55 (#13 de TecNM) _Tec Victoria 1_ (Regional)
 
-### 2002-2003
+#### 2002-2003
 
 1. #27 (#3 de TecNM) _MAI Team_ (Regional)
 1. #27 (#3 de TecNM) _X-NET_ (Regional)
 
-### 2003-2004
+#### 2003-2004
 
 1. #41 (#9 de TecNM) _ITCV-1_ (Regional)
 1. #41 (#9 de TecNM) _ITCV-2_ (Regional)
 1. #41 (#9 de TecNM) _ITCV-3_ (Regional)
 1. #41 (#9 de TecNM) _ITCV-4_ (Regional)
 
-### 2004-2005
+#### 2004-2005
 
 1. #57 (#12 de TecNM) _Gigabyte_ (Regional)
 
-### 2005-2006
+#### 2005-2006
 
 1. #38 (#4 de TecNM) _Worms_ (Regional)
 1. #85 (#11 de TecNM) _2Active_ (Regional)
 1. #85 (#11 de TecNM) _Gigabyte_ (Regional)
 
-### 2007-2008
+#### 2007-2008
 
 1. #26 (#4 de TecNM) _Code Poets_ (Regional)
 1. #61 (#15 de TecNM) _Code Team_ (Regional)
@@ -52,9 +67,10 @@
 1. #61 (#15 de TecNM) _SYSTEMS 04_ (Regional)
 1. #61 (#15 de TecNM) _SYSTEMS 06_ (Regional)
 
-### 2008-2009
+#### 2008-2009
 
 1. #74 (#12 de TecNM) _CodePoets_ (Regional)
+
 
 
 

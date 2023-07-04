@@ -8,9 +8,19 @@
 
 ## Participaciones
 
-### 2001-2002
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **1** | **0** | **1** |
+| 2001-2002 | 0 | 1 | 0 | 1 |
+
+### Detalle
+
+#### 2001-2002
 
 1. #14 _ZORROS_ (Regional)
+
 
 
 

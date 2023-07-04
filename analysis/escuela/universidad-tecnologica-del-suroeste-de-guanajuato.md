@@ -9,13 +9,24 @@
 
 ## Participaciones
 
-### 2014-2015
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **2** | **2** |
+| 2014-2015 | 0 | 0 | 1 | 1 |
+| 2016-2017 | 0 | 0 | 1 | 1 |
+
+### Detalle
+
+#### 2014-2015
 
 1. #166 _ITIC-UTSOE_ (Clasificatorio)
 
-### 2016-2017
+#### 2016-2017
 
 1. #121 _TIC.18G_ (Clasificatorio)
+
 
 
 

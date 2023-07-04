@@ -11,18 +11,30 @@
 
 ## Participaciones
 
-### 2003-2004
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **4** | **0** | **4** |
+| 2003-2004 | 0 | 1 | 0 | 1 |
+| 2005-2006 | 0 | 2 | 0 | 2 |
+| 2006-2007 | 0 | 1 | 0 | 1 |
+
+### Detalle
+
+#### 2003-2004
 
 1. #41 _Sonoran Supremacy_ (Regional)
 
-### 2005-2006
+#### 2005-2006
 
 1. #85 _LosTres_ (Regional)
 1. #85 _OmegaDelta_ (Regional)
 
-### 2006-2007
+#### 2006-2007
 
 1. #77 _Sonora Technologies_ (Regional)
+
 
 
 

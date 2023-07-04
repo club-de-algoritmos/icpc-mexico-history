@@ -10,17 +10,29 @@
 
 ## Participaciones
 
-### 2009-2010
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **2** | **1** | **3** |
+| 2009-2010 | 0 | 1 | 0 | 1 |
+| 2010-2011 | 0 | 1 | 0 | 1 |
+| 2022-2023 | 0 | 0 | 1 | 1 |
+
+### Detalle
+
+#### 2009-2010
 
 1. #89 _OMIJAL - CETI_ (Regional)
 
-### 2010-2011
+#### 2010-2011
 
 1. #127 _CETI Guan_ (Regional)
 
-### 2022-2023
+#### 2022-2023
 
 1. #382 _FAST in Ohio_ (Clasificatorio)
+
 
 
 

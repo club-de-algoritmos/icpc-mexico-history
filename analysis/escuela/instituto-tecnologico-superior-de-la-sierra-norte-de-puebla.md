@@ -11,15 +11,26 @@
 
 ## Participaciones
 
-### 2019-2020
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **4** | **4** |
+| 2019-2020 | 0 | 0 | 1 | 1 |
+| 2022-2023 | 0 | 0 | 3 | 3 |
+
+### Detalle
+
+#### 2019-2020
 
 1. #382 (#98 de TecNM) _LTS_ (Clasificatorio)
 
-### 2022-2023
+#### 2022-2023
 
 1. #382 (#82 de TecNM) _CASTORES 1_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Castores4_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Jufadi-Mex_ (Clasificatorio)
+
 
 
 

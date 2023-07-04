@@ -10,17 +10,29 @@
 
 ## Participaciones
 
-### 2001-2002
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **3** | **0** | **3** |
+| 2001-2002 | 0 | 1 | 0 | 1 |
+| 2003-2004 | 0 | 1 | 0 | 1 |
+| 2004-2005 | 0 | 1 | 0 | 1 |
+
+### Detalle
+
+#### 2001-2002
 
 1. #50 _IEST_ (Regional)
 
-### 2003-2004
+#### 2003-2004
 
 1. #41 _Los Geeks_ (Regional)
 
-### 2004-2005
+#### 2004-2005
 
 1. #35 _SIMON INC_ (Regional)
+
 
 
 

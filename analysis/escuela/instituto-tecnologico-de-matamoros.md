@@ -17,16 +17,30 @@
 
 ## Participaciones
 
-### 2006-2007
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **3** | **12** | **15** |
+| 2006-2007 | 0 | 1 | 0 | 1 |
+| 2007-2008 | 0 | 2 | 0 | 2 |
+| 2018-2019 | 0 | 0 | 5 | 5 |
+| 2019-2020 | 0 | 0 | 5 | 5 |
+| 2020-2021 | 0 | 0 | 1 | 1 |
+| 2021-2022 | 0 | 0 | 1 | 1 |
+
+### Detalle
+
+#### 2006-2007
 
 1. #85 (#19 de TecNM) _Gorilas_ (Regional)
 
-### 2007-2008
+#### 2007-2008
 
 1. #61 (#15 de TecNM) _ITM_Gorilas1_ (Regional)
 1. #61 (#15 de TecNM) _ITM_Gorilas2_ (Regional)
 
-### 2018-2019
+#### 2018-2019
 
 1. #395 (#159 de TecNM) _Dark knight’s_ (Clasificatorio)
 1. #395 (#159 de TecNM) _IRSSALO_ (Clasificatorio)
@@ -34,7 +48,7 @@
 1. #395 (#159 de TecNM) _The Winter_ (Clasificatorio)
 1. #395 (#159 de TecNM) _√ELOALPHA_ (Clasificatorio)
 
-### 2019-2020
+#### 2019-2020
 
 1. #334 (#76 de TecNM) _Tacos++_ (Clasificatorio)
 1. #382 (#98 de TecNM) _Hawks_ (Clasificatorio)
@@ -42,13 +56,14 @@
 1. #382 (#98 de TecNM) _Televisa Presenta_ (Clasificatorio)
 1. #382 (#98 de TecNM) _TheTokens_ (Clasificatorio)
 
-### 2020-2021
+#### 2020-2021
 
 1. #276 (#34 de TecNM) _#GoriBytes_ (Clasificatorio)
 
-### 2021-2022
+#### 2021-2022
 
 1. #226 (#36 de TecNM) _while gorilas:_ (Clasificatorio)
+
 
 
 

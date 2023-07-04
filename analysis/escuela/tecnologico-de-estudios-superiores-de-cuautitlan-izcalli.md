@@ -17,25 +17,37 @@
 
 ## Participaciones
 
-### 2020-2021
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **11** | **11** |
+| 2020-2021 | 0 | 0 | 4 | 4 |
+| 2021-2022 | 0 | 0 | 2 | 2 |
+| 2022-2023 | 0 | 0 | 5 | 5 |
+
+### Detalle
+
+#### 2020-2021
 
 1. #351 _Coding TESCI_ (Clasificatorio)
 1. #351 _Escuadrón Rino TIC_ (Clasificatorio)
 1. #351 _Maravilla Programadora_ (Clasificatorio)
 1. #351 _TeamTesci_ (Clasificatorio)
 
-### 2021-2022
+#### 2021-2022
 
 1. #226 _Meliora_ (Clasificatorio)
 1. #226 _Zooming_ (Clasificatorio)
 
-### 2022-2023
+#### 2022-2023
 
 1. #382 _Black Homies_ (Clasificatorio)
 1. #382 _CALIGARIS_ (Clasificatorio)
 1. #382 _Las Cariñosas 931_ (Clasificatorio)
 1. #382 _Rhinos Programmers_ (Clasificatorio)
 1. #382 _Águilas Aztecas_ (Clasificatorio)
+
 
 
 

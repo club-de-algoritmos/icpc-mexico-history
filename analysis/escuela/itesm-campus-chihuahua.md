@@ -17,18 +17,29 @@
 
 ## Participaciones
 
-### 2019-2020
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **2** | **17** | **17** |
+| 2019-2020 | 0 | 0 | 1 | 1 |
+| 2020-2021 | 0 | 1 | 4 | 4 |
+| 2021-2022 | 0 | 1 | 12 | 12 |
+
+### Detalle
+
+#### 2019-2020
 
 1. #124 _CODErregos_ (Clasificatorio)
 
-### 2020-2021
+#### 2020-2021
 
 1. #52 _CODErregos_ (Regional)
 1. #223 _ITChads_ (Clasificatorio)
 1. #264 _Code gang_ (Clasificatorio)
 1. #281 _CLY_ (Clasificatorio)
 
-### 2021-2022
+#### 2021-2022
 
 1. #50 _2 boys 1 dog_ (Regional)
 1. #117 _TuringCompletists_ (Clasificatorio)
@@ -42,6 +53,7 @@
 1. #226 _Omega_ (Clasificatorio)
 1. #226 _TecTeam_ (Clasificatorio)
 1. #226 _Wikipedianos_ (Clasificatorio)
+
 
 
 

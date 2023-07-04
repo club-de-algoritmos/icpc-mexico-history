@@ -13,23 +13,36 @@
 
 ## Participaciones
 
-### 2008-2009
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **4** | **2** | **6** |
+| 2008-2009 | 0 | 1 | 0 | 1 |
+| 2010-2011 | 0 | 2 | 0 | 2 |
+| 2011-2012 | 0 | 1 | 0 | 1 |
+| 2016-2017 | 0 | 0 | 2 | 2 |
+
+### Detalle
+
+#### 2008-2009
 
 1. #101 _iTIC Tekito_ (Regional)
 
-### 2010-2011
+#### 2010-2011
 
 1. #66 _The Expendables_ (Regional)
 1. #76 _Los aprendices_ (Regional)
 
-### 2011-2012
+#### 2011-2012
 
 1. #39 _The Expendables_ (Regional)
 
-### 2016-2017
+#### 2016-2017
 
 1. #121 _CyberRams1_ (Clasificatorio)
 1. #121 _c0derz_ (Clasificatorio)
+
 
 
 

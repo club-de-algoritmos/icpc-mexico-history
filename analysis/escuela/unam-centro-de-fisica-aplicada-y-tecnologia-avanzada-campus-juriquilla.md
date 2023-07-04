@@ -9,10 +9,20 @@
 
 ## Participaciones
 
-### 2017-2018
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **2** | **2** |
+| 2017-2018 | 0 | 0 | 2 | 2 |
+
+### Detalle
+
+#### 2017-2018
 
 1. #188 _PIC_ (Clasificatorio)
 1. #405 _VICTOREM_ (Clasificatorio)
+
 
 
 

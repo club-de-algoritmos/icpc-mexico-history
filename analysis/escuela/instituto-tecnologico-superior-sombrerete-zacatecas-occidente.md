@@ -17,51 +17,70 @@
 
 ## Participaciones
 
-### 2004-2005
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **5** | **11** | **16** |
+| 2004-2005 | 0 | 1 | 0 | 1 |
+| 2005-2006 | 0 | 1 | 0 | 1 |
+| 2006-2007 | 0 | 1 | 0 | 1 |
+| 2007-2008 | 0 | 1 | 0 | 1 |
+| 2008-2009 | 0 | 1 | 0 | 1 |
+| 2016-2017 | 0 | 0 | 1 | 1 |
+| 2017-2018 | 0 | 0 | 3 | 3 |
+| 2018-2019 | 0 | 0 | 2 | 2 |
+| 2019-2020 | 0 | 0 | 1 | 1 |
+| 2022-2023 | 0 | 0 | 4 | 4 |
+
+### Detalle
+
+#### 2004-2005
 
 1. #90 (#22 de TecNM) _TOPOS-SIS_ (Regional)
 
-### 2005-2006
+#### 2005-2006
 
 1. #85 (#11 de TecNM) _TopoSIS_ (Regional)
 
-### 2006-2007
+#### 2006-2007
 
 1. #61 (#12 de TecNM) _Topos ITSZO_ (Regional)
 
-### 2007-2008
+#### 2007-2008
 
 1. #42 (#9 de TecNM) _Topos I.T.S.Z.O_ (Regional)
 
-### 2008-2009
+#### 2008-2009
 
 1. #101 (#26 de TecNM) _Topos_ (Regional)
 
-### 2016-2017
+#### 2016-2017
 
 1. #121 (#20 de TecNM) _Topos_ (Clasificatorio)
 
-### 2017-2018
+#### 2017-2018
 
 1. #339 (#72 de TecNM) _Pop Team_ (Clasificatorio)
 1. #405 (#97 de TecNM) _ItszoCode_ (Clasificatorio)
 1. #405 (#97 de TecNM) _Los Colombianos_ (Clasificatorio)
 
-### 2018-2019
+#### 2018-2019
 
 1. #337 (#79 de TecNM) _PyCo_ (Clasificatorio)
 1. #347 (#82 de TecNM) _insultin y unaceptabol_ (Clasificatorio)
 
-### 2019-2020
+#### 2019-2020
 
 1. #382 (#98 de TecNM) _ITSZO1_ (Clasificatorio)
 
-### 2022-2023
+#### 2022-2023
 
 1. #193 (#34 de TecNM) _CXC Code_ (Clasificatorio)
 1. #240 (#46 de TecNM) _Lobos del Escuadrón_ (Clasificatorio)
 1. #382 (#82 de TecNM) _#IncludeITSZO_ (Clasificatorio)
 1. #382 (#82 de TecNM) _ITSZOCoding_ (Clasificatorio)
+
 
 
 

@@ -9,10 +9,20 @@
 
 ## Participaciones
 
-### 2001-2002
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **2** | **0** | **2** |
+| 2001-2002 | 0 | 2 | 0 | 2 |
+
+### Detalle
+
+#### 2001-2002
 
 1. #55 _Lobas_ (Regional)
 1. #55 _Lobos_ (Regional)
+
 
 
 

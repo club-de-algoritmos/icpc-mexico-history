@@ -14,7 +14,16 @@
 
 ## Participaciones
 
-### 2022-2023
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **7** | **7** |
+| 2022-2023 | 0 | 0 | 7 | 7 |
+
+### Detalle
+
+#### 2022-2023
 
 1. #382 (#82 de TecNM) _Dragons ITSL_ (Clasificatorio)
 1. #382 (#82 de TecNM) _DreamTeam_ (Clasificatorio)
@@ -23,6 +32,7 @@
 1. #382 (#82 de TecNM) _Smart Coding_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Spectrus Software_ (Clasificatorio)
 1. #382 (#82 de TecNM) _wolves-programmers_ (Clasificatorio)
+
 
 
 

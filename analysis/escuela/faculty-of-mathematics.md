@@ -8,9 +8,19 @@
 
 ## Participaciones
 
-### 2005-2006
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **1** | **0** | **1** |
+| 2005-2006 | 0 | 1 | 0 | 1 |
+
+### Detalle
+
+#### 2005-2006
 
 1. #85 _Tzotzes_ (Regional)
+
 
 
 

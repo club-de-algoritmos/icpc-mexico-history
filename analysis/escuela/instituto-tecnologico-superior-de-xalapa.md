@@ -9,13 +9,24 @@
 
 ## Participaciones
 
-### 2001-2002
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **1** | **1** | **2** |
+| 2001-2002 | 0 | 1 | 0 | 1 |
+| 2020-2021 | 0 | 0 | 1 | 1 |
+
+### Detalle
+
+#### 2001-2002
 
 1. #55 (#13 de TecNM) _ITSX_ (Regional)
 
-### 2020-2021
+#### 2020-2021
 
 1. #351 (#65 de TecNM) _JuniorsITSX_ (Clasificatorio)
+
 
 
 

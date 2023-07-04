@@ -15,22 +15,34 @@
 
 ## Participaciones
 
-### 2020-2021
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **8** | **8** |
+| 2020-2021 | 0 | 0 | 3 | 3 |
+| 2021-2022 | 0 | 0 | 1 | 1 |
+| 2022-2023 | 0 | 0 | 4 | 4 |
+
+### Detalle
+
+#### 2020-2021
 
 1. #297 (#39 de TecNM) _BinaryFox_ (Clasificatorio)
 1. #351 (#65 de TecNM) _Capuchino Team_ (Clasificatorio)
 1. #351 (#65 de TecNM) _Tacos_ (Clasificatorio)
 
-### 2021-2022
+#### 2021-2022
 
 1. #226 (#36 de TecNM) _ITSNCG_ (Clasificatorio)
 
-### 2022-2023
+#### 2022-2023
 
 1. #382 (#82 de TecNM) _.jar_ (Clasificatorio)
 1. #382 (#82 de TecNM) _BinaryFox_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Kim Ten_ (Clasificatorio)
 1. #382 (#82 de TecNM) _NavBros _ (Clasificatorio)
+
 
 
 

@@ -11,12 +11,22 @@
 
 ## Participaciones
 
-### 2016-2017
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **4** | **4** |
+| 2016-2017 | 0 | 0 | 4 | 4 |
+
+### Detalle
+
+#### 2016-2017
 
 1. #121 _Akatsuki_ (Clasificatorio)
 1. #121 _Blade Breakers_ (Clasificatorio)
 1. #121 _Turn Down for What_ (Clasificatorio)
 1. #121 _White Tigers_ (Clasificatorio)
+
 
 
 

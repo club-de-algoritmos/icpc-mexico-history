@@ -9,13 +9,24 @@
 
 ## Participaciones
 
-### 2010-2011
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **2** | **0** | **2** |
+| 2010-2011 | 0 | 1 | 0 | 1 |
+| 2012-2013 | 0 | 1 | 0 | 1 |
+
+### Detalle
+
+#### 2010-2011
 
 1. #27 _Nomen nescio_ (Regional)
 
-### 2012-2013
+#### 2012-2013
 
 1. #42 _aguascalientitos_ (Regional)
+
 
 
 

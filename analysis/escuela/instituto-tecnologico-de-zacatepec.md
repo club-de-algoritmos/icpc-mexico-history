@@ -9,13 +9,24 @@
 
 ## Participaciones
 
-### 2022-2023
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **2** | **2** |
+| 2022-2023 | 0 | 0 | 1 | 1 |
+| 2023-2024 | 0 | 0 | 1 | 1 |
+
+### Detalle
+
+#### 2022-2023
 
 1. #382 (#82 de TecNM) _Juniors_ (Clasificatorio)
 
-### 2023-2024
+#### 2023-2024
 
 1. #46 (#5 de TecNM) _Juniors_ (Clasificatorio)
+
 
 
 

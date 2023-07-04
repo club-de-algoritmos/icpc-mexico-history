@@ -8,9 +8,19 @@
 
 ## Participaciones
 
-### 2022-2023
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **1** | **1** |
+| 2022-2023 | 0 | 0 | 1 | 1 |
+
+### Detalle
+
+#### 2022-2023
 
 1. #382 _OMI_AEJ_ (Clasificatorio)
+
 
 
 

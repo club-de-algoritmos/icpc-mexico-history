@@ -8,9 +8,19 @@
 
 ## Participaciones
 
-### 2011-2012
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **1** | **0** | **1** |
+| 2011-2012 | 0 | 1 | 0 | 1 |
+
+### Detalle
+
+#### 2011-2012
 
 1. #102 (#32 de TecNM) _conejos_ (Regional)
+
 
 
 

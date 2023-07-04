@@ -11,15 +11,26 @@
 
 ## Participaciones
 
-### 2019-2020
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **4** | **4** |
+| 2019-2020 | 0 | 0 | 2 | 2 |
+| 2021-2022 | 0 | 0 | 2 | 2 |
+
+### Detalle
+
+#### 2019-2020
 
 1. #382 (#98 de TecNM) _INFOTEC5_ (Clasificatorio)
 1. #382 (#98 de TecNM) _Team KratoSM_ (Clasificatorio)
 
-### 2021-2022
+#### 2021-2022
 
 1. #226 (#36 de TecNM) _ITSM_KRATOS3.0_ (Clasificatorio)
 1. #226 (#36 de TecNM) _informáticosfive_ (Clasificatorio)
+
 
 
 

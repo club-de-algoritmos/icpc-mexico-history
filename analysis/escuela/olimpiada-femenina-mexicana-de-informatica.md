@@ -9,10 +9,20 @@
 
 ## Participaciones
 
-### 2021-2022
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **2** | **0** | **2** |
+| 2021-2022 | 0 | 2 | 0 | 2 |
+
+### Detalle
+
+#### 2021-2022
 
 1. #55 _Rojo (OFMI Guanajuato)_ (Regional)
 1. #55 _Azul (OFMI Nacional)_ (Regional)
+
 
 
 

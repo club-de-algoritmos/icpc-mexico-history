@@ -13,20 +13,32 @@
 
 ## Participaciones
 
-### 2020-2021
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **6** | **6** |
+| 2020-2021 | 0 | 0 | 3 | 3 |
+| 2021-2022 | 0 | 0 | 2 | 2 |
+| 2022-2023 | 0 | 0 | 1 | 1 |
+
+### Detalle
+
+#### 2020-2021
 
 1. #351 _Ciberneticas TESE_ (Clasificatorio)
 1. #351 _KutzIng_ (Clasificatorio)
 1. #351 _Xok-TESE_ (Clasificatorio)
 
-### 2021-2022
+#### 2021-2022
 
 1. #226 _Creators of the future_ (Clasificatorio)
 1. #226 _Digital Kutzing of TESE_ (Clasificatorio)
 
-### 2022-2023
+#### 2022-2023
 
 1. #382 _TESEPEQUENSES_ (Clasificatorio)
+
 
 
 

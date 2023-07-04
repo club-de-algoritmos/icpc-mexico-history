@@ -17,7 +17,17 @@
 
 ## Participaciones
 
-### 2019-2020
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **10** | **10** |
+| 2019-2020 | 0 | 0 | 7 | 7 |
+| 2020-2021 | 0 | 0 | 3 | 3 |
+
+### Detalle
+
+#### 2019-2020
 
 1. #382 (#98 de TecNM) _Afflatus_ (Clasificatorio)
 1. #382 (#98 de TecNM) _FCC System_ (Clasificatorio)
@@ -27,11 +37,12 @@
 1. #382 (#98 de TecNM) _LOS PICATECLAS_ (Clasificatorio)
 1. #382 (#98 de TecNM) _Team Dinamita_ (Clasificatorio)
 
-### 2020-2021
+#### 2020-2021
 
 1. #351 (#65 de TecNM) _Avengers_ (Clasificatorio)
 1. #351 (#65 de TecNM) _Junior SARUMA_ (Clasificatorio)
 1. #351 (#65 de TecNM) _Soy Tec_ (Clasificatorio)
+
 
 
 

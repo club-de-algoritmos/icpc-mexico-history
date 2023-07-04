@@ -9,10 +9,20 @@
 
 ## Participaciones
 
-### 2002-2003
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **2** | **0** | **2** |
+| 2002-2003 | 0 | 2 | 0 | 2 |
+
+### Detalle
+
+#### 2002-2003
 
 1. #27 _M@JUSTO_ (Regional)
 1. #27 _NPIP_ (Regional)
+
 
 
 

@@ -17,14 +17,29 @@
 
 ## Participaciones
 
-### 2001-2002
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **47** | **0** | **47** |
+| 2001-2002 | 0 | 4 | 0 | 4 |
+| 2002-2003 | 0 | 7 | 0 | 7 |
+| 2003-2004 | 0 | 6 | 0 | 6 |
+| 2004-2005 | 0 | 4 | 0 | 4 |
+| 2005-2006 | 0 | 8 | 0 | 8 |
+| 2006-2007 | 0 | 11 | 0 | 11 |
+| 2007-2008 | 0 | 7 | 0 | 7 |
+
+### Detalle
+
+#### 2001-2002
 
 1. #18 _Deth-Therion_ (Regional)
 1. #44 _Los Afro_ (Regional)
 1. #55 _LO QUE SEA_ (Regional)
 1. #55 _Tec Campus Mazatlán_ (Regional)
 
-### 2002-2003
+#### 2002-2003
 
 1. #7 _Campus Mazatlán_ (Regional)
 1. #13 _HMJ21_ (Regional)
@@ -34,7 +49,7 @@
 1. #27 _Knights EC_ (Regional)
 1. #27 _drink team_ (Regional)
 
-### 2003-2004
+#### 2003-2004
 
 1. #26 _.RHR._ (Regional)
 1. #30 _ISC++_ (Regional)
@@ -43,14 +58,14 @@
 1. #41 _Campus Mazatlán_ (Regional)
 1. #41 _Mazatlán II_ (Regional)
 
-### 2004-2005
+#### 2004-2005
 
 1. #5 _MTY1_ (Regional)
 1. #11 _MTY2_ (Regional)
 1. #80 _itesm 4_ (Regional)
 1. #90 _MTY3_ (Regional)
 
-### 2005-2006
+#### 2005-2006
 
 1. #4 _MTY01_ (Regional)
 1. #8 _javaglets_ (Regional)
@@ -61,7 +76,7 @@
 1. #32 _2 hot 2 handle_ (Regional)
 1. #46 _ITESM Masters_ (Regional)
 
-### 2006-2007
+#### 2006-2007
 
 1. #23 _Revival_ (Regional)
 1. #30 _Burros sin Mecate_ (Regional)
@@ -75,7 +90,7 @@
 1. #85 _Los Mazatlecos_ (Regional)
 1. #85 _Punishers_ (Regional)
 
-### 2007-2008
+#### 2007-2008
 
 1. #6 _los punteros_ (Regional)
 1. #19 _ITESM CEM_ (Regional)
@@ -84,6 +99,7 @@
 1. #61 _FORZA ITIC 1_ (Regional)
 1. #61 _Pascaleros_ (Regional)
 1. #61 _Top Coder_ (Regional)
+
 
 
 

@@ -21,43 +21,68 @@
 
 ## Participaciones
 
-### 2007-2008
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **4** | **33** | **90** | **103** |
+| 2007-2008 | 0 | 1 | 0 | 1 |
+| 2008-2009 | 0 | 2 | 0 | 2 |
+| 2009-2010 | 0 | 1 | 0 | 1 |
+| 2010-2011 | 0 | 2 | 0 | 2 |
+| 2011-2012 | 0 | 1 | 0 | 1 |
+| 2012-2013 | 1 | 3 | 0 | 3 |
+| 2013-2014 | 1 | 3 | 0 | 3 |
+| 2014-2015 | 0 | 1 | 5 | 5 |
+| 2015-2016 | 0 | 2 | 8 | 8 |
+| 2016-2017 | 0 | 2 | 8 | 8 |
+| 2017-2018 | 0 | 2 | 5 | 5 |
+| 2018-2019 | 0 | 2 | 5 | 5 |
+| 2019-2020 | 1 | 3 | 12 | 12 |
+| 2020-2021 | 1 | 2 | 9 | 9 |
+| 2021-2022 | 0 | 3 | 10 | 10 |
+| 2022-2023 | 0 | 3 | 14 | 14 |
+| 2023-2024 | 0 | 0 | 14 | 14 |
+
+### Detalle
+
+#### 2007-2008
 
 1. #7 _Time limit exceeded_ (Regional)
 
-### 2008-2009
+#### 2008-2009
 
 1. #61 _MPT3_ (Regional)
 1. #101 _QWERTY_ (Regional)
 
-### 2009-2010
+#### 2009-2010
 
 1. #52 _qwerty_ (Regional)
 
-### 2010-2011
+#### 2010-2011
 
 1. #36 _Los No Primos_ (Regional)
 1. #55 _Los Primos_ (Regional)
 
-### 2011-2012
+#### 2011-2012
 
 1. #17 _Dos Primos y un Nacho_ (Regional)
 
-### 2012-2013
+#### 2012-2013
 
 1. #2 _AEI_ (Regional)
     - Avanzó a la final mundial y resolvió 2 problemas obtuviendo el lugar #76 (36%) en 37th Annual World Finals of the ACM International Collegiate Programming Contest
 1. #36 _PHP_ (Regional)
 1. #50 _Los Guapos_ (Regional)
 
-### 2013-2014
+#### 2013-2014
 
 1. #3 _Los Chidory_ (Regional)
     - Avanzó a la final mundial y resolvió 2 problemas obtuviendo el lugar #45 (64%) en 38th Annual World Finals of the ACM International Collegiate Programming Contest
 1. #31 _Logic Bytes_ (Regional)
 1. #55 _Los Greñuditos_ (Regional)
 
-### 2014-2015
+#### 2014-2015
 
 1. #17 _Imaginationless_ (Regional)
 1. #47 _esetedio.h_ (Clasificatorio)
@@ -65,7 +90,7 @@
 1. #91 _Los Greñuditos_ (Clasificatorio)
 1. #92 _Chicolitos_ (Clasificatorio)
 
-### 2015-2016
+#### 2015-2016
 
 1. #8 _Lla++_ (Regional)
 1. #30 _BRP_ (Clasificatorio)
@@ -76,7 +101,7 @@
 1. #108 _Los indecisos_ (Clasificatorio)
 1. #108 _SEH++_ (Clasificatorio)
 
-### 2016-2017
+#### 2016-2017
 
 1. #7 _Sopa de pingüino_ (Regional)
 1. #11 _Pinguinos de sopa_ (Regional)
@@ -87,7 +112,7 @@
 1. #121 _SEE++_ (Clasificatorio)
 1. #121 _U.P. NES_ (Clasificatorio)
 
-### 2017-2018
+#### 2017-2018
 
 1. #11 _UPdated_ (Regional)
 1. #20 _Team Processing_ (Regional)
@@ -95,7 +120,7 @@
 1. #50 _Por decidir_ (Clasificatorio)
 1. #306 _SeisDosSeis_ (Clasificatorio)
 
-### 2018-2019
+#### 2018-2019
 
 1. #5 _UPsolving_ (Regional)
 1. #25 _YaSabesQuien_ (Regional)
@@ -103,7 +128,7 @@
 1. #57 _Los Sustitutos_ (Clasificatorio)
 1. #153 _MonMarPe_ (Clasificatorio)
 
-### 2019-2020
+#### 2019-2020
 
 1. #8 _UPsolving_ (Regional)
     - Avanzó a la final mundial y resolvió None problemas obtuviendo el lugar #47 (61%) en 44th Annual World Finals of the International Collegiate Programming Contest
@@ -119,7 +144,7 @@
 1. #382 _FaAnPa_ (Clasificatorio)
 1. #382 _Iktan_ (Clasificatorio)
 
-### 2020-2021
+#### 2020-2021
 
 1. #5 _UPsolving_ (Regional)
     - Avanzó a la final mundial y resolvió 5 problemas obtuviendo el lugar #41 (69%) en 45th Annual World Finals of the International Collegiate Programming Contest
@@ -132,7 +157,7 @@
 1. #184 _Las pistas del bug_ (Clasificatorio)
 1. #214 _Mictlantecuhtli_ (Clasificatorio)
 
-### 2021-2022
+#### 2021-2022
 
 1. #6 _ICPCrikos_ (Regional)
 1. #9 _Easy-PC_ (Regional)
@@ -145,7 +170,7 @@
 1. #104 _TinMarin_ (Clasificatorio)
 1. #202 _INCoders_ (Clasificatorio)
 
-### 2022-2023
+#### 2022-2023
 
 1. #2 _UPsolving_ (Regional)
 1. #6 _Chicos_Percebe_ (Regional)
@@ -162,7 +187,7 @@
 1. #382 _ TLEn't_ (Clasificatorio)
 1. #382 _Aztecoders_ (Clasificatorio)
 
-### 2023-2024
+#### 2023-2024
 
 1. #3 _Las tortillas de Héctor_ (Clasificatorio)
 1. #10 _ICPCrikos_ (Clasificatorio)
@@ -178,6 +203,7 @@
 1. #344 _Bugs Bunnies_ (Clasificatorio)
 1. #364 _CHIPOCLUDOS_ (Clasificatorio)
 1. #425 _505_ (Clasificatorio)
+
 
 
 

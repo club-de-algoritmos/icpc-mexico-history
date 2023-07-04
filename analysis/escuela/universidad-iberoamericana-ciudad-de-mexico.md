@@ -11,21 +11,34 @@
 
 ## Participaciones
 
-### 2006-2007
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **4** | **0** | **4** |
+| 2006-2007 | 0 | 1 | 0 | 1 |
+| 2007-2008 | 0 | 1 | 0 | 1 |
+| 2008-2009 | 0 | 1 | 0 | 1 |
+| 2010-2011 | 0 | 1 | 0 | 1 |
+
+### Detalle
+
+#### 2006-2007
 
 1. #63 _Lobos_ (Regional)
 
-### 2007-2008
+#### 2007-2008
 
 1. #59 _Lobos_ (Regional)
 
-### 2008-2009
+#### 2008-2009
 
 1. #66 _Los Lobos UIA _ (Regional)
 
-### 2010-2011
+#### 2010-2011
 
 1. #156 _Rock N' Coders_ (Regional)
+
 
 
 

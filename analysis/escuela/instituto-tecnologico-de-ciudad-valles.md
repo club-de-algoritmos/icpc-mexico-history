@@ -12,16 +12,27 @@
 
 ## Participaciones
 
-### 2020-2021
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **5** | **5** |
+| 2020-2021 | 0 | 0 | 1 | 1 |
+| 2022-2023 | 0 | 0 | 4 | 4 |
+
+### Detalle
+
+#### 2020-2021
 
 1. #351 (#65 de TecNM) _TecValles_ (Clasificatorio)
 
-### 2022-2023
+#### 2022-2023
 
 1. #382 (#82 de TecNM) _IMG.png_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Mapachitos_ (Clasificatorio)
 1. #382 (#82 de TecNM) _WhiteCode_ (Clasificatorio)
 1. #382 (#82 de TecNM) _saludaMundos_ (Clasificatorio)
+
 
 
 

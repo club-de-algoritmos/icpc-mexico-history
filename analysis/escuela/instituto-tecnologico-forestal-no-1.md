@@ -8,9 +8,19 @@
 
 ## Participaciones
 
-### 2004-2005
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **1** | **0** | **1** |
+| 2004-2005 | 0 | 1 | 0 | 1 |
+
+### Detalle
+
+#### 2004-2005
 
 1. #90 (#22 de TecNM) _lobos_ (Regional)
+
 
 
 

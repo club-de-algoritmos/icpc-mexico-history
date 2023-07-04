@@ -12,13 +12,23 @@
 
 ## Participaciones
 
-### 2022-2023
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **5** | **5** |
+| 2022-2023 | 0 | 0 | 5 | 5 |
+
+### Detalle
+
+#### 2022-2023
 
 1. #382 (#82 de TecNM) _Browlet_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Impostores_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Los Pixis_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Umizoomi_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Union_ (Clasificatorio)
+
 
 
 

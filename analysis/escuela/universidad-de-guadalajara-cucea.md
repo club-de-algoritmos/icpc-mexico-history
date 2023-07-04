@@ -14,7 +14,17 @@
 
 ## Participaciones
 
-### 2017-2018
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **7** | **7** |
+| 2017-2018 | 0 | 0 | 6 | 6 |
+| 2018-2019 | 0 | 0 | 1 | 1 |
+
+### Detalle
+
+#### 2017-2018
 
 1. #365 _Zephyr_ (Clasificatorio)
 1. #405 _Constantes_ (Clasificatorio)
@@ -23,9 +33,10 @@
 1. #405 _Los Vagos TI_ (Clasificatorio)
 1. #405 _Underscore_ (Clasificatorio)
 
-### 2018-2019
+#### 2018-2019
 
 1. #394 _Zephyr_ (Clasificatorio)
+
 
 
 

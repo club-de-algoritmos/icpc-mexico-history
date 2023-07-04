@@ -10,14 +10,25 @@
 
 ## Participaciones
 
-### 2005-2006
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **2** | **1** | **3** |
+| 2005-2006 | 0 | 2 | 0 | 2 |
+| 2022-2023 | 0 | 0 | 1 | 1 |
+
+### Detalle
+
+#### 2005-2006
 
 1. #85 (#11 de TecNM) _ITSCe_ (Regional)
 1. #85 (#11 de TecNM) _ITSCe2_ (Regional)
 
-### 2022-2023
+#### 2022-2023
 
 1. #382 (#82 de TecNM) _Digital ITSCe2_ (Clasificatorio)
+
 
 
 

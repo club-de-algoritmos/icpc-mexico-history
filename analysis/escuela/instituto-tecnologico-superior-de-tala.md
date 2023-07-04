@@ -10,14 +10,25 @@
 
 ## Participaciones
 
-### 2017-2018
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **3** | **3** |
+| 2017-2018 | 0 | 0 | 1 | 1 |
+| 2019-2020 | 0 | 0 | 2 | 2 |
+
+### Detalle
+
+#### 2017-2018
 
 1. #405 (#97 de TecNM) _Los Spartans_ (Clasificatorio)
 
-### 2019-2020
+#### 2019-2020
 
 1. #382 (#98 de TecNM) _NapKings_ (Clasificatorio)
 1. #382 (#98 de TecNM) _epabbcomprechispitas_ (Clasificatorio)
+
 
 
 

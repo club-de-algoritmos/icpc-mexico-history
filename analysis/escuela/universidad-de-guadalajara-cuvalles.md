@@ -17,38 +17,57 @@
 
 ## Participaciones
 
-### 2007-2008
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **10** | **25** | **34** |
+| 2007-2008 | 0 | 1 | 0 | 1 |
+| 2008-2009 | 0 | 4 | 0 | 4 |
+| 2009-2010 | 0 | 2 | 0 | 2 |
+| 2010-2011 | 0 | 1 | 0 | 1 |
+| 2011-2012 | 0 | 1 | 0 | 1 |
+| 2017-2018 | 0 | 0 | 4 | 4 |
+| 2018-2019 | 0 | 1 | 8 | 8 |
+| 2019-2020 | 0 | 0 | 7 | 7 |
+| 2020-2021 | 0 | 0 | 1 | 1 |
+| 2022-2023 | 0 | 0 | 3 | 3 |
+| 2023-2024 | 0 | 0 | 2 | 2 |
+
+### Detalle
+
+#### 2007-2008
 
 1. #61 _Equipo CUValles_ (Regional)
 
-### 2008-2009
+#### 2008-2009
 
 1. #101 _Gomora_ (Regional)
 1. #101 _Los Trabajosos_ (Regional)
 1. #101 _UMI_ (Regional)
 1. #101 _VTS_ (Regional)
 
-### 2009-2010
+#### 2009-2010
 
 1. #107 _TriForce_ (Regional)
 1. #116 _T.D.D.O._ (Regional)
 
-### 2010-2011
+#### 2010-2011
 
 1. #151 _TriForce_ (Regional)
 
-### 2011-2012
+#### 2011-2012
 
 1. #89 _LOS DAERON_ (Regional)
 
-### 2017-2018
+#### 2017-2018
 
 1. #393 _La tribu_ (Clasificatorio)
 1. #405 _CHINO´S TEAM_ (Clasificatorio)
 1. #405 _SEGA_ (Clasificatorio)
 1. #405 _SOMOS LOS LLOLLOS XD_ (Clasificatorio)
 
-### 2018-2019
+#### 2018-2019
 
 1. #66 _La Tribu_ (Regional)
 1. #155 _Alpha & Omega_ (Clasificatorio)
@@ -59,7 +78,7 @@
 1. #382 _SPLACY_ (Clasificatorio)
 1. #394 _Los Winnie's_ (Clasificatorio)
 
-### 2019-2020
+#### 2019-2020
 
 1. #82 _La Tribu_ (Clasificatorio)
 1. #156 _Connectia_ (Clasificatorio)
@@ -69,20 +88,21 @@
 1. #382 _Noobs_ (Clasificatorio)
 1. #382 _Splacy_ (Clasificatorio)
 
-### 2020-2021
+#### 2020-2021
 
 1. #351 _El legado del código_ (Clasificatorio)
 
-### 2022-2023
+#### 2022-2023
 
 1. #104 _Cuvalles_ (Clasificatorio)
 1. #130 _Valles.py_ (Clasificatorio)
 1. #138 _Programamistas_ (Clasificatorio)
 
-### 2023-2024
+#### 2023-2024
 
 1. #114 _Valles.py_ (Clasificatorio)
 1. #138 _Programamistas_ (Clasificatorio)
+
 
 
 

@@ -8,9 +8,19 @@
 
 ## Participaciones
 
-### 2008-2009
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **1** | **0** | **1** |
+| 2008-2009 | 0 | 1 | 0 | 1 |
+
+### Detalle
+
+#### 2008-2009
 
 1. #98 _CIUSC_ (Regional)
+
 
 
 

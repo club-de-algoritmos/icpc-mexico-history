@@ -14,24 +14,37 @@
 
 ## Participaciones
 
-### 2015-2016
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **4** | **4** | **7** |
+| 2015-2016 | 0 | 1 | 0 | 1 |
+| 2016-2017 | 0 | 1 | 0 | 1 |
+| 2017-2018 | 0 | 1 | 4 | 4 |
+| 2018-2019 | 0 | 1 | 0 | 1 |
+
+### Detalle
+
+#### 2015-2016
 
 1. #45 _USAC_ (Regional)
 
-### 2016-2017
+#### 2016-2017
 
 1. #53 _Repechaje_ (Regional)
 
-### 2017-2018
+#### 2017-2018
 
 1. #75 _HardCore Code_ (Regional)
 1. #405 _Dwes GT_ (Clasificatorio)
 1. #405 _Rinocerontes_ (Clasificatorio)
 1. #405 _UsaC++_ (Clasificatorio)
 
-### 2018-2019
+#### 2018-2019
 
 1. #58 _HardCore Code_ (Regional)
+
 
 
 

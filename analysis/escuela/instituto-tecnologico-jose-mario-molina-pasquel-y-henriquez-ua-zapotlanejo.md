@@ -10,11 +10,21 @@
 
 ## Participaciones
 
-### 2020-2021
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **3** | **3** |
+| 2020-2021 | 0 | 0 | 3 | 3 |
+
+### Detalle
+
+#### 2020-2021
 
 1. #351 (#65 de TecNM) _ZapotlanejoInfo3_ (Clasificatorio)
 1. #351 (#65 de TecNM) _ZapotlanejoInfo5_ (Clasificatorio)
 1. #351 (#65 de TecNM) _ZapotlanejoInfo7_ (Clasificatorio)
+
 
 
 

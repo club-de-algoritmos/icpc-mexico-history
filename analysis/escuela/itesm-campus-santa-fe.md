@@ -17,13 +17,27 @@
 
 ## Participaciones
 
-### 2015-2016
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **4** | **20** | **20** |
+| 2015-2016 | 0 | 1 | 3 | 3 |
+| 2016-2017 | 0 | 2 | 5 | 5 |
+| 2017-2018 | 0 | 0 | 5 | 5 |
+| 2018-2019 | 0 | 0 | 4 | 4 |
+| 2019-2020 | 0 | 0 | 2 | 2 |
+| 2020-2021 | 0 | 1 | 1 | 1 |
+
+### Detalle
+
+#### 2015-2016
 
 1. #16 _CSF1_ (Regional)
 1. #108 _CSF2_ (Clasificatorio)
 1. #108 _CSF3_ (Clasificatorio)
 
-### 2016-2017
+#### 2016-2017
 
 1. #38 _CSF1_ (Regional)
 1. #54 _The Brewskis_ (Regional)
@@ -31,7 +45,7 @@
 1. #121 _CSF3_ (Clasificatorio)
 1. #121 _ITCrew_ (Clasificatorio)
 
-### 2017-2018
+#### 2017-2018
 
 1. #67 _Assassin Bugs_ (Clasificatorio)
 1. #79 _ITCrew_ (Clasificatorio)
@@ -39,21 +53,22 @@
 1. #314 _Los C-nadores_ (Clasificatorio)
 1. #405 _The Brewskis_ (Clasificatorio)
 
-### 2018-2019
+#### 2018-2019
 
 1. #102 _C-nadores_ (Clasificatorio)
 1. #118 _Trinidad_ (Clasificatorio)
 1. #126 _C buscan_ (Clasificatorio)
 1. #394 _Assassin Bugs_ (Clasificatorio)
 
-### 2019-2020
+#### 2019-2020
 
 1. #181 _C-nadores_ (Clasificatorio)
 1. #382 _Trinidad_ (Clasificatorio)
 
-### 2020-2021
+#### 2020-2021
 
 1. #26 _Assassin Bugs_ (Regional)
+
 
 
 

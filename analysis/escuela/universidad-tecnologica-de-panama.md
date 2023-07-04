@@ -9,10 +9,20 @@
 
 ## Participaciones
 
-### 2017-2018
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **2** | **1** | **2** |
+| 2017-2018 | 0 | 2 | 1 | 2 |
+
+### Detalle
+
+#### 2017-2018
 
 1. #12 _LCA_ (Regional)
 1. #57 _PTYCODERS_ (Regional)
+
 
 
 

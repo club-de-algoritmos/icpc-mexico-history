@@ -8,9 +8,19 @@
 
 ## Participaciones
 
-### 2007-2008
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **1** | **0** | **1** |
+| 2007-2008 | 0 | 1 | 0 | 1 |
+
+### Detalle
+
+#### 2007-2008
 
 1. #61 _BultosTeam_ (Regional)
+
 
 
 

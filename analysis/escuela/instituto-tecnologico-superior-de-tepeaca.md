@@ -17,7 +17,17 @@
 
 ## Participaciones
 
-### 2017-2018
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **11** | **11** |
+| 2017-2018 | 0 | 0 | 6 | 6 |
+| 2018-2019 | 0 | 0 | 5 | 5 |
+
+### Detalle
+
+#### 2017-2018
 
 1. #405 (#97 de TecNM) _AADFORCE_ (Clasificatorio)
 1. #405 (#97 de TecNM) _ALPHA-TEAM_ (Clasificatorio)
@@ -26,13 +36,14 @@
 1. #405 (#97 de TecNM) _Magic Code_ (Clasificatorio)
 1. #405 (#97 de TecNM) _Sploit_ (Clasificatorio)
 
-### 2018-2019
+#### 2018-2019
 
 1. #394 (#103 de TecNM) _Hello World_ (Clasificatorio)
 1. #394 (#103 de TecNM) _Mundial_ (Clasificatorio)
 1. #394 (#103 de TecNM) _Panfilos_ (Clasificatorio)
 1. #394 (#103 de TecNM) _The Ghosts_ (Clasificatorio)
 1. #394 (#103 de TecNM) _The Warriors_ (Clasificatorio)
+
 
 
 

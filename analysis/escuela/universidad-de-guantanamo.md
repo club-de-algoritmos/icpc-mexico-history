@@ -9,10 +9,20 @@
 
 ## Participaciones
 
-### 2009-2010
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **2** | **0** | **2** |
+| 2009-2010 | 0 | 2 | 0 | 2 |
+
+### Detalle
+
+#### 2009-2010
 
 1. #116 _cug-3ro_ (Regional)
 1. #116 _cug-4to_ (Regional)
+
 
 
 

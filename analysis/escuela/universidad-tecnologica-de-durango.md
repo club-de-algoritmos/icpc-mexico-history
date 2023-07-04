@@ -14,21 +14,33 @@
 
 ## Participaciones
 
-### 2011-2012
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **4** | **3** | **7** |
+| 2011-2012 | 0 | 2 | 0 | 2 |
+| 2012-2013 | 0 | 2 | 0 | 2 |
+| 2019-2020 | 0 | 0 | 3 | 3 |
+
+### Detalle
+
+#### 2011-2012
 
 1. #104 _Durango 1_ (Regional)
 1. #104 _Durango 2_ (Regional)
 
-### 2012-2013
+#### 2012-2013
 
 1. #134 _utd_Durango2_ (Regional)
 1. #134 _utd_durango1_ (Regional)
 
-### 2019-2020
+#### 2019-2020
 
 1. #382 _Ampersand_ (Clasificatorio)
 1. #382 _Resilience_ (Clasificatorio)
 1. #382 _The Three Amigos_ (Clasificatorio)
+
 
 
 

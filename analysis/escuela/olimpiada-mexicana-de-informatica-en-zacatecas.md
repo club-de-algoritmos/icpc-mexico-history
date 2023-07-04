@@ -9,13 +9,24 @@
 
 ## Participaciones
 
-### 2020-2021
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **2** | **1** | **2** |
+| 2020-2021 | 0 | 1 | 1 | 1 |
+| 2021-2022 | 0 | 1 | 0 | 1 |
+
+### Detalle
+
+#### 2020-2021
 
 1. #59 _OMIZAC_ (Regional)
 
-### 2021-2022
+#### 2021-2022
 
 1. #55 _OMIZAC_ (Regional)
+
 
 
 

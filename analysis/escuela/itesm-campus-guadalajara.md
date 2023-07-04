@@ -17,25 +17,53 @@
 
 ## Participaciones
 
-### 2001-2002
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **46** | **55** | **96** |
+| 2001-2002 | 0 | 1 | 0 | 1 |
+| 2002-2003 | 0 | 3 | 0 | 3 |
+| 2003-2004 | 0 | 1 | 0 | 1 |
+| 2004-2005 | 0 | 1 | 0 | 1 |
+| 2006-2007 | 0 | 10 | 0 | 10 |
+| 2007-2008 | 0 | 18 | 0 | 18 |
+| 2008-2009 | 0 | 2 | 0 | 2 |
+| 2009-2010 | 0 | 2 | 0 | 2 |
+| 2010-2011 | 0 | 1 | 0 | 1 |
+| 2011-2012 | 0 | 1 | 0 | 1 |
+| 2013-2014 | 0 | 1 | 0 | 1 |
+| 2014-2015 | 0 | 0 | 3 | 3 |
+| 2015-2016 | 0 | 0 | 6 | 6 |
+| 2017-2018 | 0 | 0 | 2 | 2 |
+| 2018-2019 | 0 | 1 | 2 | 2 |
+| 2019-2020 | 0 | 0 | 4 | 4 |
+| 2020-2021 | 0 | 1 | 16 | 16 |
+| 2021-2022 | 0 | 2 | 8 | 8 |
+| 2022-2023 | 0 | 1 | 8 | 8 |
+| 2023-2024 | 0 | 0 | 6 | 6 |
+
+### Detalle
+
+#### 2001-2002
 
 1. #55 _ALEF-ZERO_ (Regional)
 
-### 2002-2003
+#### 2002-2003
 
 1. #10 _Aleph_ (Regional)
 1. #27 _Lambda_ (Regional)
 1. #27 _Rookies_ (Regional)
 
-### 2003-2004
+#### 2003-2004
 
 1. #20 _Balada Azul_ (Regional)
 
-### 2004-2005
+#### 2004-2005
 
 1. #28 _ITESM GDA1_ (Regional)
 
-### 2006-2007
+#### 2006-2007
 
 1. #10 _Acrux Exclamation_ (Regional)
 1. #56 _COCO_ (Regional)
@@ -48,7 +76,7 @@
 1. #85 _Quinto Escuadron_ (Regional)
 1. #85 _Reto INTEL_ (Regional)
 
-### 2007-2008
+#### 2007-2008
 
 1. #11 _McTrio_ (Regional)
 1. #29 _DAMN_ (Regional)
@@ -69,35 +97,35 @@
 1. #61 _Tecuciztecatl_ (Regional)
 1. #61 _VL-2000_ (Regional)
 
-### 2008-2009
+#### 2008-2009
 
 1. #10 _Carlit-OS_ (Regional)
 1. #39 _Tortugas 2.0_ (Regional)
 
-### 2009-2010
+#### 2009-2010
 
 1. #21 _Carlit-OS_ (Regional)
 1. #35 _Tesla_ (Regional)
 
-### 2010-2011
+#### 2010-2011
 
 1. #81 _Los batillos_ (Regional)
 
-### 2011-2012
+#### 2011-2012
 
 1. #45 _Pain Train_ (Regional)
 
-### 2013-2014
+#### 2013-2014
 
 1. #61 _El Santo, Blue Demon y Bulldog_ (Regional)
 
-### 2014-2015
+#### 2014-2015
 
 1. #73 _Camargo_ (Clasificatorio)
 1. #99 _Los Fierros_ (Clasificatorio)
 1. #204 _TGO Insomnia_ (Clasificatorio)
 
-### 2015-2016
+#### 2015-2016
 
 1. #108 _Algoritmia_ (Clasificatorio)
 1. #108 _DMA_ (Clasificatorio)
@@ -106,24 +134,24 @@
 1. #108 _NextGen_ (Clasificatorio)
 1. #108 _Pythonlovers_ (Clasificatorio)
 
-### 2017-2018
+#### 2017-2018
 
 1. #345 _Calandria_ (Clasificatorio)
 1. #405 _Cardinal_ (Clasificatorio)
 
-### 2018-2019
+#### 2018-2019
 
 1. #20 _ViralBugSyndrome.exe_ (Regional)
 1. #394 _404 not found_ (Clasificatorio)
 
-### 2019-2020
+#### 2019-2020
 
 1. #71 _Galácticos 1_ (Clasificatorio)
 1. #191 _Galácticos 2_ (Clasificatorio)
 1. #270 _Galácticos 5_ (Clasificatorio)
 1. #339 _Galácticos 3_ (Clasificatorio)
 
-### 2020-2021
+#### 2020-2021
 
 1. #34 _Tec GDL 10_ (Regional)
 1. #101 _Tec GDL 3_ (Clasificatorio)
@@ -142,7 +170,7 @@
 1. #351 _Tec GDL 12_ (Clasificatorio)
 1. #351 _Tec GDL 7_ (Clasificatorio)
 
-### 2021-2022
+#### 2021-2022
 
 1. #47 _Tec GDL 6_ (Regional)
 1. #50 _Los seguidores de Karel_ (Regional)
@@ -153,7 +181,7 @@
 1. #222 _Tec GDL 2_ (Clasificatorio)
 1. #226 _Tec GDL 4_ (Clasificatorio)
 
-### 2022-2023
+#### 2022-2023
 
 1. #18 _Tsurus Tuneados_ (Regional)
 1. #174 _Java lieron_ (Clasificatorio)
@@ -164,7 +192,7 @@
 1. #382 _Pozole de Oompa Loompas_ (Clasificatorio)
 1. #382 _SJF_ (Clasificatorio)
 
-### 2023-2024
+#### 2023-2024
 
 1. #6 _Borregos Salvajes_ (Clasificatorio)
 1. #201 _Los Fosa_ (Clasificatorio)
@@ -172,6 +200,7 @@
 1. #321 _TECueme_ (Clasificatorio)
 1. #374 _CodICI_ (Clasificatorio)
 1. #423 _GADAX_ (Clasificatorio)
+
 
 
 

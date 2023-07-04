@@ -26,48 +26,79 @@
 
 ## Participaciones
 
-### 1998-1999
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **9** | **89** | **297** | **360** |
+| 1998-1999 | 1 | 0 | 0 | 1 |
+| 2000-2001 | 1 | 0 | 0 | 1 |
+| 2001-2002 | 1 | 3 | 0 | 3 |
+| 2002-2003 | 0 | 2 | 0 | 2 |
+| 2003-2004 | 1 | 3 | 0 | 3 |
+| 2004-2005 | 0 | 2 | 0 | 2 |
+| 2006-2007 | 0 | 4 | 0 | 4 |
+| 2008-2009 | 1 | 5 | 0 | 5 |
+| 2009-2010 | 0 | 3 | 0 | 3 |
+| 2010-2011 | 0 | 9 | 0 | 9 |
+| 2011-2012 | 0 | 7 | 0 | 7 |
+| 2012-2013 | 0 | 12 | 0 | 12 |
+| 2013-2014 | 0 | 10 | 0 | 10 |
+| 2014-2015 | 1 | 4 | 6 | 6 |
+| 2015-2016 | 1 | 2 | 13 | 13 |
+| 2016-2017 | 0 | 2 | 33 | 33 |
+| 2017-2018 | 0 | 3 | 25 | 25 |
+| 2018-2019 | 1 | 3 | 41 | 41 |
+| 2019-2020 | 0 | 6 | 29 | 30 |
+| 2020-2021 | 1 | 4 | 64 | 64 |
+| 2021-2022 | 0 | 3 | 24 | 24 |
+| 2022-2023 | 0 | 2 | 32 | 32 |
+| 2023-2024 | 0 | 0 | 30 | 30 |
+
+### Detalle
+
+#### 1998-1999
 
 1. No hay datos del regional
     - Avanzó a la final mundial y resolvió 1 problemas obtuviendo el lugar #56 (10%) en The 1999 ACM Programming Contest World Finals
 
-### 2000-2001
+#### 2000-2001
 
 1. No hay datos del regional
     - Avanzó a la final mundial y resolvió 1 problemas obtuviendo el lugar #59 (8%) en The 2001 ACM Programming Contest World Finals
 
-### 2001-2002
+#### 2001-2002
 
 1. #2 _Los Pericos Brujos_ (Regional)
     - Avanzó a la final mundial y resolvió 2 problemas obtuviendo el lugar #47 (27%) en The 2002 ACM Programming Contest World Finals
 1. #5 _Los miserables_ (Regional)
 1. #13 _SWART_ (Regional)
 
-### 2002-2003
+#### 2002-2003
 
 1. #6 _Les Miserables_ (Regional)
 1. #9 _Monterrey 2002_ (Regional)
 
-### 2003-2004
+#### 2003-2004
 
 1. #2 _The Deadly Coding Squad_ (Regional)
     - Avanzó a la final mundial y resolvió 0 problemas obtuviendo el lugar #68 (7%) en The 2004 ACM Programming Contest World Finals
 1. #18 _Monterrey01_ (Regional)
 1. #41 _Monterrey02_ (Regional)
 
-### 2004-2005
+#### 2004-2005
 
 1. #33 _Nazgul_ (Regional)
 1. #47 _lusers_ (Regional)
 
-### 2006-2007
+#### 2006-2007
 
 1. #3 _TopCoder_ (Regional)
 1. #34 _Echelon_ (Regional)
 1. #42 _Aesir_ (Regional)
 1. #53 _Flotador_ (Regional)
 
-### 2008-2009
+#### 2008-2009
 
 1. #3 _MTY03_ (Regional)
     - Avanzó a la final mundial y resolvió 0 problemas obtuviendo el lugar #68 (32%) en 33rd Annual World Finals of the ACM International Collegiate Programming Contest
@@ -76,13 +107,13 @@
 1. #29 _Cubers_ (Regional)
 1. #52 _MTY01_ (Regional)
 
-### 2009-2010
+#### 2009-2010
 
 1. #9 _MTY01_ (Regional)
 1. #11 _MTY03_ (Regional)
 1. #27 _MTY02_ (Regional)
 
-### 2010-2011
+#### 2010-2011
 
 1. #5 _Los Punteros_ (Regional)
 1. #7 _ITESM Pointers_ (Regional)
@@ -94,7 +125,7 @@
 1. #54 _Hot Code_ (Regional)
 1. #97 _NibbleSOFt_ (Regional)
 
-### 2011-2012
+#### 2011-2012
 
 1. #10 _Super Pointers_ (Regional)
 1. #16 _Geekstra_ (Regional)
@@ -104,7 +135,7 @@
 1. #67 _JavaPros++_ (Regional)
 1. #68 _Felipe El Pato_ (Regional)
 
-### 2012-2013
+#### 2012-2013
 
 1. #25 _Los Queries_ (Regional)
 1. #39 _Iterators_ (Regional)
@@ -119,7 +150,7 @@
 1. #117 _Pampasmitas_ (Regional)
 1. #123 _Los Saiyayin_ (Regional)
 
-### 2013-2014
+#### 2013-2014
 
 1. #4 _Locos_ (Regional)
 1. #20 _Modelo entidad-relación_ (Regional)
@@ -132,7 +163,7 @@
 1. #95 _Death Or Alive_ (Regional)
 1. #95 _The three amigos_ (Regional)
 
-### 2014-2015
+#### 2014-2015
 
 1. #2 _Locos_ (Regional)
     - Avanzó a la final mundial y resolvió 1 problemas obtuviendo el lugar #121 (6%) en 39th Annual World Finals of the ACM International Collegiate Programming Contest
@@ -142,7 +173,7 @@
 1. #62 _Cyborg Raccoons_ (Clasificatorio)
 1. #104 _J - LAD_ (Clasificatorio)
 
-### 2015-2016
+#### 2015-2016
 
 1. #3 _HaKings_ (Regional)
     - Avanzó a la final mundial y resolvió 2 problemas obtuviendo el lugar #107 (17%) en 40th Annual World Finals of the ACM International Collegiate Programming Contest
@@ -159,7 +190,7 @@
 1. #108 _PeLaDos_ (Clasificatorio)
 1. #108 _winrar_ (Clasificatorio)
 
-### 2016-2017
+#### 2016-2017
 
 1. #5 _Locos_ (Regional)
 1. #19 _Greedies_ (Regional)
@@ -195,7 +226,7 @@
 1. #121 _Murox & Friends_ (Clasificatorio)
 1. #121 _bit-byte-bit_ (Clasificatorio)
 
-### 2017-2018
+#### 2017-2018
 
 1. #24 _AC-Knights_ (Regional)
 1. #29 _Bitwise_ (Regional)
@@ -223,7 +254,7 @@
 1. #369 _i=3_ (Clasificatorio)
 1. #405 _Los innombrables_ (Clasificatorio)
 
-### 2018-2019
+#### 2018-2019
 
 1. #1 _Legendary Grandpupils_ (Regional)
     - Avanzó a la final mundial y resolvió 2 problemas obtuviendo el lugar #63 (54%) en 43rd Annual World Finals of the International Collegiate Programming Contest
@@ -268,7 +299,7 @@
 1. #394 _cualquier_cosa  _ (Clasificatorio)
 1. #395 _Bissingzeile 11_ (Clasificatorio)
 
-### 2019-2020
+#### 2019-2020
 
 1. #5 _We put the D in DP_ (Regional)
 1. #6 _Heaps Dont Lie_ (Regional)
@@ -301,7 +332,7 @@
 1. #382 _TopTEEN_ (Clasificatorio)
 1. #382 _blue char-manders_ (Clasificatorio)
 
-### 2020-2021
+#### 2020-2021
 
 1. #1 _Legendary Grand Newbies_ (Regional)
     - Avanzó a la final mundial y resolvió 2 problemas obtuviendo el lugar #51 (62%) en 45th Annual World Finals of the International Collegiate Programming Contest
@@ -369,7 +400,7 @@
 1. #351 _The HackAholics_ (Clasificatorio)
 1. #351 _flamingFlamingos_ (Clasificatorio)
 
-### 2021-2022
+#### 2021-2022
 
 1. #14 _AC’Holics_ (Regional)
 1. #17 _O(3 bugs)_ (Regional)
@@ -396,7 +427,7 @@
 1. #226 _Los Jaibas_ (Clasificatorio)
 1. #226 _Tajillos_ (Clasificatorio)
 
-### 2022-2023
+#### 2022-2023
 
 1. #23 _team.cpp_ (Regional)
 1. #31 _3 guys 1 WA _ (Clasificatorio)
@@ -431,7 +462,7 @@
 1. #382 _O(NO)_ (Clasificatorio)
 1. #382 _SegmentationFault_ (Clasificatorio)
 
-### 2023-2024
+#### 2023-2024
 
 1. #20 _GOLDEN_ (Clasificatorio)
 1. #29 _team.cpp_ (Clasificatorio)
@@ -463,6 +494,7 @@
 1. #411 _CypherPlus_ (Clasificatorio)
 1. #412 _Gansitos_ (Clasificatorio)
 1. #413 _GOLDEN.X_ (Clasificatorio)
+
 
 
 

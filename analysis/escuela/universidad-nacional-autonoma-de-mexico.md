@@ -17,38 +17,57 @@
 
 ## Participaciones
 
-### 2002-2003
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **23** | **1** | **23** |
+| 2002-2003 | 0 | 1 | 0 | 1 |
+| 2003-2004 | 0 | 2 | 0 | 2 |
+| 2006-2007 | 0 | 1 | 0 | 1 |
+| 2007-2008 | 0 | 1 | 0 | 1 |
+| 2008-2009 | 0 | 4 | 0 | 4 |
+| 2009-2010 | 0 | 4 | 0 | 4 |
+| 2010-2011 | 0 | 6 | 0 | 6 |
+| 2011-2012 | 0 | 1 | 0 | 1 |
+| 2012-2013 | 0 | 1 | 0 | 1 |
+| 2013-2014 | 0 | 1 | 0 | 1 |
+| 2015-2016 | 0 | 1 | 1 | 1 |
+
+### Detalle
+
+#### 2002-2003
 
 1. #8 _proteco_ (Regional)
 
-### 2003-2004
+#### 2003-2004
 
 1. #16 _Pumas FC-FI 2_ (Regional)
 1. #22 _Pumas FC-FI_ (Regional)
 
-### 2006-2007
+#### 2006-2007
 
 1. #69 _Under-ground_ (Regional)
 
-### 2007-2008
+#### 2007-2008
 
 1. #21 _Underground_ (Regional)
 
-### 2008-2009
+#### 2008-2009
 
 1. #37 _bsod_ (Regional)
 1. #45 _Guru Meditation_ (Regional)
 1. #54 _fork bomb_ (Regional)
 1. #100 _Prioqueuers_ (Regional)
 
-### 2009-2010
+#### 2009-2010
 
 1. #76 _MACoides_ (Regional)
 1. #113 _Leperianos_ (Regional)
 1. #116 _PumasOO_ (Regional)
 1. #116 _SisteMAC_ (Regional)
 
-### 2010-2011
+#### 2010-2011
 
 1. #72 _S_T_DIO.h_ (Regional)
 1. #79 _~U()_ (Regional)
@@ -57,21 +76,22 @@
 1. #132 _GSH_ (Regional)
 1. #156 _¶M@_ (Regional)
 
-### 2011-2012
+#### 2011-2012
 
 1. #7 _PU++_ (Regional)
 
-### 2012-2013
+#### 2012-2013
 
 1. #15 _PU++ 2.0_ (Regional)
 
-### 2013-2014
+#### 2013-2014
 
 1. #5 _PU++_ (Regional)
 
-### 2015-2016
+#### 2015-2016
 
 1. #4 _UNAM 1_ (Regional)
+
 
 
 

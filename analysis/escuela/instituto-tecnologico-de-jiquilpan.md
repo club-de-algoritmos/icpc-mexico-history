@@ -17,7 +17,18 @@
 
 ## Participaciones
 
-### 2018-2019
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **15** | **15** |
+| 2018-2019 | 0 | 0 | 11 | 11 |
+| 2020-2021 | 0 | 0 | 1 | 1 |
+| 2022-2023 | 0 | 0 | 3 | 3 |
+
+### Detalle
+
+#### 2018-2019
 
 1. #395 (#159 de TecNM) _Anonimos ITJ_ (Clasificatorio)
 1. #395 (#159 de TecNM) _Black and White_ (Clasificatorio)
@@ -31,15 +42,16 @@
 1. #395 (#159 de TecNM) _Los Padrinos_ (Clasificatorio)
 1. #395 (#159 de TecNM) _Titán_ (Clasificatorio)
 
-### 2020-2021
+#### 2020-2021
 
 1. #351 (#65 de TecNM) _HalconesJiq_ (Clasificatorio)
 
-### 2022-2023
+#### 2022-2023
 
 1. #382 (#82 de TecNM) _Halcones-ISIC-1_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Halcones-ISIC-2_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Halcones-ISIC-3_ (Clasificatorio)
+
 
 
 

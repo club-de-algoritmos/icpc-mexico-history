@@ -17,38 +17,52 @@
 
 ## Participaciones
 
-### 2010-2011
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **12** | **13** | **25** |
+| 2010-2011 | 0 | 3 | 0 | 3 |
+| 2011-2012 | 0 | 3 | 0 | 3 |
+| 2012-2013 | 0 | 3 | 0 | 3 |
+| 2013-2014 | 0 | 3 | 0 | 3 |
+| 2020-2021 | 0 | 0 | 4 | 4 |
+| 2022-2023 | 0 | 0 | 9 | 9 |
+
+### Detalle
+
+#### 2010-2011
 
 1. #156 (#44 de TecNM) _ITST-1_ (Regional)
 1. #156 (#44 de TecNM) _ITST-2_ (Regional)
 1. #156 (#44 de TecNM) _ITST-3_ (Regional)
 
-### 2011-2012
+#### 2011-2012
 
 1. #104 (#33 de TecNM) _ITST-1_ (Regional)
 1. #104 (#33 de TecNM) _ITST-2_ (Regional)
 1. #104 (#33 de TecNM) _ITST-3_ (Regional)
 
-### 2012-2013
+#### 2012-2013
 
 1. #134 (#53 de TecNM) _ITST-1_ (Regional)
 1. #134 (#53 de TecNM) _ITST-2_ (Regional)
 1. #134 (#53 de TecNM) _ITST-3_ (Regional)
 
-### 2013-2014
+#### 2013-2014
 
 1. #95 (#24 de TecNM) _Colibries_ (Regional)
 1. #95 (#24 de TecNM) _ITST_ (Regional)
 1. #95 (#24 de TecNM) _ITST-_ (Regional)
 
-### 2020-2021
+#### 2020-2021
 
 1. #351 (#65 de TecNM) _Dinamita_ (Clasificatorio)
 1. #351 (#65 de TecNM) _Los Chichicuilotes_ (Clasificatorio)
 1. #351 (#65 de TecNM) _The Hummingbirds_ (Clasificatorio)
 1. #351 (#65 de TecNM) _WOLF_RAYET_ (Clasificatorio)
 
-### 2022-2023
+#### 2022-2023
 
 1. #382 (#82 de TecNM) _Alucines_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Andromeda_ (Clasificatorio)
@@ -59,6 +73,7 @@
 1. #382 (#82 de TecNM) _OREO´S_ (Clasificatorio)
 1. #382 (#82 de TecNM) _RAM_ (Clasificatorio)
 1. #382 (#82 de TecNM) _poseidonRX_ (Clasificatorio)
+
 
 
 

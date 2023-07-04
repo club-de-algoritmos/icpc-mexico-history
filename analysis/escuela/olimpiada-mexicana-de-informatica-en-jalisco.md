@@ -12,25 +12,39 @@
 
 ## Participaciones
 
-### 2008-2009
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **5** | **1** | **5** |
+| 2008-2009 | 0 | 1 | 0 | 1 |
+| 2009-2010 | 0 | 1 | 0 | 1 |
+| 2010-2011 | 0 | 1 | 0 | 1 |
+| 2011-2012 | 0 | 1 | 0 | 1 |
+| 2022-2023 | 0 | 1 | 1 | 1 |
+
+### Detalle
+
+#### 2008-2009
 
 1. #101 _OMIJAL - ASFG_ (Regional)
 
-### 2009-2010
+#### 2009-2010
 
 1. #80 _OMIJAL - Gira Jalisco_ (Regional)
 
-### 2010-2011
+#### 2010-2011
 
 1. #156 _OMIJal - Preparatoria_ (Regional)
 
-### 2011-2012
+#### 2011-2012
 
 1. #34 _OMIJal_Prepa_ (Regional)
 
-### 2022-2023
+#### 2022-2023
 
 1. #56 _OMIJAL_ (Regional)
+
 
 
 

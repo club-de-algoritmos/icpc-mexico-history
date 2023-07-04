@@ -8,9 +8,19 @@
 
 ## Participaciones
 
-### 2003-2004
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **1** | **0** | **1** |
+| 2003-2004 | 0 | 1 | 0 | 1 |
+
+### Detalle
+
+#### 2003-2004
 
 1. #41 _uax-t_ (Regional)
+
 
 
 

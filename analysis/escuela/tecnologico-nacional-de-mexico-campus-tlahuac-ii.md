@@ -10,11 +10,21 @@
 
 ## Participaciones
 
-### 2019-2020
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **3** | **3** |
+| 2019-2020 | 0 | 0 | 3 | 3 |
+
+### Detalle
+
+#### 2019-2020
 
 1. #382 (#98 de TecNM) _Jaosmi_ (Clasificatorio)
 1. #382 (#98 de TecNM) _SKYNET_ (Clasificatorio)
 1. #382 (#98 de TecNM) _programers_ (Clasificatorio)
+
 
 
 

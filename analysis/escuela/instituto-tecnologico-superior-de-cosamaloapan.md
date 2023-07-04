@@ -8,9 +8,19 @@
 
 ## Participaciones
 
-### 2019-2020
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **1** | **1** |
+| 2019-2020 | 0 | 0 | 1 | 1 |
+
+### Detalle
+
+#### 2019-2020
 
 1. #382 (#98 de TecNM) _Impalas_ (Clasificatorio)
+
 
 
 

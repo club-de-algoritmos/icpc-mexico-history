@@ -17,32 +17,46 @@
 
 ## Participaciones
 
-### 2010-2011
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **8** | **4** | **12** |
+| 2010-2011 | 0 | 3 | 0 | 3 |
+| 2011-2012 | 0 | 3 | 0 | 3 |
+| 2012-2013 | 0 | 2 | 0 | 2 |
+| 2018-2019 | 0 | 0 | 3 | 3 |
+| 2022-2023 | 0 | 0 | 1 | 1 |
+
+### Detalle
+
+#### 2010-2011
 
 1. #130 (#32 de TecNM) _ITZit2_ (Regional)
 1. #138 (#37 de TecNM) _ITZit1_ (Regional)
 1. #139 (#38 de TecNM) _ITZit3_ (Regional)
 
-### 2011-2012
+#### 2011-2012
 
 1. #104 (#33 de TecNM) _ITZitacuaro1_ (Regional)
 1. #104 (#33 de TecNM) _ITZitacuaro2_ (Regional)
 1. #104 (#33 de TecNM) _ITZitacuaro3_ (Regional)
 
-### 2012-2013
+#### 2012-2013
 
 1. #116 (#44 de TecNM) _itzitacuaro 2_ (Regional)
 1. #134 (#53 de TecNM) _itzitacuaro 1_ (Regional)
 
-### 2018-2019
+#### 2018-2019
 
 1. #267 (#56 de TecNM) _EquipoZit1_ (Clasificatorio)
 1. #343 (#80 de TecNM) _EquipoZit3_ (Clasificatorio)
 1. #352 (#85 de TecNM) _EquipoZit2_ (Clasificatorio)
 
-### 2022-2023
+#### 2022-2023
 
 1. #382 (#82 de TecNM) _Los 3.1416_ (Clasificatorio)
+
 
 
 

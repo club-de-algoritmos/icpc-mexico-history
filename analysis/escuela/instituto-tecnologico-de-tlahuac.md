@@ -12,13 +12,23 @@
 
 ## Participaciones
 
-### 2022-2023
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **5** | **5** |
+| 2022-2023 | 0 | 0 | 5 | 5 |
+
+### Detalle
+
+#### 2022-2023
 
 1. #382 (#82 de TecNM) _Brogrammers_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Guardianes Z_ (Clasificatorio)
 1. #382 (#82 de TecNM) _GuardianesTec_ (Clasificatorio)
 1. #382 (#82 de TecNM) _TECGUARDIAN_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Tlhc-soft_ (Clasificatorio)
+
 
 
 

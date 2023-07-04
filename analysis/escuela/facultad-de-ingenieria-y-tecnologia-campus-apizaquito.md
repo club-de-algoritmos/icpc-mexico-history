@@ -8,9 +8,19 @@
 
 ## Participaciones
 
-### 2015-2016
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **1** | **1** |
+| 2015-2016 | 0 | 0 | 1 | 1 |
+
+### Detalle
+
+#### 2015-2016
 
 1. #107 _AM JAI_ (Clasificatorio)
+
 
 
 

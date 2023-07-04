@@ -17,13 +17,31 @@
 
 ## Participaciones
 
-### 2014-2015
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **10** | **45** | **45** |
+| 2014-2015 | 0 | 1 | 3 | 3 |
+| 2015-2016 | 0 | 2 | 7 | 7 |
+| 2016-2017 | 0 | 2 | 7 | 7 |
+| 2017-2018 | 0 | 2 | 8 | 8 |
+| 2018-2019 | 0 | 0 | 5 | 5 |
+| 2019-2020 | 0 | 1 | 5 | 5 |
+| 2020-2021 | 0 | 1 | 5 | 5 |
+| 2021-2022 | 0 | 1 | 2 | 2 |
+| 2022-2023 | 0 | 0 | 1 | 1 |
+| 2023-2024 | 0 | 0 | 2 | 2 |
+
+### Detalle
+
+#### 2014-2015
 
 1. #50 _SNCB_ (Regional)
 1. #204 _Burros_dragones_ (Clasificatorio)
 1. #204 _SISTEMAS_IPN_X_ (Clasificatorio)
 
-### 2015-2016
+#### 2015-2016
 
 1. #48 _404 Not Found_ (Regional)
 1. #66 _SNBC&D_ (Regional)
@@ -33,7 +51,7 @@
 1. #108 _Sistemas X_ (Clasificatorio)
 1. #108 _javaswitnesses_ (Clasificatorio)
 
-### 2016-2017
+#### 2016-2017
 
 1. #35 _Printfers_ (Regional)
 1. #46 _3idiotas_ (Regional)
@@ -43,7 +61,7 @@
 1. #121 _Los_asiaticos_ (Clasificatorio)
 1. #121 _if_then_else_ (Clasificatorio)
 
-### 2017-2018
+#### 2017-2018
 
 1. #53 _solo_dos_idiotas_y_lalo_ (Regional)
 1. #55 _Printfers_ (Regional)
@@ -54,7 +72,7 @@
 1. #316 _dedsek_ (Clasificatorio)
 1. #405 _asinus++_ (Clasificatorio)
 
-### 2018-2019
+#### 2018-2019
 
 1. #67 _Concilio de ancianos_ (Clasificatorio)
 1. #90 _pi22_ (Clasificatorio)
@@ -62,7 +80,7 @@
 1. #214 _Atom_ (Clasificatorio)
 1. #246 _Mecatrochos_ (Clasificatorio)
 
-### 2019-2020
+#### 2019-2020
 
 1. #45 _Las pistas de NULL_ (Regional)
 1. #83 _Escuadron alpha lobo dinamita_ (Clasificatorio)
@@ -70,7 +88,7 @@
 1. #272 _Bynamite_ (Clasificatorio)
 1. #382 _Los H4ck3rs_ (Clasificatorio)
 
-### 2020-2021
+#### 2020-2021
 
 1. #40 _Las pistas de nullptr_ (Regional)
 1. #125 _D3dSec.exe_ (Clasificatorio)
@@ -78,19 +96,20 @@
 1. #340 _AwA de UwU sabor OwO_ (Clasificatorio)
 1. #351 _PainCoders_ (Clasificatorio)
 
-### 2021-2022
+#### 2021-2022
 
 1. #45 _Los charlies de Angel_ (Regional)
 1. #88 _D3dSec.exe_ (Clasificatorio)
 
-### 2022-2023
+#### 2022-2023
 
 1. #161 _Siglo XIII_ (Clasificatorio)
 
-### 2023-2024
+#### 2023-2024
 
 1. #111 _ Space Cadets_ (Clasificatorio)
 1. #194 _Los mecatrochos_ (Clasificatorio)
+
 
 
 

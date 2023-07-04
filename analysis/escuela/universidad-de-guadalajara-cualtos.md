@@ -17,19 +17,34 @@
 
 ## Participaciones
 
-### 2014-2015
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **3** | **33** | **33** |
+| 2014-2015 | 0 | 0 | 4 | 4 |
+| 2017-2018 | 0 | 0 | 2 | 2 |
+| 2018-2019 | 0 | 2 | 5 | 5 |
+| 2019-2020 | 0 | 1 | 9 | 9 |
+| 2020-2021 | 0 | 0 | 8 | 8 |
+| 2021-2022 | 0 | 0 | 4 | 4 |
+| 2022-2023 | 0 | 0 | 1 | 1 |
+
+### Detalle
+
+#### 2014-2015
 
 1. #125 _The one's_ (Clasificatorio)
 1. #131 _Code Crysis_ (Clasificatorio)
 1. #147 _Captain Crunch_ (Clasificatorio)
 1. #165 _Stack overflow_ (Clasificatorio)
 
-### 2017-2018
+#### 2017-2018
 
 1. #361 _Los Chapulines_ (Clasificatorio)
 1. #405 _PID_ (Clasificatorio)
 
-### 2018-2019
+#### 2018-2019
 
 1. #57 _Sí no gano,me corren - CUALTOS_ (Regional)
 1. #67 _Chapulines 2.0 - CUALTOS_ (Regional)
@@ -37,7 +52,7 @@
 1. #147 _Ecuipo Dinamita -CUALTOS_ (Clasificatorio)
 1. #150 _Astroboys - CUALTOS_ (Clasificatorio)
 
-### 2019-2020
+#### 2019-2020
 
 1. #39 _Si no gano, me corren_ (Regional)
 1. #77 _Mercería Paquita :D_ (Clasificatorio)
@@ -49,7 +64,7 @@
 1. #221 _Zero_ (Clasificatorio)
 1. #382 _Araña_Patudona_ (Clasificatorio)
 
-### 2020-2021
+#### 2020-2021
 
 1. #73 _Si no gano, me corren_ (Clasificatorio)
 1. #84 _Zero_ (Clasificatorio)
@@ -60,16 +75,17 @@
 1. #288 _Quetzalcóatl_ (Clasificatorio)
 1. #351 _Team-T_ (Clasificatorio)
 
-### 2021-2022
+#### 2021-2022
 
 1. #78 _0 de IQ_ (Clasificatorio)
 1. #82 _Zero_ (Clasificatorio)
 1. #118 _Leonas_ (Clasificatorio)
 1. #226 _Los provechos_ (Clasificatorio)
 
-### 2022-2023
+#### 2022-2023
 
 1. #257 _0 de IQ_ (Clasificatorio)
+
 
 
 

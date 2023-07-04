@@ -17,28 +17,43 @@
 
 ## Participaciones
 
-### 2006-2007
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **8** | **10** | **14** |
+| 2006-2007 | 0 | 1 | 0 | 1 |
+| 2011-2012 | 0 | 1 | 0 | 1 |
+| 2013-2014 | 0 | 1 | 0 | 1 |
+| 2014-2015 | 0 | 1 | 0 | 1 |
+| 2015-2016 | 0 | 2 | 2 | 2 |
+| 2016-2017 | 0 | 1 | 6 | 6 |
+| 2017-2018 | 0 | 1 | 2 | 2 |
+
+### Detalle
+
+#### 2006-2007
 
 1. #81 _UAM Iztapalapa_ (Regional)
 
-### 2011-2012
+#### 2011-2012
 
 1. #63 _UAM Cuajimalpa_ (Regional)
 
-### 2013-2014
+#### 2013-2014
 
 1. #92 _UAM CUAJIMALPA 2013_ (Regional)
 
-### 2014-2015
+#### 2014-2015
 
 1. #39 _UAM Cuajimalpa 2014-Compu_ (Regional)
 
-### 2015-2016
+#### 2015-2016
 
 1. #32 _UAM Cuajimalpa 2015 A_ (Regional)
 1. #78 _UAM Cuajimalpa 2015 B_ (Regional)
 
-### 2016-2017
+#### 2016-2017
 
 1. #26 _UAMC A_ (Regional)
 1. #121 _UAMC 2016 A_ (Clasificatorio)
@@ -47,10 +62,11 @@
 1. #121 _UAMC 2016 D_ (Clasificatorio)
 1. #121 _UAMC 2016 E_ (Clasificatorio)
 
-### 2017-2018
+#### 2017-2018
 
 1. #59 _UAMC A_ (Regional)
 1. #192 _UAMC B_ (Clasificatorio)
+
 
 
 

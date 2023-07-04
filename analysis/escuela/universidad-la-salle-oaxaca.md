@@ -11,15 +11,26 @@
 
 ## Participaciones
 
-### 2019-2020
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **4** | **4** |
+| 2019-2020 | 0 | 0 | 1 | 1 |
+| 2020-2021 | 0 | 0 | 3 | 3 |
+
+### Detalle
+
+#### 2019-2020
 
 1. #382 _ULSAOAX01_ (Clasificatorio)
 
-### 2020-2021
+#### 2020-2021
 
 1. #299 _ULSAOAX Jaguar Cósmico_ (Clasificatorio)
 1. #326 _ULSAOAX Gatitos Tristes_ (Clasificatorio)
 1. #351 _ULSAOAX CLAY_ (Clasificatorio)
+
 
 
 

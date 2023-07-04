@@ -11,12 +11,22 @@
 
 ## Participaciones
 
-### 2020-2021
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **4** | **4** |
+| 2020-2021 | 0 | 0 | 4 | 4 |
+
+### Detalle
+
+#### 2020-2021
 
 1. #284 (#36 de TecNM) _Itesca 1_ (Clasificatorio)
 1. #331 (#54 de TecNM) _La dinastia Norteña_ (Clasificatorio)
 1. #348 (#63 de TecNM) _Code not found_ (Clasificatorio)
 1. #351 (#65 de TecNM) _Los Coricos_ (Clasificatorio)
+
 
 
 

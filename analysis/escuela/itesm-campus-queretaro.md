@@ -19,28 +19,54 @@
 
 ## Participaciones
 
-### 2001-2002
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **2** | **68** | **33** | **94** |
+| 2001-2002 | 0 | 4 | 0 | 4 |
+| 2002-2003 | 0 | 1 | 0 | 1 |
+| 2004-2005 | 0 | 2 | 0 | 2 |
+| 2005-2006 | 0 | 2 | 0 | 2 |
+| 2006-2007 | 0 | 6 | 0 | 6 |
+| 2007-2008 | 0 | 13 | 0 | 13 |
+| 2008-2009 | 0 | 10 | 0 | 10 |
+| 2009-2010 | 1 | 6 | 0 | 7 |
+| 2010-2011 | 0 | 5 | 0 | 5 |
+| 2011-2012 | 0 | 4 | 0 | 4 |
+| 2012-2013 | 0 | 2 | 0 | 2 |
+| 2013-2014 | 0 | 4 | 0 | 4 |
+| 2015-2016 | 0 | 2 | 5 | 5 |
+| 2016-2017 | 0 | 2 | 4 | 4 |
+| 2017-2018 | 1 | 2 | 5 | 6 |
+| 2018-2019 | 0 | 2 | 12 | 12 |
+| 2019-2020 | 0 | 1 | 5 | 5 |
+| 2020-2021 | 0 | 0 | 2 | 2 |
+
+### Detalle
+
+#### 2001-2002
 
 1. #25 _maxeii_ (Regional)
 1. #32 _Mexican Boys_ (Regional)
 1. #41 _Cafe Caliente_ (Regional)
 1. #54 _The Empire_ (Regional)
 
-### 2002-2003
+#### 2002-2003
 
 1. #14 _ISE TEAM_ (Regional)
 
-### 2004-2005
+#### 2004-2005
 
 1. #22 _NARF_ (Regional)
 1. #61 _The Enigma Thread Alliance_ (Regional)
 
-### 2005-2006
+#### 2005-2006
 
 1. #13 _ETA v2.0:The Whole Enchilada!_ (Regional)
 1. #66 _D-CODERS =>ITESM-CQ_ (Regional)
 
-### 2006-2007
+#### 2006-2007
 
 1. #16 _ITESM-CQ1 Dream Catcher =)_ (Regional)
 1. #38 _ITESM-CQ6_ (Regional)
@@ -49,7 +75,7 @@
 1. #64 _ITESM-CQ4 while ((2B)||(!(2B) _ (Regional)
 1. #85 _ITESM-CQ3_ (Regional)
 
-### 2007-2008
+#### 2007-2008
 
 1. #8 _Arrolladores ASCIIs_ (Regional)
 1. #15 _Deadly Coding Squad_ (Regional)
@@ -65,7 +91,7 @@
 1. #61 _Mandil--;_ (Regional)
 1. #61 _Son of a Bit_ (Regional)
 
-### 2008-2009
+#### 2008-2009
 
 1. #4 _Deadly Coding Squad =)_ (Regional)
 1. #5 _MachineGun_ (Regional)
@@ -78,7 +104,7 @@
 1. #44 _ITESM CQ2_ (Regional)
 1. #101 _ Its Hammer Time!!_ (Regional)
 
-### 2009-2010
+#### 2009-2010
 
 1. No hay datos del regional
     - Avanzó a la final mundial y resolvió 2 problemas obtuviendo el lugar #76 (26%) en 34th Annual World Finals of the ACM International Collegiate Programming Contest
@@ -89,7 +115,7 @@
 1. #69 _StupidUserException_ (Regional)
 1. #72 _NullPointerException_ (Regional)
 
-### 2010-2011
+#### 2010-2011
 
 1. #28 _Villanos Favoritos_ (Regional)
 1. #34 _(>^.^)> ((°\(^,^)/°)) <(^.^<)_ (Regional)
@@ -97,26 +123,26 @@
 1. #50 _Machine Gun_ (Regional)
 1. #85 _FLDSMDFR_ (Regional)
 
-### 2011-2012
+#### 2011-2012
 
 1. #13 _Anonymous_ (Regional)
 1. #38 _PowerMilk_ (Regional)
 1. #54 _Pastafarians_ (Regional)
 1. #93 _JoBeLu_ (Regional)
 
-### 2012-2013
+#### 2012-2013
 
 1. #16 _Tribonacci_ (Regional)
 1. #73 _IOT_ (Regional)
 
-### 2013-2014
+#### 2013-2014
 
 1. #27 _Dudes_ (Regional)
 1. #52 _Tribonacci_ (Regional)
 1. #59 _Perrys_ (Regional)
 1. #95 _nCodersQro_ (Regional)
 
-### 2015-2016
+#### 2015-2016
 
 1. #20 _Coder::Dash_ (Regional)
 1. #21 _Aleph_ (Regional)
@@ -124,14 +150,14 @@
 1. #108 _Babuinos_ (Clasificatorio)
 1. #108 _TIMANO_ (Clasificatorio)
 
-### 2016-2017
+#### 2016-2017
 
 1. #12 _wlog_ (Regional)
 1. #17 _Code'n'play_ (Regional)
 1. #121 _ANT_ (Clasificatorio)
 1. #121 _Glitchs_ (Clasificatorio)
 
-### 2017-2018
+#### 2017-2018
 
 1. #3 _Pragma_ (Regional)
     - Avanzó a la final mundial y resolvió 2 problemas obtuviendo el lugar #57 (60%) en 42nd Annual World Finals of the International Collegiate Programming Contest
@@ -141,7 +167,7 @@
 1. #397 _Pizza Atomica_ (Clasificatorio)
 1. #404 _LPRK_ (Clasificatorio)
 
-### 2018-2019
+#### 2018-2019
 
 1. #13 _c+vga_ (Regional)
 1. #16 _pragma++_ (Regional)
@@ -156,7 +182,7 @@
 1. #394 _Sigma_ (Clasificatorio)
 1. #395 _Tacos del Infinito_ (Clasificatorio)
 
-### 2019-2020
+#### 2019-2020
 
 1. #11 _lEFTaSaNeXERCISE_ (Regional)
 1. #257 _Nionic_ (Clasificatorio)
@@ -164,10 +190,11 @@
 1. #366 _Sovie_ (Clasificatorio)
 1. #382 _Team E. Turner_ (Clasificatorio)
 
-### 2020-2021
+#### 2020-2021
 
 1. #269 _ARF_ (Clasificatorio)
 1. #303 _Dexter_ (Clasificatorio)
+
 
 
 

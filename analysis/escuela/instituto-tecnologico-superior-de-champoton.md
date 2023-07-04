@@ -13,17 +13,28 @@
 
 ## Participaciones
 
-### 2021-2022
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **6** | **6** |
+| 2021-2022 | 0 | 0 | 1 | 1 |
+| 2022-2023 | 0 | 0 | 5 | 5 |
+
+### Detalle
+
+#### 2021-2022
 
 1. #226 (#36 de TecNM) _ITESCHAM Coders_ (Clasificatorio)
 
-### 2022-2023
+#### 2022-2023
 
 1. #382 (#82 de TecNM) _Error 401_ (Clasificatorio)
 1. #382 (#82 de TecNM) _ITESCHAM Coders_ (Clasificatorio)
 1. #382 (#82 de TecNM) _TECISIC_5A_ (Clasificatorio)
 1. #382 (#82 de TecNM) _TECISIC_B_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Tech It Out ITESCHAM_ (Clasificatorio)
+
 
 
 

@@ -10,14 +10,25 @@
 
 ## Participaciones
 
-### 2001-2002
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **3** | **0** | **3** |
+| 2001-2002 | 0 | 2 | 0 | 2 |
+| 2003-2004 | 0 | 1 | 0 | 1 |
+
+### Detalle
+
+#### 2001-2002
 
 1. #55 _Cbtis 164-1_ (Regional)
 1. #55 _Cbtis 164-2_ (Regional)
 
-### 2003-2004
+#### 2003-2004
 
 1. #41 _CBTIS 164_ (Regional)
+
 
 
 

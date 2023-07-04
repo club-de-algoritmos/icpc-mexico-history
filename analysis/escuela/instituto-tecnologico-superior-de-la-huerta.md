@@ -9,13 +9,24 @@
 
 ## Participaciones
 
-### 2017-2018
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **2** | **2** |
+| 2017-2018 | 0 | 0 | 1 | 1 |
+| 2019-2020 | 0 | 0 | 1 | 1 |
+
+### Detalle
+
+#### 2017-2018
 
 1. #405 (#97 de TecNM) _HUERTA´S CREW_ (Clasificatorio)
 
-### 2019-2020
+#### 2019-2020
 
 1. #382 (#98 de TecNM) _Hello World_ (Clasificatorio)
+
 
 
 

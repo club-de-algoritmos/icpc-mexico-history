@@ -11,15 +11,26 @@
 
 ## Participaciones
 
-### 2003-2004
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **3** | **1** | **4** |
+| 2003-2004 | 0 | 3 | 0 | 3 |
+| 2020-2021 | 0 | 0 | 1 | 1 |
+
+### Detalle
+
+#### 2003-2004
 
 1. #41 (#9 de TecNM) _Dos kilos y el pilon_ (Regional)
 1. #41 (#9 de TecNM) _The Warriors_ (Regional)
 1. #41 (#9 de TecNM) _The What?_ (Regional)
 
-### 2020-2021
+#### 2020-2021
 
 1. #351 (#65 de TecNM) _ISCITTUX_ (Clasificatorio)
+
 
 
 

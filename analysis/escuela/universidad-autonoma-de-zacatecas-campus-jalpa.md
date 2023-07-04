@@ -12,19 +12,31 @@
 
 ## Participaciones
 
-### 2013-2014
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **1** | **4** | **5** |
+| 2013-2014 | 0 | 1 | 0 | 1 |
+| 2018-2019 | 0 | 0 | 1 | 1 |
+| 2019-2020 | 0 | 0 | 3 | 3 |
+
+### Detalle
+
+#### 2013-2014
 
 1. #95 _#ErrorDeSintaxis_ (Regional)
 
-### 2018-2019
+#### 2018-2019
 
 1. #395 _Los indecisos_ (Clasificatorio)
 
-### 2019-2020
+#### 2019-2020
 
 1. #382 _HelloByte2_ (Clasificatorio)
 1. #382 _Jalpa Dynasty_ (Clasificatorio)
 1. #382 _Los Private_ (Clasificatorio)
+
 
 
 

@@ -8,9 +8,19 @@
 
 ## Participaciones
 
-### 2018-2019
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **1** | **1** |
+| 2018-2019 | 0 | 0 | 1 | 1 |
+
+### Detalle
+
+#### 2018-2019
 
 1. #395 _Ryzen_ (Clasificatorio)
+
 
 
 

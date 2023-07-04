@@ -9,10 +9,20 @@
 
 ## Participaciones
 
-### 2016-2017
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **2** | **2** |
+| 2016-2017 | 0 | 0 | 2 | 2 |
+
+### Detalle
+
+#### 2016-2017
 
 1. #121 (#20 de TecNM) _Aguilas Reales_ (Clasificatorio)
 1. #121 (#20 de TecNM) _The Python U2_ (Clasificatorio)
+
 
 
 

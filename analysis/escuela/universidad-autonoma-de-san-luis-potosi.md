@@ -17,22 +17,38 @@
 
 ## Participaciones
 
-### 2002-2003
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **9** | **81** | **83** |
+| 2002-2003 | 0 | 1 | 0 | 1 |
+| 2012-2013 | 0 | 1 | 0 | 1 |
+| 2018-2019 | 0 | 1 | 4 | 4 |
+| 2019-2020 | 0 | 2 | 19 | 19 |
+| 2020-2021 | 0 | 1 | 14 | 14 |
+| 2021-2022 | 0 | 1 | 6 | 6 |
+| 2022-2023 | 0 | 2 | 17 | 17 |
+| 2023-2024 | 0 | 0 | 21 | 21 |
+
+### Detalle
+
+#### 2002-2003
 
 1. #19 _Bichos_ (Regional)
 
-### 2012-2013
+#### 2012-2013
 
 1. #71 _Cominf_ (Regional)
 
-### 2018-2019
+#### 2018-2019
 
 1. #45 _Equipo_ (Regional)
 1. #209 _Compi-uters_ (Clasificatorio)
 1. #262 _Qubits_ (Clasificatorio)
 1. #265 _Opilimpicos_ (Clasificatorio)
 
-### 2019-2020
+#### 2019-2020
 
 1. #33 _¿Qué?_ (Regional)
 1. #47 _Opilimpicos_ (Regional)
@@ -54,7 +70,7 @@
 1. #382 _Los Lord Llama de la Ciencia_ (Clasificatorio)
 1. #382 _Omega Q-Bits_ (Clasificatorio)
 
-### 2020-2021
+#### 2020-2021
 
 1. #13 _!nullptr_ (Regional)
 1. #103 _Say my name_ (Clasificatorio)
@@ -71,7 +87,7 @@
 1. #351 _Los nahuales masacuatos adictos al código_ (Clasificatorio)
 1. #351 _SmartDucks_ (Clasificatorio)
 
-### 2021-2022
+#### 2021-2022
 
 1. #7 _!nullptr_ (Regional)
 1. #127 _NaN_ (Clasificatorio)
@@ -80,7 +96,7 @@
 1. #226 _Los Pixis_ (Clasificatorio)
 1. #226 _timeForce_ (Clasificatorio)
 
-### 2022-2023
+#### 2022-2023
 
 1. #34 _!nullptr_ (Regional)
 1. #53 _js++_ (Regional)
@@ -100,7 +116,7 @@
 1. #363 _ThreeAmigos_ (Clasificatorio)
 1. #377 _programeitors_ (Clasificatorio)
 
-### 2023-2024
+#### 2023-2024
 
 1. #34 _!nullptr_ (Clasificatorio)
 1. #92 _camel_case_ (Clasificatorio)
@@ -123,6 +139,7 @@
 1. #316 _The Worst Generation_ (Clasificatorio)
 1. #329 _Kernel panic_ (Clasificatorio)
 1. #418 _The Esys_ (Clasificatorio)
+
 
 
 

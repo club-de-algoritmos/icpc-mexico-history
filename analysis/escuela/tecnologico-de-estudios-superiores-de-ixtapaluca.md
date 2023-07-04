@@ -9,13 +9,24 @@
 
 ## Participaciones
 
-### 2020-2021
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **2** | **2** |
+| 2020-2021 | 0 | 0 | 1 | 1 |
+| 2022-2023 | 0 | 0 | 1 | 1 |
+
+### Detalle
+
+#### 2020-2021
 
 1. #351 _Wozk_ (Clasificatorio)
 
-### 2022-2023
+#### 2022-2023
 
 1. #382 _Escuadron Alpha-Lobo_ (Clasificatorio)
+
 
 
 

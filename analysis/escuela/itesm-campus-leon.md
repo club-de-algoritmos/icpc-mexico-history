@@ -12,19 +12,31 @@
 
 ## Participaciones
 
-### 2001-2002
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **5** | **0** | **5** |
+| 2001-2002 | 0 | 1 | 0 | 1 |
+| 2003-2004 | 0 | 1 | 0 | 1 |
+| 2004-2005 | 0 | 3 | 0 | 3 |
+
+### Detalle
+
+#### 2001-2002
 
 1. #53 _ITESM Leon_ (Regional)
 
-### 2003-2004
+#### 2003-2004
 
 1. #41 _I_C_Dead_People( );_ (Regional)
 
-### 2004-2005
+#### 2004-2005
 
 1. #53 _Cranberries_ (Regional)
 1. #55 _Los Templarios_ (Regional)
 1. #59 _Los Falcons_ (Regional)
+
 
 
 

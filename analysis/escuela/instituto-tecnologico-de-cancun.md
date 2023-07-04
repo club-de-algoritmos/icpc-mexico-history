@@ -17,15 +17,27 @@
 
 ## Participaciones
 
-### 2020-2021
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **11** | **11** |
+| 2020-2021 | 0 | 0 | 1 | 1 |
+| 2021-2022 | 0 | 0 | 1 | 1 |
+| 2022-2023 | 0 | 0 | 7 | 7 |
+| 2023-2024 | 0 | 0 | 2 | 2 |
+
+### Detalle
+
+#### 2020-2021
 
 1. #285 (#37 de TecNM) _Tucanes_ (Clasificatorio)
 
-### 2021-2022
+#### 2021-2022
 
 1. #226 (#36 de TecNM) _Tucanes Cancún_ (Clasificatorio)
 
-### 2022-2023
+#### 2022-2023
 
 1. #382 (#82 de TecNM) _Quicksort_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Tucanding_ (Clasificatorio)
@@ -35,10 +47,11 @@
 1. #382 (#82 de TecNM) _Tucanes3 Cancún_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Tucanes4 Cancún_ (Clasificatorio)
 
-### 2023-2024
+#### 2023-2024
 
 1. #301 (#61 de TecNM) _Tucanes1_ (Clasificatorio)
 1. #302 (#62 de TecNM) _Tucanes2_ (Clasificatorio)
+
 
 
 

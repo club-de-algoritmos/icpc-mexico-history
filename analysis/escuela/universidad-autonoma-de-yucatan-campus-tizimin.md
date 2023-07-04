@@ -17,7 +17,23 @@
 
 ## Participaciones
 
-### 2014-2015
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **35** | **35** |
+| 2014-2015 | 0 | 0 | 6 | 6 |
+| 2016-2017 | 0 | 0 | 6 | 6 |
+| 2017-2018 | 0 | 0 | 7 | 7 |
+| 2018-2019 | 0 | 0 | 5 | 5 |
+| 2019-2020 | 0 | 0 | 4 | 4 |
+| 2020-2021 | 0 | 0 | 4 | 4 |
+| 2022-2023 | 0 | 0 | 1 | 1 |
+| 2023-2024 | 0 | 0 | 2 | 2 |
+
+### Detalle
+
+#### 2014-2015
 
 1. #100 _Los Colosales_ (Clasificatorio)
 1. #168 _Shinigamis_ (Clasificatorio)
@@ -26,7 +42,7 @@
 1. #204 _UMT-2_ (Clasificatorio)
 1. #204 _UMT-3_ (Clasificatorio)
 
-### 2016-2017
+#### 2016-2017
 
 1. #121 _ABE_ (Clasificatorio)
 1. #121 _EquipoX_ (Clasificatorio)
@@ -35,7 +51,7 @@
 1. #121 _The One_ (Clasificatorio)
 1. #121 _The Sharks_ (Clasificatorio)
 
-### 2017-2018
+#### 2017-2018
 
 1. #342 _Valaks_ (Clasificatorio)
 1. #384 _LCCs_ (Clasificatorio)
@@ -45,7 +61,7 @@
 1. #405 _VonNew_ (Clasificatorio)
 1. #405 _code Black_ (Clasificatorio)
 
-### 2018-2019
+#### 2018-2019
 
 1. #395 _Coders_ (Clasificatorio)
 1. #395 _DreamTime_ (Clasificatorio)
@@ -53,28 +69,29 @@
 1. #395 _Roquet_ (Clasificatorio)
 1. #395 _Steelers_ (Clasificatorio)
 
-### 2019-2020
+#### 2019-2020
 
 1. #308 _UMT-UADY_ (Clasificatorio)
 1. #349 _UcReAyCode_ (Clasificatorio)
 1. #382 _Aguilas_Calvas_ (Clasificatorio)
 1. #382 _UMT_UADY2_ (Clasificatorio)
 
-### 2020-2021
+#### 2020-2021
 
 1. #249 _OUTATIME_ (Clasificatorio)
 1. #295 _EquipoUMT2_ (Clasificatorio)
 1. #351 _ CodersPST_ (Clasificatorio)
 1. #351 _EquipoUMT_ (Clasificatorio)
 
-### 2022-2023
+#### 2022-2023
 
 1. #382 _UMT_ (Clasificatorio)
 
-### 2023-2024
+#### 2023-2024
 
 1. #161 _UMT-1_ (Clasificatorio)
 1. #252 _UMT-2_ (Clasificatorio)
+
 
 
 

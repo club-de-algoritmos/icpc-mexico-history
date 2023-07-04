@@ -17,12 +17,24 @@
 
 ## Participaciones
 
-### 2017-2018
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **46** | **46** |
+| 2017-2018 | 0 | 0 | 2 | 2 |
+| 2018-2019 | 0 | 0 | 7 | 7 |
+| 2019-2020 | 0 | 0 | 28 | 28 |
+| 2020-2021 | 0 | 0 | 9 | 9 |
+
+### Detalle
+
+#### 2017-2018
 
 1. #153 _Flowers Team_ (Clasificatorio)
 1. #154 _UNIPOLI-ISW_ (Clasificatorio)
 
-### 2018-2019
+#### 2018-2019
 
 1. #185 _The triforce_ (Clasificatorio)
 1. #217 _newcode_ (Clasificatorio)
@@ -32,7 +44,7 @@
 1. #338 _Los Súper Conocidos_ (Clasificatorio)
 1. #340 _Bit Brothers_ (Clasificatorio)
 
-### 2019-2020
+#### 2019-2020
 
 1. #179 _OldCode_ (Clasificatorio)
 1. #350 _The Skulls_ (Clasificatorio)
@@ -63,7 +75,7 @@
 1. #382 _newCode_ (Clasificatorio)
 1. #382 _plan B_ (Clasificatorio)
 
-### 2020-2021
+#### 2020-2021
 
 1. #206 _ISW PRoS_ (Clasificatorio)
 1. #266 _New Era_ (Clasificatorio)
@@ -74,6 +86,7 @@
 1. #351 _HellowPlanet_ (Clasificatorio)
 1. #351 _Los Furuladores_ (Clasificatorio)
 1. #351 _Los pitufos ISW_ (Clasificatorio)
+
 
 
 

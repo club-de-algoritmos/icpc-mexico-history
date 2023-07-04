@@ -17,38 +17,53 @@
 
 ## Participaciones
 
-### 2001-2002
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **15** | **0** | **15** |
+| 2001-2002 | 0 | 2 | 0 | 2 |
+| 2003-2004 | 0 | 2 | 0 | 2 |
+| 2006-2007 | 0 | 4 | 0 | 4 |
+| 2007-2008 | 0 | 3 | 0 | 3 |
+| 2009-2010 | 0 | 3 | 0 | 3 |
+| 2010-2011 | 0 | 1 | 0 | 1 |
+
+### Detalle
+
+#### 2001-2002
 
 1. #15 _Drink Team_ (Regional)
 1. #55 _Ctrl+Alt+Supr_ (Regional)
 
-### 2003-2004
+#### 2003-2004
 
 1. #29 _Drink Team_ (Regional)
 1. #41 _Web-ones_ (Regional)
 
-### 2006-2007
+#### 2006-2007
 
 1. #58 _Javalio_ (Regional)
 1. #60 _LPT_ (Regional)
 1. #85 _Los Looney''s_ (Regional)
 1. #85 _noName=" ";_ (Regional)
 
-### 2007-2008
+#### 2007-2008
 
 1. #53 _PMR 4000_ (Regional)
 1. #61 _COF_ (Regional)
 1. #61 _Los intensos_ (Regional)
 
-### 2009-2010
+#### 2009-2010
 
 1. #42 _Laguna 3_ (Regional)
 1. #77 _Laguna 1_ (Regional)
 1. #116 _Laguna 2_ (Regional)
 
-### 2010-2011
+#### 2010-2011
 
 1. #137 _GameOver Laguna_ (Regional)
+
 
 
 

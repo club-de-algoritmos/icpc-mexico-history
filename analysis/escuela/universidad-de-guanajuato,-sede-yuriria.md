@@ -11,12 +11,22 @@
 
 ## Participaciones
 
-### 2016-2017
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **4** | **4** |
+| 2016-2017 | 0 | 0 | 4 | 4 |
+
+### Detalle
+
+#### 2016-2017
 
 1. #121 _BUGs_ (Clasificatorio)
 1. #121 _Birlik_ (Clasificatorio)
 1. #121 _GuardiaNocturna_ (Clasificatorio)
 1. #121 _StraightEdge_ (Clasificatorio)
+
 
 
 

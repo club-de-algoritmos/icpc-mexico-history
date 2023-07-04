@@ -13,26 +13,40 @@
 
 ## Participaciones
 
-### 2001-2002
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **6** | **0** | **6** |
+| 2001-2002 | 0 | 1 | 0 | 1 |
+| 2002-2003 | 0 | 1 | 0 | 1 |
+| 2003-2004 | 0 | 1 | 0 | 1 |
+| 2005-2006 | 0 | 2 | 0 | 2 |
+| 2010-2011 | 0 | 1 | 0 | 1 |
+
+### Detalle
+
+#### 2001-2002
 
 1. #49 _SI C C_ (Regional)
 
-### 2002-2003
+#### 2002-2003
 
 1. #27 _TecSLP_ (Regional)
 
-### 2003-2004
+#### 2003-2004
 
 1. #41 _PLU'S Team_ (Regional)
 
-### 2005-2006
+#### 2005-2006
 
 1. #75 _Tec SLP 2_ (Regional)
 1. #83 _Tec SLP 1_ (Regional)
 
-### 2010-2011
+#### 2010-2011
 
 1. #124 _Los Borregos de San Luis_ (Regional)
+
 
 
 

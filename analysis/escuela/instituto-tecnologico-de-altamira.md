@@ -10,14 +10,25 @@
 
 ## Participaciones
 
-### 2018-2019
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **3** | **3** |
+| 2018-2019 | 0 | 0 | 1 | 1 |
+| 2019-2020 | 0 | 0 | 2 | 2 |
+
+### Detalle
+
+#### 2018-2019
 
 1. #395 (#159 de TecNM) _Potros_ (Clasificatorio)
 
-### 2019-2020
+#### 2019-2020
 
 1. #235 (#43 de TecNM) _TCP_ (Clasificatorio)
 1. #301 (#63 de TecNM) _Si no gano me reprueban_ (Clasificatorio)
+
 
 
 

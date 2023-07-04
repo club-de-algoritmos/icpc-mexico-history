@@ -16,29 +16,43 @@
 
 ## Participaciones
 
-### 2001-2002
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **9** | **0** | **9** |
+| 2001-2002 | 0 | 1 | 0 | 1 |
+| 2002-2003 | 0 | 2 | 0 | 2 |
+| 2004-2005 | 0 | 2 | 0 | 2 |
+| 2005-2006 | 0 | 2 | 0 | 2 |
+| 2010-2011 | 0 | 2 | 0 | 2 |
+
+### Detalle
+
+#### 2001-2002
 
 1. #55 _Los Niguas_ (Regional)
 
-### 2002-2003
+#### 2002-2003
 
 1. #27 _Los Booleanos_ (Regional)
 1. #27 _Tina Co._ (Regional)
 
-### 2004-2005
+#### 2004-2005
 
 1. #21 _booleanos_ (Regional)
 1. #50 _Tinquin in LLaBA_ (Regional)
 
-### 2005-2006
+#### 2005-2006
 
 1. #85 _Null name exception_ (Regional)
 1. #85 _Tinquin in llaba tim_ (Regional)
 
-### 2010-2011
+#### 2010-2011
 
 1. #77 _CCV DP_ (Regional)
 1. #148 _CCV TTLS_ (Regional)
+
 
 
 

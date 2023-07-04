@@ -22,14 +22,39 @@
 
 ## Participaciones
 
-### 2004-2005
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **5** | **43** | **35** | **72** |
+| 2004-2005 | 1 | 3 | 0 | 3 |
+| 2005-2006 | 1 | 4 | 0 | 4 |
+| 2006-2007 | 1 | 4 | 0 | 4 |
+| 2007-2008 | 0 | 3 | 0 | 3 |
+| 2008-2009 | 1 | 4 | 0 | 4 |
+| 2009-2010 | 0 | 4 | 0 | 4 |
+| 2010-2011 | 0 | 3 | 0 | 3 |
+| 2011-2012 | 1 | 4 | 0 | 4 |
+| 2012-2013 | 0 | 4 | 0 | 4 |
+| 2013-2014 | 0 | 3 | 0 | 3 |
+| 2014-2015 | 0 | 2 | 7 | 8 |
+| 2016-2017 | 0 | 1 | 1 | 1 |
+| 2017-2018 | 0 | 0 | 6 | 6 |
+| 2018-2019 | 0 | 1 | 3 | 3 |
+| 2019-2020 | 0 | 1 | 16 | 16 |
+| 2020-2021 | 0 | 1 | 1 | 1 |
+| 2021-2022 | 0 | 1 | 1 | 1 |
+
+### Detalle
+
+#### 2004-2005
 
 1. #2 _UTMixteca Poor Dogs_ (Regional)
     - Avanzó a la final mundial y resolvió 1 problemas obtuviendo el lugar #74 (5%) en The 2005 ACM Programming Contest World Finals
 1. #9 _Rivendel's council_ (Regional)
 1. #14 _teyundako_ (Regional)
 
-### 2005-2006
+#### 2005-2006
 
 1. #1 _UTMixteca NONAME_ (Regional)
     - Avanzó a la final mundial y resolvió 1 problemas obtuviendo el lugar #56 (33%) en The 2006 ACM Programming Contest World Finals
@@ -37,7 +62,7 @@
 1. #22 _Tayundako_ (Regional)
 1. #51 _C+TURBO_ (Regional)
 
-### 2006-2007
+#### 2006-2007
 
 1. #1 _Poor Dogs_ (Regional)
     - Avanzó a la final mundial y resolvió 0 problemas obtuviendo el lugar #86 (2%) en The 2007 ACM Programming Contest World Finals
@@ -45,13 +70,13 @@
 1. #15 _Gosus_ (Regional)
 1. #29 _Nikunu Tayundako_ (Regional)
 
-### 2007-2008
+#### 2007-2008
 
 1. #5 _Batch Mode_ (Regional)
 1. #13 _Grajam_ (Regional)
 1. #31 _ASCII "kers"_ (Regional)
 
-### 2008-2009
+#### 2008-2009
 
 1. #2 _grajam_ (Regional)
     - Avanzó a la final mundial y resolvió 0 problemas obtuviendo el lugar #68 (32%) en 33rd Annual World Finals of the ACM International Collegiate Programming Contest
@@ -59,20 +84,20 @@
 1. #15 _asciikers_ (Regional)
 1. #60 _ad hoc_ (Regional)
 
-### 2009-2010
+#### 2009-2010
 
 1. #15 _Extintor_ (Regional)
 1. #22 _Jovenes Promesa_ (Regional)
 1. #34 _UTPhenom_ (Regional)
 1. #45 _Trinomio_ (Regional)
 
-### 2010-2011
+#### 2010-2011
 
 1. #8 _Granja_ (Regional)
 1. #14 _Dinamacion Programica_ (Regional)
 1. #119 _programming for a dream_ (Regional)
 
-### 2011-2012
+#### 2011-2012
 
 1. #3 _Justice League_ (Regional)
     - Avanzó a la final mundial y resolvió 1 problemas obtuviendo el lugar #101 (10%) en 36th Annual World Finals of the ACM International Collegiate Programming Contest
@@ -80,20 +105,20 @@
 1. #22 _Scribus_ (Regional)
 1. #25 _NONAME_ (Regional)
 
-### 2012-2013
+#### 2012-2013
 
 1. #4 _Faith + 1_ (Regional)
 1. #33 _Daa.cpp_ (Regional)
 1. #37 _Doña Cata Lovers_ (Regional)
 1. #78 _Prhogrameitorz_ (Regional)
 
-### 2013-2014
+#### 2013-2014
 
 1. #9 _Mictlan Guardians_ (Regional)
 1. #69 _String Tokenizer_ (Regional)
 1. #82 _UTMadre_ (Regional)
 
-### 2014-2015
+#### 2014-2015
 
 1. #19 _Mictlan  Guardians_ (Regional)
 1. #24 _TriForce_ (Regional)
@@ -104,11 +129,11 @@
 1. #77 _Fenix_ (Clasificatorio)
 1. #98 _Fire Ferrets_ (Clasificatorio)
 
-### 2016-2017
+#### 2016-2017
 
 1. #15 _the foos_ (Regional)
 
-### 2017-2018
+#### 2017-2018
 
 1. #179 _Uncompilables_ (Clasificatorio)
 1. #184 _Mosquegatos_ (Clasificatorio)
@@ -117,13 +142,13 @@
 1. #301 _Estudiambres_ (Clasificatorio)
 1. #405 _foraneosTeam_ (Clasificatorio)
 
-### 2018-2019
+#### 2018-2019
 
 1. #55 _Los K-Bzones_ (Regional)
 1. #186 _cabeshon++_ (Clasificatorio)
 1. #261 _Uncompilables_ (Clasificatorio)
 
-### 2019-2020
+#### 2019-2020
 
 1. #31 _K-bezones_ (Regional)
 1. #86 _Uncompilables_ (Clasificatorio)
@@ -142,13 +167,14 @@
 1. #382 _Tiranos_ (Clasificatorio)
 1. #382 _difain_ (Clasificatorio)
 
-### 2020-2021
+#### 2020-2021
 
 1. #19 _Alcachofis_ (Regional)
 
-### 2021-2022
+#### 2021-2022
 
 1. #35 _UTMiitas_ (Regional)
+
 
 
 

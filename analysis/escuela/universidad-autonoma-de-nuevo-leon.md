@@ -19,64 +19,95 @@
 
 ## Participaciones
 
-### 2001-2002
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **2** | **54** | **80** | **120** |
+| 2001-2002 | 0 | 3 | 0 | 3 |
+| 2002-2003 | 0 | 3 | 0 | 3 |
+| 2003-2004 | 0 | 3 | 0 | 3 |
+| 2004-2005 | 0 | 1 | 0 | 1 |
+| 2005-2006 | 0 | 4 | 0 | 4 |
+| 2006-2007 | 0 | 2 | 0 | 2 |
+| 2007-2008 | 0 | 3 | 0 | 3 |
+| 2008-2009 | 0 | 4 | 0 | 4 |
+| 2009-2010 | 0 | 2 | 0 | 2 |
+| 2010-2011 | 0 | 2 | 0 | 2 |
+| 2011-2012 | 0 | 5 | 0 | 5 |
+| 2012-2013 | 0 | 4 | 0 | 4 |
+| 2013-2014 | 0 | 4 | 0 | 4 |
+| 2014-2015 | 0 | 1 | 2 | 2 |
+| 2015-2016 | 0 | 1 | 2 | 2 |
+| 2016-2017 | 1 | 1 | 1 | 1 |
+| 2017-2018 | 1 | 1 | 2 | 2 |
+| 2018-2019 | 0 | 2 | 2 | 2 |
+| 2019-2020 | 0 | 2 | 12 | 12 |
+| 2020-2021 | 0 | 2 | 11 | 11 |
+| 2021-2022 | 0 | 2 | 11 | 11 |
+| 2022-2023 | 0 | 2 | 23 | 23 |
+| 2023-2024 | 0 | 0 | 14 | 14 |
+
+### Detalle
+
+#### 2001-2002
 
 1. #3 _FCFM1_ (Regional)
 1. #34 _FCFM2_ (Regional)
 1. #48 _FCFM3_ (Regional)
 
-### 2002-2003
+#### 2002-2003
 
 1. #3 _Los Irmos_ (Regional)
 1. #27 _Los 3 Jinetes del Apocalipsis_ (Regional)
 1. #27 _Los Desconocidos_ (Regional)
 
-### 2003-2004
+#### 2003-2004
 
 1. #3 _Los Irmos_ (Regional)
 1. #41 _Noname00_ (Regional)
 1. #41 _Y donde esta el suplente?_ (Regional)
 
-### 2004-2005
+#### 2004-2005
 
 1. #24 _Last_ (Regional)
 
-### 2005-2006
+#### 2005-2006
 
 1. #30 _Whatever_ (Regional)
 1. #44 _wes_ (Regional)
 1. #47 _Linux Men`s Club_ (Regional)
 1. #85 _nai_ (Regional)
 
-### 2006-2007
+#### 2006-2007
 
 1. #28 _Bisontes1_ (Regional)
 1. #83 _Bisontes2_ (Regional)
 
-### 2007-2008
+#### 2007-2008
 
 1. #18 _Bisontes 2_ (Regional)
 1. #28 _Bisontes 1_ (Regional)
 1. #61 _Wayll_ (Regional)
 
-### 2008-2009
+#### 2008-2009
 
 1. #57 _Javax_ (Regional)
 1. #59 _Bisontes 3_ (Regional)
 1. #92 _Bisontes_ (Regional)
 1. #101 _Random Bushido_ (Regional)
 
-### 2009-2010
+#### 2009-2010
 
 1. #116 _Javax_ (Regional)
 1. #116 _NetSOFt_ (Regional)
 
-### 2010-2011
+#### 2010-2011
 
 1. #33 _Los Parsers_ (Regional)
 1. #60 _/dev/null_ (Regional)
 
-### 2011-2012
+#### 2011-2012
 
 1. #8 _SOS_ (Regional)
 1. #27 _NibbleSOFt_ (Regional)
@@ -84,47 +115,47 @@
 1. #104 _Ascii Bit_ (Regional)
 1. #104 _Rebel Alliance_ (Regional)
 
-### 2012-2013
+#### 2012-2013
 
 1. #59 _NPCs_ (Regional)
 1. #80 _Nibblesoft_ (Regional)
 1. #82 _BSOD_ (Regional)
 1. #134 _Ascii Bit_ (Regional)
 
-### 2013-2014
+#### 2013-2014
 
 1. #7 _En la line_ (Regional)
 1. #30 _TSM_ (Regional)
 1. #95 _Hardcoders_ (Regional)
 1. #95 _Polybius_ (Regional)
 
-### 2014-2015
+#### 2014-2015
 
 1. #16 _CTBS_ (Regional)
 1. #40 _Los Palazorros_ (Clasificatorio)
 
-### 2015-2016
+#### 2015-2016
 
 1. #17 _OMMI_ (Regional)
 1. #108 _Bisontes_ (Clasificatorio)
 
-### 2016-2017
+#### 2016-2017
 
 1. #3 _Los A´S_ (Regional)
     - Avanzó a la final mundial y resolvió 3 problemas obtuviendo el lugar #57 (58%) en 41st Annual World Finals of the ACM International Collegiate Programming Contest
 
-### 2017-2018
+#### 2017-2018
 
 1. #1 _Los A´s_ (Regional)
     - Avanzó a la final mundial y resolvió 3 problemas obtuviendo el lugar #57 (60%) en 42nd Annual World Finals of the International Collegiate Programming Contest
 1. #155 _Taco.c_ (Clasificatorio)
 
-### 2018-2019
+#### 2018-2019
 
 1. #38 _Axolotl_ (Regional)
 1. #53 _Maquina de Arturing_ (Regional)
 
-### 2019-2020
+#### 2019-2020
 
 1. #19 _TriAda_ (Regional)
 1. #41 _Flying Kiwi _ (Regional)
@@ -139,7 +170,7 @@
 1. #382 _MMA_ (Clasificatorio)
 1. #382 _Team Emperador_ (Clasificatorio)
 
-### 2020-2021
+#### 2020-2021
 
 1. #10 _TriAda_ (Regional)
 1. #31 _OlympiAC_ (Regional)
@@ -153,7 +184,7 @@
 1. #293 _Game of Codes_ (Clasificatorio)
 1. #351 _Los 3 Mosquitos_ (Clasificatorio)
 
-### 2021-2022
+#### 2021-2022
 
 1. #4 _TriAda_ (Regional)
 1. #38 _Los Tres Paleteros_ (Regional)
@@ -167,7 +198,7 @@
 1. #226 _Los Wookies de Slytherin_ (Clasificatorio)
 1. #226 _Team Emperador_ (Clasificatorio)
 
-### 2022-2023
+#### 2022-2023
 
 1. #11 _ACE_ (Regional)
 1. #15 _nu1l_ (Regional)
@@ -193,7 +224,7 @@
 1. #382 _Los saraperos_ (Clasificatorio)
 1. #382 _The coders_ (Clasificatorio)
 
-### 2023-2024
+#### 2023-2024
 
 1. #19 _Tigres.cpp_ (Clasificatorio)
 1. #45 _Los Tres Paleteros_ (Clasificatorio)
@@ -209,6 +240,7 @@
 1. #415 _Attack On Python_ (Clasificatorio)
 1. #416 _NanoByte_ (Clasificatorio)
 1. #417 _Fast Code_ (Clasificatorio)
+
 
 
 

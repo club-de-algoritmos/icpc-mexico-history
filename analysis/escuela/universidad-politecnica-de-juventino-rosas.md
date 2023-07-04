@@ -15,22 +15,34 @@
 
 ## Participaciones
 
-### 2014-2015
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **8** | **8** |
+| 2014-2015 | 0 | 0 | 4 | 4 |
+| 2016-2017 | 0 | 0 | 2 | 2 |
+| 2019-2020 | 0 | 0 | 2 | 2 |
+
+### Detalle
+
+#### 2014-2015
 
 1. #121 _UPJR_CERO_ (Clasificatorio)
 1. #161 _UPJR_TRES_ (Clasificatorio)
 1. #169 _UPJR_CUATRO_ (Clasificatorio)
 1. #198 _UPJR_DOS_ (Clasificatorio)
 
-### 2016-2017
+#### 2016-2017
 
 1. #121 _UPJR_3_ (Clasificatorio)
 1. #121 _UPJR_4_ (Clasificatorio)
 
-### 2019-2020
+#### 2019-2020
 
 1. #382 _CoMoGa_ (Clasificatorio)
 1. #382 _MoMaRe_ (Clasificatorio)
+
 
 
 

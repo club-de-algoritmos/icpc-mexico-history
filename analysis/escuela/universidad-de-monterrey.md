@@ -17,35 +17,56 @@
 
 ## Participaciones
 
-### 2002-2003
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **12** | **50** | **60** |
+| 2002-2003 | 0 | 2 | 0 | 2 |
+| 2003-2004 | 0 | 2 | 0 | 2 |
+| 2004-2005 | 0 | 1 | 0 | 1 |
+| 2005-2006 | 0 | 2 | 0 | 2 |
+| 2006-2007 | 0 | 2 | 0 | 2 |
+| 2007-2008 | 0 | 1 | 0 | 1 |
+| 2017-2018 | 0 | 0 | 5 | 5 |
+| 2018-2019 | 0 | 0 | 6 | 6 |
+| 2019-2020 | 0 | 0 | 7 | 7 |
+| 2020-2021 | 0 | 0 | 4 | 4 |
+| 2021-2022 | 0 | 0 | 12 | 12 |
+| 2022-2023 | 0 | 2 | 9 | 9 |
+| 2023-2024 | 0 | 0 | 7 | 7 |
+
+### Detalle
+
+#### 2002-2003
 
 1. #27 _Los Amarillos_ (Regional)
 1. #27 _Los Negros_ (Regional)
 
-### 2003-2004
+#### 2003-2004
 
 1. #41 _UDEM I_ (Regional)
 1. #41 _UDEM II_ (Regional)
 
-### 2004-2005
+#### 2004-2005
 
 1. #10 _Troyanos_ (Regional)
 
-### 2005-2006
+#### 2005-2006
 
 1. #20 _UDEM1_ (Regional)
 1. #85 _Javadabadu_ (Regional)
 
-### 2006-2007
+#### 2006-2007
 
 1. #25 _Vodka Jrs._ (Regional)
 1. #85 _Los Mind Masters_ (Regional)
 
-### 2007-2008
+#### 2007-2008
 
 1. #61 _Los Tarda2_ (Regional)
 
-### 2017-2018
+#### 2017-2018
 
 1. #317 _char mander;_ (Clasificatorio)
 1. #318 _Wildcats_ (Clasificatorio)
@@ -53,7 +74,7 @@
 1. #335 _null_ (Clasificatorio)
 1. #375 _Los machachos_ (Clasificatorio)
 
-### 2018-2019
+#### 2018-2019
 
 1. #110 _Los Tres Amigos_ (Clasificatorio)
 1. #133 _echo_ (Clasificatorio)
@@ -62,7 +83,7 @@
 1. #230 _Los Paletas_ (Clasificatorio)
 1. #274 _The Brady Bunch_ (Clasificatorio)
 
-### 2019-2020
+#### 2019-2020
 
 1. #183 _trying_ (Clasificatorio)
 1. #196 _aoc_ (Clasificatorio)
@@ -72,14 +93,14 @@
 1. #290 _Alpha Strike_ (Clasificatorio)
 1. #382 _SDB_ (Clasificatorio)
 
-### 2020-2021
+#### 2020-2021
 
 1. #127 _Octagon_ (Clasificatorio)
 1. #159 _Equipo Tres_ (Clasificatorio)
 1. #239 _Rayo_ (Clasificatorio)
 1. #254 _FaZe PePe_ (Clasificatorio)
 
-### 2021-2022
+#### 2021-2022
 
 1. #86 _Los changoleones_ (Clasificatorio)
 1. #89 _Oasis_ (Clasificatorio)
@@ -94,7 +115,7 @@
 1. #226 _White Walkers_ (Clasificatorio)
 1. #226 _alpha dinamita_ (Clasificatorio)
 
-### 2022-2023
+#### 2022-2023
 
 1. #45 _Equipo alfa buena maravilla onda dinamita escuadrón lobo_ (Regional)
 1. #46 _Raptors_ (Regional)
@@ -106,7 +127,7 @@
 1. #382 _Edgerunners-2077_ (Clasificatorio)
 1. #382 _supersónicos_ (Clasificatorio)
 
-### 2023-2024
+#### 2023-2024
 
 1. #67 _The Chosen O(n)es_ (Clasificatorio)
 1. #84 _Cyberpsychos_ (Clasificatorio)
@@ -115,6 +136,7 @@
 1. #195 _Umizoomi_ (Clasificatorio)
 1. #220 _JoJoCa_ (Clasificatorio)
 1. #249 _DDH_ (Clasificatorio)
+
 
 
 

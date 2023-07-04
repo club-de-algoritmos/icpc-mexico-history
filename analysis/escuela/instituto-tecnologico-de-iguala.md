@@ -17,7 +17,18 @@
 
 ## Participaciones
 
-### 2019-2020
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **14** | **14** |
+| 2019-2020 | 0 | 0 | 11 | 11 |
+| 2020-2021 | 0 | 0 | 2 | 2 |
+| 2022-2023 | 0 | 0 | 1 | 1 |
+
+### Detalle
+
+#### 2019-2020
 
 1. #382 (#98 de TecNM) _CIA_ (Clasificatorio)
 1. #382 (#98 de TecNM) _Crusaders._ (Clasificatorio)
@@ -31,14 +42,15 @@
 1. #382 (#98 de TecNM) _NISSI_ (Clasificatorio)
 1. #382 (#98 de TecNM) _PAN DE MUERTO_ (Clasificatorio)
 
-### 2020-2021
+#### 2020-2021
 
 1. #351 (#65 de TecNM) _Hello World_ (Clasificatorio)
 1. #351 (#65 de TecNM) _ITI- TecNM _ (Clasificatorio)
 
-### 2022-2023
+#### 2022-2023
 
 1. #382 (#82 de TecNM) _Albatros Iguala_ (Clasificatorio)
+
 
 
 

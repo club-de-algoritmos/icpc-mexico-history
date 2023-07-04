@@ -15,25 +15,38 @@
 
 ## Participaciones
 
-### 2015-2016
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **8** | **8** |
+| 2015-2016 | 0 | 0 | 2 | 2 |
+| 2016-2017 | 0 | 0 | 2 | 2 |
+| 2017-2018 | 0 | 0 | 2 | 2 |
+| 2019-2020 | 0 | 0 | 2 | 2 |
+
+### Detalle
+
+#### 2015-2016
 
 1. #108 _Codecs_ (Clasificatorio)
 1. #108 _robotics_ (Clasificatorio)
 
-### 2016-2017
+#### 2016-2017
 
 1. #121 _Código Oculto_ (Clasificatorio)
 1. #121 _PUNTO Y COMA_ (Clasificatorio)
 
-### 2017-2018
+#### 2017-2018
 
 1. #405 _Chispitas_ (Clasificatorio)
 1. #405 _Los venados_ (Clasificatorio)
 
-### 2019-2020
+#### 2019-2020
 
 1. #382 _Chispitas_ (Clasificatorio)
 1. #382 _Error404_ (Clasificatorio)
+
 
 
 

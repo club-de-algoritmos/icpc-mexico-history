@@ -17,29 +17,42 @@
 
 ## Participaciones
 
-### 2020-2021
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **3** | **12** | **12** |
+| 2020-2021 | 0 | 1 | 1 | 1 |
+| 2021-2022 | 0 | 1 | 2 | 2 |
+| 2022-2023 | 0 | 1 | 4 | 4 |
+| 2023-2024 | 0 | 0 | 5 | 5 |
+
+### Detalle
+
+#### 2020-2021
 
 1. #28 _Hijos de Turing_ (Regional)
 
-### 2021-2022
+#### 2021-2022
 
 1. #25 _Sereno el Fullereno_ (Regional)
 1. #134 _Ángstroms_ (Clasificatorio)
 
-### 2022-2023
+#### 2022-2023
 
 1. #13 _Sereno El Fullereno_ (Regional)
 1. #136 _int bellakos = 3;_ (Clasificatorio)
 1. #143 _Programamis_ (Clasificatorio)
 1. #152 _Bypass Space_ (Clasificatorio)
 
-### 2023-2024
+#### 2023-2024
 
 1. #11 _Sereno El Fullereno_ (Clasificatorio)
 1. #81 _Programamis_ (Clasificatorio)
 1. #182 _Int Bellakos = 3;_ (Clasificatorio)
 1. #255 _ByPass Space_ (Clasificatorio)
 1. #372 _Team Frio.py_ (Clasificatorio)
+
 
 
 

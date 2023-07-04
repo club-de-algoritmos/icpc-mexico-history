@@ -17,7 +17,19 @@
 
 ## Participaciones
 
-### 2019-2020
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **31** | **31** |
+| 2019-2020 | 0 | 0 | 12 | 12 |
+| 2020-2021 | 0 | 0 | 6 | 6 |
+| 2021-2022 | 0 | 0 | 6 | 6 |
+| 2022-2023 | 0 | 0 | 7 | 7 |
+
+### Detalle
+
+#### 2019-2020
 
 1. #382 (#98 de TecNM) _AGEX_ (Clasificatorio)
 1. #382 (#98 de TecNM) _BEL++_ (Clasificatorio)
@@ -32,7 +44,7 @@
 1. #382 (#98 de TecNM) _The GAJ-Tec Team_ (Clasificatorio)
 1. #382 (#98 de TecNM) _Triple_JJJ_ (Clasificatorio)
 
-### 2020-2021
+#### 2020-2021
 
 1. #351 (#65 de TecNM) _Coderos ITST_ (Clasificatorio)
 1. #351 (#65 de TecNM) _DonneTech_ (Clasificatorio)
@@ -41,7 +53,7 @@
 1. #351 (#65 de TecNM) _MasterTeam_ (Clasificatorio)
 1. #351 (#65 de TecNM) _Raccoon Team _ (Clasificatorio)
 
-### 2021-2022
+#### 2021-2022
 
 1. #226 (#36 de TecNM) _GP-3_ (Clasificatorio)
 1. #226 (#36 de TecNM) _MapachesWeb_ (Clasificatorio)
@@ -50,7 +62,7 @@
 1. #226 (#36 de TecNM) _SS-Pro_ (Clasificatorio)
 1. #226 (#36 de TecNM) _Team Raccoon_ (Clasificatorio)
 
-### 2022-2023
+#### 2022-2023
 
 1. #382 (#82 de TecNM) _CODEXX_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Dragons_ (Clasificatorio)
@@ -59,6 +71,7 @@
 1. #382 (#82 de TecNM) _Sea Slug_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Siempre Negativos_ (Clasificatorio)
 1. #382 (#82 de TecNM) _TecnoMapaches_ (Clasificatorio)
+
 
 
 

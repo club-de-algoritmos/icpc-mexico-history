@@ -17,7 +17,18 @@
 
 ## Participaciones
 
-### 2020-2021
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **13** | **13** |
+| 2020-2021 | 0 | 0 | 5 | 5 |
+| 2021-2022 | 0 | 0 | 1 | 1 |
+| 2022-2023 | 0 | 0 | 7 | 7 |
+
+### Detalle
+
+#### 2020-2021
 
 1. #351 (#65 de TecNM) _CARDENALESISC_ (Clasificatorio)
 1. #351 (#65 de TecNM) _Cardenales Tec_ (Clasificatorio)
@@ -25,11 +36,11 @@
 1. #351 (#65 de TecNM) _Tehuacan2_ (Clasificatorio)
 1. #351 (#65 de TecNM) _Tehuacan3_ (Clasificatorio)
 
-### 2021-2022
+#### 2021-2022
 
 1. #226 (#36 de TecNM) _Cardenales Tec_ (Clasificatorio)
 
-### 2022-2023
+#### 2022-2023
 
 1. #382 (#82 de TecNM) _<chicos>ITT</chicos>_ (Clasificatorio)
 1. #382 (#82 de TecNM) _CODECS_ (Clasificatorio)
@@ -38,6 +49,7 @@
 1. #382 (#82 de TecNM) _PROGRAMANDO DE CHILL_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Tecnólogos ISC_ (Clasificatorio)
 1. #382 (#82 de TecNM) _¿Apoco si muy programadores?_ (Clasificatorio)
+
 
 
 

@@ -10,14 +10,25 @@
 
 ## Participaciones
 
-### 2004-2005
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **3** | **0** | **3** |
+| 2004-2005 | 0 | 1 | 0 | 1 |
+| 2006-2007 | 0 | 2 | 0 | 2 |
+
+### Detalle
+
+#### 2004-2005
 
 1. #90 _Informaticos_ (Regional)
 
-### 2006-2007
+#### 2006-2007
 
 1. #85 _ITSLL_ (Regional)
 1. #85 _ITSLL 1_ (Regional)
+
 
 
 

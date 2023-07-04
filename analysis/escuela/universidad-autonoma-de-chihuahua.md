@@ -17,12 +17,26 @@
 
 ## Participaciones
 
-### 2018-2019
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **8** | **37** | **37** |
+| 2018-2019 | 0 | 1 | 2 | 2 |
+| 2019-2020 | 0 | 2 | 7 | 7 |
+| 2020-2021 | 0 | 2 | 7 | 7 |
+| 2021-2022 | 0 | 2 | 7 | 7 |
+| 2022-2023 | 0 | 1 | 5 | 5 |
+| 2023-2024 | 0 | 0 | 9 | 9 |
+
+### Detalle
+
+#### 2018-2019
 
 1. #17 _Grecos_ (Regional)
 1. #121 _Chontes_ (Clasificatorio)
 
-### 2019-2020
+#### 2019-2020
 
 1. #34 _PatodaLaVida_ (Regional)
 1. #49 _3Loko_ (Regional)
@@ -32,7 +46,7 @@
 1. #177 _WeepyCoders_ (Clasificatorio)
 1. #382 _Mexicode_ (Clasificatorio)
 
-### 2020-2021
+#### 2020-2021
 
 1. #25 _Are ya winning son?_ (Regional)
 1. #27 _3Loko_ (Regional)
@@ -42,7 +56,7 @@
 1. #193 _SplendorCrescit_ (Clasificatorio)
 1. #309 _The Bestest_ (Clasificatorio)
 
-### 2021-2022
+#### 2021-2022
 
 1. #26 _PatodaLaVida_ (Regional)
 1. #50 _Wajakos_ (Regional)
@@ -52,7 +66,7 @@
 1. #144 _RTNGS_ (Clasificatorio)
 1. #177 _Pink_ (Clasificatorio)
 
-### 2022-2023
+#### 2022-2023
 
 1. #40 _Wajakos_ (Regional)
 1. #79 _Cruz Azul_ (Clasificatorio)
@@ -60,7 +74,7 @@
 1. #128 _RTNGS_ (Clasificatorio)
 1. #195 _Stray Girls_ (Clasificatorio)
 
-### 2023-2024
+#### 2023-2024
 
 1. #123 _Kashin Koji_ (Clasificatorio)
 1. #145 _Los mejores amigos_ (Clasificatorio)
@@ -71,6 +85,7 @@
 1. #259 _Motomachinas_ (Clasificatorio)
 1. #348 _Las Chicas Superprogramadoras_ (Clasificatorio)
 1. #387 _UACH-icoleros_ (Clasificatorio)
+
 
 
 

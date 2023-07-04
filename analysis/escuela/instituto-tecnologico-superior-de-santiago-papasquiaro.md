@@ -17,51 +17,72 @@
 
 ## Participaciones
 
-### 2004-2005
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **12** | **31** | **43** |
+| 2004-2005 | 0 | 4 | 0 | 4 |
+| 2005-2006 | 0 | 2 | 0 | 2 |
+| 2006-2007 | 0 | 1 | 0 | 1 |
+| 2009-2010 | 0 | 1 | 0 | 1 |
+| 2010-2011 | 0 | 1 | 0 | 1 |
+| 2011-2012 | 0 | 1 | 0 | 1 |
+| 2012-2013 | 0 | 1 | 0 | 1 |
+| 2013-2014 | 0 | 1 | 0 | 1 |
+| 2014-2015 | 0 | 0 | 1 | 1 |
+| 2015-2016 | 0 | 0 | 1 | 1 |
+| 2019-2020 | 0 | 0 | 17 | 17 |
+| 2022-2023 | 0 | 0 | 9 | 9 |
+| 2023-2024 | 0 | 0 | 3 | 3 |
+
+### Detalle
+
+#### 2004-2005
 
 1. #90 (#22 de TecNM) _Linces Tec_ (Regional)
 1. #90 (#22 de TecNM) _RiDaGreMo_ (Regional)
 1. #90 (#22 de TecNM) _itssp_ (Regional)
 1. #90 (#22 de TecNM) _linces_ (Regional)
 
-### 2005-2006
+#### 2005-2006
 
 1. #85 (#11 de TecNM) _BETAS_ (Regional)
 1. #85 (#11 de TecNM) _linces_ (Regional)
 
-### 2006-2007
+#### 2006-2007
 
 1. #85 (#19 de TecNM) _Linces_ (Regional)
 
-### 2009-2010
+#### 2009-2010
 
 1. #114 (#30 de TecNM) _Tec Linces_ (Regional)
 
-### 2010-2011
+#### 2010-2011
 
 1. #68 (#7 de TecNM) _LINCES_ (Regional)
 
-### 2011-2012
+#### 2011-2012
 
 1. #80 (#22 de TecNM) _LINCES1_ (Regional)
 
-### 2012-2013
+#### 2012-2013
 
 1. #34 (#12 de TecNM) _Linces_ (Regional)
 
-### 2013-2014
+#### 2013-2014
 
 1. #53 (#8 de TecNM) _Linces_ (Regional)
 
-### 2014-2015
+#### 2014-2015
 
 1. #35 (#5 de TecNM) _ITSSP_ (Clasificatorio)
 
-### 2015-2016
+#### 2015-2016
 
 1. #108 (#28 de TecNM) _Linces_ (Clasificatorio)
 
-### 2019-2020
+#### 2019-2020
 
 1. #382 (#98 de TecNM) _Black Power_ (Clasificatorio)
 1. #382 (#98 de TecNM) _Bryan´s Programmers _ (Clasificatorio)
@@ -81,7 +102,7 @@
 1. #382 (#98 de TecNM) _Team WE_ (Clasificatorio)
 1. #382 (#98 de TecNM) _The Programators_ (Clasificatorio)
 
-### 2022-2023
+#### 2022-2023
 
 1. #382 (#82 de TecNM) _Duracell AAA_ (Clasificatorio)
 1. #382 (#82 de TecNM) _JDKs_ (Clasificatorio)
@@ -93,11 +114,12 @@
 1. #382 (#82 de TecNM) _Platinos_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Pythem_ (Clasificatorio)
 
-### 2023-2024
+#### 2023-2024
 
 1. #183 (#33 de TecNM) _MSV_ (Clasificatorio)
 1. #186 (#35 de TecNM) _OverClock_ (Clasificatorio)
 1. #382 (#101 de TecNM) _      Lincoder´s_ (Clasificatorio)
+
 
 
 

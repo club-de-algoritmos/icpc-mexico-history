@@ -14,7 +14,17 @@
 
 ## Participaciones
 
-### 2019-2020
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **7** | **7** |
+| 2019-2020 | 0 | 0 | 6 | 6 |
+| 2020-2021 | 0 | 0 | 1 | 1 |
+
+### Detalle
+
+#### 2019-2020
 
 1. #382 (#98 de TecNM) _Felinos6_ (Clasificatorio)
 1. #382 (#98 de TecNM) _Felinos8_ (Clasificatorio)
@@ -23,9 +33,10 @@
 1. #382 (#98 de TecNM) _felinos 3_ (Clasificatorio)
 1. #382 (#98 de TecNM) _felinos 4_ (Clasificatorio)
 
-### 2020-2021
+#### 2020-2021
 
 1. #351 (#65 de TecNM) _ISC-Motul_ (Clasificatorio)
+
 
 
 

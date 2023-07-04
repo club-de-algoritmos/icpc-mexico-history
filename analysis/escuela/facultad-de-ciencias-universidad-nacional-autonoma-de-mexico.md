@@ -20,29 +20,47 @@
 
 ## Participaciones
 
-### 2014-2015
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **3** | **17** | **75** | **76** |
+| 2014-2015 | 0 | 1 | 1 | 1 |
+| 2015-2016 | 0 | 2 | 2 | 2 |
+| 2016-2017 | 1 | 1 | 2 | 2 |
+| 2017-2018 | 1 | 2 | 3 | 3 |
+| 2018-2019 | 0 | 2 | 7 | 7 |
+| 2019-2020 | 1 | 2 | 10 | 11 |
+| 2020-2021 | 0 | 3 | 15 | 15 |
+| 2021-2022 | 0 | 2 | 11 | 11 |
+| 2022-2023 | 0 | 2 | 19 | 19 |
+| 2023-2024 | 0 | 0 | 5 | 5 |
+
+### Detalle
+
+#### 2014-2015
 
 1. #7 _PU++_ (Regional)
 
-### 2015-2016
+#### 2015-2016
 
 1. #5 _pu++_ (Regional)
 1. #14 _pu++e2_ (Regional)
 
-### 2016-2017
+#### 2016-2017
 
 1. #1 _PU++_ (Regional)
     - Avanzó a la final mundial y resolvió 3 problemas obtuviendo el lugar #57 (58%) en 41st Annual World Finals of the ACM International Collegiate Programming Contest
 1. #113 _++PU_ (Clasificatorio)
 
-### 2017-2018
+#### 2017-2018
 
 1. #2 _PU++_ (Regional)
     - Avanzó a la final mundial y resolvió 5 problemas obtuviendo el lugar #31 (78%) en 42nd Annual World Finals of the International Collegiate Programming Contest
 1. #26 _Los pythons_ (Regional)
 1. #173 _UNAM amada_ (Clasificatorio)
 
-### 2018-2019
+#### 2018-2019
 
 1. #9 _UNAM Amada_ (Regional)
 1. #30 _pu+turbo_ (Regional)
@@ -52,7 +70,7 @@
 1. #210 _Vaquitas Marinas_ (Clasificatorio)
 1. #272 _While(true)_ (Clasificatorio)
 
-### 2019-2020
+#### 2019-2020
 
 1. No hay datos del regional
     - Avanzó a la final mundial y resolvió 3 problemas obtuviendo el lugar #47 (16%) en The ICPC World Finals Invitational Contest
@@ -67,7 +85,7 @@
 1. #305 _Los perezosos_ (Clasificatorio)
 1. #348 _Valhalla_ (Clasificatorio)
 
-### 2020-2021
+#### 2020-2021
 
 1. #2 _PumOMM_ (Regional)
 1. #20 _Pumas+_ (Regional)
@@ -85,7 +103,7 @@
 1. #246 _Script Cuántico_ (Clasificatorio)
 1. #290 _Luigi Vampa_ (Clasificatorio)
 
-### 2021-2022
+#### 2021-2022
 
 1. #11 _Pumas+_ (Regional)
 1. #20 _Dynamic Pumas_ (Regional)
@@ -99,7 +117,7 @@
 1. #226 _DJL-001_ (Clasificatorio)
 1. #226 _Predators_ (Clasificatorio)
 
-### 2022-2023
+#### 2022-2023
 
 1. #3 _Cagua++_ (Regional)
 1. #16 _Pumas+_ (Regional)
@@ -121,13 +139,14 @@
 1. #382 _Predators_ (Clasificatorio)
 1. #382 _Uijolen_ (Clasificatorio)
 
-### 2023-2024
+#### 2023-2024
 
 1. #4 _Peso Puma_ (Clasificatorio)
 1. #23 _Britneys Pelonas_ (Clasificatorio)
 1. #52 _Godzilambda_ (Clasificatorio)
 1. #63 _Códigos Anónimos_ (Clasificatorio)
 1. #148 _NullSkillException_ (Clasificatorio)
+
 
 
 

@@ -17,24 +17,39 @@
 
 ## Participaciones
 
-### 2017-2018
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **5** | **50** | **50** |
+| 2017-2018 | 0 | 0 | 2 | 2 |
+| 2018-2019 | 0 | 0 | 4 | 4 |
+| 2019-2020 | 0 | 0 | 2 | 2 |
+| 2020-2021 | 0 | 1 | 6 | 6 |
+| 2021-2022 | 0 | 2 | 6 | 6 |
+| 2022-2023 | 0 | 2 | 13 | 13 |
+| 2023-2024 | 0 | 0 | 17 | 17 |
+
+### Detalle
+
+#### 2017-2018
 
 1. #240 _UP Overflow_ (Clasificatorio)
 1. #327 _Los Chicos Superprogramadores_ (Clasificatorio)
 
-### 2018-2019
+#### 2018-2019
 
 1. #113 _pandasIAD_ (Clasificatorio)
 1. #173 _KND: Los chicos del barrio_ (Clasificatorio)
 1. #208 _UPOverflow_ (Clasificatorio)
 1. #364 _UPGDL04_ (Clasificatorio)
 
-### 2019-2020
+#### 2019-2020
 
 1. #133 _Trópicos de Capricornio_ (Clasificatorio)
 1. #291 _Time Limit Exceeded_ (Clasificatorio)
 
-### 2020-2021
+#### 2020-2021
 
 1. #51 _DrimTimICP_ (Regional)
 1. #156 _UPGDL05_ (Clasificatorio)
@@ -43,7 +58,7 @@
 1. #333 _Roosters_ (Clasificatorio)
 1. #351 _CodeBreakerz_ (Clasificatorio)
 
-### 2021-2022
+#### 2021-2022
 
 1. #23 _Mojibake_ (Regional)
 1. #50 _AlfaBuenaMaravillaOndaDinamitaEscuadrónLobo_ (Regional)
@@ -52,7 +67,7 @@
 1. #161 _DreamTeam_ (Clasificatorio)
 1. #163 _Syntax Error 2_ (Clasificatorio)
 
-### 2022-2023
+#### 2022-2023
 
 1. #22 _Hololive_ (Regional)
 1. #38 _Software Chasers_ (Regional)
@@ -68,7 +83,7 @@
 1. #359 _Los Kosakos_ (Clasificatorio)
 1. #371 _UPTEAM02_ (Clasificatorio)
 
-### 2023-2024
+#### 2023-2024
 
 1. #21 _Mojibake_ (Clasificatorio)
 1. #39 _Takodachis_ (Clasificatorio)
@@ -87,6 +102,7 @@
 1. #270 _UPGDL02_ (Clasificatorio)
 1. #275 _Los Chavos_ (Clasificatorio)
 1. #349 _Fibonacci_ (Clasificatorio)
+
 
 
 

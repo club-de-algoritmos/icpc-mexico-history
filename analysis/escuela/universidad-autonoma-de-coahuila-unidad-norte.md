@@ -17,7 +17,18 @@
 
 ## Participaciones
 
-### 2017-2018
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **11** | **11** |
+| 2017-2018 | 0 | 0 | 5 | 5 |
+| 2018-2019 | 0 | 0 | 3 | 3 |
+| 2019-2020 | 0 | 0 | 3 | 3 |
+
+### Detalle
+
+#### 2017-2018
 
 1. #225 _Code Breaker_ (Clasificatorio)
 1. #247 _Puzzles_ (Clasificatorio)
@@ -25,17 +36,18 @@
 1. #405 _BlueLine_ (Clasificatorio)
 1. #405 _RedLine_ (Clasificatorio)
 
-### 2018-2019
+#### 2018-2019
 
 1. #236 _Izipizi_ (Clasificatorio)
 1. #252 _Puzzles_ (Clasificatorio)
 1. #353 _Los potatoes 2.0_ (Clasificatorio)
 
-### 2019-2020
+#### 2019-2020
 
 1. #382 _Code Breakers_ (Clasificatorio)
 1. #382 _DJM_ (Clasificatorio)
 1. #382 _Los Potatoes 7.0_ (Clasificatorio)
+
 
 
 

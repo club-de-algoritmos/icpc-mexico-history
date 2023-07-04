@@ -17,30 +17,44 @@
 
 ## Participaciones
 
-### 2007-2008
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **10** | **0** | **10** |
+| 2007-2008 | 0 | 2 | 0 | 2 |
+| 2008-2009 | 0 | 3 | 0 | 3 |
+| 2009-2010 | 0 | 1 | 0 | 1 |
+| 2010-2011 | 0 | 3 | 0 | 3 |
+| 2013-2014 | 0 | 1 | 0 | 1 |
+
+### Detalle
+
+#### 2007-2008
 
 1. #61 _FORZA ITIC 2_ (Regional)
 1. #61 _Overclocking_ (Regional)
 
-### 2008-2009
+#### 2008-2009
 
 1. #14 _Smash coders_ (Regional)
 1. #30 _Null team_ (Regional)
 1. #101 _JM++_ (Regional)
 
-### 2009-2010
+#### 2009-2010
 
 1. #41 _Team.name = null;_ (Regional)
 
-### 2010-2011
+#### 2010-2011
 
 1. #29 _Big Blue Team_ (Regional)
 1. #156 _Javasalir_ (Regional)
 1. #156 _NullCoders_ (Regional)
 
-### 2013-2014
+#### 2013-2014
 
 1. #79 _AIO_ (Regional)
+
 
 
 

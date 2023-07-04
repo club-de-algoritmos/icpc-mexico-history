@@ -10,11 +10,21 @@
 
 ## Participaciones
 
-### 2010-2011
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **3** | **0** | **3** |
+| 2010-2011 | 0 | 3 | 0 | 3 |
+
+### Detalle
+
+#### 2010-2011
 
 1. #45 _UMCC2_ (Regional)
 1. #78 _UMCC4_ (Regional)
 1. #150 _UMCC1_ (Regional)
+
 
 
 

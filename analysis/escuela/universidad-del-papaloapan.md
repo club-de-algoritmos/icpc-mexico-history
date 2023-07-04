@@ -9,13 +9,24 @@
 
 ## Participaciones
 
-### 2007-2008
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **2** | **0** | **2** |
+| 2007-2008 | 0 | 1 | 0 | 1 |
+| 2009-2010 | 0 | 1 | 0 | 1 |
+
+### Detalle
+
+#### 2007-2008
 
 1. #61 _The black engineers_ (Regional)
 
-### 2009-2010
+#### 2009-2010
 
 1. #104 _Win2_ (Regional)
+
 
 
 

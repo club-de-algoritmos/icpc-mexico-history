@@ -13,17 +13,28 @@
 
 ## Participaciones
 
-### 2016-2017
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **6** | **6** |
+| 2016-2017 | 0 | 0 | 1 | 1 |
+| 2019-2020 | 0 | 0 | 5 | 5 |
+
+### Detalle
+
+#### 2016-2017
 
 1. #121 _chomsky_ (Clasificatorio)
 
-### 2019-2020
+#### 2019-2020
 
 1. #382 _Dev's Team_ (Clasificatorio)
 1. #382 _RTD-3_ (Clasificatorio)
 1. #382 _TDF_ (Clasificatorio)
 1. #382 _TURIN_ (Clasificatorio)
 1. #382 _Upworks_ (Clasificatorio)
+
 
 
 

@@ -162,7 +162,7 @@ class Analyzer:
                                         team.regional_result and
                                         team.regional_result.team_result.community_rank <= 5 and
                                         team.regional_result.team_result.problems_solved]
-                        self._print_simple_ranking(season.name, season_teams, markdown)
+                        self._print_simple_ranking(season.name, season_teams, markdown, display_community=False)
 
             self._print_school_rankings(markdown, community=SchoolCommunity.TECNM, contest_type=ContestType.REGIONAL)
 
@@ -247,6 +247,7 @@ class Analyzer:
                               teams: List[RankedTeam],
                               markdown: Markdown,
                               display_school: bool = True,
+                              display_community: bool = True,
                               ) -> None:
         if not teams:
             return
@@ -257,7 +258,8 @@ class Analyzer:
                 regional_result = team.regional_result or team.qualifier_result
                 if regional_result:
                     community_rank = ''
-                    if team.school.community == SchoolCommunity.TECNM:
+                    # TODO: Generalize to all communities
+                    if display_community and team.school.community == SchoolCommunity.TECNM:
                         community_rank = f' (#{regional_result.team_result.community_rank} de TecNM)'
                     markdown.numbered_bullet_point(f'#{regional_result.team_result.rank}{community_rank}'
                                                    f' _{team.name}_{school_str}'

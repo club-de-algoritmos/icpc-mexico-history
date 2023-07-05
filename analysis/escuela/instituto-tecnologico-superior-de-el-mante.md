@@ -19,7 +19,7 @@
 
 ### Resumen
 
-| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
 | **Total** | **0** | **6** | **98** | **102** |
 | 2013-2014 | 0 | 4 | 0 | 4 |

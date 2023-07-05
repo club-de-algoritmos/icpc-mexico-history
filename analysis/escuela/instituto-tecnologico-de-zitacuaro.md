@@ -19,7 +19,7 @@
 
 ### Resumen
 
-| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
 | **Total** | **0** | **8** | **4** | **12** |
 | 2010-2011 | 0 | 3 | 0 | 3 |

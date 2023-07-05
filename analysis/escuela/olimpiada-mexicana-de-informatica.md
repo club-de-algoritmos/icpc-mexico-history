@@ -16,7 +16,7 @@
 
 ### Resumen
 
-| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
 | **Total** | **0** | **5** | **4** | **7** |
 | 2019-2020 | 0 | 1 | 0 | 1 |

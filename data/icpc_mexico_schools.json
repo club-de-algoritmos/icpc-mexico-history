@@ -2636,8 +2636,11 @@
     "is_eligible": true
   },
   {
-    "name": "universidad de guadalajara",
-    "alt_names": [],
+    "name": "universidad de guadalajara - cucei",
+    "alt_names": [
+      "universidad de guadalajara",
+      "universidad de guadalajara cucei"
+    ],
     "community": null,
     "country": "mexico",
     "state": null,
@@ -2653,14 +2656,6 @@
   },
   {
     "name": "universidad de guadalajara cucea",
-    "alt_names": [],
-    "community": null,
-    "country": "mexico",
-    "state": null,
-    "is_eligible": true
-  },
-  {
-    "name": "universidad de guadalajara cucei",
     "alt_names": [],
     "community": null,
     "country": "mexico",
@@ -2732,16 +2727,11 @@
     "is_eligible": true
   },
   {
-    "name": "universidad de guanajuato",
-    "alt_names": [],
-    "community": null,
-    "country": "mexico",
-    "state": null,
-    "is_eligible": true
-  },
-  {
     "name": "universidad de guanajuato - cimat",
-    "alt_names": [],
+    "alt_names": [
+      "universidad de guanajuato",
+      "universidad de guanajuato - dcne"
+    ],
     "community": null,
     "country": "mexico",
     "state": null,
@@ -2749,14 +2739,6 @@
   },
   {
     "name": "universidad de guanajuato - dcea",
-    "alt_names": [],
-    "community": null,
-    "country": "mexico",
-    "state": null,
-    "is_eligible": true
-  },
-  {
-    "name": "universidad de guanajuato - dcne",
     "alt_names": [],
     "community": null,
     "country": "mexico",

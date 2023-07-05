@@ -21,7 +21,7 @@
 
 ### Resumen
 
-| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
 | **Total** | **2** | **17** | **39** | **53** |
 | 2006-2007 | 0 | 1 | 0 | 1 |

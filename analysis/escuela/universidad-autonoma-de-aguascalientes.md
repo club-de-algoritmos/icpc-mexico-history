@@ -21,7 +21,7 @@
 
 ### Resumen
 
-| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
 | **Total** | **2** | **39** | **90** | **115** |
 | 2005-2006 | 0 | 1 | 0 | 1 |

@@ -173,7 +173,17 @@ def get_schools(contests: List[FinishedContest]) -> List[School]:
             name='universidad autonoma de occidente',
             country=MEXICO,
             state='sinaloa',
-        )
+        ),
+        School(
+            name='universidad de guanajuato - cimat',
+            alt_names=['universidad de guanajuato', 'universidad de guanajuato - dcne'],
+            country=MEXICO,
+        ),
+        School(
+            name='universidad de guadalajara - cucei',
+            alt_names=['universidad de guadalajara', 'universidad de guadalajara cucei'],
+            country=MEXICO,
+        ),
     ]
 
     school_names = set()

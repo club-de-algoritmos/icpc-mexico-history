@@ -21,7 +21,7 @@
 
 ### Resumen
 
-| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
 | **Total** | **2** | **34** | **43** | **76** |
 | 2000-2001 | 1 | 0 | 0 | 1 |

@@ -22,7 +22,7 @@
 
 ### Resumen
 
-| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
 | **Total** | **3** | **17** | **75** | **76** |
 | 2014-2015 | 0 | 1 | 1 | 1 |

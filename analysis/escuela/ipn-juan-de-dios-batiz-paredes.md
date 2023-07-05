@@ -18,7 +18,7 @@
 
 ### Resumen
 
-| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
 | **Total** | **0** | **9** | **0** | **9** |
 | 2004-2005 | 0 | 1 | 0 | 1 |

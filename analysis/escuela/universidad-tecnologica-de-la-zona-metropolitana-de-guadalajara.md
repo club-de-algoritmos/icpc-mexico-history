@@ -15,7 +15,7 @@
 
 ### Resumen
 
-| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
 | **Total** | **0** | **6** | **0** | **6** |
 | 2008-2009 | 0 | 2 | 0 | 2 |

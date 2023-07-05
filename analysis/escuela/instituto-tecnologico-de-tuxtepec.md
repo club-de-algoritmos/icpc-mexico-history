@@ -13,7 +13,7 @@
 
 ### Resumen
 
-| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
 | **Total** | **0** | **3** | **1** | **4** |
 | 2003-2004 | 0 | 3 | 0 | 3 |

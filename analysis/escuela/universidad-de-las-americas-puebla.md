@@ -23,7 +23,7 @@
 
 ### Resumen
 
-| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
 | **Total** | **4** | **23** | **0** | **25** |
 | 1998-1999 | 1 | 0 | 0 | 1 |

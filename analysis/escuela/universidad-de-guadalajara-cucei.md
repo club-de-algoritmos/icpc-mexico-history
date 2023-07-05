@@ -1,4 +1,4 @@
-# Universidad De Guadalajara Cucei
+# Universidad De Guadalajara - Cucei
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 
@@ -6,6 +6,8 @@
 
 1. _Leones(0,0,0)_ resolvió 7 problemas y obtuvo el lugar #4 (100%) en The 2020 ICPC Mexico Finals
     - Avanzó a la final mundial y resolvió 3 problemas y obtuvo el lugar #51 (62%) en 45th Annual World Finals of the International Collegiate Programming Contest
+1. _U de G ACM Problem Solvers_ resolvió 6 problemas y obtuvo el lugar #1 (100%) en The 2007 ACM Mexico and Central America Programming Contest
+    - Avanzó a la final mundial y resolvió 2 problemas y obtuvo el lugar #65 (35%) en The 2008 ACM Programming Contest World Finals
 1. _Leones(0,0,0)_ resolvió 5 problemas y obtuvo el lugar #2 (100%) en The 2021 ICPC Mexico Finals
 1. _The Silence of the Lambdas_ resolvió 15 problemas y obtuvo el lugar #7 (99%) en The 2023 ICPC Gran Premio de Mexico
 1. _Almost Retired_ resolvió 4 problemas y obtuvo el lugar #9 (99%) en The 2022 ICPC Mexico Finals
@@ -14,19 +16,20 @@
 1. _The Empire Strikes Back_ resolvió 4 problemas y obtuvo el lugar #14 (98%) en The 2020 ICPC Mexico Finals
 1. _Los Mismísimos Carajillos_ resolvió 4 problemas y obtuvo el lugar #17 (98%) en The 2022 ICPC Mexico Finals
 1. _DeltaWing_ resolvió 3 problemas y obtuvo el lugar #24 (98%) en The 2022 ICPC Mexico Finals
-1. _ACM Problem Solvers_ resolvió 4 problemas y obtuvo el lugar #6 (97%) en The 2010 Mexico & Central America Regional Contest
 
 ## Participaciones
 
 ### Resumen
 
-| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
-| **Total** | **1** | **60** | **138** | **180** |
-| 2003-2004 | 0 | 4 | 0 | 4 |
-| 2004-2005 | 0 | 6 | 0 | 6 |
-| 2005-2006 | 0 | 7 | 0 | 7 |
+| **Total** | **2** | **71** | **142** | **195** |
+| 2002-2003 | 0 | 2 | 0 | 2 |
+| 2003-2004 | 0 | 5 | 0 | 5 |
+| 2004-2005 | 0 | 8 | 0 | 8 |
+| 2005-2006 | 0 | 9 | 0 | 9 |
 | 2006-2007 | 0 | 3 | 0 | 3 |
+| 2007-2008 | 1 | 4 | 0 | 4 |
 | 2008-2009 | 0 | 4 | 0 | 4 |
 | 2009-2010 | 0 | 3 | 0 | 3 |
 | 2010-2011 | 0 | 2 | 0 | 2 |
@@ -41,14 +44,20 @@
 | 2019-2020 | 0 | 3 | 17 | 17 |
 | 2020-2021 | 1 | 3 | 7 | 7 |
 | 2021-2022 | 0 | 3 | 7 | 7 |
-| 2022-2023 | 0 | 5 | 23 | 23 |
-| 2023-2024 | 0 | 0 | 18 | 18 |
+| 2022-2023 | 0 | 5 | 26 | 26 |
+| 2023-2024 | 0 | 0 | 19 | 19 |
+
+### 2002-2003
+
+1. #11 _Leones de Guadalajara_ (Regional)
+1. #27 _Patitox CUCEI_ (Regional)
 
 ### 2003-2004
 
 1. #11 _Ciberleones de Guadalajara_ (Regional)
 1. #18 _Digital Advance_ (Regional)
 1. #41 _Leones Negros_ (Regional)
+1. #41 _Leones Rechazados_ (Regional)
 1. #41 _Patitox CUCEI_ (Regional)
 
 ### 2004-2005
@@ -59,6 +68,8 @@
 1. #34 _Digital Advance_ (Regional)
 1. #37 _LionSoft_ (Regional)
 1. #68 _Leones Negros_ (Regional)
+1. #85 _Valles UdeG_ (Regional)
+1. #87 _Cuvallitos UdeG_ (Regional)
 
 ### 2005-2006
 
@@ -68,6 +79,8 @@
 1. #73 _Ciberleones de Guadalajara_ (Regional)
 1. #78 _Trivium_ (Regional)
 1. #85 _    _ (Regional)
+1. #85 _Cuvalles UdeG_ (Regional)
+1. #85 _Cuvallitos_ (Regional)
 1. #85 _Warner Brothers_ (Regional)
 
 ### 2006-2007
@@ -75,6 +88,14 @@
 1. #6 _Vini Programmi Victi_ (Regional)
 1. #48 _1.5H_ (Regional)
 1. #73 _A7X_ (Regional)
+
+### 2007-2008
+
+1. #1 _U de G ACM Problem Solvers_ (Regional)
+    - Avanzó a la final mundial y resolvió 2 problemas obtuviendo el lugar #65 (35%) en The 2008 ACM Programming Contest World Finals
+1. #34 _AmictiaMentis_ (Regional)
+1. #51 _Veni Programmi Victi_ (Regional)
+1. #61 _Untitled_ (Regional)
 
 ### 2008-2009
 
@@ -259,10 +280,13 @@
 1. #382 _Bye bye byte_ (Clasificatorio)
 1. #382 _Code Masters_ (Clasificatorio)
 1. #382 _Los magos del barrio_ (Clasificatorio)
+1. #382 _Sons Of Tanenbaum_ (Clasificatorio)
 1. #382 _Torombolos_ (Clasificatorio)
 1. #382 _UdGod_ (Clasificatorio)
 1. #382 _Uploading..._ (Clasificatorio)
 1. #382 _XOXO_ (Clasificatorio)
+1. #382 _system32_ (Clasificatorio)
+1. #382 _telematicos_ (Clasificatorio)
 
 ### 2023-2024
 
@@ -277,6 +301,7 @@
 1. #232 _Las Bélicas_ (Clasificatorio)
 1. #237 _The walking C_ (Clasificatorio)
 1. #281 _My Melody Coders_ (Clasificatorio)
+1. #369 _Los Zermeñitos_ (Clasificatorio)
 1. #394 _Flash_ (Clasificatorio)
 1. #395 _Código: Bronceado_ (Clasificatorio)
 1. #400 _Noc++_ (Clasificatorio)

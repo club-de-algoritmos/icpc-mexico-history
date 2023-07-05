@@ -1,18 +1,22 @@
 import enum
+import os
 from typing import TextIO, List
 
 
 class MarkdownFile:
     def __init__(self, filename: str):
-        self.filename = filename
-        self.file = None
+        self._filename = filename
+        self._file = None
 
     def __enter__(self):
-        self.file = open(self.filename, 'w')
-        return Markdown(self.file, 0)
+        if os.path.exists(self._filename):
+            print(f'Markdown file {self._filename} already exists, it will ve overwritten')
+
+        self._file = open(self._filename, 'w')
+        return Markdown(self._file, 0)
 
     def __exit__(self, *args):
-        self.file.close()
+        self._file.close()
 
 
 class MarkdownContext(enum.Enum):
@@ -22,35 +26,35 @@ class MarkdownContext(enum.Enum):
 
 class Markdown:
     def __init__(self, file: TextIO, indent: int):
-        self.file = file
-        self.indent = indent
-        self.context = []
+        self._file = file
+        self._indent = indent
+        self._context = []
 
     def _write_line(self, line: str = '') -> None:
-        self.file.write(f'{line}\n')
+        self._file.write(f'{line}\n')
 
     def _get_current_context(self) -> MarkdownContext:
-        return self.context[-1]
+        return self._context[-1]
 
     def __enter__(self):
         if self._get_current_context() == MarkdownContext.SECTION:
-            self.indent += 1
+            self._indent += 1
 
     def __exit__(self, *args):
         if self._get_current_context() == MarkdownContext.SECTION:
-            self.indent -= 1
+            self._indent -= 1
         if self._get_current_context() == MarkdownContext.COLLAPSIBLE:
             self._write_line('</details>')
         self._write_line()
-        self.context.pop()
+        self._context.pop()
 
     def paragraph(self, text: str) -> None:
         self._write_line(text)
         self._write_line()
 
     def section(self, title: str):
-        section_indent = self.indent + 1
-        self.context.append(MarkdownContext.SECTION)
+        section_indent = self._indent + 1
+        self._context.append(MarkdownContext.SECTION)
         self._write_line(f'{"#" * section_indent} {title}')
         self._write_line()
         return self
@@ -62,7 +66,7 @@ class Markdown:
         self._write_line(f'{" " * 4 * indent}1. {text}')
 
     def collapsible(self, summary: str) -> None:
-        self.context.append(MarkdownContext.COLLAPSIBLE)
+        self._context.append(MarkdownContext.COLLAPSIBLE)
         self._write_line('<details>')
         self._write_line(f'<summary>{summary}</summary>')
         self._write_line()

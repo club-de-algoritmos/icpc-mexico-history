@@ -16,7 +16,7 @@
 
 ### Resumen
 
-| Temporada | Finales mundiales | Regionales | Clasificatorios | Total |
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
 | **Total** | **0** | **4** | **4** | **7** |
 | 2015-2016 | 0 | 1 | 0 | 1 |

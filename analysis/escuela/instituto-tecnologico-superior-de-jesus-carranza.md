@@ -4,10 +4,10 @@
 
 ## Mejores 10 equipos
 
-1. _LOS GUAPOS_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _LOS JAROCHOS_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _LOS PRIMERISOS_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _TIMSOFT TEC CARRANZA _ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _LOS GUAPOS_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _LOS JAROCHOS_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _LOS PRIMERISOS_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _TIMSOFT TEC CARRANZA _ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _TRIO-ARE_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _HackDinamita_ resolvió 0 problemas y obtuvo el lugar #351 (50%) en Gran Premio de Mexico 2020
 1. _INFORMATICOSTECCARRANZA_ resolvió 0 problemas y obtuvo el lugar #351 (50%) en Gran Premio de Mexico 2020

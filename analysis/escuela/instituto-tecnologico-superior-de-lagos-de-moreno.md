@@ -4,8 +4,8 @@
 
 ## Mejores 10 equipos
 
-1. _Lagos 1_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Lagos 2_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Lagos 1_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Lagos 2_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _Los Programadores lagos_ resolvió 0 problemas y obtuvo el lugar #101 (40%) en The 2008 Mexico & Central America Contest
 1. _MMO_ resolvió 0 problemas y obtuvo el lugar #101 (40%) en The 2008 Mexico & Central America Contest
 1. _Lagos1_ resolvió 0 problemas y obtuvo el lugar #405 (40%) en Gran Premio de Mexico & Centroamerica 2017

@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _Adrián y los Joseses_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Awake_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Code breakers_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Los Campers_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Los Code Ranch_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Los Foraneos_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Los Indecisos1_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Los Picateclas_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Los chilaquiles_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Natus Vincere_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Adrián y los Joseses_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Awake_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Code breakers_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Los Campers_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Los Code Ranch_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Los Foraneos_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Los Indecisos1_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Los Picateclas_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Los chilaquiles_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Natus Vincere_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 

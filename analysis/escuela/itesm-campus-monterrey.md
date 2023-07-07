@@ -30,7 +30,8 @@
 
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
-| **Total** | **9** | **89** | **297** | **360** |
+| **Total** | **10** | **89** | **297** | **361** |
+| 1997-1998 | 1 | 0 | 0 | 1 |
 | 1998-1999 | 1 | 0 | 0 | 1 |
 | 2000-2001 | 1 | 0 | 0 | 1 |
 | 2001-2002 | 1 | 3 | 0 | 3 |
@@ -54,6 +55,11 @@
 | 2021-2022 | 0 | 3 | 24 | 24 |
 | 2022-2023 | 0 | 2 | 32 | 32 |
 | 2023-2024 | 0 | 0 | 30 | 30 |
+
+### 1997-1998
+
+1. No hay datos del regional
+    - Avanzó a la final mundial y resolvió 2 problemas obtuviendo el lugar #40 en The 1998 ACM Programming Contest World Finals
 
 ### 1998-1999
 

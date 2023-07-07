@@ -4,11 +4,11 @@
 
 ## Mejores 10 equipos
 
-1. _Antler_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _CAJ-ITO_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _KEDM Team_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _MAGG_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Team Dinamita de Oaxaca_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Antler_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _CAJ-ITO_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _KEDM Team_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _MAGG_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Team Dinamita de Oaxaca_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _FuerzITO_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _The Warriors_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _Itosaurios_ resolvió 4 problemas y obtuvo el lugar #202 (56%) en The 2023 ICPC Gran Premio de Mexico

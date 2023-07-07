@@ -4,10 +4,10 @@
 
 ## Mejores 10 equipos
 
-1. _404NotFound_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _A.s.m._ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _dinamita_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _type_null_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _404NotFound_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _A.s.m._ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _dinamita_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _type_null_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _OMEN_ resolvió 0 problemas y obtuvo el lugar #226 (53%) en The 2021 ICPC Gran Premio de Mexico
 
 ## Participaciones

@@ -4,8 +4,8 @@
 
 ## Mejores 10 equipos
 
-1. _Equipo Dinamita_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Undefined_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Equipo Dinamita_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Undefined_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _ALL IS WELL_ resolvió 0 problemas y obtuvo el lugar #405 (40%) en Gran Premio de Mexico & Centroamerica 2017
 1. _DROP TABLE_ resolvió 0 problemas y obtuvo el lugar #405 (40%) en Gran Premio de Mexico & Centroamerica 2017
 1. _HxC_ resolvió 0 problemas y obtuvo el lugar #116 (29%) en The 2009 Mexico & Central America Contest

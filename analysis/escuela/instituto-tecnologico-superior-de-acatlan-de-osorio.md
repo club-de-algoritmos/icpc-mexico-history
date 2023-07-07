@@ -4,9 +4,9 @@
 
 ## Mejores 10 equipos
 
-1. _0&1_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _JAV_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Jovenes_Itsao_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _0&1_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _JAV_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Jovenes_Itsao_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _DESPLAZADOS_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _Gios_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _IGUANAS_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico

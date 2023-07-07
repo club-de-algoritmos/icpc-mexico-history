@@ -4,9 +4,9 @@
 
 ## Mejores 10 equipos
 
-1. _Ampersand_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Resilience_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _The Three Amigos_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Ampersand_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Resilience_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _The Three Amigos_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _Durango 1_ resolvió 0 problemas y obtuvo el lugar #104 (36%) en The 2011 Mexico & Central America Regional Contest
 1. _Durango 2_ resolvió 0 problemas y obtuvo el lugar #104 (36%) en The 2011 Mexico & Central America Regional Contest
 1. _utd_Durango2_ resolvió 0 problemas y obtuvo el lugar #134 (18%) en The 2012 Mexico & Central America Regional Contest

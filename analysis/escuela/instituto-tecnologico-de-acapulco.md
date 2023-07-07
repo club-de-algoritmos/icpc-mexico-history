@@ -5,15 +5,15 @@
 ## Mejores 10 equipos
 
 1. _los chicos del tec_ resolvió 2 problemas y obtuvo el lugar #275 (79%) en Gran Premio de Mexico 2019
-1. _AKB_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Ajax_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Berojo_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _EFE_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _EQUIPO DINAMITA_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Error 404_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _FUZZY DESTROY_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _GFJ_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _German 66_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _AKB_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Ajax_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Berojo_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _EFE_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _EQUIPO DINAMITA_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Error 404_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _FUZZY DESTROY_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _GFJ_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _German 66_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 

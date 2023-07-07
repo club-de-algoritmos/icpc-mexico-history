@@ -9,7 +9,7 @@
 1. _Los Chidory_ resolvió 4 problemas y obtuvo el lugar #3 (99%) en The 2013 Mexico & Central America Regional Contest
     - Avanzó a la final mundial y resolvió 2 problemas y obtuvo el lugar #45 (64%) en 38th Annual World Finals of the ACM International Collegiate Programming Contest
 1. _UPsolving_ resolvió 6 problemas y obtuvo el lugar #8 (99%) en The 2019 ICPC Mexico Finals
-    - Avanzó a la final mundial y resolvió None problemas y obtuvo el lugar #47 (61%) en 44th Annual World Finals of the International Collegiate Programming Contest
+    - Avanzó a la final mundial y obtuvo el lugar #47 (61%) en 44th Annual World Finals of the International Collegiate Programming Contest
 1. _AEI_ resolvió 5 problemas y obtuvo el lugar #2 (99%) en The 2012 Mexico & Central America Regional Contest
     - Avanzó a la final mundial y resolvió 2 problemas y obtuvo el lugar #76 (36%) en 37th Annual World Finals of the ACM International Collegiate Programming Contest
 1. _UPsolving_ resolvió 8 problemas y obtuvo el lugar #2 (100%) en The 2022 ICPC Mexico Finals
@@ -129,7 +129,7 @@
 ### 2019-2020
 
 1. #8 _UPsolving_ (Regional)
-    - Avanzó a la final mundial y resolvió None problemas obtuviendo el lugar #47 (61%) en 44th Annual World Finals of the International Collegiate Programming Contest
+    - Avanzó a la final mundial obtuviendo el lugar #47 (61%) en 44th Annual World Finals of the International Collegiate Programming Contest
 1. #12 _Chilakillers_ (Regional)
 1. #21 _ICPCrikos_ (Regional)
 1. #68 _Backend boys_ (Clasificatorio)

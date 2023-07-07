@@ -4,9 +4,9 @@
 
 ## Mejores 10 equipos
 
-1. _Bufalos_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Sonora_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Yaquis_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Bufalos_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Sonora_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Yaquis_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 

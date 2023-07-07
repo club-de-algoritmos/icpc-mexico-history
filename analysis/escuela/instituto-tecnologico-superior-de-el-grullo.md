@@ -9,9 +9,9 @@
 1. _TecGrullo2_2_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
 1. _TecGrullo3_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
 1. _TecMM Grullo 2_ resolvió 1 problemas y obtuvo el lugar #369 (71%) en Gran Premio de Mexico 2019
-1. _TecMM Grullo 1_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _TecMM Grullo 3_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _TecMM Grullo 4_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _TecMM Grullo 1_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _TecMM Grullo 3_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _TecMM Grullo 4_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _TecGrullo1_ resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
 1. _TecGrullo2_ resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
 

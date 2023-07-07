@@ -5,7 +5,7 @@
 ## Mejores 10 equipos
 
 1. _E3_ resolvió 7 problemas y obtuvo el lugar #2 (100%) en The 2019 ICPC Mexico Finals
-    - Avanzó a la final mundial y resolvió None problemas y obtuvo el lugar #47 (61%) en 44th Annual World Finals of the International Collegiate Programming Contest
+    - Avanzó a la final mundial y obtuvo el lugar #47 (61%) en 44th Annual World Finals of the International Collegiate Programming Contest
 1. _Manowar_ resolvió 8 problemas y obtuvo el lugar #1 (100%) en The 2010 Mexico & Central America Regional Contest
     - Avanzó a la final mundial y resolvió 2 problemas y obtuvo el lugar #74 (30%) en 35th Annual World Finals of the ACM International Collegiate Programming Contest
 1. _Manowar_ resolvió 6 problemas y obtuvo el lugar #1 (100%) en The 2011 Mexico & Central America Regional Contest
@@ -178,7 +178,7 @@
 ### 2019-2020
 
 1. #2 _E3_ (Regional)
-    - Avanzó a la final mundial y resolvió None problemas obtuviendo el lugar #47 (61%) en 44th Annual World Finals of the International Collegiate Programming Contest
+    - Avanzó a la final mundial obtuviendo el lugar #47 (61%) en 44th Annual World Finals of the International Collegiate Programming Contest
 1. #9 _Hypercube Destroyers_ (Regional)
 1. #14 _Talla Mediana_ (Regional)
 1. #18 _Two and a Half Compus_ (Clasificatorio)

@@ -4,11 +4,11 @@
 
 ## Mejores 10 equipos
 
-1. _Alpha Code_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Noobsters_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _QualitySoft_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Team Prophet_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _VCode_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Alpha Code_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Noobsters_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _QualitySoft_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Team Prophet_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _VCode_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _Noobsters_ resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
 1. _Rogers_ resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
 1. _Rubik_ resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica

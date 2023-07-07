@@ -6,13 +6,13 @@
 
 1. _NISC_ resolvió 3 problemas y obtuvo el lugar #35 (79%) en The 2011 Mexico & Central America Regional Contest
 1. _java knights_ resolvió 1 problemas y obtuvo el lugar #43 (76%) en The 2013 Mexico & Central America Regional Contest
-1. _Anthem ITSA_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Ctos ITSA_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _ISC TEAM_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Informáticos01_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Informáticos02_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Los Fieles_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Los Judas_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Anthem ITSA_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Ctos ITSA_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _ISC TEAM_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Informáticos01_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Informáticos02_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Los Fieles_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Los Judas_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _Los Judas ITSA_ resolvió 0 problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 
 ## Participaciones

@@ -8,9 +8,9 @@
 1. _Evil Machine_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
 1. _SkyLine_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
 1. _Acapulqueques_ resolvió 1 problemas y obtuvo el lugar #317 (75%) en Gran Premio de Mexico 2019
-1. _Error 404_CUSUR_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Error de capa 8_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Fenix_CUSUR_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Error 404_CUSUR_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Error de capa 8_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Fenix_CUSUR_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _Evil Machine_ resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
 1. _Skyline_ resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
 1. _BWT combinados_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico

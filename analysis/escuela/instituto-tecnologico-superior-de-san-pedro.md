@@ -9,9 +9,9 @@
 1. _Zorros_ resolvió 4 problemas y obtuvo el lugar #143 (78%) en Gran Premio de Mexico & Centroamerica 2017
 1. _LAS INEVITABLES_ resolvió 2 problemas y obtuvo el lugar #289 (78%) en Gran Premio de Mexico 2019
 1. _Error 404_ resolvió 3 problemas y obtuvo el lugar #199 (70%) en Gran Premio de Mexico & Centroamerica 2017
-1. _Atletico San Pancho_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Los nuevos vengadores_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _innombrables_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Atletico San Pancho_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Los nuevos vengadores_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _innombrables_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _Destroyers_ resolvió 3 problemas y obtuvo el lugar #224 (67%) en Gran Premio de Mexico & Centroamerica 2017
 1. _Java-Lieron_ resolvió 2 problemas y obtuvo el lugar #240 (67%) en Gran Premio de Mexico 2018
 

@@ -4,10 +4,10 @@
 
 ## Mejores 10 equipos
 
-1. _INFORMÁTICA ITSH_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Onda vital_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Panteras ITSH_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Turing_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _INFORMÁTICA ITSH_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Onda vital_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Panteras ITSH_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Turing_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _Developers Sistemas_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _Informática-ITSH_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _Panteras ISC ITSH_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico

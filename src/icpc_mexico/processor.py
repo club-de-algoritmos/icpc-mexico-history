@@ -6,7 +6,7 @@ from icpc_mexico import icpc_api
 from icpc_mexico.data import Contest, FinishedContest, TeamResult, ContestType, School, SchoolCommunity, MEXICO
 from icpc_mexico.errors import ProcessingError
 from icpc_mexico.queries import get_school
-from icpc_mexico.utils import normalize_str, normalize_school_name
+from icpc_mexico.utils import normalize_school_name
 
 
 def _from_csv_to_contest(csv_row: Dict) -> Contest:
@@ -56,17 +56,40 @@ def _clean_up_teams(team_results: List[TeamResult], contest: Contest) -> List[Te
             unique_teams[team.id] = dataclasses.replace(team, rank=last_rank + 1)
 
     sorted_teams = sorted(unique_teams.values(), key=lambda t: t.rank)
-    prev_team = None
-    for idx, team in enumerate(sorted_teams):
-        expected_rank = idx + 1
-        # Allow a rank offset of up to 5 places as that's how it is :(
-        if team.rank != expected_rank and not (prev_team.rank <= team.rank <= prev_team.rank + 5):
-            print(f'Previous team: {prev_team}')
-            print(f'Team: {team}')
-            raise ProcessingError(f'Unexpected rank for team {team.name}: {team.rank}, expected {expected_rank}')
-        prev_team = team
+    if not contest.is_manual:
+        # Check ranks
+        prev_team = None
+        for idx, team in enumerate(sorted_teams):
+            expected_rank = idx + 1
+            # Allow a rank offset of up to 5 places as that's how it is :(
+            if team.rank != expected_rank and not (prev_team.rank <= team.rank <= prev_team.rank + 5):
+                print(f'Previous team: {prev_team}')
+                print(f'Team: {team}')
+                raise ProcessingError(f'Unexpected rank for team {team.name}: {team.rank}, expected {expected_rank}')
+            prev_team = team
 
     return sorted_teams
+
+
+def _get_teams_without_api(contest: Contest) -> List[TeamResult]:
+    """There is no API data for these contests, so they are manually added as there is a record of it.
+
+    There is no API data for contests for 1998 or earlier, but they can be consulted manually, for example, at
+    https://icpc.global/community/results-1998
+    """
+    if contest.url_id == 'World-Finals-1998':
+        return [
+            TeamResult(id=0, name='<Desconocido>', institution='ITESM Campus Monterrey',
+                       rank=40, problems_solved=2, total_time=None,
+                       last_problem_time=None, medal_citation=None, site_citation=None, citation=None),
+        ]
+    if contest.url_id == 'World-Finals-1997':
+        return [
+            TeamResult(id=0, name='<Desconocido>', institution='Universidad Juarez Autonoma de Tabasco',
+                       rank=28, problems_solved=None, total_time=None,
+                       last_problem_time=None, medal_citation=None, site_citation=None, citation=None),
+        ]
+    raise ValueError(f'Unexpected contest without API data: {contest.name}')
 
 
 def get_finished_contests(contests: List[Contest]) -> List[FinishedContest]:
@@ -76,10 +99,13 @@ def get_finished_contests(contests: List[Contest]) -> List[FinishedContest]:
         if contest.comments.startswith('TBD'):
             continue
 
-        print(f'Getting results for contest {contest.name}')
-        teams = icpc_api.get_contest_team_results(contest.id)
-        if not teams:
-            raise ProcessLookupError(f'Contest {contest.name} has no team results')
+        if contest.is_manual:
+            teams = _get_teams_without_api(contest)
+        else:
+            print(f'Getting results for contest {contest.name}')
+            teams = icpc_api.get_contest_team_results(contest.id)
+            if not teams:
+                raise ProcessLookupError(f'Contest {contest.name} has no team results')
 
         unique_teams = _clean_up_teams(teams, contest)
         if len(unique_teams) != len(teams):
@@ -182,6 +208,10 @@ def get_schools(contests: List[FinishedContest]) -> List[School]:
         School(
             name='universidad de guadalajara cucei',
             alt_names=['universidad de guadalajara'],
+            country=MEXICO,
+        ),
+        School(
+            name='Universidad Juárez Autónoma de Tabasco',
             country=MEXICO,
         ),
     ]

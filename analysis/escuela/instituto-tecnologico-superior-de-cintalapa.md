@@ -4,10 +4,10 @@
 
 ## Mejores 10 equipos
 
-1. _Cilantro_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Diego´s_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Escuadron Suicida_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Tigres_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Cilantro_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Diego´s_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Escuadron Suicida_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Tigres_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 

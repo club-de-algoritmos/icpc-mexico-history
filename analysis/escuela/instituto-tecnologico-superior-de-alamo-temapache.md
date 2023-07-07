@@ -7,8 +7,8 @@
 1. _Los 5 Métodos_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
 1. _Los Romies_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
 1. _The Mirror's_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
-1. _Conejos digitales_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Warriors_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Conejos digitales_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Warriors_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _ITSAT 2_ resolvió 2 problemas y obtuvo el lugar #236 (65%) en Gran Premio de Mexico & Centroamerica 2017
 1. _BitCodeOne_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _CodeOne_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico

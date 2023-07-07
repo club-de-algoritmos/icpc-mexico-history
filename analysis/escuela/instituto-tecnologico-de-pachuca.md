@@ -4,8 +4,8 @@
 
 ## Mejores 10 equipos
 
-1. _CODEVS_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _ITP v2.0_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _CODEVS_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _ITP v2.0_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _itp1.0_ resolvió 3 problemas y obtuvo el lugar #234 (68%) en Gran Premio de Mexico 2018
 1. _Versión Beta_ resolvió 2 problemas y obtuvo el lugar #46 (64%) en The 2006 ACM Mexico and Central America Programming Contest
 1. _Bug Programmers (BP)_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico

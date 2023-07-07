@@ -4,11 +4,11 @@
 
 ## Mejores 10 equipos
 
-1. _Avenger_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Brigde_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _DevSoft_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Remove_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _System Eagles_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Avenger_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Brigde_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _DevSoft_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Remove_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _System Eagles_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _Namesake Team_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _The Conqueros_ resolvió 1 problemas y obtuvo el lugar #33 (59%) en The 2001 ACM Mexico and Central America Programming Contest
 1. _ABG CODE_ resolvió 0 problemas y obtuvo el lugar #226 (53%) en The 2021 ICPC Gran Premio de Mexico

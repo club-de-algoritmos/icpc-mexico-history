@@ -4,9 +4,9 @@
 
 ## Mejores 10 equipos
 
-1. _HelloByte2_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Jalpa Dynasty_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Los Private_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _HelloByte2_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Jalpa Dynasty_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Los Private_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _Los indecisos_ resolvió 0 problemas y obtuvo el lugar #395 (48%) en Gran Premio de Mexico 2018
 1. _#ErrorDeSintaxis_ resolvió 0 problemas y obtuvo el lugar #95 (46%) en The 2013 Mexico & Central America Regional Contest
 

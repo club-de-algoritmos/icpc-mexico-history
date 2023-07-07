@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _Bartolito_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _COD_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _INGE_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _JLE_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Jhovys_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Los Limones_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Los Quintos_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Los marcos_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Master_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Romeros_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Bartolito_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _COD_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _INGE_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _JLE_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Jhovys_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Los Limones_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Los Quintos_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Los marcos_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Master_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Romeros_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 

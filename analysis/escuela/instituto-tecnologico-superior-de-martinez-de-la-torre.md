@@ -11,9 +11,9 @@
 1. _SnakeCode_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
 1. _The Force_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
 1. _The walkers_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
-1. _KGT_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Mazapan 2.0_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Scorpion_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _KGT_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Mazapan 2.0_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Scorpion_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 

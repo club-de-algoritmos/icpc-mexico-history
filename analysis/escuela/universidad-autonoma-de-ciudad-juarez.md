@@ -11,7 +11,7 @@
 1. _Hard Coders_ resolvió 10 problemas y obtuvo el lugar #113 (84%) en Gran Premio de Mexico 2020
 1. _WINDIIT_ resolvió 5 problemas y obtuvo el lugar #190 (73%) en Gran Premio de Mexico 2020
 1. _Rajas con Queso_ resolvió 2 problemas y obtuvo el lugar #296 (72%) en The 2022 ICPC Gran Premio de Mexico
-1. _UACJ2019_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _UACJ2019_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _no estudio programación_ resolvió 2 problemas y obtuvo el lugar #322 (69%) en The 2022 ICPC Gran Premio de Mexico
 1. _relenTLEss_ resolvió 4 problemas y obtuvo el lugar #152 (67%) en The 2023 ICPC Gran Premio de Mexico
 

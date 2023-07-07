@@ -4,12 +4,12 @@
 
 ## Mejores 10 equipos
 
-1. _Byters_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _CaRaCa Team_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Oceloti_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Osiris_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _ProjecTics_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Supersónicos_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Byters_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _CaRaCa Team_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Oceloti_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Osiris_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _ProjecTics_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Supersónicos_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _Celtic_ resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
 1. _36s_ resolvió 0 problemas y obtuvo el lugar #351 (50%) en Gran Premio de Mexico 2020
 1. _CODE PLUGIN LIONS_ resolvió 0 problemas y obtuvo el lugar #351 (50%) en Gran Premio de Mexico 2020

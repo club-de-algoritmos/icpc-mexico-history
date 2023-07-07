@@ -2,6 +2,14 @@
 
 ## Final Mundial
 
+### 1996-1997 The 1997 ACM Programming Contest World Finals
+
+- #1 (#1 de México) <Desconocido> (Universidad Juárez Autónoma de Tabasco)
+
+### 1997-1998 The 1998 ACM Programming Contest World Finals
+
+- #40 (#1 de México, resolvió 2) <Desconocido> (ITESM Campus Monterrey)
+
 ### 1998-1999 The 1999 ACM Programming Contest World Finals
 
 - #53 (#1 de México, resolvió 1) U de las Americas (Universidad de las Americas-Puebla)
@@ -119,8 +127,8 @@
 
 ### 2019-2020 44th Annual World Finals of the International Collegiate Programming Contest
 
-- #47 (#1 de México, resolvió None) E3 (universidad de guanajuato - cimat)
-- #47 (#1 de México, resolvió None) UPsolving (Universidad Panamericana Campus Bonaterra)
+- #47 (#1 de México) E3 (universidad de guanajuato - cimat)
+- #47 (#1 de México) UPsolving (Universidad Panamericana Campus Bonaterra)
 
 ### 2019-2020 The ICPC World Finals Invitational Contest
 
@@ -149,7 +157,9 @@
 
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos | Escuelas |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **61** | **2307** | **6410** | **8227** | **405** |
+| **Total** | **63** | **2307** | **6410** | **8229** | **406** |
+| 1996-1997 | 1 | 0 | 0 | 1 | 1 |
+| 1997-1998 | 1 | 0 | 0 | 1 | 1 |
 | 1998-1999 | 3 | 0 | 0 | 3 | 3 |
 | 1999-2000 | 2 | 0 | 0 | 2 | 2 |
 | 2000-2001 | 2 | 0 | 0 | 2 | 2 |
@@ -198,7 +208,7 @@
 
 | # | Escuela | Finales mundiales | Regionales | Clasificatorios | Total |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Itesm Campus Monterrey | 9 | 89 | 297 | 360 |
+| 1 | Itesm Campus Monterrey | 10 | 89 | 297 | 361 |
 | 2 | Escuela Superior De Computo Instituto Politecnico Nacional | 6 | 65 | 176 | 211 |
 | 3 | Universidad De Guanajuato - Cimat | 6 | 57 | 65 | 96 |
 | 4 | Universidad Tecnológica De La Mixteca | 5 | 43 | 35 | 72 |
@@ -217,5 +227,6 @@
 | 17 | Instituto Tecnológico De Culiacán | 2 | 17 | 39 | 53 |
 | 18 | Universidad Autónoma De Tlaxcala | 1 | 35 | 41 | 76 |
 | 19 | Itesm Campus Puebla | 1 | 22 | 57 | 69 |
+| 20 | Universidad Juárez Autónoma De Tabasco | 1 | 0 | 0 | 1 |
 
 

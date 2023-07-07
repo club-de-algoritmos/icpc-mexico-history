@@ -4,10 +4,10 @@
 
 ## Mejores 10 equipos
 
-1. _I-SAP_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _JARVIS_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Joalda_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _ROCKET1_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _I-SAP_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _JARVIS_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Joalda_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _ROCKET1_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _EMA+=3_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _ITSA-ISC-2022_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _MHOSAR_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico

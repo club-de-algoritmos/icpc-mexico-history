@@ -8,7 +8,7 @@
 1. _Lobos del Escuadrón_ resolvió 2 problemas y obtuvo el lugar #240 (77%) en The 2022 ICPC Gran Premio de Mexico
 1. _Topos_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
 1. _Topos I.T.S.Z.O_ resolvió 1 problemas y obtuvo el lugar #42 (72%) en The 2007 ACM Mexico and Central America Programming Contest
-1. _ITSZO1_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _ITSZO1_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _#IncludeITSZO_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _ITSZOCoding_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _PyCo_ resolvió 1 problemas y obtuvo el lugar #337 (55%) en Gran Premio de Mexico 2018

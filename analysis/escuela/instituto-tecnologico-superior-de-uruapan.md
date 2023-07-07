@@ -5,9 +5,9 @@
 ## Mejores 10 equipos
 
 1. _Quantus_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
-1. _Equipo7_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _MBP_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Otro equipo de 3_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Equipo7_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _MBP_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Otro equipo de 3_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _3B_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _AlphaTeam_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _Broding_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico

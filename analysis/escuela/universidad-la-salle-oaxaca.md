@@ -4,7 +4,7 @@
 
 ## Mejores 10 equipos
 
-1. _ULSAOAX01_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _ULSAOAX01_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _ULSAOAX Jaguar Cósmico_ resolvió 2 problemas y obtuvo el lugar #299 (58%) en Gran Premio de Mexico 2020
 1. _ULSAOAX Gatitos Tristes_ resolvió 1 problemas y obtuvo el lugar #326 (54%) en Gran Premio de Mexico 2020
 1. _ULSAOAX CLAY_ resolvió 0 problemas y obtuvo el lugar #351 (50%) en Gran Premio de Mexico 2020

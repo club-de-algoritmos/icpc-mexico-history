@@ -4,15 +4,15 @@
 
 ## Mejores 10 equipos
 
-1. _CAPA 8_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Code-Legends_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Developers ISIC_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Evan Casia_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _ISC_ITSOEH_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Merodeadores _ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Phantom Hero_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _RDL Legends_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _TeamPRL_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _CAPA 8_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Code-Legends_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Developers ISIC_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Evan Casia_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _ISC_ITSOEH_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Merodeadores _ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Phantom Hero_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _RDL Legends_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _TeamPRL_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _ALFA TEAM_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones

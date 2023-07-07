@@ -4,13 +4,13 @@
 
 ## Mejores 10 equipos
 
-1. _Afflatus_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _FCC System_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _IguanaSoft_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _JUNIORS "SARUMA"_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _LOS INFORMATICOS_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _LOS PICATECLAS_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Team Dinamita_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Afflatus_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _FCC System_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _IguanaSoft_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _JUNIORS "SARUMA"_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _LOS INFORMATICOS_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _LOS PICATECLAS_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Team Dinamita_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _Avengers_ resolvió 0 problemas y obtuvo el lugar #351 (50%) en Gran Premio de Mexico 2020
 1. _Junior SARUMA_ resolvió 0 problemas y obtuvo el lugar #351 (50%) en Gran Premio de Mexico 2020
 1. _Soy Tec_ resolvió 0 problemas y obtuvo el lugar #351 (50%) en Gran Premio de Mexico 2020

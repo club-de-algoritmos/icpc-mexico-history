@@ -4,8 +4,8 @@
 
 ## Mejores 10 equipos
 
-1. _CompoundBread_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Procode_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _CompoundBread_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Procode_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _COMIHACKS_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _SERVERS SQUAD_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _BynaryBeast1_ resolvió 0 problemas y obtuvo el lugar #226 (53%) en The 2021 ICPC Gran Premio de Mexico

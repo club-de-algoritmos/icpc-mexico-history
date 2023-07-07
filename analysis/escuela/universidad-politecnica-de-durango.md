@@ -11,9 +11,9 @@
 1. _The Skulls_ resolvió 1 problemas y obtuvo el lugar #350 (73%) en Gran Premio de Mexico 2019
 1. _ISW PRoS_ resolvió 3 problemas y obtuvo el lugar #206 (71%) en Gran Premio de Mexico 2020
 1. _newcode_ resolvió 3 problemas y obtuvo el lugar #217 (70%) en Gran Premio de Mexico 2018
-1. _1A_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _ALV (Alumnos listos para vencer)_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Aguilas 4C_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _1A_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _ALV (Alumnos listos para vencer)_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Aguilas 4C_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 

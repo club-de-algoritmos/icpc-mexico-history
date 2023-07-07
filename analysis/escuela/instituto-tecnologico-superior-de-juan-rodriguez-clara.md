@@ -4,9 +4,9 @@
 
 ## Mejores 10 equipos
 
-1. _HIGH LIFE_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _KARITGRA_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _THE WARRIORS_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _HIGH LIFE_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _KARITGRA_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _THE WARRIORS_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _Byte Team 2.0_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _Pixeles_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _Ticsianos 1.0_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico

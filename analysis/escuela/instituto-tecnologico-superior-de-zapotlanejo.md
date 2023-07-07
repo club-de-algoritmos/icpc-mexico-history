@@ -6,10 +6,10 @@
 
 1. _STDIO.H_ resolvió 1 problemas y obtuvo el lugar #312 (76%) en Gran Premio de Mexico 2019
 1. _Los Teslas_ resolvió 1 problemas y obtuvo el lugar #336 (74%) en Gran Premio de Mexico 2019
-1. _Basura Galáctica_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Don Julio´s 70_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Los Wasauski_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _X-Force_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Basura Galáctica_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Don Julio´s 70_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Los Wasauski_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _X-Force_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _In Code We Trust_ resolvió 1 problemas y obtuvo el lugar #304 (55%) en Gran Premio de Mexico & Centroamerica 2017
 1. _zapofreeks_ resolvió 1 problemas y obtuvo el lugar #340 (50%) en Gran Premio de Mexico & Centroamerica 2017
 1. _Los LuGlaeS_ resolvió 1 problemas y obtuvo el lugar #385 (43%) en Gran Premio de Mexico & Centroamerica 2017

@@ -5,8 +5,8 @@
 ## Mejores 10 equipos
 
 1. _Nameless.jar_ resolvió 5 problemas y obtuvo el lugar #118 (74%) en The 2023 ICPC Gran Premio de Mexico
-1. _CodeBusters_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _JAIL-Breakers_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _CodeBusters_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _JAIL-Breakers_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _3 BITS_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _Black Wolf_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _Geek Foxes 2.0_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico

@@ -4,11 +4,11 @@
 
 ## Mejores 10 equipos
 
-1. _Mecabot_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Smart Bytes_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _TEAM DINAMITA_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _TicsOlds_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Tres veces perfecto_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Mecabot_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Smart Bytes_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _TEAM DINAMITA_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _TicsOlds_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Tres veces perfecto_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _SmartBytes_ resolvió 0 problemas y obtuvo el lugar #226 (53%) en The 2021 ICPC Gran Premio de Mexico
 1. _Smart Bytes_ resolvió 0 problemas y obtuvo el lugar #351 (50%) en Gran Premio de Mexico 2020
 1. _Stranger Team_ resolvió 0 problemas y obtuvo el lugar #351 (50%) en Gran Premio de Mexico 2020

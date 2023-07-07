@@ -4,10 +4,10 @@
 
 ## Mejores 10 equipos
 
-1. _C++ Turbo_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _MEMORIA RAM_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _PROCESADORES_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _TARJETA MADRE_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _C++ Turbo_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _MEMORIA RAM_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _PROCESADORES_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _TARJETA MADRE_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 

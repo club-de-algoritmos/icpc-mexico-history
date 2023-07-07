@@ -39,8 +39,10 @@ class Analyzer:
                                     if not team.school or team.school.country != MEXICO:
                                         continue
 
-                                    markdown.bullet_point(f'#{team.rank} (#{team.country_rank} de México, '
-                                                          f'resolvió {team.problems_solved})'
+                                    solved_str = ''
+                                    if team.problems_solved is not None:
+                                        solved_str = f', resolvió {team.problems_solved}'
+                                    markdown.bullet_point(f'#{team.rank} (#{team.country_rank} de México{solved_str})'
                                                           f' {team.name} ({team.school.name})')
 
                 high_teams: List[RankedTeam] = []
@@ -199,8 +201,12 @@ class Analyzer:
                         for team in contest.team_results:
                             if not team.school or team.school.community != community:
                                 continue
-                            participations.append(f'#{team.rank} (#{team.country_rank} de México,'
-                                                  f' resolvió {team.problems_solved}) {team.name} ({team.school.name})')
+
+                            solved_str = ''
+                            if team.problems_solved is not None:
+                                solved_str = f', resolvió {team.problems_solved}'
+                            participations.append(f'#{team.rank} (#{team.country_rank} de México{solved_str})'
+                                                  f' {team.name} ({team.school.name})')
 
                             if team.school.name not in wf_school_names:
                                 wf_school_names.add(team.school.name)
@@ -287,10 +293,15 @@ class Analyzer:
             return
 
         def result_to_str(result: ExtendedTeamResult, percentile: float) -> str:
-            return (f'resolvió {result.team_result.problems_solved} problemas'
-                    f' y obtuvo el lugar #{result.team_result.rank}'
-                    f' ({format_percentile(percentile)}) en'
-                    f' {result.contest.name}')
+            percentile_str = ''
+            if percentile >= 0:
+                percentile_str = f' ({format_percentile(percentile)})'
+
+            solved_str = ''
+            if result.team_result.problems_solved is not None:
+                solved_str = f'resolvió {result.team_result.problems_solved} problemas y '
+            return (f'{solved_str}obtuvo el lugar #{result.team_result.rank}{percentile_str}'
+                    f' en {result.contest.name}')
 
         with markdown.section(title):
             for team in teams:
@@ -339,9 +350,13 @@ class Analyzer:
 
                 world_result = team.world_result
                 if world_result:
+                    percentile_str = ''
+                    if world_result.percentile >= 0:
+                        percentile_str = f' ({format_percentile(world_result.percentile)})'
+                    solved_str = ''
+                    if world_result.team_result.problems_solved is not None:
+                        solved_str = f' y resolvió {world_result.team_result.problems_solved} problemas'
                     markdown.bullet_point(
-                        (f'Avanzó a la final mundial y resolvió {world_result.team_result.problems_solved}'
-                         f' problemas obtuviendo el lugar #{world_result.team_result.rank}'
-                         f' ({format_percentile(world_result.percentile)}) en'
-                         f' {world_result.contest.name}'),
+                        (f'Avanzó a la final mundial{solved_str} obtuviendo el lugar #{world_result.team_result.rank}{percentile_str}'
+                         f' en {world_result.contest.name}'),
                         indent=1)

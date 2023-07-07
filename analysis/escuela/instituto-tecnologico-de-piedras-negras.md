@@ -6,9 +6,9 @@
 
 1. _Syntax Error_ resolvió 2 problemas y obtuvo el lugar #274 (74%) en The 2022 ICPC Gran Premio de Mexico
 1. _Objetivos Sistemáticos_ resolvió 2 problemas y obtuvo el lugar #306 (71%) en The 2022 ICPC Gran Premio de Mexico
-1. _DDR3_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _LIMITLESS_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _NullPointer_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _DDR3_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _LIMITLESS_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _NullPointer_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _Dinamita_ resolvió 1 problemas y obtuvo el lugar #374 (65%) en The 2022 ICPC Gran Premio de Mexico
 1. _Baby Code_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _Disaster Solution_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico

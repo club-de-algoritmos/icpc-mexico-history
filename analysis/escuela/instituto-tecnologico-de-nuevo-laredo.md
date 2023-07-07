@@ -4,7 +4,7 @@
 
 ## Mejores 10 equipos
 
-1. _Exception(NLD)_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Exception(NLD)_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _Exception(NLD)_ resolvió 0 problemas y obtuvo el lugar #226 (53%) en The 2021 ICPC Gran Premio de Mexico
 1. _Exception(NLD)_ resolvió 0 problemas y obtuvo el lugar #351 (50%) en Gran Premio de Mexico 2020
 

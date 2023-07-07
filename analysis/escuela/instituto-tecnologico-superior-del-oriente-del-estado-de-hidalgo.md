@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _CIO-ITESA_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _FOM-ITESA_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _GFC-ITESA_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _CIO-ITESA_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _FOM-ITESA_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _GFC-ITESA_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _GFP-ITESA_ resolvió 0 problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Lagarto_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Master Hello World!_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Pingüinos Explosivos_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _RJP-ITESA_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _SIG-ITESA_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _TeamBlue_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Lagarto_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Master Hello World!_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Pingüinos Explosivos_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _RJP-ITESA_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _SIG-ITESA_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _TeamBlue_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 

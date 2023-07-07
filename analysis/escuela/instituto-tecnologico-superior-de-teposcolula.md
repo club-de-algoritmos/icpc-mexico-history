@@ -4,16 +4,16 @@
 
 ## Mejores 10 equipos
 
-1. _CID y sus amigos_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Chicos tec el return_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Gears of code_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Ghost_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Gold Boom_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _ITSTE ISC_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _LMN-3_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Los chavis_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _MR Robot MVM_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _MR X_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _CID y sus amigos_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Chicos tec el return_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Gears of code_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Ghost_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Gold Boom_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _ITSTE ISC_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _LMN-3_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Los chavis_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _MR Robot MVM_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _MR X_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 

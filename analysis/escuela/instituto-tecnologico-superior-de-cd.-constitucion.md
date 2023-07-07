@@ -4,7 +4,7 @@
 
 ## Mejores 10 equipos
 
-1. _“Los Casimiritos”_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _“Los Casimiritos”_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _Code Warriors_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _Error404_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _Proyecto Génesis_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico

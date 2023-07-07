@@ -4,8 +4,8 @@
 
 ## Mejores 10 equipos
 
-1. _Los Enquewe_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Los Piruetas_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Los Enquewe_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Los Piruetas_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 

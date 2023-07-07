@@ -12,8 +12,8 @@
 1. _Spacetacular_ resolvió 5 problemas y obtuvo el lugar #178 (75%) en Gran Premio de Mexico 2020
 1. _Venados07_ resolvió 1 problemas y obtuvo el lugar #44 (71%) en The 2007 ACM Mexico and Central America Programming Contest
 1. _Bichologos_ resolvió 6 problemas y obtuvo el lugar #211 (70%) en Gran Premio de Mexico 2020
-1. _ALT+F4_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Codigo de Rehuso_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _ALT+F4_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Codigo de Rehuso_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 

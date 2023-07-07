@@ -4,8 +4,8 @@
 
 ## Mejores 10 equipos
 
-1. _AKB_Penjamo_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _UPP Correcaminos_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _AKB_Penjamo_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _UPP Correcaminos_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _The last_ resolvió 2 problemas y obtuvo el lugar #260 (63%) en Gran Premio de Mexico 2020
 1. _A2E_ resolvió 0 problemas y obtuvo el lugar #351 (50%) en Gran Premio de Mexico 2020
 1. _Dreamers_ resolvió 0 problemas y obtuvo el lugar #351 (50%) en Gran Premio de Mexico 2020

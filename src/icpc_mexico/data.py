@@ -122,6 +122,10 @@ class Contest:
     def description(self) -> str:
         return f'{self.year}-{self.year+1} {self.name}'
 
+    @property
+    def is_manual(self) -> bool:
+        return self.comments == 'Manual'
+
 
 @dataclass_json
 @dataclass(frozen=True)

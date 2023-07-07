@@ -4,7 +4,7 @@
 
 ## Mejores 10 equipos
 
-1. _Los Programadoruskis_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Los Programadoruskis_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _Coders4Life_ resolvió 0 problemas y obtuvo el lugar #61 (59%) en The 2007 ACM Mexico and Central America Programming Contest
 1. _IngCode_ resolvió 0 problemas y obtuvo el lugar #351 (50%) en Gran Premio de Mexico 2020
 1. _Los Bytes_ resolvió 0 problemas y obtuvo el lugar #394 (48%) en Gran Premio de Mexico 2018

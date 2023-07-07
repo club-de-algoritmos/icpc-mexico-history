@@ -105,7 +105,7 @@ class Queries:
         for contest in self._contests:
             contests_by_year[contest.year].append(contest)
 
-        for year, contests in contests_by_year.items():
+        for year, contests in sorted(contests_by_year.items()):
             qualifier = None
             regional = None
             worlds = []

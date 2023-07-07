@@ -4,12 +4,12 @@
 
 ## Mejores 10 equipos
 
-1. _Felinos6_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Felinos8_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _felinos 1_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _felinos 2_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _felinos 3_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _felinos 4_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Felinos6_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Felinos8_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _felinos 1_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _felinos 2_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _felinos 3_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _felinos 4_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _ISC-Motul_ resolvió 0 problemas y obtuvo el lugar #351 (50%) en Gran Premio de Mexico 2020
 
 ## Participaciones

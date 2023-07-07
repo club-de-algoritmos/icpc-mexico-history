@@ -4,10 +4,10 @@
 
 ## Mejores 10 equipos
 
-1. _3B ISC ITCC_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _7A ISC ITCC_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _CimCoders_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Los Binarios_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _3B ISC ITCC_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _7A ISC ITCC_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _CimCoders_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Los Binarios_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _CIMARRON  ZEN_ resolvió 1 problemas y obtuvo el lugar #155 (68%) en The 2021 ICPC Gran Premio de Mexico
 1. _CJL Programmers_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _HW_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico

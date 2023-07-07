@@ -12,6 +12,11 @@ class ExtendedTeamResult:
 
     @property
     def percentile(self) -> float:
+        if self.contest.is_manual:
+            # We don't have all data for manually added contests, only Mexican teams, so we don't know the actual
+            # percentile
+            return -1
+
         team_count = len(self.contest.team_results)
         return get_percentile(self.team_result.rank, team_count)
 

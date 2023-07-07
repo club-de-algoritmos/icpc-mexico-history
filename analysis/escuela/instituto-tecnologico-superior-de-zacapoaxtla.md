@@ -4,15 +4,15 @@
 
 ## Mejores 10 equipos
 
-1. _Arbeiten_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _DESARROLLADORES IMPERIO AZTECA_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _DEVELOPERS LAUDI_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _JEA_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _PASIÓN INFORMÁTICA_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _POBLANOS UNIDOS_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Programadores Junior_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Umbrella_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _ZUSEAN_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Arbeiten_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _DESARROLLADORES IMPERIO AZTECA_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _DEVELOPERS LAUDI_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _JEA_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _PASIÓN INFORMÁTICA_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _POBLANOS UNIDOS_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Programadores Junior_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Umbrella_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _ZUSEAN_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 

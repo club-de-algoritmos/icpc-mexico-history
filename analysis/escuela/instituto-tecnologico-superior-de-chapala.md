@@ -4,8 +4,8 @@
 
 ## Mejores 10 equipos
 
-1. _Chapala 1_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Chapala 2_ resolvió None problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Chapala 1_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Chapala 2_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _Chapala1_ resolvió 0 problemas y obtuvo el lugar #405 (40%) en Gran Premio de Mexico & Centroamerica 2017
 1. _Chapala2_ resolvió 0 problemas y obtuvo el lugar #405 (40%) en Gran Premio de Mexico & Centroamerica 2017
 1. _Rumba_ resolvió 0 problemas y obtuvo el lugar #405 (40%) en Gran Premio de Mexico & Centroamerica 2017

@@ -180,8 +180,8 @@ def get_schools(contests: List[FinishedContest]) -> List[School]:
             country=MEXICO,
         ),
         School(
-            name='universidad de guadalajara - cucei',
-            alt_names=['universidad de guadalajara', 'universidad de guadalajara cucei'],
+            name='universidad de guadalajara cucei',
+            alt_names=['universidad de guadalajara'],
             country=MEXICO,
         ),
     ]

@@ -191,7 +191,7 @@
 | 6 | Instituto Tecnologico Superior Del Sur De Guanajuato | 2 | 14 | 176 | 176 |
 | 7 | Universidad Autonoma De Nuevo Leon | 2 | 12 | 76 | 76 |
 | 8 | Universidad De Guanajuato - Cimat | 1 | 20 | 51 | 51 |
-| 9 | Universidad De Guadalajara - Cucei | 1 | 16 | 118 | 118 |
+| 9 | Universidad De Guadalajara Cucei | 1 | 16 | 118 | 118 |
 | 10 | Itesm Campus Queretaro | 1 | 7 | 28 | 29 |
 
 ## Histórico
@@ -206,7 +206,7 @@
 | 6 | Universidad Panamericana Campus Bonaterra | 4 | 33 | 90 | 103 |
 | 7 | Universidad De Las Americas-Puebla | 4 | 23 | 0 | 25 |
 | 8 | Facultad De Ciencias-Universidad Nacional Autonoma De Mexico | 3 | 17 | 75 | 76 |
-| 9 | Universidad De Guadalajara - Cucei | 2 | 71 | 142 | 195 |
+| 9 | Universidad De Guadalajara Cucei | 2 | 71 | 142 | 195 |
 | 10 | Itesm Campus Queretaro | 2 | 68 | 33 | 94 |
 | 11 | Universidad Autonoma De Nuevo Leon | 2 | 54 | 80 | 120 |
 | 12 | Universidad Autonoma De Aguascalientes | 2 | 39 | 90 | 115 |

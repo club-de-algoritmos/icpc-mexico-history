@@ -2636,17 +2636,6 @@
     "is_eligible": true
   },
   {
-    "name": "universidad de guadalajara - cucei",
-    "alt_names": [
-      "universidad de guadalajara",
-      "universidad de guadalajara cucei"
-    ],
-    "community": null,
-    "country": "mexico",
-    "state": null,
-    "is_eligible": true
-  },
-  {
     "name": "universidad de guadalajara cualtos",
     "alt_names": [],
     "community": null,
@@ -2657,6 +2646,16 @@
   {
     "name": "universidad de guadalajara cucea",
     "alt_names": [],
+    "community": null,
+    "country": "mexico",
+    "state": null,
+    "is_eligible": true
+  },
+  {
+    "name": "universidad de guadalajara cucei",
+    "alt_names": [
+      "universidad de guadalajara"
+    ],
     "community": null,
     "country": "mexico",
     "state": null,

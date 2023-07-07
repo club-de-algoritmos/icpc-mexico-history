@@ -39,76 +39,76 @@
 
 ### 2003-2004
 
-1. #35 _Cuernavaca_ (Regional)
+1. #35 (#9 de ITESM) _Cuernavaca_ (Regional)
 
 ### 2004-2005
 
-1. #17 _javaglets_ (Regional)
+1. #17 (#3 de ITESM) _javaglets_ (Regional)
 
 ### 2006-2007
 
-1. #18 _Chevaliers_ (Regional)
-1. #72 _Le Cancer_ (Regional)
+1. #18 (#4 de ITESM) _Chevaliers_ (Regional)
+1. #72 (#23 de ITESM) _Le Cancer_ (Regional)
 
 ### 2008-2009
 
-1. #23 _Cancer_ (Regional)
-1. #82 _S.T.A.R.S. _ (Regional)
-1. #86 _Happy Hippo_ (Regional)
+1. #23 (#9 de ITESM) _Cancer_ (Regional)
+1. #82 (#23 de ITESM) _S.T.A.R.S. _ (Regional)
+1. #86 (#24 de ITESM) _Happy Hippo_ (Regional)
 
 ### 2009-2010
 
-1. #105 _DeadLockers_ (Regional)
+1. #105 (#20 de ITESM) _DeadLockers_ (Regional)
 
 ### 2010-2011
 
-1. #156 _*.UES_ (Regional)
+1. #156 (#35 de ITESM) _*.UES_ (Regional)
 
 ### 2015-2016
 
-1. #107 _Hardcoding_ (Clasificatorio)
-1. #107 _Thunders_ (Clasificatorio)
+1. #107 (#21 de ITESM) _Hardcoding_ (Clasificatorio)
+1. #107 (#21 de ITESM) _Thunders_ (Clasificatorio)
 
 ### 2016-2017
 
-1. #121 _Espartanos_ (Clasificatorio)
-1. #121 _Los destructores_ (Clasificatorio)
-1. #121 _Neto y los OMI_ (Clasificatorio)
-1. #121 _STL Team_ (Clasificatorio)
+1. #121 (#33 de ITESM) _Espartanos_ (Clasificatorio)
+1. #121 (#33 de ITESM) _Los destructores_ (Clasificatorio)
+1. #121 (#33 de ITESM) _Neto y los OMI_ (Clasificatorio)
+1. #121 (#33 de ITESM) _STL Team_ (Clasificatorio)
 
 ### 2017-2018
 
-1. #100 _EpicTeam_ (Clasificatorio)
-1. #123 _Los que no vinieron_ (Clasificatorio)
-1. #140 _Olympus_ (Clasificatorio)
-1. #299 _For Honor_ (Clasificatorio)
-1. #344 _MBuzdalovers_ (Clasificatorio)
-1. #405 _Charmanders_ (Clasificatorio)
-1. #405 _DreamTeam_ (Clasificatorio)
+1. #100 (#30 de ITESM) _EpicTeam_ (Clasificatorio)
+1. #123 (#33 de ITESM) _Los que no vinieron_ (Clasificatorio)
+1. #140 (#37 de ITESM) _Olympus_ (Clasificatorio)
+1. #299 (#56 de ITESM) _For Honor_ (Clasificatorio)
+1. #344 (#61 de ITESM) _MBuzdalovers_ (Clasificatorio)
+1. #405 (#69 de ITESM) _Charmanders_ (Clasificatorio)
+1. #405 (#69 de ITESM) _DreamTeam_ (Clasificatorio)
 
 ### 2018-2019
 
-1. #26 _RAM_ (Regional)
-1. #122 _Team.jar_ (Clasificatorio)
+1. #26 (#8 de ITESM) _RAM_ (Regional)
+1. #122 (#31 de ITESM) _Team.jar_ (Clasificatorio)
 
 ### 2019-2020
 
-1. #43 _Los que no vinieron_ (Regional)
-1. #192 _Rike Polle de 10 pesitos_ (Clasificatorio)
+1. #43 (#8 de ITESM) _Los que no vinieron_ (Regional)
+1. #192 (#38 de ITESM) _Rike Polle de 10 pesitos_ (Clasificatorio)
 
 ### 2020-2021
 
-1. #12 _Los que no vinieron_ (Regional)
+1. #12 (#2 de ITESM) _Los que no vinieron_ (Regional)
 
 ### 2021-2022
 
-1. #10 _Los que no vinieron_ (Regional)
+1. #10 (#1 de ITESM) _Los que no vinieron_ (Regional)
 
 ### 2022-2023
 
-1. #56 _Los que SÍ vinieron_ (Clasificatorio)
-1. #194 _Armadillos_ (Clasificatorio)
-1. #343 _Pythonist_ (Clasificatorio)
+1. #56 (#7 de ITESM) _Los que SÍ vinieron_ (Clasificatorio)
+1. #194 (#22 de ITESM) _Armadillos_ (Clasificatorio)
+1. #343 (#50 de ITESM) _Pythonist_ (Clasificatorio)
 
 
 

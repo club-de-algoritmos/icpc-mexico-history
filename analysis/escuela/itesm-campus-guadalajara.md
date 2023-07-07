@@ -45,159 +45,159 @@
 
 ### 2001-2002
 
-1. #55 _ALEF-ZERO_ (Regional)
+1. #55 (#17 de ITESM) _ALEF-ZERO_ (Regional)
 
 ### 2002-2003
 
-1. #10 _Aleph_ (Regional)
-1. #27 _Lambda_ (Regional)
-1. #27 _Rookies_ (Regional)
+1. #10 (#4 de ITESM) _Aleph_ (Regional)
+1. #27 (#10 de ITESM) _Lambda_ (Regional)
+1. #27 (#10 de ITESM) _Rookies_ (Regional)
 
 ### 2003-2004
 
-1. #20 _Balada Azul_ (Regional)
+1. #20 (#3 de ITESM) _Balada Azul_ (Regional)
 
 ### 2004-2005
 
-1. #28 _ITESM GDA1_ (Regional)
+1. #28 (#6 de ITESM) _ITESM GDA1_ (Regional)
 
 ### 2006-2007
 
-1. #10 _Acrux Exclamation_ (Regional)
-1. #56 _COCO_ (Regional)
-1. #57 _Corvus Albus _ (Regional)
-1. #62 _MacTrio_ (Regional)
-1. #79 _Team Seven_ (Regional)
-1. #84 _DAMN_ (Regional)
-1. #85 _LOL_ (Regional)
-1. #85 _Poncho_ (Regional)
-1. #85 _Quinto Escuadron_ (Regional)
-1. #85 _Reto INTEL_ (Regional)
+1. #10 (#2 de ITESM) _Acrux Exclamation_ (Regional)
+1. #56 (#17 de ITESM) _COCO_ (Regional)
+1. #57 (#18 de ITESM) _Corvus Albus _ (Regional)
+1. #62 (#21 de ITESM) _MacTrio_ (Regional)
+1. #79 (#25 de ITESM) _Team Seven_ (Regional)
+1. #84 (#26 de ITESM) _DAMN_ (Regional)
+1. #85 (#27 de ITESM) _LOL_ (Regional)
+1. #85 (#27 de ITESM) _Poncho_ (Regional)
+1. #85 (#27 de ITESM) _Quinto Escuadron_ (Regional)
+1. #85 (#27 de ITESM) _Reto INTEL_ (Regional)
 
 ### 2007-2008
 
-1. #11 _McTrio_ (Regional)
-1. #29 _DAMN_ (Regional)
-1. #38 _Seven_ (Regional)
-1. #40 _LOL_ (Regional)
-1. #47 _F@st Code_ (Regional)
-1. #49 _Fatal Error_ (Regional)
-1. #61 _Bunkers_ (Regional)
-1. #61 _Coleopteros_ (Regional)
-1. #61 _Corvus Albus_ (Regional)
-1. #61 _Drunk Team_ (Regional)
-1. #61 _ENCA_ (Regional)
-1. #61 _Electric Six_ (Regional)
-1. #61 _Fenix_ (Regional)
-1. #61 _Los cubanos_ (Regional)
-1. #61 _Revolucionarios_ (Regional)
-1. #61 _Salamandra_ (Regional)
-1. #61 _Tecuciztecatl_ (Regional)
-1. #61 _VL-2000_ (Regional)
+1. #11 (#3 de ITESM) _McTrio_ (Regional)
+1. #29 (#8 de ITESM) _DAMN_ (Regional)
+1. #38 (#10 de ITESM) _Seven_ (Regional)
+1. #40 (#11 de ITESM) _LOL_ (Regional)
+1. #47 (#13 de ITESM) _F@st Code_ (Regional)
+1. #49 (#15 de ITESM) _Fatal Error_ (Regional)
+1. #61 (#19 de ITESM) _Bunkers_ (Regional)
+1. #61 (#19 de ITESM) _Coleopteros_ (Regional)
+1. #61 (#19 de ITESM) _Corvus Albus_ (Regional)
+1. #61 (#19 de ITESM) _Drunk Team_ (Regional)
+1. #61 (#19 de ITESM) _ENCA_ (Regional)
+1. #61 (#19 de ITESM) _Electric Six_ (Regional)
+1. #61 (#19 de ITESM) _Fenix_ (Regional)
+1. #61 (#19 de ITESM) _Los cubanos_ (Regional)
+1. #61 (#19 de ITESM) _Revolucionarios_ (Regional)
+1. #61 (#19 de ITESM) _Salamandra_ (Regional)
+1. #61 (#19 de ITESM) _Tecuciztecatl_ (Regional)
+1. #61 (#19 de ITESM) _VL-2000_ (Regional)
 
 ### 2008-2009
 
-1. #10 _Carlit-OS_ (Regional)
-1. #39 _Tortugas 2.0_ (Regional)
+1. #10 (#5 de ITESM) _Carlit-OS_ (Regional)
+1. #39 (#18 de ITESM) _Tortugas 2.0_ (Regional)
 
 ### 2009-2010
 
-1. #21 _Carlit-OS_ (Regional)
-1. #35 _Tesla_ (Regional)
+1. #21 (#6 de ITESM) _Carlit-OS_ (Regional)
+1. #35 (#9 de ITESM) _Tesla_ (Regional)
 
 ### 2010-2011
 
-1. #81 _Los batillos_ (Regional)
+1. #81 (#24 de ITESM) _Los batillos_ (Regional)
 
 ### 2011-2012
 
-1. #45 _Pain Train_ (Regional)
+1. #45 (#13 de ITESM) _Pain Train_ (Regional)
 
 ### 2013-2014
 
-1. #61 _El Santo, Blue Demon y Bulldog_ (Regional)
+1. #61 (#12 de ITESM) _El Santo, Blue Demon y Bulldog_ (Regional)
 
 ### 2014-2015
 
-1. #73 _Camargo_ (Clasificatorio)
-1. #99 _Los Fierros_ (Clasificatorio)
-1. #204 _TGO Insomnia_ (Clasificatorio)
+1. #73 (#7 de ITESM) _Camargo_ (Clasificatorio)
+1. #99 (#10 de ITESM) _Los Fierros_ (Clasificatorio)
+1. #204 (#12 de ITESM) _TGO Insomnia_ (Clasificatorio)
 
 ### 2015-2016
 
-1. #108 _Algoritmia_ (Clasificatorio)
-1. #108 _DMA_ (Clasificatorio)
-1. #108 _Develobabes_ (Clasificatorio)
-1. #108 _Los Sukulen_ (Clasificatorio)
-1. #108 _NextGen_ (Clasificatorio)
-1. #108 _Pythonlovers_ (Clasificatorio)
+1. #108 (#26 de ITESM) _Algoritmia_ (Clasificatorio)
+1. #108 (#26 de ITESM) _DMA_ (Clasificatorio)
+1. #108 (#26 de ITESM) _Develobabes_ (Clasificatorio)
+1. #108 (#26 de ITESM) _Los Sukulen_ (Clasificatorio)
+1. #108 (#26 de ITESM) _NextGen_ (Clasificatorio)
+1. #108 (#26 de ITESM) _Pythonlovers_ (Clasificatorio)
 
 ### 2017-2018
 
-1. #345 _Calandria_ (Clasificatorio)
-1. #405 _Cardinal_ (Clasificatorio)
+1. #345 (#62 de ITESM) _Calandria_ (Clasificatorio)
+1. #405 (#69 de ITESM) _Cardinal_ (Clasificatorio)
 
 ### 2018-2019
 
-1. #20 _ViralBugSyndrome.exe_ (Regional)
-1. #394 _404 not found_ (Clasificatorio)
+1. #20 (#6 de ITESM) _ViralBugSyndrome.exe_ (Regional)
+1. #394 (#59 de ITESM) _404 not found_ (Clasificatorio)
 
 ### 2019-2020
 
-1. #71 _Galácticos 1_ (Clasificatorio)
-1. #191 _Galácticos 2_ (Clasificatorio)
-1. #270 _Galácticos 5_ (Clasificatorio)
-1. #339 _Galácticos 3_ (Clasificatorio)
+1. #71 (#14 de ITESM) _Galácticos 1_ (Clasificatorio)
+1. #191 (#37 de ITESM) _Galácticos 2_ (Clasificatorio)
+1. #270 (#49 de ITESM) _Galácticos 5_ (Clasificatorio)
+1. #339 (#52 de ITESM) _Galácticos 3_ (Clasificatorio)
 
 ### 2020-2021
 
-1. #34 _Tec GDL 10_ (Regional)
-1. #101 _Tec GDL 3_ (Clasificatorio)
-1. #110 _Tec GDL 4_ (Clasificatorio)
-1. #128 _Tec GDL 5_ (Clasificatorio)
-1. #146 _Tec GDL 6_ (Clasificatorio)
-1. #152 _Tec GDL 8_ (Clasificatorio)
-1. #167 _Tec GDL 1_ (Clasificatorio)
-1. #213 _Tec GDL 17_ (Clasificatorio)
-1. #215 _Tec GDL 9_ (Clasificatorio)
-1. #224 _Tec GDL 16_ (Clasificatorio)
-1. #302 _Tec GDL 15_ (Clasificatorio)
-1. #308 _Tec GDL 2_ (Clasificatorio)
-1. #335 _Tec GDL 14_ (Clasificatorio)
-1. #351 _Tec GDL 11_ (Clasificatorio)
-1. #351 _Tec GDL 12_ (Clasificatorio)
-1. #351 _Tec GDL 7_ (Clasificatorio)
+1. #34 (#6 de ITESM) _Tec GDL 10_ (Regional)
+1. #101 (#21 de ITESM) _Tec GDL 3_ (Clasificatorio)
+1. #110 (#23 de ITESM) _Tec GDL 4_ (Clasificatorio)
+1. #128 (#31 de ITESM) _Tec GDL 5_ (Clasificatorio)
+1. #146 (#35 de ITESM) _Tec GDL 6_ (Clasificatorio)
+1. #152 (#37 de ITESM) _Tec GDL 8_ (Clasificatorio)
+1. #167 (#40 de ITESM) _Tec GDL 1_ (Clasificatorio)
+1. #213 (#51 de ITESM) _Tec GDL 17_ (Clasificatorio)
+1. #215 (#52 de ITESM) _Tec GDL 9_ (Clasificatorio)
+1. #224 (#60 de ITESM) _Tec GDL 16_ (Clasificatorio)
+1. #302 (#84 de ITESM) _Tec GDL 15_ (Clasificatorio)
+1. #308 (#87 de ITESM) _Tec GDL 2_ (Clasificatorio)
+1. #335 (#92 de ITESM) _Tec GDL 14_ (Clasificatorio)
+1. #351 (#97 de ITESM) _Tec GDL 11_ (Clasificatorio)
+1. #351 (#97 de ITESM) _Tec GDL 12_ (Clasificatorio)
+1. #351 (#97 de ITESM) _Tec GDL 7_ (Clasificatorio)
 
 ### 2021-2022
 
-1. #47 _Tec GDL 6_ (Regional)
-1. #50 _Los seguidores de Karel_ (Regional)
-1. #64 _Tec GDL 5_ (Clasificatorio)
-1. #69 _Tec GDL 1_ (Clasificatorio)
-1. #131 _Tec GDL 3_ (Clasificatorio)
-1. #176 _Tec GDL 7_ (Clasificatorio)
-1. #222 _Tec GDL 2_ (Clasificatorio)
-1. #226 _Tec GDL 4_ (Clasificatorio)
+1. #47 (#6 de ITESM) _Tec GDL 6_ (Regional)
+1. #50 (#8 de ITESM) _Los seguidores de Karel_ (Regional)
+1. #64 (#11 de ITESM) _Tec GDL 5_ (Clasificatorio)
+1. #69 (#13 de ITESM) _Tec GDL 1_ (Clasificatorio)
+1. #131 (#23 de ITESM) _Tec GDL 3_ (Clasificatorio)
+1. #176 (#35 de ITESM) _Tec GDL 7_ (Clasificatorio)
+1. #222 (#44 de ITESM) _Tec GDL 2_ (Clasificatorio)
+1. #226 (#45 de ITESM) _Tec GDL 4_ (Clasificatorio)
 
 ### 2022-2023
 
-1. #18 _Tsurus Tuneados_ (Regional)
-1. #174 _Java lieron_ (Clasificatorio)
-1. #382 _Bubble sorters_ (Clasificatorio)
-1. #382 _Chiles Poblanos Poblanos_ (Clasificatorio)
-1. #382 _Edgerunners_ (Clasificatorio)
-1. #382 _Maraca_ (Clasificatorio)
-1. #382 _Pozole de Oompa Loompas_ (Clasificatorio)
-1. #382 _SJF_ (Clasificatorio)
+1. #18 (#1 de ITESM) _Tsurus Tuneados_ (Regional)
+1. #174 (#17 de ITESM) _Java lieron_ (Clasificatorio)
+1. #382 (#55 de ITESM) _Bubble sorters_ (Clasificatorio)
+1. #382 (#55 de ITESM) _Chiles Poblanos Poblanos_ (Clasificatorio)
+1. #382 (#55 de ITESM) _Edgerunners_ (Clasificatorio)
+1. #382 (#55 de ITESM) _Maraca_ (Clasificatorio)
+1. #382 (#55 de ITESM) _Pozole de Oompa Loompas_ (Clasificatorio)
+1. #382 (#55 de ITESM) _SJF_ (Clasificatorio)
 
 ### 2023-2024
 
-1. #6 _Borregos Salvajes_ (Clasificatorio)
-1. #201 _Los Fosa_ (Clasificatorio)
-1. #295 _Bubble Sorters_ (Clasificatorio)
-1. #321 _TECueme_ (Clasificatorio)
-1. #374 _CodICI_ (Clasificatorio)
-1. #423 _GADAX_ (Clasificatorio)
+1. #6 (#1 de ITESM) _Borregos Salvajes_ (Clasificatorio)
+1. #201 (#27 de ITESM) _Los Fosa_ (Clasificatorio)
+1. #295 (#38 de ITESM) _Bubble Sorters_ (Clasificatorio)
+1. #321 (#43 de ITESM) _TECueme_ (Clasificatorio)
+1. #374 (#47 de ITESM) _CodICI_ (Clasificatorio)
+1. #423 (#56 de ITESM) _GADAX_ (Clasificatorio)
 
 
 

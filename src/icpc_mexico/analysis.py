@@ -23,7 +23,7 @@ class Analyzer:
     @log_run_time
     def analyze(self) -> None:
         self._analyze_world_finals()
-        self._analyze_community(SchoolCommunity.TECNM, 'TecNM')
+        self._analyze_community(SchoolCommunity.TECNM)
         self._analyze_state('sinaloa')
 
     @log_run_time
@@ -187,10 +187,10 @@ class Analyzer:
                            school_table)
 
     @log_run_time
-    def _analyze_community(self, community: SchoolCommunity, community_name: str) -> None:
-        print(f'Analyzing results of community {community_name}')
-        with MarkdownFile(self._get_filename(f'{normalize_as_filename(community_name)}.md')) as markdown:
-            with markdown.section(f'Resultados de {community_name} en el ICPC'):
+    def _analyze_community(self, community: SchoolCommunity) -> None:
+        print(f'Analyzing results of community {community}')
+        with MarkdownFile(self._get_filename(f'{normalize_as_filename(community.abbreviation)}.md')) as markdown:
+            with markdown.section(f'Resultados de {community.abbreviation} en el ICPC'):
                 with markdown.section('Final Mundial'):
                     wf_school_names: Set[str] = set()
                     wf_schools: List[School] = []
@@ -328,9 +328,9 @@ class Analyzer:
                 regional_result = team.regional_result or team.qualifier_result
                 if regional_result:
                     community_rank = ''
-                    # TODO: Generalize to all communities
-                    if display_community and team.school.community == SchoolCommunity.TECNM:
-                        community_rank = f' (#{regional_result.team_result.community_rank} de TecNM)'
+                    if display_community and team.school.community:
+                        community_rank = (f' (#{regional_result.team_result.community_rank}'
+                                          f' de {team.school.community.abbreviation})')
                     markdown.numbered_bullet_point(f'#{regional_result.team_result.rank}{community_rank}'
                                                    f' _{team.name}_{school_str}'
                                                    f' ({regional_result.contest.type.title()})')

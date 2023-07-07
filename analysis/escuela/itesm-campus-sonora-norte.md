@@ -22,16 +22,16 @@
 
 ### 2003-2004
 
-1. #41 _Sonoran Supremacy_ (Regional)
+1. #41 (#11 de ITESM) _Sonoran Supremacy_ (Regional)
 
 ### 2005-2006
 
-1. #85 _LosTres_ (Regional)
-1. #85 _OmegaDelta_ (Regional)
+1. #85 (#15 de ITESM) _LosTres_ (Regional)
+1. #85 (#15 de ITESM) _OmegaDelta_ (Regional)
 
 ### 2006-2007
 
-1. #77 _Sonora Technologies_ (Regional)
+1. #77 (#24 de ITESM) _Sonora Technologies_ (Regional)
 
 
 

@@ -19,74 +19,74 @@
 
 ### 2001-2002
 
-1. #18 _Deth-Therion_ (Itesm Campus Mazatlán) (Regional)
-1. #44 _Los Afro_ (Itesm Campus Mazatlán) (Regional)
-1. #55 _LO QUE SEA_ (Itesm Campus Mazatlán) (Regional)
-1. #55 _Tec Campus Mazatlán_ (Itesm Campus Mazatlán) (Regional)
+1. #18 (#6 de ITESM) _Deth-Therion_ (Itesm Campus Mazatlán) (Regional)
+1. #44 (#13 de ITESM) _Los Afro_ (Itesm Campus Mazatlán) (Regional)
+1. #55 (#17 de ITESM) _LO QUE SEA_ (Itesm Campus Mazatlán) (Regional)
+1. #55 (#17 de ITESM) _Tec Campus Mazatlán_ (Itesm Campus Mazatlán) (Regional)
 
 ### 2002-2003
 
-1. #7 _Campus Mazatlán_ (Itesm Campus Mazatlán) (Regional)
-1. #13 _HMJ21_ (Itesm Campus Mazatlán) (Regional)
-1. #21 _YHS20_ (Itesm Campus Mazatlán) (Regional)
-1. #24 _Let it C_ (Itesm Campus Mazatlán) (Regional)
-1. #27 _COD22_ (Itesm Campus Mazatlán) (Regional)
-1. #27 _Knights EC_ (Itesm Campus Mazatlán) (Regional)
-1. #27 _drink team_ (Itesm Campus Mazatlán) (Regional)
+1. #7 (#2 de ITESM) _Campus Mazatlán_ (Itesm Campus Mazatlán) (Regional)
+1. #13 (#5 de ITESM) _HMJ21_ (Itesm Campus Mazatlán) (Regional)
+1. #21 (#8 de ITESM) _YHS20_ (Itesm Campus Mazatlán) (Regional)
+1. #24 (#9 de ITESM) _Let it C_ (Itesm Campus Mazatlán) (Regional)
+1. #27 (#10 de ITESM) _COD22_ (Itesm Campus Mazatlán) (Regional)
+1. #27 (#10 de ITESM) _Knights EC_ (Itesm Campus Mazatlán) (Regional)
+1. #27 (#10 de ITESM) _drink team_ (Itesm Campus Mazatlán) (Regional)
 
 ### 2003-2004
 
-1. #26 _.RHR._ (Itesm Campus Mazatlán) (Regional)
-1. #30 _ISC++_ (Itesm Campus Mazatlán) (Regional)
-1. #32 _JHack_ (Itesm Campus Mazatlán) (Regional)
-1. #36 _Dangerous Minds_ (Itesm Campus Mazatlán) (Regional)
-1. #41 _Campus Mazatlán_ (Itesm Campus Mazatlán) (Regional)
-1. #41 _Mazatlán II_ (Itesm Campus Mazatlán) (Regional)
+1. #26 (#5 de ITESM) _.RHR._ (Itesm Campus Mazatlán) (Regional)
+1. #30 (#7 de ITESM) _ISC++_ (Itesm Campus Mazatlán) (Regional)
+1. #32 (#8 de ITESM) _JHack_ (Itesm Campus Mazatlán) (Regional)
+1. #36 (#10 de ITESM) _Dangerous Minds_ (Itesm Campus Mazatlán) (Regional)
+1. #41 (#11 de ITESM) _Campus Mazatlán_ (Itesm Campus Mazatlán) (Regional)
+1. #41 (#11 de ITESM) _Mazatlán II_ (Itesm Campus Mazatlán) (Regional)
 
 ### 2004-2005
 
-1. #5 _MTY1_ (Itesm Campus Mazatlán) (Regional)
-1. #11 _MTY2_ (Itesm Campus Mazatlán) (Regional)
-1. #80 _itesm 4_ (Itesm Campus Mazatlán) (Regional)
-1. #90 _MTY3_ (Itesm Campus Mazatlán) (Regional)
+1. #5 (#1 de ITESM) _MTY1_ (Itesm Campus Mazatlán) (Regional)
+1. #11 (#2 de ITESM) _MTY2_ (Itesm Campus Mazatlán) (Regional)
+1. #80 (#15 de ITESM) _itesm 4_ (Itesm Campus Mazatlán) (Regional)
+1. #90 (#16 de ITESM) _MTY3_ (Itesm Campus Mazatlán) (Regional)
 
 ### 2005-2006
 
-1. #4 _MTY01_ (Itesm Campus Mazatlán) (Regional)
-1. #8 _javaglets_ (Itesm Campus Mazatlán) (Regional)
-1. #11 _Sapphire_ (Itesm Campus Mazatlán) (Regional)
-1. #16 _MTY03_ (Itesm Campus Mazatlán) (Regional)
-1. #18 _MTY02_ (Itesm Campus Mazatlán) (Regional)
-1. #31 _Les Chevaliers D''Or_ (Itesm Campus Mazatlán) (Regional)
-1. #32 _2 hot 2 handle_ (Itesm Campus Mazatlán) (Regional)
-1. #46 _ITESM Masters_ (Itesm Campus Mazatlán) (Regional)
+1. #4 (#1 de ITESM) _MTY01_ (Itesm Campus Mazatlán) (Regional)
+1. #8 (#2 de ITESM) _javaglets_ (Itesm Campus Mazatlán) (Regional)
+1. #11 (#3 de ITESM) _Sapphire_ (Itesm Campus Mazatlán) (Regional)
+1. #16 (#5 de ITESM) _MTY03_ (Itesm Campus Mazatlán) (Regional)
+1. #18 (#6 de ITESM) _MTY02_ (Itesm Campus Mazatlán) (Regional)
+1. #31 (#7 de ITESM) _Les Chevaliers D''Or_ (Itesm Campus Mazatlán) (Regional)
+1. #32 (#8 de ITESM) _2 hot 2 handle_ (Itesm Campus Mazatlán) (Regional)
+1. #46 (#9 de ITESM) _ITESM Masters_ (Itesm Campus Mazatlán) (Regional)
 
 ### 2006-2007
 
-1. #23 _Revival_ (Itesm Campus Mazatlán) (Regional)
+1. #23 (#5 de ITESM) _Revival_ (Itesm Campus Mazatlán) (Regional)
 1. #27 (#6 de TecNM) _StackOverflow_ (Instituto Tecnológico De Culiacán) (Regional)
-1. #30 _Burros sin Mecate_ (Itesm Campus Mazatlán) (Regional)
-1. #33 _aqua_ (Itesm Campus Mazatlán) (Regional)
-1. #36 _Balls of Fire_ (Itesm Campus Mazatlán) (Regional)
-1. #50 _Carlit-OS_ (Itesm Campus Mazatlán) (Regional)
-1. #55 _Borregos PACK_ (Itesm Campus Mazatlán) (Regional)
-1. #85 _Hijos de Efren_ (Itesm Campus Mazatlán) (Regional)
-1. #85 _ITESM Mazatlán_ (Itesm Campus Mazatlán) (Regional)
-1. #85 _ITESM ZAC 1_ (Itesm Campus Mazatlán) (Regional)
-1. #85 _Los Mazatlecos_ (Itesm Campus Mazatlán) (Regional)
-1. #85 _Punishers_ (Itesm Campus Mazatlán) (Regional)
+1. #30 (#6 de ITESM) _Burros sin Mecate_ (Itesm Campus Mazatlán) (Regional)
+1. #33 (#7 de ITESM) _aqua_ (Itesm Campus Mazatlán) (Regional)
+1. #36 (#9 de ITESM) _Balls of Fire_ (Itesm Campus Mazatlán) (Regional)
+1. #50 (#13 de ITESM) _Carlit-OS_ (Itesm Campus Mazatlán) (Regional)
+1. #55 (#16 de ITESM) _Borregos PACK_ (Itesm Campus Mazatlán) (Regional)
+1. #85 (#27 de ITESM) _Hijos de Efren_ (Itesm Campus Mazatlán) (Regional)
+1. #85 (#27 de ITESM) _ITESM Mazatlán_ (Itesm Campus Mazatlán) (Regional)
+1. #85 (#27 de ITESM) _ITESM ZAC 1_ (Itesm Campus Mazatlán) (Regional)
+1. #85 (#27 de ITESM) _Los Mazatlecos_ (Itesm Campus Mazatlán) (Regional)
+1. #85 (#27 de ITESM) _Punishers_ (Itesm Campus Mazatlán) (Regional)
 
 ### 2007-2008
 
 1. #3 (#1 de TecNM) _ITC Turing Machines_ (Instituto Tecnológico De Culiacán) (Regional)
     - Avanzó a la final mundial y resolvió 0 problemas obtuviendo el lugar #90 (10%) en The 2008 ACM Programming Contest World Finals
-1. #6 _los punteros_ (Itesm Campus Mazatlán) (Regional)
-1. #19 _ITESM CEM_ (Itesm Campus Mazatlán) (Regional)
-1. #35 _Objeto.metodo()_ (Itesm Campus Mazatlán) (Regional)
-1. #61 _3-108_ (Itesm Campus Mazatlán) (Regional)
-1. #61 _FORZA ITIC 1_ (Itesm Campus Mazatlán) (Regional)
-1. #61 _Pascaleros_ (Itesm Campus Mazatlán) (Regional)
-1. #61 _Top Coder_ (Itesm Campus Mazatlán) (Regional)
+1. #6 (#1 de ITESM) _los punteros_ (Itesm Campus Mazatlán) (Regional)
+1. #19 (#6 de ITESM) _ITESM CEM_ (Itesm Campus Mazatlán) (Regional)
+1. #35 (#9 de ITESM) _Objeto.metodo()_ (Itesm Campus Mazatlán) (Regional)
+1. #61 (#19 de ITESM) _3-108_ (Itesm Campus Mazatlán) (Regional)
+1. #61 (#19 de ITESM) _FORZA ITIC 1_ (Itesm Campus Mazatlán) (Regional)
+1. #61 (#19 de ITESM) _Pascaleros_ (Itesm Campus Mazatlán) (Regional)
+1. #61 (#19 de ITESM) _Top Coder_ (Itesm Campus Mazatlán) (Regional)
 
 ### 2008-2009
 

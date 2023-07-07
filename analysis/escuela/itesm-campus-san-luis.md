@@ -26,24 +26,24 @@
 
 ### 2001-2002
 
-1. #49 _SI C C_ (Regional)
+1. #49 (#14 de ITESM) _SI C C_ (Regional)
 
 ### 2002-2003
 
-1. #27 _TecSLP_ (Regional)
+1. #27 (#10 de ITESM) _TecSLP_ (Regional)
 
 ### 2003-2004
 
-1. #41 _PLU'S Team_ (Regional)
+1. #41 (#11 de ITESM) _PLU'S Team_ (Regional)
 
 ### 2005-2006
 
-1. #75 _Tec SLP 2_ (Regional)
-1. #83 _Tec SLP 1_ (Regional)
+1. #75 (#12 de ITESM) _Tec SLP 2_ (Regional)
+1. #83 (#13 de ITESM) _Tec SLP 1_ (Regional)
 
 ### 2010-2011
 
-1. #124 _Los Borregos de San Luis_ (Regional)
+1. #124 (#31 de ITESM) _Los Borregos de San Luis_ (Regional)
 
 
 

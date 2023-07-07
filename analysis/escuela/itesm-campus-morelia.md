@@ -26,20 +26,20 @@
 
 ### 2009-2010
 
-1. #53 _Alpha_ (Regional)
-1. #101 _Epsilon_ (Regional)
-1. #116 _Omicron_ (Regional)
+1. #53 (#14 de ITESM) _Alpha_ (Regional)
+1. #101 (#19 de ITESM) _Epsilon_ (Regional)
+1. #116 (#22 de ITESM) _Omicron_ (Regional)
 
 ### 2010-2011
 
-1. #18 _FTW_ (Regional)
-1. #147 _Zergs_ (Regional)
-1. #156 _Protos_ (Regional)
+1. #18 (#4 de ITESM) _FTW_ (Regional)
+1. #147 (#33 de ITESM) _Zergs_ (Regional)
+1. #156 (#35 de ITESM) _Protos_ (Regional)
 
 ### 2011-2012
 
-1. #15 _ftw_ (Regional)
-1. #104 _protrolls_ (Regional)
+1. #15 (#5 de ITESM) _ftw_ (Regional)
+1. #104 (#22 de ITESM) _protrolls_ (Regional)
 
 
 

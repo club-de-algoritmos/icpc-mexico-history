@@ -45,153 +45,153 @@
 
 ### 2001-2002
 
-1. #25 _maxeii_ (Regional)
-1. #32 _Mexican Boys_ (Regional)
-1. #41 _Cafe Caliente_ (Regional)
-1. #54 _The Empire_ (Regional)
+1. #25 (#7 de ITESM) _maxeii_ (Regional)
+1. #32 (#9 de ITESM) _Mexican Boys_ (Regional)
+1. #41 (#12 de ITESM) _Cafe Caliente_ (Regional)
+1. #54 (#16 de ITESM) _The Empire_ (Regional)
 
 ### 2002-2003
 
-1. #14 _ISE TEAM_ (Regional)
+1. #14 (#6 de ITESM) _ISE TEAM_ (Regional)
 
 ### 2004-2005
 
-1. #22 _NARF_ (Regional)
-1. #61 _The Enigma Thread Alliance_ (Regional)
+1. #22 (#5 de ITESM) _NARF_ (Regional)
+1. #61 (#13 de ITESM) _The Enigma Thread Alliance_ (Regional)
 
 ### 2005-2006
 
-1. #13 _ETA v2.0:The Whole Enchilada!_ (Regional)
-1. #66 _D-CODERS =>ITESM-CQ_ (Regional)
+1. #13 (#4 de ITESM) _ETA v2.0:The Whole Enchilada!_ (Regional)
+1. #66 (#10 de ITESM) _D-CODERS =>ITESM-CQ_ (Regional)
 
 ### 2006-2007
 
-1. #16 _ITESM-CQ1 Dream Catcher =)_ (Regional)
-1. #38 _ITESM-CQ6_ (Regional)
-1. #49 _ITESM-CQ2 Kernel Panic_ (Regional)
-1. #54 _ITESM-CQ5 Barni n friends_ (Regional)
-1. #64 _ITESM-CQ4 while ((2B)||(!(2B) _ (Regional)
-1. #85 _ITESM-CQ3_ (Regional)
+1. #16 (#3 de ITESM) _ITESM-CQ1 Dream Catcher =)_ (Regional)
+1. #38 (#10 de ITESM) _ITESM-CQ6_ (Regional)
+1. #49 (#12 de ITESM) _ITESM-CQ2 Kernel Panic_ (Regional)
+1. #54 (#15 de ITESM) _ITESM-CQ5 Barni n friends_ (Regional)
+1. #64 (#22 de ITESM) _ITESM-CQ4 while ((2B)||(!(2B) _ (Regional)
+1. #85 (#27 de ITESM) _ITESM-CQ3_ (Regional)
 
 ### 2007-2008
 
-1. #8 _Arrolladores ASCIIs_ (Regional)
-1. #15 _Deadly Coding Squad_ (Regional)
-1. #16 _40inchplus_ (Regional)
-1. #27 _Iterators_ (Regional)
-1. #45 _Mayra Sing a Song_ (Regional)
-1. #47 _RPM_ (Regional)
-1. #58 _Le Chaveliers_ (Regional)
-1. #60 _Klan Fresas Tec_ (Regional)
-1. #61 _4TW_ (Regional)
-1. #61 _ITESM-CQ1_ (Regional)
-1. #61 _Its Hammer Time!!_ (Regional)
-1. #61 _Mandil--;_ (Regional)
-1. #61 _Son of a Bit_ (Regional)
+1. #8 (#2 de ITESM) _Arrolladores ASCIIs_ (Regional)
+1. #15 (#4 de ITESM) _Deadly Coding Squad_ (Regional)
+1. #16 (#5 de ITESM) _40inchplus_ (Regional)
+1. #27 (#7 de ITESM) _Iterators_ (Regional)
+1. #45 (#12 de ITESM) _Mayra Sing a Song_ (Regional)
+1. #47 (#13 de ITESM) _RPM_ (Regional)
+1. #58 (#17 de ITESM) _Le Chaveliers_ (Regional)
+1. #60 (#18 de ITESM) _Klan Fresas Tec_ (Regional)
+1. #61 (#19 de ITESM) _4TW_ (Regional)
+1. #61 (#19 de ITESM) _ITESM-CQ1_ (Regional)
+1. #61 (#19 de ITESM) _Its Hammer Time!!_ (Regional)
+1. #61 (#19 de ITESM) _Mandil--;_ (Regional)
+1. #61 (#19 de ITESM) _Son of a Bit_ (Regional)
 
 ### 2008-2009
 
-1. #4 _Deadly Coding Squad =)_ (Regional)
-1. #5 _MachineGun_ (Regional)
-1. #7 _Code Templars_ (Regional)
-1. #22 _JCB Extreme Trial-Core vPro_ (Regional)
-1. #26 _<< C.c.m. >>_ (Regional)
-1. #31 _I can has ac_ (Regional)
-1. #32 _Fresas Tec_ (Regional)
-1. #40 _ITESM CQ1_ (Regional)
-1. #44 _ITESM CQ2_ (Regional)
-1. #101 _ Its Hammer Time!!_ (Regional)
+1. #4 (#2 de ITESM) _Deadly Coding Squad =)_ (Regional)
+1. #5 (#3 de ITESM) _MachineGun_ (Regional)
+1. #7 (#4 de ITESM) _Code Templars_ (Regional)
+1. #22 (#8 de ITESM) _JCB Extreme Trial-Core vPro_ (Regional)
+1. #26 (#11 de ITESM) _<< C.c.m. >>_ (Regional)
+1. #31 (#15 de ITESM) _I can has ac_ (Regional)
+1. #32 (#16 de ITESM) _Fresas Tec_ (Regional)
+1. #40 (#19 de ITESM) _ITESM CQ1_ (Regional)
+1. #44 (#20 de ITESM) _ITESM CQ2_ (Regional)
+1. #101 (#27 de ITESM) _ Its Hammer Time!!_ (Regional)
 
 ### 2009-2010
 
 1. No hay datos del regional
     - Avanzó a la final mundial y resolvió 2 problemas obtuviendo el lugar #76 (26%) en 34th Annual World Finals of the ACM International Collegiate Programming Contest
-1. #1 _Los punteros_ (Regional)
-1. #19 _TheHiveClusterIsUnderAttack!!!_ (Regional)
-1. #30 _DethLok_ (Regional)
-1. #36 _Sons of a bit_ (Regional)
-1. #69 _StupidUserException_ (Regional)
-1. #72 _NullPointerException_ (Regional)
+1. #1 (#1 de ITESM) _Los punteros_ (Regional)
+1. #19 (#5 de ITESM) _TheHiveClusterIsUnderAttack!!!_ (Regional)
+1. #30 (#8 de ITESM) _DethLok_ (Regional)
+1. #36 (#10 de ITESM) _Sons of a bit_ (Regional)
+1. #69 (#15 de ITESM) _StupidUserException_ (Regional)
+1. #72 (#16 de ITESM) _NullPointerException_ (Regional)
 
 ### 2010-2011
 
-1. #28 _Villanos Favoritos_ (Regional)
-1. #34 _(>^.^)> ((°\(^,^)/°)) <(^.^<)_ (Regional)
-1. #41 _Dekus_ (Regional)
-1. #50 _Machine Gun_ (Regional)
-1. #85 _FLDSMDFR_ (Regional)
+1. #28 (#7 de ITESM) _Villanos Favoritos_ (Regional)
+1. #34 (#10 de ITESM) _(>^.^)> ((°\(^,^)/°)) <(^.^<)_ (Regional)
+1. #41 (#13 de ITESM) _Dekus_ (Regional)
+1. #50 (#16 de ITESM) _Machine Gun_ (Regional)
+1. #85 (#25 de ITESM) _FLDSMDFR_ (Regional)
 
 ### 2011-2012
 
-1. #13 _Anonymous_ (Regional)
-1. #38 _PowerMilk_ (Regional)
-1. #54 _Pastafarians_ (Regional)
-1. #93 _JoBeLu_ (Regional)
+1. #13 (#4 de ITESM) _Anonymous_ (Regional)
+1. #38 (#10 de ITESM) _PowerMilk_ (Regional)
+1. #54 (#16 de ITESM) _Pastafarians_ (Regional)
+1. #93 (#21 de ITESM) _JoBeLu_ (Regional)
 
 ### 2012-2013
 
-1. #16 _Tribonacci_ (Regional)
-1. #73 _IOT_ (Regional)
+1. #16 (#2 de ITESM) _Tribonacci_ (Regional)
+1. #73 (#6 de ITESM) _IOT_ (Regional)
 
 ### 2013-2014
 
-1. #27 _Dudes_ (Regional)
-1. #52 _Tribonacci_ (Regional)
-1. #59 _Perrys_ (Regional)
-1. #95 _nCodersQro_ (Regional)
+1. #27 (#5 de ITESM) _Dudes_ (Regional)
+1. #52 (#10 de ITESM) _Tribonacci_ (Regional)
+1. #59 (#11 de ITESM) _Perrys_ (Regional)
+1. #95 (#17 de ITESM) _nCodersQro_ (Regional)
 
 ### 2015-2016
 
-1. #20 _Coder::Dash_ (Regional)
-1. #21 _Aleph_ (Regional)
-1. #108 _ABM_ (Clasificatorio)
-1. #108 _Babuinos_ (Clasificatorio)
-1. #108 _TIMANO_ (Clasificatorio)
+1. #20 (#6 de ITESM) _Coder::Dash_ (Regional)
+1. #21 (#7 de ITESM) _Aleph_ (Regional)
+1. #108 (#26 de ITESM) _ABM_ (Clasificatorio)
+1. #108 (#26 de ITESM) _Babuinos_ (Clasificatorio)
+1. #108 (#26 de ITESM) _TIMANO_ (Clasificatorio)
 
 ### 2016-2017
 
-1. #12 _wlog_ (Regional)
-1. #17 _Code'n'play_ (Regional)
-1. #121 _ANT_ (Clasificatorio)
-1. #121 _Glitchs_ (Clasificatorio)
+1. #12 (#2 de ITESM) _wlog_ (Regional)
+1. #17 (#4 de ITESM) _Code'n'play_ (Regional)
+1. #121 (#33 de ITESM) _ANT_ (Clasificatorio)
+1. #121 (#33 de ITESM) _Glitchs_ (Clasificatorio)
 
 ### 2017-2018
 
-1. #3 _Pragma_ (Regional)
+1. #3 (#1 de ITESM) _Pragma_ (Regional)
     - Avanzó a la final mundial y resolvió 2 problemas obtuviendo el lugar #57 (60%) en 42nd Annual World Finals of the International Collegiate Programming Contest
-1. #7 _pragma_ (Clasificatorio)
-1. #43 _c+vga_ (Regional)
-1. #377 _Iscracks_ (Clasificatorio)
-1. #397 _Pizza Atomica_ (Clasificatorio)
-1. #404 _LPRK_ (Clasificatorio)
+1. #7 (#1 de ITESM) _pragma_ (Clasificatorio)
+1. #43 (#8 de ITESM) _c+vga_ (Regional)
+1. #377 (#65 de ITESM) _Iscracks_ (Clasificatorio)
+1. #397 (#67 de ITESM) _Pizza Atomica_ (Clasificatorio)
+1. #404 (#68 de ITESM) _LPRK_ (Clasificatorio)
 
 ### 2018-2019
 
-1. #13 _c+vga_ (Regional)
-1. #16 _pragma++_ (Regional)
-1. #52 _Segment 3_ (Clasificatorio)
-1. #192 _Doritos electrónicos_ (Clasificatorio)
-1. #212 _Los 1337_ (Clasificatorio)
-1. #383 _Iscracks_ (Clasificatorio)
-1. #394 _Dexter_ (Clasificatorio)
-1. #394 _Eagle Knights_ (Clasificatorio)
-1. #394 _Las Javas_ (Clasificatorio)
-1. #394 _Ligma_ (Clasificatorio)
-1. #394 _Sigma_ (Clasificatorio)
-1. #395 _Tacos del Infinito_ (Clasificatorio)
+1. #13 (#4 de ITESM) _c+vga_ (Regional)
+1. #16 (#5 de ITESM) _pragma++_ (Regional)
+1. #52 (#14 de ITESM) _Segment 3_ (Clasificatorio)
+1. #192 (#40 de ITESM) _Doritos electrónicos_ (Clasificatorio)
+1. #212 (#44 de ITESM) _Los 1337_ (Clasificatorio)
+1. #383 (#58 de ITESM) _Iscracks_ (Clasificatorio)
+1. #394 (#59 de ITESM) _Dexter_ (Clasificatorio)
+1. #394 (#59 de ITESM) _Eagle Knights_ (Clasificatorio)
+1. #394 (#59 de ITESM) _Las Javas_ (Clasificatorio)
+1. #394 (#59 de ITESM) _Ligma_ (Clasificatorio)
+1. #394 (#59 de ITESM) _Sigma_ (Clasificatorio)
+1. #395 (#77 de ITESM) _Tacos del Infinito_ (Clasificatorio)
 
 ### 2019-2020
 
-1. #11 _lEFTaSaNeXERCISE_ (Regional)
-1. #257 _Nionic_ (Clasificatorio)
-1. #342 _Pizza Atómica 2.0_ (Clasificatorio)
-1. #366 _Sovie_ (Clasificatorio)
-1. #382 _Team E. Turner_ (Clasificatorio)
+1. #11 (#3 de ITESM) _lEFTaSaNeXERCISE_ (Regional)
+1. #257 (#46 de ITESM) _Nionic_ (Clasificatorio)
+1. #342 (#53 de ITESM) _Pizza Atómica 2.0_ (Clasificatorio)
+1. #366 (#55 de ITESM) _Sovie_ (Clasificatorio)
+1. #382 (#58 de ITESM) _Team E. Turner_ (Clasificatorio)
 
 ### 2020-2021
 
-1. #269 _ARF_ (Clasificatorio)
-1. #303 _Dexter_ (Clasificatorio)
+1. #269 (#75 de ITESM) _ARF_ (Clasificatorio)
+1. #303 (#85 de ITESM) _Dexter_ (Clasificatorio)
 
 
 

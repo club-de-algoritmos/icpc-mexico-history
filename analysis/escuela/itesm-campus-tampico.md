@@ -25,17 +25,17 @@
 
 ### 2018-2019
 
-1. #308 _LAST ITICS_ (Clasificatorio)
-1. #395 _BootsTooBig_ (Clasificatorio)
-1. #395 _HERO_ (Clasificatorio)
-1. #395 _Los Arath_ (Clasificatorio)
-1. #395 _Noside Code_ (Clasificatorio)
+1. #308 (#56 de ITESM) _LAST ITICS_ (Clasificatorio)
+1. #395 (#77 de ITESM) _BootsTooBig_ (Clasificatorio)
+1. #395 (#77 de ITESM) _HERO_ (Clasificatorio)
+1. #395 (#77 de ITESM) _Los Arath_ (Clasificatorio)
+1. #395 (#77 de ITESM) _Noside Code_ (Clasificatorio)
 
 ### 2019-2020
 
-1. #258 _Equipo perdedor_ (Clasificatorio)
-1. #352 _Tokki Team_ (Clasificatorio)
-1. #381 _AcusticArtisans_ (Clasificatorio)
+1. #258 (#47 de ITESM) _Equipo perdedor_ (Clasificatorio)
+1. #352 (#54 de ITESM) _Tokki Team_ (Clasificatorio)
+1. #381 (#57 de ITESM) _AcusticArtisans_ (Clasificatorio)
 
 
 

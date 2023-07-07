@@ -55,151 +55,151 @@
 
 ### 2001-2002
 
-1. #4 _Heavy Wizardy!_ (Regional)
-1. #28 _Emoticons_ (Regional)
-1. #36 _WC-M_ (Regional)
+1. #4 (#2 de ITESM) _Heavy Wizardy!_ (Regional)
+1. #28 (#8 de ITESM) _Emoticons_ (Regional)
+1. #36 (#10 de ITESM) _WC-M_ (Regional)
 
 ### 2002-2003
 
-1. #17 _Dragon Army_ (Regional)
-1. #27 _Chin Chan Pú_ (Regional)
-1. #27 _Omega_ (Regional)
+1. #17 (#7 de ITESM) _Dragon Army_ (Regional)
+1. #27 (#10 de ITESM) _Chin Chan Pú_ (Regional)
+1. #27 (#10 de ITESM) _Omega_ (Regional)
 
 ### 2008-2009
 
-1. #34 _Wild RAM's_ (Regional)
+1. #34 (#17 de ITESM) _Wild RAM's_ (Regional)
 
 ### 2010-2011
 
-1. #12 _CEM 42_ (Regional)
+1. #12 (#3 de ITESM) _CEM 42_ (Regional)
 
 ### 2011-2012
 
-1. #24 _Bitshifters_ (Regional)
+1. #24 (#7 de ITESM) _Bitshifters_ (Regional)
 
 ### 2013-2014
 
-1. #14 _CEMbitshifters_ (Regional)
-1. #66 _Error 418_ (Regional)
-1. #93 _Kebabs_ (Regional)
+1. #14 (#2 de ITESM) _CEMbitshifters_ (Regional)
+1. #66 (#13 de ITESM) _Error 418_ (Regional)
+1. #93 (#16 de ITESM) _Kebabs_ (Regional)
 
 ### 2014-2015
 
-1. #12 _Bitshifters Open_ (Regional)
+1. #12 (#2 de ITESM) _Bitshifters Open_ (Regional)
 
 ### 2015-2016
 
-1. #26 _Bitshifters_ (Regional)
-1. #36 _IndexOutOfBounds_ (Regional)
-1. #80 _Valley C_ (Clasificatorio)
-1. #107 _DemGloriousKebab_ (Clasificatorio)
-1. #107 _Partially Accepted_ (Clasificatorio)
-1. #107 _TheFeelTrain_ (Clasificatorio)
-1. #108 _javapointers_ (Clasificatorio)
+1. #26 (#8 de ITESM) _Bitshifters_ (Regional)
+1. #36 (#10 de ITESM) _IndexOutOfBounds_ (Regional)
+1. #80 (#17 de ITESM) _Valley C_ (Clasificatorio)
+1. #107 (#21 de ITESM) _DemGloriousKebab_ (Clasificatorio)
+1. #107 (#21 de ITESM) _Partially Accepted_ (Clasificatorio)
+1. #107 (#21 de ITESM) _TheFeelTrain_ (Clasificatorio)
+1. #108 (#26 de ITESM) _javapointers_ (Clasificatorio)
 
 ### 2016-2017
 
-1. #27 _The Feel Train_ (Regional)
-1. #33 _Kebabs_ (Regional)
-1. #66 _SegFault_ (Clasificatorio)
-1. #79 _Kygerand_ (Clasificatorio)
-1. #85 _Rebel Coders_ (Clasificatorio)
-1. #121 _BlackRiver_ (Clasificatorio)
-1. #121 _Equipo42_ (Clasificatorio)
-1. #121 _NullSoft_ (Clasificatorio)
-1. #121 _Syntax Error_ (Clasificatorio)
-1. #121 _kdump_ (Clasificatorio)
+1. #27 (#7 de ITESM) _The Feel Train_ (Regional)
+1. #33 (#10 de ITESM) _Kebabs_ (Regional)
+1. #66 (#21 de ITESM) _SegFault_ (Clasificatorio)
+1. #79 (#24 de ITESM) _Kygerand_ (Clasificatorio)
+1. #85 (#26 de ITESM) _Rebel Coders_ (Clasificatorio)
+1. #121 (#33 de ITESM) _BlackRiver_ (Clasificatorio)
+1. #121 (#33 de ITESM) _Equipo42_ (Clasificatorio)
+1. #121 (#33 de ITESM) _NullSoft_ (Clasificatorio)
+1. #121 (#33 de ITESM) _Syntax Error_ (Clasificatorio)
+1. #121 (#33 de ITESM) _kdump_ (Clasificatorio)
 
 ### 2017-2018
 
-1. #27 _The Feel Train_ (Regional)
-1. #46 _Kygerand_ (Regional)
-1. #64 _Rebel Coders_ (Clasificatorio)
-1. #75 _Pitones 2.7_ (Clasificatorio)
-1. #97 _NullSoft_ (Clasificatorio)
-1. #120 _Syntax Error_ (Clasificatorio)
-1. #142 _Quesadilla con queso_ (Clasificatorio)
-1. #171 _Glorious Kebabs_ (Clasificatorio)
-1. #209 _Your Socialist Hacker_ (Clasificatorio)
+1. #27 (#5 de ITESM) _The Feel Train_ (Regional)
+1. #46 (#9 de ITESM) _Kygerand_ (Regional)
+1. #64 (#18 de ITESM) _Rebel Coders_ (Clasificatorio)
+1. #75 (#24 de ITESM) _Pitones 2.7_ (Clasificatorio)
+1. #97 (#29 de ITESM) _NullSoft_ (Clasificatorio)
+1. #120 (#32 de ITESM) _Syntax Error_ (Clasificatorio)
+1. #142 (#38 de ITESM) _Quesadilla con queso_ (Clasificatorio)
+1. #171 (#41 de ITESM) _Glorious Kebabs_ (Clasificatorio)
+1. #209 (#44 de ITESM) _Your Socialist Hacker_ (Clasificatorio)
 
 ### 2018-2019
 
-1. #22 _Kygerand_ (Regional)
-1. #41 _Rebel Coders_ (Regional)
-1. #64 _Pitones 2.7_ (Clasificatorio)
-1. #86 _root@scramblers_ (Clasificatorio)
-1. #96 _Programando por un sueño_ (Clasificatorio)
-1. #111 _Your Socialist Hacker_ (Clasificatorio)
-1. #114 _Quesadilla con queso_ (Clasificatorio)
-1. #156 _The Feel Train_ (Clasificatorio)
-1. #157 _NullSoft_ (Clasificatorio)
-1. #395 _CodeChallengers_ (Clasificatorio)
+1. #22 (#7 de ITESM) _Kygerand_ (Regional)
+1. #41 (#10 de ITESM) _Rebel Coders_ (Regional)
+1. #64 (#18 de ITESM) _Pitones 2.7_ (Clasificatorio)
+1. #86 (#22 de ITESM) _root@scramblers_ (Clasificatorio)
+1. #96 (#23 de ITESM) _Programando por un sueño_ (Clasificatorio)
+1. #111 (#27 de ITESM) _Your Socialist Hacker_ (Clasificatorio)
+1. #114 (#28 de ITESM) _Quesadilla con queso_ (Clasificatorio)
+1. #156 (#35 de ITESM) _The Feel Train_ (Clasificatorio)
+1. #157 (#36 de ITESM) _NullSoft_ (Clasificatorio)
+1. #395 (#77 de ITESM) _CodeChallengers_ (Clasificatorio)
 
 ### 2019-2020
 
-1. #28 _Kygerand_ (Regional)
-1. #52 _The girls have no name_ (Regional)
-1. #53 _Pitones_ (Regional)
-1. #97 _root@scramblers_ (Clasificatorio)
-1. #108 _Rebel Coders_ (Clasificatorio)
-1. #109 _Your Socialist Hacker_ (Clasificatorio)
-1. #147 _Quesadilla con queso_ (Clasificatorio)
-1. #148 _Calcetines de bebé_ (Clasificatorio)
-1. #182 _Yippee ki-yay mother coders_ (Clasificatorio)
-1. #185 _Codebusters_ (Clasificatorio)
+1. #28 (#6 de ITESM) _Kygerand_ (Regional)
+1. #52 (#10 de ITESM) _The girls have no name_ (Regional)
+1. #53 (#11 de ITESM) _Pitones_ (Regional)
+1. #97 (#16 de ITESM) _root@scramblers_ (Clasificatorio)
+1. #108 (#18 de ITESM) _Rebel Coders_ (Clasificatorio)
+1. #109 (#19 de ITESM) _Your Socialist Hacker_ (Clasificatorio)
+1. #147 (#29 de ITESM) _Quesadilla con queso_ (Clasificatorio)
+1. #148 (#30 de ITESM) _Calcetines de bebé_ (Clasificatorio)
+1. #182 (#35 de ITESM) _Yippee ki-yay mother coders_ (Clasificatorio)
+1. #185 (#36 de ITESM) _Codebusters_ (Clasificatorio)
 
 ### 2020-2021
 
-1. #46 _Pitones 2.7_ (Regional)
-1. #72 _root@scramblers_ (Clasificatorio)
-1. #87 _Yippee ki-yay Python Coders_ (Clasificatorio)
-1. #219 _Your Socialist Hacker_ (Clasificatorio)
-1. #262 _Salsa5_ (Clasificatorio)
-1. #292 _helloGoodByte_ (Clasificatorio)
+1. #46 (#8 de ITESM) _Pitones 2.7_ (Regional)
+1. #72 (#17 de ITESM) _root@scramblers_ (Clasificatorio)
+1. #87 (#20 de ITESM) _Yippee ki-yay Python Coders_ (Clasificatorio)
+1. #219 (#56 de ITESM) _Your Socialist Hacker_ (Clasificatorio)
+1. #262 (#73 de ITESM) _Salsa5_ (Clasificatorio)
+1. #292 (#82 de ITESM) _helloGoodByte_ (Clasificatorio)
 
 ### 2021-2022
 
-1. #22 _F TLE_ (Regional)
-1. #96 _O(Nice)_ (Clasificatorio)
-1. #102 _Artemisa_ (Clasificatorio)
-1. #146 _Las chicas superpoderosas_ (Clasificatorio)
-1. #178 _Los Empresaurios_ (Clasificatorio)
-1. #208 _ABA_ (Clasificatorio)
-1. #216 _GCoders_ (Clasificatorio)
-1. #226 _Pandas de fuego_ (Clasificatorio)
+1. #22 (#4 de ITESM) _F TLE_ (Regional)
+1. #96 (#17 de ITESM) _O(Nice)_ (Clasificatorio)
+1. #102 (#19 de ITESM) _Artemisa_ (Clasificatorio)
+1. #146 (#25 de ITESM) _Las chicas superpoderosas_ (Clasificatorio)
+1. #178 (#36 de ITESM) _Los Empresaurios_ (Clasificatorio)
+1. #208 (#41 de ITESM) _ABA_ (Clasificatorio)
+1. #216 (#42 de ITESM) _GCoders_ (Clasificatorio)
+1. #226 (#45 de ITESM) _Pandas de fuego_ (Clasificatorio)
 
 ### 2022-2023
 
-1. #28 _F TLE_ (Regional)
-1. #159 _Debuggers_ (Clasificatorio)
-1. #168 _Psyconova_ (Clasificatorio)
-1. #177 _ILE_ (Clasificatorio)
-1. #181 _Herederos de C++_ (Clasificatorio)
-1. #182 _Crackers_ (Clasificatorio)
-1. #198 _Dreaming Penguins_ (Clasificatorio)
-1. #207 _O(nice)_ (Clasificatorio)
-1. #214 _Turtlebots_ (Clasificatorio)
-1. #220 _L^3_ (Clasificatorio)
-1. #348 _MMX_ (Clasificatorio)
-1. #354 _1F47B_ (Clasificatorio)
-1. #382 _Código con chanfle_ (Clasificatorio)
-1. #382 _Mexiware_ (Clasificatorio)
+1. #28 (#3 de ITESM) _F TLE_ (Regional)
+1. #159 (#13 de ITESM) _Debuggers_ (Clasificatorio)
+1. #168 (#15 de ITESM) _Psyconova_ (Clasificatorio)
+1. #177 (#18 de ITESM) _ILE_ (Clasificatorio)
+1. #181 (#19 de ITESM) _Herederos de C++_ (Clasificatorio)
+1. #182 (#20 de ITESM) _Crackers_ (Clasificatorio)
+1. #198 (#23 de ITESM) _Dreaming Penguins_ (Clasificatorio)
+1. #207 (#25 de ITESM) _O(nice)_ (Clasificatorio)
+1. #214 (#26 de ITESM) _Turtlebots_ (Clasificatorio)
+1. #220 (#27 de ITESM) _L^3_ (Clasificatorio)
+1. #348 (#52 de ITESM) _MMX_ (Clasificatorio)
+1. #354 (#53 de ITESM) _1F47B_ (Clasificatorio)
+1. #382 (#55 de ITESM) _Código con chanfle_ (Clasificatorio)
+1. #382 (#55 de ITESM) _Mexiware_ (Clasificatorio)
 
 ### 2023-2024
 
-1. #40 _súbditos de sommerville_ (Clasificatorio)
-1. #77 _pi/3_ (Clasificatorio)
-1. #88 _Sí pifa ? Ehhh : Owww_ (Clasificatorio)
-1. #107 _Code enjoyers_ (Clasificatorio)
-1. #164 _EL EQUIPOBOL_ (Clasificatorio)
-1. #165 _Byte Me_ (Clasificatorio)
-1. #178 _Using BrainSpace;_ (Clasificatorio)
-1. #204 _Rivolta_ (Clasificatorio)
-1. #211 _404 Name Not Found_ (Clasificatorio)
-1. #226 _Kabrilian_ (Clasificatorio)
-1. #227 _Mango_ (Clasificatorio)
-1. #248 _C3P0_ICPC_ (Clasificatorio)
-1. #260 _Last minute_ (Clasificatorio)
+1. #40 (#5 de ITESM) _súbditos de sommerville_ (Clasificatorio)
+1. #77 (#10 de ITESM) _pi/3_ (Clasificatorio)
+1. #88 (#11 de ITESM) _Sí pifa ? Ehhh : Owww_ (Clasificatorio)
+1. #107 (#15 de ITESM) _Code enjoyers_ (Clasificatorio)
+1. #164 (#21 de ITESM) _EL EQUIPOBOL_ (Clasificatorio)
+1. #165 (#22 de ITESM) _Byte Me_ (Clasificatorio)
+1. #178 (#24 de ITESM) _Using BrainSpace;_ (Clasificatorio)
+1. #204 (#28 de ITESM) _Rivolta_ (Clasificatorio)
+1. #211 (#30 de ITESM) _404 Name Not Found_ (Clasificatorio)
+1. #226 (#32 de ITESM) _Kabrilian_ (Clasificatorio)
+1. #227 (#33 de ITESM) _Mango_ (Clasificatorio)
+1. #248 (#34 de ITESM) _C3P0_ICPC_ (Clasificatorio)
+1. #260 (#35 de ITESM) _Last minute_ (Clasificatorio)
 
 
 

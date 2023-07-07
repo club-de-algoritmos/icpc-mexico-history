@@ -31,36 +31,36 @@
 
 ### 2001-2002
 
-1. #15 _Drink Team_ (Regional)
-1. #55 _Ctrl+Alt+Supr_ (Regional)
+1. #15 (#5 de ITESM) _Drink Team_ (Regional)
+1. #55 (#17 de ITESM) _Ctrl+Alt+Supr_ (Regional)
 
 ### 2003-2004
 
-1. #29 _Drink Team_ (Regional)
-1. #41 _Web-ones_ (Regional)
+1. #29 (#6 de ITESM) _Drink Team_ (Regional)
+1. #41 (#11 de ITESM) _Web-ones_ (Regional)
 
 ### 2006-2007
 
-1. #58 _Javalio_ (Regional)
-1. #60 _LPT_ (Regional)
-1. #85 _Los Looney''s_ (Regional)
-1. #85 _noName=" ";_ (Regional)
+1. #58 (#19 de ITESM) _Javalio_ (Regional)
+1. #60 (#20 de ITESM) _LPT_ (Regional)
+1. #85 (#27 de ITESM) _Los Looney''s_ (Regional)
+1. #85 (#27 de ITESM) _noName=" ";_ (Regional)
 
 ### 2007-2008
 
-1. #53 _PMR 4000_ (Regional)
-1. #61 _COF_ (Regional)
-1. #61 _Los intensos_ (Regional)
+1. #53 (#16 de ITESM) _PMR 4000_ (Regional)
+1. #61 (#19 de ITESM) _COF_ (Regional)
+1. #61 (#19 de ITESM) _Los intensos_ (Regional)
 
 ### 2009-2010
 
-1. #42 _Laguna 3_ (Regional)
-1. #77 _Laguna 1_ (Regional)
-1. #116 _Laguna 2_ (Regional)
+1. #42 (#13 de ITESM) _Laguna 3_ (Regional)
+1. #77 (#17 de ITESM) _Laguna 1_ (Regional)
+1. #116 (#22 de ITESM) _Laguna 2_ (Regional)
 
 ### 2010-2011
 
-1. #137 _GameOver Laguna_ (Regional)
+1. #137 (#32 de ITESM) _GameOver Laguna_ (Regional)
 
 
 

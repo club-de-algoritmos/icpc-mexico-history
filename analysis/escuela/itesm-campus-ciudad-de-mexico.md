@@ -37,74 +37,74 @@
 
 ### 2009-2010
 
-1. #12 _ITCCM_ (Regional)
-1. #40 _Itsenautas_ (Regional)
-1. #109 _Children of Evolution_ (Regional)
+1. #12 (#4 de ITESM) _ITCCM_ (Regional)
+1. #40 (#11 de ITESM) _Itsenautas_ (Regional)
+1. #109 (#21 de ITESM) _Children of Evolution_ (Regional)
 
 ### 2010-2011
 
-1. #51 _Spartans!_ (Regional)
-1. #57 _El Santo contra las Momias_ (Regional)
-1. #105 _Ka-Tet_ (Regional)
+1. #51 (#17 de ITESM) _Spartans!_ (Regional)
+1. #57 (#20 de ITESM) _El Santo contra las Momias_ (Regional)
+1. #105 (#30 de ITESM) _Ka-Tet_ (Regional)
 
 ### 2011-2012
 
-1. #37 _SA²_ (Regional)
-1. #47 _Echo_ (Regional)
-1. #61 _Tryte_ (Regional)
+1. #37 (#9 de ITESM) _SA²_ (Regional)
+1. #47 (#14 de ITESM) _Echo_ (Regional)
+1. #61 (#18 de ITESM) _Tryte_ (Regional)
 
 ### 2012-2013
 
-1. #115 _ccm1_ (Regional)
-1. #124 _ccm2_ (Regional)
+1. #115 (#14 de ITESM) _ccm1_ (Regional)
+1. #124 (#19 de ITESM) _ccm2_ (Regional)
 
 ### 2015-2016
 
-1. #18 _EOF_ (Regional)
-1. #41 _Byte-me_ (Regional)
+1. #18 (#5 de ITESM) _EOF_ (Regional)
+1. #41 (#11 de ITESM) _Byte-me_ (Regional)
 
 ### 2016-2017
 
-1. #30 _make sandwich_ (Regional)
-1. #32 _M3_ (Regional)
-1. #121 _The enigmas_ (Clasificatorio)
+1. #30 (#8 de ITESM) _make sandwich_ (Regional)
+1. #32 (#9 de ITESM) _M3_ (Regional)
+1. #121 (#33 de ITESM) _The enigmas_ (Clasificatorio)
 
 ### 2017-2018
 
-1. #60 _The Screens_ (Regional)
-1. #73 _43FAD958_ (Clasificatorio)
-1. #246 _Los Compiladores_ (Clasificatorio)
-1. #285 _Bits please_ (Clasificatorio)
-1. #331 _Los Switch_ (Clasificatorio)
+1. #60 (#10 de ITESM) _The Screens_ (Regional)
+1. #73 (#22 de ITESM) _43FAD958_ (Clasificatorio)
+1. #246 (#47 de ITESM) _Los Compiladores_ (Clasificatorio)
+1. #285 (#53 de ITESM) _Bits please_ (Clasificatorio)
+1. #331 (#59 de ITESM) _Los Switch_ (Clasificatorio)
 
 ### 2018-2019
 
-1. #72 _MDP_ (Clasificatorio)
-1. #204 _RADAR_ (Clasificatorio)
+1. #72 (#19 de ITESM) _MDP_ (Clasificatorio)
+1. #204 (#43 de ITESM) _RADAR_ (Clasificatorio)
 
 ### 2019-2020
 
-1. #23 _mdp_ (Regional)
-1. #120 _Elite Penguin Force_ (Clasificatorio)
-1. #136 _Team extends God_ (Clasificatorio)
-1. #243 _El cartel de Java_ (Clasificatorio)
+1. #23 (#5 de ITESM) _mdp_ (Regional)
+1. #120 (#24 de ITESM) _Elite Penguin Force_ (Clasificatorio)
+1. #136 (#28 de ITESM) _Team extends God_ (Clasificatorio)
+1. #243 (#43 de ITESM) _El cartel de Java_ (Clasificatorio)
 
 ### 2020-2021
 
-1. #35 _BrUwUs_ (Regional)
-1. #114 _Montadioses_ (Clasificatorio)
-1. #115 _TecBots_ (Clasificatorio)
-1. #158 _Echo Coding_ (Clasificatorio)
-1. #232 _Nautilus Phi_ (Clasificatorio)
+1. #35 (#7 de ITESM) _BrUwUs_ (Regional)
+1. #114 (#24 de ITESM) _Montadioses_ (Clasificatorio)
+1. #115 (#25 de ITESM) _TecBots_ (Clasificatorio)
+1. #158 (#38 de ITESM) _Echo Coding_ (Clasificatorio)
+1. #232 (#64 de ITESM) _Nautilus Phi_ (Clasificatorio)
 
 ### 2021-2022
 
-1. #79 _Echo Coding_ (Clasificatorio)
+1. #79 (#15 de ITESM) _Echo Coding_ (Clasificatorio)
 
 ### 2023-2024
 
-1. #219 _Los tres jinetes_ (Clasificatorio)
-1. #318 _devsociety_ (Clasificatorio)
+1. #219 (#31 de ITESM) _Los tres jinetes_ (Clasificatorio)
+1. #318 (#42 de ITESM) _devsociety_ (Clasificatorio)
 
 
 

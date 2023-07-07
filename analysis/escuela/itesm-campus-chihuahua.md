@@ -28,29 +28,29 @@
 
 ### 2019-2020
 
-1. #124 _CODErregos_ (Clasificatorio)
+1. #124 (#25 de ITESM) _CODErregos_ (Clasificatorio)
 
 ### 2020-2021
 
-1. #52 _CODErregos_ (Regional)
-1. #223 _ITChads_ (Clasificatorio)
-1. #264 _Code gang_ (Clasificatorio)
-1. #281 _CLY_ (Clasificatorio)
+1. #52 (#10 de ITESM) _CODErregos_ (Regional)
+1. #223 (#59 de ITESM) _ITChads_ (Clasificatorio)
+1. #264 (#74 de ITESM) _Code gang_ (Clasificatorio)
+1. #281 (#80 de ITESM) _CLY_ (Clasificatorio)
 
 ### 2021-2022
 
-1. #50 _2 boys 1 dog_ (Regional)
-1. #117 _TuringCompletists_ (Clasificatorio)
-1. #162 _CodiBoys_ (Clasificatorio)
-1. #172 _Runtime Error_ (Clasificatorio)
-1. #226 _2 de asada y 1 de tripa_ (Clasificatorio)
-1. #226 _EMAAAM_ (Clasificatorio)
-1. #226 _Hades_ (Clasificatorio)
-1. #226 _Los Programadores del Abismo_ (Clasificatorio)
-1. #226 _Los Tres amigos_ (Clasificatorio)
-1. #226 _Omega_ (Clasificatorio)
-1. #226 _TecTeam_ (Clasificatorio)
-1. #226 _Wikipedianos_ (Clasificatorio)
+1. #50 (#8 de ITESM) _2 boys 1 dog_ (Regional)
+1. #117 (#21 de ITESM) _TuringCompletists_ (Clasificatorio)
+1. #162 (#28 de ITESM) _CodiBoys_ (Clasificatorio)
+1. #172 (#33 de ITESM) _Runtime Error_ (Clasificatorio)
+1. #226 (#45 de ITESM) _2 de asada y 1 de tripa_ (Clasificatorio)
+1. #226 (#45 de ITESM) _EMAAAM_ (Clasificatorio)
+1. #226 (#45 de ITESM) _Hades_ (Clasificatorio)
+1. #226 (#45 de ITESM) _Los Programadores del Abismo_ (Clasificatorio)
+1. #226 (#45 de ITESM) _Los Tres amigos_ (Clasificatorio)
+1. #226 (#45 de ITESM) _Omega_ (Clasificatorio)
+1. #226 (#45 de ITESM) _TecTeam_ (Clasificatorio)
+1. #226 (#45 de ITESM) _Wikipedianos_ (Clasificatorio)
 
 
 

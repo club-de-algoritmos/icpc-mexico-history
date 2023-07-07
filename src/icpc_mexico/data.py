@@ -13,7 +13,6 @@ MEXICO = 'mexico'
 class SchoolCommunity(str, Enum):
     TECNM = 'Tecnologico Nacional de Mexico'
     ITESM = 'Instituto Tecnologico y de Estudios Superiores de Monterrey'
-    POLITECNICA = 'Universidad Politecnica'
 
     @property
     def abbreviation(self) -> str:

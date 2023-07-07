@@ -52,6 +52,7 @@ class TeamResult:
     site_citation: Optional[str]
     citation: Optional[str]
     # Computed results:
+    school: Optional[School] = None
     community: Optional[SchoolCommunity] = None
     community_rank: Optional[int] = None
     country: Optional[str] = None

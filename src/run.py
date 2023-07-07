@@ -44,6 +44,10 @@ def _get_contests(refresh_contests: bool) -> Tuple[List[FinishedContest], bool]:
             finished_contests += processor.get_finished_contests(missing_contests)
             storage.store_contests(finished_contests, contests_filename)
             contests_updated = True
+        else:
+            # Store right away in case we need to update the JSON to match th dataclass (hacky, yes)
+            storage.store_contests(finished_contests, contests_filename)
+
     return finished_contests, contests_updated
 
 

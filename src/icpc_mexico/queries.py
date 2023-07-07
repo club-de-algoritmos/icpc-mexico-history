@@ -91,6 +91,7 @@ class Queries:
                         rank = last_team.community_rank
 
                     team = dataclasses.replace(team,
+                                               school=school,
                                                community=school.community,
                                                community_rank=rank)
                     community_last_team[school.community] = team

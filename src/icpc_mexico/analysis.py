@@ -77,6 +77,7 @@ class Analyzer:
         participations_table = []
         totals = [0, 0, 0, 0, 0]
         all_schools: Set[str] = set()
+        started_participating = False
         for season in self._queries.contest_seasons:
             stats = [0, 0, 0, 0, 0]
             season_schools: Set[str] = set()
@@ -101,8 +102,10 @@ class Analyzer:
                 all_schools.add(team.school.name)
 
             stats[4] = len(season_schools)
-            if skip_empty and sum(stats) == 0:
+
+            if (skip_empty or not started_participating) and sum(stats) == 0:
                 continue
+            started_participating = True
 
             for i in range(len(totals)):
                 totals[i] += stats[i]

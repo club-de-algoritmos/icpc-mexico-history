@@ -161,7 +161,7 @@ def get_schools(contests: List[FinishedContest]) -> List[School]:
         ),
         School(
             name='instituto tecnologico de comitan',
-            alt_names=['tec. de comitan.'],
+            alt_names=['tec. de comitan.', 'instituto technologico de comitan'],
             community=SchoolCommunity.TECNM,
             country=MEXICO,
         ),

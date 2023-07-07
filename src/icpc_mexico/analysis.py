@@ -36,7 +36,7 @@ class Analyzer:
                         for contest in season.worlds:
                             with markdown.section(contest.description()):
                                 for team in contest.team_results:
-                                    if team.country != MEXICO:
+                                    if not team.school or team.school.country != MEXICO:
                                         continue
 
                                     markdown.bullet_point(f'#{team.rank} (#{team.country_rank} de México, '
@@ -197,7 +197,7 @@ class Analyzer:
                     for contest in self._queries.get_contests_by_type(ContestType.WORLD):
                         participations = []
                         for team in contest.team_results:
-                            if team.community != community:
+                            if not team.school or team.school.community != community:
                                 continue
                             participations.append(f'#{team.rank} (#{team.country_rank} de México,'
                                                   f' resolvió {team.problems_solved}) {team.name} ({team.school.name})')

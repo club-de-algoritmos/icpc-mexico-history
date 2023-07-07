@@ -61,9 +61,7 @@ class TeamResult:
     citation: Optional[str]
     # Computed results:
     school: Optional[School] = None
-    community: Optional[SchoolCommunity] = None
     community_rank: Optional[int] = None
-    country: Optional[str] = None
     country_rank: Optional[int] = None
     # TODO:
     # super_region: Optional[SuperRegion] = None

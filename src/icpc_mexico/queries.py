@@ -4,7 +4,7 @@ from typing import List, Optional, Dict, Tuple
 
 from icpc_mexico.data import School, ContestType, FinishedContest, TeamResult, SchoolCommunity, Contest
 from icpc_mexico.query_data import ContestSeason, RankedTeam, ExtendedTeamResult
-from icpc_mexico.utils import normalize_str, get_percentile, normalize_school_name
+from icpc_mexico.utils import get_percentile, normalize_school_name
 
 
 def get_school(school_name: str, schools: List[School]) -> Optional[School]:
@@ -79,9 +79,7 @@ class Queries:
                     if last_team and last_team.rank == team.rank:
                         rank = last_team.community_rank
 
-                    team = dataclasses.replace(team,
-                                               community=school.community,
-                                               community_rank=rank)
+                    team = dataclasses.replace(team, community_rank=rank)
                     community_last_team[school.community] = team
 
                 if contest.type == ContestType.WORLD:
@@ -91,9 +89,7 @@ class Queries:
                     if last_team and last_team.rank == team.rank:
                         rank = last_team.country_rank
 
-                    team = dataclasses.replace(team,
-                                               country=school.country,
-                                               country_rank=rank)
+                    team = dataclasses.replace(team, country_rank=rank)
                     country_last_team[school.country] = team
 
                 team_results.append(team)

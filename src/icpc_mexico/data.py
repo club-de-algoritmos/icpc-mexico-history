@@ -4,7 +4,7 @@ from typing import Optional, List, Set
 
 from dataclasses_json import dataclass_json
 
-from icpc_mexico.utils import normalize_str
+from icpc_mexico.utils import normalize_school_name
 
 MEXICO = 'mexico'
 
@@ -14,6 +14,14 @@ class SchoolCommunity(str, Enum):
     TECNM = 'Tecnologico Nacional de Mexico'
     ITESM = 'Instituto Tecnologico y de Estudios Superiores de Monterrey'
     POLITECNICA = 'Universidad Politecnica'
+
+    @property
+    def abbreviation(self) -> str:
+        if self == SchoolCommunity.TECNM:
+            return 'TecNM'
+        if self == SchoolCommunity.ITESM:
+            return 'ITESM'
+        raise ValueError(f'Unknown abbreviation for {self}')
 
 
 @dataclass_json
@@ -32,11 +40,11 @@ class School:
 
     @property
     def names(self) -> Set[str]:
-        return ({normalize_str(self.name)}
-                | {normalize_str(alt_name) for alt_name in self.alt_names})
+        return ({normalize_school_name(self.name)}
+                | {normalize_school_name(alt_name) for alt_name in self.alt_names})
 
     def matches_name(self, name: str) -> bool:
-        return normalize_str(name) in self.names
+        return normalize_school_name(name) in self.names
 
 
 @dataclass_json

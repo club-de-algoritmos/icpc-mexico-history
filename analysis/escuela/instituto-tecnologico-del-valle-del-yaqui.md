@@ -1,4 +1,4 @@
-# Instituto Tecnologico Del Valle Del Yaqui
+# Instituto Tecnológico Del Valle Del Yaqui
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 

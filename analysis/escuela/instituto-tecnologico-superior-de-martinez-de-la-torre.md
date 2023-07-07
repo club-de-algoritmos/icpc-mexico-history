@@ -1,4 +1,4 @@
-# Instituto Tecnologico Superior De Martinez De La Torre
+# Instituto Tecnológico Superior De Martínez De La Torre
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 

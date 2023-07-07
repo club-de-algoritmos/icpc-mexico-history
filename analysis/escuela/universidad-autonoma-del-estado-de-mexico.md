@@ -1,4 +1,4 @@
-# Universidad Autonoma Del Estado De Mexico
+# Universidad Autónoma Del Estado De México
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 

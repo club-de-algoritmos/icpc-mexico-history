@@ -1,4 +1,4 @@
-# Instituto Tecnologico Superior De Champoton
+# Instituto Tecnológico Superior De Champotón
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 

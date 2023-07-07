@@ -7,7 +7,7 @@ from icpc_mexico.data import FinishedContest, ContestType, SchoolCommunity, Scho
 from icpc_mexico.markdown import Markdown, MarkdownFile
 from icpc_mexico.queries import Queries
 from icpc_mexico.query_data import RankedTeam, ExtendedTeamResult, ContestSeason
-from icpc_mexico.utils import normalize_as_filename, log_run_time, format_percentile
+from icpc_mexico.utils import normalize_as_filename, log_run_time, format_percentile, normalize_school_name
 
 TeamRank = Tuple[float, FinishedContest, TeamResult]
 
@@ -255,7 +255,8 @@ class Analyzer:
             self._analyze_school(school)
 
     def _analyze_school(self, school: School) -> None:
-        with MarkdownFile(self._get_filename('escuela', f'{normalize_as_filename(school.name)}.md')) as markdown:
+        filename = f'{normalize_as_filename(normalize_school_name(school.name))}.md'
+        with MarkdownFile(self._get_filename('escuela', filename)) as markdown:
             with markdown.section(school.name.title()):
                 if school.country == MEXICO:
                     markdown.paragraph(':warning: Equipos que solo participaron en el Repechaje del '

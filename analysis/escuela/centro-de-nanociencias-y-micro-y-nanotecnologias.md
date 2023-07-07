@@ -1,4 +1,4 @@
-# Centro De Nanociencias Y Micro Y Nanotecnologias
+# Centro De Nanociencias Y Micro Y Nanotecnologías
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 

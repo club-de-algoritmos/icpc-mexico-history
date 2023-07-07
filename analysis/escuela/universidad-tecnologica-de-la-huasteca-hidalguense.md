@@ -1,4 +1,4 @@
-# Universidad Tecnologica De La Huasteca Hidalguense
+# Universidad Tecnológica De La Huasteca Hidalguense
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 

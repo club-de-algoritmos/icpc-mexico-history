@@ -20,6 +20,10 @@ def normalize_str(value: str) -> str:
     return normalized_value.replace('"', '')
 
 
+def normalize_school_name(value: str) -> str:
+    return normalize_str(value).replace('technologico', 'tecnologico')
+
+
 def normalize_as_filename(value: str) -> str:
     normalized_value = normalize_str(value).replace(' ', '-').replace('/', '-')
     return re.sub('-+', '-', normalized_value)

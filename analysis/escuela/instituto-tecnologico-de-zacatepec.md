@@ -1,4 +1,4 @@
-# Instituto Tecnologico De Zacatepec
+# Instituto Tecnológico De Zacatepec
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 

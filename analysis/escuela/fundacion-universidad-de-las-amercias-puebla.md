@@ -1,4 +1,4 @@
-# Fundacion Universidad De Las Amercias Puebla
+# Fundación Universidad De Las Amércias Puebla
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 

@@ -1,4 +1,4 @@
-# Facultad De Ingenieria, Ciencias Y Arquitectura, Universidad Juarez Del Estado De Durango
+# Facultad De Ingeniería, Ciencias Y Arquitectura, Universidad Juarez Del Estado De Durango
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 

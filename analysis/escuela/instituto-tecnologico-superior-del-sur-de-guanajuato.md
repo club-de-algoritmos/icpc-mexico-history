@@ -1,4 +1,4 @@
-# Instituto Tecnologico Superior Del Sur De Guanajuato
+# Instituto Tecnológico Superior Del Sur De Guanajuato
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 

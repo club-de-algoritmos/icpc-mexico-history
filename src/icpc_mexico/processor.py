@@ -6,7 +6,7 @@ from icpc_mexico import icpc_api
 from icpc_mexico.data import Contest, FinishedContest, TeamResult, ContestType, School, SchoolCommunity, MEXICO
 from icpc_mexico.errors import ProcessingError
 from icpc_mexico.queries import get_school
-from icpc_mexico.utils import normalize_str
+from icpc_mexico.utils import normalize_str, normalize_school_name
 
 
 def _from_csv_to_contest(csv_row: Dict) -> Contest:
@@ -191,51 +191,48 @@ def get_schools(contests: List[FinishedContest]) -> List[School]:
         if contest.type in [ContestType.WORLD, ContestType.CHAMPIONSHIP]:
             continue
         for team in contest.team_results:
-            school_names.add(normalize_str(team.institution))
+            school_names.add(team.institution.strip())
 
     for school_name in sorted(school_names):
-        if get_school(school_name, schools):
+        normalized_name = normalize_school_name(school_name)
+        if get_school(normalized_name, schools):
             continue
 
-        if 'costa rica' in school_name:
+        if 'costa rica' in normalized_name:
             schools.append(School(name=school_name, country='costa rica'))
             continue
 
-        if school_name.startswith('universidad centroamericana'):
+        if 'jamaica' in normalized_name:
+            schools.append(School(name=school_name, country='jamaica'))
+            continue
+
+        if normalized_name.startswith('universidad centroamericana'):
             schools.append(School(name=school_name, country='el salvador'))
             continue
 
-        if ('habana' in school_name
-                or school_name.startswith('universidad de las ciencias informaticas')
-                or school_name.startswith('universidad de oriente')
-                or school_name.startswith('universidad de cienfuegos')
-                or 'camaguey' in school_name):
+        if ('habana' in normalized_name
+                or normalized_name.startswith('universidad de las ciencias informaticas')
+                or normalized_name.startswith('universidad de oriente')
+                or normalized_name.startswith('universidad de cienfuegos')
+                or 'camaguey' in normalized_name):
             schools.append(School(name=school_name, country='cuba'))
             continue
 
-        if school_name.startswith('instituto technologico'):
-            normalized_name = school_name.replace('technologico', 'tecnologico')
-            schools.append(School(name=normalized_name,
-                                  alt_names=[school_name],
-                                  community=SchoolCommunity.TECNM,
-                                  country=MEXICO))
+        if (normalized_name.startswith('tecnologico nacional de mexico')
+                or normalized_name.startswith('tecnm')
+                or normalized_name.startswith('instituto tecnologico')):
+            # "technologico" -> "tecnologico"
+            schools.append(School(
+                name=school_name.replace('echno', 'ecno'), community=SchoolCommunity.TECNM, country=MEXICO))
             continue
 
-        if (school_name.startswith('tecnologico nacional de mexico')
-                or school_name.startswith('tecnm')
-                or school_name.startswith('instituto tecnologico')):
-            schools.append(School(name=school_name, community=SchoolCommunity.TECNM, country=MEXICO))
-            continue
-
-        if school_name.startswith('itesm'):
+        if normalized_name.startswith('itesm'):
             schools.append(School(name=school_name, community=SchoolCommunity.ITESM, country=MEXICO))
             continue
 
-        if school_name.startswith('universidad politecnica'):
-            schools.append(School(name=school_name, community=SchoolCommunity.POLITECNICA, country=MEXICO))
-            continue
-
-        if school_name.startswith('olimpiada') or school_name.startswith('cetis') or school_name.startswith('cbtis'):
+        if (normalized_name.startswith('olimpiada') or
+                normalized_name.startswith('cetis') or
+                normalized_name.startswith('cbtis')):
             schools.append(School(name=school_name, is_eligible=False, country=MEXICO))
             continue
 
@@ -253,7 +250,7 @@ def get_schools(contests: List[FinishedContest]) -> List[School]:
         matched_state = None
         for state, keywords in state_keywords.items():
             for keyword in keywords:
-                if keyword in school.name:
+                if keyword in normalize_school_name(school.name):
                     matched_state = state
                     break
             if matched_state:
@@ -262,4 +259,4 @@ def get_schools(contests: List[FinishedContest]) -> List[School]:
         processed_schools.append(dataclasses.replace(school, state=matched_state))
 
     print(f'Found {len(processed_schools)} schools')
-    return sorted(processed_schools, key=lambda s: s.name)
+    return sorted(processed_schools, key=lambda s: s.name.lower())

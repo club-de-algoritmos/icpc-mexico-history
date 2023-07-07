@@ -30,12 +30,13 @@ class School:
     # Whether this school is eligible for ICPC (not high school, not unknown, etc.)
     is_eligible: bool = True
 
-    def get_all_matching_names(self) -> Set[str]:
+    @property
+    def names(self) -> Set[str]:
         return ({normalize_str(self.name)}
                 | {normalize_str(alt_name) for alt_name in self.alt_names})
 
     def matches_name(self, name: str) -> bool:
-        return normalize_str(name) in self.get_all_matching_names()
+        return normalize_str(name) in self.names
 
 
 @dataclass_json

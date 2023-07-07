@@ -8,7 +8,6 @@ from icpc_mexico.utils import normalize_str, get_percentile
 
 
 def get_school(school_name: str, schools: List[School]) -> Optional[School]:
-    school_name = normalize_str(school_name)
     for school in schools:
         if school.matches_name(school_name):
             return school
@@ -19,17 +18,6 @@ def get_by_type(contest_type: ContestType, contests: List[FinishedContest]) -> O
     for contest in contests:
         if contest.type == contest_type:
             return contest
-    return None
-
-
-def get_by_school(school: School, contest: FinishedContest) -> List[TeamResult]:
-    return [team for team in contest.team_results if school.matches_name(team.institution)]
-
-
-def get_best_by_school(school: School, contest: FinishedContest) -> Optional[TeamResult]:
-    teams = get_by_school(school, contest)
-    if teams:
-        return teams[0]
     return None
 
 
@@ -54,7 +42,7 @@ class Queries:
 
         self._schools_by_name: Dict[str, School] = {}
         for school in self._schools:
-            for name in school.get_all_matching_names():
+            for name in school.names:
                 self._schools_by_name[name] = school
 
         self._contests = self._compute_extra_team_results(contests)
@@ -70,8 +58,7 @@ class Queries:
             # super_region_ranking: Dict[SuperRegion, int] = defaultdict(int)
             team_results = []
             for team in contest.team_results:
-                school = self.get_school(team.institution)
-
+                school = self._get_school(team.institution)
                 if school is None:
                     # We're only interested in Mexico, do a simple check just in case
                     if contest.type in [ContestType.GRAN_PREMIO, ContestType.PROGRAMMING_BATTLE]:
@@ -83,6 +70,8 @@ class Queries:
                     team_results.append(team)
                     continue
 
+                team = dataclasses.replace(team, school=school)
+
                 if school.community:
                     community_rank[school.community] += 1
                     rank = community_rank[school.community]
@@ -91,7 +80,6 @@ class Queries:
                         rank = last_team.community_rank
 
                     team = dataclasses.replace(team,
-                                               school=school,
                                                community=school.community,
                                                community_rank=rank)
                     community_last_team[school.community] = team
@@ -166,8 +154,10 @@ class Queries:
 
             teams: List[RankedTeam] = []
             for team_name, ext_team_results in results_by_team_name.items():
-                school_names = [result.team_result.institution for result in ext_team_results if result]
-                school = self.get_school(school_names[0])
+                school: Optional[School] = next(
+                    (result.team_result.school for result in ext_team_results if result),
+                    None,
+                )
                 world_result, regional_result, qualifier_result = ext_team_results
 
                 regional_season_rank = None
@@ -199,7 +189,7 @@ class Queries:
     def get_contests_by_type(self, contest_type: ContestType) -> List[Contest]:
         return [contest for contest in self._contests if contest.type == contest_type]
 
-    def get_school(self, name: str) -> Optional[School]:
+    def _get_school(self, name: str) -> Optional[School]:
         return self._schools_by_name.get(normalize_str(name))
 
     def get_schools_by_country(self, country: str) -> List[School]:

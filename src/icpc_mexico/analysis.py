@@ -38,10 +38,10 @@ class Analyzer:
                                 for team in contest.team_results:
                                     if team.country != MEXICO:
                                         continue
-                                    community_desc = f', {team.community}' if team.community else ''
+
                                     markdown.bullet_point(f'#{team.rank} (#{team.country_rank} de México, '
                                                           f'resolvió {team.problems_solved})'
-                                                          f' {team.name} ({team.institution}{community_desc})')
+                                                          f' {team.name} ({team.school.name})')
 
                 high_teams: List[RankedTeam] = []
                 teams = self._queries.get_ranked_teams(country=MEXICO)
@@ -200,12 +200,11 @@ class Analyzer:
                             if team.community != community:
                                 continue
                             participations.append(f'#{team.rank} (#{team.country_rank} de México,'
-                                                  f' resolvió {team.problems_solved}) {team.name} ({team.institution})')
+                                                  f' resolvió {team.problems_solved}) {team.name} ({team.school.name})')
 
-                            school = self._queries.get_school(team.institution)
-                            if school.name not in wf_school_names:
-                                wf_school_names.add(school.name)
-                                wf_schools.append(school)
+                            if team.school.name not in wf_school_names:
+                                wf_school_names.add(team.school.name)
+                                wf_schools.append(team.school)
 
                         if participations:
                             with markdown.section(contest.description()):

@@ -4,27 +4,27 @@
 
 ### 2000-2001 The 2001 ACM Programming Contest World Finals
 
-- #60 (#2 de México, resolvió 0) IT. Madero (Instituto Tecnológico de Ciudad Madero)
+- #60 (#2 de México, resolvió 0) IT. Madero (instituto tecnologico de ciudad madero)
 
 ### 2001-2002 The 2002 ACM Programming Contest World Finals
 
-- #57 (#2 de México, resolvió 0) Tec Madero (Instituto Tecnológico de Ciudad Madero)
+- #57 (#2 de México, resolvió 0) Tec Madero (instituto tecnologico de ciudad madero)
 
 ### 2007-2008 The 2008 ACM Programming Contest World Finals
 
-- #90 (#2 de México, resolvió 0) ITC Turing Machines (Instituto Tecnológico de Culiacán)
+- #90 (#2 de México, resolvió 0) ITC Turing Machines (instituto tecnologico de culiacan)
 
 ### 2008-2009 33rd Annual World Finals of the ACM International Collegiate Programming Contest
 
-- #49 (#1 de México, resolvió 3) Turing Machines (Instituto Tecnológico de Culiacán)
+- #49 (#1 de México, resolvió 3) Turing Machines (instituto tecnologico de culiacan)
 
 ### 2018-2019 43rd Annual World Finals of the International Collegiate Programming Contest
 
-- #63 (#1 de México, resolvió 2) #define TriLCI(404.0) :v (Instituto Tecnológico Superior del Sur de Guanajuato)
+- #63 (#1 de México, resolvió 2) #define TriLCI(404.0) :v (instituto tecnologico superior del sur de guanajuato)
 
 ### 2019-2020 The ICPC World Finals Invitational Contest
 
-- #53 (#3 de México, resolvió 2) #define TriLCI(404.0) :v (Instituto Tecnológico Superior del Sur de Guanajuato)
+- #53 (#3 de México, resolvió 2) #define TriLCI(404.0) :v (instituto tecnologico superior del sur de guanajuato)
 
 
 ## Mejores 5 en el regional de México

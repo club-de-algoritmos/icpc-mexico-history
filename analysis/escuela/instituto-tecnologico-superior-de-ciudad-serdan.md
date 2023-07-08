@@ -1,4 +1,4 @@
-# Instituto Tecnológico Superior De Ciudad Serdán
+# Instituto Tecnológico Superior de Ciudad Serdán
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 

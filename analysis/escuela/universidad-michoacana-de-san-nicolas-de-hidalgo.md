@@ -1,4 +1,4 @@
-# Universidad Michoacana De San Nicolás De Hidalgo
+# Universidad Michoacana de San Nicolás de Hidalgo
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 

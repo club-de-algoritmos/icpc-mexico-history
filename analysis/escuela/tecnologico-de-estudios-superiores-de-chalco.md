@@ -1,4 +1,4 @@
-# Tecnológico De Estudios Superiores De Chalco
+# Tecnológico de Estudios Superiores de Chalco
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 

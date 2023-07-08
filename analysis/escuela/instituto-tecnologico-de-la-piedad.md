@@ -1,4 +1,4 @@
-# Instituto Tecnológico De La Piedad
+# Instituto Tecnológico de La Piedad
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 

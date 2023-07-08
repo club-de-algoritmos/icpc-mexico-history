@@ -1,4 +1,4 @@
-# Instituto Tecnologico De San Luis Potosi
+# Instituto Tecnológico de San Luis Potosí
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 

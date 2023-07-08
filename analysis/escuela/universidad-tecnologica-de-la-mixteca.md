@@ -1,4 +1,4 @@
-# Universidad Tecnológica De La Mixteca
+# Universidad Tecnológica de la Mixteca
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 

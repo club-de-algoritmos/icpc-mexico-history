@@ -1,4 +1,4 @@
-# Tecnm Campus Villa La Venta
+# TecNM Campus Villa La Venta
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 

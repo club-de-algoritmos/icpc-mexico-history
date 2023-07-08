@@ -1,4 +1,4 @@
-# Instituto Tecnológico Superior De Puerto Vallarta
+# Instituto Tecnológico Superior de Puerto Vallarta
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 

@@ -1,4 +1,4 @@
-# Tecnm Instituto Tecnológico De Ocotlán
+# TecNM Instituto Tecnológico de Ocotlán
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 

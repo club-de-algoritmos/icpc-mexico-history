@@ -1,4 +1,4 @@
-# Unidad Profesional Interdisciplinaria En Ingeniería Y Tecnologías Avanzadas Del Instituto Politécnico Nacional
+# Unidad Profesional Interdisciplinaria en Ingeniería y Tecnologías Avanzadas del Instituto Politécnico Nacional
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 

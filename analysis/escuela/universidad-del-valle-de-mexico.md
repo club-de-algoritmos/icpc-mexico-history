@@ -1,4 +1,4 @@
-# Universidad Del Valle De México
+# Universidad del Valle de México
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 

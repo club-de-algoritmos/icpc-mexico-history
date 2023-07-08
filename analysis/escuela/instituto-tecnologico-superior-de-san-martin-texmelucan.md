@@ -1,4 +1,4 @@
-# Instituto Tecnologico Superior De San Martin Texmelucan
+# Instituto Tecnologico Superior de San Martin Texmelucan
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 

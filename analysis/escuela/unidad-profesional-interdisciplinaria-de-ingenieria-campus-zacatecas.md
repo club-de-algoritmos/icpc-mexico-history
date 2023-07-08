@@ -1,4 +1,4 @@
-# Unidad Profesional Interdisciplinaria De Ingenieria Campus Zacatecas
+# Unidad Profesional Interdisciplinaria de Ingenieria Campus Zacatecas
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 

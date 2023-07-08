@@ -1,4 +1,4 @@
-# Universidad Autonoma De Yucatan - Facultad De Matemáticas
+# Universidad Autonoma de Yucatan - Facultad de Matemáticas
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 

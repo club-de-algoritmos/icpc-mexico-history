@@ -1,4 +1,4 @@
-# Instituto De Investigaciones En Matemáticas Aplicadas Y En Sistemas-Universidad Nacional Autónoma De México
+# Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas-Universidad Nacional Autónoma de México
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 

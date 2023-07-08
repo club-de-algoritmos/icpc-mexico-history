@@ -1,6 +1,6 @@
 [
   {
-    "name": "benemerita universidad autonoma de puebla",
+    "name": "Benemérita Universidad Autónoma de Puebla",
     "alt_names": [
       "buap facultad de ciencias de la computacion"
     ],
@@ -10,7 +10,7 @@
     "is_eligible": true
   },
   {
-    "name": "bina nusantara university",
+    "name": "Bina Nusantara University",
     "alt_names": [],
     "community": null,
     "country": null,
@@ -146,7 +146,7 @@
     "is_eligible": true
   },
   {
-    "name": "escuela preparatoria 5 universidad de guadalajara",
+    "name": "Escuela Preparatoria 5 Universidad de Guadalajara",
     "alt_names": [],
     "community": null,
     "country": "mexico",
@@ -186,7 +186,7 @@
     "is_eligible": true
   },
   {
-    "name": "faculdade metropolitana de belo horizonte",
+    "name": "Faculdade Metropolitana de Belo Horizonte",
     "alt_names": [],
     "community": null,
     "country": "brazil",
@@ -290,14 +290,6 @@
     "is_eligible": true
   },
   {
-    "name": "instituto tecnologico autonomo de mexico",
-    "alt_names": [],
-    "community": null,
-    "country": "mexico",
-    "state": null,
-    "is_eligible": true
-  },
-  {
     "name": "Instituto Tecnologico de Acapulco",
     "alt_names": [],
     "community": "Tecnologico Nacional de Mexico",
@@ -340,17 +332,6 @@
   {
     "name": "Instituto Tecnologico de Celaya",
     "alt_names": [],
-    "community": "Tecnologico Nacional de Mexico",
-    "country": "mexico",
-    "state": null,
-    "is_eligible": true
-  },
-  {
-    "name": "instituto tecnologico de comitan",
-    "alt_names": [
-      "tec. de comitan.",
-      "instituto technologico de comitan"
-    ],
     "community": "Tecnologico Nacional de Mexico",
     "country": "mexico",
     "state": null,
@@ -457,24 +438,6 @@
     "alt_names": [],
     "community": "Tecnologico Nacional de Mexico",
     "country": "mexico",
-    "state": null,
-    "is_eligible": true
-  },
-  {
-    "name": "instituto tecnologico de san luis potosi",
-    "alt_names": [
-      "institutuo technologico de san luis potosi"
-    ],
-    "community": null,
-    "country": "mexico",
-    "state": null,
-    "is_eligible": true
-  },
-  {
-    "name": "instituto tecnologico de santo domingo",
-    "alt_names": [],
-    "community": null,
-    "country": "dominican republic",
     "state": null,
     "is_eligible": true
   },
@@ -607,16 +570,6 @@
     "is_eligible": true
   },
   {
-    "name": "instituto tecnologico superior de irapuato",
-    "alt_names": [
-      "instituto tecnologioco superior de irapuato"
-    ],
-    "community": null,
-    "country": "mexico",
-    "state": null,
-    "is_eligible": true
-  },
-  {
     "name": "Instituto Tecnologico Superior de Jerez",
     "alt_names": [],
     "community": "Tecnologico Nacional de Mexico",
@@ -636,16 +589,6 @@
     "name": "INSTITUTO TECNOLOGICO SUPERIOR DE JUAN RODRIGUEZ CLARA",
     "alt_names": [],
     "community": "Tecnologico Nacional de Mexico",
-    "country": "mexico",
-    "state": null,
-    "is_eligible": true
-  },
-  {
-    "name": "instituto tecnologico superior de la region de los llanos",
-    "alt_names": [
-      "instituto tecnolãgico superior de la regiãn de los llanos"
-    ],
-    "community": null,
     "country": "mexico",
     "state": null,
     "is_eligible": true
@@ -718,16 +661,6 @@
     "name": "INSTITUTO TECNOLOGICO SUPERIOR DE PANUCO",
     "alt_names": [],
     "community": "Tecnologico Nacional de Mexico",
-    "country": "mexico",
-    "state": null,
-    "is_eligible": true
-  },
-  {
-    "name": "instituto tecnologico superior de poza rica",
-    "alt_names": [
-      "insituto tecnologico superior de poza rica"
-    ],
-    "community": null,
     "country": "mexico",
     "state": null,
     "is_eligible": true
@@ -832,6 +765,14 @@
     "name": "Instituto Tecnologico Superior Zacatecas Norte",
     "alt_names": [],
     "community": "Tecnologico Nacional de Mexico",
+    "country": "mexico",
+    "state": null,
+    "is_eligible": true
+  },
+  {
+    "name": "Instituto Tecnológico Autónomo de México",
+    "alt_names": [],
+    "community": null,
     "country": "mexico",
     "state": null,
     "is_eligible": true
@@ -959,6 +900,17 @@
   {
     "name": "Instituto Tecnológico de Colima",
     "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "country": "mexico",
+    "state": null,
+    "is_eligible": true
+  },
+  {
+    "name": "Instituto Tecnológico de Comitán",
+    "alt_names": [
+      "tec. de comitan.",
+      "instituto technologico de comitan"
+    ],
     "community": "Tecnologico Nacional de Mexico",
     "country": "mexico",
     "state": null,
@@ -1165,10 +1117,28 @@
     "is_eligible": true
   },
   {
+    "name": "Instituto Tecnológico de San Luis Potosí",
+    "alt_names": [
+      "institutuo technologico de san luis potosi"
+    ],
+    "community": null,
+    "country": "mexico",
+    "state": null,
+    "is_eligible": true
+  },
+  {
     "name": "Instituto Tecnológico de San Marcos",
     "alt_names": [],
     "community": "Tecnologico Nacional de Mexico",
     "country": "mexico",
+    "state": null,
+    "is_eligible": true
+  },
+  {
+    "name": "Instituto Tecnológico de Santo Domingo",
+    "alt_names": [],
+    "community": null,
+    "country": "dominican republic",
     "state": null,
     "is_eligible": true
   },
@@ -1493,6 +1463,16 @@
     "is_eligible": true
   },
   {
+    "name": "Instituto Tecnológico Superior de Irapuato",
+    "alt_names": [
+      "instituto tecnologioco superior de irapuato"
+    ],
+    "community": null,
+    "country": "mexico",
+    "state": null,
+    "is_eligible": true
+  },
+  {
     "name": "Instituto Tecnológico Superior de Irapuato Campus Purísima del Rincon",
     "alt_names": [],
     "community": "Tecnologico Nacional de Mexico",
@@ -1512,6 +1492,16 @@
     "name": "Instituto Tecnológico Superior de la Montaña",
     "alt_names": [],
     "community": "Tecnologico Nacional de Mexico",
+    "country": "mexico",
+    "state": null,
+    "is_eligible": true
+  },
+  {
+    "name": "Instituto Tecnológico Superior de la Región de los Llanos",
+    "alt_names": [
+      "instituto tecnolãgico superior de la regiãn de los llanos"
+    ],
+    "community": null,
     "country": "mexico",
     "state": null,
     "is_eligible": true
@@ -1576,6 +1566,16 @@
     "name": "Instituto Tecnológico Superior de Nuevo Casas Grandes",
     "alt_names": [],
     "community": "Tecnologico Nacional de Mexico",
+    "country": "mexico",
+    "state": null,
+    "is_eligible": true
+  },
+  {
+    "name": "Instituto Tecnológico Superior de Poza Rica",
+    "alt_names": [
+      "insituto tecnologico superior de poza rica"
+    ],
+    "community": null,
     "country": "mexico",
     "state": null,
     "is_eligible": true
@@ -2325,14 +2325,6 @@
     "is_eligible": true
   },
   {
-    "name": "universidad autonoma de occidente",
-    "alt_names": [],
-    "community": null,
-    "country": "mexico",
-    "state": "sinaloa",
-    "is_eligible": true
-  },
-  {
     "name": "Universidad Autonoma de Tamaulipas UAM Mante",
     "alt_names": [],
     "community": null,
@@ -2426,6 +2418,14 @@
     "community": null,
     "country": "mexico",
     "state": null,
+    "is_eligible": true
+  },
+  {
+    "name": "Universidad Autónoma de Occidente",
+    "alt_names": [],
+    "community": null,
+    "country": "mexico",
+    "state": "sinaloa",
     "is_eligible": true
   },
   {
@@ -2533,7 +2533,7 @@
     "is_eligible": true
   },
   {
-    "name": "universidad central \"marta abreu\" de las villas",
+    "name": "Universidad Central \"Marta Abreu\" de Las Villas",
     "alt_names": [],
     "community": null,
     "country": "cuba",
@@ -2637,7 +2637,7 @@
     "is_eligible": true
   },
   {
-    "name": "universidad de guadalajara cucei",
+    "name": "Universidad de Guadalajara CUCEI",
     "alt_names": [
       "universidad de guadalajara"
     ],
@@ -2711,7 +2711,7 @@
     "is_eligible": true
   },
   {
-    "name": "universidad de guanajuato - cimat",
+    "name": "Universidad de Guanajuato - CIMAT",
     "alt_names": [
       "universidad de guanajuato",
       "universidad de guanajuato - dcne"
@@ -2882,7 +2882,7 @@
     "is_eligible": true
   },
   {
-    "name": "universidad de pinar del rio",
+    "name": "Universidad de Pinar del Río",
     "alt_names": [],
     "community": null,
     "country": "cuba",
@@ -3122,14 +3122,6 @@
     "is_eligible": true
   },
   {
-    "name": "universidad nacional autonoma de nicaragua, managua",
-    "alt_names": [],
-    "community": null,
-    "country": "nicaragua",
-    "state": null,
-    "is_eligible": true
-  },
-  {
     "name": "Universidad Nacional Autónoma de México",
     "alt_names": [],
     "community": null,
@@ -3138,10 +3130,10 @@
     "is_eligible": true
   },
   {
-    "name": "universidad nacional de cordoba - famaf",
+    "name": "Universidad Nacional Autónoma de Nicaragua, Managua",
     "alt_names": [],
     "community": null,
-    "country": "argentina",
+    "country": "nicaragua",
     "state": null,
     "is_eligible": true
   },
@@ -3162,7 +3154,15 @@
     "is_eligible": true
   },
   {
-    "name": "universidad nacional de ingenieria - fc",
+    "name": "Universidad Nacional de Córdoba - FAMAF",
+    "alt_names": [],
+    "community": null,
+    "country": "argentina",
+    "state": null,
+    "is_eligible": true
+  },
+  {
+    "name": "Universidad Nacional de Ingeniería - FC",
     "alt_names": [],
     "community": null,
     "country": "peru",

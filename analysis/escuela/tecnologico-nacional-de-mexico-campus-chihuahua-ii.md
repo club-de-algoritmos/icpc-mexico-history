@@ -1,4 +1,4 @@
-# Tecnologico Nacional De Mexico Campus Chihuahua Ii
+# Tecnologico Nacional de Mexico Campus Chihuahua II
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 

@@ -1,4 +1,4 @@
-# Tecnm Instituto Tecnologico De Apizaco
+# TecNM INSTITUTO TECNOLOGICO DE APIZACO
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 

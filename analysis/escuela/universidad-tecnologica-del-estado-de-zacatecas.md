@@ -1,4 +1,4 @@
-# Universidad Tecnologica Del Estado De Zacatecas
+# Universidad Tecnologica del Estado de Zacatecas
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 

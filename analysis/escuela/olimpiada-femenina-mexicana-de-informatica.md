@@ -1,4 +1,4 @@
-# Olimpiada Femenina Mexicana De Informatica
+# Olimpiada Femenina Mexicana de Informatica
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 

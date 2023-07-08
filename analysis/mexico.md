@@ -34,7 +34,7 @@
 ### 2002-2003 The 2003 ACM Programming Contest World Finals
 
 - #56 (#1 de México, resolvió 0) Los Novatos (Universidad de las Americas-Puebla)
-- #56 (#1 de México, resolvió 0) Mandelbrot (universidad de guanajuato - cimat)
+- #56 (#1 de México, resolvió 0) Mandelbrot (Universidad de Guanajuato - CIMAT)
 
 ### 2003-2004 The 2004 ACM Programming Contest World Finals
 
@@ -43,7 +43,7 @@
 
 ### 2004-2005 The 2005 ACM Programming Contest World Finals
 
-- #69 (#1 de México, resolvió 2) BUA de Puebla - Los Alfalfas (benemerita universidad autonoma de puebla)
+- #69 (#1 de México, resolvió 2) BUA de Puebla - Los Alfalfas (Benemérita Universidad Autónoma de Puebla)
 - #74 (#2 de México, resolvió 1) UTMixteca Poor Dogs (Universidad Tecnológica de la Mixteca)
 
 ### 2005-2006 The 2006 ACM Programming Contest World Finals
@@ -53,14 +53,14 @@
 
 ### 2006-2007 The 2007 ACM Programming Contest World Finals
 
-- #86 (#1 de México, resolvió 0) Death Match (benemerita universidad autonoma de puebla)
+- #86 (#1 de México, resolvió 0) Death Match (Benemérita Universidad Autónoma de Puebla)
 - #86 (#1 de México, resolvió 0) Poor Dogs (Universidad Tecnológica de la Mixteca)
 
 ### 2007-2008 The 2008 ACM Programming Contest World Finals
 
-- #65 (#1 de México, resolvió 2) U de G ACM Problem Solvers (universidad de guadalajara cucei)
+- #65 (#1 de México, resolvió 2) U de G ACM Problem Solvers (Universidad de Guadalajara CUCEI)
 - #90 (#2 de México, resolvió 0) ITC Turing Machines (Instituto Tecnológico de Culiacán)
-- #90 (#2 de México, resolvió 0) U de Guanajuato Hausdorff (universidad de guanajuato - cimat)
+- #90 (#2 de México, resolvió 0) U de Guanajuato Hausdorff (Universidad de Guanajuato - CIMAT)
 
 ### 2008-2009 33rd Annual World Finals of the ACM International Collegiate Programming Contest
 
@@ -71,15 +71,15 @@
 ### 2009-2010 34th Annual World Finals of the ACM International Collegiate Programming Contest
 
 - #76 (#1 de México, resolvió 2) ITESM Queretaro Los punteros (ITESM Campus Queretaro)
-- #77 (#2 de México, resolvió 2) U Guanajuato Hausdorff (universidad de guanajuato - cimat)
+- #77 (#2 de México, resolvió 2) U Guanajuato Hausdorff (Universidad de Guanajuato - CIMAT)
 
 ### 2010-2011 35th Annual World Finals of the ACM International Collegiate Programming Contest
 
-- #74 (#1 de México, resolvió 2) Manowar (universidad de guanajuato - cimat)
+- #74 (#1 de México, resolvió 2) Manowar (Universidad de Guanajuato - CIMAT)
 
 ### 2011-2012 36th Annual World Finals of the ACM International Collegiate Programming Contest
 
-- #80 (#1 de México, resolvió 2) Manowar (universidad de guanajuato - cimat)
+- #80 (#1 de México, resolvió 2) Manowar (Universidad de Guanajuato - CIMAT)
 - #101 (#2 de México, resolvió 1) Justice League (Universidad Tecnológica de la Mixteca)
 - #101 (#2 de México, resolvió 1) C_mita (ITESM Campus Puebla)
 
@@ -102,13 +102,13 @@
 
 ### 2015-2016 40th Annual World Finals of the ACM International Collegiate Programming Contest
 
-- #69 (#1 de México, resolvió 4) Los Románticos (instituto tecnologico autonomo de mexico)
+- #69 (#1 de México, resolvió 4) Los Románticos (Instituto Tecnológico Autónomo de México)
 - #92 (#2 de México, resolvió 3) La Carabina del AC (Escuela Superior De Computo Instituto Politecnico Nacional)
 - #107 (#3 de México, resolvió 2) HaKings (ITESM Campus Monterrey)
 
 ### 2016-2017 41st Annual World Finals of the ACM International Collegiate Programming Contest
 
-- #56 (#1 de México, resolvió 4) Los Románticos (instituto tecnologico autonomo de mexico)
+- #56 (#1 de México, resolvió 4) Los Románticos (Instituto Tecnológico Autónomo de México)
 - #57 (#2 de México, resolvió 3) PU++ (Facultad de Ciencias-Universidad Nacional Autónoma de México)
 - #57 (#2 de México, resolvió 3) Los A´S (Universidad Autónoma de Nuevo Leon)
 
@@ -121,13 +121,13 @@
 ### 2018-2019 43rd Annual World Finals of the International Collegiate Programming Contest
 
 - #63 (#1 de México, resolvió 2) lA_Criba de ceros y unos (Escuela Superior De Computo Instituto Politecnico Nacional)
-- #63 (#1 de México, resolvió 2) The Beat Alls (instituto tecnologico autonomo de mexico)
+- #63 (#1 de México, resolvió 2) The Beat Alls (Instituto Tecnológico Autónomo de México)
 - #63 (#1 de México, resolvió 2) Legendary Grandpupils (ITESM Campus Monterrey)
 - #63 (#1 de México, resolvió 2) #define TriLCI(404.0) :v (Instituto Tecnológico Superior del Sur de Guanajuato)
 
 ### 2019-2020 44th Annual World Finals of the International Collegiate Programming Contest
 
-- #47 (#1 de México) E3 (universidad de guanajuato - cimat)
+- #47 (#1 de México) E3 (Universidad de Guanajuato - CIMAT)
 - #47 (#1 de México) UPsolving (Universidad Panamericana Campus Bonaterra)
 
 ### 2019-2020 The ICPC World Finals Invitational Contest
@@ -139,18 +139,18 @@
 ### 2020-2021 45th Annual World Finals of the International Collegiate Programming Contest
 
 - #41 (#1 de México, resolvió 5) UPsolving (Universidad Panamericana Campus Bonaterra)
-- #51 (#2 de México, resolvió 3) Leones(0,0,0) (universidad de guadalajara cucei)
+- #51 (#2 de México, resolvió 3) Leones(0,0,0) (Universidad de Guadalajara CUCEI)
 - #51 (#2 de México, resolvió 2) Legendary Grand Newbies (ITESM Campus Monterrey)
-- #51 (#2 de México, resolvió 2) FoundTheBug.ItsMe (instituto tecnologico autonomo de mexico)
+- #51 (#2 de México, resolvió 2) FoundTheBug.ItsMe (Instituto Tecnológico Autónomo de México)
 
 
 ## Equipos sobresalientes
 
-1. _PU++_ (Facultad De Ciencias-Universidad Nacional Autónoma De México) resolvió 5 problemas y obtuvo el lugar #31 (78%) en 42nd Annual World Finals of the International Collegiate Programming Contest
+1. _PU++_ (Facultad de Ciencias-Universidad Nacional Autónoma de México) resolvió 5 problemas y obtuvo el lugar #31 (78%) en 42nd Annual World Finals of the International Collegiate Programming Contest
 1. _UPsolving_ (Universidad Panamericana Campus Bonaterra) resolvió 5 problemas y obtuvo el lugar #41 (69%) en 45th Annual World Finals of the International Collegiate Programming Contest
 1. _Los Chidory_ (Universidad Panamericana Campus Bonaterra) resolvió 2 problemas y obtuvo el lugar #45 (64%) en 38th Annual World Finals of the ACM International Collegiate Programming Contest
-1. _Los Románticos_ (Instituto Tecnologico Autonomo De Mexico) resolvió 4 problemas y obtuvo el lugar #56 (58%) en 41st Annual World Finals of the ACM International Collegiate Programming Contest
-1. _Turing Machines_ (Instituto Tecnológico De Culiacán) resolvió 3 problemas y obtuvo el lugar #49 (52%) en 33rd Annual World Finals of the ACM International Collegiate Programming Contest
+1. _Los Románticos_ (Instituto Tecnológico Autónomo de México) resolvió 4 problemas y obtuvo el lugar #56 (58%) en 41st Annual World Finals of the ACM International Collegiate Programming Contest
+1. _Turing Machines_ (Instituto Tecnológico de Culiacán) resolvió 3 problemas y obtuvo el lugar #49 (52%) en 33rd Annual World Finals of the ACM International Collegiate Programming Contest
 
 
 # Participaciones
@@ -193,40 +193,40 @@
 
 | # | Escuela | Finales mundiales | Regionales | Clasificatorios | Total |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Facultad De Ciencias-Universidad Nacional Autónoma De México | 3 | 14 | 72 | 73 |
-| 2 | Instituto Tecnologico Autonomo De Mexico | 3 | 9 | 27 | 27 |
+| 1 | Facultad de Ciencias-Universidad Nacional Autónoma de México | 3 | 14 | 72 | 73 |
+| 2 | Instituto Tecnológico Autónomo de México | 3 | 9 | 27 | 27 |
 | 3 | Escuela Superior De Computo Instituto Politecnico Nacional | 2 | 27 | 155 | 157 |
-| 4 | Itesm Campus Monterrey | 2 | 23 | 278 | 279 |
+| 4 | ITESM Campus Monterrey | 2 | 23 | 278 | 279 |
 | 5 | Universidad Panamericana Campus Bonaterra | 2 | 17 | 77 | 77 |
-| 6 | Instituto Tecnológico Superior Del Sur De Guanajuato | 2 | 14 | 176 | 176 |
-| 7 | Universidad Autónoma De Nuevo Leon | 2 | 12 | 76 | 76 |
-| 8 | Universidad De Guanajuato - Cimat | 1 | 20 | 51 | 51 |
-| 9 | Universidad De Guadalajara Cucei | 1 | 16 | 118 | 118 |
-| 10 | Itesm Campus Queretaro | 1 | 7 | 28 | 29 |
+| 6 | Instituto Tecnológico Superior del Sur de Guanajuato | 2 | 14 | 176 | 176 |
+| 7 | Universidad Autónoma de Nuevo Leon | 2 | 12 | 76 | 76 |
+| 8 | Universidad de Guanajuato - CIMAT | 1 | 20 | 51 | 51 |
+| 9 | Universidad de Guadalajara CUCEI | 1 | 16 | 118 | 118 |
+| 10 | ITESM Campus Queretaro | 1 | 7 | 28 | 29 |
 
 ## Histórico
 
 | # | Escuela | Finales mundiales | Regionales | Clasificatorios | Total |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Itesm Campus Monterrey | 10 | 89 | 297 | 361 |
+| 1 | ITESM Campus Monterrey | 10 | 89 | 297 | 361 |
 | 2 | Escuela Superior De Computo Instituto Politecnico Nacional | 6 | 65 | 176 | 211 |
-| 3 | Universidad De Guanajuato - Cimat | 6 | 57 | 65 | 96 |
-| 4 | Universidad Tecnológica De La Mixteca | 5 | 43 | 35 | 72 |
-| 5 | Instituto Tecnologico Autonomo De Mexico | 4 | 37 | 33 | 58 |
+| 3 | Universidad de Guanajuato - CIMAT | 6 | 57 | 65 | 96 |
+| 4 | Universidad Tecnológica de la Mixteca | 5 | 43 | 35 | 72 |
+| 5 | Instituto Tecnológico Autónomo de México | 4 | 37 | 33 | 58 |
 | 6 | Universidad Panamericana Campus Bonaterra | 4 | 33 | 90 | 103 |
-| 7 | Universidad De Las Americas-Puebla | 4 | 23 | 0 | 25 |
-| 8 | Facultad De Ciencias-Universidad Nacional Autónoma De México | 3 | 17 | 75 | 76 |
-| 9 | Universidad De Guadalajara Cucei | 2 | 71 | 142 | 195 |
-| 10 | Itesm Campus Queretaro | 2 | 68 | 33 | 94 |
-| 11 | Universidad Autónoma De Nuevo Leon | 2 | 54 | 80 | 120 |
-| 12 | Universidad Autónoma De Aguascalientes | 2 | 39 | 90 | 115 |
-| 13 | Benemerita Universidad Autonoma De Puebla | 2 | 37 | 15 | 51 |
-| 14 | Instituto Tecnológico De Ciudad Madero | 2 | 34 | 43 | 76 |
-| 15 | Itesm Campus Estado De Mexico | 2 | 27 | 87 | 102 |
-| 16 | Instituto Tecnológico Superior Del Sur De Guanajuato | 2 | 25 | 194 | 202 |
-| 17 | Instituto Tecnológico De Culiacán | 2 | 17 | 39 | 53 |
-| 18 | Universidad Autónoma De Tlaxcala | 1 | 35 | 41 | 76 |
-| 19 | Itesm Campus Puebla | 1 | 22 | 57 | 69 |
-| 20 | Universidad Juárez Autónoma De Tabasco | 1 | 0 | 0 | 1 |
+| 7 | Universidad de las Americas-Puebla | 4 | 23 | 0 | 25 |
+| 8 | Facultad de Ciencias-Universidad Nacional Autónoma de México | 3 | 17 | 75 | 76 |
+| 9 | Universidad de Guadalajara CUCEI | 2 | 71 | 142 | 195 |
+| 10 | ITESM Campus Queretaro | 2 | 68 | 33 | 94 |
+| 11 | Universidad Autónoma de Nuevo Leon | 2 | 54 | 80 | 120 |
+| 12 | Universidad Autónoma de Aguascalientes | 2 | 39 | 90 | 115 |
+| 13 | Benemérita Universidad Autónoma de Puebla | 2 | 37 | 15 | 51 |
+| 14 | Instituto Tecnológico de Ciudad Madero | 2 | 34 | 43 | 76 |
+| 15 | ITESM Campus Estado de Mexico | 2 | 27 | 87 | 102 |
+| 16 | Instituto Tecnológico Superior del Sur de Guanajuato | 2 | 25 | 194 | 202 |
+| 17 | Instituto Tecnológico de Culiacán | 2 | 17 | 39 | 53 |
+| 18 | Universidad Autónoma de Tlaxcala | 1 | 35 | 41 | 76 |
+| 19 | ITESM Campus Puebla | 1 | 22 | 57 | 69 |
+| 20 | Universidad Juárez Autónoma de Tabasco | 1 | 0 | 0 | 1 |
 
 

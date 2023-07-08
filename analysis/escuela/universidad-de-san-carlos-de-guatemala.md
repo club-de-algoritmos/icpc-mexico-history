@@ -1,4 +1,4 @@
-# Universidad De San Carlos De Guatemala
+# Universidad de San Carlos de Guatemala
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 

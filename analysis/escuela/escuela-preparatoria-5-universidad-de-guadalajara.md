@@ -1,4 +1,4 @@
-# Escuela Preparatoria 5 Universidad De Guadalajara
+# Escuela Preparatoria 5 Universidad de Guadalajara
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 

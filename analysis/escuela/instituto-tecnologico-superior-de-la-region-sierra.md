@@ -1,4 +1,4 @@
-# Instituto Tecnológico Superior De La Región Sierra
+# Instituto Tecnológico Superior de la Región Sierra
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 

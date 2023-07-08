@@ -1,4 +1,4 @@
-# Olimpiada Mexicana De Informatica En Jalisco
+# Olimpiada Mexicana de Informatica en Jalisco
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 

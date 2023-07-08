@@ -164,7 +164,7 @@ class Analyzer:
                 if state and state != team.school.state:
                     continue
 
-                stat = school_stats[team.school.name.title()]
+                stat = school_stats[team.school.name]
                 if team.world_result:
                     stat[0] += 1
                 if team.regional_result:
@@ -178,14 +178,14 @@ class Analyzer:
                                 reverse=True)
         rank = 0
         school_table = []
-        for school, stats in school_ranking:
+        for school_name, stats in school_ranking:
             if contest_type == ContestType.WORLD and not stats[0]:
                 continue
             if contest_type == ContestType.REGIONAL and not (stats[0] + stats[1]):
                 continue
 
             rank += 1
-            school_table.append([str(rank), school] + list(map(str, stats)))
+            school_table.append([str(rank), school_name] + list(map(str, stats)))
 
         with markdown.section(title):
             markdown.table(['#', 'Escuela', 'Finales mundiales', 'Regionales', 'Clasificatorios', 'Total'],
@@ -266,7 +266,7 @@ class Analyzer:
     def _analyze_school(self, school: School) -> None:
         filename = f'{normalize_as_filename(normalize_school_name(school.name))}.md'
         with MarkdownFile(self._get_filename('escuela', filename)) as markdown:
-            with markdown.section(school.name.title()):
+            with markdown.section(school.name):
                 if school.country == MEXICO:
                     markdown.paragraph(':warning: Equipos que solo participaron en el Repechaje del '
                                        'Gran Premio de México no están registrados oficialmente en el ICPC, '
@@ -308,7 +308,7 @@ class Analyzer:
 
         with markdown.section(title):
             for team in teams:
-                school_str = f' ({team.school.name.title()})' if display_school else ''
+                school_str = f' ({team.school.name})' if display_school else ''
                 top_result = team.regional_result or team.qualifier_result
                 if top_result and not display_world_only:
                     markdown.numbered_bullet_point(
@@ -338,7 +338,7 @@ class Analyzer:
 
         with markdown.section(title):
             for team in teams:
-                school_str = f' ({team.school.name.title()})' if display_school else ''
+                school_str = f' ({team.school.name})' if display_school else ''
                 regional_result = team.regional_result or team.qualifier_result
                 if regional_result:
                     community_rank = ''

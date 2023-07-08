@@ -1,4 +1,4 @@
-# Olimpiada De Informatica De La Ciudad De Mexico
+# Olimpiada de Informatica de la Ciudad de Mexico
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 

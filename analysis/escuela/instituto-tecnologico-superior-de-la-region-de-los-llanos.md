@@ -1,4 +1,4 @@
-# Instituto Tecnologico Superior De La Region De Los Llanos
+# Instituto Tecnológico Superior de la Región de los Llanos
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 

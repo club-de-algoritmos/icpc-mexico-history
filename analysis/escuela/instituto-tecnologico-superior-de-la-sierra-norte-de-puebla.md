@@ -1,4 +1,4 @@
-# Instituto Tecnologico Superior De La Sierra Norte De Puebla
+# INSTITUTO TECNOLOGICO SUPERIOR DE LA SIERRA NORTE DE PUEBLA
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 

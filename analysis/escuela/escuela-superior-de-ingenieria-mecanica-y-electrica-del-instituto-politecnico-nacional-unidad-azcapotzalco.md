@@ -1,4 +1,4 @@
-# Escuela Superior De Ingeniería Mecánica Y Eléctrica Del Instituto Politécnico Nacional Unidad Azcapotzalco
+# Escuela Superior de Ingeniería Mecánica y Eléctrica del Instituto Politécnico Nacional Unidad Azcapotzalco
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 

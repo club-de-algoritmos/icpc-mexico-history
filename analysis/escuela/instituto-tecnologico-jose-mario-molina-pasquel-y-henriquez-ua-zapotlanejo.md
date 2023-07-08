@@ -1,4 +1,4 @@
-# Instituto Tecnológico José Mario Molina Pasquel Y Henríquez Ua Zapotlanejo
+# Instituto Tecnológico José Mario Molina Pasquel y Henríquez UA Zapotlanejo
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 

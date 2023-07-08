@@ -1,4 +1,4 @@
-# Instituto Tecnológico Superior De Irapuato Campus Purísima Del Rincon
+# Instituto Tecnológico Superior de Irapuato Campus Purísima del Rincon
 
 :warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
 

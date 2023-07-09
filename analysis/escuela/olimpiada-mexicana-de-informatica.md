@@ -1,7 +1,5 @@
 # Olimpiada Mexicana de Informática
 
-:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
-
 ## Mejores 10 equipos
 
 1. _Campeones OMI 2019_ resolvió 0 problemas y obtuvo el lugar #54 (96%) en The 2019 ICPC Mexico Finals

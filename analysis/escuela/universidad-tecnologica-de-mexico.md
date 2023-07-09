@@ -1,7 +1,5 @@
 # Universidad Tecnológica de México
 
-:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
-
 ## Mejores 10 equipos
 
 1. _Equis V.2.0_ resolvió 2 problemas y obtuvo el lugar #25 (79%) en The 2004 ACM Mexico and Central America Programming Contest

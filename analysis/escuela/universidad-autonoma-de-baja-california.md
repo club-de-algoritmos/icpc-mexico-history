@@ -1,7 +1,5 @@
 # Universidad Autónoma de Baja California
 
-:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
-
 ## Mejores 10 equipos
 
 1. _CIMACODERS_ resolvió 1 problemas y obtuvo el lugar #201 (58%) en The 2021 ICPC Gran Premio de Mexico

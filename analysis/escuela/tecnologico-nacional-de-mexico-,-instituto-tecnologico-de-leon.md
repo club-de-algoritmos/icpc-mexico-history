@@ -1,7 +1,5 @@
 # Tecnológico Nacional de México , Instituto Tecnológico de León
 
-:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
-
 ## Mejores 10 equipos
 
 1. _ITL-1_ resolvió 2 problemas y obtuvo el lugar #43 (87%) en The 2015 ACM-ICPC Mexico and Central America Finals

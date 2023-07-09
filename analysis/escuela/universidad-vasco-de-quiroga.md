@@ -1,7 +1,5 @@
 # Universidad Vasco de Quiroga
 
-:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
-
 ## Mejores 10 equipos
 
 1. _Javangelists_ resolvió 3 problemas y obtuvo el lugar #35 (83%) en The 2010 Mexico & Central America Regional Contest

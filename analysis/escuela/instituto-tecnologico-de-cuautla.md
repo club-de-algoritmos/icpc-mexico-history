@@ -1,7 +1,5 @@
 # INSTITUTO TECNOLOGICO DE CUAUTLA
 
-:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
-
 ## Mejores 10 equipos
 
 1. _Success_ resolvió 2 problemas y obtuvo el lugar #38 (77%) en The 2009 Mexico & Central America Contest

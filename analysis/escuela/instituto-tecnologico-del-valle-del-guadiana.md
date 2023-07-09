@@ -1,7 +1,5 @@
 # Instituto Tecnológico del Valle del Guadiana
 
-:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
-
 ## Mejores 10 equipos
 
 1. _ITVG_ resolvió 1 problemas y obtuvo el lugar #75 (56%) en The 2008 Mexico & Central America Contest

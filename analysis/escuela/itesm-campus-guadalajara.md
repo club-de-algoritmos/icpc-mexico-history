@@ -1,7 +1,5 @@
 # ITESM Campus Guadalajara
 
-:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
-
 ## Mejores 10 equipos
 
 1. _Borregos Salvajes_ resolvió 15 problemas y obtuvo el lugar #6 (99%) en The 2023 ICPC Gran Premio de Mexico

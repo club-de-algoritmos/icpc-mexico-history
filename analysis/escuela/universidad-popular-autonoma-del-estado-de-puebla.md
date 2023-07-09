@@ -1,7 +1,5 @@
 # Universidad Popular Autónoma del Estado de Puebla
 
-:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
-
 ## Mejores 10 equipos
 
 1. _Array of clowns_ resolvió 10 problemas y obtuvo el lugar #73 (94%) en Gran Premio de Mexico 2019

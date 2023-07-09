@@ -1,7 +1,5 @@
 # Universidad de Occidente, Unidad Culiacán
 
-:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
-
 ## Mejores 10 equipos
 
 1. _Equipo106_ resolvió 3 problemas y obtuvo el lugar #206 (84%) en Gran Premio de Mexico 2019

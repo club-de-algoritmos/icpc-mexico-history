@@ -17,6 +17,35 @@
 
 ## Participaciones
 
+### Resumen
+
+| Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos | Escuelas |
+| --- | --- | --- | --- | --- | --- |
+| **Total** | **2** | **68** | **65** | **130** | **8** |
+| 2001-2002 | 0 | 4 | 0 | 4 | 1 |
+| 2002-2003 | 0 | 7 | 0 | 7 | 1 |
+| 2003-2004 | 0 | 6 | 0 | 6 | 1 |
+| 2004-2005 | 0 | 4 | 0 | 4 | 1 |
+| 2005-2006 | 0 | 8 | 0 | 8 | 1 |
+| 2006-2007 | 0 | 12 | 0 | 12 | 2 |
+| 2007-2008 | 1 | 8 | 0 | 8 | 2 |
+| 2008-2009 | 1 | 3 | 0 | 3 | 1 |
+| 2009-2010 | 0 | 1 | 0 | 1 | 1 |
+| 2010-2011 | 0 | 2 | 0 | 2 | 1 |
+| 2011-2012 | 0 | 5 | 0 | 5 | 2 |
+| 2012-2013 | 0 | 3 | 0 | 3 | 1 |
+| 2013-2014 | 0 | 2 | 0 | 2 | 1 |
+| 2014-2015 | 0 | 1 | 6 | 6 | 1 |
+| 2015-2016 | 0 | 0 | 4 | 4 | 1 |
+| 2016-2017 | 0 | 0 | 0 | 0 | 0 |
+| 2017-2018 | 0 | 0 | 0 | 0 | 0 |
+| 2018-2019 | 0 | 0 | 8 | 8 | 2 |
+| 2019-2020 | 0 | 0 | 6 | 6 | 3 |
+| 2020-2021 | 0 | 0 | 1 | 1 | 1 |
+| 2021-2022 | 0 | 1 | 7 | 7 | 1 |
+| 2022-2023 | 0 | 1 | 15 | 15 | 3 |
+| 2023-2024 | 0 | 0 | 18 | 18 | 3 |
+
 ### 2001-2002
 
 1. #18 (#6 de ITESM) _Deth-Therion_ (ITESM Campus Mazatlán) (Regional)
@@ -213,39 +242,9 @@
 1. #457 (#136 de TecNM) _Las Llaves_ (Instituto Tecnológico de Culiacán) (Clasificatorio)
 
 
+## Ranking de escuelas
 
-# Participaciones
-
-| Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos | Escuelas |
-| --- | --- | --- | --- | --- | --- |
-| **Total** | **2** | **68** | **65** | **130** | **8** |
-| 2001-2002 | 0 | 4 | 0 | 4 | 1 |
-| 2002-2003 | 0 | 7 | 0 | 7 | 1 |
-| 2003-2004 | 0 | 6 | 0 | 6 | 1 |
-| 2004-2005 | 0 | 4 | 0 | 4 | 1 |
-| 2005-2006 | 0 | 8 | 0 | 8 | 1 |
-| 2006-2007 | 0 | 12 | 0 | 12 | 2 |
-| 2007-2008 | 1 | 8 | 0 | 8 | 2 |
-| 2008-2009 | 1 | 3 | 0 | 3 | 1 |
-| 2009-2010 | 0 | 1 | 0 | 1 | 1 |
-| 2010-2011 | 0 | 2 | 0 | 2 | 1 |
-| 2011-2012 | 0 | 5 | 0 | 5 | 2 |
-| 2012-2013 | 0 | 3 | 0 | 3 | 1 |
-| 2013-2014 | 0 | 2 | 0 | 2 | 1 |
-| 2014-2015 | 0 | 1 | 6 | 6 | 1 |
-| 2015-2016 | 0 | 0 | 4 | 4 | 1 |
-| 2016-2017 | 0 | 0 | 0 | 0 | 0 |
-| 2017-2018 | 0 | 0 | 0 | 0 | 0 |
-| 2018-2019 | 0 | 0 | 8 | 8 | 2 |
-| 2019-2020 | 0 | 0 | 6 | 6 | 3 |
-| 2020-2021 | 0 | 0 | 1 | 1 | 1 |
-| 2021-2022 | 0 | 1 | 7 | 7 | 1 |
-| 2022-2023 | 0 | 1 | 15 | 15 | 3 |
-| 2023-2024 | 0 | 0 | 18 | 18 | 3 |
-
-# Ranking de escuelas
-
-## Últimos 5 años
+### Últimos 5 años
 
 | # | Escuela | Finales mundiales | Regionales | Clasificatorios | Total |
 | --- | --- | --- | --- | --- | --- |
@@ -256,7 +255,7 @@
 | 5 | Universidad Autónoma de Occidente | 0 | 0 | 1 | 1 |
 | 6 | Tecnológico Nacional de México / Instituto Tecnológico de Mazatlán | 0 | 0 | 1 | 1 |
 
-## Histórico
+### Histórico
 
 | # | Escuela | Finales mundiales | Regionales | Clasificatorios | Total |
 | --- | --- | --- | --- | --- | --- |
@@ -268,5 +267,6 @@
 | 6 | Facultad de Informática Mazatlán UAS | 0 | 0 | 2 | 2 |
 | 7 | Universidad Autónoma de Occidente | 0 | 0 | 1 | 1 |
 | 8 | Tecnológico Nacional de México / Instituto Tecnológico de Mazatlán | 0 | 0 | 1 | 1 |
+
 
 

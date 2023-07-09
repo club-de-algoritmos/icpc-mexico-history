@@ -1,7 +1,5 @@
 # Universidad Autonoma De Baja California Sur
 
-:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
-
 ## Mejores 10 equipos
 
 1. _GATOS SALVAJES_ resolvió 1 problemas y obtuvo el lugar #60 (76%) en The 2014 ACM-ICPC Mexico and Central America Finals

@@ -1,7 +1,5 @@
 # Universidad Autónoma de Zacatecas
 
-:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
-
 ## Mejores 10 equipos
 
 1. _#include<uaz>_ resolvió 4 problemas y obtuvo el lugar #18 (98%) en The 2018 ICPC Mexico and Central America Finals

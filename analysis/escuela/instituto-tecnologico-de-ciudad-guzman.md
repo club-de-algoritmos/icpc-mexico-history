@@ -1,7 +1,5 @@
 # Instituto Tecnológico de Ciudad Guzmán
 
-:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
-
 ## Mejores 10 equipos
 
 1. _Ti-Tanis_ resolvió 1 problemas y obtuvo el lugar #51 (96%) en The 2019 ICPC Mexico Finals

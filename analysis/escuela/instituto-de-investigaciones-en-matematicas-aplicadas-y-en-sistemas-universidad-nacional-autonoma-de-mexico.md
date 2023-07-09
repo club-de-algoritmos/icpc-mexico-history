@@ -1,7 +1,5 @@
 # Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas-Universidad Nacional Autónoma de México
 
-:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
-
 ## Mejores 10 equipos
 
 1. _PumasDS_ resolvió 5 problemas y obtuvo el lugar #43 (96%) en The 2022 ICPC Gran Premio de Mexico

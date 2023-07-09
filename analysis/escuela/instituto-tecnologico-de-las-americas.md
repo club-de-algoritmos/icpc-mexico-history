@@ -1,7 +1,5 @@
 # Instituto Tecnológico de Las Américas
 
-:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
-
 ## Mejores 10 equipos
 
 1. _ITLA_ resolvió 1 problemas y obtuvo el lugar #91 (44%) en The 2009 Mexico & Central America Contest

@@ -1,7 +1,5 @@
 # Instituto Tecnologico de Cd. Juarez
 
-:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
-
 ## Mejores 10 equipos
 
 1. _TecnoTeam_ resolvió 4 problemas y obtuvo el lugar #178 (83%) en The 2022 ICPC Gran Premio de Mexico

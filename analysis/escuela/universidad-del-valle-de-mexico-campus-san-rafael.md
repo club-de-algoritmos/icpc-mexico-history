@@ -1,7 +1,5 @@
 # Universidad del Valle de Mexico Campus San Rafael
 
-:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
-
 ## Mejores 10 equipos
 
 1. _{W1LDC4TS_SR} 1_ resolvió 1 problemas y obtuvo el lugar #345 (51%) en Gran Premio de Mexico 2020

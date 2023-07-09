@@ -1,7 +1,5 @@
 # Universidad Autónoma de San Luis Potosi
 
-:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
-
 ## Mejores 10 equipos
 
 1. _!nullptr_ resolvió 4 problemas y obtuvo el lugar #7 (99%) en The 2021 ICPC Mexico Finals

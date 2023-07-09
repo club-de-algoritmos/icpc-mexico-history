@@ -1,7 +1,5 @@
 # Universidad Nacional Autónoma de México
 
-:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
-
 ## Mejores 10 equipos
 
 1. _UNAM 1_ resolvió 5 problemas y obtuvo el lugar #4 (99%) en The 2015 ACM-ICPC Mexico and Central America Finals

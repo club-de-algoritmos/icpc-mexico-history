@@ -1,7 +1,5 @@
 # Universidad de Granma - Bayamo
 
-:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
-
 ## Mejores 10 equipos
 
 1. _Granma_ resolvió 1 problemas y obtuvo el lugar #100 (39%) en The 2009 Mexico & Central America Contest

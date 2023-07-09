@@ -1,7 +1,5 @@
 # Universidad Anahuac Campus Oaxaca
 
-:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
-
 ## Mejores 10 equipos
 
 1. _JJL_ resolvió 4 problemas y obtuvo el lugar #20 (99%) en The 2019 ICPC Mexico Finals

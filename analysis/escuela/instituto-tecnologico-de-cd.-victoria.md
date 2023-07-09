@@ -1,7 +1,5 @@
 # Instituto Tecnologico de Cd. Victoria
 
-:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
-
 ## Mejores 10 equipos
 
 1. _Bash_ resolvió 1 problemas y obtuvo el lugar #94 (45%) en The 2008 Mexico & Central America Contest

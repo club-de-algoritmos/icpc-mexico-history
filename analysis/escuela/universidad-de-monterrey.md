@@ -1,7 +1,5 @@
 # Universidad de Monterrey
 
-:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
-
 ## Mejores 10 equipos
 
 1. _Equipo alfa buena maravilla onda dinamita escuadrón lobo_ resolvió 1 problemas y obtuvo el lugar #45 (96%) en The 2022 ICPC Mexico Finals

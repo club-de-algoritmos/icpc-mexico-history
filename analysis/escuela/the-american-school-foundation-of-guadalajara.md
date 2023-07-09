@@ -1,7 +1,5 @@
 # The American School Foundation of Guadalajara
 
-:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
-
 ## Mejores 10 equipos
 
 1. _Omijal - American School_ resolvió 2 problemas y obtuvo el lugar #54 (67%) en The 2009 Mexico & Central America Contest

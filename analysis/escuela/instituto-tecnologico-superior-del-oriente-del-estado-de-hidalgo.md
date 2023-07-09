@@ -1,7 +1,5 @@
 # Instituto Tecnológico Superior del Oriente del Estado de Hidalgo
 
-:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
-
 ## Mejores 10 equipos
 
 1. _CIO-ITESA_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019

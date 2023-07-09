@@ -1,7 +1,5 @@
 # Universidad Marista de Guadalajara
 
-:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
-
 ## Mejores 10 equipos
 
 1. _UMG.2.1++_ resolvió 4 problemas y obtuvo el lugar #191 (58%) en The 2023 ICPC Gran Premio de Mexico

@@ -1,7 +1,5 @@
 # Escuela Superior De Computo Instituto Politecnico Nacional
 
-:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
-
 ## Mejores 10 equipos
 
 1. _lA_Criba de ceros y unos_ resolvió 8 problemas y obtuvo el lugar #2 (100%) en The 2018 ICPC Mexico and Central America Finals

@@ -1,7 +1,5 @@
 # Centro de Nanociencias y Micro y Nanotecnologías
 
-:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
-
 ## Mejores 10 equipos
 
 1. _Sereno El Fullereno_ resolvió 4 problemas y obtuvo el lugar #13 (99%) en The 2022 ICPC Mexico Finals

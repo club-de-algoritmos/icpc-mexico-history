@@ -1,7 +1,5 @@
 # Escuela Superior de Ingeniería Mecánica y Eléctrica del Instituto Politécnico Nacional Unidad Culhuacán
 
-:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
-
 ## Mejores 10 equipos
 
 1. _ESIMECU-Anthrax_ resolvió 4 problemas y obtuvo el lugar #150 (67%) en The 2023 ICPC Gran Premio de Mexico

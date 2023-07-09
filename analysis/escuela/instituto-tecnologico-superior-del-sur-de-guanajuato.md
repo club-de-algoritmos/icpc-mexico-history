@@ -1,7 +1,5 @@
 # Instituto Tecnológico Superior del Sur de Guanajuato
 
-:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
-
 ## Mejores 10 equipos
 
 1. _#define TriLCI(404.0) :v_ resolvió 8 problemas y obtuvo el lugar #4 (100%) en The 2018 ICPC Mexico and Central America Finals

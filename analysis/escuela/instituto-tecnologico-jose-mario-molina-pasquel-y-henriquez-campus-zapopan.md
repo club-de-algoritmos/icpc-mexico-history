@@ -1,7 +1,5 @@
 # Instituto Tecnológico José Mario Molina Pasquel y Henríquez campus Zapopan
 
-:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
-
 ## Mejores 10 equipos
 
 1. _Packeros_ resolvió 7 problemas y obtuvo el lugar #149 (79%) en Gran Premio de Mexico 2020

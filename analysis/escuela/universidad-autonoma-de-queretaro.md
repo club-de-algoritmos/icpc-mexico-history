@@ -1,7 +1,5 @@
 # Universidad Autónoma de Querétaro
 
-:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
-
 ## Mejores 10 equipos
 
 1. _The Best Skynet_ resolvió 2 problemas y obtuvo el lugar #38 (97%) en The 2019 ICPC Mexico Finals

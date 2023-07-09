@@ -1,6 +1,6 @@
 # Resultados de TecNM en el ICPC
 
-## Final Mundial
+## Finales Mundiales
 
 ### 2000-2001 The 2001 ACM Programming Contest World Finals
 

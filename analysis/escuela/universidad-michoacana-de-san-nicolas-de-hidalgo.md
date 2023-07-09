@@ -1,7 +1,5 @@
 # Universidad Michoacana de San Nicolás de Hidalgo
 
-:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
-
 ## Mejores 10 equipos
 
 1. _Lerak Team_ resolvió 4 problemas y obtuvo el lugar #13 (95%) en The 2014 ACM-ICPC Mexico and Central America Finals

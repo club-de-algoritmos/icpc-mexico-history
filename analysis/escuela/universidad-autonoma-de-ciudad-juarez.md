@@ -1,7 +1,5 @@
 # Universidad Autonoma de Ciudad Juarez
 
-:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
-
 ## Mejores 10 equipos
 
 1. _First to Penalty_ resolvió 12 problemas y obtuvo el lugar #15 (97%) en The 2023 ICPC Gran Premio de Mexico

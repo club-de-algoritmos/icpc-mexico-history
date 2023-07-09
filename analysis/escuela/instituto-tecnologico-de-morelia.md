@@ -1,7 +1,5 @@
 # Instituto Tecnologico de Morelia
 
-:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
-
 ## Mejores 10 equipos
 
 1. _TecMorelia2_ resolvió 2 problemas y obtuvo el lugar #18 (90%) en The 2013 Mexico & Central America Regional Contest

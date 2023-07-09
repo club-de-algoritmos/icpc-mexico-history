@@ -1,7 +1,5 @@
 # Facultad de Informática Mazatlán UAS
 
-:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
-
 ## Mejores 10 equipos
 
 1. _Los Monos Bichis_ resolvió 5 problemas y obtuvo el lugar #112 (76%) en The 2023 ICPC Gran Premio de Mexico

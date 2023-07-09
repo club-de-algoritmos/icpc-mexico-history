@@ -1,7 +1,5 @@
 # Benemérita Universidad Autónoma de Puebla
 
-:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
-
 ## Mejores 10 equipos
 
 1. _BUA de Puebla - Los Alfalfas_ resolvió 5 problemas y obtuvo el lugar #1 (100%) en The 2004 ACM Mexico and Central America Programming Contest

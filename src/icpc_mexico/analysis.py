@@ -31,7 +31,7 @@ class Analyzer:
         print(f'Analyzing Mexico results in the World Finals')
         with MarkdownFile(self._get_filename('mexico.md')) as markdown:
             with markdown.section('Resultados de México en el ICPC'):
-                with markdown.section('Final Mundial'):
+                with markdown.section('Finales Mundiales'):
                     for season in self._queries.contest_seasons:
                         for contest in season.worlds:
                             with markdown.section(contest.description()):
@@ -196,7 +196,7 @@ class Analyzer:
         print(f'Analyzing results of community {community}')
         with MarkdownFile(self._get_filename(f'{normalize_as_filename(community.abbreviation)}.md')) as markdown:
             with markdown.section(f'Resultados de {community.abbreviation} en el ICPC'):
-                with markdown.section('Final Mundial'):
+                with markdown.section('Finales Mundiales'):
                     wf_school_names: Set[str] = set()
                     wf_schools: List[School] = []
                     for contest in self._queries.get_contests_by_type(ContestType.WORLD):
@@ -244,13 +244,13 @@ class Analyzer:
                 self._print_detailed_ranking(title='Mejores 10 equipos', teams=teams[:10], markdown=markdown)
 
                 with markdown.section('Participaciones'):
+                    self._print_participation_stats(markdown, title='Resumen', state=state)
+
                     for season in self._queries.contest_seasons:
                         season_teams = [team for team in season.teams if team.school and team.school.state == state]
                         self._print_simple_ranking(season.name, season_teams, markdown)
 
-            self._print_participation_stats(markdown, state=state)
-
-            self._print_school_rankings(markdown, state=state, contest_type=None)
+                self._print_school_rankings(markdown, state=state, contest_type=None)
 
     def analyze_schools_by_country(self, country: str) -> None:
         # Re-create the whole school directory so no longer qualifying schools can be dropped
@@ -267,11 +267,6 @@ class Analyzer:
         filename = f'{normalize_as_filename(normalize_school_name(school.name))}.md'
         with MarkdownFile(self._get_filename('escuela', filename)) as markdown:
             with markdown.section(school.name):
-                if school.country == MEXICO:
-                    markdown.paragraph(':warning: Equipos que solo participaron en el Repechaje del '
-                                       'Gran Premio de México no están registrados oficialmente en el ICPC, '
-                                       'por lo que no aparecerán aquí.')
-
                 teams = self._queries.get_ranked_teams(school=school)
                 self._print_detailed_ranking(title='Mejores 10 equipos',
                                              teams=teams[:10],

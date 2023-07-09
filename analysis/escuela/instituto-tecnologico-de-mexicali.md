@@ -1,7 +1,5 @@
 # Instituto Tecnologico de Mexicali
 
-:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
-
 ## Mejores 10 equipos
 
 1. _marikatu_ resolvió 4 problemas y obtuvo el lugar #4 (98%) en The 2006 ACM Mexico and Central America Programming Contest

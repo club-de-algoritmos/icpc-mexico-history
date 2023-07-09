@@ -1,7 +1,5 @@
 # Universidad Autonoma de Coahuila Facultad de Sistemas Unidad Saltillo
 
-:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
-
 ## Mejores 10 equipos
 
 1. _The bugs_ resolvió 3 problemas y obtuvo el lugar #18 (93%) en The 2014 ACM-ICPC Mexico and Central America Finals

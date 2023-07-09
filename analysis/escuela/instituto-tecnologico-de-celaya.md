@@ -1,7 +1,5 @@
 # Instituto Tecnologico de Celaya
 
-:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
-
 ## Mejores 10 equipos
 
 1. _Infrabit_ resolvió 3 problemas y obtuvo el lugar #8 (93%) en The 2003 ACM Mexico and Central America Programming Contest

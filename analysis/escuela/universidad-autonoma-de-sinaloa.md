@@ -1,7 +1,5 @@
 # Universidad Autónoma de Sinaloa
 
-:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
-
 ## Mejores 10 equipos
 
 1. _Nexus_ resolvió 6 problemas y obtuvo el lugar #108 (90%) en The 2022 ICPC Gran Premio de Mexico

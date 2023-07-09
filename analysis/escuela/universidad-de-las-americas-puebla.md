@@ -1,7 +1,5 @@
 # Universidad de las Americas-Puebla
 
-:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
-
 ## Mejores 10 equipos
 
 1. _U de las Americas Waxtron_ resolvió 0 problemas y obtuvo el lugar #47 (22%) en The 2000 ACM Programming Contest World Finals

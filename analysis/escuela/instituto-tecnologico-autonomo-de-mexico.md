@@ -1,7 +1,5 @@
 # Instituto Tecnológico Autónomo de México
 
-:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
-
 ## Mejores 10 equipos
 
 1. _FoundTheBug.ItsMe_ resolvió 7 problemas y obtuvo el lugar #3 (100%) en The 2020 ICPC Mexico Finals

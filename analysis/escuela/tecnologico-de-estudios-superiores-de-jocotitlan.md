@@ -1,7 +1,5 @@
 # Tecnologico de Estudios Superiores de Jocotitlan
 
-:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
-
 ## Mejores 10 equipos
 
 1. _TESJo_ resolvió 9 problemas y obtuvo el lugar #105 (67%) en Gran Premio de Mexico & Centroamerica

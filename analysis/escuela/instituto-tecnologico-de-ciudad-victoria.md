@@ -1,7 +1,5 @@
 # Instituto Tecnológico de Ciudad Victoria
 
-:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
-
 ## Mejores 10 equipos
 
 1. _Code Poets_ resolvió 1 problemas y obtuvo el lugar #26 (83%) en The 2007 ACM Mexico and Central America Programming Contest

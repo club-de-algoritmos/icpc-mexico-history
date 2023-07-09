@@ -1,7 +1,5 @@
 # Instituto Tecnólogico Superior de Zapopan
 
-:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
-
 ## Mejores 10 equipos
 
 1. _Esquisofrenia_ resolvió 3 problemas y obtuvo el lugar #10 (94%) en The 2007 ACM Mexico and Central America Programming Contest

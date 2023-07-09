@@ -1,6 +1,6 @@
 # Resultados de México en el ICPC
 
-## Final Mundial
+## Finales Mundiales
 
 ### 1996-1997 The 1997 ACM Programming Contest World Finals
 

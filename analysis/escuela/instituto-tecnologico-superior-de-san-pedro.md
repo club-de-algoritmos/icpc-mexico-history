@@ -1,7 +1,5 @@
 # Instituto Tecnologico Superior de San Pedro
 
-:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
-
 ## Mejores 10 equipos
 
 1. _LAS 3 GEMAS DEL INFINITO_ resolvió 4 problemas y obtuvo el lugar #188 (85%) en Gran Premio de Mexico 2019

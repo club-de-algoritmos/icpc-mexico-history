@@ -1,7 +1,5 @@
 # ITESM Campus Ciudad de Mexico
 
-:warning: Equipos que solo participaron en el Repechaje del Gran Premio de México no están registrados oficialmente en el ICPC, por lo que no aparecerán aquí.
-
 ## Mejores 10 equipos
 
 1. _mdp_ resolvió 3 problemas y obtuvo el lugar #23 (98%) en The 2019 ICPC Mexico Finals

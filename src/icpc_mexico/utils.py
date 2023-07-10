@@ -1,6 +1,7 @@
 import re
 import time
 from functools import wraps
+from typing import List
 
 _NORMALIZED_LETTERS = {
     'á': 'a',
@@ -27,6 +28,13 @@ def normalize_school_name(value: str) -> str:
 def normalize_as_filename(value: str) -> str:
     normalized_value = normalize_str(value).replace(' ', '-').replace('/', '-')
     return re.sub('-+', '-', normalized_value)
+
+
+def contains_strings(string: str, *args: str) -> bool:
+    for substring in args:
+        if substring in string:
+            return True
+    return False
 
 
 def get_percentile(rank: int, count: int) -> float:

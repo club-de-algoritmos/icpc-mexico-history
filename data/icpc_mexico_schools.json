@@ -31,7 +31,7 @@
     "community": null,
     "country": "mexico",
     "state": null,
-    "is_eligible": true
+    "is_eligible": false
   },
   {
     "name": "CECyTEM 20",
@@ -39,7 +39,7 @@
     "community": null,
     "country": "mexico",
     "state": null,
-    "is_eligible": true
+    "is_eligible": false
   },
   {
     "name": "Centro Cultural Universitario Justo Sierra A.C.",

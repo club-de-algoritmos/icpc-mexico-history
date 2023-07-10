@@ -1,7 +1,7 @@
 import os
 import shutil
 from collections import defaultdict
-from typing import List, Set, Tuple, Dict, Optional, Any
+from typing import List, Set, Tuple, Dict, Optional
 
 from icpc_mexico.data import FinishedContest, ContestType, SchoolCommunity, School, MEXICO, TeamResult
 from icpc_mexico.markdown import Markdown, MarkdownFile
@@ -10,6 +10,10 @@ from icpc_mexico.query_data import RankedTeam, ExtendedTeamResult, ContestSeason
 from icpc_mexico.utils import normalize_as_filename, log_run_time, format_percentile, normalize_school_name
 
 TeamRank = Tuple[float, FinishedContest, TeamResult]
+
+
+def _is_mexican_and_eligible(school: Optional[School]) -> bool:
+    return school and school.country == MEXICO and school.is_eligible
 
 
 class Analyzer:
@@ -36,7 +40,7 @@ class Analyzer:
                         for contest in season.worlds:
                             with markdown.section(contest.description()):
                                 for team in contest.team_results:
-                                    if not team.school or team.school.country != MEXICO:
+                                    if not _is_mexican_and_eligible(team.school):
                                         continue
 
                                     solved_str = ''
@@ -82,7 +86,7 @@ class Analyzer:
             stats = [0, 0, 0, 0, 0]
             season_schools: Set[str] = set()
             for team in season.teams:
-                if not team.school or team.school.country != MEXICO:
+                if not _is_mexican_and_eligible(team.school):
                     continue
                 if community and community != team.school.community:
                     continue
@@ -157,7 +161,7 @@ class Analyzer:
         school_stats: Dict[str, List] = defaultdict(lambda: [0, 0, 0, 0])
         for season in seasons:
             for team in season.teams:
-                if not team.school or team.school.country != MEXICO:
+                if not _is_mexican_and_eligible(team.school):
                     continue
                 if community and community != team.school.community:
                     continue

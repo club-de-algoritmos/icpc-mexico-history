@@ -6,7 +6,7 @@ from icpc_mexico import icpc_api
 from icpc_mexico.data import Contest, FinishedContest, TeamResult, ContestType, School, SchoolCommunity, MEXICO
 from icpc_mexico.errors import ProcessingError
 from icpc_mexico.queries import get_school
-from icpc_mexico.utils import normalize_school_name
+from icpc_mexico.utils import normalize_school_name, contains_strings
 
 
 def _from_csv_to_contest(csv_row: Dict) -> Contest:
@@ -228,41 +228,41 @@ def get_schools(contests: List[FinishedContest]) -> List[School]:
         if get_school(normalized_name, schools):
             continue
 
-        if 'costa rica' in normalized_name:
+        if contains_strings(normalized_name, 'costa rica'):
             schools.append(School(name=school_name, country='costa rica'))
             continue
 
-        if 'jamaica' in normalized_name:
+        if contains_strings(normalized_name, 'jamaica'):
             schools.append(School(name=school_name, country='jamaica'))
             continue
 
-        if normalized_name.startswith('universidad centroamericana'):
+        if contains_strings(normalized_name, 'universidad centroamericana'):
             schools.append(School(name=school_name, country='el salvador'))
             continue
 
-        if ('habana' in normalized_name
-                or normalized_name.startswith('universidad de las ciencias informaticas')
-                or normalized_name.startswith('universidad de oriente')
-                or normalized_name.startswith('universidad de cienfuegos')
-                or 'camaguey' in normalized_name):
+        if (contains_strings(normalized_name,
+                             'habana',
+                             'universidad de las ciencias informaticas',
+                             'universidad de oriente',
+                             'universidad de cienfuegos',
+                             'camaguey')):
             schools.append(School(name=school_name, country='cuba'))
             continue
 
-        if (normalized_name.startswith('tecnologico nacional de mexico')
-                or normalized_name.startswith('tecnm')
-                or normalized_name.startswith('instituto tecnologico')):
+        if (contains_strings(normalized_name,
+                             'tecnologico nacional de mexico',
+                             'tecnm',
+                             'instituto tecnologico')):
             # "technologico" -> "tecnologico"
             schools.append(School(
                 name=school_name.replace('echno', 'ecno'), community=SchoolCommunity.TECNM, country=MEXICO))
             continue
 
-        if normalized_name.startswith('itesm'):
+        if contains_strings(normalized_name, 'itesm'):
             schools.append(School(name=school_name, community=SchoolCommunity.ITESM, country=MEXICO))
             continue
 
-        if (normalized_name.startswith('olimpiada') or
-                normalized_name.startswith('cetis') or
-                normalized_name.startswith('cbtis')):
+        if contains_strings(normalized_name, 'olimpiada', 'cetis', 'cbtis', 'cecytem'):
             schools.append(School(name=school_name, is_eligible=False, country=MEXICO))
             continue
 

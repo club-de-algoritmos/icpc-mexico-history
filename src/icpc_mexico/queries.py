@@ -189,7 +189,7 @@ class Queries:
         return self._schools_by_name.get(normalize_school_name(name))
 
     def get_schools_by_country(self, country: str) -> List[School]:
-        return [school for school in self._schools if school.country == country]
+        return [school for school in self._schools if school.country == country and school.is_eligible]
 
     def get_ranked_teams(self, country: Optional[str] = None,
                          state: Optional[str] = None,

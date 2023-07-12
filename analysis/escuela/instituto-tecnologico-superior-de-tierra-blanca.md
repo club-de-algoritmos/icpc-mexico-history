@@ -11,7 +11,7 @@
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
 | **Total** | **0** | **1** | **0** | **1** |
-| 2005-2006 | 0 | 1 | 0 | 1 |
+| [2005-2006](#2005-2006) | 0 | 1 | 0 | 1 |
 
 ### 2005-2006
 

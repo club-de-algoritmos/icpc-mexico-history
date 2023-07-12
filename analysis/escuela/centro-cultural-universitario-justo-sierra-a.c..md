@@ -12,7 +12,7 @@
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
 | **Total** | **0** | **2** | **0** | **2** |
-| 2002-2003 | 0 | 2 | 0 | 2 |
+| [2002-2003](#2002-2003) | 0 | 2 | 0 | 2 |
 
 ### 2002-2003
 

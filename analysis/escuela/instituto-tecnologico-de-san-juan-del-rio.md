@@ -12,7 +12,7 @@
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
 | **Total** | **0** | **0** | **2** | **2** |
-| 2019-2020 | 0 | 0 | 2 | 2 |
+| [2019-2020](#2019-2020) | 0 | 0 | 2 | 2 |
 
 ### 2019-2020
 

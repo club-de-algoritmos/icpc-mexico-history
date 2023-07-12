@@ -13,7 +13,7 @@
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
 | **Total** | **0** | **0** | **3** | **3** |
-| 2018-2019 | 0 | 0 | 3 | 3 |
+| [2018-2019](#2018-2019) | 0 | 0 | 3 | 3 |
 
 ### 2018-2019
 

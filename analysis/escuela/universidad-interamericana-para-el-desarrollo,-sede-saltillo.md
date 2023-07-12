@@ -11,7 +11,7 @@
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
 | **Total** | **0** | **0** | **1** | **1** |
-| 2016-2017 | 0 | 0 | 1 | 1 |
+| [2016-2017](#2016-2017) | 0 | 0 | 1 | 1 |
 
 ### 2016-2017
 

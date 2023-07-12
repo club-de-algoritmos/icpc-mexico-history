@@ -12,7 +12,7 @@
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
 | **Total** | **0** | **2** | **0** | **2** |
-| 2007-2008 | 0 | 2 | 0 | 2 |
+| [2007-2008](#2007-2008) | 0 | 2 | 0 | 2 |
 
 ### 2007-2008
 

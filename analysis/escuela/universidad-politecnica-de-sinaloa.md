@@ -14,7 +14,7 @@
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
 | **Total** | **0** | **4** | **0** | **4** |
-| 2011-2012 | 0 | 4 | 0 | 4 |
+| [2011-2012](#2011-2012) | 0 | 4 | 0 | 4 |
 
 ### 2011-2012
 

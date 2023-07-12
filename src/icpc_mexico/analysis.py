@@ -16,7 +16,7 @@ def _is_mexican_and_eligible(school: Optional[School]) -> bool:
     return school and school.country == MEXICO and school.is_eligible
 
 
-def _get_school_link(school: School, relative_path: str = '') -> str:
+def _get_school_link(school: School, relative_path: str = 'escuela/') -> str:
     return f'[{school.name}]({relative_path}{school.slug_name})'
 
 
@@ -53,9 +53,9 @@ class Analyzer:
                                     solved_str = ''
                                     if team.problems_solved is not None:
                                         solved_str = f', resolvió {team.problems_solved}'
-                                    school_link = _get_school_link(team.school, relative_path='escuela/')
+                                    school_link = _get_school_link(team.school)
                                     markdown.bullet_point(f'#{team.rank} (#{team.country_rank} de México{solved_str})'
-                                                          f' {team.name} ({school_link}')
+                                                          f' {team.name} ({school_link})')
 
                 high_teams: List[RankedTeam] = []
                 teams = self._queries.get_ranked_teams(country=MEXICO)
@@ -199,7 +199,7 @@ class Analyzer:
                 continue
 
             rank += 1
-            school_link = _get_school_link(schools_by_name[school_name], relative_path='escuela/')
+            school_link = _get_school_link(schools_by_name[school_name])
             school_table.append([str(rank), school_link] + list(map(str, stats)))
 
         with markdown.section(title):
@@ -319,7 +319,7 @@ class Analyzer:
 
         with markdown.section(title):
             for team in teams:
-                school_link = _get_school_link(team.school, relative_path='escuela/')
+                school_link = _get_school_link(team.school)
                 school_str = f' ({school_link})' if display_school else ''
                 top_result = team.regional_result or team.qualifier_result
                 if top_result and not display_world_only:
@@ -350,7 +350,7 @@ class Analyzer:
 
         with markdown.section(title):
             for team in teams:
-                school_link = _get_school_link(team.school, relative_path='escuela/')
+                school_link = _get_school_link(team.school)
                 school_str = f' ({school_link})' if display_school else ''
                 regional_result = team.regional_result or team.qualifier_result
                 if regional_result:

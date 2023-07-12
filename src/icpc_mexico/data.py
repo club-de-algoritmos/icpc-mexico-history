@@ -119,8 +119,9 @@ class Contest:
     type: ContestType
     comments: str
 
-    def description(self) -> str:
-        return f'{self.year}-{self.year+1} {self.name}'
+    @property
+    def season(self) -> str:
+        return f'{self.year}-{self.year+1}'
 
     @property
     def is_manual(self) -> bool:

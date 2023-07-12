@@ -2,141 +2,190 @@
 
 ## Finales Mundiales
 
-### 1996-1997 The 1997 ACM Programming Contest World Finals
+### 1996-1997
+
+The 1997 ACM Programming Contest World Finals
 
 - #1 (#1 de México) <Desconocido> (Universidad Juárez Autónoma de Tabasco)
 
-### 1997-1998 The 1998 ACM Programming Contest World Finals
+### 1997-1998
+
+The 1998 ACM Programming Contest World Finals
 
 - #40 (#1 de México, resolvió 2) <Desconocido> (ITESM Campus Monterrey)
 
-### 1998-1999 The 1999 ACM Programming Contest World Finals
+### 1998-1999
+
+The 1999 ACM Programming Contest World Finals
 
 - #53 (#1 de México, resolvió 1) U de las Americas (Universidad de las Americas-Puebla)
 - #56 (#2 de México, resolvió 1) ITESM ProZac (ITESM Campus Monterrey)
 - #60 (#3 de México, resolvió 0) ITESM GaToZ LoCoZ (ITESM Campus Estado de Mexico)
 
-### 1999-2000 The 2000 ACM Programming Contest World Finals
+### 1999-2000
+
+The 2000 ACM Programming Contest World Finals
 
 - #22 (#1 de México, resolvió 0) ITESM CEM GaToZ LoCoZ (ITESM Campus Estado de Mexico)
 - #47 (#2 de México, resolvió 0) U de las Americas Waxtron (Universidad de las Americas-Puebla)
 
-### 2000-2001 The 2001 ACM Programming Contest World Finals
+### 2000-2001
+
+The 2001 ACM Programming Contest World Finals
 
 - #59 (#1 de México, resolvió 1) SWART (ITESM Campus Monterrey)
 - #60 (#2 de México, resolvió 0) IT. Madero (Instituto Tecnológico de Ciudad Madero)
 
-### 2001-2002 The 2002 ACM Programming Contest World Finals
+### 2001-2002
+
+The 2002 ACM Programming Contest World Finals
 
 - #47 (#1 de México, resolvió 2) Los Pericos Brujos (ITESM Campus Monterrey)
 - #57 (#2 de México, resolvió 0) Tec Madero (Instituto Tecnológico de Ciudad Madero)
 
-### 2002-2003 The 2003 ACM Programming Contest World Finals
+### 2002-2003
+
+The 2003 ACM Programming Contest World Finals
 
 - #56 (#1 de México, resolvió 0) Los Novatos (Universidad de las Americas-Puebla)
 - #56 (#1 de México, resolvió 0) Mandelbrot (Universidad de Guanajuato - CIMAT)
 
-### 2003-2004 The 2004 ACM Programming Contest World Finals
+### 2003-2004
+
+The 2004 ACM Programming Contest World Finals
 
 - #68 (#1 de México, resolvió 0) The Deadly Coding Squad (ITESM Campus Monterrey)
 - #68 (#1 de México, resolvió 0) Los novatos reloaded (Universidad de las Americas-Puebla)
 
-### 2004-2005 The 2005 ACM Programming Contest World Finals
+### 2004-2005
+
+The 2005 ACM Programming Contest World Finals
 
 - #69 (#1 de México, resolvió 2) BUA de Puebla - Los Alfalfas (Benemérita Universidad Autónoma de Puebla)
 - #74 (#2 de México, resolvió 1) UTMixteca Poor Dogs (Universidad Tecnológica de la Mixteca)
 
-### 2005-2006 The 2006 ACM Programming Contest World Finals
+### 2005-2006
+
+The 2006 ACM Programming Contest World Finals
 
 - #56 (#1 de México, resolvió 1) UTMixteca NONAME (Universidad Tecnológica de la Mixteca)
 - #82 (#2 de México, resolvió 0) UAT The Tlaxcallan Kings (Universidad Autónoma de Tlaxcala)
 
-### 2006-2007 The 2007 ACM Programming Contest World Finals
+### 2006-2007
+
+The 2007 ACM Programming Contest World Finals
 
 - #86 (#1 de México, resolvió 0) Death Match (Benemérita Universidad Autónoma de Puebla)
 - #86 (#1 de México, resolvió 0) Poor Dogs (Universidad Tecnológica de la Mixteca)
 
-### 2007-2008 The 2008 ACM Programming Contest World Finals
+### 2007-2008
+
+The 2008 ACM Programming Contest World Finals
 
 - #65 (#1 de México, resolvió 2) U de G ACM Problem Solvers (Universidad de Guadalajara CUCEI)
 - #90 (#2 de México, resolvió 0) ITC Turing Machines (Instituto Tecnológico de Culiacán)
 - #90 (#2 de México, resolvió 0) U de Guanajuato Hausdorff (Universidad de Guanajuato - CIMAT)
 
-### 2008-2009 33rd Annual World Finals of the ACM International Collegiate Programming Contest
+### 2008-2009
+
+33rd Annual World Finals of the ACM International Collegiate Programming Contest
 
 - #49 (#1 de México, resolvió 3) Turing Machines (Instituto Tecnológico de Culiacán)
 - #68 (#2 de México, resolvió 0) MTY03 (ITESM Campus Monterrey)
 - #68 (#2 de México, resolvió 0) grajam (Universidad Tecnológica de la Mixteca)
 
-### 2009-2010 34th Annual World Finals of the ACM International Collegiate Programming Contest
+### 2009-2010
+
+34th Annual World Finals of the ACM International Collegiate Programming Contest
 
 - #76 (#1 de México, resolvió 2) ITESM Queretaro Los punteros (ITESM Campus Queretaro)
 - #77 (#2 de México, resolvió 2) U Guanajuato Hausdorff (Universidad de Guanajuato - CIMAT)
 
-### 2010-2011 35th Annual World Finals of the ACM International Collegiate Programming Contest
+### 2010-2011
+
+35th Annual World Finals of the ACM International Collegiate Programming Contest
 
 - #74 (#1 de México, resolvió 2) Manowar (Universidad de Guanajuato - CIMAT)
 
-### 2011-2012 36th Annual World Finals of the ACM International Collegiate Programming Contest
+### 2011-2012
+
+36th Annual World Finals of the ACM International Collegiate Programming Contest
 
 - #80 (#1 de México, resolvió 2) Manowar (Universidad de Guanajuato - CIMAT)
 - #101 (#2 de México, resolvió 1) Justice League (Universidad Tecnológica de la Mixteca)
 - #101 (#2 de México, resolvió 1) C_mita (ITESM Campus Puebla)
 
-### 2012-2013 37th Annual World Finals of the ACM International Collegiate Programming Contest
+### 2012-2013
+
+37th Annual World Finals of the ACM International Collegiate Programming Contest
 
 - #76 (#1 de México, resolvió 2) AEI (Universidad Panamericana Campus Bonaterra)
 - #94 (#2 de México, resolvió 1) Escoders (Escuela Superior De Computo Instituto Politecnico Nacional)
 
-### 2013-2014 38th Annual World Finals of the ACM International Collegiate Programming Contest
+### 2013-2014
+
+38th Annual World Finals of the ACM International Collegiate Programming Contest
 
 - #45 (#1 de México, resolvió 2) Los Chidory (Universidad Panamericana Campus Bonaterra)
 - #80 (#2 de México, resolvió 1) Hurones Pwneadores (Escuela Superior De Computo Instituto Politecnico Nacional)
 - #103 (#3 de México, resolvió 0) Peludos (Universidad Autónoma de Aguascalientes)
 
-### 2014-2015 39th Annual World Finals of the ACM International Collegiate Programming Contest
+### 2014-2015
+
+39th Annual World Finals of the ACM International Collegiate Programming Contest
 
 - #96 (#1 de México, resolvió 3) Escoolers (Escuela Superior De Computo Instituto Politecnico Nacional)
 - #110 (#2 de México, resolvió 2) Peludos (Universidad Autónoma de Aguascalientes)
 - #121 (#3 de México, resolvió 1) Locos (ITESM Campus Monterrey)
 
-### 2015-2016 40th Annual World Finals of the ACM International Collegiate Programming Contest
+### 2015-2016
+
+40th Annual World Finals of the ACM International Collegiate Programming Contest
 
 - #69 (#1 de México, resolvió 4) Los Románticos (Instituto Tecnológico Autónomo de México)
 - #92 (#2 de México, resolvió 3) La Carabina del AC (Escuela Superior De Computo Instituto Politecnico Nacional)
 - #107 (#3 de México, resolvió 2) HaKings (ITESM Campus Monterrey)
 
-### 2016-2017 41st Annual World Finals of the ACM International Collegiate Programming Contest
+### 2016-2017
+
+41st Annual World Finals of the ACM International Collegiate Programming Contest
 
 - #56 (#1 de México, resolvió 4) Los Románticos (Instituto Tecnológico Autónomo de México)
 - #57 (#2 de México, resolvió 3) PU++ (Facultad de Ciencias-Universidad Nacional Autónoma de México)
 - #57 (#2 de México, resolvió 3) Los A´S (Universidad Autónoma de Nuevo Leon)
 
-### 2017-2018 42nd Annual World Finals of the International Collegiate Programming Contest
+### 2017-2018
+
+42nd Annual World Finals of the International Collegiate Programming Contest
 
 - #31 (#1 de México, resolvió 5) PU++ (Facultad de Ciencias-Universidad Nacional Autónoma de México)
 - #57 (#2 de México, resolvió 3) Los A´s (Universidad Autónoma de Nuevo Leon)
 - #57 (#2 de México, resolvió 2) Pragma (ITESM Campus Queretaro)
 
-### 2018-2019 43rd Annual World Finals of the International Collegiate Programming Contest
+### 2018-2019
+
+43rd Annual World Finals of the International Collegiate Programming Contest
 
 - #63 (#1 de México, resolvió 2) lA_Criba de ceros y unos (Escuela Superior De Computo Instituto Politecnico Nacional)
 - #63 (#1 de México, resolvió 2) The Beat Alls (Instituto Tecnológico Autónomo de México)
 - #63 (#1 de México, resolvió 2) Legendary Grandpupils (ITESM Campus Monterrey)
 - #63 (#1 de México, resolvió 2) #define TriLCI(404.0) :v (Instituto Tecnológico Superior del Sur de Guanajuato)
 
-### 2019-2020 44th Annual World Finals of the International Collegiate Programming Contest
+### 2019-2020
+
+44th Annual World Finals of the International Collegiate Programming Contest
 
 - #47 (#1 de México) E3 (Universidad de Guanajuato - CIMAT)
 - #47 (#1 de México) UPsolving (Universidad Panamericana Campus Bonaterra)
-
-### 2019-2020 The ICPC World Finals Invitational Contest
+The ICPC World Finals Invitational Contest
 
 - #36 (#1 de México, resolvió 4) Norman is Hunting (Escuela Superior De Computo Instituto Politecnico Nacional)
 - #47 (#2 de México, resolvió 3) PU++ (Facultad de Ciencias-Universidad Nacional Autónoma de México)
 - #53 (#3 de México, resolvió 2) #define TriLCI(404.0) :v (Instituto Tecnológico Superior del Sur de Guanajuato)
 
-### 2020-2021 45th Annual World Finals of the International Collegiate Programming Contest
+### 2020-2021
+
+45th Annual World Finals of the International Collegiate Programming Contest
 
 - #41 (#1 de México, resolvió 5) UPsolving (Universidad Panamericana Campus Bonaterra)
 - #51 (#2 de México, resolvió 3) Leones(0,0,0) (Universidad de Guadalajara CUCEI)
@@ -152,8 +201,7 @@
 1. _Los Románticos_ (Instituto Tecnológico Autónomo de México) resolvió 4 problemas y obtuvo el lugar #56 (58%) en 41st Annual World Finals of the ACM International Collegiate Programming Contest
 1. _Turing Machines_ (Instituto Tecnológico de Culiacán) resolvió 3 problemas y obtuvo el lugar #49 (52%) en 33rd Annual World Finals of the ACM International Collegiate Programming Contest
 
-
-# Participaciones
+## Participaciones
 
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos | Escuelas |
 | --- | --- | --- | --- | --- | --- |
@@ -187,9 +235,9 @@
 | 2022-2023 | 0 | 56 | 1042 | 1044 | 155 |
 | 2023-2024 | 0 | 0 | 457 | 457 | 74 |
 
-# Ranking de escuelas
+## Ranking de escuelas
 
-## Últimos 5 años
+### Últimos 5 años
 
 | # | Escuela | Finales mundiales | Regionales | Clasificatorios | Total |
 | --- | --- | --- | --- | --- | --- |
@@ -204,7 +252,7 @@
 | 9 | Universidad de Guadalajara CUCEI | 1 | 16 | 118 | 118 |
 | 10 | ITESM Campus Queretaro | 1 | 7 | 28 | 29 |
 
-## Histórico
+### Histórico
 
 | # | Escuela | Finales mundiales | Regionales | Clasificatorios | Total |
 | --- | --- | --- | --- | --- | --- |
@@ -228,5 +276,6 @@
 | 18 | Universidad Autónoma de Tlaxcala | 1 | 35 | 41 | 76 |
 | 19 | ITESM Campus Puebla | 1 | 22 | 57 | 69 |
 | 20 | Universidad Juárez Autónoma de Tabasco | 1 | 0 | 0 | 1 |
+
 
 

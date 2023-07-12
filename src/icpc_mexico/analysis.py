@@ -37,8 +37,11 @@ class Analyzer:
             with markdown.section('Resultados de México en el ICPC'):
                 with markdown.section('Finales Mundiales'):
                     for season in self._queries.contest_seasons:
-                        for contest in season.worlds:
-                            with markdown.section(contest.description()):
+                        if not season.worlds:
+                            continue
+                        with markdown.section(season.name):
+                            for contest in season.worlds:
+                                markdown.paragraph(contest.name)
                                 for team in contest.team_results:
                                     if not _is_mexican_and_eligible(team.school):
                                         continue
@@ -66,9 +69,9 @@ class Analyzer:
                                              markdown=markdown,
                                              display_world_only=True)
 
-            self._print_participation_stats(markdown)
+                self._print_participation_stats(markdown)
 
-            self._print_school_rankings(markdown)
+                self._print_school_rankings(markdown)
 
     def _print_participation_stats(self,
                                    markdown: Markdown,
@@ -220,7 +223,8 @@ class Analyzer:
                                 wf_schools.append(team.school)
 
                         if participations:
-                            with markdown.section(contest.description()):
+                            with markdown.section(contest.season):
+                                markdown.paragraph(contest.name)
                                 for participation in participations:
                                     markdown.bullet_point(participation)
 

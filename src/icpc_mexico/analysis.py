@@ -20,6 +20,10 @@ def _get_school_link(school: School, relative_path: str = 'escuela/') -> str:
     return f'[{school.name}]({relative_path}{school.slug_name})'
 
 
+def _get_local_season_link(season: ContestSeason) -> str:
+    return f'[{season.name}](#{season.name})'
+
+
 class Analyzer:
     def __init__(self, queries: Queries, analysis_path: str):
         self._queries = queries
@@ -122,7 +126,7 @@ class Analyzer:
             for i in range(len(totals)):
                 totals[i] += stats[i]
 
-            participations_table.append([season.name] + list(map(str, stats)))
+            participations_table.append([_get_local_season_link(season)] + list(map(str, stats)))
 
         totals[4] = len(all_schools)
         participations_table.insert(0, ['**Total**'] + [f'**{total}**' for total in totals])

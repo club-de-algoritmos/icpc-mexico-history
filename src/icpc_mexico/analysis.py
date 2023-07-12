@@ -7,7 +7,7 @@ from icpc_mexico.data import FinishedContest, ContestType, SchoolCommunity, Scho
 from icpc_mexico.markdown import Markdown, MarkdownFile
 from icpc_mexico.queries import Queries
 from icpc_mexico.query_data import RankedTeam, ExtendedTeamResult, ContestSeason
-from icpc_mexico.utils import normalize_as_filename, log_run_time, format_percentile, normalize_school_name
+from icpc_mexico.utils import normalize_as_filename, log_run_time, format_percentile
 
 TeamRank = Tuple[float, FinishedContest, TeamResult]
 
@@ -17,7 +17,7 @@ def _is_mexican_and_eligible(school: Optional[School]) -> bool:
 
 
 def _get_school_link(school: School, relative_path: str = '') -> str:
-    return f'({school.name})[{relative_path}{school.slug_name}]'
+    return f'[{school.name}]({relative_path}{school.slug_name})'
 
 
 class Analyzer:

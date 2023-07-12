@@ -55,7 +55,7 @@
     "community": null,
     "country": "mexico",
     "state": null,
-    "is_eligible": true
+    "is_eligible": false
   },
   {
     "name": "Centro de Bachillerato Tecnológico industrial de servicios",
@@ -63,15 +63,15 @@
     "community": null,
     "country": "mexico",
     "state": null,
-    "is_eligible": true
+    "is_eligible": false
   },
   {
-    "name": "Centro de Enseñanza Tecnica Industrial  - Plantel Tonala",
+    "name": "Centro de Enseñanza Tecnica Industrial - Plantel Tonala",
     "alt_names": [],
     "community": null,
     "country": "mexico",
     "state": null,
-    "is_eligible": true
+    "is_eligible": false
   },
   {
     "name": "Centro de Estudios Tecnológico industrial y de servicios 78",
@@ -79,7 +79,7 @@
     "community": null,
     "country": "mexico",
     "state": null,
-    "is_eligible": true
+    "is_eligible": false
   },
   {
     "name": "Centro de Estudios Universitarios Jean Piaget",
@@ -103,7 +103,7 @@
     "community": null,
     "country": "mexico",
     "state": null,
-    "is_eligible": true
+    "is_eligible": false
   },
   {
     "name": "CETIS 120",
@@ -135,7 +135,7 @@
     "community": null,
     "country": "mexico",
     "state": null,
-    "is_eligible": true
+    "is_eligible": false
   },
   {
     "name": "Colegio Voluntad de Acero",
@@ -2186,7 +2186,7 @@
     "community": null,
     "country": "mexico",
     "state": null,
-    "is_eligible": true
+    "is_eligible": false
   },
   {
     "name": "UNAM Centro de Fisica Aplicada y Tecnologia Avanzada Campus Juriquilla",

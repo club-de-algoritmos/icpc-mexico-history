@@ -214,6 +214,31 @@ def get_schools(contests: List[FinishedContest]) -> List[School]:
             name='Universidad Juárez Autónoma de Tabasco',
             country=MEXICO,
         ),
+        School(
+            name='Centro de Enseñanza Tecnica Industrial - Plantel Tonala',
+            country=MEXICO,
+            is_eligible=False,
+        ),
+        School(
+            name='Centro de Estudios Tecnológico industrial y de servicios 78',
+            country=MEXICO,
+            is_eligible=False,
+        ),
+        School(
+            name='CETI Colomos',
+            country=MEXICO,
+            is_eligible=False,
+        ),
+        School(
+            name='Colegio Anglo',
+            country=MEXICO,
+            is_eligible=False,
+        ),
+        School(
+            name='The American School Foundation of Guadalajara',
+            country=MEXICO,
+            is_eligible=False,
+        ),
     ]
 
     school_names = set()
@@ -262,7 +287,7 @@ def get_schools(contests: List[FinishedContest]) -> List[School]:
             schools.append(School(name=school_name, community=SchoolCommunity.ITESM, country=MEXICO))
             continue
 
-        if contains_strings(normalized_name, 'olimpiada', 'cetis', 'cbtis', 'cecytem'):
+        if contains_strings(normalized_name, 'olimpiada', 'cetis', 'cbtis', 'cecytem', 'bachillerato', 'preparatoria'):
             schools.append(School(name=school_name, is_eligible=False, country=MEXICO))
             continue
 

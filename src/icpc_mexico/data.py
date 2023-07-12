@@ -4,7 +4,7 @@ from typing import Optional, List, Set
 
 from dataclasses_json import dataclass_json
 
-from icpc_mexico.utils import normalize_school_name
+from icpc_mexico.utils import normalize_school_name, normalize_as_filename
 
 MEXICO = 'mexico'
 
@@ -36,6 +36,10 @@ class School:
     state: Optional[str] = None
     # Whether this school is eligible for ICPC (not high school, not unknown, etc.)
     is_eligible: bool = True
+
+    @property
+    def slug_name(self) -> str:
+        return normalize_as_filename(normalize_school_name(self.name))
 
     @property
     def names(self) -> Set[str]:

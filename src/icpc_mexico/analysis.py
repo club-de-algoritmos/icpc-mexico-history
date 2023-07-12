@@ -16,6 +16,10 @@ def _is_mexican_and_eligible(school: Optional[School]) -> bool:
     return school and school.country == MEXICO and school.is_eligible
 
 
+def _get_school_link(school: School, relative_path: str = '') -> str:
+    return f'({school.name})[{relative_path}{school.slug_name}]'
+
+
 class Analyzer:
     def __init__(self, queries: Queries, analysis_path: str):
         self._queries = queries
@@ -49,8 +53,9 @@ class Analyzer:
                                     solved_str = ''
                                     if team.problems_solved is not None:
                                         solved_str = f', resolvió {team.problems_solved}'
+                                    school_link = _get_school_link(team.school, relative_path='escuela/')
                                     markdown.bullet_point(f'#{team.rank} (#{team.country_rank} de México{solved_str})'
-                                                          f' {team.name} ({team.school.name})')
+                                                          f' {team.name} ({school_link}')
 
                 high_teams: List[RankedTeam] = []
                 teams = self._queries.get_ranked_teams(country=MEXICO)
@@ -162,6 +167,7 @@ class Analyzer:
                               contest_type: Optional[ContestType],
                               ) -> None:
         school_stats: Dict[str, List] = defaultdict(lambda: [0, 0, 0, 0])
+        schools_by_name: Dict[str, School] = {}
         for season in seasons:
             for team in season.teams:
                 if not _is_mexican_and_eligible(team.school):
@@ -171,6 +177,7 @@ class Analyzer:
                 if state and state != team.school.state:
                     continue
 
+                schools_by_name[team.school.name] = team.school
                 stat = school_stats[team.school.name]
                 if team.world_result:
                     stat[0] += 1
@@ -192,7 +199,8 @@ class Analyzer:
                 continue
 
             rank += 1
-            school_table.append([str(rank), school_name] + list(map(str, stats)))
+            school_link = _get_school_link(schools_by_name[school_name], relative_path='escuela/')
+            school_table.append([str(rank), school_link] + list(map(str, stats)))
 
         with markdown.section(title):
             markdown.table(['#', 'Escuela', 'Finales mundiales', 'Regionales', 'Clasificatorios', 'Total'],
@@ -272,7 +280,7 @@ class Analyzer:
             self._analyze_school(school)
 
     def _analyze_school(self, school: School) -> None:
-        filename = f'{normalize_as_filename(normalize_school_name(school.name))}.md'
+        filename = f'{school.slug_name}.md'
         with MarkdownFile(self._get_filename('escuela', filename)) as markdown:
             with markdown.section(school.name):
                 teams = self._queries.get_ranked_teams(school=school)
@@ -311,7 +319,8 @@ class Analyzer:
 
         with markdown.section(title):
             for team in teams:
-                school_str = f' ({team.school.name})' if display_school else ''
+                school_link = _get_school_link(team.school, relative_path='escuela/')
+                school_str = f' ({school_link})' if display_school else ''
                 top_result = team.regional_result or team.qualifier_result
                 if top_result and not display_world_only:
                     markdown.numbered_bullet_point(
@@ -341,7 +350,8 @@ class Analyzer:
 
         with markdown.section(title):
             for team in teams:
-                school_str = f' ({team.school.name})' if display_school else ''
+                school_link = _get_school_link(team.school, relative_path='escuela/')
+                school_str = f' ({school_link})' if display_school else ''
                 regional_result = team.regional_result or team.qualifier_result
                 if regional_result:
                     community_rank = ''

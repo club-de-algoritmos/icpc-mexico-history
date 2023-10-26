@@ -2,15 +2,15 @@
 
 ## Mejores 10 equipos
 
+1. _Solanitos_ resolvió 4 problemas y obtuvo el lugar #11 (98%) en The 2023 ICPC Mexico Finals
 1. _Los Chicos Superpoderosos_ resolvió 2 problemas y obtuvo el lugar #33 (97%) en The 2022 ICPC Mexico Finals
 1. _NoC++_ resolvió 1 problemas y obtuvo el lugar #42 (96%) en The 2022 ICPC Mexico Finals
-1. _Solanitos_ resolvió 9 problemas y obtuvo el lugar #25 (95%) en The 2023 ICPC Gran Premio de Mexico
+1. _Quesabirria Flamin'Hot_ resolvió 4 problemas y obtuvo el lugar #22 (95%) en The 2023 ICPC Mexico Finals
 1. _JVF-007_ resolvió 7 problemas y obtuvo el lugar #82 (92%) en The 2022 ICPC Gran Premio de Mexico
 1. _Bryxelz _ resolvió 7 problemas y obtuvo el lugar #95 (91%) en The 2022 ICPC Gran Premio de Mexico
-1. _Quesabirria Flamin'Hot_ resolvió 7 problemas y obtuvo el lugar #48 (90%) en The 2023 ICPC Gran Premio de Mexico
 1. _Los Chicos Superpoderosos_ resolvió 6 problemas y obtuvo el lugar #51 (89%) en The 2023 ICPC Gran Premio de Mexico
-1. _Bogo sorters_ resolvió 6 problemas y obtuvo el lugar #80 (83%) en The 2023 ICPC Gran Premio de Mexico
 1. _OutOfRange_ resolvió 3 problemas y obtuvo el lugar #183 (83%) en The 2022 ICPC Gran Premio de Mexico
+1. _Bogo sorters_ resolvió 6 problemas y obtuvo el lugar #80 (82%) en The 2023 ICPC Gran Premio de Mexico
 1. _Tribilines_ resolvió 3 problemas y obtuvo el lugar #199 (81%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
@@ -19,11 +19,11 @@
 
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
-| **Total** | **0** | **2** | **21** | **21** |
+| **Total** | **0** | **4** | **21** | **21** |
 | [2020-2021](#2020-2021) | 0 | 0 | 1 | 1 |
 | [2021-2022](#2021-2022) | 0 | 0 | 1 | 1 |
 | [2022-2023](#2022-2023) | 0 | 2 | 10 | 10 |
-| [2023-2024](#2023-2024) | 0 | 0 | 9 | 9 |
+| [2023-2024](#2023-2024) | 0 | 2 | 9 | 9 |
 
 ### 2020-2021
 
@@ -48,8 +48,8 @@
 
 ### 2023-2024
 
-1. #25 _Solanitos_ (Clasificatorio)
-1. #48 _Quesabirria Flamin'Hot_ (Clasificatorio)
+1. #11 _Solanitos_ (Regional)
+1. #22 _Quesabirria Flamin'Hot_ (Regional)
 1. #51 _Los Chicos Superpoderosos_ (Clasificatorio)
 1. #80 _Bogo sorters_ (Clasificatorio)
 1. #105 _GH^2_ (Clasificatorio)

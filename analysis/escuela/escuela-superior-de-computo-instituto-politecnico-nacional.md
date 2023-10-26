@@ -15,9 +15,9 @@
 1. _Escoders_ resolvió 5 problemas y obtuvo el lugar #1 (100%) en The 2012 Mexico & Central America Regional Contest
     - Avanzó a la final mundial y resolvió 1 problemas y obtuvo el lugar #94 (21%) en 37th Annual World Finals of the ACM International Collegiate Programming Contest
 1. _Chilaquiles con pollo_ resolvió 5 problemas y obtuvo el lugar #1 (100%) en The 2021 ICPC Mexico Finals
-1. _Catadores de Patas (ahora en ICPC)_ resolvió 19 problemas y obtuvo el lugar #2 (100%) en The 2023 ICPC Gran Premio de Mexico
 1. _Exceso de Fé_ resolvió 6 problemas y obtuvo el lugar #4 (100%) en The 2022 ICPC Mexico Finals
 1. _Error: "Team Name" not defined_ resolvió 6 problemas y obtuvo el lugar #7 (100%) en The 2019 ICPC Mexico Finals
+1. _Catadores de Patas (ahora en ICPC)_ resolvió 6 problemas y obtuvo el lugar #4 (99%) en The 2023 ICPC Mexico Finals
 
 ## Participaciones
 
@@ -25,7 +25,7 @@
 
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
-| **Total** | **6** | **65** | **176** | **211** |
+| **Total** | **6** | **68** | **176** | **212** |
 | [2001-2002](#2001-2002) | 0 | 2 | 0 | 2 |
 | [2002-2003](#2002-2003) | 0 | 2 | 0 | 2 |
 | [2003-2004](#2003-2004) | 0 | 1 | 0 | 1 |
@@ -47,7 +47,7 @@
 | [2020-2021](#2020-2021) | 0 | 5 | 12 | 13 |
 | [2021-2022](#2021-2022) | 0 | 5 | 11 | 12 |
 | [2022-2023](#2022-2023) | 0 | 5 | 27 | 27 |
-| [2023-2024](#2023-2024) | 0 | 0 | 28 | 28 |
+| [2023-2024](#2023-2024) | 0 | 3 | 28 | 29 |
 
 ### 2001-2002
 
@@ -303,9 +303,10 @@
 
 ### 2023-2024
 
-1. #2 _Catadores de Patas (ahora en ICPC)_ (Clasificatorio)
-1. #5 _God Save Galois_ (Clasificatorio)
+1. #4 _Catadores de Patas (ahora en ICPC)_ (Regional)
+1. #5 _Tres de Suaperro con Todo_ (Regional)
 1. #8 _Tres de suadero con todo_ (Clasificatorio)
+1. #8 _God Save Galois_ (Regional)
 1. #22 _Not only WA but also TLE_ (Clasificatorio)
 1. #24 _CE intentó_ (Clasificatorio)
 1. #28 _Red de Transporte Público_ (Clasificatorio)

@@ -21,7 +21,7 @@
 
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
-| **Total** | **2** | **54** | **80** | **120** |
+| **Total** | **2** | **56** | **80** | **120** |
 | [2001-2002](#2001-2002) | 0 | 3 | 0 | 3 |
 | [2002-2003](#2002-2003) | 0 | 3 | 0 | 3 |
 | [2003-2004](#2003-2004) | 0 | 3 | 0 | 3 |
@@ -44,7 +44,7 @@
 | [2020-2021](#2020-2021) | 0 | 2 | 11 | 11 |
 | [2021-2022](#2021-2022) | 0 | 2 | 11 | 11 |
 | [2022-2023](#2022-2023) | 0 | 2 | 23 | 23 |
-| [2023-2024](#2023-2024) | 0 | 0 | 14 | 14 |
+| [2023-2024](#2023-2024) | 0 | 2 | 14 | 14 |
 
 ### 2001-2002
 
@@ -222,8 +222,8 @@
 
 ### 2023-2024
 
-1. #19 _Tigres.cpp_ (Clasificatorio)
-1. #45 _Los Tres Paleteros_ (Clasificatorio)
+1. #24 _Tigres.cpp_ (Regional)
+1. #39 _Los Tres Paleteros_ (Regional)
 1. #125 _xor_ (Clasificatorio)
 1. #209 _los rapidines_ (Clasificatorio)
 1. #217 _Hacking Squad_ (Clasificatorio)

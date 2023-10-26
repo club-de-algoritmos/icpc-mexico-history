@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
-| **Total** | **0** | **14** | **57** | **62** |
+| **Total** | **0** | **15** | **57** | **62** |
 | [2006-2007](#2006-2007) | 0 | 1 | 0 | 1 |
 | [2012-2013](#2012-2013) | 0 | 2 | 0 | 2 |
 | [2013-2014](#2013-2014) | 0 | 2 | 0 | 2 |
@@ -32,7 +32,7 @@
 | [2020-2021](#2020-2021) | 0 | 1 | 4 | 4 |
 | [2021-2022](#2021-2022) | 0 | 0 | 4 | 4 |
 | [2022-2023](#2022-2023) | 0 | 0 | 7 | 7 |
-| [2023-2024](#2023-2024) | 0 | 0 | 5 | 5 |
+| [2023-2024](#2023-2024) | 0 | 1 | 5 | 5 |
 
 ### 2006-2007
 
@@ -129,7 +129,7 @@
 
 ### 2023-2024
 
-1. #54 (#7 de TecNM) _#include<itverpower>_ (Clasificatorio)
+1. #55 (#10 de TecNM) _#include<itverpower>_ (Regional)
 1. #128 (#24 de TecNM) _The Future Code_ (Clasificatorio)
 1. #180 (#32 de TecNM) _Javarianos_ (Clasificatorio)
 1. #197 (#38 de TecNM) _SXTeam_ (Clasificatorio)

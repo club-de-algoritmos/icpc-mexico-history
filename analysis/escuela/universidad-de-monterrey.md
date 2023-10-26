@@ -5,9 +5,9 @@
 1. _Equipo alfa buena maravilla onda dinamita escuadrón lobo_ resolvió 1 problemas y obtuvo el lugar #45 (96%) en The 2022 ICPC Mexico Finals
 1. _Raptors_ resolvió 1 problemas y obtuvo el lugar #46 (96%) en The 2022 ICPC Mexico Finals
 1. _Troyanos_ resolvió 3 problemas y obtuvo el lugar #10 (92%) en The 2004 ACM Mexico and Central America Programming Contest
+1. _The Chosen O(n)es_ resolvió 1 problemas y obtuvo el lugar #46 (90%) en The 2023 ICPC Mexico Finals
 1. _Serendipia_ resolvió 6 problemas y obtuvo el lugar #113 (89%) en The 2022 ICPC Gran Premio de Mexico
 1. _UDEM1_ resolvió 2 problemas y obtuvo el lugar #20 (86%) en The 2005 ACM Mexico and Central America Programming Contest
-1. _The Chosen O(n)es_ resolvió 6 problemas y obtuvo el lugar #67 (86%) en The 2023 ICPC Gran Premio de Mexico
 1. _trying_ resolvió 4 problemas y obtuvo el lugar #183 (86%) en Gran Premio de Mexico 2019
 1. _aoc_ resolvió 3 problemas y obtuvo el lugar #196 (85%) en Gran Premio de Mexico 2019
 1. _Vikings_ resolvió 4 problemas y obtuvo el lugar #179 (83%) en The 2022 ICPC Gran Premio de Mexico
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
-| **Total** | **0** | **12** | **50** | **60** |
+| **Total** | **0** | **13** | **50** | **60** |
 | [2002-2003](#2002-2003) | 0 | 2 | 0 | 2 |
 | [2003-2004](#2003-2004) | 0 | 2 | 0 | 2 |
 | [2004-2005](#2004-2005) | 0 | 1 | 0 | 1 |
@@ -32,7 +32,7 @@
 | [2020-2021](#2020-2021) | 0 | 0 | 4 | 4 |
 | [2021-2022](#2021-2022) | 0 | 0 | 12 | 12 |
 | [2022-2023](#2022-2023) | 0 | 2 | 9 | 9 |
-| [2023-2024](#2023-2024) | 0 | 0 | 7 | 7 |
+| [2023-2024](#2023-2024) | 0 | 1 | 7 | 7 |
 
 ### 2002-2003
 
@@ -125,7 +125,7 @@
 
 ### 2023-2024
 
-1. #67 _The Chosen O(n)es_ (Clasificatorio)
+1. #46 _The Chosen O(n)es_ (Regional)
 1. #84 _Cyberpsychos_ (Clasificatorio)
 1. #129 _DebugX_ (Clasificatorio)
 1. #179 _Pastel de 3 Leches_ (Clasificatorio)

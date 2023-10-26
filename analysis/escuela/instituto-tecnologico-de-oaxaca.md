@@ -11,7 +11,7 @@
 1. _The Warriors_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _Itosaurios_ resolvió 4 problemas y obtuvo el lugar #202 (56%) en The 2023 ICPC Gran Premio de Mexico
 1. _Equipo 2_ resolvió 3 problemas y obtuvo el lugar #244 (47%) en The 2023 ICPC Gran Premio de Mexico
-1. _MonsterUniversity_ resolvió 2 problemas y obtuvo el lugar #272 (41%) en The 2023 ICPC Gran Premio de Mexico
+1. _MonsterUniversity_ resolvió 2 problemas y obtuvo el lugar #272 (40%) en The 2023 ICPC Gran Premio de Mexico
 
 ## Participaciones
 

@@ -21,7 +21,7 @@
 
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
-| **Total** | **2** | **25** | **194** | **202** |
+| **Total** | **2** | **29** | **194** | **202** |
 | [2010-2011](#2010-2011) | 0 | 3 | 0 | 3 |
 | [2011-2012](#2011-2012) | 0 | 1 | 0 | 1 |
 | [2012-2013](#2012-2013) | 0 | 2 | 0 | 2 |
@@ -35,7 +35,7 @@
 | [2020-2021](#2020-2021) | 0 | 2 | 24 | 24 |
 | [2021-2022](#2021-2022) | 0 | 3 | 17 | 17 |
 | [2022-2023](#2022-2023) | 0 | 3 | 29 | 29 |
-| [2023-2024](#2023-2024) | 0 | 0 | 20 | 20 |
+| [2023-2024](#2023-2024) | 0 | 4 | 20 | 20 |
 
 ### 2010-2011
 
@@ -262,10 +262,10 @@
 
 ### 2023-2024
 
-1. #18 (#2 de TecNM) _BITsur_ (Clasificatorio)
-1. #50 (#6 de TecNM) _Me levanto, un baño y me pongo a Codear_ (Clasificatorio)
-1. #58 (#8 de TecNM) _The more you code, the more you drink_ (Clasificatorio)
-1. #61 (#9 de TecNM) _ITSURprises_ (Clasificatorio)
+1. #19 (#2 de TecNM) _BITsur_ (Regional)
+1. #25 (#3 de TecNM) _The more you code, the more you drink_ (Regional)
+1. #29 (#4 de TecNM) _ITSURprises_ (Regional)
+1. #36 (#7 de TecNM) _Me levanto, un baño y me pongo a Codear_ (Regional)
 1. #76 (#12 de TecNM) _Tenemosfe.cpp_ (Clasificatorio)
 1. #94 (#16 de TecNM) _Códigos tumbados del Sur de GTO_ (Clasificatorio)
 1. #99 (#17 de TecNM) _Coffe_and_tea_ (Clasificatorio)

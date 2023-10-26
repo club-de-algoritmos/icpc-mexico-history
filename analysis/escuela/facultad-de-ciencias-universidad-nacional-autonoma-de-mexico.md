@@ -11,8 +11,8 @@
 1. _PumOMM_ resolvió 10 problemas y obtuvo el lugar #2 (100%) en The 2020 ICPC Mexico Finals
 1. _Cagua++_ resolvió 6 problemas y obtuvo el lugar #3 (100%) en The 2022 ICPC Mexico Finals
 1. _pu+os_ resolvió 6 problemas y obtuvo el lugar #4 (100%) en The 2019 ICPC Mexico Finals
-1. _Peso Puma_ resolvió 16 problemas y obtuvo el lugar #4 (99%) en The 2023 ICPC Gran Premio de Mexico
 1. _pu++_ resolvió 5 problemas y obtuvo el lugar #5 (99%) en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _Peso Puma_ resolvió 5 problemas y obtuvo el lugar #6 (99%) en The 2023 ICPC Mexico Finals
 1. _UNAM Amada_ resolvió 7 problemas y obtuvo el lugar #9 (99%) en The 2018 ICPC Mexico and Central America Finals
 1. _Pumas+_ resolvió 4 problemas y obtuvo el lugar #15 (99%) en The 2019 ICPC Mexico Finals
 
@@ -22,7 +22,7 @@
 
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
-| **Total** | **3** | **17** | **75** | **76** |
+| **Total** | **3** | **20** | **75** | **76** |
 | [2014-2015](#2014-2015) | 0 | 1 | 1 | 1 |
 | [2015-2016](#2015-2016) | 0 | 2 | 2 | 2 |
 | [2016-2017](#2016-2017) | 1 | 1 | 2 | 2 |
@@ -32,7 +32,7 @@
 | [2020-2021](#2020-2021) | 0 | 3 | 15 | 15 |
 | [2021-2022](#2021-2022) | 0 | 2 | 11 | 11 |
 | [2022-2023](#2022-2023) | 0 | 2 | 19 | 19 |
-| [2023-2024](#2023-2024) | 0 | 0 | 5 | 5 |
+| [2023-2024](#2023-2024) | 0 | 3 | 5 | 5 |
 
 ### 2014-2015
 
@@ -137,9 +137,9 @@
 
 ### 2023-2024
 
-1. #4 _Peso Puma_ (Clasificatorio)
-1. #23 _Britneys Pelonas_ (Clasificatorio)
-1. #52 _Godzilambda_ (Clasificatorio)
+1. #6 _Peso Puma_ (Regional)
+1. #26 _Britneys Pelonas_ (Regional)
+1. #50 _Godzilambda_ (Regional)
 1. #63 _Códigos Anónimos_ (Clasificatorio)
 1. #148 _NullSkillException_ (Clasificatorio)
 

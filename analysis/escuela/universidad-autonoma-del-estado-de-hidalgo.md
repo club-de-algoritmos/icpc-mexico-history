@@ -3,7 +3,7 @@
 ## Mejores 10 equipos
 
 1. _CRIGED.PY_ resolvió 1 problemas y obtuvo el lugar #47 (96%) en The 2022 ICPC Mexico Finals
-1. _CRIGED.PY_ resolvió 9 problemas y obtuvo el lugar #35 (93%) en The 2023 ICPC Gran Premio de Mexico
+1. _CRIGED.PY_ resolvió 3 problemas y obtuvo el lugar #28 (94%) en The 2023 ICPC Mexico Finals
 1. _CTRL2_ resolvió 5 problemas y obtuvo el lugar #132 (87%) en The 2022 ICPC Gran Premio de Mexico
 1. _Mavericks_ resolvió 3 problemas y obtuvo el lugar #204 (81%) en The 2022 ICPC Gran Premio de Mexico
 1. _Coding Slayer_ resolvió 5 problemas y obtuvo el lugar #96 (79%) en The 2023 ICPC Gran Premio de Mexico
@@ -19,12 +19,12 @@
 
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
-| **Total** | **0** | **1** | **20** | **20** |
+| **Total** | **0** | **2** | **20** | **20** |
 | [2014-2015](#2014-2015) | 0 | 0 | 1 | 1 |
 | [2015-2016](#2015-2016) | 0 | 0 | 1 | 1 |
 | [2017-2018](#2017-2018) | 0 | 0 | 1 | 1 |
 | [2022-2023](#2022-2023) | 0 | 1 | 4 | 4 |
-| [2023-2024](#2023-2024) | 0 | 0 | 13 | 13 |
+| [2023-2024](#2023-2024) | 0 | 1 | 13 | 13 |
 
 ### 2014-2015
 
@@ -47,7 +47,7 @@
 
 ### 2023-2024
 
-1. #35 _CRIGED.PY_ (Clasificatorio)
+1. #28 _CRIGED.PY_ (Regional)
 1. #96 _Coding Slayer_ (Clasificatorio)
 1. #104 _Dos tequilas y un mojito_ (Clasificatorio)
 1. #216 _San Ashers ++_ (Clasificatorio)

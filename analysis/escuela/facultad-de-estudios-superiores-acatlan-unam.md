@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
-| **Total** | **0** | **27** | **50** | **60** |
+| **Total** | **0** | **28** | **50** | **60** |
 | [2007-2008](#2007-2008) | 0 | 1 | 0 | 1 |
 | [2011-2012](#2011-2012) | 0 | 3 | 0 | 3 |
 | [2012-2013](#2012-2013) | 0 | 2 | 0 | 2 |
@@ -33,7 +33,7 @@
 | [2020-2021](#2020-2021) | 0 | 3 | 4 | 4 |
 | [2021-2022](#2021-2022) | 0 | 2 | 6 | 6 |
 | [2022-2023](#2022-2023) | 0 | 1 | 8 | 8 |
-| [2023-2024](#2023-2024) | 0 | 0 | 4 | 4 |
+| [2023-2024](#2023-2024) | 0 | 1 | 4 | 4 |
 
 ### 2007-2008
 
@@ -132,7 +132,7 @@
 
 ### 2023-2024
 
-1. #42 _FANGnaticos de lo sensual_ (Clasificatorio)
+1. #54 _FANGnaticos de lo sensual_ (Regional)
 1. #95 _M@cAtletas_ (Clasificatorio)
 1. #228 _PDF(Pasado de flow)_ (Clasificatorio)
 1. #429 _Minitas_chinas++_ (Clasificatorio)

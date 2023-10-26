@@ -21,7 +21,7 @@
 
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
-| **Total** | **2** | **27** | **87** | **102** |
+| **Total** | **2** | **28** | **87** | **102** |
 | [1998-1999](#1998-1999) | 1 | 0 | 0 | 1 |
 | [1999-2000](#1999-2000) | 1 | 0 | 0 | 1 |
 | [2001-2002](#2001-2002) | 0 | 3 | 0 | 3 |
@@ -39,7 +39,7 @@
 | [2020-2021](#2020-2021) | 0 | 1 | 6 | 6 |
 | [2021-2022](#2021-2022) | 0 | 1 | 8 | 8 |
 | [2022-2023](#2022-2023) | 0 | 1 | 14 | 14 |
-| [2023-2024](#2023-2024) | 0 | 0 | 13 | 13 |
+| [2023-2024](#2023-2024) | 0 | 1 | 13 | 13 |
 
 ### 1998-1999
 
@@ -185,7 +185,7 @@
 
 ### 2023-2024
 
-1. #40 (#5 de ITESM) _súbditos de sommerville_ (Clasificatorio)
+1. #31 (#4 de ITESM) _súbditos de sommerville_ (Regional)
 1. #77 (#10 de ITESM) _pi/3_ (Clasificatorio)
 1. #88 (#11 de ITESM) _Sí pifa ? Ehhh : Owww_ (Clasificatorio)
 1. #107 (#15 de ITESM) _Code enjoyers_ (Clasificatorio)

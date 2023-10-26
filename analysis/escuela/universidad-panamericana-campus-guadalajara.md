@@ -4,10 +4,10 @@
 
 1. _Hololive_ resolvió 3 problemas y obtuvo el lugar #22 (98%) en The 2022 ICPC Mexico Finals
 1. _Software Chasers_ resolvió 2 problemas y obtuvo el lugar #38 (97%) en The 2022 ICPC Mexico Finals
-1. _Mojibake_ resolvió 10 problemas y obtuvo el lugar #21 (96%) en The 2023 ICPC Gran Premio de Mexico
 1. _Mojibake_ resolvió 3 problemas y obtuvo el lugar #23 (96%) en The 2021 ICPC Mexico Finals
+1. _Mojibake_ resolvió 3 problemas y obtuvo el lugar #27 (94%) en The 2023 ICPC Mexico Finals
 1. _DrimTimICP_ resolvió 1 problemas y obtuvo el lugar #51 (93%) en The 2020 ICPC Mexico Finals
-1. _Takodachis_ resolvió 8 problemas y obtuvo el lugar #39 (92%) en The 2023 ICPC Gran Premio de Mexico
+1. _Takodachis_ resolvió 2 problemas y obtuvo el lugar #37 (92%) en The 2023 ICPC Mexico Finals
 1. _EzpcLemonEzQuizi_ resolvió 6 problemas y obtuvo el lugar #96 (91%) en The 2022 ICPC Gran Premio de Mexico
 1. _AlfaBuenaMaravillaOndaDinamitaEscuadrónLobo_ resolvió 0 problemas y obtuvo el lugar #50 (90%) en The 2021 ICPC Mexico Finals
 1. _Los Ángeles Azules_ resolvió 6 problemas y obtuvo el lugar #105 (90%) en The 2022 ICPC Gran Premio de Mexico
@@ -19,14 +19,14 @@
 
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
-| **Total** | **0** | **5** | **50** | **50** |
+| **Total** | **0** | **7** | **50** | **50** |
 | [2017-2018](#2017-2018) | 0 | 0 | 2 | 2 |
 | [2018-2019](#2018-2019) | 0 | 0 | 4 | 4 |
 | [2019-2020](#2019-2020) | 0 | 0 | 2 | 2 |
 | [2020-2021](#2020-2021) | 0 | 1 | 6 | 6 |
 | [2021-2022](#2021-2022) | 0 | 2 | 6 | 6 |
 | [2022-2023](#2022-2023) | 0 | 2 | 13 | 13 |
-| [2023-2024](#2023-2024) | 0 | 0 | 17 | 17 |
+| [2023-2024](#2023-2024) | 0 | 2 | 17 | 17 |
 
 ### 2017-2018
 
@@ -81,8 +81,8 @@
 
 ### 2023-2024
 
-1. #21 _Mojibake_ (Clasificatorio)
-1. #39 _Takodachis_ (Clasificatorio)
+1. #27 _Mojibake_ (Regional)
+1. #37 _Takodachis_ (Regional)
 1. #78 _Team Impala_ (Clasificatorio)
 1. #131 _Habika_ (Clasificatorio)
 1. #134 _GoDaddys_ (Clasificatorio)

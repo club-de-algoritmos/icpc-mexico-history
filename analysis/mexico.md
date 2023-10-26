@@ -205,7 +205,7 @@ The ICPC World Finals Invitational Contest
 
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos | Escuelas |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **63** | **2279** | **6390** | **8185** | **388** |
+| **Total** | **63** | **2334** | **6390** | **8186** | **388** |
 | [1996-1997](#1996-1997) | 1 | 0 | 0 | 1 | 1 |
 | [1997-1998](#1997-1998) | 1 | 0 | 0 | 1 | 1 |
 | [1998-1999](#1998-1999) | 3 | 0 | 0 | 3 | 3 |
@@ -233,7 +233,7 @@ The ICPC World Finals Invitational Contest
 | [2020-2021](#2020-2021) | 4 | 58 | 703 | 704 | 151 |
 | [2021-2022](#2021-2022) | 0 | 56 | 491 | 492 | 121 |
 | [2022-2023](#2022-2023) | 0 | 56 | 1042 | 1044 | 155 |
-| [2023-2024](#2023-2024) | 0 | 0 | 457 | 457 | 74 |
+| [2023-2024](#2023-2024) | 0 | 55 | 457 | 458 | 74 |
 
 ## Ranking de escuelas
 
@@ -241,38 +241,38 @@ The ICPC World Finals Invitational Contest
 
 | # | Escuela | Finales mundiales | Regionales | Clasificatorios | Total |
 | --- | --- | --- | --- | --- | --- |
-| 1 | [Facultad de Ciencias-Universidad Nacional Autónoma de México](escuela/facultad-de-ciencias-universidad-nacional-autonoma-de-mexico) | 3 | 14 | 72 | 73 |
+| 1 | [Facultad de Ciencias-Universidad Nacional Autónoma de México](escuela/facultad-de-ciencias-universidad-nacional-autonoma-de-mexico) | 3 | 17 | 72 | 73 |
 | 2 | [Instituto Tecnológico Autónomo de México](escuela/instituto-tecnologico-autonomo-de-mexico) | 3 | 9 | 27 | 27 |
-| 3 | [Escuela Superior De Computo Instituto Politecnico Nacional](escuela/escuela-superior-de-computo-instituto-politecnico-nacional) | 2 | 27 | 155 | 157 |
-| 4 | [ITESM Campus Monterrey](escuela/itesm-campus-monterrey) | 2 | 23 | 278 | 279 |
-| 5 | [Universidad Panamericana Campus Bonaterra](escuela/universidad-panamericana-campus-bonaterra) | 2 | 17 | 77 | 77 |
-| 6 | [Instituto Tecnológico Superior del Sur de Guanajuato](escuela/instituto-tecnologico-superior-del-sur-de-guanajuato) | 2 | 14 | 176 | 176 |
-| 7 | [Universidad Autónoma de Nuevo Leon](escuela/universidad-autonoma-de-nuevo-leon) | 2 | 12 | 76 | 76 |
-| 8 | [Universidad de Guanajuato - CIMAT](escuela/universidad-de-guanajuato-cimat) | 1 | 20 | 51 | 51 |
-| 9 | [Universidad de Guadalajara CUCEI](escuela/universidad-de-guadalajara-cucei) | 1 | 16 | 118 | 118 |
+| 3 | [Escuela Superior De Computo Instituto Politecnico Nacional](escuela/escuela-superior-de-computo-instituto-politecnico-nacional) | 2 | 30 | 155 | 158 |
+| 4 | [ITESM Campus Monterrey](escuela/itesm-campus-monterrey) | 2 | 26 | 278 | 279 |
+| 5 | [Universidad Panamericana Campus Bonaterra](escuela/universidad-panamericana-campus-bonaterra) | 2 | 21 | 77 | 77 |
+| 6 | [Instituto Tecnológico Superior del Sur de Guanajuato](escuela/instituto-tecnologico-superior-del-sur-de-guanajuato) | 2 | 18 | 176 | 176 |
+| 7 | [Universidad Autónoma de Nuevo Leon](escuela/universidad-autonoma-de-nuevo-leon) | 2 | 14 | 76 | 76 |
+| 8 | [Universidad de Guanajuato - CIMAT](escuela/universidad-de-guanajuato-cimat) | 1 | 23 | 51 | 51 |
+| 9 | [Universidad de Guadalajara CUCEI](escuela/universidad-de-guadalajara-cucei) | 1 | 19 | 118 | 118 |
 | 10 | [ITESM Campus Queretaro](escuela/itesm-campus-queretaro) | 1 | 7 | 28 | 29 |
 
 ### Histórico
 
 | # | Escuela | Finales mundiales | Regionales | Clasificatorios | Total |
 | --- | --- | --- | --- | --- | --- |
-| 1 | [ITESM Campus Monterrey](escuela/itesm-campus-monterrey) | 10 | 89 | 297 | 361 |
-| 2 | [Escuela Superior De Computo Instituto Politecnico Nacional](escuela/escuela-superior-de-computo-instituto-politecnico-nacional) | 6 | 65 | 176 | 211 |
-| 3 | [Universidad de Guanajuato - CIMAT](escuela/universidad-de-guanajuato-cimat) | 6 | 57 | 65 | 96 |
+| 1 | [ITESM Campus Monterrey](escuela/itesm-campus-monterrey) | 10 | 92 | 297 | 361 |
+| 2 | [Escuela Superior De Computo Instituto Politecnico Nacional](escuela/escuela-superior-de-computo-instituto-politecnico-nacional) | 6 | 68 | 176 | 212 |
+| 3 | [Universidad de Guanajuato - CIMAT](escuela/universidad-de-guanajuato-cimat) | 6 | 60 | 65 | 96 |
 | 4 | [Universidad Tecnológica de la Mixteca](escuela/universidad-tecnologica-de-la-mixteca) | 5 | 43 | 35 | 72 |
-| 5 | [Instituto Tecnológico Autónomo de México](escuela/instituto-tecnologico-autonomo-de-mexico) | 4 | 37 | 33 | 58 |
-| 6 | [Universidad Panamericana Campus Bonaterra](escuela/universidad-panamericana-campus-bonaterra) | 4 | 33 | 90 | 103 |
+| 5 | [Universidad Panamericana Campus Bonaterra](escuela/universidad-panamericana-campus-bonaterra) | 4 | 37 | 90 | 103 |
+| 6 | [Instituto Tecnológico Autónomo de México](escuela/instituto-tecnologico-autonomo-de-mexico) | 4 | 37 | 33 | 58 |
 | 7 | [Universidad de las Americas-Puebla](escuela/universidad-de-las-americas-puebla) | 4 | 23 | 0 | 25 |
-| 8 | [Facultad de Ciencias-Universidad Nacional Autónoma de México](escuela/facultad-de-ciencias-universidad-nacional-autonoma-de-mexico) | 3 | 17 | 75 | 76 |
-| 9 | [Universidad de Guadalajara CUCEI](escuela/universidad-de-guadalajara-cucei) | 2 | 71 | 142 | 195 |
+| 8 | [Facultad de Ciencias-Universidad Nacional Autónoma de México](escuela/facultad-de-ciencias-universidad-nacional-autonoma-de-mexico) | 3 | 20 | 75 | 76 |
+| 9 | [Universidad de Guadalajara CUCEI](escuela/universidad-de-guadalajara-cucei) | 2 | 74 | 142 | 195 |
 | 10 | [ITESM Campus Queretaro](escuela/itesm-campus-queretaro) | 2 | 68 | 33 | 94 |
-| 11 | [Universidad Autónoma de Nuevo Leon](escuela/universidad-autonoma-de-nuevo-leon) | 2 | 54 | 80 | 120 |
-| 12 | [Universidad Autónoma de Aguascalientes](escuela/universidad-autonoma-de-aguascalientes) | 2 | 39 | 90 | 115 |
+| 11 | [Universidad Autónoma de Nuevo Leon](escuela/universidad-autonoma-de-nuevo-leon) | 2 | 56 | 80 | 120 |
+| 12 | [Universidad Autónoma de Aguascalientes](escuela/universidad-autonoma-de-aguascalientes) | 2 | 40 | 90 | 115 |
 | 13 | [Benemérita Universidad Autónoma de Puebla](escuela/benemerita-universidad-autonoma-de-puebla) | 2 | 37 | 15 | 51 |
 | 14 | [Instituto Tecnológico de Ciudad Madero](escuela/instituto-tecnologico-de-ciudad-madero) | 2 | 34 | 43 | 76 |
-| 15 | [ITESM Campus Estado de Mexico](escuela/itesm-campus-estado-de-mexico) | 2 | 27 | 87 | 102 |
-| 16 | [Instituto Tecnológico Superior del Sur de Guanajuato](escuela/instituto-tecnologico-superior-del-sur-de-guanajuato) | 2 | 25 | 194 | 202 |
-| 17 | [Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan) | 2 | 17 | 39 | 53 |
+| 15 | [Instituto Tecnológico Superior del Sur de Guanajuato](escuela/instituto-tecnologico-superior-del-sur-de-guanajuato) | 2 | 29 | 194 | 202 |
+| 16 | [ITESM Campus Estado de Mexico](escuela/itesm-campus-estado-de-mexico) | 2 | 28 | 87 | 102 |
+| 17 | [Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan) | 2 | 19 | 39 | 53 |
 | 18 | [Universidad Autónoma de Tlaxcala](escuela/universidad-autonoma-de-tlaxcala) | 1 | 35 | 41 | 76 |
 | 19 | [ITESM Campus Puebla](escuela/itesm-campus-puebla) | 1 | 22 | 57 | 69 |
 | 20 | [Universidad Juárez Autónoma de Tabasco](escuela/universidad-juarez-autonoma-de-tabasco) | 1 | 0 | 0 | 1 |

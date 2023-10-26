@@ -4,11 +4,11 @@
 
 1. _Array of clowns_ resolvió 10 problemas y obtuvo el lugar #73 (94%) en Gran Premio de Mexico 2019
 1. _CPU;_ resolvió 7 problemas y obtuvo el lugar #81 (92%) en The 2022 ICPC Gran Premio de Mexico
+1. _CPU_ resolvió 2 problemas y obtuvo el lugar #44 (91%) en The 2023 ICPC Mexico Finals
 1. _Hakunas_ resolvió 2 problemas y obtuvo el lugar #51 (90%) en The 2016 ACM-ICPC Mexico and Central America Finals
 1. _3 de asada_ resolvió 5 problemas y obtuvo el lugar #115 (89%) en The 2022 ICPC Gran Premio de Mexico
 1. _<bits/team.h>_ resolvió 5 problemas y obtuvo el lugar #118 (89%) en The 2022 ICPC Gran Premio de Mexico
 1. _Array of clowns_ resolvió 7 problemas y obtuvo el lugar #86 (87%) en Gran Premio de Mexico & Centroamerica 2017
-1. _CPU_ resolvió 6 problemas y obtuvo el lugar #69 (85%) en The 2023 ICPC Gran Premio de Mexico
 1. _Nous_ resolvió 6 problemas y obtuvo el lugar #70 (85%) en The 2023 ICPC Gran Premio de Mexico
 1. _Array of clowns[]_ resolvió 7 problemas y obtuvo el lugar #95 (84%) en Gran Premio de Mexico 2018
 1. _Formato APA_ resolvió 10 problemas y obtuvo el lugar #112 (84%) en Gran Premio de Mexico 2020
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
-| **Total** | **0** | **7** | **35** | **40** |
+| **Total** | **0** | **8** | **35** | **40** |
 | [2006-2007](#2006-2007) | 0 | 1 | 0 | 1 |
 | [2007-2008](#2007-2008) | 0 | 2 | 0 | 2 |
 | [2008-2009](#2008-2009) | 0 | 2 | 0 | 2 |
@@ -31,7 +31,7 @@
 | [2020-2021](#2020-2021) | 0 | 0 | 3 | 3 |
 | [2021-2022](#2021-2022) | 0 | 0 | 2 | 2 |
 | [2022-2023](#2022-2023) | 0 | 0 | 5 | 5 |
-| [2023-2024](#2023-2024) | 0 | 0 | 7 | 7 |
+| [2023-2024](#2023-2024) | 0 | 1 | 7 | 7 |
 
 ### 2006-2007
 
@@ -101,7 +101,7 @@
 
 ### 2023-2024
 
-1. #69 _CPU_ (Clasificatorio)
+1. #44 _CPU_ (Regional)
 1. #70 _Nous_ (Clasificatorio)
 1. #116 _Alt + 35 1_ (Clasificatorio)
 1. #137 _<bits/team.h>_ (Clasificatorio)

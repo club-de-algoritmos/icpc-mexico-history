@@ -2,7 +2,7 @@
 
 ## Mejores 10 equipos
 
-1. _Borregos Salvajes_ resolvió 15 problemas y obtuvo el lugar #6 (99%) en The 2023 ICPC Gran Premio de Mexico
+1. _Borregos Salvajes_ resolvió 6 problemas y obtuvo el lugar #3 (100%) en The 2023 ICPC Mexico Finals
 1. _Tsurus Tuneados_ resolvió 3 problemas y obtuvo el lugar #18 (98%) en The 2022 ICPC Mexico Finals
 1. _ViralBugSyndrome.exe_ resolvió 4 problemas y obtuvo el lugar #20 (98%) en The 2018 ICPC Mexico and Central America Finals
 1. _Carlit-OS_ resolvió 4 problemas y obtuvo el lugar #10 (95%) en The 2008 Mexico & Central America Contest
@@ -10,8 +10,8 @@
 1. _Galácticos 1_ resolvió 8 problemas y obtuvo el lugar #71 (94%) en Gran Premio de Mexico 2019
 1. _Acrux Exclamation_ resolvió 4 problemas y obtuvo el lugar #10 (93%) en The 2006 ACM Mexico and Central America Programming Contest
 1. _McTrio_ resolvió 3 problemas y obtuvo el lugar #11 (93%) en The 2007 ACM Mexico and Central America Programming Contest
+1. _Los Fosa_ resolvió 3 problemas y obtuvo el lugar #33 (93%) en The 2023 ICPC Mexico Finals
 1. _Tec GDL 6_ resolvió 1 problemas y obtuvo el lugar #47 (91%) en The 2021 ICPC Mexico Finals
-1. _Aleph_ resolvió 2 problemas y obtuvo el lugar #10 (90%) en The 2002 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
-| **Total** | **0** | **46** | **55** | **96** |
+| **Total** | **0** | **49** | **55** | **96** |
 | [2001-2002](#2001-2002) | 0 | 1 | 0 | 1 |
 | [2002-2003](#2002-2003) | 0 | 3 | 0 | 3 |
 | [2003-2004](#2003-2004) | 0 | 1 | 0 | 1 |
@@ -39,7 +39,7 @@
 | [2020-2021](#2020-2021) | 0 | 1 | 16 | 16 |
 | [2021-2022](#2021-2022) | 0 | 2 | 8 | 8 |
 | [2022-2023](#2022-2023) | 0 | 1 | 8 | 8 |
-| [2023-2024](#2023-2024) | 0 | 0 | 6 | 6 |
+| [2023-2024](#2023-2024) | 0 | 3 | 6 | 6 |
 
 ### 2001-2002
 
@@ -190,10 +190,10 @@
 
 ### 2023-2024
 
-1. #6 (#1 de ITESM) _Borregos Salvajes_ (Clasificatorio)
-1. #201 (#27 de ITESM) _Los Fosa_ (Clasificatorio)
+1. #3 (#1 de ITESM) _Borregos Salvajes_ (Regional)
+1. #33 (#6 de ITESM) _Los Fosa_ (Regional)
+1. #49 (#7 de ITESM) _TECueme_ (Regional)
 1. #295 (#38 de ITESM) _Bubble Sorters_ (Clasificatorio)
-1. #321 (#43 de ITESM) _TECueme_ (Clasificatorio)
 1. #374 (#47 de ITESM) _CodICI_ (Clasificatorio)
 1. #423 (#56 de ITESM) _GADAX_ (Clasificatorio)
 

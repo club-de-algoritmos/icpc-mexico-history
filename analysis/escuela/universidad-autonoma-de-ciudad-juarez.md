@@ -2,8 +2,8 @@
 
 ## Mejores 10 equipos
 
-1. _First to Penalty_ resolvió 12 problemas y obtuvo el lugar #15 (97%) en The 2023 ICPC Gran Premio de Mexico
 1. _TLE_SQUARED_ resolvió 3 problemas y obtuvo el lugar #29 (97%) en The 2022 ICPC Mexico Finals
+1. _First to Penalty_ resolvió 4 problemas y obtuvo el lugar #18 (96%) en The 2023 ICPC Mexico Finals
 1. _AlgoTeam_ resolvió 1 problemas y obtuvo el lugar #40 (92%) en The 2021 ICPC Mexico Finals
 1. _Ctrl alt del_ resolvió 5 problemas y obtuvo el lugar #160 (85%) en The 2022 ICPC Gran Premio de Mexico
 1. _Hard Coders_ resolvió 10 problemas y obtuvo el lugar #113 (84%) en Gran Premio de Mexico 2020
@@ -19,13 +19,13 @@
 
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
-| **Total** | **0** | **2** | **16** | **16** |
+| **Total** | **0** | **3** | **16** | **16** |
 | [2018-2019](#2018-2019) | 0 | 0 | 2 | 2 |
 | [2019-2020](#2019-2020) | 0 | 0 | 1 | 1 |
 | [2020-2021](#2020-2021) | 0 | 0 | 4 | 4 |
 | [2021-2022](#2021-2022) | 0 | 1 | 1 | 1 |
 | [2022-2023](#2022-2023) | 0 | 1 | 5 | 5 |
-| [2023-2024](#2023-2024) | 0 | 0 | 3 | 3 |
+| [2023-2024](#2023-2024) | 0 | 1 | 3 | 3 |
 
 ### 2018-2019
 
@@ -57,7 +57,7 @@
 
 ### 2023-2024
 
-1. #15 _First to Penalty_ (Clasificatorio)
+1. #18 _First to Penalty_ (Regional)
 1. #152 _relenTLEss_ (Clasificatorio)
 1. #205 _Impossibru_ (Clasificatorio)
 

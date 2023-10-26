@@ -7,10 +7,10 @@
 1. _U de G ACM Problem Solvers_ resolvió 6 problemas y obtuvo el lugar #1 (100%) en The 2007 ACM Mexico and Central America Programming Contest
     - Avanzó a la final mundial y resolvió 2 problemas y obtuvo el lugar #65 (35%) en The 2008 ACM Programming Contest World Finals
 1. _Leones(0,0,0)_ resolvió 5 problemas y obtuvo el lugar #2 (100%) en The 2021 ICPC Mexico Finals
-1. _The Silence of the Lambdas_ resolvió 15 problemas y obtuvo el lugar #7 (99%) en The 2023 ICPC Gran Premio de Mexico
 1. _Almost Retired_ resolvió 4 problemas y obtuvo el lugar #9 (99%) en The 2022 ICPC Mexico Finals
 1. _Ma+aLeones7000_ resolvió 4 problemas y obtuvo el lugar #10 (99%) en The 2022 ICPC Mexico Finals
 1. _Leones(0,0,0);_ resolvió 4 problemas y obtuvo el lugar #17 (99%) en The 2019 ICPC Mexico Finals
+1. _DeltaWing_ resolvió 5 problemas y obtuvo el lugar #10 (98%) en The 2023 ICPC Mexico Finals
 1. _The Empire Strikes Back_ resolvió 4 problemas y obtuvo el lugar #14 (98%) en The 2020 ICPC Mexico Finals
 1. _Los Mismísimos Carajillos_ resolvió 4 problemas y obtuvo el lugar #17 (98%) en The 2022 ICPC Mexico Finals
 1. _DeltaWing_ resolvió 3 problemas y obtuvo el lugar #24 (98%) en The 2022 ICPC Mexico Finals
@@ -21,7 +21,7 @@
 
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
-| **Total** | **2** | **71** | **142** | **195** |
+| **Total** | **2** | **74** | **142** | **195** |
 | [2002-2003](#2002-2003) | 0 | 2 | 0 | 2 |
 | [2003-2004](#2003-2004) | 0 | 5 | 0 | 5 |
 | [2004-2005](#2004-2005) | 0 | 8 | 0 | 8 |
@@ -43,7 +43,7 @@
 | [2020-2021](#2020-2021) | 1 | 3 | 7 | 7 |
 | [2021-2022](#2021-2022) | 0 | 3 | 7 | 7 |
 | [2022-2023](#2022-2023) | 0 | 5 | 26 | 26 |
-| [2023-2024](#2023-2024) | 0 | 0 | 19 | 19 |
+| [2023-2024](#2023-2024) | 0 | 3 | 19 | 19 |
 
 ### 2002-2003
 
@@ -288,9 +288,9 @@
 
 ### 2023-2024
 
-1. #7 _The Silence of the Lambdas_ (Clasificatorio)
-1. #17 _DeltaWing_ (Clasificatorio)
-1. #37 _De último minuto_ (Clasificatorio)
+1. #10 _DeltaWing_ (Regional)
+1. #17 _The Silence of the Lambdas_ (Regional)
+1. #43 _De último minuto_ (Regional)
 1. #56 _Michisaurios_ (Clasificatorio)
 1. #57 _Los WAsones_ (Clasificatorio)
 1. #72 _Las Divinas_ (Clasificatorio)

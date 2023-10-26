@@ -8,7 +8,7 @@
 1. _JCC_ resolvió 3 problemas y obtuvo el lugar #28 (95%) en The 2016 ACM-ICPC Mexico and Central America Finals
 1. _FAV_ resolvió 2 problemas y obtuvo el lugar #36 (95%) en The 2017 ACM-ICPC Mexico and Central America Finals
 1. _JJL_ resolvió 3 problemas y obtuvo el lugar #39 (95%) en The 2018 ICPC Mexico and Central America Finals
-1. _Leones->Code();_ resolvió 9 problemas y obtuvo el lugar #31 (93%) en The 2023 ICPC Gran Premio de Mexico
+1. _Leones->Code();_ resolvió 3 problemas y obtuvo el lugar #34 (93%) en The 2023 ICPC Mexico Finals
 1. _JJC_ resolvió 2 problemas y obtuvo el lugar #48 (93%) en The 2017 ACM-ICPC Mexico and Central America Finals
 1. _Los vengadores_ resolvió 2 problemas y obtuvo el lugar #58 (89%) en The 2016 ACM-ICPC Mexico and Central America Finals
 1. _SAJ_ resolvió 4 problemas y obtuvo el lugar #152 (88%) en Gran Premio de Mexico 2019
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
-| **Total** | **0** | **11** | **32** | **33** |
+| **Total** | **0** | **12** | **32** | **33** |
 | [2012-2013](#2012-2013) | 0 | 1 | 0 | 1 |
 | [2014-2015](#2014-2015) | 0 | 1 | 2 | 2 |
 | [2015-2016](#2015-2016) | 0 | 1 | 1 | 1 |
@@ -30,7 +30,7 @@
 | [2020-2021](#2020-2021) | 0 | 1 | 4 | 4 |
 | [2021-2022](#2021-2022) | 0 | 0 | 2 | 2 |
 | [2022-2023](#2022-2023) | 0 | 1 | 4 | 4 |
-| [2023-2024](#2023-2024) | 0 | 0 | 4 | 4 |
+| [2023-2024](#2023-2024) | 0 | 1 | 4 | 4 |
 
 ### 2012-2013
 
@@ -93,7 +93,7 @@
 
 ### 2023-2024
 
-1. #31 _Leones->Code();_ (Clasificatorio)
+1. #34 _Leones->Code();_ (Regional)
 1. #146 _Team Overflow_ (Clasificatorio)
 1. #222 _LHM_ (Clasificatorio)
 1. #256 _APC_ (Clasificatorio)

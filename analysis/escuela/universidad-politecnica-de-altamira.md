@@ -2,7 +2,7 @@
 
 ## Mejores 10 equipos
 
-1. _Bit By Bit_ resolvió 5 problemas y obtuvo el lugar #126 (73%) en The 2023 ICPC Gran Premio de Mexico
+1. _Bit By Bit_ resolvió 5 problemas y obtuvo el lugar #126 (72%) en The 2023 ICPC Gran Premio de Mexico
 1. _Javalies 1_ resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
 1. _Javalies 2_ resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
 1. _Bit By Bit_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico

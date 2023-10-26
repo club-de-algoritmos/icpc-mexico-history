@@ -2,6 +2,7 @@
 
 ## Mejores 10 equipos
 
+1. _Gauss N’ Roses_ resolvió 4 problemas y obtuvo el lugar #12 (98%) en The 2023 ICPC Mexico Finals
 1. _Coding Horror_ resolvió 3 problemas y obtuvo el lugar #17 (98%) en The 2017 ACM-ICPC Mexico and Central America Finals
 1. _Gauss N' Roses_ resolvió 2 problemas y obtuvo el lugar #32 (97%) en The 2022 ICPC Mexico Finals
 1. _Gleichseitiges_ resolvió 3 problemas y obtuvo el lugar #22 (96%) en The 2016 ACM-ICPC Mexico and Central America Finals
@@ -11,7 +12,6 @@
 1. _Firmala Gio_ resolvió 7 problemas y obtuvo el lugar #99 (92%) en Gran Premio de Mexico 2019
 1. _Coding Horror_ resolvió 3 problemas y obtuvo el lugar #23 (91%) en The 2014 ACM-ICPC Mexico and Central America Finals
 1. _Coding Horror_ resolvió 3 problemas y obtuvo el lugar #29 (91%) en The 2015 ACM-ICPC Mexico and Central America Finals
-1. _Gauss N’ Roses_ resolvió 8 problemas y obtuvo el lugar #44 (91%) en The 2023 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
-| **Total** | **0** | **16** | **50** | **58** |
+| **Total** | **0** | **17** | **50** | **58** |
 | [2001-2002](#2001-2002) | 0 | 1 | 0 | 1 |
 | [2002-2003](#2002-2003) | 0 | 2 | 0 | 2 |
 | [2004-2005](#2004-2005) | 0 | 1 | 0 | 1 |
@@ -35,7 +35,7 @@
 | [2020-2021](#2020-2021) | 0 | 0 | 3 | 3 |
 | [2021-2022](#2021-2022) | 0 | 0 | 2 | 2 |
 | [2022-2023](#2022-2023) | 0 | 1 | 1 | 1 |
-| [2023-2024](#2023-2024) | 0 | 0 | 4 | 4 |
+| [2023-2024](#2023-2024) | 0 | 1 | 4 | 4 |
 
 ### 2001-2002
 
@@ -138,7 +138,7 @@
 
 ### 2023-2024
 
-1. #44 _Gauss N’ Roses_ (Clasificatorio)
+1. #12 _Gauss N’ Roses_ (Regional)
 1. #189 _Sasser_ (Clasificatorio)
 1. #223 _FMAT-01_ (Clasificatorio)
 1. #238 _TripleByte_ (Clasificatorio)

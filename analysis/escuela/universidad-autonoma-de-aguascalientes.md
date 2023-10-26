@@ -21,7 +21,7 @@
 
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
-| **Total** | **2** | **39** | **90** | **115** |
+| **Total** | **2** | **40** | **90** | **115** |
 | [2005-2006](#2005-2006) | 0 | 1 | 0 | 1 |
 | [2009-2010](#2009-2010) | 0 | 3 | 0 | 3 |
 | [2010-2011](#2010-2011) | 0 | 3 | 0 | 3 |
@@ -37,7 +37,7 @@
 | [2020-2021](#2020-2021) | 0 | 2 | 3 | 3 |
 | [2021-2022](#2021-2022) | 0 | 1 | 2 | 2 |
 | [2022-2023](#2022-2023) | 0 | 1 | 7 | 7 |
-| [2023-2024](#2023-2024) | 0 | 0 | 4 | 4 |
+| [2023-2024](#2023-2024) | 0 | 1 | 4 | 4 |
 
 ### 2005-2006
 
@@ -199,7 +199,7 @@
 
 ### 2023-2024
 
-1. #41 _MIT (Michoacán Institute of Technology)_ (Clasificatorio)
+1. #38 _MIT (Michoacán Institute of Technology)_ (Regional)
 1. #102 _Bit Brawlers_ (Clasificatorio)
 1. #299 _OverCode_ (Clasificatorio)
 1. #359 _Hacknerds_ (Clasificatorio)

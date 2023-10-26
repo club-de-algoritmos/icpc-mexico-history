@@ -2,7 +2,7 @@
 
 ## Mejores 10 equipos
 
-1. _Juniors_ resolvió 8 problemas y obtuvo el lugar #46 (90%) en The 2023 ICPC Gran Premio de Mexico
+1. _Juniors_ resolvió 3 problemas y obtuvo el lugar #35 (93%) en The 2023 ICPC Mexico Finals
 1. _Juniors_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
@@ -11,9 +11,9 @@
 
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **2** | **2** |
+| **Total** | **0** | **1** | **2** | **2** |
 | [2022-2023](#2022-2023) | 0 | 0 | 1 | 1 |
-| [2023-2024](#2023-2024) | 0 | 0 | 1 | 1 |
+| [2023-2024](#2023-2024) | 0 | 1 | 1 | 1 |
 
 ### 2022-2023
 
@@ -21,7 +21,7 @@
 
 ### 2023-2024
 
-1. #46 (#5 de TecNM) _Juniors_ (Clasificatorio)
+1. #35 (#6 de TecNM) _Juniors_ (Regional)
 
 
 

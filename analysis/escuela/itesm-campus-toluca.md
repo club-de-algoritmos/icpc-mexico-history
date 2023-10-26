@@ -4,7 +4,7 @@
 
 1. _Lxs Pixies_ resolvió 7 problemas y obtuvo el lugar #94 (91%) en The 2022 ICPC Gran Premio de Mexico
 1. _BugHunterAddicts_ resolvió 1 problemas y obtuvo el lugar #49 (90%) en The 2021 ICPC Mexico Finals
-1. _Siuuu++_ resolvió 6 problemas y obtuvo el lugar #60 (87%) en The 2023 ICPC Gran Premio de Mexico
+1. _Siuuu++_ resolvió 1 problemas y obtuvo el lugar #51 (89%) en The 2023 ICPC Mexico Finals
 1. _Googol_ resolvió 7 problemas y obtuvo el lugar #88 (86%) en Gran Premio de Mexico & Centroamerica 2017
 1. _Los Tlacuaches de Turín_ resolvió 5 problemas y obtuvo el lugar #93 (80%) en The 2023 ICPC Gran Premio de Mexico
 1. _ARM_ resolvió 4 problemas y obtuvo el lugar #134 (80%) en Gran Premio de Mexico & Centroamerica 2017
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
-| **Total** | **0** | **11** | **23** | **33** |
+| **Total** | **0** | **12** | **23** | **33** |
 | [2007-2008](#2007-2008) | 0 | 1 | 0 | 1 |
 | [2008-2009](#2008-2009) | 0 | 3 | 0 | 3 |
 | [2009-2010](#2009-2010) | 0 | 2 | 0 | 2 |
@@ -30,7 +30,7 @@
 | [2020-2021](#2020-2021) | 0 | 0 | 3 | 3 |
 | [2021-2022](#2021-2022) | 0 | 1 | 5 | 5 |
 | [2022-2023](#2022-2023) | 0 | 0 | 5 | 5 |
-| [2023-2024](#2023-2024) | 0 | 0 | 3 | 3 |
+| [2023-2024](#2023-2024) | 0 | 1 | 3 | 3 |
 
 ### 2007-2008
 
@@ -94,7 +94,7 @@
 
 ### 2023-2024
 
-1. #60 (#7 de ITESM) _Siuuu++_ (Clasificatorio)
+1. #51 (#8 de ITESM) _Siuuu++_ (Regional)
 1. #93 (#13 de ITESM) _Los Tlacuaches de Turín_ (Clasificatorio)
 1. #171 (#23 de ITESM) _Lxs Pixies_ (Clasificatorio)
 

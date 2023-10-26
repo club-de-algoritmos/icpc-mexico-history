@@ -28,7 +28,7 @@
 
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
-| **Total** | **10** | **89** | **297** | **361** |
+| **Total** | **10** | **92** | **297** | **361** |
 | [1997-1998](#1997-1998) | 1 | 0 | 0 | 1 |
 | [1998-1999](#1998-1999) | 1 | 0 | 0 | 1 |
 | [2000-2001](#2000-2001) | 1 | 0 | 0 | 1 |
@@ -52,7 +52,7 @@
 | [2020-2021](#2020-2021) | 1 | 4 | 64 | 64 |
 | [2021-2022](#2021-2022) | 0 | 3 | 24 | 24 |
 | [2022-2023](#2022-2023) | 0 | 2 | 32 | 32 |
-| [2023-2024](#2023-2024) | 0 | 0 | 30 | 30 |
+| [2023-2024](#2023-2024) | 0 | 3 | 30 | 30 |
 
 ### 1997-1998
 
@@ -466,9 +466,9 @@
 
 ### 2023-2024
 
-1. #20 (#2 de ITESM) _GOLDEN_ (Clasificatorio)
-1. #29 (#3 de ITESM) _team.cpp_ (Clasificatorio)
-1. #38 (#4 de ITESM) _Data Divas_ (Clasificatorio)
+1. #15 (#2 de ITESM) _Data Divas_ (Regional)
+1. #20 (#3 de ITESM) _team.cpp_ (Regional)
+1. #32 (#5 de ITESM) _GOLDEN_ (Regional)
 1. #53 (#6 de ITESM) _La Sosiedad_ (Clasificatorio)
 1. #73 (#8 de ITESM) _Los DEVastadores_ (Clasificatorio)
 1. #75 (#9 de ITESM) _Sabritones_ (Clasificatorio)

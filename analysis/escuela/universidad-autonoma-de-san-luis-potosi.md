@@ -7,10 +7,10 @@
 1. _¿Qué?_ resolvió 3 problemas y obtuvo el lugar #33 (98%) en The 2019 ICPC Mexico Finals
 1. _!nullptr_ resolvió 2 problemas y obtuvo el lugar #34 (97%) en The 2022 ICPC Mexico Finals
 1. _Opilimpicos_ resolvió 1 problemas y obtuvo el lugar #47 (96%) en The 2019 ICPC Mexico Finals
+1. _!nullptr_ resolvió 4 problemas y obtuvo el lugar #23 (95%) en The 2023 ICPC Mexico Finals
 1. _Equipo_ resolvió 3 problemas y obtuvo el lugar #45 (95%) en The 2018 ICPC Mexico and Central America Finals
 1. _js++_ resolvió 1 problemas y obtuvo el lugar #53 (95%) en The 2022 ICPC Mexico Finals
 1. _camel_case_ resolvió 10 problemas y obtuvo el lugar #61 (94%) en The 2022 ICPC Gran Premio de Mexico
-1. _!nullptr_ resolvió 9 problemas y obtuvo el lugar #34 (93%) en The 2023 ICPC Gran Premio de Mexico
 1. _Algorítmicos_ resolvió 9 problemas y obtuvo el lugar #68 (93%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
-| **Total** | **0** | **9** | **81** | **83** |
+| **Total** | **0** | **11** | **81** | **83** |
 | [2002-2003](#2002-2003) | 0 | 1 | 0 | 1 |
 | [2012-2013](#2012-2013) | 0 | 1 | 0 | 1 |
 | [2018-2019](#2018-2019) | 0 | 1 | 4 | 4 |
@@ -27,7 +27,7 @@
 | [2020-2021](#2020-2021) | 0 | 1 | 14 | 14 |
 | [2021-2022](#2021-2022) | 0 | 1 | 6 | 6 |
 | [2022-2023](#2022-2023) | 0 | 2 | 17 | 17 |
-| [2023-2024](#2023-2024) | 0 | 0 | 21 | 21 |
+| [2023-2024](#2023-2024) | 0 | 2 | 21 | 21 |
 
 ### 2002-2003
 
@@ -114,8 +114,8 @@
 
 ### 2023-2024
 
-1. #34 _!nullptr_ (Clasificatorio)
-1. #92 _camel_case_ (Clasificatorio)
+1. #23 _!nullptr_ (Regional)
+1. #48 _camel_case_ (Regional)
 1. #117 _smoothBrains_ (Clasificatorio)
 1. #121 _soul_segmentation_reborn_ (Clasificatorio)
 1. #144 _Xavineta_ (Clasificatorio)

@@ -4,7 +4,7 @@
 
 1. _EspantaBugs_ resolvió 2 problemas y obtuvo el lugar #37 (97%) en The 2022 ICPC Mexico Finals
 1. _ITLN_ resolvió 7 problemas y obtuvo el lugar #101 (92%) en Gran Premio de Mexico 2019
-1. _EspantaBugs_ resolvió 5 problemas y obtuvo el lugar #43 (91%) en The 2023 ICPC Gran Premio de Mexico
+1. _EspantaBugs_ resolvió 2 problemas y obtuvo el lugar #42 (91%) en The 2023 ICPC Mexico Finals
 1. _SPTeam_ resolvió 6 problemas y obtuvo el lugar #74 (84%) en The 2023 ICPC Gran Premio de Mexico
 1. _ITLN_ resolvió 6 problemas y obtuvo el lugar #105 (84%) en Gran Premio de Mexico & Centroamerica 2017
 1. _VectorRaptor's_ resolvió 4 problemas y obtuvo el lugar #171 (84%) en The 2022 ICPC Gran Premio de Mexico
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
-| **Total** | **0** | **23** | **65** | **86** |
+| **Total** | **0** | **24** | **65** | **86** |
 | [2001-2002](#2001-2002) | 0 | 6 | 0 | 6 |
 | [2002-2003](#2002-2003) | 0 | 13 | 0 | 13 |
 | [2013-2014](#2013-2014) | 0 | 2 | 0 | 2 |
@@ -28,7 +28,7 @@
 | [2018-2019](#2018-2019) | 0 | 0 | 7 | 7 |
 | [2019-2020](#2019-2020) | 0 | 0 | 6 | 6 |
 | [2022-2023](#2022-2023) | 0 | 1 | 31 | 31 |
-| [2023-2024](#2023-2024) | 0 | 0 | 11 | 11 |
+| [2023-2024](#2023-2024) | 0 | 1 | 11 | 11 |
 
 ### 2001-2002
 
@@ -131,7 +131,7 @@
 
 ### 2023-2024
 
-1. #43 (#4 de TecNM) _EspantaBugs_ (Clasificatorio)
+1. #42 (#9 de TecNM) _EspantaBugs_ (Regional)
 1. #74 (#11 de TecNM) _SPTeam_ (Clasificatorio)
 1. #101 (#18 de TecNM) _PuroTecLaguna_ (Clasificatorio)
 1. #307 (#65 de TecNM) _Chicharron Prensado_ (Clasificatorio)

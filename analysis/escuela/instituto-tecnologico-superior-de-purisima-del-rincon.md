@@ -10,7 +10,7 @@
 1. _Geek Foxes 2.0_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _Nameless.jar_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _Shark Geeks_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _Black Wolf_ resolvió 4 problemas y obtuvo el lugar #188 (59%) en The 2023 ICPC Gran Premio de Mexico
+1. _Black Wolf_ resolvió 4 problemas y obtuvo el lugar #188 (58%) en The 2023 ICPC Gran Premio de Mexico
 1. _Shark Geeks_ resolvió 0 problemas y obtuvo el lugar #226 (53%) en The 2021 ICPC Gran Premio de Mexico
 
 ## Participaciones
@@ -59,7 +59,7 @@
 1. #188 (#36 de TecNM) _Black Wolf_ (Clasificatorio)
 1. #218 (#41 de TecNM) _3 Bits_ (Clasificatorio)
 1. #279 (#56 de TecNM) _Champions_ (Clasificatorio)
-1. #355 (#89 de TecNM) _Simplex_Team_ (Clasificatorio)
+1. #355 (#87 de TecNM) _Simplex_Team_ (Clasificatorio)
 
 
 

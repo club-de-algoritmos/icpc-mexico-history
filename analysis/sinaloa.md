@@ -236,10 +236,10 @@
 1. #184 (#34 de TecNM) _Chicas Superpoderosas_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
 1. #214 _KOZINA_ ([Universidad Autónoma de Sinaloa](escuela/universidad-autonoma-de-sinaloa)) (Clasificatorio)
 1. #303 (#63 de TecNM) _Datahead_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
-1. #319 (#70 de TecNM) _los traperitos_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
+1. #319 (#69 de TecNM) _los traperitos_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
 1. #442 _New Jeans_ ([Universidad Autónoma de Sinaloa](escuela/universidad-autonoma-de-sinaloa)) (Clasificatorio)
 1. #443 _Gods Programming_ ([Universidad Autónoma de Sinaloa](escuela/universidad-autonoma-de-sinaloa)) (Clasificatorio)
-1. #457 (#136 de TecNM) _Las Llaves_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
+1. #457 (#132 de TecNM) _Las Llaves_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
 
 
 ## Ranking de escuelas

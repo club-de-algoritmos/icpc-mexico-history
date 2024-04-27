@@ -99,11 +99,11 @@
 ### 2023-2024
 
 1. #304 (#64 de TecNM) _The bosses_ (Clasificatorio)
-1. #340 (#80 de TecNM) _SyntaxError_C_ (Clasificatorio)
-1. #347 (#84 de TecNM) _Sakura_ (Clasificatorio)
-1. #363 (#92 de TecNM) _Pathetic_ (Clasificatorio)
-1. #399 (#110 de TecNM) _Squad Boom_ (Clasificatorio)
-1. #448 (#127 de TecNM) _404 Not Found_ (Clasificatorio)
+1. #340 (#79 de TecNM) _SyntaxError_C_ (Clasificatorio)
+1. #347 (#82 de TecNM) _Sakura_ (Clasificatorio)
+1. #363 (#90 de TecNM) _Pathetic_ (Clasificatorio)
+1. #399 (#107 de TecNM) _Squad Boom_ (Clasificatorio)
+1. #448 (#123 de TecNM) _404 Not Found_ (Clasificatorio)
 
 
 

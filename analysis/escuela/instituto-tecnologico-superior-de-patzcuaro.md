@@ -125,8 +125,8 @@
 
 ### 2023-2024
 
-1. #325 (#71 de TecNM) _Novatos_ (Clasificatorio)
-1. #361 (#91 de TecNM) _GelatinaDeVaporrulax_ (Clasificatorio)
+1. #325 (#70 de TecNM) _Novatos_ (Clasificatorio)
+1. #361 (#89 de TecNM) _GelatinaDeVaporrulax_ (Clasificatorio)
 
 
 

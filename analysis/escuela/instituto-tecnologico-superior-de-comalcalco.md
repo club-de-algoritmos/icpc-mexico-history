@@ -61,7 +61,7 @@
 
 ### 2023-2024
 
-1. #458 (#137 de TecNM) _G5_ (Clasificatorio)
+1. #458 (#133 de TecNM) _G5_ (Clasificatorio)
 
 
 

@@ -21,7 +21,7 @@
 
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
-| **Total** | **2** | **29** | **194** | **202** |
+| **Total** | **2** | **29** | **193** | **201** |
 | [2010-2011](#2010-2011) | 0 | 3 | 0 | 3 |
 | [2011-2012](#2011-2012) | 0 | 1 | 0 | 1 |
 | [2012-2013](#2012-2013) | 0 | 2 | 0 | 2 |
@@ -33,7 +33,7 @@
 | [2018-2019](#2018-2019) | 1 | 1 | 19 | 19 |
 | [2019-2020](#2019-2020) | 1 | 2 | 28 | 28 |
 | [2020-2021](#2020-2021) | 0 | 2 | 24 | 24 |
-| [2021-2022](#2021-2022) | 0 | 3 | 17 | 17 |
+| [2021-2022](#2021-2022) | 0 | 3 | 16 | 16 |
 | [2022-2023](#2022-2023) | 0 | 3 | 29 | 29 |
 | [2023-2024](#2023-2024) | 0 | 4 | 20 | 20 |
 
@@ -219,7 +219,6 @@
 1. #158 (#17 de TecNM) _Los Cracks_ (Clasificatorio)
 1. #189 (#21 de TecNM) _Time limit exceeded_ (Clasificatorio)
 1. #224 (#34 de TecNM) _Ultra Magnus Team_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Akatsuki_ (Clasificatorio)
 1. #226 (#36 de TecNM) _CLAY_ (Clasificatorio)
 1. #226 (#36 de TecNM) _Cartel Rinos 217  _ (Clasificatorio)
 1. #226 (#36 de TecNM) _Code PAM_ (Clasificatorio)
@@ -275,13 +274,13 @@
 1. #258 (#49 de TecNM) _SKITTL3S_ (Clasificatorio)
 1. #269 (#50 de TecNM) _Styles_ (Clasificatorio)
 1. #276 (#53 de TecNM) _sICPuede_ (Clasificatorio)
-1. #354 (#88 de TecNM) _Ya Estuvo Suavicremas_ (Clasificatorio)
-1. #384 (#102 de TecNM) _Los Papus_ (Clasificatorio)
-1. #396 (#108 de TecNM) _K-really_ (Clasificatorio)
-1. #398 (#109 de TecNM) _Code Warriors_ (Clasificatorio)
-1. #432 (#113 de TecNM) _MS-TRES_ (Clasificatorio)
-1. #433 (#114 de TecNM) _ICPCoders_ (Clasificatorio)
-1. #434 (#115 de TecNM) _Jeshejojo's_ (Clasificatorio)
+1. #354 (#86 de TecNM) _Ya Estuvo Suavicremas_ (Clasificatorio)
+1. #384 (#99 de TecNM) _Los Papus_ (Clasificatorio)
+1. #396 (#105 de TecNM) _K-really_ (Clasificatorio)
+1. #398 (#106 de TecNM) _Code Warriors_ (Clasificatorio)
+1. #432 (#110 de TecNM) _MS-TRES_ (Clasificatorio)
+1. #433 (#111 de TecNM) _ICPCoders_ (Clasificatorio)
+1. #434 (#112 de TecNM) _Jeshejojo's_ (Clasificatorio)
 
 
 

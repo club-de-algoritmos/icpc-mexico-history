@@ -233,7 +233,7 @@ The ICPC World Finals Invitational Contest
 
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos | Escuelas |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **6** | **683** | **2616** | **3220** | **186** |
+| **Total** | **6** | **683** | **2612** | **3216** | **186** |
 | [2000-2001](#2000-2001) | 1 | 0 | 0 | 1 | 1 |
 | [2001-2002](#2001-2002) | 1 | 25 | 0 | 25 | 10 |
 | [2002-2003](#2002-2003) | 0 | 26 | 0 | 26 | 7 |
@@ -257,7 +257,7 @@ The ICPC World Finals Invitational Contest
 | [2020-2021](#2020-2021) | 0 | 5 | 331 | 331 | 85 |
 | [2021-2022](#2021-2022) | 0 | 6 | 236 | 236 | 66 |
 | [2022-2023](#2022-2023) | 0 | 6 | 643 | 643 | 95 |
-| [2023-2024](#2023-2024) | 0 | 10 | 137 | 137 | 28 |
+| [2023-2024](#2023-2024) | 0 | 10 | 133 | 133 | 28 |
 
 # Ranking de escuelas
 
@@ -265,15 +265,15 @@ The ICPC World Finals Invitational Contest
 
 | # | Escuela | Finales mundiales | Regionales | Clasificatorios | Total |
 | --- | --- | --- | --- | --- | --- |
-| 1 | [Instituto Tecnológico Superior del Sur de Guanajuato](escuela/instituto-tecnologico-superior-del-sur-de-guanajuato) | 2 | 18 | 176 | 176 |
+| 1 | [Instituto Tecnológico Superior del Sur de Guanajuato](escuela/instituto-tecnologico-superior-del-sur-de-guanajuato) | 2 | 18 | 175 | 175 |
 | 2 | [Instituto Tecnológico de Veracruz](escuela/instituto-tecnologico-de-veracruz) | 0 | 7 | 49 | 49 |
 | 3 | [Instituto Tecnologico Superior de Los Reyes](escuela/instituto-tecnologico-superior-de-los-reyes) | 0 | 7 | 11 | 11 |
-| 4 | [Instituto Tecnológico Superior de Guanajuato](escuela/instituto-tecnologico-superior-de-guanajuato) | 0 | 6 | 42 | 42 |
+| 4 | [Instituto Tecnológico Superior de Guanajuato](escuela/instituto-tecnologico-superior-de-guanajuato) | 0 | 6 | 43 | 43 |
 | 5 | [Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan) | 0 | 4 | 29 | 29 |
 | 6 | [Instituto Tecnologico de Nuevo Leon](escuela/instituto-tecnologico-de-nuevo-leon) | 0 | 3 | 58 | 58 |
 | 7 | [Instituto Tecnologico de la Laguna](escuela/instituto-tecnologico-de-la-laguna) | 0 | 2 | 62 | 62 |
-| 8 | [Instituto Tecnológico de Lázaro Cárdenas](escuela/instituto-tecnologico-de-lazaro-cardenas) | 0 | 1 | 63 | 63 |
-| 9 | [Instituto Tecnologico Superior de Lerdo](escuela/instituto-tecnologico-superior-de-lerdo) | 0 | 1 | 62 | 62 |
+| 8 | [Instituto Tecnológico de Lázaro Cárdenas](escuela/instituto-tecnologico-de-lazaro-cardenas) | 0 | 1 | 61 | 61 |
+| 9 | [Instituto Tecnologico Superior de Lerdo](escuela/instituto-tecnologico-superior-de-lerdo) | 0 | 1 | 61 | 61 |
 | 10 | [Instituto Tecnologico Superior de Ciudad Hidalgo](escuela/instituto-tecnologico-superior-de-ciudad-hidalgo) | 0 | 1 | 58 | 58 |
 | 11 | [Instituto Tecnológico de Ciudad Madero](escuela/instituto-tecnologico-de-ciudad-madero) | 0 | 1 | 35 | 35 |
 | 12 | [Instituto Tecnológico de Ciudad Guzmán](escuela/instituto-tecnologico-de-ciudad-guzman) | 0 | 1 | 33 | 33 |
@@ -288,12 +288,12 @@ The ICPC World Finals Invitational Contest
 | # | Escuela | Finales mundiales | Regionales | Clasificatorios | Total |
 | --- | --- | --- | --- | --- | --- |
 | 1 | [Instituto Tecnológico de Ciudad Madero](escuela/instituto-tecnologico-de-ciudad-madero) | 2 | 34 | 43 | 76 |
-| 2 | [Instituto Tecnológico Superior del Sur de Guanajuato](escuela/instituto-tecnologico-superior-del-sur-de-guanajuato) | 2 | 29 | 194 | 202 |
+| 2 | [Instituto Tecnológico Superior del Sur de Guanajuato](escuela/instituto-tecnologico-superior-del-sur-de-guanajuato) | 2 | 29 | 193 | 201 |
 | 3 | [Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan) | 2 | 19 | 39 | 53 |
 | 4 | [Instituto Tecnologico de Nuevo Leon](escuela/instituto-tecnologico-de-nuevo-leon) | 0 | 37 | 63 | 96 |
 | 5 | [Instituto Tecnológico de Saltillo](escuela/instituto-tecnologico-de-saltillo) | 0 | 28 | 6 | 34 |
 | 6 | [Instituto Tecnologico Superior de Los Reyes](escuela/instituto-tecnologico-superior-de-los-reyes) | 0 | 27 | 13 | 31 |
-| 7 | [Instituto Tecnologico Superior de Lerdo](escuela/instituto-tecnologico-superior-de-lerdo) | 0 | 26 | 74 | 98 |
+| 7 | [Instituto Tecnologico Superior de Lerdo](escuela/instituto-tecnologico-superior-de-lerdo) | 0 | 26 | 73 | 97 |
 | 8 | [Instituto Tecnólogico Superior de Zapopan](escuela/instituto-tecnologico-superior-de-zapopan) | 0 | 25 | 17 | 42 |
 | 9 | [Instituto Tecnológico de Querétaro](escuela/instituto-tecnologico-de-queretaro) | 0 | 25 | 14 | 38 |
 | 10 | [Instituto Tecnologico de la Laguna](escuela/instituto-tecnologico-de-la-laguna) | 0 | 24 | 65 | 86 |
@@ -315,8 +315,8 @@ The ICPC World Finals Invitational Contest
 | 26 | [Instituto Tecnológico Superior de Tacámbaro](escuela/instituto-tecnologico-superior-de-tacambaro) | 0 | 12 | 13 | 25 |
 | 27 | [Instituto Tecnologico Superior de Fresnillo](escuela/instituto-tecnologico-superior-de-fresnillo) | 0 | 12 | 6 | 18 |
 | 28 | [Instituto Tecnológico Superior de Pátzcuaro](escuela/instituto-tecnologico-superior-de-patzcuaro) | 0 | 11 | 44 | 55 |
-| 29 | [Instituto Tecnológico de Lázaro Cárdenas](escuela/instituto-tecnologico-de-lazaro-cardenas) | 0 | 9 | 63 | 71 |
-| 30 | [Instituto Tecnológico Superior de Guanajuato](escuela/instituto-tecnologico-superior-de-guanajuato) | 0 | 9 | 47 | 47 |
+| 29 | [Instituto Tecnológico de Lázaro Cárdenas](escuela/instituto-tecnologico-de-lazaro-cardenas) | 0 | 9 | 61 | 69 |
+| 30 | [Instituto Tecnológico Superior de Guanajuato](escuela/instituto-tecnologico-superior-de-guanajuato) | 0 | 9 | 48 | 48 |
 | 31 | [Instituto Tecnologico Superior de Loreto](escuela/instituto-tecnologico-superior-de-loreto) | 0 | 8 | 8 | 16 |
 | 32 | [Instituto Tecnológico de Zitácuaro](escuela/instituto-tecnologico-de-zitacuaro) | 0 | 8 | 4 | 12 |
 | 33 | [Instituto Tecnológico de Parral](escuela/instituto-tecnologico-de-parral) | 0 | 7 | 18 | 25 |

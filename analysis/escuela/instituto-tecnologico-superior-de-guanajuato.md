@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
-| **Total** | **0** | **9** | **47** | **47** |
+| **Total** | **0** | **9** | **48** | **48** |
 | [2014-2015](#2014-2015) | 0 | 1 | 3 | 3 |
 | [2015-2016](#2015-2016) | 0 | 2 | 2 | 2 |
 | [2016-2017](#2016-2017) | 0 | 2 | 5 | 5 |
@@ -27,7 +27,7 @@
 | [2018-2019](#2018-2019) | 0 | 1 | 4 | 4 |
 | [2019-2020](#2019-2020) | 0 | 1 | 8 | 8 |
 | [2020-2021](#2020-2021) | 0 | 0 | 4 | 4 |
-| [2021-2022](#2021-2022) | 0 | 1 | 7 | 7 |
+| [2021-2022](#2021-2022) | 0 | 1 | 8 | 8 |
 | [2022-2023](#2022-2023) | 0 | 0 | 9 | 9 |
 
 ### 2014-2015
@@ -85,6 +85,7 @@
 ### 2021-2022
 
 1. #19 (#1 de TecNM) _Promised Rinascimento_ (Regional)
+1. #226 (#36 de TecNM) _Akatsuki_ (Clasificatorio)
 1. #226 (#36 de TecNM) _Breaking Limits_ (Clasificatorio)
 1. #226 (#36 de TecNM) _Los Chuletas_ (Clasificatorio)
 1. #226 (#36 de TecNM) _Los Kuasoos_ (Clasificatorio)

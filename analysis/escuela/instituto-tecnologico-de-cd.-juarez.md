@@ -59,7 +59,7 @@
 
 ### 2023-2024
 
-1. #444 (#123 de TecNM) _Código Chihuahuense_ (Clasificatorio)
+1. #444 (#119 de TecNM) _Código Chihuahuense_ (Clasificatorio)
 
 
 

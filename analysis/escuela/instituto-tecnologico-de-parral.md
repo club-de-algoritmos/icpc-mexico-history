@@ -88,11 +88,11 @@
 ### 2023-2024
 
 1. #87 (#14 de TecNM) _Alt-F4_ (Clasificatorio)
-1. #334 (#76 de TecNM) _ProgramaTEC_ (Clasificatorio)
-1. #351 (#85 de TecNM) _UNKnOwN_ (Clasificatorio)
-1. #371 (#96 de TecNM) _TechBreak_ (Clasificatorio)
-1. #379 (#99 de TecNM) _LA TRIADA B-J-N_ (Clasificatorio)
-1. #405 (#111 de TecNM) _Los novatos_ (Clasificatorio)
+1. #334 (#75 de TecNM) _ProgramaTEC_ (Clasificatorio)
+1. #351 (#83 de TecNM) _UNKnOwN_ (Clasificatorio)
+1. #371 (#94 de TecNM) _TechBreak_ (Clasificatorio)
+1. #379 (#96 de TecNM) _LA TRIADA B-J-N_ (Clasificatorio)
+1. #405 (#108 de TecNM) _Los novatos_ (Clasificatorio)
 
 
 

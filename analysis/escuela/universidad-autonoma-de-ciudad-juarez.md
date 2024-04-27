@@ -11,7 +11,7 @@
 1. _Rajas con Queso_ resolvió 2 problemas y obtuvo el lugar #296 (72%) en The 2022 ICPC Gran Premio de Mexico
 1. _UACJ2019_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _no estudio programación_ resolvió 2 problemas y obtuvo el lugar #322 (69%) en The 2022 ICPC Gran Premio de Mexico
-1. _relenTLEss_ resolvió 4 problemas y obtuvo el lugar #152 (67%) en The 2023 ICPC Gran Premio de Mexico
+1. _relenTLEss_ resolvió 4 problemas y obtuvo el lugar #152 (66%) en The 2023 ICPC Gran Premio de Mexico
 
 ## Participaciones
 

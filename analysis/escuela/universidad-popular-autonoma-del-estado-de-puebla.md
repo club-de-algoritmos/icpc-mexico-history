@@ -4,7 +4,7 @@
 
 1. _Array of clowns_ resolvió 10 problemas y obtuvo el lugar #73 (94%) en Gran Premio de Mexico 2019
 1. _CPU;_ resolvió 7 problemas y obtuvo el lugar #81 (92%) en The 2022 ICPC Gran Premio de Mexico
-1. _CPU_ resolvió 2 problemas y obtuvo el lugar #44 (91%) en The 2023 ICPC Mexico Finals
+1. _CPU_ resolvió 2 problemas y obtuvo el lugar #44 (90%) en The 2023 ICPC Mexico Finals
 1. _Hakunas_ resolvió 2 problemas y obtuvo el lugar #51 (90%) en The 2016 ACM-ICPC Mexico and Central America Finals
 1. _3 de asada_ resolvió 5 problemas y obtuvo el lugar #115 (89%) en The 2022 ICPC Gran Premio de Mexico
 1. _<bits/team.h>_ resolvió 5 problemas y obtuvo el lugar #118 (89%) en The 2022 ICPC Gran Premio de Mexico

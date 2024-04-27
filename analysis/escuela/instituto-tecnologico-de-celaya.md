@@ -101,7 +101,7 @@
 1. #212 (#40 de TecNM) _Sintax Error_ (Clasificatorio)
 1. #221 (#42 de TecNM) _Charalitos_ (Clasificatorio)
 1. #225 (#43 de TecNM) _Bits_ (Clasificatorio)
-1. #346 (#83 de TecNM) _JavaScriptsbetter_ (Clasificatorio)
+1. #346 (#81 de TecNM) _JavaScriptsbetter_ (Clasificatorio)
 
 
 

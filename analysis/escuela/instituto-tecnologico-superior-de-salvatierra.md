@@ -73,7 +73,7 @@
 
 ### 2023-2024
 
-1. #456 (#135 de TecNM) _Codebreakers_ (Clasificatorio)
+1. #456 (#131 de TecNM) _Codebreakers_ (Clasificatorio)
 
 
 

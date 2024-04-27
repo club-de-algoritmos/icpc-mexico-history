@@ -183,7 +183,7 @@
 
 ### 2023-2024
 
-1. #455 (#134 de TecNM) _Taco 2: El regreso_ (Clasificatorio)
+1. #455 (#130 de TecNM) _Taco 2: El regreso_ (Clasificatorio)
 
 
 

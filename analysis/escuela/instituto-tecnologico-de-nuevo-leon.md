@@ -197,9 +197,9 @@
 1. #176 (#31 de TecNM) _Coders in progress_ (Clasificatorio)
 1. #253 (#48 de TecNM) _SyntaxError_ (Clasificatorio)
 1. #284 (#58 de TecNM) _JavaThai_ (Clasificatorio)
-1. #352 (#86 de TecNM) _Los Nahuales_ (Clasificatorio)
-1. #366 (#94 de TecNM) _Los Cadetes de Konoha_ (Clasificatorio)
-1. #449 (#128 de TecNM) _Crow System_ (Clasificatorio)
+1. #352 (#84 de TecNM) _Los Nahuales_ (Clasificatorio)
+1. #366 (#92 de TecNM) _Los Cadetes de Konoha_ (Clasificatorio)
+1. #449 (#124 de TecNM) _Crow System_ (Clasificatorio)
 
 
 

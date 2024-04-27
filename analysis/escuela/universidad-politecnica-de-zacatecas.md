@@ -8,7 +8,7 @@
 1. _Los Bytes_ resolvió 0 problemas y obtuvo el lugar #394 (48%) en Gran Premio de Mexico 2018
 1. _AlCEMY.C_ resolvió 0 problemas y obtuvo el lugar #101 (40%) en The 2008 Mexico & Central America Contest
 1. _RiEdAl.H_ resolvió 0 problemas y obtuvo el lugar #101 (40%) en The 2008 Mexico & Central America Contest
-1. _Capa 8 Runtime Error_ resolvió 0 problemas y obtuvo el lugar #419 (8%) en The 2023 ICPC Gran Premio de Mexico
+1. _Capa 8 Runtime Error_ resolvió 0 problemas y obtuvo el lugar #419 (7%) en The 2023 ICPC Gran Premio de Mexico
 
 ## Participaciones
 

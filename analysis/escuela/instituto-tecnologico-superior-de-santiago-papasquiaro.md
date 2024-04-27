@@ -114,7 +114,7 @@
 
 1. #183 (#33 de TecNM) _MSV_ (Clasificatorio)
 1. #186 (#35 de TecNM) _OverClock_ (Clasificatorio)
-1. #382 (#101 de TecNM) _      Lincoder´s_ (Clasificatorio)
+1. #382 (#98 de TecNM) _      Lincoder´s_ (Clasificatorio)
 
 
 

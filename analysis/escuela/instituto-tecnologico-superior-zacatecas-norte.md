@@ -67,7 +67,7 @@
 ### 2023-2024
 
 1. #271 (#51 de TecNM) _DnkYotes_ (Clasificatorio)
-1. #353 (#87 de TecNM) _Coyote 19_ (Clasificatorio)
+1. #353 (#85 de TecNM) _Coyote 19_ (Clasificatorio)
 
 
 

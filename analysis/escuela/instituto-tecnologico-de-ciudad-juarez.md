@@ -4,7 +4,7 @@
 
 1. _Burritos de atole_ resolvió 2 problemas y obtuvo el lugar #41 (91%) en The 2023 ICPC Mexico Finals
 1. _TodoPorPTS_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _Team Avast Premier_ resolvió 2 problemas y obtuvo el lugar #290 (37%) en The 2023 ICPC Gran Premio de Mexico
+1. _Team Avast Premier_ resolvió 2 problemas y obtuvo el lugar #290 (36%) en The 2023 ICPC Gran Premio de Mexico
 
 ## Participaciones
 

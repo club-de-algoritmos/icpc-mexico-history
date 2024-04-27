@@ -127,8 +127,8 @@
 1. #170 (#29 de TecNM) _CHIQUETE'S CHILI CHEESE FRIES_ (Clasificatorio)
 1. #184 (#34 de TecNM) _Chicas Superpoderosas_ (Clasificatorio)
 1. #303 (#63 de TecNM) _Datahead_ (Clasificatorio)
-1. #319 (#70 de TecNM) _los traperitos_ (Clasificatorio)
-1. #457 (#136 de TecNM) _Las Llaves_ (Clasificatorio)
+1. #319 (#69 de TecNM) _los traperitos_ (Clasificatorio)
+1. #457 (#132 de TecNM) _Las Llaves_ (Clasificatorio)
 
 
 

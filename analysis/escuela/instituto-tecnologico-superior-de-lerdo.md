@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
-| **Total** | **0** | **26** | **74** | **98** |
+| **Total** | **0** | **26** | **73** | **97** |
 | [2005-2006](#2005-2006) | 0 | 3 | 0 | 3 |
 | [2007-2008](#2007-2008) | 0 | 3 | 0 | 3 |
 | [2008-2009](#2008-2009) | 0 | 3 | 0 | 3 |
@@ -37,7 +37,7 @@
 | [2020-2021](#2020-2021) | 0 | 0 | 9 | 9 |
 | [2021-2022](#2021-2022) | 0 | 0 | 6 | 6 |
 | [2022-2023](#2022-2023) | 0 | 0 | 13 | 13 |
-| [2023-2024](#2023-2024) | 0 | 0 | 8 | 8 |
+| [2023-2024](#2023-2024) | 0 | 0 | 7 | 7 |
 
 ### 2005-2006
 
@@ -185,11 +185,10 @@
 1. #143 (#25 de TecNM) _The Walker_ (Clasificatorio)
 1. #192 (#37 de TecNM) _ZaGa Team_ (Clasificatorio)
 1. #247 (#47 de TecNM) _Guardians_ (Clasificatorio)
-1. #358 (#90 de TecNM) _Los amigos_ (Clasificatorio)
-1. #377 (#97 de TecNM) _The Coders _ (Clasificatorio)
-1. #389 (#105 de TecNM) _ALGAmigos_ (Clasificatorio)
-1. #436 (#117 de TecNM) _Destructores_ (Clasificatorio)
-1. #437 (#118 de TecNM) _The Code Girls_ (Clasificatorio)
+1. #358 (#88 de TecNM) _Los amigos_ (Clasificatorio)
+1. #389 (#102 de TecNM) _ALGAmigos_ (Clasificatorio)
+1. #436 (#113 de TecNM) _Destructores_ (Clasificatorio)
+1. #437 (#114 de TecNM) _The Code Girls_ (Clasificatorio)
 
 
 

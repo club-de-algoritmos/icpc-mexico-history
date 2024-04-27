@@ -6,7 +6,7 @@
 
 The 1997 ACM Programming Contest World Finals
 
-- #1 (#1 de México) <Desconocido> ([Universidad Juárez Autónoma de Tabasco](escuela/universidad-juarez-autonoma-de-tabasco))
+- #28 (#1 de México) <Desconocido> ([Universidad Juárez Autónoma de Tabasco](escuela/universidad-juarez-autonoma-de-tabasco))
 
 ### 1997-1998
 
@@ -83,8 +83,8 @@ The 2007 ACM Programming Contest World Finals
 The 2008 ACM Programming Contest World Finals
 
 - #65 (#1 de México, resolvió 2) U de G ACM Problem Solvers ([Universidad de Guadalajara CUCEI](escuela/universidad-de-guadalajara-cucei))
-- #90 (#2 de México, resolvió 0) ITC Turing Machines ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan))
 - #90 (#2 de México, resolvió 0) U de Guanajuato Hausdorff ([Universidad de Guanajuato - CIMAT](escuela/universidad-de-guanajuato-cimat))
+- #90 (#2 de México, resolvió 0) ITC Turing Machines ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan))
 
 ### 2008-2009
 
@@ -205,7 +205,7 @@ The ICPC World Finals Invitational Contest
 
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos | Escuelas |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **63** | **2334** | **6390** | **8186** | **388** |
+| **Total** | **63** | **2334** | **6383** | **8178** | **388** |
 | [1996-1997](#1996-1997) | 1 | 0 | 0 | 1 | 1 |
 | [1997-1998](#1997-1998) | 1 | 0 | 0 | 1 | 1 |
 | [1998-1999](#1998-1999) | 3 | 0 | 0 | 3 | 3 |
@@ -233,7 +233,7 @@ The ICPC World Finals Invitational Contest
 | [2020-2021](#2020-2021) | 4 | 58 | 703 | 704 | 151 |
 | [2021-2022](#2021-2022) | 0 | 56 | 491 | 492 | 121 |
 | [2022-2023](#2022-2023) | 0 | 56 | 1042 | 1044 | 155 |
-| [2023-2024](#2023-2024) | 0 | 55 | 457 | 458 | 74 |
+| [2023-2024](#2023-2024) | 0 | 55 | 450 | 450 | 74 |
 
 ## Ranking de escuelas
 
@@ -243,10 +243,10 @@ The ICPC World Finals Invitational Contest
 | --- | --- | --- | --- | --- | --- |
 | 1 | [Facultad de Ciencias-Universidad Nacional Autónoma de México](escuela/facultad-de-ciencias-universidad-nacional-autonoma-de-mexico) | 3 | 17 | 72 | 73 |
 | 2 | [Instituto Tecnológico Autónomo de México](escuela/instituto-tecnologico-autonomo-de-mexico) | 3 | 9 | 27 | 27 |
-| 3 | [Escuela Superior De Computo Instituto Politecnico Nacional](escuela/escuela-superior-de-computo-instituto-politecnico-nacional) | 2 | 30 | 155 | 158 |
-| 4 | [ITESM Campus Monterrey](escuela/itesm-campus-monterrey) | 2 | 26 | 278 | 279 |
+| 3 | [Escuela Superior De Computo Instituto Politecnico Nacional](escuela/escuela-superior-de-computo-instituto-politecnico-nacional) | 2 | 30 | 155 | 157 |
+| 4 | [ITESM Campus Monterrey](escuela/itesm-campus-monterrey) | 2 | 26 | 277 | 278 |
 | 5 | [Universidad Panamericana Campus Bonaterra](escuela/universidad-panamericana-campus-bonaterra) | 2 | 21 | 77 | 77 |
-| 6 | [Instituto Tecnológico Superior del Sur de Guanajuato](escuela/instituto-tecnologico-superior-del-sur-de-guanajuato) | 2 | 18 | 176 | 176 |
+| 6 | [Instituto Tecnológico Superior del Sur de Guanajuato](escuela/instituto-tecnologico-superior-del-sur-de-guanajuato) | 2 | 18 | 175 | 175 |
 | 7 | [Universidad Autónoma de Nuevo Leon](escuela/universidad-autonoma-de-nuevo-leon) | 2 | 14 | 76 | 76 |
 | 8 | [Universidad de Guanajuato - CIMAT](escuela/universidad-de-guanajuato-cimat) | 1 | 23 | 51 | 51 |
 | 9 | [Universidad de Guadalajara CUCEI](escuela/universidad-de-guadalajara-cucei) | 1 | 19 | 118 | 118 |
@@ -256,8 +256,8 @@ The ICPC World Finals Invitational Contest
 
 | # | Escuela | Finales mundiales | Regionales | Clasificatorios | Total |
 | --- | --- | --- | --- | --- | --- |
-| 1 | [ITESM Campus Monterrey](escuela/itesm-campus-monterrey) | 10 | 92 | 297 | 361 |
-| 2 | [Escuela Superior De Computo Instituto Politecnico Nacional](escuela/escuela-superior-de-computo-instituto-politecnico-nacional) | 6 | 68 | 176 | 212 |
+| 1 | [ITESM Campus Monterrey](escuela/itesm-campus-monterrey) | 10 | 92 | 296 | 360 |
+| 2 | [Escuela Superior De Computo Instituto Politecnico Nacional](escuela/escuela-superior-de-computo-instituto-politecnico-nacional) | 6 | 68 | 176 | 211 |
 | 3 | [Universidad de Guanajuato - CIMAT](escuela/universidad-de-guanajuato-cimat) | 6 | 60 | 65 | 96 |
 | 4 | [Universidad Tecnológica de la Mixteca](escuela/universidad-tecnologica-de-la-mixteca) | 5 | 43 | 35 | 72 |
 | 5 | [Universidad Panamericana Campus Bonaterra](escuela/universidad-panamericana-campus-bonaterra) | 4 | 37 | 90 | 103 |
@@ -267,10 +267,10 @@ The ICPC World Finals Invitational Contest
 | 9 | [Universidad de Guadalajara CUCEI](escuela/universidad-de-guadalajara-cucei) | 2 | 74 | 142 | 195 |
 | 10 | [ITESM Campus Queretaro](escuela/itesm-campus-queretaro) | 2 | 68 | 33 | 94 |
 | 11 | [Universidad Autónoma de Nuevo Leon](escuela/universidad-autonoma-de-nuevo-leon) | 2 | 56 | 80 | 120 |
-| 12 | [Universidad Autónoma de Aguascalientes](escuela/universidad-autonoma-de-aguascalientes) | 2 | 40 | 90 | 115 |
+| 12 | [Universidad Autónoma de Aguascalientes](escuela/universidad-autonoma-de-aguascalientes) | 2 | 40 | 89 | 114 |
 | 13 | [Benemérita Universidad Autónoma de Puebla](escuela/benemerita-universidad-autonoma-de-puebla) | 2 | 37 | 15 | 51 |
 | 14 | [Instituto Tecnológico de Ciudad Madero](escuela/instituto-tecnologico-de-ciudad-madero) | 2 | 34 | 43 | 76 |
-| 15 | [Instituto Tecnológico Superior del Sur de Guanajuato](escuela/instituto-tecnologico-superior-del-sur-de-guanajuato) | 2 | 29 | 194 | 202 |
+| 15 | [Instituto Tecnológico Superior del Sur de Guanajuato](escuela/instituto-tecnologico-superior-del-sur-de-guanajuato) | 2 | 29 | 193 | 201 |
 | 16 | [ITESM Campus Estado de Mexico](escuela/itesm-campus-estado-de-mexico) | 2 | 28 | 87 | 102 |
 | 17 | [Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan) | 2 | 19 | 39 | 53 |
 | 18 | [Universidad Autónoma de Tlaxcala](escuela/universidad-autonoma-de-tlaxcala) | 1 | 35 | 41 | 76 |

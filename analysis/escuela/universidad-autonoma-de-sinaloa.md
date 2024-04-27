@@ -10,7 +10,7 @@
 1. _THE THREE MUSKETEERS_ resolvió 5 problemas y obtuvo el lugar #133 (71%) en The 2023 ICPC Gran Premio de Mexico
 1. _Código Enigma_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _TryCatch_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Nexus_ resolvió 4 problemas y obtuvo el lugar #162 (65%) en The 2023 ICPC Gran Premio de Mexico
+1. _Nexus_ resolvió 4 problemas y obtuvo el lugar #162 (64%) en The 2023 ICPC Gran Premio de Mexico
 1. _El Pariente Technologies_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones

@@ -9,8 +9,8 @@
 1. _Team Dinamita de Oaxaca_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _FuerzITO_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _The Warriors_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _Itosaurios_ resolvió 4 problemas y obtuvo el lugar #202 (56%) en The 2023 ICPC Gran Premio de Mexico
-1. _Equipo 2_ resolvió 3 problemas y obtuvo el lugar #244 (47%) en The 2023 ICPC Gran Premio de Mexico
+1. _Itosaurios_ resolvió 4 problemas y obtuvo el lugar #202 (55%) en The 2023 ICPC Gran Premio de Mexico
+1. _Equipo 2_ resolvió 3 problemas y obtuvo el lugar #244 (46%) en The 2023 ICPC Gran Premio de Mexico
 1. _MonsterUniversity_ resolvió 2 problemas y obtuvo el lugar #272 (40%) en The 2023 ICPC Gran Premio de Mexico
 
 ## Participaciones
@@ -42,7 +42,7 @@
 1. #202 (#39 de TecNM) _Itosaurios_ (Clasificatorio)
 1. #244 (#46 de TecNM) _Equipo 2_ (Clasificatorio)
 1. #272 (#52 de TecNM) _MonsterUniversity_ (Clasificatorio)
-1. #378 (#98 de TecNM) _TriviumCode_ (Clasificatorio)
+1. #378 (#95 de TecNM) _TriviumCode_ (Clasificatorio)
 
 
 

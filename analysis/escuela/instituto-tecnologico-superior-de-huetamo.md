@@ -52,12 +52,12 @@
 
 ### 2023-2024
 
-1. #328 (#72 de TecNM) _Java-Limo++_ (Clasificatorio)
-1. #337 (#78 de TecNM) _Java-Limo++V2_ (Clasificatorio)
-1. #390 (#106 de TecNM) _Java-Limo++_CKEM_ (Clasificatorio)
-1. #445 (#124 de TecNM) _Java-Limo++_Team-Iguana_ (Clasificatorio)
-1. #446 (#125 de TecNM) _Java-Limo++V4_ (Clasificatorio)
-1. #447 (#126 de TecNM) _Java-Limo++V3_ (Clasificatorio)
+1. #328 (#71 de TecNM) _Java-Limo++_ (Clasificatorio)
+1. #337 (#77 de TecNM) _TheCodeBreakers_ (Clasificatorio)
+1. #390 (#103 de TecNM) _Java-Limo++_CKEM_ (Clasificatorio)
+1. #445 (#120 de TecNM) _Java-Limo++_Team-Iguana_ (Clasificatorio)
+1. #446 (#121 de TecNM) _Dinamita_ (Clasificatorio)
+1. #447 (#122 de TecNM) _ThreeForce_ (Clasificatorio)
 
 
 

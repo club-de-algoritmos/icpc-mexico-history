@@ -25,7 +25,7 @@
 
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
-| **Total** | **6** | **68** | **176** | **212** |
+| **Total** | **6** | **68** | **176** | **211** |
 | [2001-2002](#2001-2002) | 0 | 2 | 0 | 2 |
 | [2002-2003](#2002-2003) | 0 | 2 | 0 | 2 |
 | [2003-2004](#2003-2004) | 0 | 1 | 0 | 1 |
@@ -47,7 +47,7 @@
 | [2020-2021](#2020-2021) | 0 | 5 | 12 | 13 |
 | [2021-2022](#2021-2022) | 0 | 5 | 11 | 12 |
 | [2022-2023](#2022-2023) | 0 | 5 | 27 | 27 |
-| [2023-2024](#2023-2024) | 0 | 3 | 28 | 29 |
+| [2023-2024](#2023-2024) | 0 | 3 | 28 | 28 |
 
 ### 2001-2002
 
@@ -305,7 +305,6 @@
 
 1. #4 _Catadores de Patas (ahora en ICPC)_ (Regional)
 1. #5 _Tres de Suaperro con Todo_ (Regional)
-1. #8 _Tres de suadero con todo_ (Clasificatorio)
 1. #8 _God Save Galois_ (Regional)
 1. #22 _Not only WA but also TLE_ (Clasificatorio)
 1. #24 _CE intentó_ (Clasificatorio)

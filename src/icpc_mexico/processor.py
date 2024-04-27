@@ -156,6 +156,10 @@ def get_schools(contests: List[FinishedContest]) -> List[School]:
             country='peru',
         ),
         School(
+            name="Binus University",
+            country="indonesia",
+        ),
+        School(
             name='Benemérita Universidad Autónoma de Puebla',
             alt_names=['buap facultad de ciencias de la computacion'],
             country=MEXICO,

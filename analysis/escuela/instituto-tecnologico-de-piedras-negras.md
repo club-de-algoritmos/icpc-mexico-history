@@ -56,11 +56,11 @@
 ### 2023-2024
 
 1. #312 (#67 de TecNM) _LuciaFernandas_ (Clasificatorio)
-1. #450 (#129 de TecNM) _LosCAC_ (Clasificatorio)
-1. #451 (#130 de TecNM) _OctalCode_ (Clasificatorio)
-1. #452 (#131 de TecNM) _Real Programes _ (Clasificatorio)
-1. #453 (#132 de TecNM) _ProgramaTec_ (Clasificatorio)
-1. #454 (#133 de TecNM) _Los Pixies_ (Clasificatorio)
+1. #451 (#126 de TecNM) _OctalCode_ (Clasificatorio)
+1. #452 (#127 de TecNM) _Real Programes _ (Clasificatorio)
+1. #453 (#128 de TecNM) _ProgramaTec_ (Clasificatorio)
+1. #454 (#129 de TecNM) _Los Pixies_ (Clasificatorio)
+1. #450 (#125 de TecNM) _LosCAC_ (Clasificatorio)
 
 
 

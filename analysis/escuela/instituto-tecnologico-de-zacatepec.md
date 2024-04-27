@@ -2,7 +2,7 @@
 
 ## Mejores 10 equipos
 
-1. _Juniors_ resolvió 3 problemas y obtuvo el lugar #35 (93%) en The 2023 ICPC Mexico Finals
+1. _Juniors_ resolvió 3 problemas y obtuvo el lugar #35 (92%) en The 2023 ICPC Mexico Finals
 1. _Juniors_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones

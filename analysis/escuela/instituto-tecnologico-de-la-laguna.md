@@ -135,13 +135,13 @@
 1. #74 (#11 de TecNM) _SPTeam_ (Clasificatorio)
 1. #101 (#18 de TecNM) _PuroTecLaguna_ (Clasificatorio)
 1. #307 (#65 de TecNM) _Chicharron Prensado_ (Clasificatorio)
-1. #330 (#73 de TecNM) _echo_ (Clasificatorio)
-1. #333 (#75 de TecNM) _MonkeyDevs_ (Clasificatorio)
-1. #365 (#93 de TecNM) _LAFCoding Team_ (Clasificatorio)
-1. #385 (#103 de TecNM) _Panas Frescos_ (Clasificatorio)
-1. #386 (#104 de TecNM) _CH3PO_ (Clasificatorio)
-1. #391 (#107 de TecNM) _Las Chicas Superpoderosas_ (Clasificatorio)
-1. #431 (#112 de TecNM) _Castech team_ (Clasificatorio)
+1. #330 (#72 de TecNM) _echo_ (Clasificatorio)
+1. #333 (#74 de TecNM) _MonkeyDevs_ (Clasificatorio)
+1. #365 (#91 de TecNM) _LAFCoding Team_ (Clasificatorio)
+1. #385 (#100 de TecNM) _Panas Frescos_ (Clasificatorio)
+1. #386 (#101 de TecNM) _CH3PO_ (Clasificatorio)
+1. #391 (#104 de TecNM) _Las Chicas Superpoderosas_ (Clasificatorio)
+1. #431 (#109 de TecNM) _Castech team_ (Clasificatorio)
 
 
 

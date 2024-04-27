@@ -3,8 +3,8 @@
 ## Mejores 10 equipos
 
 1. _ESIMECU-Anthrax_ resolvió 4 problemas y obtuvo el lugar #150 (67%) en The 2023 ICPC Gran Premio de Mexico
-1. _ESIMECU-NullByte_ resolvió 4 problemas y obtuvo el lugar #175 (62%) en The 2023 ICPC Gran Premio de Mexico
-1. _ESIMECU-Zeniith_ resolvió 3 problemas y obtuvo el lugar #242 (47%) en The 2023 ICPC Gran Premio de Mexico
+1. _ESIMECU-NullByte_ resolvió 4 problemas y obtuvo el lugar #175 (61%) en The 2023 ICPC Gran Premio de Mexico
+1. _ESIMECU-Zeniith_ resolvió 3 problemas y obtuvo el lugar #242 (46%) en The 2023 ICPC Gran Premio de Mexico
 
 ## Participaciones
 

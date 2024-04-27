@@ -9,7 +9,7 @@
 1. _LasalleGRC_ resolvió 1 problemas y obtuvo el lugar #60 (47%) en The 2004 ACM Mexico and Central America Programming Contest
 1. _DeltaUMG_ resolvió 0 problemas y obtuvo el lugar #95 (46%) en The 2013 Mexico & Central America Regional Contest
 1. _LasalleDDE_ resolvió 1 problemas y obtuvo el lugar #63 (45%) en The 2004 ACM Mexico and Central America Programming Contest
-1. _UMG.2.0++_ resolvió 3 problemas y obtuvo el lugar #251 (45%) en The 2023 ICPC Gran Premio de Mexico
+1. _UMG.2.0++_ resolvió 3 problemas y obtuvo el lugar #251 (44%) en The 2023 ICPC Gran Premio de Mexico
 1. _Lasalle 1_ resolvió 0 problemas y obtuvo el lugar #85 (40%) en The 2005 ACM Mexico and Central America Programming Contest
 1. _Marista White_ resolvió 0 problemas y obtuvo el lugar #104 (36%) en The 2011 Mexico & Central America Regional Contest
 

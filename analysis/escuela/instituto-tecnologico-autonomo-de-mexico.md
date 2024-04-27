@@ -8,9 +8,10 @@
     - Avanzó a la final mundial y resolvió 4 problemas y obtuvo el lugar #56 (58%) en 41st Annual World Finals of the ACM International Collegiate Programming Contest
 1. _The Beat Alls_ resolvió 8 problemas y obtuvo el lugar #3 (100%) en The 2018 ICPC Mexico and Central America Finals
     - Avanzó a la final mundial y resolvió 2 problemas y obtuvo el lugar #63 (54%) en 43rd Annual World Finals of the International Collegiate Programming Contest
+1. _Radical Sweep_ resolvió 5 problemas y obtuvo el lugar #3 (100%) en The 2021 ICPC Mexico Finals
+    - Avanzó a la final mundial y resolvió 3 problemas y obtuvo el lugar #62 (50%) en 46th Annual World Finals of the International Collegiate Programming Contest
 1. _Los Románticos_ resolvió 6 problemas y obtuvo el lugar #2 (100%) en The 2015 ACM-ICPC Mexico and Central America Finals
     - Avanzó a la final mundial y resolvió 4 problemas y obtuvo el lugar #69 (46%) en 40th Annual World Finals of the ACM International Collegiate Programming Contest
-1. _Radical Sweep_ resolvió 5 problemas y obtuvo el lugar #3 (100%) en The 2021 ICPC Mexico Finals
 1. _The Beat Alls_ resolvió 7 problemas y obtuvo el lugar #4 (100%) en The 2017 ACM-ICPC Mexico and Central America Finals
 1. _Los románticos_ resolvió 6 problemas y obtuvo el lugar #4 (99%) en The 2014 ACM-ICPC Mexico and Central America Finals
 1. _Coachella++_ resolvió 5 problemas y obtuvo el lugar #9 (99%) en The 2020 ICPC Mexico Finals
@@ -23,7 +24,7 @@
 
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
-| **Total** | **4** | **37** | **33** | **58** |
+| **Total** | **5** | **37** | **33** | **58** |
 | [2003-2004](#2003-2004) | 0 | 3 | 0 | 3 |
 | [2004-2005](#2004-2005) | 0 | 2 | 0 | 2 |
 | [2005-2006](#2005-2006) | 0 | 1 | 0 | 1 |
@@ -39,7 +40,7 @@
 | [2018-2019](#2018-2019) | 1 | 1 | 3 | 3 |
 | [2019-2020](#2019-2020) | 0 | 0 | 1 | 1 |
 | [2020-2021](#2020-2021) | 1 | 2 | 2 | 2 |
-| [2021-2022](#2021-2022) | 0 | 1 | 2 | 2 |
+| [2021-2022](#2021-2022) | 1 | 1 | 2 | 2 |
 | [2022-2023](#2022-2023) | 0 | 1 | 3 | 3 |
 | [2023-2024](#2023-2024) | 0 | 0 | 5 | 5 |
 
@@ -143,6 +144,7 @@
 ### 2021-2022
 
 1. #3 _Radical Sweep_ (Regional)
+    - Avanzó a la final mundial y resolvió 3 problemas obtuviendo el lugar #62 (50%) en 46th Annual World Finals of the International Collegiate Programming Contest
 1. #226 _Coding the Future_ (Clasificatorio)
 
 ### 2022-2023

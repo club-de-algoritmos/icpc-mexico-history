@@ -2,6 +2,8 @@
 
 ## Mejores 10 equipos
 
+1. _UPsolving_ resolvió 8 problemas y obtuvo el lugar #2 (100%) en The 2022 ICPC Mexico Finals
+    - Avanzó a la final mundial y resolvió 3 problemas y obtuvo el lugar #37 (72%) en 47th Annual World Finals of the International Collegiate Programming Contest
 1. _UPsolving_ resolvió 7 problemas y obtuvo el lugar #5 (99%) en The 2020 ICPC Mexico Finals
     - Avanzó a la final mundial y resolvió 5 problemas y obtuvo el lugar #41 (69%) en 45th Annual World Finals of the International Collegiate Programming Contest
 1. _Los Chidory_ resolvió 4 problemas y obtuvo el lugar #3 (99%) en The 2013 Mexico & Central America Regional Contest
@@ -10,7 +12,6 @@
     - Avanzó a la final mundial y obtuvo el lugar #47 (61%) en 44th Annual World Finals of the International Collegiate Programming Contest
 1. _AEI_ resolvió 5 problemas y obtuvo el lugar #2 (99%) en The 2012 Mexico & Central America Regional Contest
     - Avanzó a la final mundial y resolvió 2 problemas y obtuvo el lugar #76 (36%) en 37th Annual World Finals of the ACM International Collegiate Programming Contest
-1. _UPsolving_ resolvió 8 problemas y obtuvo el lugar #2 (100%) en The 2022 ICPC Mexico Finals
 1. _UPsolving_ resolvió 7 problemas y obtuvo el lugar #5 (100%) en The 2018 ICPC Mexico and Central America Finals
 1. _Chicos_Percebe_ resolvió 5 problemas y obtuvo el lugar #6 (100%) en The 2022 ICPC Mexico Finals
 1. _ICPCrikos_ resolvió 4 problemas y obtuvo el lugar #6 (99%) en The 2021 ICPC Mexico Finals
@@ -23,7 +24,7 @@
 
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
-| **Total** | **4** | **37** | **90** | **103** |
+| **Total** | **5** | **37** | **90** | **103** |
 | [2007-2008](#2007-2008) | 0 | 1 | 0 | 1 |
 | [2008-2009](#2008-2009) | 0 | 2 | 0 | 2 |
 | [2009-2010](#2009-2010) | 0 | 1 | 0 | 1 |
@@ -39,7 +40,7 @@
 | [2019-2020](#2019-2020) | 1 | 3 | 12 | 12 |
 | [2020-2021](#2020-2021) | 1 | 2 | 9 | 9 |
 | [2021-2022](#2021-2022) | 0 | 3 | 10 | 10 |
-| [2022-2023](#2022-2023) | 0 | 3 | 14 | 14 |
+| [2022-2023](#2022-2023) | 1 | 3 | 14 | 14 |
 | [2023-2024](#2023-2024) | 0 | 4 | 14 | 14 |
 
 ### 2007-2008
@@ -169,6 +170,7 @@
 ### 2022-2023
 
 1. #2 _UPsolving_ (Regional)
+    - Avanzó a la final mundial y resolvió 3 problemas obtuviendo el lugar #37 (72%) en 47th Annual World Finals of the International Collegiate Programming Contest
 1. #6 _Chicos_Percebe_ (Regional)
 1. #12 _ICPCrikos_ (Regional)
 1. #14 _ADeAmortizado_ (Clasificatorio)

@@ -2,6 +2,10 @@
 
 ## Mejores 10 equipos
 
+1. _Chilaquiles con pollo_ resolvió 5 problemas y obtuvo el lugar #1 (100%) en The 2021 ICPC Mexico Finals
+    - Avanzó a la final mundial y resolvió 6 problemas y obtuvo el lugar #26 (80%) en 46th Annual World Finals of the International Collegiate Programming Contest
+1. _Exceso de Fé_ resolvió 6 problemas y obtuvo el lugar #4 (100%) en The 2022 ICPC Mexico Finals
+    - Avanzó a la final mundial y resolvió 0 problemas y obtuvo el lugar #37 (72%) en 47th Annual World Finals of the International Collegiate Programming Contest
 1. _lA_Criba de ceros y unos_ resolvió 8 problemas y obtuvo el lugar #2 (100%) en The 2018 ICPC Mexico and Central America Finals
     - Avanzó a la final mundial y resolvió 2 problemas y obtuvo el lugar #63 (54%) en 43rd Annual World Finals of the International Collegiate Programming Contest
 1. _Norman is Hunting_ resolvió 9 problemas y obtuvo el lugar #1 (100%) en The 2019 ICPC Mexico Finals
@@ -14,8 +18,6 @@
     - Avanzó a la final mundial y resolvió 3 problemas y obtuvo el lugar #96 (25%) en 39th Annual World Finals of the ACM International Collegiate Programming Contest
 1. _Escoders_ resolvió 5 problemas y obtuvo el lugar #1 (100%) en The 2012 Mexico & Central America Regional Contest
     - Avanzó a la final mundial y resolvió 1 problemas y obtuvo el lugar #94 (21%) en 37th Annual World Finals of the ACM International Collegiate Programming Contest
-1. _Chilaquiles con pollo_ resolvió 5 problemas y obtuvo el lugar #1 (100%) en The 2021 ICPC Mexico Finals
-1. _Exceso de Fé_ resolvió 6 problemas y obtuvo el lugar #4 (100%) en The 2022 ICPC Mexico Finals
 1. _Error: "Team Name" not defined_ resolvió 6 problemas y obtuvo el lugar #7 (100%) en The 2019 ICPC Mexico Finals
 1. _Catadores de Patas (ahora en ICPC)_ resolvió 6 problemas y obtuvo el lugar #4 (99%) en The 2023 ICPC Mexico Finals
 
@@ -25,7 +27,7 @@
 
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
-| **Total** | **6** | **68** | **176** | **211** |
+| **Total** | **8** | **68** | **176** | **211** |
 | [2001-2002](#2001-2002) | 0 | 2 | 0 | 2 |
 | [2002-2003](#2002-2003) | 0 | 2 | 0 | 2 |
 | [2003-2004](#2003-2004) | 0 | 1 | 0 | 1 |
@@ -45,8 +47,8 @@
 | [2018-2019](#2018-2019) | 1 | 3 | 24 | 24 |
 | [2019-2020](#2019-2020) | 1 | 3 | 24 | 24 |
 | [2020-2021](#2020-2021) | 0 | 5 | 12 | 13 |
-| [2021-2022](#2021-2022) | 0 | 5 | 11 | 12 |
-| [2022-2023](#2022-2023) | 0 | 5 | 27 | 27 |
+| [2021-2022](#2021-2022) | 1 | 5 | 11 | 12 |
+| [2022-2023](#2022-2023) | 1 | 5 | 27 | 27 |
 | [2023-2024](#2023-2024) | 0 | 3 | 28 | 28 |
 
 ### 2001-2002
@@ -259,6 +261,7 @@
 ### 2021-2022
 
 1. #1 _Chilaquiles con pollo_ (Regional)
+    - Avanzó a la final mundial y resolvió 6 problemas obtuviendo el lugar #26 (80%) en 46th Annual World Finals of the International Collegiate Programming Contest
 1. #13 _Discípulos de Marckess_ (Regional)
 1. #18 _AC Forever_ (Clasificatorio)
 1. #32 _dESCOMulgados by Marckess_ (Regional)
@@ -274,6 +277,7 @@
 ### 2022-2023
 
 1. #4 _Exceso de Fé_ (Regional)
+    - Avanzó a la final mundial y resolvió 0 problemas obtuviendo el lugar #37 (72%) en 47th Annual World Finals of the International Collegiate Programming Contest
 1. #8 _AC Forever_ (Regional)
 1. #13 _dESCOMprimidos.zip_ (Clasificatorio)
 1. #21 _Crustáceos Cascarudos_ (Regional)

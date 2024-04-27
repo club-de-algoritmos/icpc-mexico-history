@@ -2,12 +2,14 @@
 
 ## Mejores 10 equipos
 
+1. _Almost Retired_ resolvió 4 problemas y obtuvo el lugar #9 (99%) en The 2022 ICPC Mexico Finals
+    - Avanzó a la final mundial y resolvió 2 problemas y obtuvo el lugar #37 (72%) en 47th Annual World Finals of the International Collegiate Programming Contest
 1. _Leones(0,0,0)_ resolvió 7 problemas y obtuvo el lugar #4 (100%) en The 2020 ICPC Mexico Finals
     - Avanzó a la final mundial y resolvió 3 problemas y obtuvo el lugar #51 (62%) en 45th Annual World Finals of the International Collegiate Programming Contest
+1. _Leones(0,0,0)_ resolvió 5 problemas y obtuvo el lugar #2 (100%) en The 2021 ICPC Mexico Finals
+    - Avanzó a la final mundial y resolvió 3 problemas y obtuvo el lugar #62 (50%) en 46th Annual World Finals of the International Collegiate Programming Contest
 1. _U de G ACM Problem Solvers_ resolvió 6 problemas y obtuvo el lugar #1 (100%) en The 2007 ACM Mexico and Central America Programming Contest
     - Avanzó a la final mundial y resolvió 2 problemas y obtuvo el lugar #65 (35%) en The 2008 ACM Programming Contest World Finals
-1. _Leones(0,0,0)_ resolvió 5 problemas y obtuvo el lugar #2 (100%) en The 2021 ICPC Mexico Finals
-1. _Almost Retired_ resolvió 4 problemas y obtuvo el lugar #9 (99%) en The 2022 ICPC Mexico Finals
 1. _Ma+aLeones7000_ resolvió 4 problemas y obtuvo el lugar #10 (99%) en The 2022 ICPC Mexico Finals
 1. _Leones(0,0,0);_ resolvió 4 problemas y obtuvo el lugar #17 (99%) en The 2019 ICPC Mexico Finals
 1. _DeltaWing_ resolvió 5 problemas y obtuvo el lugar #10 (98%) en The 2023 ICPC Mexico Finals
@@ -21,7 +23,7 @@
 
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
-| **Total** | **2** | **74** | **142** | **195** |
+| **Total** | **4** | **74** | **142** | **195** |
 | [2002-2003](#2002-2003) | 0 | 2 | 0 | 2 |
 | [2003-2004](#2003-2004) | 0 | 5 | 0 | 5 |
 | [2004-2005](#2004-2005) | 0 | 8 | 0 | 8 |
@@ -41,8 +43,8 @@
 | [2018-2019](#2018-2019) | 0 | 1 | 11 | 11 |
 | [2019-2020](#2019-2020) | 0 | 3 | 17 | 17 |
 | [2020-2021](#2020-2021) | 1 | 3 | 7 | 7 |
-| [2021-2022](#2021-2022) | 0 | 3 | 7 | 7 |
-| [2022-2023](#2022-2023) | 0 | 5 | 26 | 26 |
+| [2021-2022](#2021-2022) | 1 | 3 | 7 | 7 |
+| [2022-2023](#2022-2023) | 1 | 5 | 26 | 26 |
 | [2023-2024](#2023-2024) | 0 | 3 | 19 | 19 |
 
 ### 2002-2003
@@ -250,6 +252,7 @@
 ### 2021-2022
 
 1. #2 _Leones(0,0,0)_ (Regional)
+    - Avanzó a la final mundial y resolvió 3 problemas obtuviendo el lugar #62 (50%) en 46th Annual World Finals of the International Collegiate Programming Contest
 1. #15 _A New Hope_ (Regional)
 1. #16 _Yo no sé mañana_ (Regional)
 1. #22 _La tercera es la vencida_ (Clasificatorio)
@@ -260,6 +263,7 @@
 ### 2022-2023
 
 1. #9 _Almost Retired_ (Regional)
+    - Avanzó a la final mundial y resolvió 2 problemas obtuviendo el lugar #37 (72%) en 47th Annual World Finals of the International Collegiate Programming Contest
 1. #10 _Ma+aLeones7000_ (Regional)
 1. #17 _Los Mismísimos Carajillos_ (Regional)
 1. #24 _DeltaWing_ (Regional)

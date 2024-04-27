@@ -192,9 +192,29 @@ The ICPC World Finals Invitational Contest
 - #51 (#2 de México, resolvió 2) Legendary Grand Newbies ([ITESM Campus Monterrey](escuela/itesm-campus-monterrey))
 - #51 (#2 de México, resolvió 2) FoundTheBug.ItsMe ([Instituto Tecnológico Autónomo de México](escuela/instituto-tecnologico-autonomo-de-mexico))
 
+### 2021-2022
+
+46th Annual World Finals of the International Collegiate Programming Contest
+
+- #26 (#1 de México, resolvió 6) Chilaquiles con pollo ([Escuela Superior De Computo Instituto Politecnico Nacional](escuela/escuela-superior-de-computo-instituto-politecnico-nacional))
+- #62 (#2 de México, resolvió 3) Radical Sweep ([Instituto Tecnológico Autónomo de México](escuela/instituto-tecnologico-autonomo-de-mexico))
+- #62 (#2 de México, resolvió 3) Leones(0,0,0) ([Universidad de Guadalajara CUCEI](escuela/universidad-de-guadalajara-cucei))
+- #62 (#2 de México, resolvió 2) TriAda ([Universidad Autónoma de Nuevo Leon](escuela/universidad-autonoma-de-nuevo-leon))
+
+### 2022-2023
+
+47th Annual World Finals of the International Collegiate Programming Contest
+
+- #37 (#1 de México, resolvió 3) UPsolving ([Universidad Panamericana Campus Bonaterra](escuela/universidad-panamericana-campus-bonaterra))
+- #37 (#1 de México, resolvió 3) OWO ([Universidad de Guanajuato - CIMAT](escuela/universidad-de-guanajuato-cimat))
+- #37 (#1 de México, resolvió 2) Almost Retired ([Universidad de Guadalajara CUCEI](escuela/universidad-de-guadalajara-cucei))
+- #37 (#1 de México, resolvió 2) Cagua++ ([Facultad de Ciencias-Universidad Nacional Autónoma de México](escuela/facultad-de-ciencias-universidad-nacional-autonoma-de-mexico))
+- #37 (#1 de México, resolvió 0) Exceso de Fé ([Escuela Superior De Computo Instituto Politecnico Nacional](escuela/escuela-superior-de-computo-instituto-politecnico-nacional))
+
 
 ## Equipos sobresalientes
 
+1. _Chilaquiles con pollo_ ([Escuela Superior De Computo Instituto Politecnico Nacional](escuela/escuela-superior-de-computo-instituto-politecnico-nacional)) resolvió 6 problemas y obtuvo el lugar #26 (80%) en 46th Annual World Finals of the International Collegiate Programming Contest
 1. _PU++_ ([Facultad de Ciencias-Universidad Nacional Autónoma de México](escuela/facultad-de-ciencias-universidad-nacional-autonoma-de-mexico)) resolvió 5 problemas y obtuvo el lugar #31 (78%) en 42nd Annual World Finals of the International Collegiate Programming Contest
 1. _UPsolving_ ([Universidad Panamericana Campus Bonaterra](escuela/universidad-panamericana-campus-bonaterra)) resolvió 5 problemas y obtuvo el lugar #41 (69%) en 45th Annual World Finals of the International Collegiate Programming Contest
 1. _Los Chidory_ ([Universidad Panamericana Campus Bonaterra](escuela/universidad-panamericana-campus-bonaterra)) resolvió 2 problemas y obtuvo el lugar #45 (64%) en 38th Annual World Finals of the ACM International Collegiate Programming Contest
@@ -205,7 +225,7 @@ The ICPC World Finals Invitational Contest
 
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos | Escuelas |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **63** | **2334** | **6383** | **8178** | **388** |
+| **Total** | **72** | **2334** | **6383** | **8178** | **388** |
 | [1996-1997](#1996-1997) | 1 | 0 | 0 | 1 | 1 |
 | [1997-1998](#1997-1998) | 1 | 0 | 0 | 1 | 1 |
 | [1998-1999](#1998-1999) | 3 | 0 | 0 | 3 | 3 |
@@ -231,8 +251,8 @@ The ICPC World Finals Invitational Contest
 | [2018-2019](#2018-2019) | 4 | 61 | 799 | 802 | 114 |
 | [2019-2020](#2019-2020) | 5 | 54 | 1289 | 1291 | 185 |
 | [2020-2021](#2020-2021) | 4 | 58 | 703 | 704 | 151 |
-| [2021-2022](#2021-2022) | 0 | 56 | 491 | 492 | 121 |
-| [2022-2023](#2022-2023) | 0 | 56 | 1042 | 1044 | 155 |
+| [2021-2022](#2021-2022) | 4 | 56 | 491 | 492 | 121 |
+| [2022-2023](#2022-2023) | 5 | 56 | 1042 | 1044 | 155 |
 | [2023-2024](#2023-2024) | 0 | 55 | 450 | 450 | 74 |
 
 ## Ranking de escuelas
@@ -241,32 +261,31 @@ The ICPC World Finals Invitational Contest
 
 | # | Escuela | Finales mundiales | Regionales | Clasificatorios | Total |
 | --- | --- | --- | --- | --- | --- |
-| 1 | [Facultad de Ciencias-Universidad Nacional Autónoma de México](escuela/facultad-de-ciencias-universidad-nacional-autonoma-de-mexico) | 3 | 17 | 72 | 73 |
-| 2 | [Instituto Tecnológico Autónomo de México](escuela/instituto-tecnologico-autonomo-de-mexico) | 3 | 9 | 27 | 27 |
-| 3 | [Escuela Superior De Computo Instituto Politecnico Nacional](escuela/escuela-superior-de-computo-instituto-politecnico-nacional) | 2 | 30 | 155 | 157 |
-| 4 | [ITESM Campus Monterrey](escuela/itesm-campus-monterrey) | 2 | 26 | 277 | 278 |
-| 5 | [Universidad Panamericana Campus Bonaterra](escuela/universidad-panamericana-campus-bonaterra) | 2 | 21 | 77 | 77 |
-| 6 | [Instituto Tecnológico Superior del Sur de Guanajuato](escuela/instituto-tecnologico-superior-del-sur-de-guanajuato) | 2 | 18 | 175 | 175 |
-| 7 | [Universidad Autónoma de Nuevo Leon](escuela/universidad-autonoma-de-nuevo-leon) | 2 | 14 | 76 | 76 |
-| 8 | [Universidad de Guanajuato - CIMAT](escuela/universidad-de-guanajuato-cimat) | 1 | 23 | 51 | 51 |
-| 9 | [Universidad de Guadalajara CUCEI](escuela/universidad-de-guadalajara-cucei) | 1 | 19 | 118 | 118 |
-| 10 | [ITESM Campus Queretaro](escuela/itesm-campus-queretaro) | 1 | 7 | 28 | 29 |
+| 1 | [Escuela Superior De Computo Instituto Politecnico Nacional](escuela/escuela-superior-de-computo-instituto-politecnico-nacional) | 4 | 24 | 126 | 128 |
+| 2 | [Universidad de Guadalajara CUCEI](escuela/universidad-de-guadalajara-cucei) | 3 | 18 | 87 | 87 |
+| 3 | [Universidad Panamericana Campus Bonaterra](escuela/universidad-panamericana-campus-bonaterra) | 3 | 17 | 64 | 64 |
+| 4 | [Instituto Tecnológico Autónomo de México](escuela/instituto-tecnologico-autonomo-de-mexico) | 3 | 5 | 16 | 16 |
+| 5 | [ITESM Campus Monterrey](escuela/itesm-campus-monterrey) | 2 | 21 | 219 | 220 |
+| 6 | [Universidad de Guanajuato - CIMAT](escuela/universidad-de-guanajuato-cimat) | 2 | 18 | 37 | 37 |
+| 7 | [Instituto Tecnológico Superior del Sur de Guanajuato](escuela/instituto-tecnologico-superior-del-sur-de-guanajuato) | 2 | 15 | 136 | 136 |
+| 8 | [Facultad de Ciencias-Universidad Nacional Autónoma de México](escuela/facultad-de-ciencias-universidad-nacional-autonoma-de-mexico) | 2 | 14 | 67 | 68 |
+| 9 | [Universidad Autónoma de Nuevo Leon](escuela/universidad-autonoma-de-nuevo-leon) | 1 | 12 | 73 | 73 |
 
 ### Histórico
 
 | # | Escuela | Finales mundiales | Regionales | Clasificatorios | Total |
 | --- | --- | --- | --- | --- | --- |
 | 1 | [ITESM Campus Monterrey](escuela/itesm-campus-monterrey) | 10 | 92 | 296 | 360 |
-| 2 | [Escuela Superior De Computo Instituto Politecnico Nacional](escuela/escuela-superior-de-computo-instituto-politecnico-nacional) | 6 | 68 | 176 | 211 |
-| 3 | [Universidad de Guanajuato - CIMAT](escuela/universidad-de-guanajuato-cimat) | 6 | 60 | 65 | 96 |
+| 2 | [Escuela Superior De Computo Instituto Politecnico Nacional](escuela/escuela-superior-de-computo-instituto-politecnico-nacional) | 8 | 68 | 176 | 211 |
+| 3 | [Universidad de Guanajuato - CIMAT](escuela/universidad-de-guanajuato-cimat) | 7 | 60 | 65 | 96 |
 | 4 | [Universidad Tecnológica de la Mixteca](escuela/universidad-tecnologica-de-la-mixteca) | 5 | 43 | 35 | 72 |
-| 5 | [Universidad Panamericana Campus Bonaterra](escuela/universidad-panamericana-campus-bonaterra) | 4 | 37 | 90 | 103 |
-| 6 | [Instituto Tecnológico Autónomo de México](escuela/instituto-tecnologico-autonomo-de-mexico) | 4 | 37 | 33 | 58 |
-| 7 | [Universidad de las Americas-Puebla](escuela/universidad-de-las-americas-puebla) | 4 | 23 | 0 | 25 |
-| 8 | [Facultad de Ciencias-Universidad Nacional Autónoma de México](escuela/facultad-de-ciencias-universidad-nacional-autonoma-de-mexico) | 3 | 20 | 75 | 76 |
-| 9 | [Universidad de Guadalajara CUCEI](escuela/universidad-de-guadalajara-cucei) | 2 | 74 | 142 | 195 |
-| 10 | [ITESM Campus Queretaro](escuela/itesm-campus-queretaro) | 2 | 68 | 33 | 94 |
-| 11 | [Universidad Autónoma de Nuevo Leon](escuela/universidad-autonoma-de-nuevo-leon) | 2 | 56 | 80 | 120 |
+| 5 | [Universidad Panamericana Campus Bonaterra](escuela/universidad-panamericana-campus-bonaterra) | 5 | 37 | 90 | 103 |
+| 6 | [Instituto Tecnológico Autónomo de México](escuela/instituto-tecnologico-autonomo-de-mexico) | 5 | 37 | 33 | 58 |
+| 7 | [Universidad de Guadalajara CUCEI](escuela/universidad-de-guadalajara-cucei) | 4 | 74 | 142 | 195 |
+| 8 | [Universidad de las Americas-Puebla](escuela/universidad-de-las-americas-puebla) | 4 | 23 | 0 | 25 |
+| 9 | [Facultad de Ciencias-Universidad Nacional Autónoma de México](escuela/facultad-de-ciencias-universidad-nacional-autonoma-de-mexico) | 4 | 20 | 75 | 76 |
+| 10 | [Universidad Autónoma de Nuevo Leon](escuela/universidad-autonoma-de-nuevo-leon) | 3 | 56 | 80 | 120 |
+| 11 | [ITESM Campus Queretaro](escuela/itesm-campus-queretaro) | 2 | 68 | 33 | 94 |
 | 12 | [Universidad Autónoma de Aguascalientes](escuela/universidad-autonoma-de-aguascalientes) | 2 | 40 | 89 | 114 |
 | 13 | [Benemérita Universidad Autónoma de Puebla](escuela/benemerita-universidad-autonoma-de-puebla) | 2 | 37 | 15 | 51 |
 | 14 | [Instituto Tecnológico de Ciudad Madero](escuela/instituto-tecnologico-de-ciudad-madero) | 2 | 34 | 43 | 76 |

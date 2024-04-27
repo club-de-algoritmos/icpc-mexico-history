@@ -265,23 +265,18 @@ The ICPC World Finals Invitational Contest
 
 | # | Escuela | Finales mundiales | Regionales | Clasificatorios | Total |
 | --- | --- | --- | --- | --- | --- |
-| 1 | [Instituto Tecnológico Superior del Sur de Guanajuato](escuela/instituto-tecnologico-superior-del-sur-de-guanajuato) | 2 | 18 | 175 | 175 |
-| 2 | [Instituto Tecnológico de Veracruz](escuela/instituto-tecnologico-de-veracruz) | 0 | 7 | 49 | 49 |
-| 3 | [Instituto Tecnologico Superior de Los Reyes](escuela/instituto-tecnologico-superior-de-los-reyes) | 0 | 7 | 11 | 11 |
-| 4 | [Instituto Tecnológico Superior de Guanajuato](escuela/instituto-tecnologico-superior-de-guanajuato) | 0 | 6 | 43 | 43 |
-| 5 | [Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan) | 0 | 4 | 29 | 29 |
-| 6 | [Instituto Tecnologico de Nuevo Leon](escuela/instituto-tecnologico-de-nuevo-leon) | 0 | 3 | 58 | 58 |
-| 7 | [Instituto Tecnologico de la Laguna](escuela/instituto-tecnologico-de-la-laguna) | 0 | 2 | 62 | 62 |
-| 8 | [Instituto Tecnológico de Lázaro Cárdenas](escuela/instituto-tecnologico-de-lazaro-cardenas) | 0 | 1 | 61 | 61 |
-| 9 | [Instituto Tecnologico Superior de Lerdo](escuela/instituto-tecnologico-superior-de-lerdo) | 0 | 1 | 61 | 61 |
-| 10 | [Instituto Tecnologico Superior de Ciudad Hidalgo](escuela/instituto-tecnologico-superior-de-ciudad-hidalgo) | 0 | 1 | 58 | 58 |
-| 11 | [Instituto Tecnológico de Ciudad Madero](escuela/instituto-tecnologico-de-ciudad-madero) | 0 | 1 | 35 | 35 |
-| 12 | [Instituto Tecnológico de Ciudad Guzmán](escuela/instituto-tecnologico-de-ciudad-guzman) | 0 | 1 | 33 | 33 |
-| 13 | [Tecnológico Nacional de México , Instituto Tecnológico de León](escuela/tecnologico-nacional-de-mexico-,-instituto-tecnologico-de-leon) | 0 | 1 | 31 | 31 |
-| 14 | [Instituto Tecnológico Superior de Calkiní](escuela/instituto-tecnologico-superior-de-calkini) | 0 | 1 | 22 | 22 |
-| 15 | [Instituto Tecnológico de Querétaro](escuela/instituto-tecnologico-de-queretaro) | 0 | 1 | 14 | 14 |
-| 16 | [Instituto Tecnológico de Ciudad Juárez](escuela/instituto-tecnologico-de-ciudad-juarez) | 0 | 1 | 3 | 3 |
-| 17 | [Instituto Tecnológico de Zacatepec](escuela/instituto-tecnologico-de-zacatepec) | 0 | 1 | 2 | 2 |
+| 1 | [Instituto Tecnológico Superior del Sur de Guanajuato](escuela/instituto-tecnologico-superior-del-sur-de-guanajuato) | 2 | 15 | 136 | 136 |
+| 2 | [Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan) | 0 | 4 | 29 | 29 |
+| 3 | [Instituto Tecnologico de Nuevo Leon](escuela/instituto-tecnologico-de-nuevo-leon) | 0 | 3 | 44 | 44 |
+| 4 | [Instituto Tecnológico de Veracruz](escuela/instituto-tecnologico-de-veracruz) | 0 | 3 | 35 | 35 |
+| 5 | [Instituto Tecnológico Superior de Guanajuato](escuela/instituto-tecnologico-superior-de-guanajuato) | 0 | 3 | 33 | 33 |
+| 6 | [Instituto Tecnologico Superior de Los Reyes](escuela/instituto-tecnologico-superior-de-los-reyes) | 0 | 3 | 6 | 6 |
+| 7 | [Instituto Tecnologico de la Laguna](escuela/instituto-tecnologico-de-la-laguna) | 0 | 2 | 55 | 55 |
+| 8 | [Instituto Tecnológico de Lázaro Cárdenas](escuela/instituto-tecnologico-de-lazaro-cardenas) | 0 | 1 | 51 | 51 |
+| 9 | [Instituto Tecnológico de Ciudad Guzmán](escuela/instituto-tecnologico-de-ciudad-guzman) | 0 | 1 | 27 | 27 |
+| 10 | [Instituto Tecnológico de Querétaro](escuela/instituto-tecnologico-de-queretaro) | 0 | 1 | 10 | 10 |
+| 11 | [Instituto Tecnológico de Ciudad Juárez](escuela/instituto-tecnologico-de-ciudad-juarez) | 0 | 1 | 3 | 3 |
+| 12 | [Instituto Tecnológico de Zacatepec](escuela/instituto-tecnologico-de-zacatepec) | 0 | 1 | 2 | 2 |
 
 ## Histórico
 

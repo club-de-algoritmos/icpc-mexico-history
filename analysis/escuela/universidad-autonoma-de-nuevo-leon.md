@@ -7,6 +7,7 @@
 1. _Los A´S_ resolvió 7 problemas y obtuvo el lugar #3 (100%) en The 2016 ACM-ICPC Mexico and Central America Finals
     - Avanzó a la final mundial y resolvió 3 problemas y obtuvo el lugar #57 (58%) en 41st Annual World Finals of the ACM International Collegiate Programming Contest
 1. _TriAda_ resolvió 5 problemas y obtuvo el lugar #4 (99%) en The 2021 ICPC Mexico Finals
+    - Avanzó a la final mundial y resolvió 2 problemas y obtuvo el lugar #62 (50%) en 46th Annual World Finals of the International Collegiate Programming Contest
 1. _TriAda_ resolvió 5 problemas y obtuvo el lugar #10 (99%) en The 2020 ICPC Mexico Finals
 1. _ACE_ resolvió 4 problemas y obtuvo el lugar #11 (99%) en The 2022 ICPC Mexico Finals
 1. _nu1l_ resolvió 4 problemas y obtuvo el lugar #15 (99%) en The 2022 ICPC Mexico Finals
@@ -21,7 +22,7 @@
 
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
-| **Total** | **2** | **56** | **80** | **120** |
+| **Total** | **3** | **56** | **80** | **120** |
 | [2001-2002](#2001-2002) | 0 | 3 | 0 | 3 |
 | [2002-2003](#2002-2003) | 0 | 3 | 0 | 3 |
 | [2003-2004](#2003-2004) | 0 | 3 | 0 | 3 |
@@ -42,7 +43,7 @@
 | [2018-2019](#2018-2019) | 0 | 2 | 2 | 2 |
 | [2019-2020](#2019-2020) | 0 | 2 | 12 | 12 |
 | [2020-2021](#2020-2021) | 0 | 2 | 11 | 11 |
-| [2021-2022](#2021-2022) | 0 | 2 | 11 | 11 |
+| [2021-2022](#2021-2022) | 1 | 2 | 11 | 11 |
 | [2022-2023](#2022-2023) | 0 | 2 | 23 | 23 |
 | [2023-2024](#2023-2024) | 0 | 2 | 14 | 14 |
 
@@ -183,6 +184,7 @@
 ### 2021-2022
 
 1. #4 _TriAda_ (Regional)
+    - Avanzó a la final mundial y resolvió 2 problemas obtuviendo el lugar #62 (50%) en 46th Annual World Finals of the International Collegiate Programming Contest
 1. #38 _Los Tres Paleteros_ (Regional)
 1. #58 _Booleanos_ (Clasificatorio)
 1. #100 _Syntax Error_ (Clasificatorio)

@@ -4,12 +4,13 @@
 
 1. _PU++_ resolvió 7 problemas y obtuvo el lugar #2 (100%) en The 2017 ACM-ICPC Mexico and Central America Finals
     - Avanzó a la final mundial y resolvió 5 problemas y obtuvo el lugar #31 (78%) en 42nd Annual World Finals of the International Collegiate Programming Contest
+1. _Cagua++_ resolvió 6 problemas y obtuvo el lugar #3 (100%) en The 2022 ICPC Mexico Finals
+    - Avanzó a la final mundial y resolvió 2 problemas y obtuvo el lugar #37 (72%) en 47th Annual World Finals of the International Collegiate Programming Contest
 1. _PU++_ resolvió 8 problemas y obtuvo el lugar #1 (100%) en The 2016 ACM-ICPC Mexico and Central America Finals
     - Avanzó a la final mundial y resolvió 3 problemas y obtuvo el lugar #57 (58%) en 41st Annual World Finals of the ACM International Collegiate Programming Contest
 1. _PU++_ resolvió 3 problemas y obtuvo el lugar #47 (16%) en The ICPC World Finals Invitational Contest
     - No hay datos del regional
 1. _PumOMM_ resolvió 10 problemas y obtuvo el lugar #2 (100%) en The 2020 ICPC Mexico Finals
-1. _Cagua++_ resolvió 6 problemas y obtuvo el lugar #3 (100%) en The 2022 ICPC Mexico Finals
 1. _pu+os_ resolvió 6 problemas y obtuvo el lugar #4 (100%) en The 2019 ICPC Mexico Finals
 1. _pu++_ resolvió 5 problemas y obtuvo el lugar #5 (99%) en The 2015 ACM-ICPC Mexico and Central America Finals
 1. _Peso Puma_ resolvió 5 problemas y obtuvo el lugar #6 (99%) en The 2023 ICPC Mexico Finals
@@ -22,7 +23,7 @@
 
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
-| **Total** | **3** | **20** | **75** | **76** |
+| **Total** | **4** | **20** | **75** | **76** |
 | [2014-2015](#2014-2015) | 0 | 1 | 1 | 1 |
 | [2015-2016](#2015-2016) | 0 | 2 | 2 | 2 |
 | [2016-2017](#2016-2017) | 1 | 1 | 2 | 2 |
@@ -31,7 +32,7 @@
 | [2019-2020](#2019-2020) | 1 | 2 | 10 | 11 |
 | [2020-2021](#2020-2021) | 0 | 3 | 15 | 15 |
 | [2021-2022](#2021-2022) | 0 | 2 | 11 | 11 |
-| [2022-2023](#2022-2023) | 0 | 2 | 19 | 19 |
+| [2022-2023](#2022-2023) | 1 | 2 | 19 | 19 |
 | [2023-2024](#2023-2024) | 0 | 3 | 5 | 5 |
 
 ### 2014-2015
@@ -116,6 +117,7 @@
 ### 2022-2023
 
 1. #3 _Cagua++_ (Regional)
+    - Avanzó a la final mundial y resolvió 2 problemas obtuviendo el lugar #37 (72%) en 47th Annual World Finals of the International Collegiate Programming Contest
 1. #16 _Pumas+_ (Regional)
 1. #74 _C++ Tangana_ (Clasificatorio)
 1. #99 _pu(-)^2_ (Clasificatorio)

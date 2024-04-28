@@ -366,7 +366,7 @@ class Analyzer:
                                                    f' _{team.name}_{school_str}'
                                                    f' ({regional_result.contest.type.title()})')
                 else:
-                    markdown.numbered_bullet_point('No hay datos del regional')
+                    markdown.numbered_bullet_point(f'_{team.name}_{school_str} sin datos del regional')
 
                 world_result = team.world_result
                 if world_result:

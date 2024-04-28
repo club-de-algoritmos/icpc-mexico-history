@@ -10,8 +10,8 @@
     - Avanzó a la final mundial y resolvió 2 problemas y obtuvo el lugar #74 (30%) en 35th Annual World Finals of the ACM International Collegiate Programming Contest
 1. _Manowar_ resolvió 6 problemas y obtuvo el lugar #1 (100%) en The 2011 Mexico & Central America Regional Contest
     - Avanzó a la final mundial y resolvió 2 problemas y obtuvo el lugar #80 (29%) en 36th Annual World Finals of the ACM International Collegiate Programming Contest
-1. _U Guanajuato Hausdorff_ resolvió 2 problemas y obtuvo el lugar #77 (25%) en 34th Annual World Finals of the ACM International Collegiate Programming Contest
-    - No hay datos del regional
+1. _Hausdorff_ resolvió 7 problemas y obtuvo el lugar #2 (99%) en The 2009 Mexico & Central America Contest
+    - Avanzó a la final mundial y resolvió 2 problemas y obtuvo el lugar #77 (25%) en 34th Annual World Finals of the ACM International Collegiate Programming Contest
 1. _Mandelbrot_ resolvió 3 problemas y obtuvo el lugar #2 (99%) en The 2002 ACM Mexico and Central America Programming Contest
     - Avanzó a la final mundial y resolvió 0 problemas y obtuvo el lugar #56 (18%) en The 2003 ACM Programming Contest World Finals
 1. _U de Guanajuato Hausdorff_ resolvió 6 problemas y obtuvo el lugar #2 (99%) en The 2007 ACM Mexico and Central America Programming Contest
@@ -26,7 +26,7 @@
 
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
-| **Total** | **7** | **60** | **65** | **96** |
+| **Total** | **7** | **60** | **65** | **95** |
 | [2001-2002](#2001-2002) | 0 | 2 | 0 | 2 |
 | [2002-2003](#2002-2003) | 1 | 3 | 0 | 3 |
 | [2003-2004](#2003-2004) | 0 | 3 | 0 | 3 |
@@ -35,7 +35,7 @@
 | [2006-2007](#2006-2007) | 0 | 2 | 0 | 2 |
 | [2007-2008](#2007-2008) | 1 | 3 | 0 | 3 |
 | [2008-2009](#2008-2009) | 0 | 3 | 0 | 3 |
-| [2009-2010](#2009-2010) | 1 | 2 | 0 | 3 |
+| [2009-2010](#2009-2010) | 1 | 2 | 0 | 2 |
 | [2010-2011](#2010-2011) | 1 | 2 | 0 | 2 |
 | [2011-2012](#2011-2012) | 1 | 3 | 0 | 3 |
 | [2012-2013](#2012-2013) | 0 | 2 | 0 | 2 |
@@ -99,9 +99,8 @@
 
 ### 2009-2010
 
-1. No hay datos del regional
-    - Avanzó a la final mundial y resolvió 2 problemas obtuviendo el lugar #77 (25%) en 34th Annual World Finals of the ACM International Collegiate Programming Contest
 1. #2 _Hausdorff_ (Regional)
+    - Avanzó a la final mundial y resolvió 2 problemas obtuviendo el lugar #77 (25%) en 34th Annual World Finals of the ACM International Collegiate Programming Contest
 1. #24 _Lyapunov_ (Regional)
 
 ### 2010-2011

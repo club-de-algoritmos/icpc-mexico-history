@@ -1,4 +1,5 @@
 import dataclasses
+import math
 from collections import defaultdict
 from typing import List, Optional, Dict, Tuple
 
@@ -127,7 +128,8 @@ class Queries:
 
             # TODO: Create a SeasonTeamResult dataclass
             results_by_team_name: Dict[str, List[Optional[ExtendedTeamResult]]] = defaultdict(lambda: 3 * [None])
-            for contest in (worlds + [regional, qualifier]):
+            # Process world contests at the end to properly match with the regionals when a team name change occurs
+            for contest in ([regional, qualifier] + worlds):
                 if not contest:
                     continue
                 if contest in worlds:
@@ -140,7 +142,26 @@ class Queries:
                     raise Exception(f'Unexpected contest {contest}')
 
                 for team_result in contest.team_results:
-                    results_by_team_name[team_result.name][contest_index] = ExtendedTeamResult(
+                    team_name = team_result.name
+                    if contest_index == 0 and not results_by_team_name[team_name][1]:
+                        # Detect teams that change their name going into the World Finals, keeping the regional name as
+                        # Mexico got to know them, because team names are not important in the World Finals
+                        old_team_name = None
+                        old_team_rank = math.inf
+                        for other_team_name, other_team_results in results_by_team_name.items():
+                            other_team_result = other_team_results[1].team_result if other_team_results[1] else None
+                            if (other_team_result
+                                    and other_team_result.school == team_result.school
+                                    and other_team_result.rank < old_team_rank):
+                                old_team_name = other_team_result.name
+                                old_team_rank = other_team_result.rank
+
+                        if old_team_name:
+                            # The team did change their name
+                            del results_by_team_name[team_name]
+                            team_name = old_team_name
+
+                    results_by_team_name[team_name][contest_index] = ExtendedTeamResult(
                         team_result=team_result, contest=contest)
 
             regional_teams = {result.name for result in regional.team_results} if regional else set()

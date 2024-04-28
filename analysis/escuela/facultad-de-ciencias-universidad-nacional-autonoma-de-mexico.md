@@ -8,14 +8,14 @@
     - Avanzó a la final mundial y resolvió 2 problemas y obtuvo el lugar #37 (72%) en 47th Annual World Finals of the International Collegiate Programming Contest
 1. _PU++_ resolvió 8 problemas y obtuvo el lugar #1 (100%) en The 2016 ACM-ICPC Mexico and Central America Finals
     - Avanzó a la final mundial y resolvió 3 problemas y obtuvo el lugar #57 (58%) en 41st Annual World Finals of the ACM International Collegiate Programming Contest
-1. _PU++_ resolvió 3 problemas y obtuvo el lugar #47 (16%) en The ICPC World Finals Invitational Contest
-    - No hay datos del regional
-1. _PumOMM_ resolvió 10 problemas y obtuvo el lugar #2 (100%) en The 2020 ICPC Mexico Finals
 1. _pu+os_ resolvió 6 problemas y obtuvo el lugar #4 (100%) en The 2019 ICPC Mexico Finals
+    - Avanzó a la final mundial y resolvió 3 problemas y obtuvo el lugar #47 (16%) en The ICPC World Finals Invitational Contest
+1. _PumOMM_ resolvió 10 problemas y obtuvo el lugar #2 (100%) en The 2020 ICPC Mexico Finals
 1. _pu++_ resolvió 5 problemas y obtuvo el lugar #5 (99%) en The 2015 ACM-ICPC Mexico and Central America Finals
 1. _Peso Puma_ resolvió 5 problemas y obtuvo el lugar #6 (99%) en The 2023 ICPC Mexico Finals
 1. _UNAM Amada_ resolvió 7 problemas y obtuvo el lugar #9 (99%) en The 2018 ICPC Mexico and Central America Finals
 1. _Pumas+_ resolvió 4 problemas y obtuvo el lugar #15 (99%) en The 2019 ICPC Mexico Finals
+1. _Pumas+_ resolvió 4 problemas y obtuvo el lugar #16 (99%) en The 2022 ICPC Mexico Finals
 
 ## Participaciones
 
@@ -23,13 +23,13 @@
 
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
-| **Total** | **4** | **20** | **75** | **76** |
+| **Total** | **4** | **20** | **75** | **75** |
 | [2014-2015](#2014-2015) | 0 | 1 | 1 | 1 |
 | [2015-2016](#2015-2016) | 0 | 2 | 2 | 2 |
 | [2016-2017](#2016-2017) | 1 | 1 | 2 | 2 |
 | [2017-2018](#2017-2018) | 1 | 2 | 3 | 3 |
 | [2018-2019](#2018-2019) | 0 | 2 | 7 | 7 |
-| [2019-2020](#2019-2020) | 1 | 2 | 10 | 11 |
+| [2019-2020](#2019-2020) | 1 | 2 | 10 | 10 |
 | [2020-2021](#2020-2021) | 0 | 3 | 15 | 15 |
 | [2021-2022](#2021-2022) | 0 | 2 | 11 | 11 |
 | [2022-2023](#2022-2023) | 1 | 2 | 19 | 19 |
@@ -69,9 +69,8 @@
 
 ### 2019-2020
 
-1. No hay datos del regional
-    - Avanzó a la final mundial y resolvió 3 problemas obtuviendo el lugar #47 (16%) en The ICPC World Finals Invitational Contest
 1. #4 _pu+os_ (Regional)
+    - Avanzó a la final mundial y resolvió 3 problemas obtuviendo el lugar #47 (16%) en The ICPC World Finals Invitational Contest
 1. #15 _Pumas+_ (Regional)
 1. #19 _EZLN_ (Clasificatorio)
 1. #95 _Pumitas_ (Clasificatorio)

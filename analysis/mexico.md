@@ -225,7 +225,7 @@ The ICPC World Finals Invitational Contest
 
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos | Escuelas |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **72** | **2334** | **6383** | **8178** | **388** |
+| **Total** | **72** | **2334** | **6383** | **8175** | **388** |
 | [1996-1997](#1996-1997) | 1 | 0 | 0 | 1 | 1 |
 | [1997-1998](#1997-1998) | 1 | 0 | 0 | 1 | 1 |
 | [1998-1999](#1998-1999) | 3 | 0 | 0 | 3 | 3 |
@@ -239,7 +239,7 @@ The ICPC World Finals Invitational Contest
 | [2006-2007](#2006-2007) | 2 | 123 | 0 | 123 | 52 |
 | [2007-2008](#2007-2008) | 3 | 147 | 0 | 147 | 54 |
 | [2008-2009](#2008-2009) | 3 | 163 | 0 | 163 | 58 |
-| [2009-2010](#2009-2010) | 2 | 137 | 0 | 139 | 60 |
+| [2009-2010](#2009-2010) | 2 | 137 | 0 | 137 | 60 |
 | [2010-2011](#2010-2011) | 1 | 169 | 0 | 169 | 71 |
 | [2011-2012](#2011-2012) | 3 | 160 | 0 | 160 | 73 |
 | [2012-2013](#2012-2013) | 2 | 161 | 0 | 161 | 65 |
@@ -249,7 +249,7 @@ The ICPC World Finals Invitational Contest
 | [2016-2017](#2016-2017) | 3 | 66 | 470 | 471 | 80 |
 | [2017-2018](#2017-2018) | 3 | 57 | 622 | 627 | 103 |
 | [2018-2019](#2018-2019) | 4 | 61 | 799 | 802 | 114 |
-| [2019-2020](#2019-2020) | 5 | 54 | 1289 | 1291 | 185 |
+| [2019-2020](#2019-2020) | 5 | 54 | 1289 | 1290 | 185 |
 | [2020-2021](#2020-2021) | 4 | 58 | 703 | 704 | 151 |
 | [2021-2022](#2021-2022) | 4 | 56 | 491 | 492 | 121 |
 | [2022-2023](#2022-2023) | 5 | 56 | 1042 | 1044 | 155 |
@@ -268,7 +268,7 @@ The ICPC World Finals Invitational Contest
 | 5 | [ITESM Campus Monterrey](escuela/itesm-campus-monterrey) | 2 | 21 | 219 | 220 |
 | 6 | [Universidad de Guanajuato - CIMAT](escuela/universidad-de-guanajuato-cimat) | 2 | 18 | 37 | 37 |
 | 7 | [Instituto Tecnológico Superior del Sur de Guanajuato](escuela/instituto-tecnologico-superior-del-sur-de-guanajuato) | 2 | 15 | 136 | 136 |
-| 8 | [Facultad de Ciencias-Universidad Nacional Autónoma de México](escuela/facultad-de-ciencias-universidad-nacional-autonoma-de-mexico) | 2 | 14 | 67 | 68 |
+| 8 | [Facultad de Ciencias-Universidad Nacional Autónoma de México](escuela/facultad-de-ciencias-universidad-nacional-autonoma-de-mexico) | 2 | 14 | 67 | 67 |
 | 9 | [Universidad Autónoma de Nuevo Leon](escuela/universidad-autonoma-de-nuevo-leon) | 1 | 12 | 73 | 73 |
 
 ### Histórico
@@ -277,15 +277,15 @@ The ICPC World Finals Invitational Contest
 | --- | --- | --- | --- | --- | --- |
 | 1 | [ITESM Campus Monterrey](escuela/itesm-campus-monterrey) | 10 | 92 | 296 | 360 |
 | 2 | [Escuela Superior De Computo Instituto Politecnico Nacional](escuela/escuela-superior-de-computo-instituto-politecnico-nacional) | 8 | 68 | 176 | 211 |
-| 3 | [Universidad de Guanajuato - CIMAT](escuela/universidad-de-guanajuato-cimat) | 7 | 60 | 65 | 96 |
+| 3 | [Universidad de Guanajuato - CIMAT](escuela/universidad-de-guanajuato-cimat) | 7 | 60 | 65 | 95 |
 | 4 | [Universidad Tecnológica de la Mixteca](escuela/universidad-tecnologica-de-la-mixteca) | 5 | 43 | 35 | 72 |
 | 5 | [Universidad Panamericana Campus Bonaterra](escuela/universidad-panamericana-campus-bonaterra) | 5 | 37 | 90 | 103 |
 | 6 | [Instituto Tecnológico Autónomo de México](escuela/instituto-tecnologico-autonomo-de-mexico) | 5 | 37 | 33 | 58 |
 | 7 | [Universidad de Guadalajara CUCEI](escuela/universidad-de-guadalajara-cucei) | 4 | 74 | 142 | 195 |
 | 8 | [Universidad de las Americas-Puebla](escuela/universidad-de-las-americas-puebla) | 4 | 23 | 0 | 25 |
-| 9 | [Facultad de Ciencias-Universidad Nacional Autónoma de México](escuela/facultad-de-ciencias-universidad-nacional-autonoma-de-mexico) | 4 | 20 | 75 | 76 |
+| 9 | [Facultad de Ciencias-Universidad Nacional Autónoma de México](escuela/facultad-de-ciencias-universidad-nacional-autonoma-de-mexico) | 4 | 20 | 75 | 75 |
 | 10 | [Universidad Autónoma de Nuevo Leon](escuela/universidad-autonoma-de-nuevo-leon) | 3 | 56 | 80 | 120 |
-| 11 | [ITESM Campus Queretaro](escuela/itesm-campus-queretaro) | 2 | 68 | 33 | 94 |
+| 11 | [ITESM Campus Queretaro](escuela/itesm-campus-queretaro) | 2 | 68 | 33 | 93 |
 | 12 | [Universidad Autónoma de Aguascalientes](escuela/universidad-autonoma-de-aguascalientes) | 2 | 40 | 89 | 114 |
 | 13 | [Benemérita Universidad Autónoma de Puebla](escuela/benemerita-universidad-autonoma-de-puebla) | 2 | 37 | 15 | 51 |
 | 14 | [Instituto Tecnológico de Ciudad Madero](escuela/instituto-tecnologico-de-ciudad-madero) | 2 | 34 | 43 | 76 |

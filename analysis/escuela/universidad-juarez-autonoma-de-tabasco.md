@@ -16,7 +16,7 @@
 
 ### 1996-1997
 
-1. No hay datos del regional
+1. _<Desconocido>_ sin datos del regional
     - Avanzó a la final mundial obtuviendo el lugar #28 en The 1997 ACM Programming Contest World Finals
 
 

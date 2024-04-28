@@ -56,17 +56,17 @@
 
 ### 1997-1998
 
-1. No hay datos del regional
+1. _<Desconocido>_ sin datos del regional
     - Avanzó a la final mundial y resolvió 2 problemas obtuviendo el lugar #40 en The 1998 ACM Programming Contest World Finals
 
 ### 1998-1999
 
-1. No hay datos del regional
+1. _ITESM ProZac_ sin datos del regional
     - Avanzó a la final mundial y resolvió 1 problemas obtuviendo el lugar #56 (10%) en The 1999 ACM Programming Contest World Finals
 
 ### 2000-2001
 
-1. No hay datos del regional
+1. _SWART_ sin datos del regional
     - Avanzó a la final mundial y resolvió 1 problemas obtuviendo el lugar #59 (8%) en The 2001 ACM Programming Contest World Finals
 
 ### 2001-2002

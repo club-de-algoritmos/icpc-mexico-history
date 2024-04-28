@@ -46,7 +46,7 @@
 
 ### 2000-2001
 
-1. No hay datos del regional
+1. _IT. Madero_ sin datos del regional
     - Avanzó a la final mundial y resolvió 0 problemas obtuviendo el lugar #60 (6%) en The 2001 ACM Programming Contest World Finals
 
 ### 2001-2002

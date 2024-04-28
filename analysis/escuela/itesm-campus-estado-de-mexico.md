@@ -43,12 +43,12 @@
 
 ### 1998-1999
 
-1. No hay datos del regional
+1. _ITESM GaToZ LoCoZ_ sin datos del regional
     - Avanzó a la final mundial y resolvió 0 problemas obtuviendo el lugar #60 (3%) en The 1999 ACM Programming Contest World Finals
 
 ### 1999-2000
 
-1. No hay datos del regional
+1. _ITESM CEM GaToZ LoCoZ_ sin datos del regional
     - Avanzó a la final mundial y resolvió 0 problemas obtuviendo el lugar #22 (64%) en The 2000 ACM Programming Contest World Finals
 
 ### 2001-2002

@@ -4,9 +4,8 @@
 
 1. _Pragma_ resolvió 7 problemas y obtuvo el lugar #3 (100%) en The 2017 ACM-ICPC Mexico and Central America Finals
     - Avanzó a la final mundial y resolvió 2 problemas y obtuvo el lugar #57 (60%) en 42nd Annual World Finals of the International Collegiate Programming Contest
-1. _ITESM Queretaro Los punteros_ resolvió 2 problemas y obtuvo el lugar #76 (26%) en 34th Annual World Finals of the ACM International Collegiate Programming Contest
-    - No hay datos del regional
 1. _Los punteros_ resolvió 8 problemas y obtuvo el lugar #1 (100%) en The 2009 Mexico & Central America Contest
+    - Avanzó a la final mundial y resolvió 2 problemas y obtuvo el lugar #76 (26%) en 34th Annual World Finals of the ACM International Collegiate Programming Contest
 1. _lEFTaSaNeXERCISE_ resolvió 5 problemas y obtuvo el lugar #11 (99%) en The 2019 ICPC Mexico Finals
 1. _c+vga_ resolvió 5 problemas y obtuvo el lugar #13 (99%) en The 2018 ICPC Mexico and Central America Finals
 1. _Deadly Coding Squad =)_ resolvió 4 problemas y obtuvo el lugar #4 (98%) en The 2008 Mexico & Central America Contest
@@ -14,6 +13,7 @@
 1. _pragma_ resolvió 23 problemas y obtuvo el lugar #7 (98%) en Gran Premio de Mexico & Centroamerica 2017
 1. _wlog_ resolvió 4 problemas y obtuvo el lugar #12 (98%) en The 2016 ACM-ICPC Mexico and Central America Finals
 1. _pragma++_ resolvió 5 problemas y obtuvo el lugar #16 (98%) en The 2018 ICPC Mexico and Central America Finals
+1. _Code'n'play_ resolvió 3 problemas y obtuvo el lugar #17 (97%) en The 2016 ACM-ICPC Mexico and Central America Finals
 
 ## Participaciones
 
@@ -21,7 +21,7 @@
 
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
-| **Total** | **2** | **68** | **33** | **94** |
+| **Total** | **2** | **68** | **33** | **93** |
 | [2001-2002](#2001-2002) | 0 | 4 | 0 | 4 |
 | [2002-2003](#2002-2003) | 0 | 1 | 0 | 1 |
 | [2004-2005](#2004-2005) | 0 | 2 | 0 | 2 |
@@ -29,7 +29,7 @@
 | [2006-2007](#2006-2007) | 0 | 6 | 0 | 6 |
 | [2007-2008](#2007-2008) | 0 | 13 | 0 | 13 |
 | [2008-2009](#2008-2009) | 0 | 10 | 0 | 10 |
-| [2009-2010](#2009-2010) | 1 | 6 | 0 | 7 |
+| [2009-2010](#2009-2010) | 1 | 6 | 0 | 6 |
 | [2010-2011](#2010-2011) | 0 | 5 | 0 | 5 |
 | [2011-2012](#2011-2012) | 0 | 4 | 0 | 4 |
 | [2012-2013](#2012-2013) | 0 | 2 | 0 | 2 |
@@ -102,9 +102,8 @@
 
 ### 2009-2010
 
-1. No hay datos del regional
-    - Avanzó a la final mundial y resolvió 2 problemas obtuviendo el lugar #76 (26%) en 34th Annual World Finals of the ACM International Collegiate Programming Contest
 1. #1 (#1 de ITESM) _Los punteros_ (Regional)
+    - Avanzó a la final mundial y resolvió 2 problemas obtuviendo el lugar #76 (26%) en 34th Annual World Finals of the ACM International Collegiate Programming Contest
 1. #19 (#5 de ITESM) _TheHiveClusterIsUnderAttack!!!_ (Regional)
 1. #30 (#8 de ITESM) _DethLok_ (Regional)
 1. #36 (#10 de ITESM) _Sons of a bit_ (Regional)

@@ -205,6 +205,13 @@ def get_schools(contests: List[FinishedContest]) -> List[School]:
             state='sinaloa',
         ),
         School(
+            name='Instituto Tecnológico de Mazatlán',
+            community=SchoolCommunity.TECNM,
+            country=MEXICO,
+            state='sinaloa',
+            alt_names=["tecnológico nacional de méxico / instituto tecnológico de mazatlán"],
+        ),
+        School(
             name='Universidad de Guanajuato - CIMAT',
             alt_names=['universidad de guanajuato', 'universidad de guanajuato - dcne'],
             country=MEXICO,

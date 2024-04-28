@@ -1005,6 +1005,16 @@
     "is_eligible": true
   },
   {
+    "name": "Instituto Tecnológico de Mazatlán",
+    "alt_names": [
+      "tecnológico nacional de méxico / instituto tecnológico de mazatlán"
+    ],
+    "community": "Tecnologico Nacional de Mexico",
+    "country": "mexico",
+    "state": "sinaloa",
+    "is_eligible": true
+  },
+  {
     "name": "Instituto Tecnológico de Milpa Alta I",
     "alt_names": [],
     "community": "Tecnologico Nacional de Mexico",
@@ -2154,14 +2164,6 @@
     "community": "Tecnologico Nacional de Mexico",
     "country": "mexico",
     "state": null,
-    "is_eligible": true
-  },
-  {
-    "name": "Tecnológico Nacional de México / Instituto Tecnológico de Mazatlán",
-    "alt_names": [],
-    "community": "Tecnologico Nacional de Mexico",
-    "country": "mexico",
-    "state": "sinaloa",
     "is_eligible": true
   },
   {

@@ -190,7 +190,7 @@
 
 ### 2020-2021
 
-1. #351 (#65 de TecNM) _Picudos 1 ISC_ ([Tecnológico Nacional de México / Instituto Tecnológico de Mazatlán](escuela/tecnologico-nacional-de-mexico-instituto-tecnologico-de-mazatlan)) (Clasificatorio)
+1. #351 (#65 de TecNM) _Picudos 1 ISC_ ([Instituto Tecnológico de Mazatlán](escuela/instituto-tecnologico-de-mazatlan)) (Clasificatorio)
 
 ### 2021-2022
 
@@ -253,7 +253,7 @@
 | 3 | [Universidad de Occidente, Unidad Culiacán](escuela/universidad-de-occidente,-unidad-culiacan) | 0 | 0 | 2 | 2 |
 | 4 | [Facultad de Informática Mazatlán UAS](escuela/facultad-de-informatica-mazatlan-uas) | 0 | 0 | 2 | 2 |
 | 5 | [Universidad Autónoma de Occidente](escuela/universidad-autonoma-de-occidente) | 0 | 0 | 1 | 1 |
-| 6 | [Tecnológico Nacional de México / Instituto Tecnológico de Mazatlán](escuela/tecnologico-nacional-de-mexico-instituto-tecnologico-de-mazatlan) | 0 | 0 | 1 | 1 |
+| 6 | [Instituto Tecnológico de Mazatlán](escuela/instituto-tecnologico-de-mazatlan) | 0 | 0 | 1 | 1 |
 
 ### Histórico
 
@@ -266,7 +266,7 @@
 | 5 | [Universidad de Occidente, Unidad Culiacán](escuela/universidad-de-occidente,-unidad-culiacan) | 0 | 0 | 2 | 2 |
 | 6 | [Facultad de Informática Mazatlán UAS](escuela/facultad-de-informatica-mazatlan-uas) | 0 | 0 | 2 | 2 |
 | 7 | [Universidad Autónoma de Occidente](escuela/universidad-autonoma-de-occidente) | 0 | 0 | 1 | 1 |
-| 8 | [Tecnológico Nacional de México / Instituto Tecnológico de Mazatlán](escuela/tecnologico-nacional-de-mexico-instituto-tecnologico-de-mazatlan) | 0 | 0 | 1 | 1 |
+| 8 | [Instituto Tecnológico de Mazatlán](escuela/instituto-tecnologico-de-mazatlan) | 0 | 0 | 1 | 1 |
 
 
 

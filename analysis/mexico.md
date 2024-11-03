@@ -211,6 +211,13 @@ The ICPC World Finals Invitational Contest
 - #37 (#1 de México, resolvió 2) Cagua++ ([Facultad de Ciencias-Universidad Nacional Autónoma de México](escuela/facultad-de-ciencias-universidad-nacional-autonoma-de-mexico))
 - #37 (#1 de México, resolvió 0) Exceso de Fé ([Escuela Superior De Computo Instituto Politecnico Nacional](escuela/escuela-superior-de-computo-instituto-politecnico-nacional))
 
+### 2023-2024
+
+The 48th Annual World Finals of the International Collegiate Programming Contest
+
+- #52 (#1 de México, resolvió 4) OWO ([Universidad de Guanajuato - CIMAT](escuela/universidad-de-guanajuato-cimat))
+- #52 (#1 de México, resolvió 1) Borregos Salvajes ([ITESM Campus Guadalajara](escuela/itesm-campus-guadalajara))
+
 
 ## Equipos sobresalientes
 
@@ -225,7 +232,7 @@ The ICPC World Finals Invitational Contest
 
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos | Escuelas |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **72** | **2334** | **6383** | **8175** | **388** |
+| **Total** | **74** | **2334** | **6383** | **8175** | **388** |
 | [1996-1997](#1996-1997) | 1 | 0 | 0 | 1 | 1 |
 | [1997-1998](#1997-1998) | 1 | 0 | 0 | 1 | 1 |
 | [1998-1999](#1998-1999) | 3 | 0 | 0 | 3 | 3 |
@@ -253,7 +260,7 @@ The ICPC World Finals Invitational Contest
 | [2020-2021](#2020-2021) | 4 | 58 | 703 | 704 | 151 |
 | [2021-2022](#2021-2022) | 4 | 56 | 491 | 492 | 121 |
 | [2022-2023](#2022-2023) | 5 | 56 | 1042 | 1044 | 155 |
-| [2023-2024](#2023-2024) | 0 | 55 | 450 | 450 | 74 |
+| [2023-2024](#2023-2024) | 2 | 55 | 450 | 450 | 74 |
 
 ## Ranking de escuelas
 
@@ -261,15 +268,16 @@ The ICPC World Finals Invitational Contest
 
 | # | Escuela | Finales mundiales | Regionales | Clasificatorios | Total |
 | --- | --- | --- | --- | --- | --- |
-| 1 | [Escuela Superior De Computo Instituto Politecnico Nacional](escuela/escuela-superior-de-computo-instituto-politecnico-nacional) | 4 | 24 | 126 | 128 |
-| 2 | [Universidad de Guadalajara CUCEI](escuela/universidad-de-guadalajara-cucei) | 3 | 18 | 87 | 87 |
-| 3 | [Universidad Panamericana Campus Bonaterra](escuela/universidad-panamericana-campus-bonaterra) | 3 | 17 | 64 | 64 |
-| 4 | [Instituto Tecnológico Autónomo de México](escuela/instituto-tecnologico-autonomo-de-mexico) | 3 | 5 | 16 | 16 |
-| 5 | [ITESM Campus Monterrey](escuela/itesm-campus-monterrey) | 2 | 21 | 219 | 220 |
-| 6 | [Universidad de Guanajuato - CIMAT](escuela/universidad-de-guanajuato-cimat) | 2 | 18 | 37 | 37 |
-| 7 | [Instituto Tecnológico Superior del Sur de Guanajuato](escuela/instituto-tecnologico-superior-del-sur-de-guanajuato) | 2 | 15 | 136 | 136 |
-| 8 | [Facultad de Ciencias-Universidad Nacional Autónoma de México](escuela/facultad-de-ciencias-universidad-nacional-autonoma-de-mexico) | 2 | 14 | 67 | 67 |
-| 9 | [Universidad Autónoma de Nuevo Leon](escuela/universidad-autonoma-de-nuevo-leon) | 1 | 12 | 73 | 73 |
+| 1 | [Escuela Superior De Computo Instituto Politecnico Nacional](escuela/escuela-superior-de-computo-instituto-politecnico-nacional) | 3 | 21 | 102 | 104 |
+| 2 | [Universidad de Guadalajara CUCEI](escuela/universidad-de-guadalajara-cucei) | 3 | 17 | 76 | 76 |
+| 3 | [Universidad Panamericana Campus Bonaterra](escuela/universidad-panamericana-campus-bonaterra) | 3 | 15 | 59 | 59 |
+| 4 | [Universidad de Guanajuato - CIMAT](escuela/universidad-de-guanajuato-cimat) | 3 | 15 | 32 | 32 |
+| 5 | [Facultad de Ciencias-Universidad Nacional Autónoma de México](escuela/facultad-de-ciencias-universidad-nacional-autonoma-de-mexico) | 2 | 12 | 60 | 60 |
+| 6 | [Instituto Tecnológico Autónomo de México](escuela/instituto-tecnologico-autonomo-de-mexico) | 2 | 4 | 13 | 13 |
+| 7 | [ITESM Campus Monterrey](escuela/itesm-campus-monterrey) | 1 | 18 | 178 | 179 |
+| 8 | [Instituto Tecnológico Superior del Sur de Guanajuato](escuela/instituto-tecnologico-superior-del-sur-de-guanajuato) | 1 | 14 | 117 | 117 |
+| 9 | [Universidad Autónoma de Nuevo Leon](escuela/universidad-autonoma-de-nuevo-leon) | 1 | 10 | 71 | 71 |
+| 10 | [ITESM Campus Guadalajara](escuela/itesm-campus-guadalajara) | 1 | 7 | 41 | 41 |
 
 ### Histórico
 
@@ -277,7 +285,7 @@ The ICPC World Finals Invitational Contest
 | --- | --- | --- | --- | --- | --- |
 | 1 | [ITESM Campus Monterrey](escuela/itesm-campus-monterrey) | 10 | 92 | 296 | 360 |
 | 2 | [Escuela Superior De Computo Instituto Politecnico Nacional](escuela/escuela-superior-de-computo-instituto-politecnico-nacional) | 8 | 68 | 176 | 211 |
-| 3 | [Universidad de Guanajuato - CIMAT](escuela/universidad-de-guanajuato-cimat) | 7 | 60 | 65 | 95 |
+| 3 | [Universidad de Guanajuato - CIMAT](escuela/universidad-de-guanajuato-cimat) | 8 | 60 | 65 | 95 |
 | 4 | [Universidad Tecnológica de la Mixteca](escuela/universidad-tecnologica-de-la-mixteca) | 5 | 43 | 35 | 72 |
 | 5 | [Universidad Panamericana Campus Bonaterra](escuela/universidad-panamericana-campus-bonaterra) | 5 | 37 | 90 | 103 |
 | 6 | [Instituto Tecnológico Autónomo de México](escuela/instituto-tecnologico-autonomo-de-mexico) | 5 | 37 | 33 | 58 |
@@ -292,9 +300,10 @@ The ICPC World Finals Invitational Contest
 | 15 | [Instituto Tecnológico Superior del Sur de Guanajuato](escuela/instituto-tecnologico-superior-del-sur-de-guanajuato) | 2 | 29 | 193 | 201 |
 | 16 | [ITESM Campus Estado de Mexico](escuela/itesm-campus-estado-de-mexico) | 2 | 28 | 87 | 102 |
 | 17 | [Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan) | 2 | 19 | 39 | 53 |
-| 18 | [Universidad Autónoma de Tlaxcala](escuela/universidad-autonoma-de-tlaxcala) | 1 | 35 | 41 | 76 |
-| 19 | [ITESM Campus Puebla](escuela/itesm-campus-puebla) | 1 | 22 | 57 | 69 |
-| 20 | [Universidad Juárez Autónoma de Tabasco](escuela/universidad-juarez-autonoma-de-tabasco) | 1 | 0 | 0 | 1 |
+| 18 | [ITESM Campus Guadalajara](escuela/itesm-campus-guadalajara) | 1 | 49 | 54 | 95 |
+| 19 | [Universidad Autónoma de Tlaxcala](escuela/universidad-autonoma-de-tlaxcala) | 1 | 35 | 41 | 76 |
+| 20 | [ITESM Campus Puebla](escuela/itesm-campus-puebla) | 1 | 22 | 57 | 69 |
+| 21 | [Universidad Juárez Autónoma de Tabasco](escuela/universidad-juarez-autonoma-de-tabasco) | 1 | 0 | 0 | 1 |
 
 
 

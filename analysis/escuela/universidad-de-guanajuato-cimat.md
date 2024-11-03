@@ -4,6 +4,8 @@
 
 1. _OWO_ resolvió 8 problemas y obtuvo el lugar #1 (100%) en The 2022 ICPC Mexico Finals
     - Avanzó a la final mundial y resolvió 3 problemas y obtuvo el lugar #37 (72%) en 47th Annual World Finals of the International Collegiate Programming Contest
+1. _OWO_ resolvió 7 problemas y obtuvo el lugar #1 (100%) en The 2023 ICPC Mexico Finals
+    - Avanzó a la final mundial y resolvió 4 problemas y obtuvo el lugar #52 (64%) en The 48th Annual World Finals of the International Collegiate Programming Contest
 1. _E3_ resolvió 7 problemas y obtuvo el lugar #2 (100%) en The 2019 ICPC Mexico Finals
     - Avanzó a la final mundial y obtuvo el lugar #47 (61%) en 44th Annual World Finals of the International Collegiate Programming Contest
 1. _Manowar_ resolvió 8 problemas y obtuvo el lugar #1 (100%) en The 2010 Mexico & Central America Regional Contest
@@ -16,7 +18,6 @@
     - Avanzó a la final mundial y resolvió 0 problemas y obtuvo el lugar #56 (18%) en The 2003 ACM Programming Contest World Finals
 1. _U de Guanajuato Hausdorff_ resolvió 6 problemas y obtuvo el lugar #2 (99%) en The 2007 ACM Mexico and Central America Programming Contest
     - Avanzó a la final mundial y resolvió 0 problemas y obtuvo el lugar #90 (10%) en The 2008 ACM Programming Contest World Finals
-1. _OWO_ resolvió 7 problemas y obtuvo el lugar #1 (100%) en The 2023 ICPC Mexico Finals
 1. _La última y nos vamos_ resolvió 6 problemas y obtuvo el lugar #2 (100%) en The 2023 ICPC Mexico Finals
 1. _JoJoJo’S_ resolvió 5 problemas y obtuvo el lugar #5 (100%) en The 2022 ICPC Mexico Finals
 
@@ -26,7 +27,7 @@
 
 | Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- |
-| **Total** | **7** | **60** | **65** | **95** |
+| **Total** | **8** | **60** | **65** | **95** |
 | [2001-2002](#2001-2002) | 0 | 2 | 0 | 2 |
 | [2002-2003](#2002-2003) | 1 | 3 | 0 | 3 |
 | [2003-2004](#2003-2004) | 0 | 3 | 0 | 3 |
@@ -49,7 +50,7 @@
 | [2020-2021](#2020-2021) | 0 | 3 | 6 | 6 |
 | [2021-2022](#2021-2022) | 0 | 3 | 7 | 7 |
 | [2022-2023](#2022-2023) | 1 | 3 | 10 | 10 |
-| [2023-2024](#2023-2024) | 0 | 3 | 5 | 5 |
+| [2023-2024](#2023-2024) | 1 | 3 | 5 | 5 |
 
 ### 2001-2002
 
@@ -217,6 +218,7 @@
 ### 2023-2024
 
 1. #1 _OWO_ (Regional)
+    - Avanzó a la final mundial y resolvió 4 problemas obtuviendo el lugar #52 (64%) en The 48th Annual World Finals of the International Collegiate Programming Contest
 1. #2 _La última y nos vamos_ (Regional)
 1. #14 _Mathgic_ (Clasificatorio)
 1. #16 _cin>>nombre;_ (Regional)

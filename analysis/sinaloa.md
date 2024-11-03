@@ -249,9 +249,9 @@
 | # | Escuela | Finales mundiales | Regionales | Clasificatorios | Total |
 | --- | --- | --- | --- | --- | --- |
 | 1 | [Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan) | 0 | 4 | 29 | 29 |
-| 2 | [Universidad Autónoma de Sinaloa](escuela/universidad-autonoma-de-sinaloa) | 0 | 0 | 20 | 20 |
-| 3 | [Universidad de Occidente, Unidad Culiacán](escuela/universidad-de-occidente,-unidad-culiacan) | 0 | 0 | 2 | 2 |
-| 4 | [Facultad de Informática Mazatlán UAS](escuela/facultad-de-informatica-mazatlan-uas) | 0 | 0 | 2 | 2 |
+| 2 | [Universidad Autónoma de Sinaloa](escuela/universidad-autonoma-de-sinaloa) | 0 | 0 | 13 | 13 |
+| 3 | [Facultad de Informática Mazatlán UAS](escuela/facultad-de-informatica-mazatlan-uas) | 0 | 0 | 2 | 2 |
+| 4 | [Universidad de Occidente, Unidad Culiacán](escuela/universidad-de-occidente,-unidad-culiacan) | 0 | 0 | 1 | 1 |
 | 5 | [Universidad Autónoma de Occidente](escuela/universidad-autonoma-de-occidente) | 0 | 0 | 1 | 1 |
 | 6 | [Instituto Tecnológico de Mazatlán](escuela/instituto-tecnologico-de-mazatlan) | 0 | 0 | 1 | 1 |
 

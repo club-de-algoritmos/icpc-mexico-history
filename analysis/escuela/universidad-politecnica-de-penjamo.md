@@ -17,11 +17,11 @@
 
 ### Resumen
 
-| Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
-| --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **12** | **12** |
-| [2019-2020](#2019-2020) | 0 | 0 | 2 | 2 |
-| [2020-2021](#2020-2021) | 0 | 0 | 10 | 10 |
+| Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
+| --- | --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **0** | **12** | **12** |
+| [2019-2020](#2019-2020) | 0 | 0 | 0 | 2 | 2 |
+| [2020-2021](#2020-2021) | 0 | 0 | 0 | 10 | 10 |
 
 ### 2019-2020
 

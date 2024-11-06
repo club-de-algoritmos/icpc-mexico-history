@@ -27,10 +27,15 @@ def _sort_ranked_team(team: RankedTeam) -> Tuple:
     if team.world_result:
         world_finals_percentile = team.world_result.percentile
 
+    championship_percentile = -1
+    if team.championship_result:
+        championship_percentile = team.championship_result.percentile
+
     problems_solved = team.top_result.team_result.problems_solved or 0
     rank = team.top_result.team_result.rank or 1000
 
     return (-world_finals_percentile,
+            -championship_percentile,
             -round((team.regional_season_percentile or -1) * 100),
             rank,
             -problems_solved,
@@ -53,10 +58,10 @@ class Queries:
         for contest in contests:
             community_last_team: Dict[SchoolCommunity, TeamResult] = {}
             community_rank: Dict[SchoolCommunity, int] = defaultdict(int)
-            country_last_team: Dict[str, TeamResult] = {}
-            country_rank: Dict[str, int] = defaultdict(int)
-            # TODO: Compute
-            # super_region_ranking: Dict[SuperRegion, int] = defaultdict(int)
+            championship_country_last_team: Dict[str, TeamResult] = {}
+            championship_country_rank: Dict[str, int] = defaultdict(int)
+            wf_country_last_team: Dict[str, TeamResult] = {}
+            wf_country_rank: Dict[str, int] = defaultdict(int)
             team_results = []
             for team in contest.team_results:
                 school = self._get_school(team.institution)
@@ -83,15 +88,25 @@ class Queries:
                     team = dataclasses.replace(team, community_rank=rank)
                     community_last_team[school.community] = team
 
+                if contest.type == ContestType.CHAMPIONSHIP:
+                    championship_country_rank[school.country] += 1
+                    rank = championship_country_rank[school.country]
+                    last_team = championship_country_last_team.get(school.country)
+                    if last_team and last_team.rank == team.rank:
+                        rank = last_team.championship_country_rank
+
+                    team = dataclasses.replace(team, championship_country_rank=rank)
+                    championship_country_last_team[school.country] = team
+
                 if contest.type == ContestType.WORLD:
-                    country_rank[school.country] += 1
-                    rank = country_rank[school.country]
-                    last_team = country_last_team.get(school.country)
+                    wf_country_rank[school.country] += 1
+                    rank = wf_country_rank[school.country]
+                    last_team = wf_country_last_team.get(school.country)
                     if last_team and last_team.rank == team.rank:
                         rank = last_team.country_rank
 
                     team = dataclasses.replace(team, country_rank=rank)
-                    country_last_team[school.country] = team
+                    wf_country_last_team[school.country] = team
 
                 team_results.append(team)
 
@@ -109,6 +124,7 @@ class Queries:
         for year, contests in sorted(contests_by_year.items()):
             qualifier = None
             regional = None
+            championship = None
             worlds = []
             for contest in contests:
                 if contest.type in [ContestType.GRAN_PREMIO, ContestType.PROGRAMMING_BATTLE]:
@@ -121,35 +137,42 @@ class Queries:
                         raise Exception(f'Found two contests with the same type ({contest.type}):'
                                         f' {regional} and {contest}')
                     regional = contest
+                elif contest.type == ContestType.CHAMPIONSHIP:
+                    if championship is not None:
+                        raise Exception(f'Found two contests with the same type ({contest.type}):'
+                                        f' {championship} and {contest}')
+                    championship = contest
                 elif contest.type == ContestType.WORLD:
                     worlds.append(contest)
                 else:
                     raise ValueError(f'Unexpected type {contest.type} of contest {contest.name}')
 
             # TODO: Create a SeasonTeamResult dataclass
-            results_by_team_name: Dict[str, List[Optional[ExtendedTeamResult]]] = defaultdict(lambda: 3 * [None])
+            results_by_team_name: Dict[str, List[Optional[ExtendedTeamResult]]] = defaultdict(lambda: 4 * [None])
             # Process world contests at the end to properly match with the regionals when a team name change occurs
-            for contest in ([regional, qualifier] + worlds):
+            for contest in ([championship, regional, qualifier] + worlds):
                 if not contest:
                     continue
                 if contest in worlds:
                     contest_index = 0
-                elif contest == regional:
+                elif contest == championship:
                     contest_index = 1
-                elif contest == qualifier:
+                elif contest == regional:
                     contest_index = 2
+                elif contest == qualifier:
+                    contest_index = 3
                 else:
                     raise Exception(f'Unexpected contest {contest}')
 
                 for team_result in contest.team_results:
                     team_name = team_result.name
-                    if contest_index == 0 and not results_by_team_name[team_name][1]:
+                    if contest_index == 0 and not results_by_team_name[team_name][2]:
                         # Detect teams that change their name going into the World Finals, keeping the regional name as
                         # Mexico got to know them, because team names are not important in the World Finals
                         old_team_name = None
                         old_team_rank = math.inf
                         for other_team_name, other_team_results in results_by_team_name.items():
-                            other_team_result = other_team_results[1].team_result if other_team_results[1] else None
+                            other_team_result = other_team_results[2].team_result if other_team_results[2] else None
                             if (other_team_result
                                     and other_team_result.school == team_result.school
                                     and other_team_result.rank < old_team_rank):
@@ -175,7 +198,7 @@ class Queries:
                     (result.team_result.school for result in ext_team_results if result),
                     None,
                 )
-                world_result, regional_result, qualifier_result = ext_team_results
+                world_result, championship_result, regional_result, qualifier_result = ext_team_results
 
                 regional_season_rank = None
                 if regional_result:
@@ -193,13 +216,21 @@ class Queries:
                                         school=school,
                                         qualifier_result=qualifier_result,
                                         regional_result=regional_result,
+                                        championship_result=championship_result,
                                         world_result=world_result,
                                         regional_season_rank=regional_season_rank,
                                         regional_season_percentile=regional_season_percentile))
 
             teams.sort(key=_sort_ranked_team)
 
-            seasons.append(ContestSeason(year=year, qualifier=qualifier, regional=regional, worlds=worlds, teams=teams))
+            seasons.append(ContestSeason(
+                year=year,
+                qualifier=qualifier,
+                regional=regional,
+                championship=championship,
+                worlds=worlds,
+                teams=teams,
+            ))
 
         return seasons
 

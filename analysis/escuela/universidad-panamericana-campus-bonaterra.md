@@ -12,36 +12,36 @@
     - Avanzó a la final mundial y obtuvo el lugar #47 (61%) en 44th Annual World Finals of the International Collegiate Programming Contest
 1. _AEI_ resolvió 5 problemas y obtuvo el lugar #2 (99%) en The 2012 Mexico & Central America Regional Contest
     - Avanzó a la final mundial y resolvió 2 problemas y obtuvo el lugar #76 (36%) en 37th Annual World Finals of the ACM International Collegiate Programming Contest
+1. _ArkanianPhoenix_ resolvió 2 problemas y obtuvo el lugar #40 (91%) en The 2023 ICPC Mexico Finals
 1. _UPsolving_ resolvió 7 problemas y obtuvo el lugar #5 (100%) en The 2018 ICPC Mexico and Central America Finals
 1. _Chicos_Percebe_ resolvió 5 problemas y obtuvo el lugar #6 (100%) en The 2022 ICPC Mexico Finals
 1. _ICPCrikos_ resolvió 4 problemas y obtuvo el lugar #6 (99%) en The 2021 ICPC Mexico Finals
 1. _Las tortillas de Héctor_ resolvió 5 problemas y obtuvo el lugar #7 (99%) en The 2023 ICPC Mexico Finals
-1. _Sopa de pingüino_ resolvió 5 problemas y obtuvo el lugar #7 (99%) en The 2016 ACM-ICPC Mexico and Central America Finals
 
 ## Participaciones
 
 ### Resumen
 
-| Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
-| --- | --- | --- | --- | --- |
-| **Total** | **5** | **37** | **90** | **103** |
-| [2007-2008](#2007-2008) | 0 | 1 | 0 | 1 |
-| [2008-2009](#2008-2009) | 0 | 2 | 0 | 2 |
-| [2009-2010](#2009-2010) | 0 | 1 | 0 | 1 |
-| [2010-2011](#2010-2011) | 0 | 2 | 0 | 2 |
-| [2011-2012](#2011-2012) | 0 | 1 | 0 | 1 |
-| [2012-2013](#2012-2013) | 1 | 3 | 0 | 3 |
-| [2013-2014](#2013-2014) | 1 | 3 | 0 | 3 |
-| [2014-2015](#2014-2015) | 0 | 1 | 5 | 5 |
-| [2015-2016](#2015-2016) | 0 | 2 | 8 | 8 |
-| [2016-2017](#2016-2017) | 0 | 2 | 8 | 8 |
-| [2017-2018](#2017-2018) | 0 | 2 | 5 | 5 |
-| [2018-2019](#2018-2019) | 0 | 2 | 5 | 5 |
-| [2019-2020](#2019-2020) | 1 | 3 | 12 | 12 |
-| [2020-2021](#2020-2021) | 1 | 2 | 9 | 9 |
-| [2021-2022](#2021-2022) | 0 | 3 | 10 | 10 |
-| [2022-2023](#2022-2023) | 1 | 3 | 14 | 14 |
-| [2023-2024](#2023-2024) | 0 | 4 | 14 | 14 |
+| Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
+| --- | --- | --- | --- | --- | --- |
+| **Total** | **5** | **1** | **37** | **90** | **103** |
+| [2007-2008](#2007-2008) | 0 | 0 | 1 | 0 | 1 |
+| [2008-2009](#2008-2009) | 0 | 0 | 2 | 0 | 2 |
+| [2009-2010](#2009-2010) | 0 | 0 | 1 | 0 | 1 |
+| [2010-2011](#2010-2011) | 0 | 0 | 2 | 0 | 2 |
+| [2011-2012](#2011-2012) | 0 | 0 | 1 | 0 | 1 |
+| [2012-2013](#2012-2013) | 1 | 0 | 3 | 0 | 3 |
+| [2013-2014](#2013-2014) | 1 | 0 | 3 | 0 | 3 |
+| [2014-2015](#2014-2015) | 0 | 0 | 1 | 5 | 5 |
+| [2015-2016](#2015-2016) | 0 | 0 | 2 | 8 | 8 |
+| [2016-2017](#2016-2017) | 0 | 0 | 2 | 8 | 8 |
+| [2017-2018](#2017-2018) | 0 | 0 | 2 | 5 | 5 |
+| [2018-2019](#2018-2019) | 0 | 0 | 2 | 5 | 5 |
+| [2019-2020](#2019-2020) | 1 | 0 | 3 | 12 | 12 |
+| [2020-2021](#2020-2021) | 1 | 0 | 2 | 9 | 9 |
+| [2021-2022](#2021-2022) | 0 | 0 | 3 | 10 | 10 |
+| [2022-2023](#2022-2023) | 1 | 0 | 3 | 14 | 14 |
+| [2023-2024](#2023-2024) | 0 | 1 | 4 | 14 | 14 |
 
 ### 2007-2008
 
@@ -187,11 +187,11 @@
 
 ### 2023-2024
 
+1. #40 _ArkanianPhoenix_ (Regional)
 1. #7 _Las tortillas de Héctor_ (Regional)
 1. #9 _UPSolving_ (Regional)
 1. #14 _ICPCrikos_ (Regional)
 1. #26 _°^°_ (Clasificatorio)
-1. #40 _ArkanianPhoenix_ (Regional)
 1. #49 _Los Taqueros III_ (Clasificatorio)
 1. #59 _ICP00_ (Clasificatorio)
 1. #79 _Syntax Slayers_ (Clasificatorio)

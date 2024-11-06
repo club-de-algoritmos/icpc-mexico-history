@@ -9,10 +9,10 @@
 
 ### Resumen
 
-| Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
-| --- | --- | --- | --- | --- |
-| **Total** | **1** | **0** | **0** | **1** |
-| [1996-1997](#1996-1997) | 1 | 0 | 0 | 1 |
+| Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
+| --- | --- | --- | --- | --- | --- |
+| **Total** | **1** | **0** | **0** | **0** | **1** |
+| [1996-1997](#1996-1997) | 1 | 0 | 0 | 0 | 1 |
 
 ### 1996-1997
 

@@ -10,11 +10,11 @@
 
 ### Resumen
 
-| Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
-| --- | --- | --- | --- | --- |
-| **Total** | **0** | **1** | **2** | **3** |
-| [2014-2015](#2014-2015) | 0 | 1 | 0 | 1 |
-| [2021-2022](#2021-2022) | 0 | 0 | 2 | 2 |
+| Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
+| --- | --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **1** | **2** | **3** |
+| [2014-2015](#2014-2015) | 0 | 0 | 1 | 0 | 1 |
+| [2021-2022](#2021-2022) | 0 | 0 | 0 | 2 | 2 |
 
 ### 2014-2015
 

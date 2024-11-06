@@ -11,11 +11,11 @@
 
 ### Resumen
 
-| Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
-| --- | --- | --- | --- | --- |
-| **Total** | **0** | **3** | **1** | **4** |
-| [2003-2004](#2003-2004) | 0 | 3 | 0 | 3 |
-| [2020-2021](#2020-2021) | 0 | 0 | 1 | 1 |
+| Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
+| --- | --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **3** | **1** | **4** |
+| [2003-2004](#2003-2004) | 0 | 0 | 3 | 0 | 3 |
+| [2020-2021](#2020-2021) | 0 | 0 | 0 | 1 | 1 |
 
 ### 2003-2004
 

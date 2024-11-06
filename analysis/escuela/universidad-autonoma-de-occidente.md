@@ -8,10 +8,10 @@
 
 ### Resumen
 
-| Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
-| --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **1** | **1** |
-| [2019-2020](#2019-2020) | 0 | 0 | 1 | 1 |
+| Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
+| --- | --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **0** | **1** | **1** |
+| [2019-2020](#2019-2020) | 0 | 0 | 0 | 1 | 1 |
 
 ### 2019-2020
 

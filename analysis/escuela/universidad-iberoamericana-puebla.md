@@ -11,11 +11,11 @@
 
 ### Resumen
 
-| Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
-| --- | --- | --- | --- | --- |
-| **Total** | **0** | **1** | **3** | **4** |
-| [2002-2003](#2002-2003) | 0 | 1 | 0 | 1 |
-| [2018-2019](#2018-2019) | 0 | 0 | 3 | 3 |
+| Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
+| --- | --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **1** | **3** | **4** |
+| [2002-2003](#2002-2003) | 0 | 0 | 1 | 0 | 1 |
+| [2018-2019](#2018-2019) | 0 | 0 | 0 | 3 | 3 |
 
 ### 2002-2003
 

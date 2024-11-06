@@ -10,10 +10,10 @@
 
 ### Resumen
 
-| Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
-| --- | --- | --- | --- | --- |
-| **Total** | **0** | **3** | **0** | **3** |
-| [2003-2004](#2003-2004) | 0 | 3 | 0 | 3 |
+| Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
+| --- | --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **3** | **0** | **3** |
+| [2003-2004](#2003-2004) | 0 | 0 | 3 | 0 | 3 |
 
 ### 2003-2004
 

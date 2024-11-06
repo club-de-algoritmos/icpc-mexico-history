@@ -276,6 +276,10 @@ def get_schools(contests: List[FinishedContest]) -> List[School]:
             schools.append(School(name=school_name, country='el salvador'))
             continue
 
+        if contains_strings(normalized_name, 'universidad rafael landivar'):
+            schools.append(School(name=school_name, country='guatemala'))
+            continue
+
         if (contains_strings(normalized_name,
                              'habana',
                              'universidad de las ciencias informaticas',

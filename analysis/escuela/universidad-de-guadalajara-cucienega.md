@@ -14,11 +14,11 @@
 
 ### Resumen
 
-| Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
-| --- | --- | --- | --- | --- |
-| **Total** | **0** | **1** | **7** | **7** |
-| [2017-2018](#2017-2018) | 0 | 0 | 3 | 3 |
-| [2018-2019](#2018-2019) | 0 | 1 | 4 | 4 |
+| Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
+| --- | --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **1** | **7** | **7** |
+| [2017-2018](#2017-2018) | 0 | 0 | 0 | 3 | 3 |
+| [2018-2019](#2018-2019) | 0 | 0 | 1 | 4 | 4 |
 
 ### 2017-2018
 

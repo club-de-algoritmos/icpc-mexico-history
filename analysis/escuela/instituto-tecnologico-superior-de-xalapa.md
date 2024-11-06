@@ -9,11 +9,11 @@
 
 ### Resumen
 
-| Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
-| --- | --- | --- | --- | --- |
-| **Total** | **0** | **1** | **1** | **2** |
-| [2001-2002](#2001-2002) | 0 | 1 | 0 | 1 |
-| [2020-2021](#2020-2021) | 0 | 0 | 1 | 1 |
+| Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
+| --- | --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **1** | **1** | **2** |
+| [2001-2002](#2001-2002) | 0 | 0 | 1 | 0 | 1 |
+| [2020-2021](#2020-2021) | 0 | 0 | 0 | 1 | 1 |
 
 ### 2001-2002
 

@@ -8,10 +8,10 @@
 
 ### Resumen
 
-| Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
-| --- | --- | --- | --- | --- |
-| **Total** | **0** | **1** | **1** | **1** |
-| [2017-2018](#2017-2018) | 0 | 1 | 1 | 1 |
+| Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
+| --- | --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **1** | **1** | **1** |
+| [2017-2018](#2017-2018) | 0 | 0 | 1 | 1 | 1 |
 
 ### 2017-2018
 

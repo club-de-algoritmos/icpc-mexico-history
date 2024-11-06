@@ -230,80 +230,82 @@ The 48th Annual World Finals of the International Collegiate Programming Contest
 
 ## Participaciones
 
-| Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos | Escuelas |
-| --- | --- | --- | --- | --- | --- |
-| **Total** | **74** | **2334** | **6383** | **8175** | **388** |
-| [1996-1997](#1996-1997) | 1 | 0 | 0 | 1 | 1 |
-| [1997-1998](#1997-1998) | 1 | 0 | 0 | 1 | 1 |
-| [1998-1999](#1998-1999) | 3 | 0 | 0 | 3 | 3 |
-| [1999-2000](#1999-2000) | 2 | 0 | 0 | 2 | 2 |
-| [2000-2001](#2000-2001) | 2 | 0 | 0 | 2 | 2 |
-| [2001-2002](#2001-2002) | 2 | 74 | 0 | 74 | 35 |
-| [2002-2003](#2002-2003) | 2 | 93 | 0 | 93 | 39 |
-| [2003-2004](#2003-2004) | 2 | 105 | 0 | 105 | 44 |
-| [2004-2005](#2004-2005) | 2 | 113 | 0 | 113 | 52 |
-| [2005-2006](#2005-2006) | 2 | 134 | 0 | 134 | 52 |
-| [2006-2007](#2006-2007) | 2 | 123 | 0 | 123 | 52 |
-| [2007-2008](#2007-2008) | 3 | 147 | 0 | 147 | 54 |
-| [2008-2009](#2008-2009) | 3 | 163 | 0 | 163 | 58 |
-| [2009-2010](#2009-2010) | 2 | 137 | 0 | 137 | 60 |
-| [2010-2011](#2010-2011) | 1 | 169 | 0 | 169 | 71 |
-| [2011-2012](#2011-2012) | 3 | 160 | 0 | 160 | 73 |
-| [2012-2013](#2012-2013) | 2 | 161 | 0 | 161 | 65 |
-| [2013-2014](#2013-2014) | 3 | 172 | 0 | 172 | 68 |
-| [2014-2015](#2014-2015) | 3 | 58 | 223 | 240 | 61 |
-| [2015-2016](#2015-2016) | 3 | 62 | 294 | 295 | 72 |
-| [2016-2017](#2016-2017) | 3 | 66 | 470 | 471 | 80 |
-| [2017-2018](#2017-2018) | 3 | 57 | 622 | 627 | 103 |
-| [2018-2019](#2018-2019) | 4 | 61 | 799 | 802 | 114 |
-| [2019-2020](#2019-2020) | 5 | 54 | 1289 | 1290 | 185 |
-| [2020-2021](#2020-2021) | 4 | 58 | 703 | 704 | 151 |
-| [2021-2022](#2021-2022) | 4 | 56 | 491 | 492 | 121 |
-| [2022-2023](#2022-2023) | 5 | 56 | 1042 | 1044 | 155 |
-| [2023-2024](#2023-2024) | 2 | 55 | 450 | 450 | 74 |
+| Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos | Escuelas |
+| --- | --- | --- | --- | --- | --- | --- |
+| **Total** | **74** | **5** | **2332** | **6383** | **8173** | **387** |
+| [1996-1997](#1996-1997) | 1 | 0 | 0 | 0 | 1 | 1 |
+| [1997-1998](#1997-1998) | 1 | 0 | 0 | 0 | 1 | 1 |
+| [1998-1999](#1998-1999) | 3 | 0 | 0 | 0 | 3 | 3 |
+| [1999-2000](#1999-2000) | 2 | 0 | 0 | 0 | 2 | 2 |
+| [2000-2001](#2000-2001) | 2 | 0 | 0 | 0 | 2 | 2 |
+| [2001-2002](#2001-2002) | 2 | 0 | 73 | 0 | 73 | 34 |
+| [2002-2003](#2002-2003) | 2 | 0 | 93 | 0 | 93 | 39 |
+| [2003-2004](#2003-2004) | 2 | 0 | 104 | 0 | 104 | 43 |
+| [2004-2005](#2004-2005) | 2 | 0 | 113 | 0 | 113 | 52 |
+| [2005-2006](#2005-2006) | 2 | 0 | 134 | 0 | 134 | 52 |
+| [2006-2007](#2006-2007) | 2 | 0 | 123 | 0 | 123 | 52 |
+| [2007-2008](#2007-2008) | 3 | 0 | 147 | 0 | 147 | 54 |
+| [2008-2009](#2008-2009) | 3 | 0 | 163 | 0 | 163 | 58 |
+| [2009-2010](#2009-2010) | 2 | 0 | 137 | 0 | 137 | 60 |
+| [2010-2011](#2010-2011) | 1 | 0 | 169 | 0 | 169 | 71 |
+| [2011-2012](#2011-2012) | 3 | 0 | 160 | 0 | 160 | 73 |
+| [2012-2013](#2012-2013) | 2 | 0 | 161 | 0 | 161 | 65 |
+| [2013-2014](#2013-2014) | 3 | 0 | 172 | 0 | 172 | 68 |
+| [2014-2015](#2014-2015) | 3 | 0 | 58 | 223 | 240 | 61 |
+| [2015-2016](#2015-2016) | 3 | 0 | 62 | 294 | 295 | 72 |
+| [2016-2017](#2016-2017) | 3 | 0 | 66 | 470 | 471 | 80 |
+| [2017-2018](#2017-2018) | 3 | 0 | 57 | 622 | 627 | 103 |
+| [2018-2019](#2018-2019) | 4 | 0 | 61 | 799 | 802 | 114 |
+| [2019-2020](#2019-2020) | 5 | 0 | 54 | 1289 | 1290 | 185 |
+| [2020-2021](#2020-2021) | 4 | 0 | 58 | 703 | 704 | 151 |
+| [2021-2022](#2021-2022) | 4 | 0 | 56 | 491 | 492 | 121 |
+| [2022-2023](#2022-2023) | 5 | 0 | 56 | 1042 | 1044 | 155 |
+| [2023-2024](#2023-2024) | 2 | 5 | 55 | 450 | 450 | 74 |
 
 ## Ranking de escuelas
 
 ### Últimos 5 años
 
-| # | Escuela | Finales mundiales | Regionales | Clasificatorios | Total |
-| --- | --- | --- | --- | --- | --- |
-| 1 | [Escuela Superior De Computo Instituto Politecnico Nacional](escuela/escuela-superior-de-computo-instituto-politecnico-nacional) | 3 | 21 | 102 | 104 |
-| 2 | [Universidad de Guadalajara CUCEI](escuela/universidad-de-guadalajara-cucei) | 3 | 17 | 76 | 76 |
-| 3 | [Universidad Panamericana Campus Bonaterra](escuela/universidad-panamericana-campus-bonaterra) | 3 | 15 | 59 | 59 |
-| 4 | [Universidad de Guanajuato - CIMAT](escuela/universidad-de-guanajuato-cimat) | 3 | 15 | 32 | 32 |
-| 5 | [Facultad de Ciencias-Universidad Nacional Autónoma de México](escuela/facultad-de-ciencias-universidad-nacional-autonoma-de-mexico) | 2 | 12 | 60 | 60 |
-| 6 | [Instituto Tecnológico Autónomo de México](escuela/instituto-tecnologico-autonomo-de-mexico) | 2 | 4 | 13 | 13 |
-| 7 | [ITESM Campus Monterrey](escuela/itesm-campus-monterrey) | 1 | 18 | 178 | 179 |
-| 8 | [Instituto Tecnológico Superior del Sur de Guanajuato](escuela/instituto-tecnologico-superior-del-sur-de-guanajuato) | 1 | 14 | 117 | 117 |
-| 9 | [Universidad Autónoma de Nuevo Leon](escuela/universidad-autonoma-de-nuevo-leon) | 1 | 10 | 71 | 71 |
-| 10 | [ITESM Campus Guadalajara](escuela/itesm-campus-guadalajara) | 1 | 7 | 41 | 41 |
+| # | Escuela | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | [Universidad de Guanajuato - CIMAT](escuela/universidad-de-guanajuato-cimat) | 3 | 2 | 15 | 32 | 32 |
+| 2 | [Universidad Panamericana Campus Bonaterra](escuela/universidad-panamericana-campus-bonaterra) | 3 | 1 | 15 | 59 | 59 |
+| 3 | [Escuela Superior De Computo Instituto Politecnico Nacional](escuela/escuela-superior-de-computo-instituto-politecnico-nacional) | 3 | 0 | 21 | 102 | 104 |
+| 4 | [Universidad de Guadalajara CUCEI](escuela/universidad-de-guadalajara-cucei) | 3 | 0 | 17 | 76 | 76 |
+| 5 | [Facultad de Ciencias-Universidad Nacional Autónoma de México](escuela/facultad-de-ciencias-universidad-nacional-autonoma-de-mexico) | 2 | 0 | 12 | 60 | 60 |
+| 6 | [Instituto Tecnológico Autónomo de México](escuela/instituto-tecnologico-autonomo-de-mexico) | 2 | 0 | 4 | 13 | 13 |
+| 7 | [ITESM Campus Guadalajara](escuela/itesm-campus-guadalajara) | 1 | 1 | 7 | 41 | 41 |
+| 8 | [ITESM Campus Monterrey](escuela/itesm-campus-monterrey) | 1 | 0 | 18 | 178 | 179 |
+| 9 | [Instituto Tecnológico Superior del Sur de Guanajuato](escuela/instituto-tecnologico-superior-del-sur-de-guanajuato) | 1 | 0 | 14 | 117 | 117 |
+| 10 | [Universidad Autónoma de Nuevo Leon](escuela/universidad-autonoma-de-nuevo-leon) | 1 | 0 | 10 | 71 | 71 |
+| 11 | [ITESO University](escuela/iteso-university) | 0 | 1 | 3 | 232 | 234 |
 
 ### Histórico
 
-| # | Escuela | Finales mundiales | Regionales | Clasificatorios | Total |
-| --- | --- | --- | --- | --- | --- |
-| 1 | [ITESM Campus Monterrey](escuela/itesm-campus-monterrey) | 10 | 92 | 296 | 360 |
-| 2 | [Escuela Superior De Computo Instituto Politecnico Nacional](escuela/escuela-superior-de-computo-instituto-politecnico-nacional) | 8 | 68 | 176 | 211 |
-| 3 | [Universidad de Guanajuato - CIMAT](escuela/universidad-de-guanajuato-cimat) | 8 | 60 | 65 | 95 |
-| 4 | [Universidad Tecnológica de la Mixteca](escuela/universidad-tecnologica-de-la-mixteca) | 5 | 43 | 35 | 72 |
-| 5 | [Universidad Panamericana Campus Bonaterra](escuela/universidad-panamericana-campus-bonaterra) | 5 | 37 | 90 | 103 |
-| 6 | [Instituto Tecnológico Autónomo de México](escuela/instituto-tecnologico-autonomo-de-mexico) | 5 | 37 | 33 | 58 |
-| 7 | [Universidad de Guadalajara CUCEI](escuela/universidad-de-guadalajara-cucei) | 4 | 74 | 142 | 195 |
-| 8 | [Universidad de las Americas-Puebla](escuela/universidad-de-las-americas-puebla) | 4 | 23 | 0 | 25 |
-| 9 | [Facultad de Ciencias-Universidad Nacional Autónoma de México](escuela/facultad-de-ciencias-universidad-nacional-autonoma-de-mexico) | 4 | 20 | 75 | 75 |
-| 10 | [Universidad Autónoma de Nuevo Leon](escuela/universidad-autonoma-de-nuevo-leon) | 3 | 56 | 80 | 120 |
-| 11 | [ITESM Campus Queretaro](escuela/itesm-campus-queretaro) | 2 | 68 | 33 | 93 |
-| 12 | [Universidad Autónoma de Aguascalientes](escuela/universidad-autonoma-de-aguascalientes) | 2 | 40 | 89 | 114 |
-| 13 | [Benemérita Universidad Autónoma de Puebla](escuela/benemerita-universidad-autonoma-de-puebla) | 2 | 37 | 15 | 51 |
-| 14 | [Instituto Tecnológico de Ciudad Madero](escuela/instituto-tecnologico-de-ciudad-madero) | 2 | 34 | 43 | 76 |
-| 15 | [Instituto Tecnológico Superior del Sur de Guanajuato](escuela/instituto-tecnologico-superior-del-sur-de-guanajuato) | 2 | 29 | 193 | 201 |
-| 16 | [ITESM Campus Estado de Mexico](escuela/itesm-campus-estado-de-mexico) | 2 | 28 | 87 | 102 |
-| 17 | [Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan) | 2 | 19 | 39 | 53 |
-| 18 | [ITESM Campus Guadalajara](escuela/itesm-campus-guadalajara) | 1 | 49 | 54 | 95 |
-| 19 | [Universidad Autónoma de Tlaxcala](escuela/universidad-autonoma-de-tlaxcala) | 1 | 35 | 41 | 76 |
-| 20 | [ITESM Campus Puebla](escuela/itesm-campus-puebla) | 1 | 22 | 57 | 69 |
-| 21 | [Universidad Juárez Autónoma de Tabasco](escuela/universidad-juarez-autonoma-de-tabasco) | 1 | 0 | 0 | 1 |
+| # | Escuela | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Total |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | [ITESM Campus Monterrey](escuela/itesm-campus-monterrey) | 10 | 0 | 92 | 296 | 360 |
+| 2 | [Universidad de Guanajuato - CIMAT](escuela/universidad-de-guanajuato-cimat) | 8 | 2 | 60 | 65 | 95 |
+| 3 | [Escuela Superior De Computo Instituto Politecnico Nacional](escuela/escuela-superior-de-computo-instituto-politecnico-nacional) | 8 | 0 | 68 | 176 | 211 |
+| 4 | [Universidad Panamericana Campus Bonaterra](escuela/universidad-panamericana-campus-bonaterra) | 5 | 1 | 37 | 90 | 103 |
+| 5 | [Universidad Tecnológica de la Mixteca](escuela/universidad-tecnologica-de-la-mixteca) | 5 | 0 | 43 | 35 | 72 |
+| 6 | [Instituto Tecnológico Autónomo de México](escuela/instituto-tecnologico-autonomo-de-mexico) | 5 | 0 | 37 | 33 | 58 |
+| 7 | [Universidad de Guadalajara CUCEI](escuela/universidad-de-guadalajara-cucei) | 4 | 0 | 74 | 142 | 195 |
+| 8 | [Universidad de las Americas-Puebla](escuela/universidad-de-las-americas-puebla) | 4 | 0 | 23 | 0 | 25 |
+| 9 | [Facultad de Ciencias-Universidad Nacional Autónoma de México](escuela/facultad-de-ciencias-universidad-nacional-autonoma-de-mexico) | 4 | 0 | 20 | 75 | 75 |
+| 10 | [Universidad Autónoma de Nuevo Leon](escuela/universidad-autonoma-de-nuevo-leon) | 3 | 0 | 56 | 80 | 120 |
+| 11 | [ITESM Campus Queretaro](escuela/itesm-campus-queretaro) | 2 | 0 | 68 | 33 | 93 |
+| 12 | [Universidad Autónoma de Aguascalientes](escuela/universidad-autonoma-de-aguascalientes) | 2 | 0 | 40 | 89 | 114 |
+| 13 | [Benemérita Universidad Autónoma de Puebla](escuela/benemerita-universidad-autonoma-de-puebla) | 2 | 0 | 37 | 15 | 51 |
+| 14 | [Instituto Tecnológico de Ciudad Madero](escuela/instituto-tecnologico-de-ciudad-madero) | 2 | 0 | 34 | 43 | 76 |
+| 15 | [Instituto Tecnológico Superior del Sur de Guanajuato](escuela/instituto-tecnologico-superior-del-sur-de-guanajuato) | 2 | 0 | 29 | 193 | 201 |
+| 16 | [ITESM Campus Estado de Mexico](escuela/itesm-campus-estado-de-mexico) | 2 | 0 | 28 | 87 | 102 |
+| 17 | [Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan) | 2 | 0 | 19 | 39 | 53 |
+| 18 | [ITESM Campus Guadalajara](escuela/itesm-campus-guadalajara) | 1 | 1 | 49 | 54 | 95 |
+| 19 | [Universidad Autónoma de Tlaxcala](escuela/universidad-autonoma-de-tlaxcala) | 1 | 0 | 35 | 41 | 76 |
+| 20 | [ITESM Campus Puebla](escuela/itesm-campus-puebla) | 1 | 0 | 22 | 57 | 69 |
+| 21 | [Universidad Juárez Autónoma de Tabasco](escuela/universidad-juarez-autonoma-de-tabasco) | 1 | 0 | 0 | 0 | 1 |
+| 22 | [ITESO University](escuela/iteso-university) | 0 | 1 | 60 | 689 | 739 |
 
 
 

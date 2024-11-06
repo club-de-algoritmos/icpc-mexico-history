@@ -9,11 +9,11 @@
 
 ### Resumen
 
-| Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
-| --- | --- | --- | --- | --- |
-| **Total** | **0** | **1** | **1** | **2** |
-| [2013-2014](#2013-2014) | 0 | 1 | 0 | 1 |
-| [2015-2016](#2015-2016) | 0 | 0 | 1 | 1 |
+| Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
+| --- | --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **1** | **1** | **2** |
+| [2013-2014](#2013-2014) | 0 | 0 | 1 | 0 | 1 |
+| [2015-2016](#2015-2016) | 0 | 0 | 0 | 1 | 1 |
 
 ### 2013-2014
 

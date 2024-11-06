@@ -66,10 +66,8 @@ class TeamResult:
     # Computed results:
     school: Optional[School] = None
     community_rank: Optional[int] = None
+    championship_country_rank: Optional[int] = None
     country_rank: Optional[int] = None
-    # TODO:
-    # super_region: Optional[SuperRegion] = None
-    # super_region_rank: Optional[int] = None
 
 
 @dataclass_json

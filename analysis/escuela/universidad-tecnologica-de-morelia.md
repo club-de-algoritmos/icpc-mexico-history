@@ -11,11 +11,11 @@
 
 ### Resumen
 
-| Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
-| --- | --- | --- | --- | --- |
-| **Total** | **0** | **4** | **0** | **4** |
-| [2011-2012](#2011-2012) | 0 | 2 | 0 | 2 |
-| [2012-2013](#2012-2013) | 0 | 2 | 0 | 2 |
+| Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
+| --- | --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **4** | **0** | **4** |
+| [2011-2012](#2011-2012) | 0 | 0 | 2 | 0 | 2 |
+| [2012-2013](#2012-2013) | 0 | 0 | 2 | 0 | 2 |
 
 ### 2011-2012
 

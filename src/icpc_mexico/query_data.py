@@ -27,13 +27,14 @@ class RankedTeam:
     school: School
     qualifier_result: Optional[ExtendedTeamResult] = None
     regional_result: Optional[ExtendedTeamResult] = None
+    championship_result: Optional[ExtendedTeamResult] = None
     world_result: Optional[ExtendedTeamResult] = None
     regional_season_rank: Optional[int] = None
     regional_season_percentile: Optional[float] = None
 
     @property
     def top_result(self) -> Optional[ExtendedTeamResult]:
-        return self.world_result or self.regional_result or self.qualifier_result
+        return self.world_result or self.championship_result or self.regional_result or self.qualifier_result
 
 
 @dataclass(frozen=True)
@@ -41,6 +42,7 @@ class ContestSeason:
     year: int
     qualifier: Optional[FinishedContest]
     regional: Optional[FinishedContest]
+    championship: Optional[FinishedContest]
     worlds: List[FinishedContest]
     teams: List[RankedTeam]
 

@@ -91,11 +91,11 @@ class Analyzer:
                                    skip_empty: bool = False,
                                    ) -> None:
         participations_table = []
-        totals = [0, 0, 0, 0, 0]
+        totals = [0, 0, 0, 0, 0, 0]
         all_schools: Set[str] = set()
         started_participating = False
         for season in self._queries.contest_seasons:
-            stats = [0, 0, 0, 0, 0]
+            stats = [0, 0, 0, 0, 0, 0]
             season_schools: Set[str] = set()
             for team in season.teams:
                 if not _is_mexican_and_eligible(team.school):
@@ -109,15 +109,17 @@ class Analyzer:
 
                 if team.world_result:
                     stats[0] += 1
-                if team.regional_result:
+                if team.championship_result:
                     stats[1] += 1
-                if team.qualifier_result:
+                if team.regional_result:
                     stats[2] += 1
-                stats[3] += 1
+                if team.qualifier_result:
+                    stats[3] += 1
+                stats[4] += 1
                 season_schools.add(team.school.name)
                 all_schools.add(team.school.name)
 
-            stats[4] = len(season_schools)
+            stats[5] = len(season_schools)
 
             if (skip_empty or not started_participating) and sum(stats) == 0:
                 continue
@@ -128,10 +130,10 @@ class Analyzer:
 
             participations_table.append([_get_local_season_link(season)] + list(map(str, stats)))
 
-        totals[4] = len(all_schools)
+        totals[5] = len(all_schools)
         participations_table.insert(0, ['**Total**'] + [f'**{total}**' for total in totals])
 
-        headers = ['Temporada', 'Finales mundiales', 'Regionales', 'Clasificatorios', 'Equipos', 'Escuelas']
+        headers = ['Temporada', 'Finales mundiales', 'Campeonatos', 'Regionales', 'Clasificatorios', 'Equipos', 'Escuelas']
         if school:
             # Drop the school counts because there is only one school
             headers.pop()
@@ -170,7 +172,7 @@ class Analyzer:
                               state: Optional[str],
                               contest_type: Optional[ContestType],
                               ) -> None:
-        school_stats: Dict[str, List] = defaultdict(lambda: [0, 0, 0, 0])
+        school_stats: Dict[str, List] = defaultdict(lambda: [0, 0, 0, 0, 0])
         schools_by_name: Dict[str, School] = {}
         for season in seasons:
             for team in season.teams:
@@ -185,11 +187,13 @@ class Analyzer:
                 stat = school_stats[team.school.name]
                 if team.world_result:
                     stat[0] += 1
-                if team.regional_result:
+                if team.championship_result:
                     stat[1] += 1
-                if team.qualifier_result:
+                if team.regional_result:
                     stat[2] += 1
-                stat[3] += 1
+                if team.qualifier_result:
+                    stat[3] += 1
+                stat[4] += 1
 
         school_ranking = sorted(school_stats.items(),
                                 key=lambda school_stat: school_stat[1] + [school_stat[0]],
@@ -197,9 +201,9 @@ class Analyzer:
         rank = 0
         school_table = []
         for school_name, stats in school_ranking:
-            if contest_type == ContestType.WORLD and not stats[0]:
+            if contest_type == ContestType.WORLD and not sum(stats[0:2]):
                 continue
-            if contest_type == ContestType.REGIONAL and not (stats[0] + stats[1]):
+            if contest_type == ContestType.REGIONAL and not sum(stats[0:3]):
                 continue
 
             rank += 1
@@ -207,7 +211,7 @@ class Analyzer:
             school_table.append([str(rank), school_link] + list(map(str, stats)))
 
         with markdown.section(title):
-            markdown.table(['#', 'Escuela', 'Finales mundiales', 'Regionales', 'Clasificatorios', 'Total'],
+            markdown.table(['#', 'Escuela', 'Finales mundiales', 'Campeonatos', 'Regionales', 'Clasificatorios', 'Total'],
                            school_table)
 
     @log_run_time

@@ -9,11 +9,11 @@
 
 ### Resumen
 
-| Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
-| --- | --- | --- | --- | --- |
-| **Total** | **0** | **1** | **1** | **2** |
-| [2006-2007](#2006-2007) | 0 | 1 | 0 | 1 |
-| [2016-2017](#2016-2017) | 0 | 0 | 1 | 1 |
+| Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
+| --- | --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **1** | **1** | **2** |
+| [2006-2007](#2006-2007) | 0 | 0 | 1 | 0 | 1 |
+| [2016-2017](#2016-2017) | 0 | 0 | 0 | 1 | 1 |
 
 ### 2006-2007
 

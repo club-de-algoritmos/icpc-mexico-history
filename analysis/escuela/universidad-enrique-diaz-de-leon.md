@@ -10,10 +10,10 @@
 
 ### Resumen
 
-| Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
-| --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **3** | **3** |
-| [2015-2016](#2015-2016) | 0 | 0 | 3 | 3 |
+| Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
+| --- | --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **0** | **3** | **3** |
+| [2015-2016](#2015-2016) | 0 | 0 | 0 | 3 | 3 |
 
 ### 2015-2016
 

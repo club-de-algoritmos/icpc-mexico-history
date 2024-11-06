@@ -2,6 +2,7 @@
 
 ## Mejores 10 equipos
 
+1. _Red Squadron 2023_ resolvió 5 problemas y obtuvo el lugar #82 (82%) en The 2023 ICPC Gran Premio de Mexico
 1. _Mezcla_ resolvió 4 problemas y obtuvo el lugar #6 (97%) en The 2008 Mexico & Central America Contest
 1. _ACRUX_ resolvió 4 problemas y obtuvo el lugar #6 (96%) en The 2004 ACM Mexico and Central America Programming Contest
 1. _KDT_ resolvió 2 problemas y obtuvo el lugar #30 (96%) en The 2017 ACM-ICPC Mexico and Central America Finals
@@ -11,34 +12,33 @@
 1. _Hijos de Piza 5_ resolvió 1 problemas y obtuvo el lugar #49 (95%) en The 2022 ICPC Mexico Finals
 1. _Red Squadron_ resolvió 1 problemas y obtuvo el lugar #50 (95%) en The 2022 ICPC Mexico Finals
 1. _ACRUX_ resolvió 3 problemas y obtuvo el lugar #7 (94%) en The 2003 ACM Mexico and Central America Programming Contest
-1. _LOL_ resolvió 4 problemas y obtuvo el lugar #13 (94%) en The 2010 Mexico & Central America Regional Contest
 
 ## Participaciones
 
 ### Resumen
 
-| Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
-| --- | --- | --- | --- | --- |
-| **Total** | **0** | **60** | **689** | **739** |
-| [2002-2003](#2002-2003) | 0 | 5 | 0 | 5 |
-| [2003-2004](#2003-2004) | 0 | 3 | 0 | 3 |
-| [2004-2005](#2004-2005) | 0 | 3 | 0 | 3 |
-| [2008-2009](#2008-2009) | 0 | 21 | 0 | 21 |
-| [2009-2010](#2009-2010) | 0 | 3 | 0 | 3 |
-| [2010-2011](#2010-2011) | 0 | 4 | 0 | 4 |
-| [2011-2012](#2011-2012) | 0 | 3 | 0 | 3 |
-| [2012-2013](#2012-2013) | 0 | 4 | 0 | 4 |
-| [2013-2014](#2013-2014) | 0 | 2 | 0 | 2 |
-| [2014-2015](#2014-2015) | 0 | 1 | 5 | 5 |
-| [2015-2016](#2015-2016) | 0 | 2 | 14 | 14 |
-| [2016-2017](#2016-2017) | 0 | 2 | 89 | 89 |
-| [2017-2018](#2017-2018) | 0 | 3 | 118 | 118 |
-| [2018-2019](#2018-2019) | 0 | 1 | 231 | 231 |
-| [2019-2020](#2019-2020) | 0 | 0 | 211 | 211 |
-| [2020-2021](#2020-2021) | 0 | 0 | 1 | 1 |
-| [2021-2022](#2021-2022) | 0 | 0 | 6 | 6 |
-| [2022-2023](#2022-2023) | 0 | 3 | 9 | 11 |
-| [2023-2024](#2023-2024) | 0 | 0 | 5 | 5 |
+| Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
+| --- | --- | --- | --- | --- | --- |
+| **Total** | **0** | **1** | **60** | **689** | **739** |
+| [2002-2003](#2002-2003) | 0 | 0 | 5 | 0 | 5 |
+| [2003-2004](#2003-2004) | 0 | 0 | 3 | 0 | 3 |
+| [2004-2005](#2004-2005) | 0 | 0 | 3 | 0 | 3 |
+| [2008-2009](#2008-2009) | 0 | 0 | 21 | 0 | 21 |
+| [2009-2010](#2009-2010) | 0 | 0 | 3 | 0 | 3 |
+| [2010-2011](#2010-2011) | 0 | 0 | 4 | 0 | 4 |
+| [2011-2012](#2011-2012) | 0 | 0 | 3 | 0 | 3 |
+| [2012-2013](#2012-2013) | 0 | 0 | 4 | 0 | 4 |
+| [2013-2014](#2013-2014) | 0 | 0 | 2 | 0 | 2 |
+| [2014-2015](#2014-2015) | 0 | 0 | 1 | 5 | 5 |
+| [2015-2016](#2015-2016) | 0 | 0 | 2 | 14 | 14 |
+| [2016-2017](#2016-2017) | 0 | 0 | 2 | 89 | 89 |
+| [2017-2018](#2017-2018) | 0 | 0 | 3 | 118 | 118 |
+| [2018-2019](#2018-2019) | 0 | 0 | 1 | 231 | 231 |
+| [2019-2020](#2019-2020) | 0 | 0 | 0 | 211 | 211 |
+| [2020-2021](#2020-2021) | 0 | 0 | 0 | 1 | 1 |
+| [2021-2022](#2021-2022) | 0 | 0 | 0 | 6 | 6 |
+| [2022-2023](#2022-2023) | 0 | 0 | 3 | 9 | 11 |
+| [2023-2024](#2023-2024) | 0 | 1 | 0 | 5 | 5 |
 
 ### 2002-2003
 

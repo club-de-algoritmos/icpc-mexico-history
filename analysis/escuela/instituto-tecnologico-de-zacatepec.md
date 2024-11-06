@@ -9,11 +9,11 @@
 
 ### Resumen
 
-| Temporada | Finales mundiales | Regionales | Clasificatorios | Equipos |
-| --- | --- | --- | --- | --- |
-| **Total** | **0** | **1** | **2** | **2** |
-| [2022-2023](#2022-2023) | 0 | 0 | 1 | 1 |
-| [2023-2024](#2023-2024) | 0 | 1 | 1 | 1 |
+| Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
+| --- | --- | --- | --- | --- | --- |
+| **Total** | **0** | **0** | **1** | **2** | **2** |
+| [2022-2023](#2022-2023) | 0 | 0 | 0 | 1 | 1 |
+| [2023-2024](#2023-2024) | 0 | 0 | 1 | 1 | 1 |
 
 ### 2022-2023
 

@@ -34,8 +34,8 @@
 ### 2014-2015
 
 1. #30 (#3 de TecNM) _Legio I Germania_ (Regional)
-1. #108 (#15 de TecNM) _Legio IX Hispana_ (Clasificatorio)
-1. #204 (#52 de TecNM) _Legio IV Scythia_ (Clasificatorio)
+1. #108 (#17 de TecNM) _Legio IX Hispana_ (Clasificatorio)
+1. #204 (#57 de TecNM) _Legio IV Scythia_ (Clasificatorio)
 
 ### 2015-2016
 
@@ -45,10 +45,10 @@
 ### 2016-2017
 
 1. #34 (#3 de TecNM) _Los religiosos_ (Regional)
-1. #41 (#5 de TecNM) _Legio I_ (Regional)
-1. #89 (#12 de TecNM) _Los Chinos_ (Clasificatorio)
-1. #121 (#20 de TecNM) _Black Dragons_ (Clasificatorio)
-1. #121 (#20 de TecNM) _Los Chufuys_ (Clasificatorio)
+1. #41 (#6 de TecNM) _Legio I_ (Regional)
+1. #89 (#13 de TecNM) _Los Chinos_ (Clasificatorio)
+1. #121 (#22 de TecNM) _Black Dragons_ (Clasificatorio)
+1. #121 (#22 de TecNM) _Los Chufuys_ (Clasificatorio)
 
 ### 2017-2018
 
@@ -69,12 +69,12 @@
 
 1. #25 (#4 de TecNM) _Promised Rinascimento_ (Regional)
 1. #269 (#50 de TecNM) _Triforce_ (Clasificatorio)
-1. #382 (#98 de TecNM) _404 NOT FOUND_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Karanga_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Los Acrobáticos_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Los Nova_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Los bichos 7_ (Clasificatorio)
-1. #382 (#98 de TecNM) _PECESESES_ (Clasificatorio)
+1. #382 (#100 de TecNM) _404 NOT FOUND_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Karanga_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Los Acrobáticos_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Los Nova_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Los bichos 7_ (Clasificatorio)
+1. #382 (#100 de TecNM) _PECESESES_ (Clasificatorio)
 
 ### 2020-2021
 
@@ -86,25 +86,25 @@
 ### 2021-2022
 
 1. #19 (#1 de TecNM) _Promised Rinascimento_ (Regional)
-1. #226 (#36 de TecNM) _Akatsuki_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Breaking Limits_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Los Chuletas_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Los Kuasoos_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Pececes vol. 2_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Threebites_ (Clasificatorio)
-1. #226 (#36 de TecNM) _cron-OS_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Akatsuki_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Breaking Limits_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Los Chuletas_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Los Kuasoos_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Pececes vol. 2_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Threebites_ (Clasificatorio)
+1. #226 (#37 de TecNM) _cron-OS_ (Clasificatorio)
 
 ### 2022-2023
 
-1. #382 (#82 de TecNM) _Las .rawr_ (Clasificatorio)
-1. #382 (#82 de TecNM) _PDM_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Pirate Code_ (Clasificatorio)
-1. #382 (#82 de TecNM) _RAM.Team_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Ranas ITESG_ (Clasificatorio)
-1. #382 (#82 de TecNM) _The UNIXS_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Virtuous_ (Clasificatorio)
-1. #382 (#82 de TecNM) _White Hat_ (Clasificatorio)
-1. #382 (#82 de TecNM) _big boys_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Las .rawr_ (Clasificatorio)
+1. #382 (#83 de TecNM) _PDM_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Pirate Code_ (Clasificatorio)
+1. #382 (#83 de TecNM) _RAM.Team_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Ranas ITESG_ (Clasificatorio)
+1. #382 (#83 de TecNM) _The UNIXS_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Virtuous_ (Clasificatorio)
+1. #382 (#83 de TecNM) _White Hat_ (Clasificatorio)
+1. #382 (#83 de TecNM) _big boys_ (Clasificatorio)
 
 ### 2024-2025
 

@@ -126,6 +126,7 @@ def get_schools(contests: List[FinishedContest]) -> List[School]:
         ),
         School(
             name='Bina Nusantara University',
+            country="india",
         ),
         School(
             name='Instituto Tecnológico de Santo Domingo',
@@ -165,43 +166,50 @@ def get_schools(contests: List[FinishedContest]) -> List[School]:
             country=MEXICO,
         ),
         School(
+            name='Escuela Preparatoria 5 Universidad de Guadalajara',
+            is_eligible=False,
+            country=MEXICO,
+        ),
+        School(
             name='Instituto Tecnológico Superior de Poza Rica',
             alt_names=['insituto tecnologico superior de poza rica'],
+            community=SchoolCommunity.TECNM,
             country=MEXICO,
         ),
         School(
             name='Instituto Tecnológico Superior de Irapuato',
             alt_names=['instituto tecnologioco superior de irapuato'],
+            community=SchoolCommunity.TECNM,
             country=MEXICO,
         ),
         School(
             name='Instituto Tecnológico Superior de la Región de los Llanos',
             alt_names=['instituto tecnolãgico superior de la regiãn de los llanos'],
+            community=SchoolCommunity.TECNM,
             country=MEXICO,
         ),
         School(
             name='Instituto Tecnológico Superior de Acatlán de Osorio',
             alt_names=['higher technological institute of acatlan de osorio'],
+            community=SchoolCommunity.TECNM,
             country=MEXICO,
         ),
         School(
             name='Tecnológico Nacional de Mexico en Celaya',
             alt_names=['tecnologico nacionalde mexico en celaya'],
+            community=SchoolCommunity.TECNM,
             country=MEXICO,
         ),
         School(
             name='Instituto Tecnológico de Querétaro',
             alt_names=['instituto tecnologico de queretaro'],
+            community=SchoolCommunity.TECNM,
             country=MEXICO,
         ),
         School(
             name='Instituto Tecnológico de San Luis Potosí',
             alt_names=['institutuo technologico de san luis potosi'],
-            country=MEXICO,
-        ),
-        School(
-            name='Escuela Preparatoria 5 Universidad de Guadalajara',
-            is_eligible=True,
+            community=SchoolCommunity.TECNM,
             country=MEXICO,
         ),
         School(
@@ -211,6 +219,13 @@ def get_schools(contests: List[FinishedContest]) -> List[School]:
             country=MEXICO,
         ),
         School(
+            name='Instituto Tecnológico de Mazatlán',
+            community=SchoolCommunity.TECNM,
+            country=MEXICO,
+            state='sinaloa',
+            alt_names=["tecnológico nacional de méxico / instituto tecnológico de mazatlán"],
+        ),
+        School(
             name='Instituto Tecnológico Autónomo de México',
             country=MEXICO,
         ),
@@ -218,13 +233,6 @@ def get_schools(contests: List[FinishedContest]) -> List[School]:
             name='Universidad Autónoma de Occidente',
             country=MEXICO,
             state='sinaloa',
-        ),
-        School(
-            name='Instituto Tecnológico de Mazatlán',
-            community=SchoolCommunity.TECNM,
-            country=MEXICO,
-            state='sinaloa',
-            alt_names=["tecnológico nacional de méxico / instituto tecnológico de mazatlán"],
         ),
         School(
             name='Universidad de Guanajuato - CIMAT',

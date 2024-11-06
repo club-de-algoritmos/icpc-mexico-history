@@ -15,7 +15,7 @@
 
 ### 2005-2006
 
-1. #85 (#11 de TecNM) _ITSTB_ (Regional)
+1. #85 (#12 de TecNM) _ITSTB_ (Regional)
 
 
 

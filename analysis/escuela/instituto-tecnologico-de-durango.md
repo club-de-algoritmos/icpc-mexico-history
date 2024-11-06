@@ -30,17 +30,17 @@
 ### 2004-2005
 
 1. #15 (#3 de TecNM) _Nosotros_ (Regional)
-1. #76 (#17 de TecNM) _Nabucodonosor_ (Regional)
+1. #76 (#19 de TecNM) _Nabucodonosor_ (Regional)
 
 ### 2005-2006
 
-1. #85 (#11 de TecNM) _Cabezas de Jarro_ (Regional)
-1. #85 (#11 de TecNM) _Mata Ardillas_ (Regional)
-1. #85 (#11 de TecNM) _ita2_ (Regional)
-1. #85 (#11 de TecNM) _itad1_ (Regional)
-1. #85 (#11 de TecNM) _itad3_ (Regional)
-1. #85 (#11 de TecNM) _nabucodonosor_ (Regional)
-1. #85 (#11 de TecNM) _nosotros_ (Regional)
+1. #85 (#12 de TecNM) _Cabezas de Jarro_ (Regional)
+1. #85 (#12 de TecNM) _Mata Ardillas_ (Regional)
+1. #85 (#12 de TecNM) _ita2_ (Regional)
+1. #85 (#12 de TecNM) _itad1_ (Regional)
+1. #85 (#12 de TecNM) _itad3_ (Regional)
+1. #85 (#12 de TecNM) _nabucodonosor_ (Regional)
+1. #85 (#12 de TecNM) _nosotros_ (Regional)
 
 ### 2006-2007
 
@@ -52,15 +52,15 @@
 ### 2007-2008
 
 1. #4 (#2 de TecNM) _EliteC_ (Regional)
-1. #61 (#15 de TecNM) _ORIONES_ (Regional)
+1. #61 (#17 de TecNM) _ORIONES_ (Regional)
 
 ### 2008-2009
 
 1. #18 (#2 de TecNM) _EliteC_ (Regional)
-1. #84 (#18 de TecNM) _AlphaTeam_ (Regional)
-1. #101 (#26 de TecNM) _BigBangTeam_ (Regional)
-1. #101 (#26 de TecNM) _Linces_ (Regional)
-1. #101 (#26 de TecNM) _TresJ_ (Regional)
+1. #84 (#21 de TecNM) _AlphaTeam_ (Regional)
+1. #101 (#29 de TecNM) _BigBangTeam_ (Regional)
+1. #101 (#29 de TecNM) _Linces_ (Regional)
+1. #101 (#29 de TecNM) _TresJ_ (Regional)
 
 ### 2020-2021
 

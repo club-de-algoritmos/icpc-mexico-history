@@ -33,11 +33,11 @@
 
 ### 2021-2022
 
-1. #226 (#36 de TecNM) _teczon developer_ (Clasificatorio)
+1. #226 (#37 de TecNM) _teczon developer_ (Clasificatorio)
 
 ### 2022-2023
 
-1. #382 (#82 de TecNM) _Syntax_Error_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Syntax_Error_ (Clasificatorio)
 
 ### 2023-2024
 

@@ -27,27 +27,27 @@
 
 ### 2019-2020
 
-1. #382 (#98 de TecNM) _Casei Shirota_ (Clasificatorio)
-1. #382 (#98 de TecNM) _GGB_ (Clasificatorio)
-1. #382 (#98 de TecNM) _ITO1S8_ (Clasificatorio)
-1. #382 (#98 de TecNM) _ITO1S9_ (Clasificatorio)
-1. #382 (#98 de TecNM) _ITO3S1_ (Clasificatorio)
-1. #382 (#98 de TecNM) _ITO3S2_ (Clasificatorio)
-1. #382 (#98 de TecNM) _ITO3S3_ (Clasificatorio)
-1. #382 (#98 de TecNM) _ITO3S4_ (Clasificatorio)
-1. #382 (#98 de TecNM) _ITO5S1_ (Clasificatorio)
-1. #382 (#98 de TecNM) _ITO5S2_ (Clasificatorio)
-1. #382 (#98 de TecNM) _LOS MM_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Los Javasonicos_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Los Pixis_ (Clasificatorio)
-1. #382 (#98 de TecNM) _TEAM UWU_ (Clasificatorio)
-1. #382 (#98 de TecNM) _ito1s11_ (Clasificatorio)
-1. #382 (#98 de TecNM) _ito1s3_ (Clasificatorio)
-1. #382 (#98 de TecNM) _ito1s4_ (Clasificatorio)
-1. #382 (#98 de TecNM) _ito1s5_ (Clasificatorio)
-1. #382 (#98 de TecNM) _ito1s6_ (Clasificatorio)
-1. #382 (#98 de TecNM) _ito1s7_ (Clasificatorio)
-1. #382 (#98 de TecNM) _ito5s1_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Casei Shirota_ (Clasificatorio)
+1. #382 (#100 de TecNM) _GGB_ (Clasificatorio)
+1. #382 (#100 de TecNM) _ITO1S8_ (Clasificatorio)
+1. #382 (#100 de TecNM) _ITO1S9_ (Clasificatorio)
+1. #382 (#100 de TecNM) _ITO3S1_ (Clasificatorio)
+1. #382 (#100 de TecNM) _ITO3S2_ (Clasificatorio)
+1. #382 (#100 de TecNM) _ITO3S3_ (Clasificatorio)
+1. #382 (#100 de TecNM) _ITO3S4_ (Clasificatorio)
+1. #382 (#100 de TecNM) _ITO5S1_ (Clasificatorio)
+1. #382 (#100 de TecNM) _ITO5S2_ (Clasificatorio)
+1. #382 (#100 de TecNM) _LOS MM_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Los Javasonicos_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Los Pixis_ (Clasificatorio)
+1. #382 (#100 de TecNM) _TEAM UWU_ (Clasificatorio)
+1. #382 (#100 de TecNM) _ito1s11_ (Clasificatorio)
+1. #382 (#100 de TecNM) _ito1s3_ (Clasificatorio)
+1. #382 (#100 de TecNM) _ito1s4_ (Clasificatorio)
+1. #382 (#100 de TecNM) _ito1s5_ (Clasificatorio)
+1. #382 (#100 de TecNM) _ito1s6_ (Clasificatorio)
+1. #382 (#100 de TecNM) _ito1s7_ (Clasificatorio)
+1. #382 (#100 de TecNM) _ito5s1_ (Clasificatorio)
 
 ### 2020-2021
 
@@ -59,15 +59,15 @@
 
 ### 2022-2023
 
-1. #382 (#82 de TecNM) _" ;Mortal "_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Aldeanos_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Developers de Dios_ (Clasificatorio)
-1. #382 (#82 de TecNM) _El Tim+pro_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Fishing hook_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Guayabitas_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Los Cuacks_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Los Molletes_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Los egocéntricos_ (Clasificatorio)
+1. #382 (#83 de TecNM) _" ;Mortal "_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Aldeanos_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Developers de Dios_ (Clasificatorio)
+1. #382 (#83 de TecNM) _El Tim+pro_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Fishing hook_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Guayabitas_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Los Cuacks_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Los Molletes_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Los egocéntricos_ (Clasificatorio)
 
 ### 2024-2025
 

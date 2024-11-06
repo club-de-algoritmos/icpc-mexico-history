@@ -41,102 +41,102 @@
 
 ### 2001-2002
 
-1. #55 _TECPOZAR_ (Regional)
+1. #55 (#16 de TecNM) _TECPOZAR_ (Regional)
 
 ### 2002-2003
 
-1. #27 _TEC POZA RICA_ (Regional)
+1. #27 (#3 de TecNM) _TEC POZA RICA_ (Regional)
 
 ### 2003-2004
 
-1. #41 _ITS Poza Rica_ (Regional)
+1. #41 (#10 de TecNM) _ITS Poza Rica_ (Regional)
 
 ### 2004-2005
 
-1. #38 _ITSPR DEVELOPERS_ (Regional)
-1. #86 _ITSPR JACM_ (Regional)
-1. #90 _TALIBANES NGX_ (Regional)
+1. #38 (#8 de TecNM) _ITSPR DEVELOPERS_ (Regional)
+1. #86 (#23 de TecNM) _ITSPR JACM_ (Regional)
+1. #90 (#25 de TecNM) _TALIBANES NGX_ (Regional)
 
 ### 2007-2008
 
-1. #55 _Eclipse_ (Regional)
-1. #61 _Jozafra_ (Regional)
+1. #55 (#14 de TecNM) _Eclipse_ (Regional)
+1. #61 (#17 de TecNM) _Jozafra_ (Regional)
 
 ### 2008-2009
 
-1. #49 _itspr_ (Regional)
+1. #49 (#7 de TecNM) _itspr_ (Regional)
 
 ### 2009-2010
 
-1. #70 _ITSPR-1_ (Regional)
-1. #116 _ITSPR-2_ (Regional)
+1. #70 (#14 de TecNM) _ITSPR-1_ (Regional)
+1. #116 (#34 de TecNM) _ITSPR-2_ (Regional)
 
 ### 2010-2011
 
-1. #39 _ITSPR-3_ (Regional)
-1. #133 _ITSPR-1_ (Regional)
-1. #153 _ITSPR-2_ (Regional)
+1. #39 (#2 de TecNM) _ITSPR-3_ (Regional)
+1. #133 (#36 de TecNM) _ITSPR-1_ (Regional)
+1. #153 (#45 de TecNM) _ITSPR-2_ (Regional)
 
 ### 2011-2012
 
-1. #42 _ITSPR-1_ (Regional)
-1. #103 _ITSPR-2_ (Regional)
+1. #42 (#4 de TecNM) _ITSPR-1_ (Regional)
+1. #103 (#34 de TecNM) _ITSPR-2_ (Regional)
 
 ### 2012-2013
 
-1. #112 _ITSPR2_ (Regional)
-1. #133 _Kyoo Corp_ (Regional)
+1. #112 (#44 de TecNM) _ITSPR2_ (Regional)
+1. #133 (#54 de TecNM) _Kyoo Corp_ (Regional)
 
 ### 2013-2014
 
-1. #95 _Error 404_ (Regional)
-1. #95 _Nemesis_ (Regional)
+1. #95 (#24 de TecNM) _Error 404_ (Regional)
+1. #95 (#24 de TecNM) _Nemesis_ (Regional)
 
 ### 2014-2015
 
-1. #51 _ITSPR2_ (Regional)
-1. #83 _ITSPR4_ (Clasificatorio)
-1. #184 _ITSPR1_ (Clasificatorio)
-1. #194 _ITSPR3_ (Clasificatorio)
+1. #51 (#8 de TecNM) _ITSPR2_ (Regional)
+1. #83 (#14 de TecNM) _ITSPR4_ (Clasificatorio)
+1. #184 (#48 de TecNM) _ITSPR1_ (Clasificatorio)
+1. #194 (#51 de TecNM) _ITSPR3_ (Clasificatorio)
 
 ### 2015-2016
 
-1. #108 _Arkadia_ (Clasificatorio)
-1. #108 _Atlas_ (Clasificatorio)
-1. #108 _Error 404_ (Clasificatorio)
-1. #108 _Kronos con k_ (Clasificatorio)
-1. #108 _Zeus_ (Clasificatorio)
+1. #108 (#28 de TecNM) _Arkadia_ (Clasificatorio)
+1. #108 (#28 de TecNM) _Atlas_ (Clasificatorio)
+1. #108 (#28 de TecNM) _Error 404_ (Clasificatorio)
+1. #108 (#28 de TecNM) _Kronos con k_ (Clasificatorio)
+1. #108 (#28 de TecNM) _Zeus_ (Clasificatorio)
 
 ### 2016-2017
 
-1. #37 _ITSPR1_ (Regional)
-1. #71 _ITSPR2_ (Regional)
-1. #121 _ITSPR3_ (Clasificatorio)
-1. #121 _ITSPR4_ (Clasificatorio)
+1. #37 (#4 de TecNM) _ITSPR1_ (Regional)
+1. #71 (#12 de TecNM) _ITSPR2_ (Regional)
+1. #121 (#22 de TecNM) _ITSPR3_ (Clasificatorio)
+1. #121 (#22 de TecNM) _ITSPR4_ (Clasificatorio)
 
 ### 2017-2018
 
-1. #405 _ATLAS_ (Clasificatorio)
-1. #405 _Code Fire_ (Clasificatorio)
-1. #405 _Tuxpan team_ (Clasificatorio)
+1. #405 (#97 de TecNM) _ATLAS_ (Clasificatorio)
+1. #405 (#97 de TecNM) _Code Fire_ (Clasificatorio)
+1. #405 (#97 de TecNM) _Tuxpan team_ (Clasificatorio)
 
 ### 2019-2020
 
-1. #293 _Cometa azul_ (Clasificatorio)
-1. #370 _Team Jar_ (Clasificatorio)
-1. #382 _Creative Tech Giants_ (Clasificatorio)
-1. #382 _Cypher_ (Clasificatorio)
-1. #382 _Dinamita_2019_ (Clasificatorio)
-1. #382 _Los Rolos_ (Clasificatorio)
+1. #293 (#60 de TecNM) _Cometa azul_ (Clasificatorio)
+1. #370 (#94 de TecNM) _Team Jar_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Creative Tech Giants_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Cypher_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Dinamita_2019_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Los Rolos_ (Clasificatorio)
 
 ### 2021-2022
 
-1. #154 _Three Ocean_ (Clasificatorio)
+1. #154 (#15 de TecNM) _Three Ocean_ (Clasificatorio)
 
 ### 2022-2023
 
-1. #154 _Three Ocean_ (Clasificatorio)
-1. #382 _My Little Python_ (Clasificatorio)
+1. #154 (#28 de TecNM) _Three Ocean_ (Clasificatorio)
+1. #382 (#83 de TecNM) _My Little Python_ (Clasificatorio)
 
 
 

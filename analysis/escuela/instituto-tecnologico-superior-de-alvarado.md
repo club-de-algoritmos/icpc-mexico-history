@@ -17,9 +17,9 @@
 
 ### 2022-2023
 
-1. #382 (#82 de TecNM) _Monty Python_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Reach Corse_ (Clasificatorio)
-1. #382 (#82 de TecNM) _System Coders_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Monty Python_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Reach Corse_ (Clasificatorio)
+1. #382 (#83 de TecNM) _System Coders_ (Clasificatorio)
 
 
 

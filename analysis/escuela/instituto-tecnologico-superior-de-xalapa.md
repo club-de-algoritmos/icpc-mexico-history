@@ -17,7 +17,7 @@
 
 ### 2001-2002
 
-1. #55 (#13 de TecNM) _ITSX_ (Regional)
+1. #55 (#16 de TecNM) _ITSX_ (Regional)
 
 ### 2020-2021
 

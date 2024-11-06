@@ -18,12 +18,12 @@
 
 ### 2011-2012
 
-1. #88 (#26 de TecNM) _ITS_COALCOMAN_ (Regional)
+1. #88 (#27 de TecNM) _ITS_COALCOMAN_ (Regional)
 
 ### 2012-2013
 
 1. #56 (#22 de TecNM) _LMENTAL_ (Regional)
-1. #134 (#53 de TecNM) _ITS_COALCOMAN_ (Regional)
+1. #134 (#55 de TecNM) _ITS_COALCOMAN_ (Regional)
 
 
 

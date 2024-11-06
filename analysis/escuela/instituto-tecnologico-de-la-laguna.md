@@ -33,12 +33,12 @@
 
 ### 2001-2002
 
-1. #55 (#13 de TecNM) _GATOS_ (Regional)
-1. #55 (#13 de TecNM) _GATOS NEGROS 1_ (Regional)
-1. #55 (#13 de TecNM) _GATOS NEGROS 2_ (Regional)
-1. #55 (#13 de TecNM) _GATOS NEGROS 3_ (Regional)
-1. #55 (#13 de TecNM) _GATOS NEGROS 4_ (Regional)
-1. #55 (#13 de TecNM) _GATOS NEGROS 5_ (Regional)
+1. #55 (#16 de TecNM) _GATOS_ (Regional)
+1. #55 (#16 de TecNM) _GATOS NEGROS 1_ (Regional)
+1. #55 (#16 de TecNM) _GATOS NEGROS 2_ (Regional)
+1. #55 (#16 de TecNM) _GATOS NEGROS 3_ (Regional)
+1. #55 (#16 de TecNM) _GATOS NEGROS 4_ (Regional)
+1. #55 (#16 de TecNM) _GATOS NEGROS 5_ (Regional)
 
 ### 2002-2003
 
@@ -64,8 +64,8 @@
 ### 2014-2015
 
 1. #48 (#6 de TecNM) _Navy_ (Regional)
-1. #110 (#16 de TecNM) _Syntax Error_ (Clasificatorio)
-1. #133 (#25 de TecNM) _PERROS DEL MAL_ (Clasificatorio)
+1. #110 (#18 de TecNM) _Syntax Error_ (Clasificatorio)
+1. #133 (#27 de TecNM) _PERROS DEL MAL_ (Clasificatorio)
 
 ### 2017-2018
 
@@ -90,45 +90,45 @@
 ### 2019-2020
 
 1. #101 (#12 de TecNM) _ITLN_ (Clasificatorio)
-1. #311 (#67 de TecNM) _TecLaguna1_ (Clasificatorio)
-1. #358 (#84 de TecNM) _ArrayList_ (Clasificatorio)
-1. #382 (#98 de TecNM) _RAM_ (Clasificatorio)
-1. #382 (#98 de TecNM) _TecLaguna2_ (Clasificatorio)
-1. #382 (#98 de TecNM) _ULTIMO LUGAR_ (Clasificatorio)
+1. #311 (#68 de TecNM) _TecLaguna1_ (Clasificatorio)
+1. #358 (#85 de TecNM) _ArrayList_ (Clasificatorio)
+1. #382 (#100 de TecNM) _RAM_ (Clasificatorio)
+1. #382 (#100 de TecNM) _TecLaguna2_ (Clasificatorio)
+1. #382 (#100 de TecNM) _ULTIMO LUGAR_ (Clasificatorio)
 
 ### 2022-2023
 
 1. #37 (#4 de TecNM) _EspantaBugs_ (Regional)
-1. #171 (#29 de TecNM) _VectorRaptor's_ (Clasificatorio)
-1. #173 (#30 de TecNM) _DinamitaTeam_ (Clasificatorio)
-1. #281 (#51 de TecNM) _CodeKillers_ (Clasificatorio)
-1. #290 (#52 de TecNM) _TEAM VICE_ (Clasificatorio)
-1. #308 (#57 de TecNM) _Kaiju Coders_ (Clasificatorio)
-1. #309 (#58 de TecNM) _CodeKings_ (Clasificatorio)
-1. #327 (#62 de TecNM) _GPR_ (Clasificatorio)
-1. #328 (#63 de TecNM) _SOUT("ZERO")_ (Clasificatorio)
-1. #331 (#64 de TecNM) _DROP DATABASE_ (Clasificatorio)
-1. #335 (#66 de TecNM) _Pokevelopers_ (Clasificatorio)
-1. #351 (#69 de TecNM) _Work Bots_ (Clasificatorio)
-1. #378 (#78 de TecNM) _Oswi Boys_ (Clasificatorio)
-1. #379 (#79 de TecNM) _Las Fuerzas del Mal_ (Clasificatorio)
-1. #382 (#82 de TecNM) _CODING PALS_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Chepo++_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Developer Manager_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Frida's Team_ (Clasificatorio)
-1. #382 (#82 de TecNM) _IDGAF_ (Clasificatorio)
-1. #382 (#82 de TecNM) _KbzaDbolo_ (Clasificatorio)
-1. #382 (#82 de TecNM) _LafCoding_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Los Charlie Fest pt. 1, 2 y 3_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Los Pinochos Quanticos_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Los Testigos de Ciseña_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Los Testigos de Oswi_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Los Traga Bugs_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Master Codes_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Mnkys 404_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Monkey Devs_ (Clasificatorio)
-1. #382 (#82 de TecNM) _TeamRocket_ (Clasificatorio)
-1. #382 (#82 de TecNM) _echo_ (Clasificatorio)
+1. #171 (#30 de TecNM) _VectorRaptor's_ (Clasificatorio)
+1. #173 (#31 de TecNM) _DinamitaTeam_ (Clasificatorio)
+1. #281 (#52 de TecNM) _CodeKillers_ (Clasificatorio)
+1. #290 (#53 de TecNM) _TEAM VICE_ (Clasificatorio)
+1. #308 (#58 de TecNM) _Kaiju Coders_ (Clasificatorio)
+1. #309 (#59 de TecNM) _CodeKings_ (Clasificatorio)
+1. #327 (#63 de TecNM) _GPR_ (Clasificatorio)
+1. #328 (#64 de TecNM) _SOUT("ZERO")_ (Clasificatorio)
+1. #331 (#65 de TecNM) _DROP DATABASE_ (Clasificatorio)
+1. #335 (#67 de TecNM) _Pokevelopers_ (Clasificatorio)
+1. #351 (#70 de TecNM) _Work Bots_ (Clasificatorio)
+1. #378 (#79 de TecNM) _Oswi Boys_ (Clasificatorio)
+1. #379 (#80 de TecNM) _Las Fuerzas del Mal_ (Clasificatorio)
+1. #382 (#83 de TecNM) _CODING PALS_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Chepo++_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Developer Manager_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Frida's Team_ (Clasificatorio)
+1. #382 (#83 de TecNM) _IDGAF_ (Clasificatorio)
+1. #382 (#83 de TecNM) _KbzaDbolo_ (Clasificatorio)
+1. #382 (#83 de TecNM) _LafCoding_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Los Charlie Fest pt. 1, 2 y 3_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Los Pinochos Quanticos_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Los Testigos de Ciseña_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Los Testigos de Oswi_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Los Traga Bugs_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Master Codes_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Mnkys 404_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Monkey Devs_ (Clasificatorio)
+1. #382 (#83 de TecNM) _TeamRocket_ (Clasificatorio)
+1. #382 (#83 de TecNM) _echo_ (Clasificatorio)
 
 ### 2023-2024
 

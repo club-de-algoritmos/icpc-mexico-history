@@ -28,31 +28,31 @@
 
 ### 2019-2020
 
-1. #382 (#98 de TecNM) _DDR3_ (Clasificatorio)
-1. #382 (#98 de TecNM) _LIMITLESS_ (Clasificatorio)
-1. #382 (#98 de TecNM) _NullPointer_ (Clasificatorio)
+1. #382 (#100 de TecNM) _DDR3_ (Clasificatorio)
+1. #382 (#100 de TecNM) _LIMITLESS_ (Clasificatorio)
+1. #382 (#100 de TecNM) _NullPointer_ (Clasificatorio)
 
 ### 2021-2022
 
-1. #226 (#36 de TecNM) _Code Testers_ (Clasificatorio)
-1. #226 (#36 de TecNM) _SIA Inceptor_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Sintax Error_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Totitos_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Code Testers_ (Clasificatorio)
+1. #226 (#37 de TecNM) _SIA Inceptor_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Sintax Error_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Totitos_ (Clasificatorio)
 
 ### 2022-2023
 
-1. #274 (#49 de TecNM) _Syntax Error_ (Clasificatorio)
-1. #306 (#56 de TecNM) _Objetivos Sistemáticos_ (Clasificatorio)
-1. #374 (#76 de TecNM) _Dinamita_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Baby Code_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Disaster Solution_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Elementales 9_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Los Kirbys_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Los Primis_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Os@s Team_ (Clasificatorio)
-1. #382 (#82 de TecNM) _PESSTARS_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Programación Básica_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Return  0_ (Clasificatorio)
+1. #274 (#50 de TecNM) _Syntax Error_ (Clasificatorio)
+1. #306 (#57 de TecNM) _Objetivos Sistemáticos_ (Clasificatorio)
+1. #374 (#77 de TecNM) _Dinamita_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Baby Code_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Disaster Solution_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Elementales 9_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Los Kirbys_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Los Primis_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Os@s Team_ (Clasificatorio)
+1. #382 (#83 de TecNM) _PESSTARS_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Programación Básica_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Return  0_ (Clasificatorio)
 
 ### 2023-2024
 

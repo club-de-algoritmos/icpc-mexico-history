@@ -1,4 +1,4 @@
-# INSTITUTO TECNOLOGICO DE QUERETARO
+# Instituto Tecnológico de Querétaro
 
 ## Mejores 10 equipos
 
@@ -39,20 +39,20 @@
 
 ### 2001-2002
 
-1. #55 (#13 de TecNM) _Zorros Blanco_ (Regional)
-1. #55 (#13 de TecNM) _Zorros Naranja_ (Regional)
-1. #55 (#13 de TecNM) _Zorros Negro_ (Regional)
+1. #55 (#16 de TecNM) _Zorros Blanco_ (Regional)
+1. #55 (#16 de TecNM) _Zorros Naranja_ (Regional)
+1. #55 (#16 de TecNM) _Zorros Negro_ (Regional)
 
 ### 2003-2004
 
-1. #41 (#9 de TecNM) _Zorros Blanco_ (Regional)
+1. #41 (#10 de TecNM) _Zorros Blanco_ (Regional)
 
 ### 2004-2005
 
 1. #36 (#7 de TecNM) _Zorros Blanco_ (Regional)
-1. #49 (#9 de TecNM) _Zorros Negro_ (Regional)
-1. #66 (#14 de TecNM) _Zorros Extras_ (Regional)
-1. #79 (#18 de TecNM) _Zorros Naranja_ (Regional)
+1. #49 (#10 de TecNM) _Zorros Negro_ (Regional)
+1. #66 (#15 de TecNM) _Zorros Extras_ (Regional)
+1. #79 (#20 de TecNM) _Zorros Naranja_ (Regional)
 
 ### 2006-2007
 
@@ -63,9 +63,9 @@
 ### 2007-2008
 
 1. #38 (#7 de TecNM) _Black Fox Army_ (Regional)
-1. #61 (#15 de TecNM) _Haka_ (Regional)
-1. #61 (#15 de TecNM) _The Razorblade Fox Team_ (Regional)
-1. #61 (#15 de TecNM) _Zorros Naranja_ (Regional)
+1. #61 (#17 de TecNM) _Haka_ (Regional)
+1. #61 (#17 de TecNM) _The Razorblade Fox Team_ (Regional)
+1. #61 (#17 de TecNM) _Zorros Naranja_ (Regional)
 
 ### 2008-2009
 
@@ -80,12 +80,12 @@
 ### 2010-2011
 
 1. #38 (#1 de TecNM) _Haka - ITQ_ (Regional)
-1. #95 (#15 de TecNM) _Malandros_ (Regional)
-1. #122 (#29 de TecNM) _Fredos Slash_ (Regional)
+1. #95 (#16 de TecNM) _Malandros_ (Regional)
+1. #122 (#30 de TecNM) _Fredos Slash_ (Regional)
 
 ### 2011-2012
 
-1. #98 (#29 de TecNM) _Haka 2.0_ (Regional)
+1. #98 (#30 de TecNM) _Haka 2.0_ (Regional)
 
 ### 2012-2013
 
@@ -93,10 +93,10 @@
 
 ### 2016-2017
 
-1. #121 (#20 de TecNM) _Binary Agents_ (Clasificatorio)
-1. #121 (#20 de TecNM) _Fox code_ (Clasificatorio)
-1. #121 (#20 de TecNM) _NWA_ (Clasificatorio)
-1. #121 (#20 de TecNM) _puntoycoma_ (Clasificatorio)
+1. #121 (#22 de TecNM) _Binary Agents_ (Clasificatorio)
+1. #121 (#22 de TecNM) _Fox code_ (Clasificatorio)
+1. #121 (#22 de TecNM) _NWA_ (Clasificatorio)
+1. #121 (#22 de TecNM) _puntoycoma_ (Clasificatorio)
 
 ### 2018-2019
 
@@ -104,12 +104,12 @@
 
 ### 2019-2020
 
-1. #382 (#98 de TecNM) _BaalCode_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Crazy  Fingers_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Dinamita (ITQ)_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Equipo buena onda_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Pi22_ (Clasificatorio)
-1. #382 (#98 de TecNM) _mad.io_ (Clasificatorio)
+1. #382 (#100 de TecNM) _BaalCode_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Crazy  Fingers_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Dinamita (ITQ)_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Equipo buena onda_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Pi22_ (Clasificatorio)
+1. #382 (#100 de TecNM) _mad.io_ (Clasificatorio)
 
 ### 2020-2021
 
@@ -117,8 +117,8 @@
 
 ### 2021-2022
 
-1. #190 (#22 de TecNM) _Los 3 reyes magos_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Xokrona_ (Clasificatorio)
+1. #190 (#23 de TecNM) _Los 3 reyes magos_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Xokrona_ (Clasificatorio)
 
 ### 2024-2025
 

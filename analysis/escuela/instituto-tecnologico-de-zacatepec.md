@@ -20,7 +20,7 @@
 
 ### 2022-2023
 
-1. #382 (#82 de TecNM) _Juniors_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Juniors_ (Clasificatorio)
 
 ### 2023-2024
 

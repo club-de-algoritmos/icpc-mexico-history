@@ -29,8 +29,8 @@
 
 ### 2019-2020
 
-1. #382 (#98 de TecNM) _CodeBusters_ (Clasificatorio)
-1. #382 (#98 de TecNM) _JAIL-Breakers_ (Clasificatorio)
+1. #382 (#100 de TecNM) _CodeBusters_ (Clasificatorio)
+1. #382 (#100 de TecNM) _JAIL-Breakers_ (Clasificatorio)
 
 ### 2020-2021
 
@@ -44,15 +44,15 @@
 
 ### 2021-2022
 
-1. #226 (#36 de TecNM) _Shark Geeks_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Shark Geeks_ (Clasificatorio)
 
 ### 2022-2023
 
-1. #382 (#82 de TecNM) _3 BITS_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Black Wolf_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Geek Foxes 2.0_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Nameless.jar_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Shark Geeks_ (Clasificatorio)
+1. #382 (#83 de TecNM) _3 BITS_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Black Wolf_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Geek Foxes 2.0_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Nameless.jar_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Shark Geeks_ (Clasificatorio)
 
 ### 2023-2024
 

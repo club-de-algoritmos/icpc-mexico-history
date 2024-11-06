@@ -42,39 +42,39 @@
 
 ### 2005-2006
 
-1. #85 (#11 de TecNM) _Correcaminos Lerdo_ (Regional)
-1. #85 (#11 de TecNM) _ITSL Lerdo_ (Regional)
-1. #85 (#11 de TecNM) _Laguneros Lerdo_ (Regional)
+1. #85 (#12 de TecNM) _Correcaminos Lerdo_ (Regional)
+1. #85 (#12 de TecNM) _ITSL Lerdo_ (Regional)
+1. #85 (#12 de TecNM) _Laguneros Lerdo_ (Regional)
 
 ### 2007-2008
 
 1. #35 (#6 de TecNM) _correcaminos_ (Regional)
-1. #61 (#15 de TecNM) _kyubis team_ (Regional)
-1. #61 (#15 de TecNM) _return this_ (Regional)
+1. #61 (#17 de TecNM) _kyubis team_ (Regional)
+1. #61 (#17 de TecNM) _return this_ (Regional)
 
 ### 2008-2009
 
-1. #97 (#25 de TecNM) _Road_Runner_ (Regional)
-1. #101 (#26 de TecNM) _KYUBIS_TEAM _ (Regional)
-1. #101 (#26 de TecNM) _LOS OBLIGADOS_ (Regional)
+1. #97 (#28 de TecNM) _Road_Runner_ (Regional)
+1. #101 (#29 de TecNM) _KYUBIS_TEAM _ (Regional)
+1. #101 (#29 de TecNM) _LOS OBLIGADOS_ (Regional)
 
 ### 2009-2010
 
 1. #68 (#13 de TecNM) _Develovers_ (Regional)
-1. #116 (#31 de TecNM) _Predefinidos por el usuario_ (Regional)
-1. #116 (#31 de TecNM) _The FAD_ (Regional)
+1. #116 (#34 de TecNM) _Predefinidos por el usuario_ (Regional)
+1. #116 (#34 de TecNM) _The FAD_ (Regional)
 
 ### 2010-2011
 
-1. #49 (#4 de TecNM) _THE  FAD_ (Regional)
-1. #156 (#44 de TecNM) _HIDROGO´S POWER_ (Regional)
-1. #156 (#44 de TecNM) _SHINIGAMIS_ (Regional)
+1. #49 (#5 de TecNM) _THE  FAD_ (Regional)
+1. #156 (#48 de TecNM) _HIDROGO´S POWER_ (Regional)
+1. #156 (#48 de TecNM) _SHINIGAMIS_ (Regional)
 
 ### 2011-2012
 
-1. #51 (#7 de TecNM) _The FAD_ (Regional)
-1. #77 (#19 de TecNM) _LOS OBLIGADOS_ (Regional)
-1. #104 (#33 de TecNM) _Shinigamis_ (Regional)
+1. #51 (#8 de TecNM) _The FAD_ (Regional)
+1. #77 (#20 de TecNM) _LOS OBLIGADOS_ (Regional)
+1. #104 (#35 de TecNM) _Shinigamis_ (Regional)
 
 ### 2012-2013
 
@@ -90,13 +90,13 @@
 
 ### 2014-2015
 
-1. #142 (#32 de TecNM) _NULL_ (Clasificatorio)
-1. #174 (#42 de TecNM) _Triforce_ (Clasificatorio)
-1. #188 (#45 de TecNM) _Dudekashell_ (Clasificatorio)
-1. #204 (#52 de TecNM) _Cumbayos_ (Clasificatorio)
-1. #204 (#52 de TecNM) _Dos Mortales y un Dios_ (Clasificatorio)
-1. #204 (#52 de TecNM) _Los que sean_ (Clasificatorio)
-1. #204 (#52 de TecNM) _Vengadores_ (Clasificatorio)
+1. #142 (#34 de TecNM) _NULL_ (Clasificatorio)
+1. #174 (#45 de TecNM) _Triforce_ (Clasificatorio)
+1. #188 (#49 de TecNM) _Dudekashell_ (Clasificatorio)
+1. #204 (#57 de TecNM) _Cumbayos_ (Clasificatorio)
+1. #204 (#57 de TecNM) _Dos Mortales y un Dios_ (Clasificatorio)
+1. #204 (#57 de TecNM) _Los que sean_ (Clasificatorio)
+1. #204 (#57 de TecNM) _Vengadores_ (Clasificatorio)
 
 ### 2015-2016
 
@@ -108,14 +108,14 @@
 
 ### 2016-2017
 
-1. #75 (#11 de TecNM) _MASTER.NET_ (Regional)
-1. #121 (#20 de TecNM) _AMM_ (Clasificatorio)
-1. #121 (#20 de TecNM) _Alfa_ (Clasificatorio)
-1. #121 (#20 de TecNM) _CCMAS_ (Clasificatorio)
-1. #121 (#20 de TecNM) _JAVAJAVADO_ (Clasificatorio)
-1. #121 (#20 de TecNM) _Lozano´s_ (Clasificatorio)
-1. #121 (#20 de TecNM) _Silver Coding_ (Clasificatorio)
-1. #121 (#20 de TecNM) _Tec-2Net_ (Clasificatorio)
+1. #75 (#13 de TecNM) _MASTER.NET_ (Regional)
+1. #121 (#22 de TecNM) _AMM_ (Clasificatorio)
+1. #121 (#22 de TecNM) _Alfa_ (Clasificatorio)
+1. #121 (#22 de TecNM) _CCMAS_ (Clasificatorio)
+1. #121 (#22 de TecNM) _JAVAJAVADO_ (Clasificatorio)
+1. #121 (#22 de TecNM) _Lozano´s_ (Clasificatorio)
+1. #121 (#22 de TecNM) _Silver Coding_ (Clasificatorio)
+1. #121 (#22 de TecNM) _Tec-2Net_ (Clasificatorio)
 
 ### 2017-2018
 
@@ -139,10 +139,10 @@
 1. #223 (#37 de TecNM) _WHITE_SPACE_ (Clasificatorio)
 1. #246 (#45 de TecNM) _TEAM PORRAS.CS_ (Clasificatorio)
 1. #280 (#54 de TecNM) _Los primeros_ (Clasificatorio)
-1. #304 (#65 de TecNM) _Loscorrecodigos.exe_ (Clasificatorio)
-1. #327 (#74 de TecNM) _5k_ (Clasificatorio)
-1. #360 (#85 de TecNM) _Los Cerebros de Pollo_ (Clasificatorio)
-1. #372 (#93 de TecNM) _Los Noobs_ (Clasificatorio)
+1. #304 (#66 de TecNM) _Loscorrecodigos.exe_ (Clasificatorio)
+1. #327 (#75 de TecNM) _5k_ (Clasificatorio)
+1. #360 (#86 de TecNM) _Los Cerebros de Pollo_ (Clasificatorio)
+1. #372 (#95 de TecNM) _Los Noobs_ (Clasificatorio)
 
 ### 2020-2021
 
@@ -159,27 +159,27 @@
 ### 2021-2022
 
 1. #121 (#10 de TecNM) _G2_ (Clasificatorio)
-1. #205 (#27 de TecNM) _PCF Team_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Blue 2.0_ (Clasificatorio)
-1. #226 (#36 de TecNM) _MixTeam_ (Clasificatorio)
-1. #226 (#36 de TecNM) _PrimeC_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Titan_ (Clasificatorio)
+1. #205 (#28 de TecNM) _PCF Team_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Blue 2.0_ (Clasificatorio)
+1. #226 (#37 de TecNM) _MixTeam_ (Clasificatorio)
+1. #226 (#37 de TecNM) _PrimeC_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Titan_ (Clasificatorio)
 
 ### 2022-2023
 
 1. #141 (#24 de TecNM) _The Walker_ (Clasificatorio)
 1. #148 (#27 de TecNM) _Guardians_ (Clasificatorio)
-1. #156 (#28 de TecNM) _Hi Universe_ (Clasificatorio)
-1. #233 (#41 de TecNM) _Los amigos_ (Clasificatorio)
-1. #293 (#53 de TecNM) _TerceroLerdo_ (Clasificatorio)
-1. #326 (#61 de TecNM) _Titan_ (Clasificatorio)
-1. #336 (#67 de TecNM) _Blue 3.0_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Gameshackers_ (Clasificatorio)
-1. #382 (#82 de TecNM) _LerdoEsfuerzo_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Los 3_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Los trillizos_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Pollos Hermanos_ (Clasificatorio)
-1. #382 (#82 de TecNM) _PrimeroPro_ (Clasificatorio)
+1. #156 (#29 de TecNM) _Hi Universe_ (Clasificatorio)
+1. #233 (#42 de TecNM) _Los amigos_ (Clasificatorio)
+1. #293 (#54 de TecNM) _TerceroLerdo_ (Clasificatorio)
+1. #326 (#62 de TecNM) _Titan_ (Clasificatorio)
+1. #336 (#68 de TecNM) _Blue 3.0_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Gameshackers_ (Clasificatorio)
+1. #382 (#83 de TecNM) _LerdoEsfuerzo_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Los 3_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Los trillizos_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Pollos Hermanos_ (Clasificatorio)
+1. #382 (#83 de TecNM) _PrimeroPro_ (Clasificatorio)
 
 ### 2023-2024
 

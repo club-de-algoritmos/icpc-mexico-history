@@ -38,25 +38,25 @@
 ### 2009-2010
 
 1. #66 (#11 de TecNM) _Kachibombos ++_ (Regional)
-1. #75 (#15 de TecNM) _Los 11 Mosqueteros_ (Regional)
+1. #75 (#16 de TecNM) _Los 11 Mosqueteros_ (Regional)
 
 ### 2010-2011
 
-1. #114 (#26 de TecNM) _STONE CODE_ (Regional)
+1. #114 (#27 de TecNM) _STONE CODE_ (Regional)
 
 ### 2011-2012
 
-1. #104 (#33 de TecNM) _1UP_ (Regional)
+1. #104 (#35 de TecNM) _1UP_ (Regional)
 
 ### 2014-2015
 
-1. #171 (#40 de TecNM) _los galles_ (Clasificatorio)
-1. #196 (#48 de TecNM) _el ultimo byte_ (Clasificatorio)
+1. #171 (#43 de TecNM) _los galles_ (Clasificatorio)
+1. #196 (#53 de TecNM) _el ultimo byte_ (Clasificatorio)
 
 ### 2016-2017
 
-1. #121 (#20 de TecNM) _itcg rules_ (Clasificatorio)
-1. #121 (#20 de TecNM) _sala 5_ (Clasificatorio)
+1. #121 (#22 de TecNM) _itcg rules_ (Clasificatorio)
+1. #121 (#22 de TecNM) _sala 5_ (Clasificatorio)
 
 ### 2017-2018
 
@@ -81,16 +81,16 @@
 1. #160 (#21 de TecNM) _Taurina_ (Clasificatorio)
 1. #161 (#22 de TecNM) _LOS VIGILANTES_ (Clasificatorio)
 1. #259 (#48 de TecNM) _GORDITOS Y BONITOS_ (Clasificatorio)
-1. #343 (#79 de TecNM) _Noobmaster69_ (Clasificatorio)
-1. #382 (#98 de TecNM) _AFterByte_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Delta_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Int_ensos_ (Clasificatorio)
-1. #382 (#98 de TecNM) _JODT_ (Clasificatorio)
-1. #382 (#98 de TecNM) _JavAdictos_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Los pollitos_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Nameless Solution_ (Clasificatorio)
-1. #382 (#98 de TecNM) _OmegaITCG_ (Clasificatorio)
-1. #382 (#98 de TecNM) _TeamSinManos_ (Clasificatorio)
+1. #343 (#80 de TecNM) _Noobmaster69_ (Clasificatorio)
+1. #382 (#100 de TecNM) _AFterByte_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Delta_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Int_ensos_ (Clasificatorio)
+1. #382 (#100 de TecNM) _JODT_ (Clasificatorio)
+1. #382 (#100 de TecNM) _JavAdictos_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Los pollitos_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Nameless Solution_ (Clasificatorio)
+1. #382 (#100 de TecNM) _OmegaITCG_ (Clasificatorio)
+1. #382 (#100 de TecNM) _TeamSinManos_ (Clasificatorio)
 
 ### 2020-2021
 

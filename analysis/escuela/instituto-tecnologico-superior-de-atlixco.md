@@ -28,17 +28,17 @@
 
 ### 2019-2020
 
-1. #382 (#98 de TecNM) _Código Templario_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Dubalin_ (Clasificatorio)
-1. #382 (#98 de TecNM) _El+Malo_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Goofier Team_ (Clasificatorio)
-1. #382 (#98 de TecNM) _LINCES 5B_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Lince-Alfa-Dinamita_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Linces JEA_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Los Pablo Rangers_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Team JJS_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Team SAD_ (Clasificatorio)
-1. #382 (#98 de TecNM) _punto y coma_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Código Templario_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Dubalin_ (Clasificatorio)
+1. #382 (#100 de TecNM) _El+Malo_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Goofier Team_ (Clasificatorio)
+1. #382 (#100 de TecNM) _LINCES 5B_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Lince-Alfa-Dinamita_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Linces JEA_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Los Pablo Rangers_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Team JJS_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Team SAD_ (Clasificatorio)
+1. #382 (#100 de TecNM) _punto y coma_ (Clasificatorio)
 
 ### 2020-2021
 
@@ -57,30 +57,30 @@
 
 ### 2021-2022
 
-1. #226 (#36 de TecNM) _Arabian cats_ (Clasificatorio)
-1. #226 (#36 de TecNM) _C0D3 Reapers_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Full of Hits_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Los Nahum's_ (Clasificatorio)
-1. #226 (#36 de TecNM) _PROYECTO Z_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Team NAE_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Walking soft_ (Clasificatorio)
-1. #226 (#36 de TecNM) _X-Force_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Arabian cats_ (Clasificatorio)
+1. #226 (#37 de TecNM) _C0D3 Reapers_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Full of Hits_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Los Nahum's_ (Clasificatorio)
+1. #226 (#37 de TecNM) _PROYECTO Z_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Team NAE_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Walking soft_ (Clasificatorio)
+1. #226 (#37 de TecNM) _X-Force_ (Clasificatorio)
 
 ### 2022-2023
 
-1. #382 (#82 de TecNM) _.Zip_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Anonimus Power_ (Clasificatorio)
-1. #382 (#82 de TecNM) _COVAITZ_ (Clasificatorio)
-1. #382 (#82 de TecNM) _JBG_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Java lisT_ (Clasificatorio)
-1. #382 (#82 de TecNM) _LOS EMEKAR_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Los Power Rangers_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Los python'es_ (Clasificatorio)
-1. #382 (#82 de TecNM) _THE JOBS_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Tecnotuners_ (Clasificatorio)
-1. #382 (#82 de TecNM) _The Best Programmers_ (Clasificatorio)
-1. #382 (#82 de TecNM) _The Powerpuff Girls_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Trifuerza_ (Clasificatorio)
+1. #382 (#83 de TecNM) _.Zip_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Anonimus Power_ (Clasificatorio)
+1. #382 (#83 de TecNM) _COVAITZ_ (Clasificatorio)
+1. #382 (#83 de TecNM) _JBG_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Java lisT_ (Clasificatorio)
+1. #382 (#83 de TecNM) _LOS EMEKAR_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Los Power Rangers_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Los python'es_ (Clasificatorio)
+1. #382 (#83 de TecNM) _THE JOBS_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Tecnotuners_ (Clasificatorio)
+1. #382 (#83 de TecNM) _The Best Programmers_ (Clasificatorio)
+1. #382 (#83 de TecNM) _The Powerpuff Girls_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Trifuerza_ (Clasificatorio)
 
 ### 2024-2025
 

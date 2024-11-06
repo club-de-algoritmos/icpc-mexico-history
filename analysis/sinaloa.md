@@ -123,7 +123,7 @@
 1. #1 (#1 de TecNM) _Turing Machines_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Regional)
     - Avanzó a la final mundial y resolvió 3 problemas obtuviendo el lugar #49 (52%) en 33rd Annual World Finals of the ACM International Collegiate Programming Contest
 1. #47 (#5 de TecNM) _Salchipulpos_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Regional)
-1. #67 (#9 de TecNM) _Dark side of the code_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Regional)
+1. #67 (#11 de TecNM) _Dark side of the code_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Regional)
 
 ### 2009-2010
 
@@ -131,12 +131,12 @@
 
 ### 2010-2011
 
-1. #69 (#8 de TecNM) _Three Little Bits_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Regional)
-1. #90 (#13 de TecNM) _Unreal Coders_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Regional)
+1. #69 (#9 de TecNM) _Three Little Bits_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Regional)
+1. #90 (#14 de TecNM) _Unreal Coders_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Regional)
 
 ### 2011-2012
 
-1. #48 (#6 de TecNM) _Three Bits_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Regional)
+1. #48 (#7 de TecNM) _Three Bits_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Regional)
 1. #92 _UPSIN DELTA_ ([Universidad Politecnica de Sinaloa](escuela/universidad-politecnica-de-sinaloa)) (Regional)
 1. #101 _UPSIN GAMMA_ ([Universidad Politecnica de Sinaloa](escuela/universidad-politecnica-de-sinaloa)) (Regional)
 1. #104 _UPSIN ALFA_ ([Universidad Politecnica de Sinaloa](escuela/universidad-politecnica-de-sinaloa)) (Regional)
@@ -156,11 +156,11 @@
 ### 2014-2015
 
 1. #9 (#1 de TecNM) _JRA_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Regional)
-1. #54 (#6 de TecNM) _Los Cansados_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
-1. #90 (#14 de TecNM) _Los simuladores_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
-1. #153 (#36 de TecNM) _Mighty Morphin 335_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
-1. #204 (#52 de TecNM) _Equipo Rocket_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
-1. #204 (#52 de TecNM) _JDK_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
+1. #54 (#7 de TecNM) _Los Cansados_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
+1. #90 (#16 de TecNM) _Los simuladores_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
+1. #153 (#38 de TecNM) _Mighty Morphin 335_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
+1. #204 (#57 de TecNM) _Equipo Rocket_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
+1. #204 (#57 de TecNM) _JDK_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
 
 ### 2015-2016
 
@@ -199,9 +199,9 @@
 1. #124 (#11 de TecNM) _Zandunga_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
 1. #140 (#12 de TecNM) _Hijos de Honor_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
 1. #145 (#13 de TecNM) _ArsGoetia_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
-1. #171 (#18 de TecNM) _Salchipulpos_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
-1. #211 (#30 de TecNM) _SpiderTeam_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
-1. #225 (#35 de TecNM) _Beesechurger_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
+1. #171 (#19 de TecNM) _Salchipulpos_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
+1. #211 (#31 de TecNM) _SpiderTeam_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
+1. #225 (#36 de TecNM) _Beesechurger_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
 
 ### 2022-2023
 
@@ -213,13 +213,13 @@
 1. #127 (#20 de TecNM) _3Logy_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
 1. #133 (#21 de TecNM) _Los Padrinos del C++_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
 1. #151 _Gods Programming_ ([Universidad Autónoma de Sinaloa](escuela/universidad-autonoma-de-sinaloa)) (Clasificatorio)
-1. #221 (#35 de TecNM) _Chicas Superpoderosas_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
-1. #222 (#36 de TecNM) _Los tilines insanos_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
-1. #227 (#38 de TecNM) _New Legacy_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
+1. #221 (#36 de TecNM) _Chicas Superpoderosas_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
+1. #222 (#37 de TecNM) _Los tilines insanos_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
+1. #227 (#39 de TecNM) _New Legacy_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
 1. #267 _FIMAZ_ ([Facultad de Informática Mazatlán UAS](escuela/facultad-de-informatica-mazatlan-uas)) (Clasificatorio)
 1. #382 _El Pariente Technologies_ ([Universidad Autónoma de Sinaloa](escuela/universidad-autonoma-de-sinaloa)) (Clasificatorio)
 1. #382 _Hog Riders_ ([Universidad Autónoma de Sinaloa](escuela/universidad-autonoma-de-sinaloa)) (Clasificatorio)
-1. #382 (#82 de TecNM) _SeatWorks_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
+1. #382 (#83 de TecNM) _SeatWorks_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
 
 ### 2023-2024
 

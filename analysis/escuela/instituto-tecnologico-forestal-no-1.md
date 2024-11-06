@@ -15,7 +15,7 @@
 
 ### 2004-2005
 
-1. #90 (#22 de TecNM) _lobos_ (Regional)
+1. #90 (#25 de TecNM) _lobos_ (Regional)
 
 
 

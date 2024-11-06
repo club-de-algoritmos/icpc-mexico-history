@@ -28,21 +28,21 @@
 
 ### 2019-2020
 
-1. #382 (#98 de TecNM) _CID y sus amigos_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Chicos tec el return_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Gears of code_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Ghost_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Gold Boom_ (Clasificatorio)
-1. #382 (#98 de TecNM) _ITSTE ISC_ (Clasificatorio)
-1. #382 (#98 de TecNM) _LMN-3_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Los chavis_ (Clasificatorio)
-1. #382 (#98 de TecNM) _MR Robot MVM_ (Clasificatorio)
-1. #382 (#98 de TecNM) _MR X_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Red Lanterns Corps_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Rocket_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Slayers Coding_ (Clasificatorio)
-1. #382 (#98 de TecNM) _X-FOR_ (Clasificatorio)
-1. #382 (#98 de TecNM) _reheal_ (Clasificatorio)
+1. #382 (#100 de TecNM) _CID y sus amigos_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Chicos tec el return_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Gears of code_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Ghost_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Gold Boom_ (Clasificatorio)
+1. #382 (#100 de TecNM) _ITSTE ISC_ (Clasificatorio)
+1. #382 (#100 de TecNM) _LMN-3_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Los chavis_ (Clasificatorio)
+1. #382 (#100 de TecNM) _MR Robot MVM_ (Clasificatorio)
+1. #382 (#100 de TecNM) _MR X_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Red Lanterns Corps_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Rocket_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Slayers Coding_ (Clasificatorio)
+1. #382 (#100 de TecNM) _X-FOR_ (Clasificatorio)
+1. #382 (#100 de TecNM) _reheal_ (Clasificatorio)
 
 ### 2020-2021
 
@@ -55,18 +55,18 @@
 
 ### 2021-2022
 
-1. #226 (#36 de TecNM) _Hardcoders_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Los estimados_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Musketeers_ (Clasificatorio)
-1. #226 (#36 de TecNM) _ProgramISC3_ (Clasificatorio)
-1. #226 (#36 de TecNM) _noCompila_ (Clasificatorio)
-1. #226 (#36 de TecNM) _root@S.F.V0.1_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Hardcoders_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Los estimados_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Musketeers_ (Clasificatorio)
+1. #226 (#37 de TecNM) _ProgramISC3_ (Clasificatorio)
+1. #226 (#37 de TecNM) _noCompila_ (Clasificatorio)
+1. #226 (#37 de TecNM) _root@S.F.V0.1_ (Clasificatorio)
 
 ### 2022-2023
 
-1. #382 (#82 de TecNM) _Roots_ (Clasificatorio)
-1. #382 (#82 de TecNM) _alpha team_ (Clasificatorio)
-1. #382 (#82 de TecNM) _noCompila_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Roots_ (Clasificatorio)
+1. #382 (#83 de TecNM) _alpha team_ (Clasificatorio)
+1. #382 (#83 de TecNM) _noCompila_ (Clasificatorio)
 
 ### 2024-2025
 

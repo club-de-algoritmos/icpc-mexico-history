@@ -28,15 +28,15 @@
 
 ### 2019-2020
 
-1. #382 (#98 de TecNM) _CAPA 8_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Code-Legends_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Developers ISIC_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Evan Casia_ (Clasificatorio)
-1. #382 (#98 de TecNM) _ISC_ITSOEH_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Merodeadores _ (Clasificatorio)
-1. #382 (#98 de TecNM) _Phantom Hero_ (Clasificatorio)
-1. #382 (#98 de TecNM) _RDL Legends_ (Clasificatorio)
-1. #382 (#98 de TecNM) _TeamPRL_ (Clasificatorio)
+1. #382 (#100 de TecNM) _CAPA 8_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Code-Legends_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Developers ISIC_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Evan Casia_ (Clasificatorio)
+1. #382 (#100 de TecNM) _ISC_ITSOEH_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Merodeadores _ (Clasificatorio)
+1. #382 (#100 de TecNM) _Phantom Hero_ (Clasificatorio)
+1. #382 (#100 de TecNM) _RDL Legends_ (Clasificatorio)
+1. #382 (#100 de TecNM) _TeamPRL_ (Clasificatorio)
 
 ### 2020-2021
 
@@ -52,22 +52,22 @@
 
 ### 2021-2022
 
-1. #226 (#36 de TecNM) _Ad astra_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Dragon Work_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Gateway_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Hecatónquiros_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Lobos Team_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Los Novatos_ (Clasificatorio)
-1. #226 (#36 de TecNM) _MGM-ITSOEH-TICs_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Ad astra_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Dragon Work_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Gateway_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Hecatónquiros_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Lobos Team_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Los Novatos_ (Clasificatorio)
+1. #226 (#37 de TecNM) _MGM-ITSOEH-TICs_ (Clasificatorio)
 
 ### 2022-2023
 
-1. #382 (#82 de TecNM) _ALFA TEAM_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Bucle Infinito_ (Clasificatorio)
-1. #382 (#82 de TecNM) _End of security_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Gateway-TICs-ITSOEH_ (Clasificatorio)
-1. #382 (#82 de TecNM) _ITSOEH ISIC Error 404_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Not Found 404_ (Clasificatorio)
+1. #382 (#83 de TecNM) _ALFA TEAM_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Bucle Infinito_ (Clasificatorio)
+1. #382 (#83 de TecNM) _End of security_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Gateway-TICs-ITSOEH_ (Clasificatorio)
+1. #382 (#83 de TecNM) _ITSOEH ISIC Error 404_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Not Found 404_ (Clasificatorio)
 
 ### 2024-2025
 

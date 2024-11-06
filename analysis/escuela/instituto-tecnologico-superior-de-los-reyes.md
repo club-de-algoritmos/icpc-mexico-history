@@ -35,24 +35,24 @@
 
 ### 2005-2006
 
-1. #85 (#11 de TecNM) _ITS Los Reyes 2_ (Regional)
-1. #85 (#11 de TecNM) _ITSLos Reyes 1_ (Regional)
+1. #85 (#12 de TecNM) _ITS Los Reyes 2_ (Regional)
+1. #85 (#12 de TecNM) _ITSLos Reyes 1_ (Regional)
 
 ### 2009-2010
 
 1. #47 (#6 de TecNM) _Coyotes Alfa_ (Regional)
-1. #116 (#31 de TecNM) _Coyotes Omega_ (Regional)
+1. #116 (#34 de TecNM) _Coyotes Omega_ (Regional)
 
 ### 2010-2011
 
-1. #88 (#12 de TecNM) _Coyotes Alpha_ (Regional)
-1. #109 (#22 de TecNM) _Coyotes Omega_ (Regional)
+1. #88 (#13 de TecNM) _Coyotes Alpha_ (Regional)
+1. #109 (#23 de TecNM) _Coyotes Omega_ (Regional)
 
 ### 2011-2012
 
-1. #43 (#4 de TecNM) _Coyotes Alpha_ (Regional)
-1. #87 (#25 de TecNM) _Coyotes Beta_ (Regional)
-1. #104 (#33 de TecNM) _Coyotes Gama_ (Regional)
+1. #43 (#5 de TecNM) _Coyotes Alpha_ (Regional)
+1. #87 (#26 de TecNM) _Coyotes Beta_ (Regional)
+1. #104 (#35 de TecNM) _Coyotes Gama_ (Regional)
 
 ### 2012-2013
 
@@ -69,8 +69,8 @@
 ### 2014-2015
 
 1. #48 (#6 de TecNM) _COYOTES Alpha_ (Regional)
-1. #59 (#12 de TecNM) _Mozzart_ (Regional)
-1. #60 (#13 de TecNM) _COYOTES BeTha_ (Regional)
+1. #59 (#13 de TecNM) _Mozzart_ (Regional)
+1. #60 (#14 de TecNM) _COYOTES BeTha_ (Regional)
 
 ### 2015-2016
 
@@ -79,8 +79,8 @@
 
 ### 2016-2017
 
-1. #44 (#6 de TecNM) _Dagas++_ (Regional)
-1. #76 (#12 de TecNM) _Las Chonchas_ (Regional)
+1. #44 (#7 de TecNM) _Dagas++_ (Regional)
+1. #76 (#14 de TecNM) _Las Chonchas_ (Regional)
 
 ### 2017-2018
 

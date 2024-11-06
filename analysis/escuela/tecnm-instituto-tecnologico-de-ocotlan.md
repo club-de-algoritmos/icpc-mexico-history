@@ -21,15 +21,15 @@
 
 ### 2021-2022
 
-1. #226 (#36 de TecNM) _Los Picateclas_ (Clasificatorio)
-1. #226 (#36 de TecNM) _The Python's_ (Clasificatorio)
-1. #226 (#36 de TecNM) _“ ; Mortal ”_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Los Picateclas_ (Clasificatorio)
+1. #226 (#37 de TecNM) _The Python's_ (Clasificatorio)
+1. #226 (#37 de TecNM) _“ ; Mortal ”_ (Clasificatorio)
 
 ### 2022-2023
 
-1. #382 (#82 de TecNM) _CodingTeam_ (Clasificatorio)
-1. #382 (#82 de TecNM) _JAVAlioburger_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Los Cuisillos_ (Clasificatorio)
+1. #382 (#83 de TecNM) _CodingTeam_ (Clasificatorio)
+1. #382 (#83 de TecNM) _JAVAlioburger_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Los Cuisillos_ (Clasificatorio)
 
 
 

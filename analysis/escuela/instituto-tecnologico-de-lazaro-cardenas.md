@@ -34,14 +34,14 @@
 
 ### 2011-2012
 
-1. #104 (#33 de TecNM) _Delfines_ (Regional)
-1. #104 (#33 de TecNM) _Tiburones_ (Regional)
+1. #104 (#35 de TecNM) _Delfines_ (Regional)
+1. #104 (#35 de TecNM) _Tiburones_ (Regional)
 
 ### 2012-2013
 
 1. #44 (#15 de TecNM) _anonymous_ (Regional)
-1. #134 (#53 de TecNM) _Delfines_ (Regional)
-1. #134 (#53 de TecNM) _KAME_ (Regional)
+1. #134 (#55 de TecNM) _Delfines_ (Regional)
+1. #134 (#55 de TecNM) _KAME_ (Regional)
 
 ### 2013-2014
 
@@ -87,11 +87,11 @@
 1. #184 (#24 de TecNM) _Innombrables_ (Clasificatorio)
 1. #207 (#31 de TecNM) _Eabel_ (Clasificatorio)
 1. #281 (#55 de TecNM) _charmander;_ (Clasificatorio)
-1. #294 (#60 de TecNM) _Dinamita_ (Clasificatorio)
-1. #355 (#81 de TecNM) _DeleteSystem32_ (Clasificatorio)
-1. #357 (#83 de TecNM) _GoodFellas_ (Clasificatorio)
-1. #375 (#95 de TecNM) _charizar;_ (Clasificatorio)
-1. #382 (#98 de TecNM) _lossuperconocidos_ (Clasificatorio)
+1. #294 (#61 de TecNM) _Dinamita_ (Clasificatorio)
+1. #355 (#82 de TecNM) _DeleteSystem32_ (Clasificatorio)
+1. #357 (#84 de TecNM) _GoodFellas_ (Clasificatorio)
+1. #375 (#97 de TecNM) _charizar;_ (Clasificatorio)
+1. #382 (#100 de TecNM) _lossuperconocidos_ (Clasificatorio)
 
 ### 2020-2021
 
@@ -101,31 +101,31 @@
 
 ### 2021-2022
 
-1. #156 (#16 de TecNM) _KND: Los chicos sin barrio_ (Clasificatorio)
-1. #226 (#36 de TecNM) _ITLAC3_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Javalimos 2.0_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Los Electro_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Los renegados del ITLAC_ (Clasificatorio)
-1. #226 (#36 de TecNM) _char mander_ (Clasificatorio)
+1. #156 (#17 de TecNM) _KND: Los chicos sin barrio_ (Clasificatorio)
+1. #226 (#37 de TecNM) _ITLAC3_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Javalimos 2.0_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Los Electro_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Los renegados del ITLAC_ (Clasificatorio)
+1. #226 (#37 de TecNM) _char mander_ (Clasificatorio)
 
 ### 2022-2023
 
 1. #89 (#10 de TecNM) _Guerreros del Sol_ (Clasificatorio)
-1. #277 (#50 de TecNM) _char mander_ (Clasificatorio)
-1. #333 (#65 de TecNM) _SyntaxError_ (Clasificatorio)
-1. #381 (#81 de TecNM) _Los Terreneitors_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Alguien del equipo está estrenido_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Aquors_ (Clasificatorio)
-1. #382 (#82 de TecNM) _BAJIVY_CA_ (Clasificatorio)
-1. #382 (#82 de TecNM) _BLINKS_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Black flag_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Cocodrilos_ (Clasificatorio)
-1. #382 (#82 de TecNM) _INCOGNITOS_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Las Lolis_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Los más chetados del condado_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Magda&Friends_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Punto y Coma_ (Clasificatorio)
-1. #382 (#82 de TecNM) _TeamL&S_ (Clasificatorio)
+1. #277 (#51 de TecNM) _char mander_ (Clasificatorio)
+1. #333 (#66 de TecNM) _SyntaxError_ (Clasificatorio)
+1. #381 (#82 de TecNM) _Los Terreneitors_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Alguien del equipo está estrenido_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Aquors_ (Clasificatorio)
+1. #382 (#83 de TecNM) _BAJIVY_CA_ (Clasificatorio)
+1. #382 (#83 de TecNM) _BLINKS_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Black flag_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Cocodrilos_ (Clasificatorio)
+1. #382 (#83 de TecNM) _INCOGNITOS_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Las Lolis_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Los más chetados del condado_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Magda&Friends_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Punto y Coma_ (Clasificatorio)
+1. #382 (#83 de TecNM) _TeamL&S_ (Clasificatorio)
 
 ### 2023-2024
 

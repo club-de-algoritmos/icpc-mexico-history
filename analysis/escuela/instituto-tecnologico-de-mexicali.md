@@ -40,37 +40,37 @@
 
 ### 2005-2006
 
-1. #85 (#11 de TecNM) _Tuberculos_ (Regional)
-1. #85 (#11 de TecNM) _bufaloITM_ (Regional)
-1. #85 (#11 de TecNM) _bufalosCC_ (Regional)
+1. #85 (#12 de TecNM) _Tuberculos_ (Regional)
+1. #85 (#12 de TecNM) _bufaloITM_ (Regional)
+1. #85 (#12 de TecNM) _bufalosCC_ (Regional)
 
 ### 2006-2007
 
 1. #4 (#1 de TecNM) _marikatu_ (Regional)
 1. #22 (#5 de TecNM) _JavaTek_ (Regional)
-1. #86 (#32 de TecNM) _BufalosCC_ (Regional)
+1. #86 (#36 de TecNM) _BufalosCC_ (Regional)
 
 ### 2007-2008
 
 1. #41 (#8 de TecNM) _mani_ (Regional)
 1. #46 (#11 de TecNM) _JUnit_ (Regional)
-1. #61 (#15 de TecNM) _CACHORA'S TEAM_ (Regional)
+1. #61 (#17 de TecNM) _CACHORA'S TEAM_ (Regional)
 
 ### 2008-2009
 
-1. #70 (#11 de TecNM) _J-UNIT RELOADED_ (Regional)
-1. #81 (#16 de TecNM) _CHRONOS_ (Regional)
+1. #70 (#13 de TecNM) _J-UNIT RELOADED_ (Regional)
+1. #81 (#19 de TecNM) _CHRONOS_ (Regional)
 
 ### 2010-2011
 
-1. #156 (#44 de TecNM) _MXL 7.2_ (Regional)
+1. #156 (#48 de TecNM) _MXL 7.2_ (Regional)
 
 ### 2011-2012
 
-1. #72 (#16 de TecNM) _ACM1PTPLZ_ (Regional)
-1. #95 (#27 de TecNM) _MXL 7.2_ (Regional)
-1. #104 (#33 de TecNM) _BIT-ALLS_ (Regional)
-1. #104 (#33 de TecNM) _Los Pitufos_ (Regional)
+1. #72 (#17 de TecNM) _ACM1PTPLZ_ (Regional)
+1. #95 (#28 de TecNM) _MXL 7.2_ (Regional)
+1. #104 (#35 de TecNM) _BIT-ALLS_ (Regional)
+1. #104 (#35 de TecNM) _Los Pitufos_ (Regional)
 
 ### 2012-2013
 
@@ -89,17 +89,17 @@
 
 ### 2021-2022
 
-1. #226 (#36 de TecNM) _C#TecnmMexicali_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Dos norteños y un chilango_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Niños_Buenos_ (Clasificatorio)
+1. #226 (#37 de TecNM) _C#TecnmMexicali_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Dos norteños y un chilango_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Niños_Buenos_ (Clasificatorio)
 
 ### 2022-2023
 
-1. #382 (#82 de TecNM) _BetaMasters_ (Clasificatorio)
-1. #382 (#82 de TecNM) _EquiPaco 1.9_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Kokiri_ (Clasificatorio)
-1. #382 (#82 de TecNM) _MiT_ (Clasificatorio)
-1. #382 (#82 de TecNM) _PyroMochis_ (Clasificatorio)
+1. #382 (#83 de TecNM) _BetaMasters_ (Clasificatorio)
+1. #382 (#83 de TecNM) _EquiPaco 1.9_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Kokiri_ (Clasificatorio)
+1. #382 (#83 de TecNM) _MiT_ (Clasificatorio)
+1. #382 (#83 de TecNM) _PyroMochis_ (Clasificatorio)
 
 ### 2024-2025
 

@@ -15,7 +15,7 @@
 
 ### 2016-2017
 
-1. #121 (#20 de TecNM) _NullPointerException_ (Clasificatorio)
+1. #121 (#22 de TecNM) _NullPointerException_ (Clasificatorio)
 
 
 

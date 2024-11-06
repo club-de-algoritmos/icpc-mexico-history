@@ -28,17 +28,17 @@
 
 ### 2019-2020
 
-1. #382 (#98 de TecNM) _CIO-ITESA_ (Clasificatorio)
-1. #382 (#98 de TecNM) _FOM-ITESA_ (Clasificatorio)
-1. #382 (#98 de TecNM) _GFC-ITESA_ (Clasificatorio)
-1. #382 (#98 de TecNM) _GFP-ITESA_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Lagarto_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Master Hello World!_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Pingüinos Explosivos_ (Clasificatorio)
-1. #382 (#98 de TecNM) _RJP-ITESA_ (Clasificatorio)
-1. #382 (#98 de TecNM) _SIG-ITESA_ (Clasificatorio)
-1. #382 (#98 de TecNM) _TeamBlue_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Troyanos_ (Clasificatorio)
+1. #382 (#100 de TecNM) _CIO-ITESA_ (Clasificatorio)
+1. #382 (#100 de TecNM) _FOM-ITESA_ (Clasificatorio)
+1. #382 (#100 de TecNM) _GFC-ITESA_ (Clasificatorio)
+1. #382 (#100 de TecNM) _GFP-ITESA_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Lagarto_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Master Hello World!_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Pingüinos Explosivos_ (Clasificatorio)
+1. #382 (#100 de TecNM) _RJP-ITESA_ (Clasificatorio)
+1. #382 (#100 de TecNM) _SIG-ITESA_ (Clasificatorio)
+1. #382 (#100 de TecNM) _TeamBlue_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Troyanos_ (Clasificatorio)
 
 ### 2020-2021
 
@@ -48,17 +48,17 @@
 
 ### 2021-2022
 
-1. #226 (#36 de TecNM) _Code Evolution_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Equipo ITESA_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Lagartos Vengadores_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Los Leopoldos_ (Clasificatorio)
-1. #226 (#36 de TecNM) _MasterHelloWorld - Remastered_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Code Evolution_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Equipo ITESA_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Lagartos Vengadores_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Los Leopoldos_ (Clasificatorio)
+1. #226 (#37 de TecNM) _MasterHelloWorld - Remastered_ (Clasificatorio)
 
 ### 2022-2023
 
-1. #382 (#82 de TecNM) _Equipo ITESA_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Los Big-O_ (Clasificatorio)
-1. #382 (#82 de TecNM) _MasterHelloWorld! - Remastered_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Equipo ITESA_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Los Big-O_ (Clasificatorio)
+1. #382 (#83 de TecNM) _MasterHelloWorld! - Remastered_ (Clasificatorio)
 
 ### 2024-2025
 

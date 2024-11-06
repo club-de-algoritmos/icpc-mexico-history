@@ -27,29 +27,29 @@
 
 ### 2019-2020
 
-1. #382 (#98 de TecNM) _Bartolito_ (Clasificatorio)
-1. #382 (#98 de TecNM) _COD_ (Clasificatorio)
-1. #382 (#98 de TecNM) _INGE_ (Clasificatorio)
-1. #382 (#98 de TecNM) _JLE_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Jhovys_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Los Limones_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Los Quintos_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Los marcos_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Master_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Romeros_ (Clasificatorio)
-1. #382 (#98 de TecNM) _We are CSS_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Bartolito_ (Clasificatorio)
+1. #382 (#100 de TecNM) _COD_ (Clasificatorio)
+1. #382 (#100 de TecNM) _INGE_ (Clasificatorio)
+1. #382 (#100 de TecNM) _JLE_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Jhovys_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Los Limones_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Los Quintos_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Los marcos_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Master_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Romeros_ (Clasificatorio)
+1. #382 (#100 de TecNM) _We are CSS_ (Clasificatorio)
 
 ### 2022-2023
 
-1. #382 (#82 de TecNM) _CodeKem_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Computer team_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Dixtractor_ (Clasificatorio)
-1. #382 (#82 de TecNM) _ISICMD_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Los Fatui_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Rocket_ (Clasificatorio)
-1. #382 (#82 de TecNM) _RuntimeError_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Tech Giants_ (Clasificatorio)
-1. #382 (#82 de TecNM) _TheLastUs_ (Clasificatorio)
+1. #382 (#83 de TecNM) _CodeKem_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Computer team_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Dixtractor_ (Clasificatorio)
+1. #382 (#83 de TecNM) _ISICMD_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Los Fatui_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Rocket_ (Clasificatorio)
+1. #382 (#83 de TecNM) _RuntimeError_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Tech Giants_ (Clasificatorio)
+1. #382 (#83 de TecNM) _TheLastUs_ (Clasificatorio)
 
 ### 2023-2024
 

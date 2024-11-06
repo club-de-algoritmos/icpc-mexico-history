@@ -26,17 +26,17 @@
 
 ### 2019-2020
 
-1. #382 (#98 de TecNM) _CIA_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Crusaders._ (Clasificatorio)
-1. #382 (#98 de TecNM) _GALL_ (Clasificatorio)
-1. #382 (#98 de TecNM) _LOS OTAKUS_ (Clasificatorio)
-1. #382 (#98 de TecNM) _LOS PUNTO Y COMA _ (Clasificatorio)
-1. #382 (#98 de TecNM) _LOS TOROS_ (Clasificatorio)
-1. #382 (#98 de TecNM) _LOS VENGADORES_ (Clasificatorio)
-1. #382 (#98 de TecNM) _LOSPROS_ (Clasificatorio)
-1. #382 (#98 de TecNM) _MR ROBOT_ (Clasificatorio)
-1. #382 (#98 de TecNM) _NISSI_ (Clasificatorio)
-1. #382 (#98 de TecNM) _PAN DE MUERTO_ (Clasificatorio)
+1. #382 (#100 de TecNM) _CIA_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Crusaders._ (Clasificatorio)
+1. #382 (#100 de TecNM) _GALL_ (Clasificatorio)
+1. #382 (#100 de TecNM) _LOS OTAKUS_ (Clasificatorio)
+1. #382 (#100 de TecNM) _LOS PUNTO Y COMA _ (Clasificatorio)
+1. #382 (#100 de TecNM) _LOS TOROS_ (Clasificatorio)
+1. #382 (#100 de TecNM) _LOS VENGADORES_ (Clasificatorio)
+1. #382 (#100 de TecNM) _LOSPROS_ (Clasificatorio)
+1. #382 (#100 de TecNM) _MR ROBOT_ (Clasificatorio)
+1. #382 (#100 de TecNM) _NISSI_ (Clasificatorio)
+1. #382 (#100 de TecNM) _PAN DE MUERTO_ (Clasificatorio)
 
 ### 2020-2021
 
@@ -45,7 +45,7 @@
 
 ### 2022-2023
 
-1. #382 (#82 de TecNM) _Albatros Iguala_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Albatros Iguala_ (Clasificatorio)
 
 
 

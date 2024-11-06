@@ -33,9 +33,9 @@
 
 ### 2014-2015
 
-1. #110 (#16 de TecNM) _Las Teemos_ (Clasificatorio)
-1. #139 (#29 de TecNM) _ITLeón-CNC_ (Clasificatorio)
-1. #191 (#46 de TecNM) _C--_ (Clasificatorio)
+1. #110 (#18 de TecNM) _Las Teemos_ (Clasificatorio)
+1. #139 (#31 de TecNM) _ITLeón-CNC_ (Clasificatorio)
+1. #191 (#50 de TecNM) _C--_ (Clasificatorio)
 
 ### 2015-2016
 
@@ -45,14 +45,14 @@
 
 ### 2016-2017
 
-1. #70 (#10 de TecNM) _ITLeón_1_ (Regional)
-1. #121 (#20 de TecNM) _El_equipo_ (Clasificatorio)
-1. #121 (#20 de TecNM) _Elk Cloner_ (Clasificatorio)
-1. #121 (#20 de TecNM) _ITLeon_2_ (Clasificatorio)
-1. #121 (#20 de TecNM) _Include-Stdio_ (Clasificatorio)
-1. #121 (#20 de TecNM) _Include-String_ (Clasificatorio)
-1. #121 (#20 de TecNM) _JDK_ (Clasificatorio)
-1. #121 (#20 de TecNM) _Multivac_ (Clasificatorio)
+1. #70 (#11 de TecNM) _ITLeón_1_ (Regional)
+1. #121 (#22 de TecNM) _El_equipo_ (Clasificatorio)
+1. #121 (#22 de TecNM) _Elk Cloner_ (Clasificatorio)
+1. #121 (#22 de TecNM) _ITLeon_2_ (Clasificatorio)
+1. #121 (#22 de TecNM) _Include-Stdio_ (Clasificatorio)
+1. #121 (#22 de TecNM) _Include-String_ (Clasificatorio)
+1. #121 (#22 de TecNM) _JDK_ (Clasificatorio)
+1. #121 (#22 de TecNM) _Multivac_ (Clasificatorio)
 
 ### 2017-2018
 
@@ -73,8 +73,8 @@
 
 ### 2019-2020
 
-1. #382 (#98 de TecNM) _MIAUPE_ (Clasificatorio)
-1. #382 (#98 de TecNM) _VIPOC SYB_ (Clasificatorio)
+1. #382 (#100 de TecNM) _MIAUPE_ (Clasificatorio)
+1. #382 (#100 de TecNM) _VIPOC SYB_ (Clasificatorio)
 
 ### 2020-2021
 
@@ -87,13 +87,13 @@
 ### 2021-2022
 
 1. #153 (#14 de TecNM) _8bit_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Oldiza_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Spartans_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Oldiza_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Spartans_ (Clasificatorio)
 
 ### 2022-2023
 
-1. #382 (#82 de TecNM) _MOJ_SYS_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Tec_Lions_ (Clasificatorio)
+1. #382 (#83 de TecNM) _MOJ_SYS_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Tec_Lions_ (Clasificatorio)
 
 ### 2024-2025
 

@@ -28,18 +28,18 @@
 
 ### 2019-2020
 
-1. #382 (#98 de TecNM) _CompoundBread_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Procode_ (Clasificatorio)
+1. #382 (#100 de TecNM) _CompoundBread_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Procode_ (Clasificatorio)
 
 ### 2021-2022
 
-1. #226 (#36 de TecNM) _BynaryBeast1_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Tecno_Code_ (Clasificatorio)
+1. #226 (#37 de TecNM) _BynaryBeast1_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Tecno_Code_ (Clasificatorio)
 
 ### 2022-2023
 
-1. #382 (#82 de TecNM) _COMIHACKS_ (Clasificatorio)
-1. #382 (#82 de TecNM) _SERVERS SQUAD_ (Clasificatorio)
+1. #382 (#83 de TecNM) _COMIHACKS_ (Clasificatorio)
+1. #382 (#83 de TecNM) _SERVERS SQUAD_ (Clasificatorio)
 
 ### 2023-2024
 

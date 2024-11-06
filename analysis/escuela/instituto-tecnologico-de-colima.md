@@ -20,7 +20,7 @@
 
 ### 2019-2020
 
-1. #382 (#98 de TecNM) _Javeros-ITCol_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Javeros-ITCol_ (Clasificatorio)
 
 ### 2020-2021
 
@@ -28,8 +28,8 @@
 
 ### 2021-2022
 
-1. #226 (#36 de TecNM) _Javeros 3.0_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Tec de Colima_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Javeros 3.0_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Tec de Colima_ (Clasificatorio)
 
 
 

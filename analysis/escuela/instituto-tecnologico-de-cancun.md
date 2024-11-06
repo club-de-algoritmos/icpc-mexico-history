@@ -32,17 +32,17 @@
 
 ### 2021-2022
 
-1. #226 (#36 de TecNM) _Tucanes Cancún_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Tucanes Cancún_ (Clasificatorio)
 
 ### 2022-2023
 
-1. #382 (#82 de TecNM) _Quicksort_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Tucanding_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Tucanes-ITC_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Tucanes1 Cancún_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Tucanes2 Cancún_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Tucanes3 Cancún_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Tucanes4 Cancún_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Quicksort_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Tucanding_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Tucanes-ITC_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Tucanes1 Cancún_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Tucanes2 Cancún_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Tucanes3 Cancún_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Tucanes4 Cancún_ (Clasificatorio)
 
 ### 2023-2024
 

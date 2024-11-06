@@ -24,10 +24,10 @@
 
 ### 2019-2020
 
-1. #382 (#98 de TecNM) _LOS GUAPOS_ (Clasificatorio)
-1. #382 (#98 de TecNM) _LOS JAROCHOS_ (Clasificatorio)
-1. #382 (#98 de TecNM) _LOS PRIMERISOS_ (Clasificatorio)
-1. #382 (#98 de TecNM) _TIMSOFT TEC CARRANZA _ (Clasificatorio)
+1. #382 (#100 de TecNM) _LOS GUAPOS_ (Clasificatorio)
+1. #382 (#100 de TecNM) _LOS JAROCHOS_ (Clasificatorio)
+1. #382 (#100 de TecNM) _LOS PRIMERISOS_ (Clasificatorio)
+1. #382 (#100 de TecNM) _TIMSOFT TEC CARRANZA _ (Clasificatorio)
 
 ### 2020-2021
 
@@ -37,7 +37,7 @@
 
 ### 2022-2023
 
-1. #382 (#82 de TecNM) _TRIO-ARE_ (Clasificatorio)
+1. #382 (#83 de TecNM) _TRIO-ARE_ (Clasificatorio)
 
 
 

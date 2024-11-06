@@ -17,9 +17,9 @@
 
 ### 2022-2023
 
-1. #382 (#82 de TecNM) _ORDERo66_ (Clasificatorio)
-1. #382 (#82 de TecNM) _TARGARYEN_ (Clasificatorio)
-1. #382 (#82 de TecNM) _WINTERFELL_ (Clasificatorio)
+1. #382 (#83 de TecNM) _ORDERo66_ (Clasificatorio)
+1. #382 (#83 de TecNM) _TARGARYEN_ (Clasificatorio)
+1. #382 (#83 de TecNM) _WINTERFELL_ (Clasificatorio)
 
 
 

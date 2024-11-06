@@ -41,13 +41,13 @@
 
 ### 2004-2005
 
-1. #88 (#21 de TecNM) _Jaguares_ (Regional)
-1. #90 (#22 de TecNM) _Jaguares2_ (Regional)
+1. #88 (#24 de TecNM) _Jaguares_ (Regional)
+1. #90 (#25 de TecNM) _Jaguares2_ (Regional)
 
 ### 2005-2006
 
-1. #85 (#11 de TecNM) _Jaguares I_ (Regional)
-1. #85 (#11 de TecNM) _Jaguares II_ (Regional)
+1. #85 (#12 de TecNM) _Jaguares I_ (Regional)
+1. #85 (#12 de TecNM) _Jaguares II_ (Regional)
 
 ### 2006-2007
 
@@ -55,25 +55,25 @@
 
 ### 2007-2008
 
-1. #61 (#15 de TecNM) _Jaguares_ (Regional)
+1. #61 (#17 de TecNM) _Jaguares_ (Regional)
 
 ### 2010-2011
 
-1. #156 (#44 de TecNM) _Jaguares 1_ (Regional)
-1. #156 (#44 de TecNM) _Jaguares 2_ (Regional)
-1. #156 (#44 de TecNM) _Jaguares 3_ (Regional)
+1. #156 (#48 de TecNM) _Jaguares 1_ (Regional)
+1. #156 (#48 de TecNM) _Jaguares 2_ (Regional)
+1. #156 (#48 de TecNM) _Jaguares 3_ (Regional)
 
 ### 2011-2012
 
-1. #104 (#33 de TecNM) _Jaguar1_ (Regional)
-1. #104 (#33 de TecNM) _Jaguar2_ (Regional)
-1. #104 (#33 de TecNM) _jaguar4_ (Regional)
+1. #104 (#35 de TecNM) _Jaguar1_ (Regional)
+1. #104 (#35 de TecNM) _Jaguar2_ (Regional)
+1. #104 (#35 de TecNM) _jaguar4_ (Regional)
 
 ### 2012-2013
 
 1. #79 (#30 de TecNM) _Jaguares 2_ (Regional)
 1. #86 (#32 de TecNM) _Jaguares 1_ (Regional)
-1. #126 (#47 de TecNM) _Jaguares 3_ (Regional)
+1. #126 (#48 de TecNM) _Jaguares 3_ (Regional)
 
 ### 2013-2014
 
@@ -83,11 +83,11 @@
 
 ### 2014-2015
 
-1. #58 (#11 de TecNM) _Last_Generation_ (Regional)
-1. #128 (#23 de TecNM) _Uprising_ (Clasificatorio)
-1. #138 (#28 de TecNM) _LastGeneration_ (Clasificatorio)
-1. #154 (#37 de TecNM) _PowerGirls_ (Clasificatorio)
-1. #204 (#52 de TecNM) _SystemTime_ (Clasificatorio)
+1. #58 (#12 de TecNM) _Last_Generation_ (Regional)
+1. #128 (#25 de TecNM) _Uprising_ (Clasificatorio)
+1. #138 (#30 de TecNM) _LastGeneration_ (Clasificatorio)
+1. #154 (#39 de TecNM) _PowerGirls_ (Clasificatorio)
+1. #204 (#57 de TecNM) _SystemTime_ (Clasificatorio)
 
 ### 2015-2016
 
@@ -101,13 +101,13 @@
 
 ### 2016-2017
 
-1. #47 (#7 de TecNM) _LoboWar_ (Regional)
-1. #121 (#20 de TecNM) _BadBoys_ (Clasificatorio)
-1. #121 (#20 de TecNM) _Badrock Team_ (Clasificatorio)
-1. #121 (#20 de TecNM) _BitCoder_ (Clasificatorio)
-1. #121 (#20 de TecNM) _CODE_KIL_ (Clasificatorio)
-1. #121 (#20 de TecNM) _COSMOS_ (Clasificatorio)
-1. #121 (#20 de TecNM) _JAGUARES_TEC_ (Clasificatorio)
+1. #47 (#8 de TecNM) _LoboWar_ (Regional)
+1. #121 (#22 de TecNM) _BadBoys_ (Clasificatorio)
+1. #121 (#22 de TecNM) _Badrock Team_ (Clasificatorio)
+1. #121 (#22 de TecNM) _BitCoder_ (Clasificatorio)
+1. #121 (#22 de TecNM) _CODE_KIL_ (Clasificatorio)
+1. #121 (#22 de TecNM) _COSMOS_ (Clasificatorio)
+1. #121 (#22 de TecNM) _JAGUARES_TEC_ (Clasificatorio)
 
 ### 2017-2018
 
@@ -124,16 +124,16 @@
 
 ### 2019-2020
 
-1. #299 (#62 de TecNM) _Pass Of Death_ (Clasificatorio)
-1. #315 (#70 de TecNM) _RockStar_nsfw_ (Clasificatorio)
-1. #329 (#75 de TecNM) _Code_Rookies_ (Clasificatorio)
-1. #356 (#82 de TecNM) _El TRI_ (Clasificatorio)
-1. #367 (#90 de TecNM) _Jaguares++_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Anubis_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Chules Team_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Jaguares02_ (Clasificatorio)
-1. #382 (#98 de TecNM) _JyJ_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Team PAPUS_ (Clasificatorio)
+1. #299 (#63 de TecNM) _Pass Of Death_ (Clasificatorio)
+1. #315 (#71 de TecNM) _RockStar_nsfw_ (Clasificatorio)
+1. #329 (#76 de TecNM) _Code_Rookies_ (Clasificatorio)
+1. #356 (#83 de TecNM) _El TRI_ (Clasificatorio)
+1. #367 (#91 de TecNM) _Jaguares++_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Anubis_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Chules Team_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Jaguares02_ (Clasificatorio)
+1. #382 (#100 de TecNM) _JyJ_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Team PAPUS_ (Clasificatorio)
 
 ### 2020-2021
 
@@ -147,36 +147,36 @@
 
 ### 2021-2022
 
-1. #226 (#36 de TecNM) _Balam Code_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Binaries_ (Clasificatorio)
-1. #226 (#36 de TecNM) _BlackJaguars_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Desoxirribonucleico_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Inter Data_ (Clasificatorio)
-1. #226 (#36 de TecNM) _JaguarSys_ (Clasificatorio)
-1. #226 (#36 de TecNM) _La resistencia_ (Clasificatorio)
-1. #226 (#36 de TecNM) _LocosCODE_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Los mas Capos_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Noods_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Null code_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Team404_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Void Code_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Balam Code_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Binaries_ (Clasificatorio)
+1. #226 (#37 de TecNM) _BlackJaguars_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Desoxirribonucleico_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Inter Data_ (Clasificatorio)
+1. #226 (#37 de TecNM) _JaguarSys_ (Clasificatorio)
+1. #226 (#37 de TecNM) _La resistencia_ (Clasificatorio)
+1. #226 (#37 de TecNM) _LocosCODE_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Los mas Capos_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Noods_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Null code_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Team404_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Void Code_ (Clasificatorio)
 
 ### 2022-2023
 
-1. #382 (#82 de TecNM) _Bunkers_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Code Rookies_ (Clasificatorio)
-1. #382 (#82 de TecNM) _ElonMusk Discipulos_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Fenix_ (Clasificatorio)
-1. #382 (#82 de TecNM) _JaguarSys_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Los 3 mosqueteros_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Los Tipos Enteros_ (Clasificatorio)
-1. #382 (#82 de TecNM) _PinguiLovers_ (Clasificatorio)
-1. #382 (#82 de TecNM) _SisHoGuaYa_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Team Blue_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Team Jaguar_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Team Tics_ (Clasificatorio)
-1. #382 (#82 de TecNM) _The pixies_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Warriors_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Bunkers_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Code Rookies_ (Clasificatorio)
+1. #382 (#83 de TecNM) _ElonMusk Discipulos_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Fenix_ (Clasificatorio)
+1. #382 (#83 de TecNM) _JaguarSys_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Los 3 mosqueteros_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Los Tipos Enteros_ (Clasificatorio)
+1. #382 (#83 de TecNM) _PinguiLovers_ (Clasificatorio)
+1. #382 (#83 de TecNM) _SisHoGuaYa_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Team Blue_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Team Jaguar_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Team Tics_ (Clasificatorio)
+1. #382 (#83 de TecNM) _The pixies_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Warriors_ (Clasificatorio)
 
 ### 2024-2025
 

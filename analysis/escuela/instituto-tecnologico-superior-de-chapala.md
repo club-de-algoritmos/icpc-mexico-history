@@ -26,11 +26,11 @@
 
 ### 2011-2012
 
-1. #104 (#33 de TecNM) _Chapala 3_ (Regional)
+1. #104 (#35 de TecNM) _Chapala 3_ (Regional)
 
 ### 2012-2013
 
-1. #134 (#53 de TecNM) _Los Truchas_ (Regional)
+1. #134 (#55 de TecNM) _Los Truchas_ (Regional)
 
 ### 2017-2018
 
@@ -42,8 +42,8 @@
 
 ### 2019-2020
 
-1. #382 (#98 de TecNM) _Chapala 1_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Chapala 2_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Chapala 1_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Chapala 2_ (Clasificatorio)
 
 
 

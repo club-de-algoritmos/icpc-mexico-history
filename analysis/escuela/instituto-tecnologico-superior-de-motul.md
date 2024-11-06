@@ -22,12 +22,12 @@
 
 ### 2019-2020
 
-1. #382 (#98 de TecNM) _Felinos6_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Felinos8_ (Clasificatorio)
-1. #382 (#98 de TecNM) _felinos 1_ (Clasificatorio)
-1. #382 (#98 de TecNM) _felinos 2_ (Clasificatorio)
-1. #382 (#98 de TecNM) _felinos 3_ (Clasificatorio)
-1. #382 (#98 de TecNM) _felinos 4_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Felinos6_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Felinos8_ (Clasificatorio)
+1. #382 (#100 de TecNM) _felinos 1_ (Clasificatorio)
+1. #382 (#100 de TecNM) _felinos 2_ (Clasificatorio)
+1. #382 (#100 de TecNM) _felinos 3_ (Clasificatorio)
+1. #382 (#100 de TecNM) _felinos 4_ (Clasificatorio)
 
 ### 2020-2021
 

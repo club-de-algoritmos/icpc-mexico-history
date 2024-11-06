@@ -24,9 +24,9 @@
 
 ### 2022-2023
 
-1. #382 (#82 de TecNM) _Team Venados _ (Clasificatorio)
-1. #382 (#82 de TecNM) _VenadosMis_ (Clasificatorio)
-1. #382 (#82 de TecNM) _netProg_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Team Venados _ (Clasificatorio)
+1. #382 (#83 de TecNM) _VenadosMis_ (Clasificatorio)
+1. #382 (#83 de TecNM) _netProg_ (Clasificatorio)
 
 ### 2024-2025
 

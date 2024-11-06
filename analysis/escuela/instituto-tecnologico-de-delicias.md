@@ -26,19 +26,19 @@
 
 ### 2019-2020
 
-1. #382 (#98 de TecNM) _Adrián y los Joseses_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Awake_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Code breakers_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Los Campers_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Los Code Ranch_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Los Foraneos_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Los Indecisos1_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Los Picateclas_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Los chilaquiles_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Natus Vincere_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Tacos de Perro_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Undercode_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Uno_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Adrián y los Joseses_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Awake_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Code breakers_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Los Campers_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Los Code Ranch_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Los Foraneos_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Los Indecisos1_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Los Picateclas_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Los chilaquiles_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Natus Vincere_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Tacos de Perro_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Undercode_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Uno_ (Clasificatorio)
 
 ### 2020-2021
 
@@ -56,9 +56,9 @@
 
 ### 2021-2022
 
-1. #226 (#36 de TecNM) _CTR_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Equipo C_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Los jalapeños_ (Clasificatorio)
+1. #226 (#37 de TecNM) _CTR_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Equipo C_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Los jalapeños_ (Clasificatorio)
 
 
 

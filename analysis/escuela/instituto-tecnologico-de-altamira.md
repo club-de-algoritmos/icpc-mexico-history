@@ -18,12 +18,12 @@
 
 ### 2018-2019
 
-1. #395 (#159 de TecNM) _Potros_ (Clasificatorio)
+1. #395 (#160 de TecNM) _Potros_ (Clasificatorio)
 
 ### 2019-2020
 
 1. #235 (#43 de TecNM) _TCP_ (Clasificatorio)
-1. #301 (#63 de TecNM) _Si no gano me reprueban_ (Clasificatorio)
+1. #301 (#64 de TecNM) _Si no gano me reprueban_ (Clasificatorio)
 
 
 

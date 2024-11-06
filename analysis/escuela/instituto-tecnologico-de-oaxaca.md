@@ -27,16 +27,16 @@
 
 ### 2019-2020
 
-1. #382 (#98 de TecNM) _Antler_ (Clasificatorio)
-1. #382 (#98 de TecNM) _CAJ-ITO_ (Clasificatorio)
-1. #382 (#98 de TecNM) _KEDM Team_ (Clasificatorio)
-1. #382 (#98 de TecNM) _MAGG_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Team Dinamita de Oaxaca_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Antler_ (Clasificatorio)
+1. #382 (#100 de TecNM) _CAJ-ITO_ (Clasificatorio)
+1. #382 (#100 de TecNM) _KEDM Team_ (Clasificatorio)
+1. #382 (#100 de TecNM) _MAGG_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Team Dinamita de Oaxaca_ (Clasificatorio)
 
 ### 2022-2023
 
-1. #382 (#82 de TecNM) _FuerzITO_ (Clasificatorio)
-1. #382 (#82 de TecNM) _The Warriors_ (Clasificatorio)
+1. #382 (#83 de TecNM) _FuerzITO_ (Clasificatorio)
+1. #382 (#83 de TecNM) _The Warriors_ (Clasificatorio)
 
 ### 2023-2024
 

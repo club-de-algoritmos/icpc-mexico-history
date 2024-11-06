@@ -42,18 +42,18 @@
 
 ### 2003-2004
 
-1. #41 (#9 de TecNM) _ITSP-1_ (Regional)
-1. #41 (#9 de TecNM) _ITSP2_ (Regional)
+1. #41 (#10 de TecNM) _ITSP-1_ (Regional)
+1. #41 (#10 de TecNM) _ITSP2_ (Regional)
 
 ### 2004-2005
 
-1. #54 (#10 de TecNM) _ITSPánuco 1_ (Regional)
-1. #90 (#22 de TecNM) _ITSPánuco 2_ (Regional)
+1. #54 (#11 de TecNM) _ITSPánuco 1_ (Regional)
+1. #90 (#25 de TecNM) _ITSPánuco 2_ (Regional)
 
 ### 2005-2006
 
 1. #37 (#3 de TecNM) _Hackers_ (Regional)
-1. #79 (#10 de TecNM) _puntero_ (Regional)
+1. #79 (#11 de TecNM) _puntero_ (Regional)
 
 ### 2006-2007
 
@@ -61,12 +61,12 @@
 
 ### 2007-2008
 
-1. #61 (#15 de TecNM) _ITSPanuco_ (Regional)
-1. #61 (#15 de TecNM) _The JMV_ (Regional)
+1. #61 (#17 de TecNM) _ITSPanuco_ (Regional)
+1. #61 (#17 de TecNM) _The JMV_ (Regional)
 
 ### 2011-2012
 
-1. #104 (#33 de TecNM) _ITSPANUCO_ (Regional)
+1. #104 (#35 de TecNM) _ITSPANUCO_ (Regional)
 
 ### 2012-2013
 
@@ -86,14 +86,14 @@
 
 ### 2021-2022
 
-1. #226 (#36 de TecNM) _Los Escandalosos del Tecsito_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Los Escandalosos del Tecsito_ (Clasificatorio)
 
 ### 2022-2023
 
-1. #382 (#82 de TecNM) _Breakers_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Los caimancitos_ (Clasificatorio)
-1. #382 (#82 de TecNM) _TECNO BOYS_ (Clasificatorio)
-1. #382 (#82 de TecNM) _TECNO CAIMANES_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Breakers_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Los caimancitos_ (Clasificatorio)
+1. #382 (#83 de TecNM) _TECNO BOYS_ (Clasificatorio)
+1. #382 (#83 de TecNM) _TECNO CAIMANES_ (Clasificatorio)
 
 
 

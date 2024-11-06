@@ -33,20 +33,20 @@
 
 ### 2008-2009
 
-1. #101 (#26 de TecNM) _El Grullo1_ (Regional)
-1. #101 (#26 de TecNM) _El Grullo2_ (Regional)
+1. #101 (#29 de TecNM) _El Grullo1_ (Regional)
+1. #101 (#29 de TecNM) _El Grullo2_ (Regional)
 
 ### 2009-2010
 
-1. #116 (#31 de TecNM) _TecGrullo_ (Regional)
+1. #116 (#34 de TecNM) _TecGrullo_ (Regional)
 
 ### 2010-2011
 
-1. #156 (#44 de TecNM) _El Grullo_ (Regional)
+1. #156 (#48 de TecNM) _El Grullo_ (Regional)
 
 ### 2011-2012
 
-1. #104 (#33 de TecNM) _JOVAvsJAVA_ (Regional)
+1. #104 (#35 de TecNM) _JOVAvsJAVA_ (Regional)
 
 ### 2014-2015
 
@@ -61,9 +61,9 @@
 
 ### 2016-2017
 
-1. #121 (#20 de TecNM) _TecGrullo2_ (Clasificatorio)
-1. #121 (#20 de TecNM) _TecGrullo2_2_ (Clasificatorio)
-1. #121 (#20 de TecNM) _TecGrullo3_ (Clasificatorio)
+1. #121 (#22 de TecNM) _TecGrullo2_ (Clasificatorio)
+1. #121 (#22 de TecNM) _TecGrullo2_2_ (Clasificatorio)
+1. #121 (#22 de TecNM) _TecGrullo3_ (Clasificatorio)
 
 ### 2017-2018
 
@@ -82,10 +82,10 @@
 
 ### 2019-2020
 
-1. #369 (#92 de TecNM) _TecMM Grullo 2_ (Clasificatorio)
-1. #382 (#98 de TecNM) _TecMM Grullo 1_ (Clasificatorio)
-1. #382 (#98 de TecNM) _TecMM Grullo 3_ (Clasificatorio)
-1. #382 (#98 de TecNM) _TecMM Grullo 4_ (Clasificatorio)
+1. #369 (#93 de TecNM) _TecMM Grullo 2_ (Clasificatorio)
+1. #382 (#100 de TecNM) _TecMM Grullo 1_ (Clasificatorio)
+1. #382 (#100 de TecNM) _TecMM Grullo 3_ (Clasificatorio)
+1. #382 (#100 de TecNM) _TecMM Grullo 4_ (Clasificatorio)
 
 
 

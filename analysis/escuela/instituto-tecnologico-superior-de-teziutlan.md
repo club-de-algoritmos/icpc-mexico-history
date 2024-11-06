@@ -28,18 +28,18 @@
 
 ### 2019-2020
 
-1. #382 (#98 de TecNM) _AGEX_ (Clasificatorio)
-1. #382 (#98 de TecNM) _BEL++_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Euraxia_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Good Programmers_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Little Raccon Developer_ (Clasificatorio)
-1. #382 (#98 de TecNM) _MIMSystems_ (Clasificatorio)
-1. #382 (#98 de TecNM) _P a la quinta_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Progamers_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Royal Programing_ (Clasificatorio)
-1. #382 (#98 de TecNM) _TecDevelopers_ (Clasificatorio)
-1. #382 (#98 de TecNM) _The GAJ-Tec Team_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Triple_JJJ_ (Clasificatorio)
+1. #382 (#100 de TecNM) _AGEX_ (Clasificatorio)
+1. #382 (#100 de TecNM) _BEL++_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Euraxia_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Good Programmers_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Little Raccon Developer_ (Clasificatorio)
+1. #382 (#100 de TecNM) _MIMSystems_ (Clasificatorio)
+1. #382 (#100 de TecNM) _P a la quinta_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Progamers_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Royal Programing_ (Clasificatorio)
+1. #382 (#100 de TecNM) _TecDevelopers_ (Clasificatorio)
+1. #382 (#100 de TecNM) _The GAJ-Tec Team_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Triple_JJJ_ (Clasificatorio)
 
 ### 2020-2021
 
@@ -52,22 +52,22 @@
 
 ### 2021-2022
 
-1. #226 (#36 de TecNM) _GP-3_ (Clasificatorio)
-1. #226 (#36 de TecNM) _MapachesWeb_ (Clasificatorio)
-1. #226 (#36 de TecNM) _OlimpicGods_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Residentes21_ (Clasificatorio)
-1. #226 (#36 de TecNM) _SS-Pro_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Team Raccoon_ (Clasificatorio)
+1. #226 (#37 de TecNM) _GP-3_ (Clasificatorio)
+1. #226 (#37 de TecNM) _MapachesWeb_ (Clasificatorio)
+1. #226 (#37 de TecNM) _OlimpicGods_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Residentes21_ (Clasificatorio)
+1. #226 (#37 de TecNM) _SS-Pro_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Team Raccoon_ (Clasificatorio)
 
 ### 2022-2023
 
-1. #382 (#82 de TecNM) _CODEXX_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Dragons_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Gatitos Team_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Los Suaves_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Sea Slug_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Siempre Negativos_ (Clasificatorio)
-1. #382 (#82 de TecNM) _TecnoMapaches_ (Clasificatorio)
+1. #382 (#83 de TecNM) _CODEXX_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Dragons_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Gatitos Team_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Los Suaves_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Sea Slug_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Siempre Negativos_ (Clasificatorio)
+1. #382 (#83 de TecNM) _TecnoMapaches_ (Clasificatorio)
 
 ### 2024-2025
 

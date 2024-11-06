@@ -29,13 +29,13 @@
 
 ### 2016-2017
 
-1. #121 (#20 de TecNM) _FELKA_ (Clasificatorio)
-1. #121 (#20 de TecNM) _Gauss Seidel_ (Clasificatorio)
-1. #121 (#20 de TecNM) _MetaSoft_ (Clasificatorio)
-1. #121 (#20 de TecNM) _PowerSystem_ (Clasificatorio)
-1. #121 (#20 de TecNM) _SnakeCode_ (Clasificatorio)
-1. #121 (#20 de TecNM) _The Force_ (Clasificatorio)
-1. #121 (#20 de TecNM) _The walkers_ (Clasificatorio)
+1. #121 (#22 de TecNM) _FELKA_ (Clasificatorio)
+1. #121 (#22 de TecNM) _Gauss Seidel_ (Clasificatorio)
+1. #121 (#22 de TecNM) _MetaSoft_ (Clasificatorio)
+1. #121 (#22 de TecNM) _PowerSystem_ (Clasificatorio)
+1. #121 (#22 de TecNM) _SnakeCode_ (Clasificatorio)
+1. #121 (#22 de TecNM) _The Force_ (Clasificatorio)
+1. #121 (#22 de TecNM) _The walkers_ (Clasificatorio)
 
 ### 2017-2018
 
@@ -47,9 +47,9 @@
 
 ### 2019-2020
 
-1. #382 (#98 de TecNM) _KGT_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Mazapan 2.0_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Scorpion_ (Clasificatorio)
+1. #382 (#100 de TecNM) _KGT_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Mazapan 2.0_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Scorpion_ (Clasificatorio)
 
 ### 2020-2021
 
@@ -57,8 +57,8 @@
 
 ### 2021-2022
 
-1. #226 (#36 de TecNM) _División de Casita_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Los programmers chicharroneros_ (Clasificatorio)
+1. #226 (#37 de TecNM) _División de Casita_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Los programmers chicharroneros_ (Clasificatorio)
 
 
 

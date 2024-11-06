@@ -36,7 +36,7 @@
 
 ### 2003-2004
 
-1. #41 (#9 de TecNM) _ITParral_ (Regional)
+1. #41 (#10 de TecNM) _ITParral_ (Regional)
 
 ### 2004-2005
 
@@ -44,7 +44,7 @@
 
 ### 2005-2006
 
-1. #85 (#11 de TecNM) _ITPARRAL_ (Regional)
+1. #85 (#12 de TecNM) _ITPARRAL_ (Regional)
 
 ### 2006-2007
 
@@ -56,20 +56,20 @@
 
 ### 2008-2009
 
-1. #101 (#26 de TecNM) _Omega 2012_ (Regional)
+1. #101 (#29 de TecNM) _Omega 2012_ (Regional)
 
 ### 2010-2011
 
-1. #156 (#44 de TecNM) _Los Osados_ (Regional)
+1. #156 (#48 de TecNM) _Los Osados_ (Regional)
 
 ### 2019-2020
 
 1. #255 (#47 de TecNM) _Espartanos_ (Clasificatorio)
-1. #382 (#98 de TecNM) _ALT+F4_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Codigo de Rehuso_ (Clasificatorio)
-1. #382 (#98 de TecNM) _DE COMPUTO 3.0_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Fenixoft_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Helljumpers [maruchan]_ (Clasificatorio)
+1. #382 (#100 de TecNM) _ALT+F4_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Codigo de Rehuso_ (Clasificatorio)
+1. #382 (#100 de TecNM) _DE COMPUTO 3.0_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Fenixoft_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Helljumpers [maruchan]_ (Clasificatorio)
 
 ### 2020-2021
 

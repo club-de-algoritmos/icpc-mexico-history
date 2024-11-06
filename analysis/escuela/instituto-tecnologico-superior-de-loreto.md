@@ -28,9 +28,9 @@
 
 ### 2005-2006
 
-1. #85 (#11 de TecNM) _ZORRO1_ (Regional)
-1. #85 (#11 de TecNM) _ZORRO2_ (Regional)
-1. #85 (#11 de TecNM) _ZORRO3_ (Regional)
+1. #85 (#12 de TecNM) _ZORRO1_ (Regional)
+1. #85 (#12 de TecNM) _ZORRO2_ (Regional)
+1. #85 (#12 de TecNM) _ZORRO3_ (Regional)
 
 ### 2006-2007
 
@@ -40,7 +40,7 @@
 
 ### 2008-2009
 
-1. #101 (#26 de TecNM) _Halcones_ (Regional)
+1. #101 (#29 de TecNM) _Halcones_ (Regional)
 
 ### 2012-2013
 

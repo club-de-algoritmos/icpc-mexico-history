@@ -19,13 +19,13 @@
 
 ### 2019-2020
 
-1. #382 (#98 de TecNM) _LTS_ (Clasificatorio)
+1. #382 (#100 de TecNM) _LTS_ (Clasificatorio)
 
 ### 2022-2023
 
-1. #382 (#82 de TecNM) _CASTORES 1_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Castores4_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Jufadi-Mex_ (Clasificatorio)
+1. #382 (#83 de TecNM) _CASTORES 1_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Castores4_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Jufadi-Mex_ (Clasificatorio)
 
 
 

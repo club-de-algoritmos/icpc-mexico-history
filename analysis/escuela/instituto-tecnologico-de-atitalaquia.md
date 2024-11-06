@@ -19,7 +19,7 @@
 
 ### 2022-2023
 
-1. #382 (#82 de TecNM) _AjoloteTeam_ (Clasificatorio)
+1. #382 (#83 de TecNM) _AjoloteTeam_ (Clasificatorio)
 
 ### 2024-2025
 

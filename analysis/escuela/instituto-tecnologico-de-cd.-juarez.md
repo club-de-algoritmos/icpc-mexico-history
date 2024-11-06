@@ -29,15 +29,15 @@
 
 ### 2019-2020
 
-1. #382 (#98 de TecNM) _2+1_ (Clasificatorio)
-1. #382 (#98 de TecNM) _3BT_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Astoreth_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Brigada 0_ (Clasificatorio)
-1. #382 (#98 de TecNM) _CAMPUSII_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Dream Team_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Equipo 3_ (Clasificatorio)
-1. #382 (#98 de TecNM) _NERV_ (Clasificatorio)
-1. #382 (#98 de TecNM) _SUMARI_ (Clasificatorio)
+1. #382 (#100 de TecNM) _2+1_ (Clasificatorio)
+1. #382 (#100 de TecNM) _3BT_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Astoreth_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Brigada 0_ (Clasificatorio)
+1. #382 (#100 de TecNM) _CAMPUSII_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Dream Team_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Equipo 3_ (Clasificatorio)
+1. #382 (#100 de TecNM) _NERV_ (Clasificatorio)
+1. #382 (#100 de TecNM) _SUMARI_ (Clasificatorio)
 
 ### 2020-2021
 
@@ -45,18 +45,18 @@
 
 ### 2021-2022
 
-1. #226 (#36 de TecNM) _ITCJC2_ (Clasificatorio)
+1. #226 (#37 de TecNM) _ITCJC2_ (Clasificatorio)
 
 ### 2022-2023
 
-1. #178 (#31 de TecNM) _TecnoTeam_ (Clasificatorio)
-1. #382 (#82 de TecNM) _ALA_ (Clasificatorio)
-1. #382 (#82 de TecNM) _El Trio Mortal_ (Clasificatorio)
-1. #382 (#82 de TecNM) _GMT_ (Clasificatorio)
-1. #382 (#82 de TecNM) _MJ2_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Net.Beaners.JV_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Red Unida_ (Clasificatorio)
-1. #382 (#82 de TecNM) _TPK_ (Clasificatorio)
+1. #178 (#32 de TecNM) _TecnoTeam_ (Clasificatorio)
+1. #382 (#83 de TecNM) _ALA_ (Clasificatorio)
+1. #382 (#83 de TecNM) _El Trio Mortal_ (Clasificatorio)
+1. #382 (#83 de TecNM) _GMT_ (Clasificatorio)
+1. #382 (#83 de TecNM) _MJ2_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Net.Beaners.JV_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Red Unida_ (Clasificatorio)
+1. #382 (#83 de TecNM) _TPK_ (Clasificatorio)
 
 ### 2023-2024
 

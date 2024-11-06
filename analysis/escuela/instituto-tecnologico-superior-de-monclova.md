@@ -17,9 +17,9 @@
 
 ### 2022-2023
 
-1. #382 (#82 de TecNM) _Informanalgones_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Informatics_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Ingeniebrios_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Informanalgones_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Informatics_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Ingeniebrios_ (Clasificatorio)
 
 
 

@@ -41,99 +41,99 @@
 
 ### 2001-2002
 
-1. #22 _ITESI Tres_ (Regional)
-1. #26 _ITESI-fundadores_ (Regional)
-1. #46 _ITESI-El ultimo_ (Regional)
+1. #22 (#7 de TecNM) _ITESI Tres_ (Regional)
+1. #26 (#10 de TecNM) _ITESI-fundadores_ (Regional)
+1. #46 (#15 de TecNM) _ITESI-El ultimo_ (Regional)
 
 ### 2002-2003
 
-1. #27 _ITESI Fundadores_ (Regional)
-1. #27 _ITESI Revelacion_ (Regional)
+1. #27 (#3 de TecNM) _ITESI Fundadores_ (Regional)
+1. #27 (#3 de TecNM) _ITESI Revelacion_ (Regional)
 
 ### 2003-2004
 
-1. #39 _ITESI LI_ (Regional)
-1. #41 _ITESI ISC_ (Regional)
+1. #39 (#8 de TecNM) _ITESI LI_ (Regional)
+1. #41 (#10 de TecNM) _ITESI ISC_ (Regional)
 
 ### 2004-2005
 
-1. #70 _ITESIMyWalids_ (Regional)
-1. #90 _ITESIXitlalits_ (Regional)
+1. #70 (#17 de TecNM) _ITESIMyWalids_ (Regional)
+1. #90 (#25 de TecNM) _ITESIXitlalits_ (Regional)
 
 ### 2005-2006
 
-1. #60 _Los peques_ (Regional)
-1. #85 _Los Maygualids_ (Regional)
+1. #60 (#8 de TecNM) _Los peques_ (Regional)
+1. #85 (#12 de TecNM) _Los Maygualids_ (Regional)
 
 ### 2006-2007
 
-1. #85 _ITESI 1_ (Regional)
-1. #85 _ITESI II_ (Regional)
+1. #85 (#19 de TecNM) _ITESI 1_ (Regional)
+1. #85 (#19 de TecNM) _ITESI II_ (Regional)
 
 ### 2007-2008
 
-1. #54 _ITESI 2_ (Regional)
-1. #61 _ITESI 1_ (Regional)
-1. #61 _ITESI 3_ (Regional)
+1. #54 (#13 de TecNM) _ITESI 2_ (Regional)
+1. #61 (#17 de TecNM) _ITESI 1_ (Regional)
+1. #61 (#17 de TecNM) _ITESI 3_ (Regional)
 
 ### 2008-2009
 
-1. #65 _Buhos Blancos ITESI 3_ (Regional)
-1. #72 _Buhos Blancos ITESI 1_ (Regional)
-1. #101 _Buhos Blancos ITESI 2_ (Regional)
+1. #65 (#10 de TecNM) _Buhos Blancos ITESI 3_ (Regional)
+1. #72 (#14 de TecNM) _Buhos Blancos ITESI 1_ (Regional)
+1. #101 (#29 de TecNM) _Buhos Blancos ITESI 2_ (Regional)
 
 ### 2009-2010
 
-1. #106 _Buhos Blancos 3_ (Regional)
-1. #115 _Buhos Blancos 1_ (Regional)
-1. #116 _Buhos Blancos 2_ (Regional)
-1. #116 _Buhos Blancos 4_ (Regional)
+1. #106 (#29 de TecNM) _Buhos Blancos 3_ (Regional)
+1. #115 (#33 de TecNM) _Buhos Blancos 1_ (Regional)
+1. #116 (#34 de TecNM) _Buhos Blancos 2_ (Regional)
+1. #116 (#34 de TecNM) _Buhos Blancos 4_ (Regional)
 
 ### 2010-2011
 
-1. #129 _Buhos Blancos ISC_ (Regional)
-1. #156 _Buhos Blancos Informatica 2_ (Regional)
-1. #156 _Buhos Blancos Informática_ (Regional)
-1. #156 _Buhos Blancos Sistemas 2_ (Regional)
+1. #129 (#33 de TecNM) _Buhos Blancos ISC_ (Regional)
+1. #156 (#48 de TecNM) _Buhos Blancos Informatica 2_ (Regional)
+1. #156 (#48 de TecNM) _Buhos Blancos Informática_ (Regional)
+1. #156 (#48 de TecNM) _Buhos Blancos Sistemas 2_ (Regional)
 
 ### 2011-2012
 
-1. #104 _Los enviados de Elias_ (Regional)
+1. #104 (#35 de TecNM) _Los enviados de Elias_ (Regional)
 
 ### 2012-2013
 
-1. #134 _Los Galácticos_ (Regional)
-1. #134 _No soy un bot_ (Regional)
-1. #134 _The Avengers_ (Regional)
+1. #134 (#55 de TecNM) _Los Galácticos_ (Regional)
+1. #134 (#55 de TecNM) _No soy un bot_ (Regional)
+1. #134 (#55 de TecNM) _The Avengers_ (Regional)
 
 ### 2013-2014
 
-1. #95 _The Avengers_ (Regional)
+1. #95 (#24 de TecNM) _The Avengers_ (Regional)
 
 ### 2014-2015
 
-1. #163 _Programale Chido_ (Clasificatorio)
-1. #204 _The ITESI Programmers_ (Clasificatorio)
-1. #204 _USOFT_ (Clasificatorio)
+1. #163 (#42 de TecNM) _Programale Chido_ (Clasificatorio)
+1. #204 (#57 de TecNM) _The ITESI Programmers_ (Clasificatorio)
+1. #204 (#57 de TecNM) _USOFT_ (Clasificatorio)
 
 ### 2015-2016
 
-1. #108 _ITESI_01_ (Clasificatorio)
+1. #108 (#28 de TecNM) _ITESI_01_ (Clasificatorio)
 
 ### 2016-2017
 
-1. #121 _Buhos_ (Clasificatorio)
-1. #121 _TeamM101_ (Clasificatorio)
-1. #121 _búhosblancos_ (Clasificatorio)
-1. #121 _mortifagos_ (Clasificatorio)
+1. #121 (#22 de TecNM) _Buhos_ (Clasificatorio)
+1. #121 (#22 de TecNM) _TeamM101_ (Clasificatorio)
+1. #121 (#22 de TecNM) _búhosblancos_ (Clasificatorio)
+1. #121 (#22 de TecNM) _mortifagos_ (Clasificatorio)
 
 ### 2018-2019
 
-1. #394 _DARK ARMY_ (Clasificatorio)
+1. #394 (#103 de TecNM) _DARK ARMY_ (Clasificatorio)
 
 ### 2022-2023
 
-1. #382 _MTIs_ (Clasificatorio)
+1. #382 (#83 de TecNM) _MTIs_ (Clasificatorio)
 
 
 

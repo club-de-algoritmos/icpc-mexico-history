@@ -43,7 +43,7 @@
 
 ### 2005-2006
 
-1. #85 (#11 de TecNM) _Chakmool_ (Regional)
+1. #85 (#12 de TecNM) _Chakmool_ (Regional)
 
 ### 2006-2007
 
@@ -51,27 +51,27 @@
 
 ### 2007-2008
 
-1. #61 (#15 de TecNM) _Chac Mool_ (Regional)
+1. #61 (#17 de TecNM) _Chac Mool_ (Regional)
 
 ### 2008-2009
 
-1. #92 (#23 de TecNM) _Small cOdeRs_ (Regional)
-1. #101 (#26 de TecNM) _RunTime Exception_ (Regional)
+1. #92 (#26 de TecNM) _Small cOdeRs_ (Regional)
+1. #101 (#29 de TecNM) _RunTime Exception_ (Regional)
 
 ### 2009-2010
 
-1. #84 (#18 de TecNM) _01 F1 Coders_ (Regional)
-1. #116 (#31 de TecNM) _1Small cOders_ (Regional)
+1. #84 (#19 de TecNM) _01 F1 Coders_ (Regional)
+1. #116 (#34 de TecNM) _1Small cOders_ (Regional)
 
 ### 2010-2011
 
-1. #106 (#20 de TecNM) _Autómatas_ (Regional)
-1. #116 (#27 de TecNM) _1os ByteCode_ (Regional)
+1. #106 (#21 de TecNM) _Autómatas_ (Regional)
+1. #116 (#28 de TecNM) _1os ByteCode_ (Regional)
 
 ### 2011-2012
 
-1. #82 (#23 de TecNM) _Alushes_ (Regional)
-1. #104 (#33 de TecNM) _Ashtable_ (Regional)
+1. #82 (#24 de TecNM) _Alushes_ (Regional)
+1. #104 (#35 de TecNM) _Ashtable_ (Regional)
 
 ### 2012-2013
 
@@ -85,10 +85,10 @@
 
 ### 2014-2015
 
-1. #57 (#10 de TecNM) _Hashtable_ (Regional)
-1. #116 (#18 de TecNM) _TRACENDER CODE3_ (Clasificatorio)
-1. #134 (#26 de TecNM) _Unknown_ (Clasificatorio)
-1. #158 (#38 de TecNM) _DELTA FORCE_ (Clasificatorio)
+1. #57 (#11 de TecNM) _Hashtable_ (Regional)
+1. #116 (#20 de TecNM) _TRACENDER CODE3_ (Clasificatorio)
+1. #134 (#28 de TecNM) _Unknown_ (Clasificatorio)
+1. #158 (#40 de TecNM) _DELTA FORCE_ (Clasificatorio)
 
 ### 2015-2016
 
@@ -99,7 +99,7 @@
 
 ### 2016-2017
 
-1. #66 (#9 de TecNM) _Compilando..._ (Regional)
+1. #66 (#10 de TecNM) _Compilando..._ (Regional)
 
 ### 2017-2018
 
@@ -114,7 +114,7 @@
 
 1. #219 (#36 de TecNM) _IOException_ (Clasificatorio)
 1. #286 (#57 de TecNM) _alt+F4_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Esclavos_del_API_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Esclavos_del_API_ (Clasificatorio)
 
 ### 2020-2021
 
@@ -125,15 +125,15 @@
 
 ### 2021-2022
 
-1. #198 (#25 de TecNM) _01-MrRobot_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Exception sons_ (Clasificatorio)
+1. #198 (#26 de TecNM) _01-MrRobot_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Exception sons_ (Clasificatorio)
 
 ### 2022-2023
 
-1. #235 (#43 de TecNM) _DeepMaze_ (Clasificatorio)
-1. #236 (#44 de TecNM) _Lira coders_ (Clasificatorio)
-1. #380 (#80 de TecNM) _3_Monos_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Mascahuayas_ (Clasificatorio)
+1. #235 (#44 de TecNM) _DeepMaze_ (Clasificatorio)
+1. #236 (#45 de TecNM) _Lira coders_ (Clasificatorio)
+1. #380 (#81 de TecNM) _3_Monos_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Mascahuayas_ (Clasificatorio)
 
 ### 2023-2024
 

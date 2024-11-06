@@ -19,9 +19,9 @@
 
 ### 2003-2004
 
-1. #41 (#9 de TecNM) _Dos kilos y el pilon_ (Regional)
-1. #41 (#9 de TecNM) _The Warriors_ (Regional)
-1. #41 (#9 de TecNM) _The What?_ (Regional)
+1. #41 (#10 de TecNM) _Dos kilos y el pilon_ (Regional)
+1. #41 (#10 de TecNM) _The Warriors_ (Regional)
+1. #41 (#10 de TecNM) _The What?_ (Regional)
 
 ### 2020-2021
 

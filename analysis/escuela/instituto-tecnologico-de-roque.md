@@ -23,7 +23,7 @@
 
 ### 2021-2022
 
-1. #226 (#36 de TecNM) _Roque_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Roque_ (Clasificatorio)
 
 
 

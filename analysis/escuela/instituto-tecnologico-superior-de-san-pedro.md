@@ -27,8 +27,8 @@
 
 ### 2014-2015
 
-1. #143 (#33 de TecNM) _Picazo's Develop_ (Clasificatorio)
-1. #172 (#41 de TecNM) _Fito's Team_ (Clasificatorio)
+1. #143 (#35 de TecNM) _Picazo's Develop_ (Clasificatorio)
+1. #172 (#44 de TecNM) _Fito's Team_ (Clasificatorio)
 
 ### 2017-2018
 
@@ -58,9 +58,9 @@
 1. #188 (#25 de TecNM) _LAS 3 GEMAS DEL INFINITO_ (Clasificatorio)
 1. #189 (#26 de TecNM) _Jalapeños Developer Team_ (Clasificatorio)
 1. #289 (#58 de TecNM) _LAS INEVITABLES_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Atletico San Pancho_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Los nuevos vengadores_ (Clasificatorio)
-1. #382 (#98 de TecNM) _innombrables_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Atletico San Pancho_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Los nuevos vengadores_ (Clasificatorio)
+1. #382 (#100 de TecNM) _innombrables_ (Clasificatorio)
 
 
 

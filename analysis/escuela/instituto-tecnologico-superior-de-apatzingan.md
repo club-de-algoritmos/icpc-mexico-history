@@ -33,28 +33,28 @@
 
 ### 2009-2010
 
-1. #81 (#16 de TecNM) _SIMPUS-ITSA_ (Regional)
-1. #92 (#22 de TecNM) _GNU-ITSA_ (Regional)
+1. #81 (#17 de TecNM) _SIMPUS-ITSA_ (Regional)
+1. #92 (#23 de TecNM) _GNU-ITSA_ (Regional)
 
 ### 2010-2011
 
-1. #102 (#18 de TecNM) _simpus_itsa_ (Regional)
-1. #112 (#25 de TecNM) _NISC_ (Regional)
-1. #155 (#43 de TecNM) _Los caballeros de Java_ (Regional)
-1. #156 (#44 de TecNM) _Digital Fortress_ (Regional)
+1. #102 (#19 de TecNM) _simpus_itsa_ (Regional)
+1. #112 (#26 de TecNM) _NISC_ (Regional)
+1. #155 (#47 de TecNM) _Los caballeros de Java_ (Regional)
+1. #156 (#48 de TecNM) _Digital Fortress_ (Regional)
 
 ### 2011-2012
 
 1. #35 (#2 de TecNM) _NISC_ (Regional)
-1. #58 (#9 de TecNM) _SIMPUS_ITSA_ (Regional)
-1. #104 (#33 de TecNM) _CABALLEROS DE JAVA_ (Regional)
+1. #58 (#10 de TecNM) _SIMPUS_ITSA_ (Regional)
+1. #104 (#35 de TecNM) _CABALLEROS DE JAVA_ (Regional)
 
 ### 2012-2013
 
 1. #53 (#20 de TecNM) _SIMPUS YGGDRASIL_ (Regional)
-1. #120 (#46 de TecNM) _Nopal warriors_ (Regional)
-1. #127 (#48 de TecNM) _Equipo Kakashi_ (Regional)
-1. #130 (#51 de TecNM) _NISC_ (Regional)
+1. #120 (#47 de TecNM) _Nopal warriors_ (Regional)
+1. #127 (#49 de TecNM) _Equipo Kakashi_ (Regional)
+1. #130 (#52 de TecNM) _NISC_ (Regional)
 
 ### 2013-2014
 
@@ -76,31 +76,31 @@
 
 ### 2019-2020
 
-1. #382 (#98 de TecNM) _Anthem ITSA_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Ctos ITSA_ (Clasificatorio)
-1. #382 (#98 de TecNM) _ISC TEAM_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Informáticos01_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Informáticos02_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Los Fieles_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Los Judas_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Los Judas ITSA_ (Clasificatorio)
-1. #382 (#98 de TecNM) _MexiCode_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Team Gordito_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Team Gorditos ITSA_ (Clasificatorio)
-1. #382 (#98 de TecNM) _The Ruby`s Python_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Anthem ITSA_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Ctos ITSA_ (Clasificatorio)
+1. #382 (#100 de TecNM) _ISC TEAM_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Informáticos01_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Informáticos02_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Los Fieles_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Los Judas_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Los Judas ITSA_ (Clasificatorio)
+1. #382 (#100 de TecNM) _MexiCode_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Team Gordito_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Team Gorditos ITSA_ (Clasificatorio)
+1. #382 (#100 de TecNM) _The Ruby`s Python_ (Clasificatorio)
 
 ### 2022-2023
 
-1. #382 (#82 de TecNM) _ADISA_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Ciber Cuiniques_ (Clasificatorio)
-1. #382 (#82 de TecNM) _CódigoX_ (Clasificatorio)
-1. #382 (#82 de TecNM) _JavaCoders_ (Clasificatorio)
-1. #382 (#82 de TecNM) _LOS DISCÍPULOS DE ANA_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Lithium++_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Los paganos del norte_ (Clasificatorio)
-1. #382 (#82 de TecNM) _OREO_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Triple Punto Muerto_ (Clasificatorio)
-1. #382 (#82 de TecNM) _pseudocuinique_ (Clasificatorio)
+1. #382 (#83 de TecNM) _ADISA_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Ciber Cuiniques_ (Clasificatorio)
+1. #382 (#83 de TecNM) _CódigoX_ (Clasificatorio)
+1. #382 (#83 de TecNM) _JavaCoders_ (Clasificatorio)
+1. #382 (#83 de TecNM) _LOS DISCÍPULOS DE ANA_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Lithium++_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Los paganos del norte_ (Clasificatorio)
+1. #382 (#83 de TecNM) _OREO_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Triple Punto Muerto_ (Clasificatorio)
+1. #382 (#83 de TecNM) _pseudocuinique_ (Clasificatorio)
 
 ### 2024-2025
 

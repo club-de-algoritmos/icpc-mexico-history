@@ -24,12 +24,12 @@
 
 ### 2019-2020
 
-1. #382 (#98 de TecNM) _Mugiwaras_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Mugiwaras_ (Clasificatorio)
 
 ### 2022-2023
 
-1. #382 (#82 de TecNM) _Servidores de la nación_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Venados de Tizimín_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Servidores de la nación_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Venados de Tizimín_ (Clasificatorio)
 
 ### 2024-2025
 

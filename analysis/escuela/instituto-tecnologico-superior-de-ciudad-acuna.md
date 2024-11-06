@@ -38,26 +38,26 @@
 
 ### 2021-2022
 
-1. #226 (#36 de TecNM) _Código sin limites_ (Clasificatorio)
-1. #226 (#36 de TecNM) _INFINITY ENGINEERS_ (Clasificatorio)
-1. #226 (#36 de TecNM) _ITSAHACKERS_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Java Squad_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Shattenhacken_ (Clasificatorio)
-1. #226 (#36 de TecNM) _TechBros_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Tecno Girls_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Toros TEC_ (Clasificatorio)
-1. #226 (#36 de TecNM) _VD TEAM_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Código sin limites_ (Clasificatorio)
+1. #226 (#37 de TecNM) _INFINITY ENGINEERS_ (Clasificatorio)
+1. #226 (#37 de TecNM) _ITSAHACKERS_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Java Squad_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Shattenhacken_ (Clasificatorio)
+1. #226 (#37 de TecNM) _TechBros_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Tecno Girls_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Toros TEC_ (Clasificatorio)
+1. #226 (#37 de TecNM) _VD TEAM_ (Clasificatorio)
 
 ### 2022-2023
 
-1. #382 (#82 de TecNM) _GPJ TEAM_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Los Belicosos_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Los simples_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Punto & coma;_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Py-ITSA's_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Sistemac_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Snapdragon_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Thot_ (Clasificatorio)
+1. #382 (#83 de TecNM) _GPJ TEAM_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Los Belicosos_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Los simples_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Punto & coma;_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Py-ITSA's_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Sistemac_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Snapdragon_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Thot_ (Clasificatorio)
 
 ### 2024-2025
 

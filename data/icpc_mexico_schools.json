@@ -21,7 +21,7 @@
     "name": "Bina Nusantara University",
     "alt_names": [],
     "community": null,
-    "country": null,
+    "country": "india",
     "state": null,
     "is_eligible": true
   },
@@ -279,7 +279,7 @@
     "community": null,
     "country": "mexico",
     "state": null,
-    "is_eligible": true
+    "is_eligible": false
   },
   {
     "name": "Escuela Superior De Computo Instituto Politecnico Nacional",
@@ -571,14 +571,6 @@
   },
   {
     "name": "Instituto Tecnologico de Piedras Negras",
-    "alt_names": [],
-    "community": "Tecnologico Nacional de Mexico",
-    "country": "mexico",
-    "state": null,
-    "is_eligible": true
-  },
-  {
-    "name": "INSTITUTO TECNOLOGICO DE QUERETARO",
     "alt_names": [],
     "community": "Tecnologico Nacional de Mexico",
     "country": "mexico",
@@ -1247,6 +1239,16 @@
     "is_eligible": true
   },
   {
+    "name": "Instituto Tecnológico de Querétaro",
+    "alt_names": [
+      "instituto tecnologico de queretaro"
+    ],
+    "community": "Tecnologico Nacional de Mexico",
+    "country": "mexico",
+    "state": null,
+    "is_eligible": true
+  },
+  {
     "name": "Instituto Tecnológico de Roque",
     "alt_names": [],
     "community": "Tecnologico Nacional de Mexico",
@@ -1275,7 +1277,7 @@
     "alt_names": [
       "institutuo technologico de san luis potosi"
     ],
-    "community": null,
+    "community": "Tecnologico Nacional de Mexico",
     "country": "mexico",
     "state": null,
     "is_eligible": true
@@ -1437,7 +1439,7 @@
     "alt_names": [
       "higher technological institute of acatlan de osorio"
     ],
-    "community": null,
+    "community": "Tecnologico Nacional de Mexico",
     "country": "mexico",
     "state": null,
     "is_eligible": true
@@ -1623,7 +1625,7 @@
     "alt_names": [
       "instituto tecnologioco superior de irapuato"
     ],
-    "community": null,
+    "community": "Tecnologico Nacional de Mexico",
     "country": "mexico",
     "state": null,
     "is_eligible": true
@@ -1657,7 +1659,7 @@
     "alt_names": [
       "instituto tecnolãgico superior de la regiãn de los llanos"
     ],
-    "community": null,
+    "community": "Tecnologico Nacional de Mexico",
     "country": "mexico",
     "state": null,
     "is_eligible": true
@@ -1723,7 +1725,7 @@
     "alt_names": [
       "insituto tecnologico superior de poza rica"
     ],
-    "community": null,
+    "community": "Tecnologico Nacional de Mexico",
     "country": "mexico",
     "state": null,
     "is_eligible": true
@@ -2325,7 +2327,7 @@
     "alt_names": [
       "tecnologico nacionalde mexico en celaya"
     ],
-    "community": null,
+    "community": "Tecnologico Nacional de Mexico",
     "country": "mexico",
     "state": null,
     "is_eligible": true

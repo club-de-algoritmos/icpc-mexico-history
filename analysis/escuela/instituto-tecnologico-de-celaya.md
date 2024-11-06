@@ -37,24 +37,24 @@
 ### 2001-2002
 
 1. #16 (#4 de TecNM) _bichos_ (Regional)
-1. #23 (#7 de TecNM) _MachoSoft_ (Regional)
+1. #23 (#8 de TecNM) _MachoSoft_ (Regional)
 
 ### 2003-2004
 
 1. #8 (#1 de TecNM) _Infrabit_ (Regional)
-1. #41 (#9 de TecNM) _DOKARACY_ (Regional)
+1. #41 (#10 de TecNM) _DOKARACY_ (Regional)
 
 ### 2004-2005
 
-1. #56 (#11 de TecNM) _INFRABIT_ (Regional)
-1. #90 (#22 de TecNM) _GEEK´s_ (Regional)
+1. #56 (#12 de TecNM) _INFRABIT_ (Regional)
+1. #90 (#25 de TecNM) _GEEK´s_ (Regional)
 
 ### 2005-2006
 
-1. #85 (#11 de TecNM) _Evolution_ (Regional)
-1. #85 (#11 de TecNM) _InfraBit_ (Regional)
-1. #85 (#11 de TecNM) _Linces 2_ (Regional)
-1. #85 (#11 de TecNM) _Lynx_ (Regional)
+1. #85 (#12 de TecNM) _Evolution_ (Regional)
+1. #85 (#12 de TecNM) _InfraBit_ (Regional)
+1. #85 (#12 de TecNM) _Linces 2_ (Regional)
+1. #85 (#12 de TecNM) _Lynx_ (Regional)
 
 ### 2006-2007
 
@@ -64,14 +64,14 @@
 
 ### 2007-2008
 
-1. #61 (#15 de TecNM) _Linces Blanco_ (Regional)
-1. #61 (#15 de TecNM) _Linces Oro_ (Regional)
-1. #61 (#15 de TecNM) _Linces Verde_ (Regional)
+1. #61 (#17 de TecNM) _Linces Blanco_ (Regional)
+1. #61 (#17 de TecNM) _Linces Oro_ (Regional)
+1. #61 (#17 de TecNM) _Linces Verde_ (Regional)
 
 ### 2014-2015
 
-1. #146 (#35 de TecNM) _Linces Blanco_ (Clasificatorio)
-1. #181 (#44 de TecNM) _Linces Verde_ (Clasificatorio)
+1. #146 (#37 de TecNM) _Linces Blanco_ (Clasificatorio)
+1. #181 (#47 de TecNM) _Linces Verde_ (Clasificatorio)
 
 ### 2017-2018
 
@@ -85,16 +85,16 @@
 
 ### 2021-2022
 
-1. #226 (#36 de TecNM) _Mechalynxtronics_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Mechalynxtronics_ (Clasificatorio)
 
 ### 2022-2023
 
 1. #126 (#19 de TecNM) _Frameworks_ (Clasificatorio)
 1. #145 (#25 de TecNM) _Bits_ (Clasificatorio)
-1. #382 (#82 de TecNM) _JavaScriptisbetter_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Los tokenizer's_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Seguidores del Standard_ (Clasificatorio)
-1. #382 (#82 de TecNM) _That's all folks_ (Clasificatorio)
+1. #382 (#83 de TecNM) _JavaScriptisbetter_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Los tokenizer's_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Seguidores del Standard_ (Clasificatorio)
+1. #382 (#83 de TecNM) _That's all folks_ (Clasificatorio)
 
 ### 2023-2024
 

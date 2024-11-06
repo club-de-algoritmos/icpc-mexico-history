@@ -25,7 +25,7 @@
 
 ### 2021-2022
 
-1. #226 (#36 de TecNM) _Dark eyes like a raccoon_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Dark eyes like a raccoon_ (Clasificatorio)
 
 
 

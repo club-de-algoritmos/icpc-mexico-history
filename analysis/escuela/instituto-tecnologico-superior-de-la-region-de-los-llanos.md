@@ -18,12 +18,12 @@
 
 ### 2004-2005
 
-1. #90 _Informaticos_ (Regional)
+1. #90 (#25 de TecNM) _Informaticos_ (Regional)
 
 ### 2006-2007
 
-1. #85 _ITSLL_ (Regional)
-1. #85 _ITSLL 1_ (Regional)
+1. #85 (#19 de TecNM) _ITSLL_ (Regional)
+1. #85 (#19 de TecNM) _ITSLL 1_ (Regional)
 
 
 

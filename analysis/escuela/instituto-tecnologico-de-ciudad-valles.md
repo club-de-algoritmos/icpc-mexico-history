@@ -30,10 +30,10 @@
 
 ### 2022-2023
 
-1. #382 (#82 de TecNM) _IMG.png_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Mapachitos_ (Clasificatorio)
-1. #382 (#82 de TecNM) _WhiteCode_ (Clasificatorio)
-1. #382 (#82 de TecNM) _saludaMundos_ (Clasificatorio)
+1. #382 (#83 de TecNM) _IMG.png_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Mapachitos_ (Clasificatorio)
+1. #382 (#83 de TecNM) _WhiteCode_ (Clasificatorio)
+1. #382 (#83 de TecNM) _saludaMundos_ (Clasificatorio)
 
 ### 2024-2025
 

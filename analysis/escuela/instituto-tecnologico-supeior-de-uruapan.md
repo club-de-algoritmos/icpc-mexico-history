@@ -23,9 +23,9 @@
 
 ### 2021-2022
 
-1. #226 (#36 de TecNM) _Konosuba_ (Clasificatorio)
-1. #226 (#36 de TecNM) _SDB_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Softeam_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Konosuba_ (Clasificatorio)
+1. #226 (#37 de TecNM) _SDB_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Softeam_ (Clasificatorio)
 
 
 

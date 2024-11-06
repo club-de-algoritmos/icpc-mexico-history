@@ -21,7 +21,7 @@
 
 ### 2021-2022
 
-1. #226 (#36 de TecNM) _Faze code_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Faze code_ (Clasificatorio)
 
 
 

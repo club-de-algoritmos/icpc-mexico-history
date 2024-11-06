@@ -18,10 +18,10 @@
 
 ### 2022-2023
 
-1. #382 (#82 de TecNM) _Potters_ (Clasificatorio)
-1. #382 (#82 de TecNM) _pawpatrol'ss_ (Clasificatorio)
-1. #382 (#82 de TecNM) _pepo's_ (Clasificatorio)
-1. #382 (#82 de TecNM) _yedras_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Potters_ (Clasificatorio)
+1. #382 (#83 de TecNM) _pawpatrol'ss_ (Clasificatorio)
+1. #382 (#83 de TecNM) _pepo's_ (Clasificatorio)
+1. #382 (#83 de TecNM) _yedras_ (Clasificatorio)
 
 
 

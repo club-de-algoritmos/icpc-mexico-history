@@ -30,12 +30,12 @@
 
 ### 2019-2020
 
-1. #382 (#98 de TecNM) _Byters_ (Clasificatorio)
-1. #382 (#98 de TecNM) _CaRaCa Team_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Oceloti_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Osiris_ (Clasificatorio)
-1. #382 (#98 de TecNM) _ProjecTics_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Supersónicos_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Byters_ (Clasificatorio)
+1. #382 (#100 de TecNM) _CaRaCa Team_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Oceloti_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Osiris_ (Clasificatorio)
+1. #382 (#100 de TecNM) _ProjecTics_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Supersónicos_ (Clasificatorio)
 
 ### 2020-2021
 

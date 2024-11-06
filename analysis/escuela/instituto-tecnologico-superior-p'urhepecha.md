@@ -26,13 +26,13 @@
 
 ### 2011-2012
 
-1. #104 (#33 de TecNM) _Antrax_ (Regional)
-1. #104 (#33 de TecNM) _Back Track_ (Regional)
+1. #104 (#35 de TecNM) _Antrax_ (Regional)
+1. #104 (#35 de TecNM) _Back Track_ (Regional)
 
 ### 2012-2013
 
-1. #134 (#53 de TecNM) _alfa_ (Regional)
-1. #134 (#53 de TecNM) _beta_ (Regional)
+1. #134 (#55 de TecNM) _alfa_ (Regional)
+1. #134 (#55 de TecNM) _beta_ (Regional)
 
 ### 2013-2014
 

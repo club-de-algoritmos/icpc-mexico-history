@@ -19,11 +19,11 @@
 
 ### 2022-2023
 
-1. #382 (#82 de TecNM) _Mapache_1_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Mapaches ITMA_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Mapaches_2_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Mapaches_3_ (Clasificatorio)
-1. #382 (#82 de TecNM) _X-FORCE_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Mapache_1_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Mapaches ITMA_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Mapaches_2_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Mapaches_3_ (Clasificatorio)
+1. #382 (#83 de TecNM) _X-FORCE_ (Clasificatorio)
 
 
 

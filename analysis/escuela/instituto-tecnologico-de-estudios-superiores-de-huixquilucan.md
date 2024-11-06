@@ -23,7 +23,7 @@
 
 ### 2019-2020
 
-1. #382 (#98 de TecNM) _Camaleones_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Camaleones_ (Clasificatorio)
 
 ### 2024-2025
 

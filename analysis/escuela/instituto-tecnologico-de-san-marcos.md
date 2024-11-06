@@ -19,13 +19,13 @@
 
 ### 2019-2020
 
-1. #382 (#98 de TecNM) _INFOTEC5_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Team KratoSM_ (Clasificatorio)
+1. #382 (#100 de TecNM) _INFOTEC5_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Team KratoSM_ (Clasificatorio)
 
 ### 2021-2022
 
-1. #226 (#36 de TecNM) _ITSM_KRATOS3.0_ (Clasificatorio)
-1. #226 (#36 de TecNM) _informáticosfive_ (Clasificatorio)
+1. #226 (#37 de TecNM) _ITSM_KRATOS3.0_ (Clasificatorio)
+1. #226 (#37 de TecNM) _informáticosfive_ (Clasificatorio)
 
 
 

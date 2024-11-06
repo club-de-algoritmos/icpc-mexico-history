@@ -15,7 +15,7 @@
 
 ### 2019-2020
 
-1. #382 (#98 de TecNM) _Nueva Era _ (Clasificatorio)
+1. #382 (#100 de TecNM) _Nueva Era _ (Clasificatorio)
 
 
 

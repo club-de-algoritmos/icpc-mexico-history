@@ -30,23 +30,23 @@
 
 ### 2021-2022
 
-1. #226 (#36 de TecNM) _JAGUARES_A_ (Clasificatorio)
-1. #226 (#36 de TecNM) _JAGUARES_B_ (Clasificatorio)
-1. #226 (#36 de TecNM) _JAGUARES_C_ (Clasificatorio)
-1. #226 (#36 de TecNM) _JAGUARES_D_ (Clasificatorio)
-1. #226 (#36 de TecNM) _JAGUARES_E_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Jaguarundis Mayas_ (Clasificatorio)
+1. #226 (#37 de TecNM) _JAGUARES_A_ (Clasificatorio)
+1. #226 (#37 de TecNM) _JAGUARES_B_ (Clasificatorio)
+1. #226 (#37 de TecNM) _JAGUARES_C_ (Clasificatorio)
+1. #226 (#37 de TecNM) _JAGUARES_D_ (Clasificatorio)
+1. #226 (#37 de TecNM) _JAGUARES_E_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Jaguarundis Mayas_ (Clasificatorio)
 
 ### 2022-2023
 
-1. #382 (#82 de TecNM) _Alpha Team_ (Clasificatorio)
-1. #382 (#82 de TecNM) _CRIABKE TEAM_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Freak Brawlers_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Jaguarundis_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Los guardianes_ (Clasificatorio)
-1. #382 (#82 de TecNM) _SAJUMI TEAM_ (Clasificatorio)
-1. #382 (#82 de TecNM) _TeamInges_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Tlacuaches_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Alpha Team_ (Clasificatorio)
+1. #382 (#83 de TecNM) _CRIABKE TEAM_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Freak Brawlers_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Jaguarundis_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Los guardianes_ (Clasificatorio)
+1. #382 (#83 de TecNM) _SAJUMI TEAM_ (Clasificatorio)
+1. #382 (#83 de TecNM) _TeamInges_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Tlacuaches_ (Clasificatorio)
 
 
 

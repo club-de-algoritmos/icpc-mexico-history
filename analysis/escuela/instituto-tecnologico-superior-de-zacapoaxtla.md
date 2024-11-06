@@ -25,15 +25,15 @@
 
 ### 2019-2020
 
-1. #382 (#98 de TecNM) _Arbeiten_ (Clasificatorio)
-1. #382 (#98 de TecNM) _DESARROLLADORES IMPERIO AZTECA_ (Clasificatorio)
-1. #382 (#98 de TecNM) _DEVELOPERS LAUDI_ (Clasificatorio)
-1. #382 (#98 de TecNM) _JEA_ (Clasificatorio)
-1. #382 (#98 de TecNM) _PASIÓN INFORMÁTICA_ (Clasificatorio)
-1. #382 (#98 de TecNM) _POBLANOS UNIDOS_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Programadores Junior_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Umbrella_ (Clasificatorio)
-1. #382 (#98 de TecNM) _ZUSEAN_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Arbeiten_ (Clasificatorio)
+1. #382 (#100 de TecNM) _DESARROLLADORES IMPERIO AZTECA_ (Clasificatorio)
+1. #382 (#100 de TecNM) _DEVELOPERS LAUDI_ (Clasificatorio)
+1. #382 (#100 de TecNM) _JEA_ (Clasificatorio)
+1. #382 (#100 de TecNM) _PASIÓN INFORMÁTICA_ (Clasificatorio)
+1. #382 (#100 de TecNM) _POBLANOS UNIDOS_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Programadores Junior_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Umbrella_ (Clasificatorio)
+1. #382 (#100 de TecNM) _ZUSEAN_ (Clasificatorio)
 
 ### 2024-2025
 

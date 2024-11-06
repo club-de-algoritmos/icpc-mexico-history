@@ -19,11 +19,11 @@
 
 ### 2022-2023
 
-1. #382 (#82 de TecNM) _Brogrammers_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Guardianes Z_ (Clasificatorio)
-1. #382 (#82 de TecNM) _GuardianesTec_ (Clasificatorio)
-1. #382 (#82 de TecNM) _TECGUARDIAN_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Tlhc-soft_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Brogrammers_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Guardianes Z_ (Clasificatorio)
+1. #382 (#83 de TecNM) _GuardianesTec_ (Clasificatorio)
+1. #382 (#83 de TecNM) _TECGUARDIAN_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Tlhc-soft_ (Clasificatorio)
 
 
 

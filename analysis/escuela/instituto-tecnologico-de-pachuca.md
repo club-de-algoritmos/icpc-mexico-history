@@ -39,8 +39,8 @@
 
 ### 2019-2020
 
-1. #382 (#98 de TecNM) _CODEVS_ (Clasificatorio)
-1. #382 (#98 de TecNM) _ITP v2.0_ (Clasificatorio)
+1. #382 (#100 de TecNM) _CODEVS_ (Clasificatorio)
+1. #382 (#100 de TecNM) _ITP v2.0_ (Clasificatorio)
 
 ### 2020-2021
 
@@ -48,15 +48,15 @@
 
 ### 2021-2022
 
-1. #226 (#36 de TecNM) _TecPachuca_01_ (Clasificatorio)
-1. #226 (#36 de TecNM) _TecPachuca_02_ (Clasificatorio)
+1. #226 (#37 de TecNM) _TecPachuca_01_ (Clasificatorio)
+1. #226 (#37 de TecNM) _TecPachuca_02_ (Clasificatorio)
 
 ### 2022-2023
 
-1. #382 (#82 de TecNM) _Bug Programmers (BP)_ (Clasificatorio)
-1. #382 (#82 de TecNM) _CodeArtisans_ (Clasificatorio)
-1. #382 (#82 de TecNM) _League of Coders_ (Clasificatorio)
-1. #382 (#82 de TecNM) _TuzoGlitchXP_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Bug Programmers (BP)_ (Clasificatorio)
+1. #382 (#83 de TecNM) _CodeArtisans_ (Clasificatorio)
+1. #382 (#83 de TecNM) _League of Coders_ (Clasificatorio)
+1. #382 (#83 de TecNM) _TuzoGlitchXP_ (Clasificatorio)
 
 ### 2024-2025
 

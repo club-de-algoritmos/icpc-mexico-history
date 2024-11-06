@@ -17,11 +17,11 @@
 
 ### 2008-2009
 
-1. #75 (#13 de TecNM) _ITVG_ (Regional)
+1. #75 (#16 de TecNM) _ITVG_ (Regional)
 
 ### 2010-2011
 
-1. #156 (#44 de TecNM) _ITVG_ (Regional)
+1. #156 (#48 de TecNM) _ITVG_ (Regional)
 
 
 

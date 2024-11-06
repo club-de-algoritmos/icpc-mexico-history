@@ -32,12 +32,12 @@
 
 ### 2019-2020
 
-1. #312 (#68 de TecNM) _STDIO.H_ (Clasificatorio)
-1. #336 (#77 de TecNM) _Los Teslas_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Basura Galáctica_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Don Julio´s 70_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Los Wasauski_ (Clasificatorio)
-1. #382 (#98 de TecNM) _X-Force_ (Clasificatorio)
+1. #312 (#69 de TecNM) _STDIO.H_ (Clasificatorio)
+1. #336 (#78 de TecNM) _Los Teslas_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Basura Galáctica_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Don Julio´s 70_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Los Wasauski_ (Clasificatorio)
+1. #382 (#100 de TecNM) _X-Force_ (Clasificatorio)
 
 
 

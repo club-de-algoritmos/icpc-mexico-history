@@ -33,19 +33,19 @@
 ### 2009-2010
 
 1. #67 (#12 de TecNM) _Fail_ (Regional)
-1. #95 (#24 de TecNM) _Tuxinator_ (Regional)
+1. #95 (#25 de TecNM) _Tuxinator_ (Regional)
 
 ### 2010-2011
 
-1. #102 (#18 de TecNM) _ITM 2_ (Regional)
-1. #110 (#23 de TecNM) _ITM1_ (Regional)
-1. #156 (#44 de TecNM) _ITM3_ (Regional)
+1. #102 (#19 de TecNM) _ITM 2_ (Regional)
+1. #110 (#24 de TecNM) _ITM1_ (Regional)
+1. #156 (#48 de TecNM) _ITM3_ (Regional)
 
 ### 2011-2012
 
 1. #20 (#1 de TecNM) _ITM-3_ (Regional)
-1. #64 (#12 de TecNM) _ITM-2_ (Regional)
-1. #79 (#21 de TecNM) _ITM-1_ (Regional)
+1. #64 (#13 de TecNM) _ITM-2_ (Regional)
+1. #79 (#22 de TecNM) _ITM-1_ (Regional)
 
 ### 2012-2013
 
@@ -74,17 +74,17 @@
 
 ### 2021-2022
 
-1. #226 (#36 de TecNM) _Los Pixies_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Rubber Duckies_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Los Pixies_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Rubber Duckies_ (Clasificatorio)
 
 ### 2022-2023
 
-1. #382 (#82 de TecNM) _Bichotas_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Lucas 21:16_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Pony Code_ (Clasificatorio)
-1. #382 (#82 de TecNM) _PyJava++_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Ticsitos_ (Clasificatorio)
-1. #382 (#82 de TecNM) _pony force_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Bichotas_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Lucas 21:16_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Pony Code_ (Clasificatorio)
+1. #382 (#83 de TecNM) _PyJava++_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Ticsitos_ (Clasificatorio)
+1. #382 (#83 de TecNM) _pony force_ (Clasificatorio)
 
 ### 2024-2025
 

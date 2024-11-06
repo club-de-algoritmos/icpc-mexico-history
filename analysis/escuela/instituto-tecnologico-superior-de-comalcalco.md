@@ -30,15 +30,15 @@
 
 ### 2001-2002
 
-1. #33 (#11 de TecNM) _The Conqueros_ (Regional)
+1. #33 (#13 de TecNM) _The Conqueros_ (Regional)
 
 ### 2019-2020
 
-1. #382 (#98 de TecNM) _Avenger_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Brigde_ (Clasificatorio)
-1. #382 (#98 de TecNM) _DevSoft_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Remove_ (Clasificatorio)
-1. #382 (#98 de TecNM) _System Eagles_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Avenger_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Brigde_ (Clasificatorio)
+1. #382 (#100 de TecNM) _DevSoft_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Remove_ (Clasificatorio)
+1. #382 (#100 de TecNM) _System Eagles_ (Clasificatorio)
 
 ### 2020-2021
 
@@ -48,17 +48,17 @@
 
 ### 2021-2022
 
-1. #226 (#36 de TecNM) _ABG CODE_ (Clasificatorio)
-1. #226 (#36 de TecNM) _CODE MATH_ (Clasificatorio)
-1. #226 (#36 de TecNM) _ChocoSoft_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Imagine C#de_ (Clasificatorio)
-1. #226 (#36 de TecNM) _LONE WOLVES_ (Clasificatorio)
-1. #226 (#36 de TecNM) _SPARK 343_ (Clasificatorio)
-1. #226 (#36 de TecNM) _TheCheaters_ (Clasificatorio)
+1. #226 (#37 de TecNM) _ABG CODE_ (Clasificatorio)
+1. #226 (#37 de TecNM) _CODE MATH_ (Clasificatorio)
+1. #226 (#37 de TecNM) _ChocoSoft_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Imagine C#de_ (Clasificatorio)
+1. #226 (#37 de TecNM) _LONE WOLVES_ (Clasificatorio)
+1. #226 (#37 de TecNM) _SPARK 343_ (Clasificatorio)
+1. #226 (#37 de TecNM) _TheCheaters_ (Clasificatorio)
 
 ### 2022-2023
 
-1. #382 (#82 de TecNM) _Namesake Team_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Namesake Team_ (Clasificatorio)
 
 ### 2023-2024
 

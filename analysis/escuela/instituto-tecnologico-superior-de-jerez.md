@@ -31,15 +31,15 @@
 
 ### 2018-2019
 
-1. #395 (#159 de TecNM) _Kings of Code_ (Clasificatorio)
+1. #395 (#160 de TecNM) _Kings of Code_ (Clasificatorio)
 
 ### 2019-2020
 
-1. #382 (#98 de TecNM) _Alpha Code_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Noobsters_ (Clasificatorio)
-1. #382 (#98 de TecNM) _QualitySoft_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Team Prophet_ (Clasificatorio)
-1. #382 (#98 de TecNM) _VCode_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Alpha Code_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Noobsters_ (Clasificatorio)
+1. #382 (#100 de TecNM) _QualitySoft_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Team Prophet_ (Clasificatorio)
+1. #382 (#100 de TecNM) _VCode_ (Clasificatorio)
 
 
 

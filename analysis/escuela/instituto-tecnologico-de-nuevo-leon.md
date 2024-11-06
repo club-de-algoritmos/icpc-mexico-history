@@ -45,8 +45,8 @@
 
 ### 2001-2002
 
-1. #24 (#8 de TecNM) _Cuervo Fénix_ (Regional)
-1. #55 (#13 de TecNM) _ARKADIC_ (Regional)
+1. #24 (#9 de TecNM) _Cuervo Fénix_ (Regional)
+1. #55 (#16 de TecNM) _ARKADIC_ (Regional)
 
 ### 2002-2003
 
@@ -55,7 +55,7 @@
 
 ### 2004-2005
 
-1. #84 (#20 de TecNM) _Cuervos Sys_ (Regional)
+1. #84 (#22 de TecNM) _Cuervos Sys_ (Regional)
 
 ### 2006-2007
 
@@ -63,44 +63,44 @@
 
 ### 2007-2008
 
-1. #57 (#14 de TecNM) _C and C_ (Regional)
-1. #61 (#15 de TecNM) _Binary Development_ (Regional)
-1. #61 (#15 de TecNM) _The 3 Elements_ (Regional)
+1. #57 (#16 de TecNM) _C and C_ (Regional)
+1. #61 (#17 de TecNM) _Binary Development_ (Regional)
+1. #61 (#17 de TecNM) _The 3 Elements_ (Regional)
 
 ### 2008-2009
 
 1. #48 (#6 de TecNM) _The 3 Elements_ (Regional)
-1. #76 (#14 de TecNM) _RAS_ (Regional)
-1. #89 (#21 de TecNM) _DUGH-C_ (Regional)
-1. #101 (#26 de TecNM) _JavaDoo_ (Regional)
+1. #76 (#17 de TecNM) _RAS_ (Regional)
+1. #89 (#24 de TecNM) _DUGH-C_ (Regional)
+1. #101 (#29 de TecNM) _JavaDoo_ (Regional)
 
 ### 2009-2010
 
 1. #63 (#10 de TecNM) _Bloques de Lego_ (Regional)
-1. #81 (#16 de TecNM) _RAS_ (Regional)
-1. #108 (#28 de TecNM) _DughC_ (Regional)
-1. #116 (#31 de TecNM) _Black Jack_ (Regional)
+1. #81 (#17 de TecNM) _RAS_ (Regional)
+1. #108 (#30 de TecNM) _DughC_ (Regional)
+1. #116 (#34 de TecNM) _Black Jack_ (Regional)
 
 ### 2010-2011
 
-1. #59 (#5 de TecNM) _Bloques de Lego_ (Regional)
-1. #62 (#6 de TecNM) _ITNL Java_ (Regional)
-1. #70 (#9 de TecNM) _c++ ke tu_ (Regional)
+1. #59 (#6 de TecNM) _Bloques de Lego_ (Regional)
+1. #62 (#7 de TecNM) _ITNL Java_ (Regional)
+1. #70 (#10 de TecNM) _c++ ke tu_ (Regional)
 
 ### 2011-2012
 
-1. #75 (#18 de TecNM) _Hamburgesa Feliz_ (Regional)
-1. #96 (#28 de TecNM) _Cuervos-ISC 03_ (Regional)
-1. #99 (#30 de TecNM) _Cuervos-ISC 04_ (Regional)
-1. #104 (#33 de TecNM) _Mentalistas_ (Regional)
+1. #75 (#19 de TecNM) _Hamburgesa Feliz_ (Regional)
+1. #96 (#29 de TecNM) _Cuervos-ISC 03_ (Regional)
+1. #99 (#31 de TecNM) _Cuervos-ISC 04_ (Regional)
+1. #104 (#35 de TecNM) _Mentalistas_ (Regional)
 
 ### 2012-2013
 
 1. #62 (#23 de TecNM) _The Javengers_ (Regional)
 1. #71 (#28 de TecNM) _Los Pollos Hermanos_ (Regional)
 1. #107 (#43 de TecNM) _CopiaConflictiva_ (Regional)
-1. #134 (#53 de TecNM) _Némesis_ (Regional)
-1. #134 (#53 de TecNM) _Storm_ (Regional)
+1. #134 (#55 de TecNM) _Némesis_ (Regional)
+1. #134 (#55 de TecNM) _Storm_ (Regional)
 
 ### 2013-2014
 
@@ -111,8 +111,8 @@
 
 ### 2014-2015
 
-1. #120 (#20 de TecNM) _default_ (Clasificatorio)
-1. #197 (#49 de TecNM) _snow_ (Clasificatorio)
+1. #120 (#22 de TecNM) _default_ (Clasificatorio)
+1. #197 (#54 de TecNM) _snow_ (Clasificatorio)
 
 ### 2015-2016
 
@@ -122,14 +122,14 @@
 
 ### 2016-2017
 
-1. #121 (#20 de TecNM) _#FuerzaJuanga_ (Clasificatorio)
-1. #121 (#20 de TecNM) _ANtRAX_ (Clasificatorio)
-1. #121 (#20 de TecNM) _CrowSys_ (Clasificatorio)
-1. #121 (#20 de TecNM) _Pichones_ (Clasificatorio)
-1. #121 (#20 de TecNM) _Snow Revenant_ (Clasificatorio)
-1. #121 (#20 de TecNM) _Testigos de Teemo_ (Clasificatorio)
-1. #121 (#20 de TecNM) _TriForce+1-1_ (Clasificatorio)
-1. #121 (#20 de TecNM) _silumgar_ (Clasificatorio)
+1. #121 (#22 de TecNM) _#FuerzaJuanga_ (Clasificatorio)
+1. #121 (#22 de TecNM) _ANtRAX_ (Clasificatorio)
+1. #121 (#22 de TecNM) _CrowSys_ (Clasificatorio)
+1. #121 (#22 de TecNM) _Pichones_ (Clasificatorio)
+1. #121 (#22 de TecNM) _Snow Revenant_ (Clasificatorio)
+1. #121 (#22 de TecNM) _Testigos de Teemo_ (Clasificatorio)
+1. #121 (#22 de TecNM) _TriForce+1-1_ (Clasificatorio)
+1. #121 (#22 de TecNM) _silumgar_ (Clasificatorio)
 
 ### 2017-2018
 
@@ -154,12 +154,12 @@
 ### 2019-2020
 
 1. #129 (#17 de TecNM) _A verdad me engañe_ (Clasificatorio)
-1. #363 (#88 de TecNM) _Critical Infamous_ (Clasificatorio)
-1. #365 (#89 de TecNM) _Los Huracanes del Teclado_ (Clasificatorio)
-1. #376 (#96 de TecNM) _Software Libre_ (Clasificatorio)
-1. #382 (#98 de TecNM) _80 En Vectorial_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Alone Ravens_ (Clasificatorio)
-1. #382 (#98 de TecNM) _O.M. END GAME_ (Clasificatorio)
+1. #363 (#89 de TecNM) _Critical Infamous_ (Clasificatorio)
+1. #365 (#90 de TecNM) _Los Huracanes del Teclado_ (Clasificatorio)
+1. #376 (#98 de TecNM) _Software Libre_ (Clasificatorio)
+1. #382 (#100 de TecNM) _80 En Vectorial_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Alone Ravens_ (Clasificatorio)
+1. #382 (#100 de TecNM) _O.M. END GAME_ (Clasificatorio)
 
 ### 2020-2021
 
@@ -171,26 +171,26 @@
 ### 2021-2022
 
 1. #50 (#6 de TecNM) _0xBests_ (Regional)
-1. #212 (#31 de TecNM) _The Changes_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Chargers_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Error404_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Megabytes_ (Clasificatorio)
+1. #212 (#32 de TecNM) _The Changes_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Chargers_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Error404_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Megabytes_ (Clasificatorio)
 
 ### 2022-2023
 
 1. #55 (#6 de TecNM) _OxBests_ (Regional)
-1. #224 (#37 de TecNM) _Los cadetes de Konoha_ (Clasificatorio)
-1. #231 (#40 de TecNM) _Chip’n Dale +1_ (Clasificatorio)
-1. #234 (#42 de TecNM) _Los Mavericks_ (Clasificatorio)
-1. #319 (#60 de TecNM) _Megabytes_ (Clasificatorio)
-1. #346 (#68 de TecNM) _Kernel Panic_ (Clasificatorio)
-1. #366 (#71 de TecNM) _NÑ_ (Clasificatorio)
-1. #373 (#75 de TecNM) _R2D2_ (Clasificatorio)
-1. #375 (#77 de TecNM) _Las minions_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Coders in progress_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Los Chicharrines_ (Clasificatorio)
-1. #382 (#82 de TecNM) _StringDEA_ (Clasificatorio)
-1. #382 (#82 de TecNM) _The Ravens Logics_ (Clasificatorio)
+1. #224 (#38 de TecNM) _Los cadetes de Konoha_ (Clasificatorio)
+1. #231 (#41 de TecNM) _Chip’n Dale +1_ (Clasificatorio)
+1. #234 (#43 de TecNM) _Los Mavericks_ (Clasificatorio)
+1. #319 (#61 de TecNM) _Megabytes_ (Clasificatorio)
+1. #346 (#69 de TecNM) _Kernel Panic_ (Clasificatorio)
+1. #366 (#72 de TecNM) _NÑ_ (Clasificatorio)
+1. #373 (#76 de TecNM) _R2D2_ (Clasificatorio)
+1. #375 (#78 de TecNM) _Las minions_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Coders in progress_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Los Chicharrines_ (Clasificatorio)
+1. #382 (#83 de TecNM) _StringDEA_ (Clasificatorio)
+1. #382 (#83 de TecNM) _The Ravens Logics_ (Clasificatorio)
 
 ### 2023-2024
 

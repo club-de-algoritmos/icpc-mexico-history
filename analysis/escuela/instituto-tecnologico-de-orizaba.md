@@ -31,15 +31,15 @@
 
 ### 2021-2022
 
-1. #226 (#36 de TecNM) _IEEX_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Kittens++_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Team_FMD_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Team_PDF_ (Clasificatorio)
+1. #226 (#37 de TecNM) _IEEX_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Kittens++_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Team_FMD_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Team_PDF_ (Clasificatorio)
 
 ### 2022-2023
 
-1. #382 (#82 de TecNM) _Buhosys_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Golden girls_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Buhosys_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Golden girls_ (Clasificatorio)
 
 ### 2024-2025
 

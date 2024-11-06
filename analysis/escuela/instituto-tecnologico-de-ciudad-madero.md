@@ -74,7 +74,7 @@
 
 1. #26 (#5 de TecNM) _Ometochtli_ (Regional)
 1. #32 (#6 de TecNM) _Aztec Warriors_ (Regional)
-1. #67 (#15 de TecNM) _The Ants_ (Regional)
+1. #67 (#16 de TecNM) _The Ants_ (Regional)
 
 ### 2005-2006
 
@@ -83,13 +83,13 @@
 
 ### 2007-2008
 
-1. #61 (#15 de TecNM) _Hola_ (Regional)
-1. #61 (#15 de TecNM) _X_TEAM_ (Regional)
+1. #61 (#17 de TecNM) _Hola_ (Regional)
+1. #61 (#17 de TecNM) _X_TEAM_ (Regional)
 
 ### 2008-2009
 
-1. #90 (#22 de TecNM) _Hola_ (Regional)
-1. #101 (#26 de TecNM) _Los Javeros_ (Regional)
+1. #90 (#25 de TecNM) _Hola_ (Regional)
+1. #101 (#29 de TecNM) _Los Javeros_ (Regional)
 
 ### 2009-2010
 
@@ -98,8 +98,8 @@
 
 ### 2011-2012
 
-1. #44 (#5 de TecNM) _Yip Yip_ (Regional)
-1. #62 (#11 de TecNM) _HyVent_ (Regional)
+1. #44 (#6 de TecNM) _Yip Yip_ (Regional)
+1. #62 (#12 de TecNM) _HyVent_ (Regional)
 
 ### 2012-2013
 
@@ -119,8 +119,8 @@
 ### 2014-2015
 
 1. #51 (#8 de TecNM) _HyVent_ (Regional)
-1. #75 (#10 de TecNM) _Javadabadoo_ (Clasificatorio)
-1. #203 (#51 de TecNM) _GAP_ (Clasificatorio)
+1. #75 (#11 de TecNM) _Javadabadoo_ (Clasificatorio)
+1. #203 (#56 de TecNM) _GAP_ (Clasificatorio)
 
 ### 2015-2016
 
@@ -132,9 +132,9 @@
 
 ### 2016-2017
 
-1. #39 (#4 de TecNM) _leopardos_ (Regional)
-1. #121 (#20 de TecNM) _Renacimiento_ (Clasificatorio)
-1. #121 (#20 de TecNM) _The Coders_ (Clasificatorio)
+1. #39 (#5 de TecNM) _leopardos_ (Regional)
+1. #121 (#22 de TecNM) _Renacimiento_ (Clasificatorio)
+1. #121 (#22 de TecNM) _The Coders_ (Clasificatorio)
 
 ### 2017-2018
 
@@ -144,22 +144,22 @@
 
 ### 2019-2020
 
-1. #361 (#86 de TecNM) _Dejavu_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Alfa_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Black List_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Dark Fenix_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Equipo Tres_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Hyperlink`s_ (Clasificatorio)
-1. #382 (#98 de TecNM) _ITCM-NULL_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Ingenieros TEC_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Java Girls_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Los Cracks de BorlandC_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Los Pitufos_ (Clasificatorio)
-1. #382 (#98 de TecNM) _NetBeans_ (Clasificatorio)
-1. #382 (#98 de TecNM) _OMEGA_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Performing Jazz_ (Clasificatorio)
-1. #382 (#98 de TecNM) _X Force_ (Clasificatorio)
-1. #382 (#98 de TecNM) _free lancer_ (Clasificatorio)
+1. #361 (#87 de TecNM) _Dejavu_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Alfa_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Black List_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Dark Fenix_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Equipo Tres_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Hyperlink`s_ (Clasificatorio)
+1. #382 (#100 de TecNM) _ITCM-NULL_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Ingenieros TEC_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Java Girls_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Los Cracks de BorlandC_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Los Pitufos_ (Clasificatorio)
+1. #382 (#100 de TecNM) _NetBeans_ (Clasificatorio)
+1. #382 (#100 de TecNM) _OMEGA_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Performing Jazz_ (Clasificatorio)
+1. #382 (#100 de TecNM) _X Force_ (Clasificatorio)
+1. #382 (#100 de TecNM) _free lancer_ (Clasificatorio)
 
 ### 2020-2021
 
@@ -171,16 +171,16 @@
 
 ### 2021-2022
 
-1. #226 (#36 de TecNM) _Automatas_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Equipo 103_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Los Akatsuki _ (Clasificatorio)
-1. #226 (#36 de TecNM) _Los Tlacuachos:v_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Automatas_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Equipo 103_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Los Akatsuki _ (Clasificatorio)
+1. #226 (#37 de TecNM) _Los Tlacuachos:v_ (Clasificatorio)
 
 ### 2022-2023
 
-1. #382 (#82 de TecNM) _BugBusters_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Getters_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Runtime Terror_ (Clasificatorio)
+1. #382 (#83 de TecNM) _BugBusters_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Getters_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Runtime Terror_ (Clasificatorio)
 
 ### 2023-2024
 

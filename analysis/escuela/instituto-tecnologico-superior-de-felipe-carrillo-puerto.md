@@ -23,7 +23,7 @@
 
 ### 2021-2022
 
-1. #226 (#36 de TecNM) _3code_ (Clasificatorio)
+1. #226 (#37 de TecNM) _3code_ (Clasificatorio)
 
 ### 2024-2025
 

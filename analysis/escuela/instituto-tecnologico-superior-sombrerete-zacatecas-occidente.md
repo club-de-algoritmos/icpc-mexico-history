@@ -33,11 +33,11 @@
 
 ### 2004-2005
 
-1. #90 (#22 de TecNM) _TOPOS-SIS_ (Regional)
+1. #90 (#25 de TecNM) _TOPOS-SIS_ (Regional)
 
 ### 2005-2006
 
-1. #85 (#11 de TecNM) _TopoSIS_ (Regional)
+1. #85 (#12 de TecNM) _TopoSIS_ (Regional)
 
 ### 2006-2007
 
@@ -49,11 +49,11 @@
 
 ### 2008-2009
 
-1. #101 (#26 de TecNM) _Topos_ (Regional)
+1. #101 (#29 de TecNM) _Topos_ (Regional)
 
 ### 2016-2017
 
-1. #121 (#20 de TecNM) _Topos_ (Clasificatorio)
+1. #121 (#22 de TecNM) _Topos_ (Clasificatorio)
 
 ### 2017-2018
 
@@ -68,14 +68,14 @@
 
 ### 2019-2020
 
-1. #382 (#98 de TecNM) _ITSZO1_ (Clasificatorio)
+1. #382 (#100 de TecNM) _ITSZO1_ (Clasificatorio)
 
 ### 2022-2023
 
-1. #193 (#34 de TecNM) _CXC Code_ (Clasificatorio)
-1. #240 (#46 de TecNM) _Lobos del Escuadrón_ (Clasificatorio)
-1. #382 (#82 de TecNM) _#IncludeITSZO_ (Clasificatorio)
-1. #382 (#82 de TecNM) _ITSZOCoding_ (Clasificatorio)
+1. #193 (#35 de TecNM) _CXC Code_ (Clasificatorio)
+1. #240 (#47 de TecNM) _Lobos del Escuadrón_ (Clasificatorio)
+1. #382 (#83 de TecNM) _#IncludeITSZO_ (Clasificatorio)
+1. #382 (#83 de TecNM) _ITSZOCoding_ (Clasificatorio)
 
 
 

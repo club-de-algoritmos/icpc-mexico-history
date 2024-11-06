@@ -25,9 +25,9 @@
 
 ### 2019-2020
 
-1. #382 (#98 de TecNM) _Punto y coma_ (Clasificatorio)
-1. #382 (#98 de TecNM) _The last fight_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Virtus Pro_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Punto y coma_ (Clasificatorio)
+1. #382 (#100 de TecNM) _The last fight_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Virtus Pro_ (Clasificatorio)
 
 
 

@@ -36,20 +36,20 @@
 
 ### 2010-2011
 
-1. #126 (#30 de TecNM) _MIBARRAESPACIADORANOSIRVE_ (Regional)
-1. #127 (#31 de TecNM) _NEO_CUANTIC_ (Regional)
-1. #136 (#36 de TecNM) _ESPARTAN_ (Regional)
+1. #126 (#31 de TecNM) _MIBARRAESPACIADORANOSIRVE_ (Regional)
+1. #127 (#32 de TecNM) _NEO_CUANTIC_ (Regional)
+1. #136 (#39 de TecNM) _ESPARTAN_ (Regional)
 
 ### 2011-2012
 
-1. #104 (#33 de TecNM) _Espartanos_ (Regional)
-1. #104 (#33 de TecNM) _LOS JAVEROS_ (Regional)
-1. #104 (#33 de TecNM) _NEOCUANTIC_ (Regional)
+1. #104 (#35 de TecNM) _Espartanos_ (Regional)
+1. #104 (#35 de TecNM) _LOS JAVEROS_ (Regional)
+1. #104 (#35 de TecNM) _NEOCUANTIC_ (Regional)
 
 ### 2012-2013
 
 1. #46 (#17 de TecNM) _LOS JAVEROS_ (Regional)
-1. #134 (#53 de TecNM) _Birds_ (Regional)
+1. #134 (#55 de TecNM) _Birds_ (Regional)
 
 ### 2013-2014
 
@@ -64,10 +64,10 @@
 
 ### 2016-2017
 
-1. #121 (#20 de TecNM) _Anonimos_ (Clasificatorio)
-1. #121 (#20 de TecNM) _Biorenegados_ (Clasificatorio)
-1. #121 (#20 de TecNM) _Los Héroes del Norte_ (Clasificatorio)
-1. #121 (#20 de TecNM) _Los fabulosos Cadillacs_ (Clasificatorio)
+1. #121 (#22 de TecNM) _Anonimos_ (Clasificatorio)
+1. #121 (#22 de TecNM) _Biorenegados_ (Clasificatorio)
+1. #121 (#22 de TecNM) _Los Héroes del Norte_ (Clasificatorio)
+1. #121 (#22 de TecNM) _Los fabulosos Cadillacs_ (Clasificatorio)
 
 ### 2017-2018
 
@@ -94,13 +94,13 @@
 
 ### 2019-2020
 
-1. #303 (#64 de TecNM) _Ragnarok_ (Clasificatorio)
-1. #368 (#91 de TecNM) _The Arrayngers_ (Clasificatorio)
-1. #377 (#97 de TecNM) _The Yutas_ (Clasificatorio)
-1. #382 (#98 de TecNM) _INDEFINIDO_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Jarvis_ (Clasificatorio)
-1. #382 (#98 de TecNM) _LEA_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Los Bisteks_ (Clasificatorio)
+1. #303 (#65 de TecNM) _Ragnarok_ (Clasificatorio)
+1. #368 (#92 de TecNM) _The Arrayngers_ (Clasificatorio)
+1. #377 (#99 de TecNM) _The Yutas_ (Clasificatorio)
+1. #382 (#100 de TecNM) _INDEFINIDO_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Jarvis_ (Clasificatorio)
+1. #382 (#100 de TecNM) _LEA_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Los Bisteks_ (Clasificatorio)
 
 ### 2020-2021
 
@@ -111,17 +111,17 @@
 
 ### 2021-2022
 
-1. #219 (#32 de TecNM) _RASLT_Ragnarok_ (Clasificatorio)
-1. #221 (#33 de TecNM) _RASLT_DEDSEC_ (Clasificatorio)
+1. #219 (#33 de TecNM) _RASLT_Ragnarok_ (Clasificatorio)
+1. #221 (#34 de TecNM) _RASLT_DEDSEC_ (Clasificatorio)
 
 ### 2022-2023
 
 1. #134 (#22 de TecNM) _Equipapoi_ (Clasificatorio)
 1. #147 (#26 de TecNM) _La_secta_de_Namjoon;_ (Clasificatorio)
-1. #238 (#45 de TecNM) _Los bellos durmientes_ (Clasificatorio)
-1. #299 (#54 de TecNM) _RRQ_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Los trifantasticos_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Sopa de Codito_ (Clasificatorio)
+1. #238 (#46 de TecNM) _Los bellos durmientes_ (Clasificatorio)
+1. #299 (#55 de TecNM) _RRQ_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Los trifantasticos_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Sopa de Codito_ (Clasificatorio)
 
 ### 2023-2024
 

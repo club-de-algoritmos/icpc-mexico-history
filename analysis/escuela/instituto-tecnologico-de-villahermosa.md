@@ -23,7 +23,7 @@
 
 ### 2003-2004
 
-1. #41 (#9 de TecNM) _The Matrix : Reloaded_ (Regional)
+1. #41 (#10 de TecNM) _The Matrix : Reloaded_ (Regional)
 
 ### 2006-2007
 

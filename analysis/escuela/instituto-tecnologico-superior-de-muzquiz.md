@@ -16,8 +16,8 @@
 
 ### 2019-2020
 
-1. #382 (#98 de TecNM) _Los Enquewe_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Los Piruetas_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Los Enquewe_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Los Piruetas_ (Clasificatorio)
 
 
 

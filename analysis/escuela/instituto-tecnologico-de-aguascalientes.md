@@ -29,9 +29,9 @@
 
 ### 2019-2020
 
-1. #382 (#98 de TecNM) _DVS_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Discípulos de Ponce_ (Clasificatorio)
-1. #382 (#98 de TecNM) _GC: Geek Code_ (Clasificatorio)
+1. #382 (#100 de TecNM) _DVS_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Discípulos de Ponce_ (Clasificatorio)
+1. #382 (#100 de TecNM) _GC: Geek Code_ (Clasificatorio)
 
 ### 2020-2021
 

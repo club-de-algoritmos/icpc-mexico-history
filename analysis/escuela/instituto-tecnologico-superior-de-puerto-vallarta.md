@@ -22,8 +22,8 @@
 
 ### 2009-2010
 
-1. #116 (#31 de TecNM) _HxC_ (Regional)
-1. #116 (#31 de TecNM) _Relámpago 9_ (Regional)
+1. #116 (#34 de TecNM) _HxC_ (Regional)
+1. #116 (#34 de TecNM) _Relámpago 9_ (Regional)
 
 ### 2017-2018
 
@@ -32,8 +32,8 @@
 
 ### 2019-2020
 
-1. #382 (#98 de TecNM) _Equipo Dinamita_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Undefined_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Equipo Dinamita_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Undefined_ (Clasificatorio)
 
 
 

@@ -35,27 +35,27 @@
 
 ### 2009-2010
 
-1. #97 (#25 de TecNM) _ITESU01_ (Regional)
-1. #103 (#27 de TecNM) _ITESU03_ (Regional)
-1. #116 (#31 de TecNM) _ITESU02_ (Regional)
+1. #97 (#26 de TecNM) _ITESU01_ (Regional)
+1. #103 (#28 de TecNM) _ITESU03_ (Regional)
+1. #116 (#34 de TecNM) _ITESU02_ (Regional)
 
 ### 2010-2011
 
-1. #96 (#16 de TecNM) _British steel_ (Regional)
-1. #135 (#35 de TecNM) _Quantum Team_ (Regional)
-1. #154 (#42 de TecNM) _ITESU001_ (Regional)
+1. #96 (#17 de TecNM) _British steel_ (Regional)
+1. #135 (#38 de TecNM) _Quantum Team_ (Regional)
+1. #154 (#46 de TecNM) _ITESU001_ (Regional)
 
 ### 2011-2012
 
-1. #66 (#14 de TecNM) _itsu_uruapan1_ (Regional)
-1. #104 (#33 de TecNM) _itsu_uruapan2_ (Regional)
-1. #104 (#33 de TecNM) _itsu_uruapan3_ (Regional)
+1. #66 (#15 de TecNM) _itsu_uruapan1_ (Regional)
+1. #104 (#35 de TecNM) _itsu_uruapan2_ (Regional)
+1. #104 (#35 de TecNM) _itsu_uruapan3_ (Regional)
 
 ### 2012-2013
 
 1. #90 (#34 de TecNM) _itsu1_ (Regional)
-1. #129 (#50 de TecNM) _itsu3_ (Regional)
-1. #134 (#53 de TecNM) _itsu2_ (Regional)
+1. #129 (#51 de TecNM) _itsu3_ (Regional)
+1. #134 (#55 de TecNM) _itsu2_ (Regional)
 
 ### 2013-2014
 
@@ -63,7 +63,7 @@
 
 ### 2016-2017
 
-1. #121 (#20 de TecNM) _Quantus_ (Clasificatorio)
+1. #121 (#22 de TecNM) _Quantus_ (Clasificatorio)
 
 ### 2017-2018
 
@@ -72,9 +72,9 @@
 
 ### 2019-2020
 
-1. #382 (#98 de TecNM) _Equipo7_ (Clasificatorio)
-1. #382 (#98 de TecNM) _MBP_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Otro equipo de 3_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Equipo7_ (Clasificatorio)
+1. #382 (#100 de TecNM) _MBP_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Otro equipo de 3_ (Clasificatorio)
 
 ### 2020-2021
 
@@ -87,43 +87,43 @@
 
 ### 2021-2022
 
-1. #226 (#36 de TecNM) _Beni's Club_ (Clasificatorio)
-1. #226 (#36 de TecNM) _HUYSA_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Juramuti_ (Clasificatorio)
-1. #226 (#36 de TecNM) _La Resistencia_ (Clasificatorio)
-1. #226 (#36 de TecNM) _Team Shinigami_ (Clasificatorio)
-1. #226 (#36 de TecNM) _UINHAPINI_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Beni's Club_ (Clasificatorio)
+1. #226 (#37 de TecNM) _HUYSA_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Juramuti_ (Clasificatorio)
+1. #226 (#37 de TecNM) _La Resistencia_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Team Shinigami_ (Clasificatorio)
+1. #226 (#37 de TecNM) _UINHAPINI_ (Clasificatorio)
 
 ### 2022-2023
 
-1. #382 (#82 de TecNM) _3B_ (Clasificatorio)
-1. #382 (#82 de TecNM) _AlphaTeam_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Broding_ (Clasificatorio)
-1. #382 (#82 de TecNM) _CIA_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Debugger_ (Clasificatorio)
-1. #382 (#82 de TecNM) _DeeRNet_ (Clasificatorio)
-1. #382 (#82 de TecNM) _EDLIAN_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Equipo 7_Uruapan_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Equipo MVP_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Estructurados_ (Clasificatorio)
-1. #382 (#82 de TecNM) _GAR_ (Clasificatorio)
-1. #382 (#82 de TecNM) _KEE_ (Clasificatorio)
-1. #382 (#82 de TecNM) _LGSUS_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Las 3 mosqueteras_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Los Chavindecos_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Los sin nombre_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Mapaches Locos_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Mr. Chava _ (Clasificatorio)
-1. #382 (#82 de TecNM) _PACHARRITOS_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Pentacode_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Programacion Belica_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Programing dragón_ (Clasificatorio)
-1. #382 (#82 de TecNM) _RacingF1Team_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Spy_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Tec team_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Traijard's_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Venados_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Venados ITSU_ (Clasificatorio)
+1. #382 (#83 de TecNM) _3B_ (Clasificatorio)
+1. #382 (#83 de TecNM) _AlphaTeam_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Broding_ (Clasificatorio)
+1. #382 (#83 de TecNM) _CIA_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Debugger_ (Clasificatorio)
+1. #382 (#83 de TecNM) _DeeRNet_ (Clasificatorio)
+1. #382 (#83 de TecNM) _EDLIAN_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Equipo 7_Uruapan_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Equipo MVP_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Estructurados_ (Clasificatorio)
+1. #382 (#83 de TecNM) _GAR_ (Clasificatorio)
+1. #382 (#83 de TecNM) _KEE_ (Clasificatorio)
+1. #382 (#83 de TecNM) _LGSUS_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Las 3 mosqueteras_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Los Chavindecos_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Los sin nombre_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Mapaches Locos_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Mr. Chava _ (Clasificatorio)
+1. #382 (#83 de TecNM) _PACHARRITOS_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Pentacode_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Programacion Belica_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Programing dragón_ (Clasificatorio)
+1. #382 (#83 de TecNM) _RacingF1Team_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Spy_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Tec team_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Traijard's_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Venados_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Venados ITSU_ (Clasificatorio)
 
 ### 2024-2025
 

@@ -16,8 +16,8 @@
 
 ### 2016-2017
 
-1. #121 (#20 de TecNM) _Aguilas Reales_ (Clasificatorio)
-1. #121 (#20 de TecNM) _The Python U2_ (Clasificatorio)
+1. #121 (#22 de TecNM) _Aguilas Reales_ (Clasificatorio)
+1. #121 (#22 de TecNM) _The Python U2_ (Clasificatorio)
 
 
 

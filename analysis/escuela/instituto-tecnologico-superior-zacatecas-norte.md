@@ -30,9 +30,9 @@
 
 ### 2016-2017
 
-1. #121 (#20 de TecNM) _Coyote 13_ (Clasificatorio)
-1. #121 (#20 de TecNM) _La Onda_ (Clasificatorio)
-1. #121 (#20 de TecNM) _Team 9_ (Clasificatorio)
+1. #121 (#22 de TecNM) _Coyote 13_ (Clasificatorio)
+1. #121 (#22 de TecNM) _La Onda_ (Clasificatorio)
+1. #121 (#22 de TecNM) _Team 9_ (Clasificatorio)
 
 ### 2017-2018
 
@@ -54,8 +54,8 @@
 1. #145 (#20 de TecNM) _Pandilla_ (Clasificatorio)
 1. #233 (#42 de TecNM) _Cytma_ (Clasificatorio)
 1. #278 (#53 de TecNM) _Coyotes Guerreros_ (Clasificatorio)
-1. #316 (#71 de TecNM) _Irresponsables_ (Clasificatorio)
-1. #382 (#98 de TecNM) _Virtual-Maz_ (Clasificatorio)
+1. #316 (#72 de TecNM) _Irresponsables_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Virtual-Maz_ (Clasificatorio)
 
 ### 2020-2021
 

@@ -27,9 +27,9 @@
 
 ### 2019-2020
 
-1. #382 (#98 de TecNM) _HIGH LIFE_ (Clasificatorio)
-1. #382 (#98 de TecNM) _KARITGRA_ (Clasificatorio)
-1. #382 (#98 de TecNM) _THE WARRIORS_ (Clasificatorio)
+1. #382 (#100 de TecNM) _HIGH LIFE_ (Clasificatorio)
+1. #382 (#100 de TecNM) _KARITGRA_ (Clasificatorio)
+1. #382 (#100 de TecNM) _THE WARRIORS_ (Clasificatorio)
 
 ### 2020-2021
 
@@ -38,15 +38,15 @@
 
 ### 2021-2022
 
-1. #226 (#36 de TecNM) _Byte Team_ (Clasificatorio)
-1. #226 (#36 de TecNM) _TITANES 2.0_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Byte Team_ (Clasificatorio)
+1. #226 (#37 de TecNM) _TITANES 2.0_ (Clasificatorio)
 
 ### 2022-2023
 
-1. #382 (#82 de TecNM) _Byte Team 2.0_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Pixeles_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Ticsianos 1.0_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Titanes 3.0_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Byte Team 2.0_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Pixeles_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Ticsianos 1.0_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Titanes 3.0_ (Clasificatorio)
 
 
 

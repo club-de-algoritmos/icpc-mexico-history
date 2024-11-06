@@ -32,21 +32,21 @@
 
 ### 2007-2008
 
-1. #61 (#15 de TecNM) _IO EXCEPTION_ (Regional)
+1. #61 (#17 de TecNM) _IO EXCEPTION_ (Regional)
 
 ### 2010-2011
 
-1. #156 (#44 de TecNM) _HIMAGA_ (Regional)
-1. #156 (#44 de TecNM) _SIMULADORES_ (Regional)
+1. #156 (#48 de TecNM) _HIMAGA_ (Regional)
+1. #156 (#48 de TecNM) _SIMULADORES_ (Regional)
 
 ### 2011-2012
 
-1. #104 (#33 de TecNM) _HINAGA_ (Regional)
+1. #104 (#35 de TecNM) _HINAGA_ (Regional)
 
 ### 2012-2013
 
 1. #104 (#40 de TecNM) _working_ (Regional)
-1. #128 (#49 de TecNM) _s-black_ (Regional)
+1. #128 (#50 de TecNM) _s-black_ (Regional)
 
 ### 2013-2014
 
@@ -54,7 +54,7 @@
 
 ### 2014-2015
 
-1. #135 (#27 de TecNM) _Giga Shark_ (Clasificatorio)
+1. #135 (#29 de TecNM) _Giga Shark_ (Clasificatorio)
 
 ### 2015-2016
 

@@ -39,14 +39,14 @@
 
 ### 2004-2005
 
-1. #40 (#8 de TecNM) _TECZAPOPAN_ (Regional)
-1. #90 (#22 de TecNM) _PROGRAMERS_ (Regional)
+1. #40 (#9 de TecNM) _TECZAPOPAN_ (Regional)
+1. #90 (#25 de TecNM) _PROGRAMERS_ (Regional)
 
 ### 2005-2006
 
 1. #27 (#2 de TecNM) _ITSZ_ (Regional)
 1. #56 (#7 de TecNM) _TECZAPOPAN_ (Regional)
-1. #85 (#11 de TecNM) _TECZAPOPAN2_ (Regional)
+1. #85 (#12 de TecNM) _TECZAPOPAN2_ (Regional)
 
 ### 2006-2007
 
@@ -59,33 +59,33 @@
 
 1. #10 (#3 de TecNM) _Esquisofrenia_ (Regional)
 1. #33 (#5 de TecNM) _Jimmy Team_ (Regional)
-1. #56 (#13 de TecNM) _ZENTINELAS_ (Regional)
+1. #56 (#15 de TecNM) _ZENTINELAS_ (Regional)
 
 ### 2008-2009
 
-1. #58 (#8 de TecNM) _Los Rojos_ (Regional)
-1. #69 (#10 de TecNM) _LOBITOS_ (Regional)
-1. #101 (#26 de TecNM) _New Age_ (Regional)
+1. #58 (#9 de TecNM) _Los Rojos_ (Regional)
+1. #69 (#12 de TecNM) _LOBITOS_ (Regional)
+1. #101 (#29 de TecNM) _New Age_ (Regional)
 
 ### 2009-2010
 
 1. #51 (#7 de TecNM) _Esquizofrenia_ (Regional)
-1. #85 (#19 de TecNM) _Fenix_ (Regional)
+1. #85 (#20 de TecNM) _Fenix_ (Regional)
 
 ### 2010-2011
 
-1. #42 (#2 de TecNM) _LOBOS III_ (Regional)
-1. #101 (#17 de TecNM) _Exquisofrenia II_ (Regional)
-1. #145 (#40 de TecNM) _Wolf Developers_ (Regional)
+1. #42 (#3 de TecNM) _LOBOS III_ (Regional)
+1. #101 (#18 de TecNM) _Exquisofrenia II_ (Regional)
+1. #145 (#43 de TecNM) _Wolf Developers_ (Regional)
 
 ### 2011-2012
 
-1. #104 (#33 de TecNM) _lobos2_ (Regional)
+1. #104 (#35 de TecNM) _lobos2_ (Regional)
 
 ### 2012-2013
 
 1. #100 (#37 de TecNM) _itsLobos_ (Regional)
-1. #134 (#53 de TecNM) _Comelonches_ (Regional)
+1. #134 (#55 de TecNM) _Comelonches_ (Regional)
 
 ### 2013-2014
 
@@ -94,9 +94,9 @@
 
 ### 2014-2015
 
-1. #119 (#19 de TecNM) _itsLobos1_ (Clasificatorio)
-1. #195 (#47 de TecNM) _EXPCODEBLOK_ (Clasificatorio)
-1. #204 (#52 de TecNM) _itsLobos2_ (Clasificatorio)
+1. #119 (#21 de TecNM) _itsLobos1_ (Clasificatorio)
+1. #195 (#52 de TecNM) _EXPCODEBLOK_ (Clasificatorio)
+1. #204 (#57 de TecNM) _itsLobos2_ (Clasificatorio)
 
 ### 2015-2016
 
@@ -107,8 +107,8 @@
 
 ### 2016-2017
 
-1. #121 (#20 de TecNM) _DDOS_ (Clasificatorio)
-1. #121 (#20 de TecNM) _TECZAPOPAN V. 2.2_ (Clasificatorio)
+1. #121 (#22 de TecNM) _DDOS_ (Clasificatorio)
+1. #121 (#22 de TecNM) _TECZAPOPAN V. 2.2_ (Clasificatorio)
 
 ### 2017-2018
 
@@ -125,7 +125,7 @@
 ### 2019-2020
 
 1. #227 (#40 de TecNM) _Lobocoders_ (Clasificatorio)
-1. #297 (#61 de TecNM) _Aristogatos_ (Clasificatorio)
+1. #297 (#62 de TecNM) _Aristogatos_ (Clasificatorio)
 
 
 

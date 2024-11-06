@@ -32,36 +32,36 @@
 
 ### 2005-2006
 
-1. #85 (#11 de TecNM) _ITESZA_ (Regional)
-1. #85 (#11 de TecNM) _ITESZB_ (Regional)
+1. #85 (#12 de TecNM) _ITESZA_ (Regional)
+1. #85 (#12 de TecNM) _ITESZB_ (Regional)
 
 ### 2008-2009
 
-1. #85 (#19 de TecNM) _itesz02_ (Regional)
-1. #101 (#26 de TecNM) _itesz01_ (Regional)
+1. #85 (#22 de TecNM) _itesz02_ (Regional)
+1. #101 (#29 de TecNM) _itesz01_ (Regional)
 
 ### 2009-2010
 
 1. #46 (#5 de TecNM) _ITESZ01_ (Regional)
-1. #116 (#31 de TecNM) _ITESZ02_ (Regional)
+1. #116 (#34 de TecNM) _ITESZ02_ (Regional)
 
 ### 2010-2011
 
-1. #43 (#3 de TecNM) _ITESZ01_ (Regional)
-1. #84 (#11 de TecNM) _ITESZ02_ (Regional)
-1. #90 (#13 de TecNM) _ITESZ03_ (Regional)
+1. #43 (#4 de TecNM) _ITESZ01_ (Regional)
+1. #84 (#12 de TecNM) _ITESZ02_ (Regional)
+1. #90 (#14 de TecNM) _ITESZ03_ (Regional)
 
 ### 2011-2012
 
 1. #40 (#3 de TecNM) _ITESZ01_ (Regional)
-1. #85 (#24 de TecNM) _ITESZ02_ (Regional)
-1. #104 (#33 de TecNM) _ITESZ03_ (Regional)
+1. #85 (#25 de TecNM) _ITESZ02_ (Regional)
+1. #104 (#35 de TecNM) _ITESZ03_ (Regional)
 
 ### 2012-2013
 
 1. #14 (#4 de TecNM) _last_generation_itesz_ (Regional)
 1. #35 (#13 de TecNM) _ITESZ01_ (Regional)
-1. #118 (#45 de TecNM) _The Wrong Answers_ (Regional)
+1. #118 (#46 de TecNM) _The Wrong Answers_ (Regional)
 
 ### 2013-2014
 
@@ -76,10 +76,10 @@
 
 ### 2022-2023
 
-1. #382 (#82 de TecNM) _4Mims_ (Clasificatorio)
-1. #382 (#82 de TecNM) _TecnoZorros_ (Clasificatorio)
-1. #382 (#82 de TecNM) _Zorros Tec Zamora_ (Clasificatorio)
-1. #382 (#82 de TecNM) _itesz_5toA_ (Clasificatorio)
+1. #382 (#83 de TecNM) _4Mims_ (Clasificatorio)
+1. #382 (#83 de TecNM) _TecnoZorros_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Zorros Tec Zamora_ (Clasificatorio)
+1. #382 (#83 de TecNM) _itesz_5toA_ (Clasificatorio)
 
 
 

@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **22** | **69** | **88** |
+| **Total** | **0** | **0** | **22** | **76** | **95** |
 | [2004-2005](#2004-2005) | 0 | 0 | 2 | 0 | 2 |
 | [2005-2006](#2005-2006) | 0 | 0 | 2 | 0 | 2 |
 | [2006-2007](#2006-2007) | 0 | 0 | 1 | 0 | 1 |
@@ -37,6 +37,7 @@
 | [2020-2021](#2020-2021) | 0 | 0 | 0 | 7 | 7 |
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 13 | 13 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 14 | 14 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 7 | 7 |
 
 ### 2004-2005
 
@@ -176,6 +177,16 @@
 1. #382 (#82 de TecNM) _Team Tics_ (Clasificatorio)
 1. #382 (#82 de TecNM) _The pixies_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Warriors_ (Clasificatorio)
+
+### 2024-2025
+
+1. #482 (#114 de TecNM) _Conjunto Programación_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Game boys_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Guerreros binarios_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Los Tazos Dorados_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Miku Developers_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Team Misericordia_ (Clasificatorio)
+1. #482 (#114 de TecNM) _syntax.error_ (Clasificatorio)
 
 
 

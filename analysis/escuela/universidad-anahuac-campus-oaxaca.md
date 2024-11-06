@@ -10,8 +10,8 @@
 1. _JJL_ resolvió 3 problemas y obtuvo el lugar #39 (95%) en The 2018 ICPC Mexico and Central America Finals
 1. _Leones->Code();_ resolvió 3 problemas y obtuvo el lugar #34 (93%) en The 2023 ICPC Mexico Finals
 1. _JJC_ resolvió 2 problemas y obtuvo el lugar #48 (93%) en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _Team Overflow_ resolvió 9 problemas y obtuvo el lugar #88 (93%) en The 2024 ICPC Gran Premio de Mexico
 1. _Los vengadores_ resolvió 2 problemas y obtuvo el lugar #58 (89%) en The 2016 ACM-ICPC Mexico and Central America Finals
-1. _SAJ_ resolvió 4 problemas y obtuvo el lugar #152 (88%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **12** | **32** | **33** |
+| **Total** | **0** | **0** | **12** | **40** | **41** |
 | [2012-2013](#2012-2013) | 0 | 0 | 1 | 0 | 1 |
 | [2014-2015](#2014-2015) | 0 | 0 | 1 | 2 | 2 |
 | [2015-2016](#2015-2016) | 0 | 0 | 1 | 1 | 1 |
@@ -31,6 +31,7 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 2 | 2 |
 | [2022-2023](#2022-2023) | 0 | 0 | 1 | 4 | 4 |
 | [2023-2024](#2023-2024) | 0 | 0 | 1 | 4 | 4 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 8 | 8 |
 
 ### 2012-2013
 
@@ -97,6 +98,17 @@
 1. #146 _Team Overflow_ (Clasificatorio)
 1. #222 _LHM_ (Clasificatorio)
 1. #256 _APC_ (Clasificatorio)
+
+### 2024-2025
+
+1. #88 _Team Overflow_ (Clasificatorio)
+1. #151 _EABMODEL_ (Clasificatorio)
+1. #226 _LHM_ (Clasificatorio)
+1. #240 _Green team_ (Clasificatorio)
+1. #248 _leones_code(p,a,d)_ (Clasificatorio)
+1. #482 _EABMODEL__ (Clasificatorio)
+1. #482 _Leones_code(p,a,d)_ (Clasificatorio)
+1. #482 _Team Overflow 2_ (Clasificatorio)
 
 
 

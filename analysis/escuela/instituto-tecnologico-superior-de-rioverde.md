@@ -19,10 +19,11 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **0** | **16** | **16** |
+| **Total** | **0** | **0** | **0** | **29** | **29** |
 | [2019-2020](#2019-2020) | 0 | 0 | 0 | 7 | 7 |
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 4 | 4 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 5 | 5 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 13 | 13 |
 
 ### 2019-2020
 
@@ -48,6 +49,22 @@
 1. #382 (#82 de TecNM) _Empty_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Inge's_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Lisdexia_ (Clasificatorio)
+
+### 2024-2025
+
+1. #482 (#114 de TecNM) _Code Warriors_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Pioneros del pixel_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Psg_ (Clasificatorio)
+1. #482 (#114 de TecNM) _RSC_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Shadow Garden Returns_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Team Sangre_ (Clasificatorio)
+1. #482 (#114 de TecNM) _The Rising Code_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Threads _ (Clasificatorio)
+1. #482 (#114 de TecNM) _Tikis_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Todo Terreno_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Tornao_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Xforce_ (Clasificatorio)
+1. #482 (#114 de TecNM) _la 4T_ (Clasificatorio)
 
 
 

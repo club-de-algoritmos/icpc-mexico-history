@@ -14,9 +14,9 @@
     - Avanzó a la final mundial y resolvió 2 problemas y obtuvo el lugar #76 (36%) en 37th Annual World Finals of the ACM International Collegiate Programming Contest
 1. _ArkanianPhoenix_ resolvió 2 problemas y obtuvo el lugar #40 (91%) en The 2023 ICPC Mexico Finals
 1. _UPsolving_ resolvió 7 problemas y obtuvo el lugar #5 (100%) en The 2018 ICPC Mexico and Central America Finals
+1. _UPsolving_ resolvió 21 problemas y obtuvo el lugar #6 (100%) en The 2024 ICPC Gran Premio de Mexico
 1. _Chicos_Percebe_ resolvió 5 problemas y obtuvo el lugar #6 (100%) en The 2022 ICPC Mexico Finals
 1. _ICPCrikos_ resolvió 4 problemas y obtuvo el lugar #6 (99%) en The 2021 ICPC Mexico Finals
-1. _Las tortillas de Héctor_ resolvió 5 problemas y obtuvo el lugar #7 (99%) en The 2023 ICPC Mexico Finals
 
 ## Participaciones
 
@@ -24,7 +24,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **5** | **1** | **37** | **90** | **103** |
+| **Total** | **5** | **1** | **37** | **102** | **115** |
 | [2007-2008](#2007-2008) | 0 | 0 | 1 | 0 | 1 |
 | [2008-2009](#2008-2009) | 0 | 0 | 2 | 0 | 2 |
 | [2009-2010](#2009-2010) | 0 | 0 | 1 | 0 | 1 |
@@ -42,6 +42,7 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 3 | 10 | 10 |
 | [2022-2023](#2022-2023) | 1 | 0 | 3 | 14 | 14 |
 | [2023-2024](#2023-2024) | 0 | 1 | 4 | 14 | 14 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 12 | 12 |
 
 ### 2007-2008
 
@@ -201,6 +202,21 @@
 1. #344 _Bugs Bunnies_ (Clasificatorio)
 1. #364 _CHIPOCLUDOS_ (Clasificatorio)
 1. #425 _505_ (Clasificatorio)
+
+### 2024-2025
+
+1. #6 _UPsolving_ (Clasificatorio)
+1. #8 _UPgraded_ (Clasificatorio)
+1. #16 _Legion501_ (Clasificatorio)
+1. #47 _ISeePC_ (Clasificatorio)
+1. #74 _The last dance_ (Clasificatorio)
+1. #81 _RocketUP_ (Clasificatorio)
+1. #146 _HolaMundo_ (Clasificatorio)
+1. #212 _Quack++_ (Clasificatorio)
+1. #258 _Los Taqueros III_ (Clasificatorio)
+1. #393 _Natahaters_ (Clasificatorio)
+1. #434 _Natalovers_ (Clasificatorio)
+1. #482 _Neptune Team_ (Clasificatorio)
 
 
 

@@ -21,7 +21,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **2** | **0** | **34** | **43** | **76** |
+| **Total** | **2** | **0** | **34** | **56** | **89** |
 | [2000-2001](#2000-2001) | 1 | 0 | 0 | 0 | 1 |
 | [2001-2002](#2001-2002) | 1 | 0 | 4 | 0 | 4 |
 | [2002-2003](#2002-2003) | 0 | 0 | 2 | 0 | 2 |
@@ -43,6 +43,7 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 4 | 4 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 3 | 3 |
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 1 | 1 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 13 | 13 |
 
 ### 2000-2001
 
@@ -184,6 +185,22 @@
 ### 2023-2024
 
 1. #455 (#130 de TecNM) _Taco 2: El regreso_ (Clasificatorio)
+
+### 2024-2025
+
+1. #482 (#114 de TecNM) _Code Kiwami_ (Clasificatorio)
+1. #482 (#114 de TecNM) _J.R.R. Tolkien.py_ (Clasificatorio)
+1. #482 (#114 de TecNM) _JavaCopilot3_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Los Eevee_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Maxtec_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Nano_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Nova Tec_ (Clasificatorio)
+1. #482 (#114 de TecNM) _RuntimeTerror_ (Clasificatorio)
+1. #482 (#114 de TecNM) _TaCo 3: Mas recargados que nunca_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Vectorianos_ (Clasificatorio)
+1. #482 (#114 de TecNM) _XMP_ (Clasificatorio)
+1. #482 (#114 de TecNM) _not False_ (Clasificatorio)
+1. #482 (#114 de TecNM) _pollito churs_ (Clasificatorio)
 
 
 

@@ -8,10 +8,10 @@
 1. _Remove_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _System Eagles_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _Namesake Team_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _CCup24_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
+1. _CodingGirls_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
+1. _JAN Code_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
 1. _The Conqueros_ resolvió 1 problemas y obtuvo el lugar #33 (59%) en The 2001 ACM Mexico and Central America Programming Contest
-1. _ABG CODE_ resolvió 0 problemas y obtuvo el lugar #226 (53%) en The 2021 ICPC Gran Premio de Mexico
-1. _CODE MATH_ resolvió 0 problemas y obtuvo el lugar #226 (53%) en The 2021 ICPC Gran Premio de Mexico
-1. _ChocoSoft_ resolvió 0 problemas y obtuvo el lugar #226 (53%) en The 2021 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -19,13 +19,14 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **1** | **17** | **18** |
+| **Total** | **0** | **0** | **1** | **20** | **21** |
 | [2001-2002](#2001-2002) | 0 | 0 | 1 | 0 | 1 |
 | [2019-2020](#2019-2020) | 0 | 0 | 0 | 5 | 5 |
 | [2020-2021](#2020-2021) | 0 | 0 | 0 | 3 | 3 |
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 7 | 7 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 1 | 1 |
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 1 | 1 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 3 | 3 |
 
 ### 2001-2002
 
@@ -62,6 +63,12 @@
 ### 2023-2024
 
 1. #458 (#133 de TecNM) _G5_ (Clasificatorio)
+
+### 2024-2025
+
+1. #482 (#114 de TecNM) _CCup24_ (Clasificatorio)
+1. #482 (#114 de TecNM) _CodingGirls_ (Clasificatorio)
+1. #482 (#114 de TecNM) _JAN Code_ (Clasificatorio)
 
 
 

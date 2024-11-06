@@ -6,12 +6,12 @@
 1. _BugHunterAddicts_ resolvió 1 problemas y obtuvo el lugar #49 (90%) en The 2021 ICPC Mexico Finals
 1. _Siuuu++_ resolvió 1 problemas y obtuvo el lugar #51 (89%) en The 2023 ICPC Mexico Finals
 1. _Googol_ resolvió 7 problemas y obtuvo el lugar #88 (86%) en Gran Premio de Mexico & Centroamerica 2017
+1. _Shalusco_ resolvió 5 problemas y obtuvo el lugar #208 (83%) en The 2024 ICPC Gran Premio de Mexico
 1. _Los Tlacuaches de Turín_ resolvió 5 problemas y obtuvo el lugar #93 (80%) en The 2023 ICPC Gran Premio de Mexico
 1. _ARM_ resolvió 4 problemas y obtuvo el lugar #134 (80%) en Gran Premio de Mexico & Centroamerica 2017
 1. _Los Tlacuaches de Turín_ resolvió 3 problemas y obtuvo el lugar #223 (79%) en The 2022 ICPC Gran Premio de Mexico
 1. _TTTeam_ resolvió 3 problemas y obtuvo el lugar #44 (78%) en The 2010 Mexico & Central America Regional Contest
 1. _Siuuu++_ resolvió 4 problemas y obtuvo el lugar #244 (77%) en The 2022 ICPC Gran Premio de Mexico
-1. _ITESM TOLUCA_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **12** | **23** | **33** |
+| **Total** | **0** | **0** | **12** | **29** | **39** |
 | [2007-2008](#2007-2008) | 0 | 0 | 1 | 0 | 1 |
 | [2008-2009](#2008-2009) | 0 | 0 | 3 | 0 | 3 |
 | [2009-2010](#2009-2010) | 0 | 0 | 2 | 0 | 2 |
@@ -31,6 +31,7 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 1 | 5 | 5 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 5 | 5 |
 | [2023-2024](#2023-2024) | 0 | 0 | 1 | 3 | 3 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 6 | 6 |
 
 ### 2007-2008
 
@@ -97,6 +98,15 @@
 1. #51 (#8 de ITESM) _Siuuu++_ (Regional)
 1. #93 (#13 de ITESM) _Los Tlacuaches de Turín_ (Clasificatorio)
 1. #171 (#23 de ITESM) _Lxs Pixies_ (Clasificatorio)
+
+### 2024-2025
+
+1. #208 (#34 de ITESM) _Shalusco_ (Clasificatorio)
+1. #297 (#47 de ITESM) _Los Tlacuaches de Turín_ (Clasificatorio)
+1. #315 (#54 de ITESM) _Alvama_ (Clasificatorio)
+1. #328 (#57 de ITESM) _Equipo Dinamita_ (Clasificatorio)
+1. #482 (#69 de ITESM) _Crocks_ (Clasificatorio)
+1. #482 (#69 de ITESM) _Tifosis_ (Clasificatorio)
 
 
 

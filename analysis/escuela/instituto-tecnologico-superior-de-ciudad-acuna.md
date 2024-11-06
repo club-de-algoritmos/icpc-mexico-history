@@ -19,11 +19,12 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **0** | **21** | **21** |
+| **Total** | **0** | **0** | **0** | **32** | **32** |
 | [2019-2020](#2019-2020) | 0 | 0 | 0 | 2 | 2 |
 | [2020-2021](#2020-2021) | 0 | 0 | 0 | 2 | 2 |
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 9 | 9 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 8 | 8 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 11 | 11 |
 
 ### 2019-2020
 
@@ -57,6 +58,20 @@
 1. #382 (#82 de TecNM) _Sistemac_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Snapdragon_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Thot_ (Clasificatorio)
+
+### 2024-2025
+
+1. #482 (#114 de TecNM) _ ITSA_COMPILERS_ (Clasificatorio)
+1. #482 (#114 de TecNM) _57_ (Clasificatorio)
+1. #482 (#114 de TecNM) _BugsBusters_ (Clasificatorio)
+1. #482 (#114 de TecNM) _ITSA127_ (Clasificatorio)
+1. #482 (#114 de TecNM) _ITSABinary_ (Clasificatorio)
+1. #482 (#114 de TecNM) _ITSA_Roboblacks_ (Clasificatorio)
+1. #482 (#114 de TecNM) _ITSA_Source_ (Clasificatorio)
+1. #482 (#114 de TecNM) _ITSAlgorithms_ (Clasificatorio)
+1. #482 (#114 de TecNM) _ITSApowergirls_ (Clasificatorio)
+1. #482 (#114 de TecNM) _ITSArray_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Schuttenhacking2_ (Clasificatorio)
 
 
 

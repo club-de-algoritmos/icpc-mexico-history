@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **17** | **27** | **44** |
+| **Total** | **0** | **0** | **17** | **30** | **47** |
 | [2009-2010](#2009-2010) | 0 | 0 | 2 | 0 | 2 |
 | [2010-2011](#2010-2011) | 0 | 0 | 4 | 0 | 4 |
 | [2011-2012](#2011-2012) | 0 | 0 | 3 | 0 | 3 |
@@ -29,6 +29,7 @@
 | [2017-2018](#2017-2018) | 0 | 0 | 0 | 2 | 2 |
 | [2019-2020](#2019-2020) | 0 | 0 | 0 | 12 | 12 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 10 | 10 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 3 | 3 |
 
 ### 2009-2010
 
@@ -100,6 +101,12 @@
 1. #382 (#82 de TecNM) _OREO_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Triple Punto Muerto_ (Clasificatorio)
 1. #382 (#82 de TecNM) _pseudocuinique_ (Clasificatorio)
+
+### 2024-2025
+
+1. #482 (#114 de TecNM) _la santisima trinidad_ (Clasificatorio)
+1. #482 (#114 de TecNM) _los apa_ (Clasificatorio)
+1. #482 (#114 de TecNM) _veyjolau_ (Clasificatorio)
 
 
 

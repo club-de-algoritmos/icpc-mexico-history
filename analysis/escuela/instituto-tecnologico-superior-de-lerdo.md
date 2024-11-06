@@ -10,8 +10,8 @@
 1. _MASTER.NET_ resolvió 2 problemas y obtuvo el lugar #75 (85%) en The 2016 ACM-ICPC Mexico and Central America Finals
 1. _Hi Universe_ resolvió 3 problemas y obtuvo el lugar #156 (85%) en The 2022 ICPC Gran Premio de Mexico
 1. _MASTER.NET_ resolvió 5 problemas y obtuvo el lugar #111 (83%) en Gran Premio de Mexico & Centroamerica 2017
+1. _ZaGa Team_ resolvió 5 problemas y obtuvo el lugar #211 (83%) en The 2024 ICPC Gran Premio de Mexico
 1. _WHITE_SPACE_ resolvió 3 problemas y obtuvo el lugar #223 (83%) en Gran Premio de Mexico 2019
-1. _TEAM PORRAS.CS_ resolvió 2 problemas y obtuvo el lugar #246 (81%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **26** | **73** | **97** |
+| **Total** | **0** | **0** | **26** | **92** | **116** |
 | [2005-2006](#2005-2006) | 0 | 0 | 3 | 0 | 3 |
 | [2007-2008](#2007-2008) | 0 | 0 | 3 | 0 | 3 |
 | [2008-2009](#2008-2009) | 0 | 0 | 3 | 0 | 3 |
@@ -38,6 +38,7 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 6 | 6 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 13 | 13 |
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 7 | 7 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 19 | 19 |
 
 ### 2005-2006
 
@@ -189,6 +190,28 @@
 1. #389 (#102 de TecNM) _ALGAmigos_ (Clasificatorio)
 1. #436 (#113 de TecNM) _Destructores_ (Clasificatorio)
 1. #437 (#114 de TecNM) _The Code Girls_ (Clasificatorio)
+
+### 2024-2025
+
+1. #211 (#38 de TecNM) _ZaGa Team_ (Clasificatorio)
+1. #215 (#40 de TecNM) _Strix_ (Clasificatorio)
+1. #230 (#45 de TecNM) _Somos_ (Clasificatorio)
+1. #237 (#49 de TecNM) _Los amigos_ (Clasificatorio)
+1. #242 (#50 de TecNM) _Pragma_ (Clasificatorio)
+1. #292 (#58 de TecNM) _TecHub_ (Clasificatorio)
+1. #294 (#59 de TecNM) _TECKERS_ (Clasificatorio)
+1. #295 (#60 de TecNM) _The Digital DMG_ (Clasificatorio)
+1. #319 (#64 de TecNM) _THE CODERS_ (Clasificatorio)
+1. #325 (#66 de TecNM) _SHARP TANK_ (Clasificatorio)
+1. #329 (#67 de TecNM) _Katech_ (Clasificatorio)
+1. #330 (#68 de TecNM) _Los Tecnotulums_ (Clasificatorio)
+1. #354 (#77 de TecNM) _Guardians_ (Clasificatorio)
+1. #360 (#78 de TecNM) _KiwiCoders VGM_ (Clasificatorio)
+1. #367 (#81 de TecNM) _Team Waos_ (Clasificatorio)
+1. #478 (#112 de TecNM) _Softgirls_ (Clasificatorio)
+1. #481 (#113 de TecNM) _Flecha_ (Clasificatorio)
+1. #482 (#114 de TecNM) _ALGAmigos_ (Clasificatorio)
+1. #482 (#114 de TecNM) _The Paragonsitos_ (Clasificatorio)
 
 
 

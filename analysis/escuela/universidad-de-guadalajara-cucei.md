@@ -10,12 +10,12 @@
     - Avanzó a la final mundial y resolvió 3 problemas y obtuvo el lugar #62 (50%) en 46th Annual World Finals of the International Collegiate Programming Contest
 1. _U de G ACM Problem Solvers_ resolvió 6 problemas y obtuvo el lugar #1 (100%) en The 2007 ACM Mexico and Central America Programming Contest
     - Avanzó a la final mundial y resolvió 2 problemas y obtuvo el lugar #65 (35%) en The 2008 ACM Programming Contest World Finals
+1. _Motomomis_ resolvió 22 problemas y obtuvo el lugar #7 (100%) en The 2024 ICPC Gran Premio de Mexico
 1. _Ma+aLeones7000_ resolvió 4 problemas y obtuvo el lugar #10 (99%) en The 2022 ICPC Mexico Finals
 1. _Leones(0,0,0);_ resolvió 4 problemas y obtuvo el lugar #17 (99%) en The 2019 ICPC Mexico Finals
 1. _DeltaWing_ resolvió 5 problemas y obtuvo el lugar #10 (98%) en The 2023 ICPC Mexico Finals
 1. _The Empire Strikes Back_ resolvió 4 problemas y obtuvo el lugar #14 (98%) en The 2020 ICPC Mexico Finals
 1. _Los Mismísimos Carajillos_ resolvió 4 problemas y obtuvo el lugar #17 (98%) en The 2022 ICPC Mexico Finals
-1. _DeltaWing_ resolvió 3 problemas y obtuvo el lugar #24 (98%) en The 2022 ICPC Mexico Finals
 
 ## Participaciones
 
@@ -23,7 +23,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **4** | **0** | **74** | **142** | **195** |
+| **Total** | **4** | **0** | **74** | **181** | **234** |
 | [2002-2003](#2002-2003) | 0 | 0 | 2 | 0 | 2 |
 | [2003-2004](#2003-2004) | 0 | 0 | 5 | 0 | 5 |
 | [2004-2005](#2004-2005) | 0 | 0 | 8 | 0 | 8 |
@@ -46,6 +46,7 @@
 | [2021-2022](#2021-2022) | 1 | 0 | 3 | 7 | 7 |
 | [2022-2023](#2022-2023) | 1 | 0 | 5 | 26 | 26 |
 | [2023-2024](#2023-2024) | 0 | 0 | 3 | 19 | 19 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 39 | 39 |
 
 ### 2002-2003
 
@@ -311,6 +312,48 @@
 1. #421 _Raptors_ (Clasificatorio)
 1. #422 _Bugbusters_ (Clasificatorio)
 1. #424 _Spring bug_ (Clasificatorio)
+
+### 2024-2025
+
+1. #7 _Motomomis_ (Clasificatorio)
+1. #29 _Con el maximum flow_ (Clasificatorio)
+1. #48 _Dead Developers Society_ (Clasificatorio)
+1. #105 _Enchiladas Verdes_ (Clasificatorio)
+1. #112 _Segfaulters_ (Clasificatorio)
+1. #136 _SkibidiToilets_ (Clasificatorio)
+1. #166 _Faith Limit Exceeded _ (Clasificatorio)
+1. #174 _lli nalgotiksqlonas_ (Clasificatorio)
+1. #183 _Sunset Ravens_ (Clasificatorio)
+1. #198 _My Melody Coders_ (Clasificatorio)
+1. #202 _Las Ritchie_ (Clasificatorio)
+1. #210 _BigBlackCode_ (Clasificatorio)
+1. #223 _Tropa Sorpresa_ (Clasificatorio)
+1. #234 _CtrlSquad!_ (Clasificatorio)
+1. #244 _Yes chef_ (Clasificatorio)
+1. #252 _AlphaCentaury_ (Clasificatorio)
+1. #308 _πk fresas _ (Clasificatorio)
+1. #313 _Hola Mundo_ (Clasificatorio)
+1. #320 _Ocotlenses Gang_ (Clasificatorio)
+1. #366 _Abraham nos invitó_ (Clasificatorio)
+1. #373 _CodeThieves_ (Clasificatorio)
+1. #398 _The Walking C_ (Clasificatorio)
+1. #426 _NoC++_ (Clasificatorio)
+1. #446 _We dont have idea what we are doing here_ (Clasificatorio)
+1. #454 _Ingenebrios_ (Clasificatorio)
+1. #457 _Static-Boys_ (Clasificatorio)
+1. #468 _Jeroglificos_ (Clasificatorio)
+1. #482 _Adictos al WA_ (Clasificatorio)
+1. #482 _Codigos Tumbados_ (Clasificatorio)
+1. #482 _Compiler Crushers_ (Clasificatorio)
+1. #482 _Dead Developer's Society_ (Clasificatorio)
+1. #482 _Destructores Macisos de Algoritmos_ (Clasificatorio)
+1. #482 _Maximum flow_ (Clasificatorio)
+1. #482 _Not BBC_ (Clasificatorio)
+1. #482 _Pura ex P6_ (Clasificatorio)
+1. #482 _Root Users_ (Clasificatorio)
+1. #482 _SkibidiPapus_ (Clasificatorio)
+1. #482 _SyntaxSquad_ (Clasificatorio)
+1. #482 _Trodones_ (Clasificatorio)
 
 
 

@@ -6,12 +6,12 @@
 1. _ACMamo_ resolvió 2 problemas y obtuvo el lugar #28 (95%) en The 2021 ICPC Mexico Finals
 1. _Solo CUT_ resolvió 3 problemas y obtuvo el lugar #40 (95%) en The 2018 ICPC Mexico and Central America Finals
 1. _Tonaltecas_ resolvió 2 problemas y obtuvo el lugar #234 (82%) en Gran Premio de Mexico 2019
+1. _MauBrunGer_ resolvió 4 problemas y obtuvo el lugar #232 (81%) en The 2024 ICPC Gran Premio de Mexico
 1. _Code Miners_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
 1. _Huevitos_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
 1. _Roxana_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
 1. _VIRTUALCOD_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
-1. _Se desbloquean celulares a domicilio_ resolvió 2 problemas y obtuvo el lugar #278 (74%) en The 2022 ICPC Gran Premio de Mexico
-1. _Los Caudillos_ resolvió 2 problemas y obtuvo el lugar #280 (73%) en The 2022 ICPC Gran Premio de Mexico
+1. _Create_ resolvió 4 problemas y obtuvo el lugar #293 (76%) en The 2024 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **3** | **39** | **39** |
+| **Total** | **0** | **0** | **3** | **52** | **52** |
 | [2016-2017](#2016-2017) | 0 | 0 | 0 | 4 | 4 |
 | [2017-2018](#2017-2018) | 0 | 0 | 0 | 4 | 4 |
 | [2018-2019](#2018-2019) | 0 | 0 | 1 | 5 | 5 |
@@ -27,6 +27,7 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 1 | 5 | 5 |
 | [2022-2023](#2022-2023) | 0 | 0 | 1 | 8 | 8 |
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 10 | 10 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 13 | 13 |
 
 ### 2016-2017
 
@@ -87,6 +88,22 @@
 1. #388 _Winners.py_ (Clasificatorio)
 1. #401 _Nietos del Berna_ (Clasificatorio)
 1. #402 _Equipo Azul_ (Clasificatorio)
+
+### 2024-2025
+
+1. #232 _MauBrunGer_ (Clasificatorio)
+1. #293 _Create_ (Clasificatorio)
+1. #322 _JoV_ (Clasificatorio)
+1. #427 _Skibidi Mewing_ (Clasificatorio)
+1. #444 _JOB_ (Clasificatorio)
+1. #463 _KCB_ (Clasificatorio)
+1. #465 _MYCKEY MOUSE_ (Clasificatorio)
+1. #473 _KEN DAN_ (Clasificatorio)
+1. #482 _AAL_ (Clasificatorio)
+1. #482 _La Arrolladora Banda el Python_ (Clasificatorio)
+1. #482 _Los Geraneos_ (Clasificatorio)
+1. #482 _NETTE_ (Clasificatorio)
+1. #482 _SkibidiMewing_ (Clasificatorio)
 
 
 

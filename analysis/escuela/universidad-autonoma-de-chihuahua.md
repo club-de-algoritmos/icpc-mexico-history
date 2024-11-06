@@ -19,13 +19,14 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **8** | **37** | **37** |
+| **Total** | **0** | **0** | **8** | **42** | **42** |
 | [2018-2019](#2018-2019) | 0 | 0 | 1 | 2 | 2 |
 | [2019-2020](#2019-2020) | 0 | 0 | 2 | 7 | 7 |
 | [2020-2021](#2020-2021) | 0 | 0 | 2 | 7 | 7 |
 | [2021-2022](#2021-2022) | 0 | 0 | 2 | 7 | 7 |
 | [2022-2023](#2022-2023) | 0 | 0 | 1 | 5 | 5 |
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 9 | 9 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 5 | 5 |
 
 ### 2018-2019
 
@@ -81,6 +82,14 @@
 1. #259 _Motomachinas_ (Clasificatorio)
 1. #348 _Las Chicas Superprogramadoras_ (Clasificatorio)
 1. #387 _UACH-icoleros_ (Clasificatorio)
+
+### 2024-2025
+
+1. #251 _Rosslyn Team Pro_ (Clasificatorio)
+1. #266 _Los TlacUACHes_ (Clasificatorio)
+1. #344 _Reflex 2.0_ (Clasificatorio)
+1. #410 _Pytilines_ (Clasificatorio)
+1. #415 _Venenosos_ (Clasificatorio)
 
 
 

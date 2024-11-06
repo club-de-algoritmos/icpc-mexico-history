@@ -19,11 +19,12 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **0** | **25** | **25** |
+| **Total** | **0** | **0** | **0** | **35** | **35** |
 | [2019-2020](#2019-2020) | 0 | 0 | 0 | 3 | 3 |
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 4 | 4 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 12 | 12 |
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 6 | 6 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 10 | 10 |
 
 ### 2019-2020
 
@@ -61,6 +62,19 @@
 1. #453 (#128 de TecNM) _ProgramaTec_ (Clasificatorio)
 1. #454 (#129 de TecNM) _Los Pixies_ (Clasificatorio)
 1. #450 (#125 de TecNM) _LosCAC_ (Clasificatorio)
+
+### 2024-2025
+
+1. #482 (#114 de TecNM) _AstroBoys-ITPN_ (Clasificatorio)
+1. #482 (#114 de TecNM) _EldenSouls-ITPN_ (Clasificatorio)
+1. #482 (#114 de TecNM) _F.R.I.E.N.D.S. ITPN_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Hack-Osos ITPN_ (Clasificatorio)
+1. #482 (#114 de TecNM) _HighSkills-ITPN_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Laser marks on the teeth ITPN_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Los Tecnohumanos ITPN_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Pequeñas Habichuelas - ITPN_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Tecnobugs ITPN_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Umizoomi-ITPN_ (Clasificatorio)
 
 
 

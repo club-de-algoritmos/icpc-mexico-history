@@ -3,15 +3,15 @@
 ## Mejores 10 equipos
 
 1. _COSTA4_ resolvió 1 problemas y obtuvo el lugar #80 (91%) en The 2018 ICPC Mexico and Central America Finals
+1. _Los gato fino_ resolvió 8 problemas y obtuvo el lugar #110 (91%) en The 2024 ICPC Gran Premio de Mexico
+1. _Sex Lovers_ resolvió 7 problemas y obtuvo el lugar #148 (88%) en The 2024 ICPC Gran Premio de Mexico
+1. _Favorite Worst Nightmare_ resolvió 6 problemas y obtuvo el lugar #169 (86%) en The 2024 ICPC Gran Premio de Mexico
 1. _COSTA8_ resolvió 3 problemas y obtuvo el lugar #202 (84%) en Gran Premio de Mexico 2019
 1. _Ya nos vamos_ resolvió 3 problemas y obtuvo el lugar #205 (84%) en Gran Premio de Mexico 2019
 1. _COSTA7_ resolvió 2 problemas y obtuvo el lugar #225 (83%) en Gran Premio de Mexico 2019
 1. _COSTA10_ resolvió 2 problemas y obtuvo el lugar #244 (81%) en Gran Premio de Mexico 2019
-1. _COSTA9_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Por la anecdota_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _COSTA2_ resolvió 2 problemas y obtuvo el lugar #249 (66%) en Gran Premio de Mexico 2018
-1. _CLM_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _Dream Team_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Ronaldinho Soccer_ resolvió 3 problemas y obtuvo el lugar #241 (80%) en The 2024 ICPC Gran Premio de Mexico
+1. _Three Leg Boys_ resolvió 2 problemas y obtuvo el lugar #339 (72%) en The 2024 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **1** | **31** | **31** |
+| **Total** | **0** | **0** | **1** | **38** | **38** |
 | [2017-2018](#2017-2018) | 0 | 0 | 0 | 4 | 4 |
 | [2018-2019](#2018-2019) | 0 | 0 | 1 | 6 | 6 |
 | [2019-2020](#2019-2020) | 0 | 0 | 0 | 6 | 6 |
@@ -27,6 +27,7 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 2 | 2 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 4 | 4 |
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 5 | 5 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 7 | 7 |
 
 ### 2017-2018
 
@@ -79,6 +80,16 @@
 1. #283 _Los Ezqui_ (Clasificatorio)
 1. #287 _Tsurus Apocalípticos_ (Clasificatorio)
 1. #289 _MAC-TEL_ (Clasificatorio)
+
+### 2024-2025
+
+1. #110 _Los gato fino_ (Clasificatorio)
+1. #148 _Sex Lovers_ (Clasificatorio)
+1. #169 _Favorite Worst Nightmare_ (Clasificatorio)
+1. #241 _Ronaldinho Soccer_ (Clasificatorio)
+1. #339 _Three Leg Boys_ (Clasificatorio)
+1. #466 _Los Telematicos_ (Clasificatorio)
+1. #482 _Apolo 11_ (Clasificatorio)
 
 
 

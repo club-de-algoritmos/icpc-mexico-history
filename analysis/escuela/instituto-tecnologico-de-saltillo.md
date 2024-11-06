@@ -2,16 +2,16 @@
 
 ## Mejores 10 equipos
 
+1. _Tlacuaches del arroyo_ resolvió 7 problemas y obtuvo el lugar #125 (90%) en The 2024 ICPC Gran Premio de Mexico
+1. _BPITS_ resolvió 7 problemas y obtuvo el lugar #135 (89%) en The 2024 ICPC Gran Premio de Mexico
+1. _static void_ resolvió 7 problemas y obtuvo el lugar #144 (88%) en The 2024 ICPC Gran Premio de Mexico
 1. _Burros Pardos_ resolvió 2 problemas y obtuvo el lugar #18 (85%) en The 2004 ACM Mexico and Central America Programming Contest
 1. _QubITS_ resolvió 4 problemas y obtuvo el lugar #190 (85%) en Gran Premio de Mexico 2019
 1. _Blujs_ resolvió 3 problemas y obtuvo el lugar #211 (84%) en Gran Premio de Mexico 2019
 1. _BLUJS_ resolvió 6 problemas y obtuvo el lugar #109 (82%) en Gran Premio de Mexico 2018
+1. _Crustáceos_ resolvió 4 problemas y obtuvo el lugar #224 (82%) en The 2024 ICPC Gran Premio de Mexico
 1. _QubITSn't_ resolvió 2 problemas y obtuvo el lugar #249 (81%) en Gran Premio de Mexico 2019
 1. _QUBIT_ resolvió 4 problemas y obtuvo el lugar #148 (78%) en Gran Premio de Mexico 2018
-1. _Planificados_ resolvió 4 problemas y obtuvo el lugar #152 (77%) en Gran Premio de Mexico 2018
-1. _Tec Guindas_ resolvió 2 problemas y obtuvo el lugar #40 (72%) en The 2005 ACM Mexico and Central America Programming Contest
-1. _Burritos-1_ resolvió 2 problemas y obtuvo el lugar #55 (68%) en The 2008 Mexico & Central America Contest
-1. _burritos13_ resolvió 1 problemas y obtuvo el lugar #50 (67%) en The 2007 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **28** | **6** | **34** |
+| **Total** | **0** | **0** | **28** | **11** | **39** |
 | [2003-2004](#2003-2004) | 0 | 0 | 2 | 0 | 2 |
 | [2004-2005](#2004-2005) | 0 | 0 | 2 | 0 | 2 |
 | [2005-2006](#2005-2006) | 0 | 0 | 2 | 0 | 2 |
@@ -32,6 +32,7 @@
 | [2013-2014](#2013-2014) | 0 | 0 | 4 | 0 | 4 |
 | [2018-2019](#2018-2019) | 0 | 0 | 0 | 3 | 3 |
 | [2019-2020](#2019-2020) | 0 | 0 | 0 | 3 | 3 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 5 | 5 |
 
 ### 2003-2004
 
@@ -102,6 +103,14 @@
 1. #190 (#27 de TecNM) _QubITS_ (Clasificatorio)
 1. #211 (#32 de TecNM) _Blujs_ (Clasificatorio)
 1. #249 (#46 de TecNM) _QubITSn't_ (Clasificatorio)
+
+### 2024-2025
+
+1. #125 (#18 de TecNM) _Tlacuaches del arroyo_ (Clasificatorio)
+1. #135 (#22 de TecNM) _BPITS_ (Clasificatorio)
+1. #144 (#25 de TecNM) _static void_ (Clasificatorio)
+1. #224 (#43 de TecNM) _Crustáceos_ (Clasificatorio)
+1. #323 (#65 de TecNM) _gaturros_ (Clasificatorio)
 
 
 

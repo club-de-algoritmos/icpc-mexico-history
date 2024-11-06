@@ -19,10 +19,11 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **0** | **26** | **26** |
+| **Total** | **0** | **0** | **0** | **30** | **30** |
 | [2019-2020](#2019-2020) | 0 | 0 | 0 | 11 | 11 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 9 | 9 |
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 6 | 6 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 4 | 4 |
 
 ### 2019-2020
 
@@ -58,6 +59,13 @@
 1. #445 (#120 de TecNM) _Java-Limo++_Team-Iguana_ (Clasificatorio)
 1. #446 (#121 de TecNM) _Dinamita_ (Clasificatorio)
 1. #447 (#122 de TecNM) _ThreeForce_ (Clasificatorio)
+
+### 2024-2025
+
+1. #482 (#114 de TecNM) _ITSH Chuunin_ (Clasificatorio)
+1. #482 (#114 de TecNM) _ITSH Jonin-A1_ (Clasificatorio)
+1. #482 (#114 de TecNM) _ITSH Jonin-A2_ (Clasificatorio)
+1. #482 (#114 de TecNM) _ITSH Novatrix_ (Clasificatorio)
 
 
 

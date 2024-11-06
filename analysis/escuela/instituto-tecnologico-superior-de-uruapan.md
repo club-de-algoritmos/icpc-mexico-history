@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **13** | **46** | **59** |
+| **Total** | **0** | **0** | **13** | **58** | **71** |
 | [2009-2010](#2009-2010) | 0 | 0 | 3 | 0 | 3 |
 | [2010-2011](#2010-2011) | 0 | 0 | 3 | 0 | 3 |
 | [2011-2012](#2011-2012) | 0 | 0 | 3 | 0 | 3 |
@@ -31,6 +31,7 @@
 | [2020-2021](#2020-2021) | 0 | 0 | 0 | 6 | 6 |
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 6 | 6 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 28 | 28 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 12 | 12 |
 
 ### 2009-2010
 
@@ -123,6 +124,21 @@
 1. #382 (#82 de TecNM) _Traijard's_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Venados_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Venados ITSU_ (Clasificatorio)
+
+### 2024-2025
+
+1. #482 (#114 de TecNM) _C-SHARTS_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Cinepolitos_z_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Code masters_ (Clasificatorio)
+1. #482 (#114 de TecNM) _ItsuCoders_ (Clasificatorio)
+1. #482 (#114 de TecNM) _JNJ_ (Clasificatorio)
+1. #482 (#114 de TecNM) _LOS 5A_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Los codificadores_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Los electronicos_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Los jeimis_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Pythons_ (Clasificatorio)
+1. #482 (#114 de TecNM) _TecUruapan_ (Clasificatorio)
+1. #482 (#114 de TecNM) _los amlovers_ (Clasificatorio)
 
 
 

@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **2** | **37** | **37** |
+| **Total** | **0** | **0** | **2** | **42** | **42** |
 | [2014-2015](#2014-2015) | 0 | 0 | 0 | 3 | 3 |
 | [2015-2016](#2015-2016) | 0 | 0 | 1 | 3 | 3 |
 | [2016-2017](#2016-2017) | 0 | 0 | 1 | 8 | 8 |
@@ -29,6 +29,7 @@
 | [2020-2021](#2020-2021) | 0 | 0 | 0 | 5 | 5 |
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 3 | 3 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 2 | 2 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 5 | 5 |
 
 ### 2014-2015
 
@@ -93,6 +94,14 @@
 
 1. #382 (#82 de TecNM) _MOJ_SYS_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Tec_Lions_ (Clasificatorio)
+
+### 2024-2025
+
+1. #482 (#114 de TecNM) _Digital Dreamers_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Entusiastas de la secante cúbica_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Logic Lords ITL_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Sentai_ (Clasificatorio)
+1. #482 (#114 de TecNM) _simBIOSis_ (Clasificatorio)
 
 
 

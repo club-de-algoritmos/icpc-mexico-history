@@ -19,12 +19,13 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **0** | **64** | **64** |
+| **Total** | **0** | **0** | **0** | **65** | **65** |
 | [2019-2020](#2019-2020) | 0 | 0 | 0 | 27 | 27 |
 | [2020-2021](#2020-2021) | 0 | 0 | 0 | 6 | 6 |
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 1 | 1 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 24 | 24 |
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 6 | 6 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 1 | 1 |
 
 ### 2019-2020
 
@@ -104,6 +105,10 @@
 1. #363 (#90 de TecNM) _Pathetic_ (Clasificatorio)
 1. #399 (#107 de TecNM) _Squad Boom_ (Clasificatorio)
 1. #448 (#123 de TecNM) _404 Not Found_ (Clasificatorio)
+
+### 2024-2025
+
+1. #482 (#114 de TecNM) _Monos Chinos_ (Clasificatorio)
 
 
 

@@ -4,14 +4,14 @@
 
 1. _!nullptr_ resolvió 4 problemas y obtuvo el lugar #7 (99%) en The 2021 ICPC Mexico Finals
 1. _!nullptr_ resolvió 4 problemas y obtuvo el lugar #13 (98%) en The 2020 ICPC Mexico Finals
+1. _!nullptr_ resolvió 13 problemas y obtuvo el lugar #30 (98%) en The 2024 ICPC Gran Premio de Mexico
 1. _¿Qué?_ resolvió 3 problemas y obtuvo el lugar #33 (98%) en The 2019 ICPC Mexico Finals
 1. _!nullptr_ resolvió 2 problemas y obtuvo el lugar #34 (97%) en The 2022 ICPC Mexico Finals
 1. _Opilimpicos_ resolvió 1 problemas y obtuvo el lugar #47 (96%) en The 2019 ICPC Mexico Finals
 1. _!nullptr_ resolvió 4 problemas y obtuvo el lugar #23 (95%) en The 2023 ICPC Mexico Finals
 1. _Equipo_ resolvió 3 problemas y obtuvo el lugar #45 (95%) en The 2018 ICPC Mexico and Central America Finals
 1. _js++_ resolvió 1 problemas y obtuvo el lugar #53 (95%) en The 2022 ICPC Mexico Finals
-1. _camel_case_ resolvió 10 problemas y obtuvo el lugar #61 (94%) en The 2022 ICPC Gran Premio de Mexico
-1. _Algorítmicos_ resolvió 9 problemas y obtuvo el lugar #68 (93%) en The 2022 ICPC Gran Premio de Mexico
+1. _camel_case_ resolvió 9 problemas y obtuvo el lugar #65 (95%) en The 2024 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **11** | **81** | **83** |
+| **Total** | **0** | **0** | **11** | **95** | **97** |
 | [2002-2003](#2002-2003) | 0 | 0 | 1 | 0 | 1 |
 | [2012-2013](#2012-2013) | 0 | 0 | 1 | 0 | 1 |
 | [2018-2019](#2018-2019) | 0 | 0 | 1 | 4 | 4 |
@@ -28,6 +28,7 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 1 | 6 | 6 |
 | [2022-2023](#2022-2023) | 0 | 0 | 2 | 17 | 17 |
 | [2023-2024](#2023-2024) | 0 | 0 | 2 | 21 | 21 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 14 | 14 |
 
 ### 2002-2003
 
@@ -135,6 +136,23 @@
 1. #316 _The Worst Generation_ (Clasificatorio)
 1. #329 _Kernel panic_ (Clasificatorio)
 1. #418 _The Esys_ (Clasificatorio)
+
+### 2024-2025
+
+1. #30 _!nullptr_ (Clasificatorio)
+1. #65 _camel_case_ (Clasificatorio)
+1. #138 _Chaotics_ (Clasificatorio)
+1. #149 _MothSteppers_ (Clasificatorio)
+1. #167 _Alivianame con una funa_ (Clasificatorio)
+1. #175 _Dynamic Girls_ (Clasificatorio)
+1. #259 _Los del Ciber_ (Clasificatorio)
+1. #363 _Oseloth_ (Clasificatorio)
+1. #368 _Cyberfurros_ (Clasificatorio)
+1. #375 _El Equipo_ (Clasificatorio)
+1. #377 _snakeCase_ (Clasificatorio)
+1. #414 _Paps_ (Clasificatorio)
+1. #482 _Kernel panic_ (Clasificatorio)
+1. #482 _Vodka Juniors_ (Clasificatorio)
 
 
 

@@ -2,16 +2,16 @@
 
 ## Mejores 10 equipos
 
+1. _Ella programa sola_ resolvió 6 problemas y obtuvo el lugar #152 (88%) en The 2024 ICPC Gran Premio de Mexico
 1. _TecnoTeam_ resolvió 4 problemas y obtuvo el lugar #178 (83%) en The 2022 ICPC Gran Premio de Mexico
+1. _Structured Papeadas Language_ resolvió 4 problemas y obtuvo el lugar #290 (76%) en The 2024 ICPC Gran Premio de Mexico
+1. _Los triggers del norte_ resolvió 2 problemas y obtuvo el lugar #337 (72%) en The 2024 ICPC Gran Premio de Mexico
 1. _2+1_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _3BT_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _Astoreth_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _Brigada 0_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _CAMPUSII_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _Dream Team_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Equipo 3_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _NERV_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _SUMARI_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 
@@ -19,12 +19,13 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **0** | **20** | **20** |
+| **Total** | **0** | **0** | **0** | **23** | **23** |
 | [2019-2020](#2019-2020) | 0 | 0 | 0 | 9 | 9 |
 | [2020-2021](#2020-2021) | 0 | 0 | 0 | 1 | 1 |
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 1 | 1 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 8 | 8 |
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 1 | 1 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 3 | 3 |
 
 ### 2019-2020
 
@@ -60,6 +61,12 @@
 ### 2023-2024
 
 1. #444 (#119 de TecNM) _Código Chihuahuense_ (Clasificatorio)
+
+### 2024-2025
+
+1. #152 (#28 de TecNM) _Ella programa sola_ (Clasificatorio)
+1. #290 (#57 de TecNM) _Structured Papeadas Language_ (Clasificatorio)
+1. #337 (#70 de TecNM) _Los triggers del norte_ (Clasificatorio)
 
 
 

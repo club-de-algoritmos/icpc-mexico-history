@@ -19,10 +19,11 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **0** | **26** | **26** |
+| **Total** | **0** | **0** | **0** | **48** | **48** |
 | [2019-2020](#2019-2020) | 0 | 0 | 0 | 3 | 3 |
 | [2020-2021](#2020-2021) | 0 | 0 | 0 | 10 | 10 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 13 | 13 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 22 | 22 |
 
 ### 2019-2020
 
@@ -58,6 +59,31 @@
 1. #382 (#82 de TecNM) _No sabemos_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Shasadia_ (Clasificatorio)
 1. #382 (#82 de TecNM) _UMIZUMI_ (Clasificatorio)
+
+### 2024-2025
+
+1. #482 (#114 de TecNM) _Algodoneros de Peñasco_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Dominio del ITSPP_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Equipos de 3_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Gato 2_ (Clasificatorio)
+1. #482 (#114 de TecNM) _ITSPP E1_ (Clasificatorio)
+1. #482 (#114 de TecNM) _ITSPP E2_ (Clasificatorio)
+1. #482 (#114 de TecNM) _ITSPP E3_ (Clasificatorio)
+1. #482 (#114 de TecNM) _ITSPP E4_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Knight Templers_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Kurvas_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Las tres D del ITSPP_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Los Guachikoleros del ITSPP_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Los Kon_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Los Papus del ITSPP_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Los Sahuayos_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Los tazos dorados_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Los temerarios _ (Clasificatorio)
+1. #482 (#114 de TecNM) _Mario Bros del ITSPP_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Punto y Coma_ (Clasificatorio)
+1. #482 (#114 de TecNM) _SOLUC del ITSPP_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Sonoyorks_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Trifuerza _ (Clasificatorio)
 
 
 

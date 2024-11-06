@@ -19,9 +19,10 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **0** | **14** | **14** |
+| **Total** | **0** | **0** | **0** | **22** | **22** |
 | [2019-2020](#2019-2020) | 0 | 0 | 0 | 7 | 7 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 7 | 7 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 8 | 8 |
 
 ### 2019-2020
 
@@ -42,6 +43,17 @@
 1. #382 (#82 de TecNM) _Python Beta_ (Clasificatorio)
 1. #382 (#82 de TecNM) _TOBITETEAMPLAYER M1_ (Clasificatorio)
 1. #382 (#82 de TecNM) _XZUNUN_ (Clasificatorio)
+
+### 2024-2025
+
+1. #482 (#114 de TecNM) _AMATERASU_ (Clasificatorio)
+1. #482 (#114 de TecNM) _ATHENA_ (Clasificatorio)
+1. #482 (#114 de TecNM) _CHAOS COMPUTER_ (Clasificatorio)
+1. #482 (#114 de TecNM) _CODERS_ (Clasificatorio)
+1. #482 (#114 de TecNM) _DESTROYER_ (Clasificatorio)
+1. #482 (#114 de TecNM) _NOSTROMO_ (Clasificatorio)
+1. #482 (#114 de TecNM) _SANDWICH_ (Clasificatorio)
+1. #482 (#114 de TecNM) _TURING_ (Clasificatorio)
 
 
 

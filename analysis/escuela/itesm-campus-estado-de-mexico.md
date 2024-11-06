@@ -9,11 +9,11 @@
 1. _Kygerand_ resolvió 3 problemas y obtuvo el lugar #28 (98%) en The 2019 ICPC Mexico Finals
 1. _Kygerand_ resolvió 4 problemas y obtuvo el lugar #22 (97%) en The 2018 ICPC Mexico and Central America Finals
 1. _F TLE_ resolvió 3 problemas y obtuvo el lugar #28 (97%) en The 2022 ICPC Mexico Finals
+1. _súbditos de sommerville_ resolvió 5 problemas y obtuvo el lugar #43 (97%) en The 2024 ICPC Gran Premio de Mexico
 1. _Heavy Wizardy!_ resolvió 3 problemas y obtuvo el lugar #4 (96%) en The 2001 ACM Mexico and Central America Programming Contest
 1. _Bitshifters Open_ resolvió 4 problemas y obtuvo el lugar #12 (96%) en The 2014 ACM-ICPC Mexico and Central America Finals
 1. _F TLE_ resolvió 3 problemas y obtuvo el lugar #22 (96%) en The 2021 ICPC Mexico Finals
 1. _The Feel Train_ resolvió 2 problemas y obtuvo el lugar #27 (96%) en The 2017 ACM-ICPC Mexico and Central America Finals
-1. _The girls have no name_ resolvió 1 problemas y obtuvo el lugar #52 (96%) en The 2019 ICPC Mexico Finals
 
 ## Participaciones
 
@@ -21,7 +21,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **2** | **0** | **28** | **87** | **102** |
+| **Total** | **2** | **0** | **28** | **106** | **121** |
 | [1998-1999](#1998-1999) | 1 | 0 | 0 | 0 | 1 |
 | [1999-2000](#1999-2000) | 1 | 0 | 0 | 0 | 1 |
 | [2001-2002](#2001-2002) | 0 | 0 | 3 | 0 | 3 |
@@ -40,6 +40,7 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 1 | 8 | 8 |
 | [2022-2023](#2022-2023) | 0 | 0 | 1 | 14 | 14 |
 | [2023-2024](#2023-2024) | 0 | 0 | 1 | 13 | 13 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 19 | 19 |
 
 ### 1998-1999
 
@@ -198,6 +199,28 @@
 1. #227 (#33 de ITESM) _Mango_ (Clasificatorio)
 1. #248 (#34 de ITESM) _C3P0_ICPC_ (Clasificatorio)
 1. #260 (#35 de ITESM) _Last minute_ (Clasificatorio)
+
+### 2024-2025
+
+1. #43 (#7 de ITESM) _súbditos de sommerville_ (Clasificatorio)
+1. #66 (#12 de ITESM) _using brainspace;_ (Clasificatorio)
+1. #131 (#24 de ITESM) _Jokabi_ (Clasificatorio)
+1. #153 (#26 de ITESM) _koqforces_ (Clasificatorio)
+1. #156 (#27 de ITESM) _PEP8_ (Clasificatorio)
+1. #168 (#30 de ITESM) _placeholder_ (Clasificatorio)
+1. #182 (#32 de ITESM) _Colo-Colo AC de CV_ (Clasificatorio)
+1. #214 (#35 de ITESM) _ProgramadoresGPT4_ (Clasificatorio)
+1. #219 (#37 de ITESM) _Hackybaras_ (Clasificatorio)
+1. #239 (#38 de ITESM) _Code Enjoyers_ (Clasificatorio)
+1. #257 (#40 de ITESM) _tec.rs_ (Clasificatorio)
+1. #276 (#44 de ITESM) _Lorem ipsum_ (Clasificatorio)
+1. #304 (#50 de ITESM) _Fandango on core_ (Clasificatorio)
+1. #305 (#51 de ITESM) _Pink Hackers_ (Clasificatorio)
+1. #318 (#55 de ITESM) _C3PO_ (Clasificatorio)
+1. #357 (#58 de ITESM) _LND_ (Clasificatorio)
+1. #395 (#63 de ITESM) _pi two dos_ (Clasificatorio)
+1. #482 (#69 de ITESM) _Binary Tree _ (Clasificatorio)
+1. #482 (#69 de ITESM) _Erdos-Szekeres Enjoyers_ (Clasificatorio)
 
 
 

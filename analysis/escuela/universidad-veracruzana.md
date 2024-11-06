@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **7** | **27** | **33** |
+| **Total** | **0** | **0** | **7** | **29** | **35** |
 | [2002-2003](#2002-2003) | 0 | 0 | 1 | 0 | 1 |
 | [2009-2010](#2009-2010) | 0 | 0 | 2 | 0 | 2 |
 | [2012-2013](#2012-2013) | 0 | 0 | 1 | 0 | 1 |
@@ -32,6 +32,7 @@
 | [2020-2021](#2020-2021) | 0 | 0 | 0 | 4 | 4 |
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 2 | 2 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 4 | 4 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 2 | 2 |
 
 ### 2002-2003
 
@@ -101,6 +102,11 @@
 1. #382 _MojarrasUniversitarias_ (Clasificatorio)
 1. #382 _UVRangers_ (Clasificatorio)
 1. #382 _UVengers_ (Clasificatorio)
+
+### 2024-2025
+
+1. #482 _Tech Troopers_ (Clasificatorio)
+1. #482 _dinocoders_ (Clasificatorio)
 
 
 

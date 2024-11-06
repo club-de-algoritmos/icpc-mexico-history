@@ -5,13 +5,13 @@
 1. _La cabaña del tio Raggi_ resolvió 3 problemas y obtuvo el lugar #13 (98%) en The 2017 ACM-ICPC Mexico and Central America Finals
 1. _BatchNorm3d_ resolvió 3 problemas y obtuvo el lugar #27 (98%) en The 2019 ICPC Mexico Finals
 1. _ProgramaLovers_ resolvió 2 problemas y obtuvo el lugar #37 (97%) en The 2019 ICPC Mexico Finals
+1. _Bowser Bytes_ resolvió 12 problemas y obtuvo el lugar #41 (97%) en The 2024 ICPC Gran Premio de Mexico
 1. _Tupla de Camarones_ resolvió 3 problemas y obtuvo el lugar #33 (96%) en The 2018 ICPC Mexico and Central America Finals
 1. _Bugbusters_ resolvió 1 problemas y obtuvo el lugar #44 (96%) en The 2022 ICPC Mexico Finals
 1. _Las neuronas_ resolvió 1 problemas y obtuvo el lugar #47 (96%) en The 2019 ICPC Mexico Finals
 1. _Los Horchatos_ resolvió 3 problemas y obtuvo el lugar #42 (95%) en The 2018 ICPC Mexico and Central America Finals
 1. _Los de arriba son tramposos_ resolvió 2 problemas y obtuvo el lugar #42 (94%) en The 2020 ICPC Mexico Finals
 1. _La Tremenda Chimichanga_ resolvió 2 problemas y obtuvo el lugar #34 (93%) en The 2021 ICPC Mexico Finals
-1. _Los pixies_ resolvió 8 problemas y obtuvo el lugar #98 (92%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **10** | **31** | **31** |
+| **Total** | **0** | **0** | **10** | **35** | **35** |
 | [2017-2018](#2017-2018) | 0 | 0 | 1 | 3 | 3 |
 | [2018-2019](#2018-2019) | 0 | 0 | 2 | 3 | 3 |
 | [2019-2020](#2019-2020) | 0 | 0 | 3 | 7 | 7 |
@@ -27,6 +27,7 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 1 | 2 | 2 |
 | [2022-2023](#2022-2023) | 0 | 0 | 1 | 6 | 6 |
 | [2023-2024](#2023-2024) | 0 | 0 | 1 | 4 | 4 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 4 | 4 |
 
 ### 2017-2018
 
@@ -79,6 +80,13 @@
 1. #113 _A.k.a._ (Clasificatorio)
 1. #196 _Backyardigans_ (Clasificatorio)
 1. #245 _MegaByteMe_ (Clasificatorio)
+
+### 2024-2025
+
+1. #41 _Bowser Bytes_ (Clasificatorio)
+1. #123 _Khe_ (Clasificatorio)
+1. #134 _SkyCoders_ (Clasificatorio)
+1. #482 _C dospuntos_ (Clasificatorio)
 
 
 

@@ -1,4 +1,4 @@
-# Instituto Tecnológico de Querétaro
+# INSTITUTO TECNOLOGICO DE QUERETARO
 
 ## Mejores 10 equipos
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **25** | **14** | **38** |
+| **Total** | **0** | **0** | **25** | **18** | **42** |
 | [2001-2002](#2001-2002) | 0 | 0 | 3 | 0 | 3 |
 | [2003-2004](#2003-2004) | 0 | 0 | 1 | 0 | 1 |
 | [2004-2005](#2004-2005) | 0 | 0 | 4 | 0 | 4 |
@@ -35,6 +35,7 @@
 | [2019-2020](#2019-2020) | 0 | 0 | 0 | 6 | 6 |
 | [2020-2021](#2020-2021) | 0 | 0 | 1 | 1 | 1 |
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 2 | 2 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 4 | 4 |
 
 ### 2001-2002
 
@@ -118,6 +119,13 @@
 
 1. #190 (#22 de TecNM) _Los 3 reyes magos_ (Clasificatorio)
 1. #226 (#36 de TecNM) _Xokrona_ (Clasificatorio)
+
+### 2024-2025
+
+1. #482 (#114 de TecNM) _CD_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Team IA MUNDY_ (Clasificatorio)
+1. #482 (#114 de TecNM) _cachirules_ (Clasificatorio)
+1. #482 (#114 de TecNM) _zorros.asm_ (Clasificatorio)
 
 
 

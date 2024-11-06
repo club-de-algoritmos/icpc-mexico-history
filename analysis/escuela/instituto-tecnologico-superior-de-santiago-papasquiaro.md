@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **12** | **31** | **43** |
+| **Total** | **0** | **0** | **12** | **37** | **49** |
 | [2004-2005](#2004-2005) | 0 | 0 | 4 | 0 | 4 |
 | [2005-2006](#2005-2006) | 0 | 0 | 2 | 0 | 2 |
 | [2006-2007](#2006-2007) | 0 | 0 | 1 | 0 | 1 |
@@ -33,6 +33,7 @@
 | [2019-2020](#2019-2020) | 0 | 0 | 0 | 17 | 17 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 9 | 9 |
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 3 | 3 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 6 | 6 |
 
 ### 2004-2005
 
@@ -115,6 +116,15 @@
 1. #183 (#33 de TecNM) _MSV_ (Clasificatorio)
 1. #186 (#35 de TecNM) _OverClock_ (Clasificatorio)
 1. #382 (#98 de TecNM) _      Lincoder´s_ (Clasificatorio)
+
+### 2024-2025
+
+1. #460 (#104 de TecNM) _LinceCoders_ (Clasificatorio)
+1. #482 (#114 de TecNM) _DINAMITA_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Los CISCO´s (7)_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Mecatontos_ (Clasificatorio)
+1. #482 (#114 de TecNM) _TeamJ_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Tortillas de harina_ (Clasificatorio)
 
 
 

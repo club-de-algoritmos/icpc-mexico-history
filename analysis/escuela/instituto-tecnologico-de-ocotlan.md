@@ -19,10 +19,11 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **0** | **35** | **35** |
+| **Total** | **0** | **0** | **0** | **58** | **58** |
 | [2019-2020](#2019-2020) | 0 | 0 | 0 | 21 | 21 |
 | [2020-2021](#2020-2021) | 0 | 0 | 0 | 5 | 5 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 9 | 9 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 23 | 23 |
 
 ### 2019-2020
 
@@ -67,6 +68,32 @@
 1. #382 (#82 de TecNM) _Los Cuacks_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Los Molletes_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Los egocéntricos_ (Clasificatorio)
+
+### 2024-2025
+
+1. #482 (#114 de TecNM) _Astro Boys_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Bilingüesteam_ (Clasificatorio)
+1. #482 (#114 de TecNM) _BlackCode_ (Clasificatorio)
+1. #482 (#114 de TecNM) _El tim + pro_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Error 404_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Fast Fingers_ (Clasificatorio)
+1. #482 (#114 de TecNM) _G. Panteras_ (Clasificatorio)
+1. #482 (#114 de TecNM) _J.J.S._ (Clasificatorio)
+1. #482 (#114 de TecNM) _Los Aldeanos 3.0_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Los Correcaminos_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Los Hackers Ninjas_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Los Hola Mundo_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Los Mitocondrios_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Mazter_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Onces_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Piconeros_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Pineapple juice_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Programmers_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Sad-Boyzz_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Skibidi Papus_ (Clasificatorio)
+1. #482 (#114 de TecNM) _TecCat_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Visca codi_ (Clasificatorio)
+1. #482 (#114 de TecNM) _os Aferrados_ (Clasificatorio)
 
 
 

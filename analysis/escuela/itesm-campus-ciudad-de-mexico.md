@@ -8,10 +8,10 @@
 1. _make sandwich_ resolvió 3 problemas y obtuvo el lugar #30 (94%) en The 2016 ACM-ICPC Mexico and Central America Finals
 1. _M3_ resolvió 3 problemas y obtuvo el lugar #32 (94%) en The 2016 ACM-ICPC Mexico and Central America Finals
 1. _ITCCM_ resolvió 4 problemas y obtuvo el lugar #12 (93%) en The 2009 Mexico & Central America Contest
+1. _PeranoTecCoders_ resolvió 8 problemas y obtuvo el lugar #103 (92%) en The 2024 ICPC Gran Premio de Mexico
 1. _The Screens_ resolvió 1 problemas y obtuvo el lugar #60 (91%) en The 2017 ACM-ICPC Mexico and Central America Finals
 1. _Elite Penguin Force_ resolvió 6 problemas y obtuvo el lugar #120 (91%) en Gran Premio de Mexico 2019
 1. _43FAD958_ resolvió 8 problemas y obtuvo el lugar #73 (89%) en Gran Premio de Mexico & Centroamerica 2017
-1. _Team extends God_ resolvió 5 problemas y obtuvo el lugar #136 (89%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **18** | **24** | **35** |
+| **Total** | **0** | **0** | **18** | **31** | **42** |
 | [2009-2010](#2009-2010) | 0 | 0 | 3 | 0 | 3 |
 | [2010-2011](#2010-2011) | 0 | 0 | 3 | 0 | 3 |
 | [2011-2012](#2011-2012) | 0 | 0 | 3 | 0 | 3 |
@@ -32,6 +32,7 @@
 | [2020-2021](#2020-2021) | 0 | 0 | 1 | 5 | 5 |
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 1 | 1 |
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 2 | 2 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 7 | 7 |
 
 ### 2009-2010
 
@@ -103,6 +104,16 @@
 
 1. #219 (#31 de ITESM) _Los tres jinetes_ (Clasificatorio)
 1. #318 (#42 de ITESM) _devsociety_ (Clasificatorio)
+
+### 2024-2025
+
+1. #103 (#20 de ITESM) _PeranoTecCoders_ (Clasificatorio)
+1. #462 (#67 de ITESM) _Runtime Rebels_ (Clasificatorio)
+1. #480 (#68 de ITESM) _Borregos IDM - 2024_ (Clasificatorio)
+1. #482 (#69 de ITESM) _Borregos 200_ (Clasificatorio)
+1. #482 (#69 de ITESM) _LTMCCM_ (Clasificatorio)
+1. #482 (#69 de ITESM) _Logarithmus_ (Clasificatorio)
+1. #482 (#69 de ITESM) _PayloadersCCM_ (Clasificatorio)
 
 
 

@@ -7,7 +7,11 @@
 1. _TECISIC_5A_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _TECISIC_B_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _Tech It Out ITESCHAM_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _ITESCHAM Coders_ resolvió 0 problemas y obtuvo el lugar #226 (53%) en The 2021 ICPC Gran Premio de Mexico
+1. _BACAB ITESCHAM_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
+1. _BJ Team_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
+1. _CODE ITESCHAM_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
+1. _CyberForáneos_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
+1. _THE ONE_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -15,9 +19,10 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **0** | **6** | **6** |
+| **Total** | **0** | **0** | **0** | **12** | **12** |
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 1 | 1 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 5 | 5 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 6 | 6 |
 
 ### 2021-2022
 
@@ -30,6 +35,15 @@
 1. #382 (#82 de TecNM) _TECISIC_5A_ (Clasificatorio)
 1. #382 (#82 de TecNM) _TECISIC_B_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Tech It Out ITESCHAM_ (Clasificatorio)
+
+### 2024-2025
+
+1. #482 (#114 de TecNM) _BACAB ITESCHAM_ (Clasificatorio)
+1. #482 (#114 de TecNM) _BJ Team_ (Clasificatorio)
+1. #482 (#114 de TecNM) _CODE ITESCHAM_ (Clasificatorio)
+1. #482 (#114 de TecNM) _CyberForáneos_ (Clasificatorio)
+1. #482 (#114 de TecNM) _THE ONE_ (Clasificatorio)
+1. #482 (#114 de TecNM) _The bytes_ (Clasificatorio)
 
 
 

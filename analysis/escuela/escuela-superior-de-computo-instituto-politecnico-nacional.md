@@ -18,8 +18,8 @@
     - Avanzó a la final mundial y resolvió 3 problemas y obtuvo el lugar #96 (25%) en 39th Annual World Finals of the ACM International Collegiate Programming Contest
 1. _Escoders_ resolvió 5 problemas y obtuvo el lugar #1 (100%) en The 2012 Mexico & Central America Regional Contest
     - Avanzó a la final mundial y resolvió 1 problemas y obtuvo el lugar #94 (21%) en 37th Annual World Finals of the ACM International Collegiate Programming Contest
-1. _Error: "Team Name" not defined_ resolvió 6 problemas y obtuvo el lugar #7 (100%) en The 2019 ICPC Mexico Finals
-1. _Catadores de Patas (ahora en ICPC)_ resolvió 6 problemas y obtuvo el lugar #4 (99%) en The 2023 ICPC Mexico Finals
+1. _No se nos ocurrio un nombre_ resolvió 22 problemas y obtuvo el lugar #2 (100%) en The 2024 ICPC Gran Premio de Mexico
+1. _Enchiladas con patas_ resolvió 23 problemas y obtuvo el lugar #3 (100%) en The 2024 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -27,7 +27,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **8** | **0** | **68** | **176** | **211** |
+| **Total** | **8** | **0** | **68** | **203** | **238** |
 | [2001-2002](#2001-2002) | 0 | 0 | 2 | 0 | 2 |
 | [2002-2003](#2002-2003) | 0 | 0 | 2 | 0 | 2 |
 | [2003-2004](#2003-2004) | 0 | 0 | 1 | 0 | 1 |
@@ -50,6 +50,7 @@
 | [2021-2022](#2021-2022) | 1 | 0 | 5 | 11 | 12 |
 | [2022-2023](#2022-2023) | 1 | 0 | 5 | 27 | 27 |
 | [2023-2024](#2023-2024) | 0 | 0 | 3 | 28 | 28 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 27 | 27 |
 
 ### 2001-2002
 
@@ -335,6 +336,36 @@
 1. #426 _KittyCodersBelicos_ (Clasificatorio)
 1. #427 _Maíces nixtamalizados_ (Clasificatorio)
 1. #428 _diaMar_ (Clasificatorio)
+
+### 2024-2025
+
+1. #2 _No se nos ocurrio un nombre_ (Clasificatorio)
+1. #3 _Enchiladas con patas_ (Clasificatorio)
+1. #15 _Testigos de Galois_ (Clasificatorio)
+1. #39 _Taquitos de pastor_ (Clasificatorio)
+1. #50 _Los pusuas_ (Clasificatorio)
+1. #71 _C--_ (Clasificatorio)
+1. #92 _The creators_ (Clasificatorio)
+1. #93 _HEArt of AC_ (Clasificatorio)
+1. #95 _Ajolotetos_ (Clasificatorio)
+1. #126 _Picafresas Negras_ (Clasificatorio)
+1. #200 _Anemonas anonimas_ (Clasificatorio)
+1. #229 _Tree-pas de gato_ (Clasificatorio)
+1. #254 _Tr1p4s d3 G4t0_ (Clasificatorio)
+1. #269 _De la que dejo tieso al Arthur_ (Clasificatorio)
+1. #272 _XML Haters_ (Clasificatorio)
+1. #278 _Carnal Pulpo_ (Clasificatorio)
+1. #288 _Oreo_ (Clasificatorio)
+1. #299 _Wumpus_ (Clasificatorio)
+1. #307 _Rateros del OXXO_ (Clasificatorio)
+1. #311 _Una Linea a la Vez_ (Clasificatorio)
+1. #388 _Tacos de asada_ (Clasificatorio)
+1. #402 _3 devs,1 paste_ (Clasificatorio)
+1. #408 _tilines_ (Clasificatorio)
+1. #482 _Chilaquiles con Pollo Masters_ (Clasificatorio)
+1. #482 _DP (DosdePastor)_ (Clasificatorio)
+1. #482 _Nos robamos a Miguel_ (Clasificatorio)
+1. #482 _Wacales_ (Clasificatorio)
 
 
 

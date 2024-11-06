@@ -8,10 +8,10 @@
 1. _ALT + F4_ resolvió 3 problemas y obtuvo el lugar #95 (80%) en The 2021 ICPC Gran Premio de Mexico
 1. _Espartanos_ resolvió 2 problemas y obtuvo el lugar #255 (80%) en Gran Premio de Mexico 2019
 1. _Spacetacular_ resolvió 5 problemas y obtuvo el lugar #178 (75%) en Gran Premio de Mexico 2020
+1. _MultiData_ resolvió 2 problemas y obtuvo el lugar #338 (72%) en The 2024 ICPC Gran Premio de Mexico
 1. _Venados07_ resolvió 1 problemas y obtuvo el lugar #44 (71%) en The 2007 ACM Mexico and Central America Programming Contest
+1. _UnKnOuN_ resolvió 2 problemas y obtuvo el lugar #350 (71%) en The 2024 ICPC Gran Premio de Mexico
 1. _Bichologos_ resolvió 6 problemas y obtuvo el lugar #211 (70%) en Gran Premio de Mexico 2020
-1. _ALT+F4_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Codigo de Rehuso_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **7** | **18** | **25** |
+| **Total** | **0** | **0** | **7** | **23** | **30** |
 | [2003-2004](#2003-2004) | 0 | 0 | 1 | 0 | 1 |
 | [2004-2005](#2004-2005) | 0 | 0 | 1 | 0 | 1 |
 | [2005-2006](#2005-2006) | 0 | 0 | 1 | 0 | 1 |
@@ -32,6 +32,7 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 1 | 1 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 1 | 1 |
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 6 | 6 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 5 | 5 |
 
 ### 2003-2004
 
@@ -93,6 +94,14 @@
 1. #371 (#94 de TecNM) _TechBreak_ (Clasificatorio)
 1. #379 (#96 de TecNM) _LA TRIADA B-J-N_ (Clasificatorio)
 1. #405 (#108 de TecNM) _Los novatos_ (Clasificatorio)
+
+### 2024-2025
+
+1. #338 (#71 de TecNM) _MultiData_ (Clasificatorio)
+1. #350 (#75 de TecNM) _UnKnOuN_ (Clasificatorio)
+1. #404 (#87 de TecNM) _Ysotechx_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Robotinos_ (Clasificatorio)
+1. #482 (#114 de TecNM) _TechBreak_ (Clasificatorio)
 
 
 

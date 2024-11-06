@@ -6,14 +6,14 @@
     - Avanzó a la final mundial y resolvió 3 problemas y obtuvo el lugar #49 (52%) en 33rd Annual World Finals of the ACM International Collegiate Programming Contest
 1. _ITC Turing Machines_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) resolvió 5 problemas y obtuvo el lugar #3 (99%) en The 2007 ACM Mexico and Central America Programming Contest
     - Avanzó a la final mundial y resolvió 0 problemas y obtuvo el lugar #90 (10%) en The 2008 ACM Programming Contest World Finals
+1. _BRO... CSM_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) resolvió 19 problemas y obtuvo el lugar #4 (100%) en The 2024 ICPC Gran Premio de Mexico
 1. _Ludus G++_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) resolvió 4 problemas y obtuvo el lugar #14 (99%) en The 2022 ICPC Mexico Finals
 1. _MTY01_ ([ITESM Campus Mazatlán](escuela/itesm-campus-mazatlan)) resolvió 5 problemas y obtuvo el lugar #4 (98%) en The 2005 ACM Mexico and Central America Programming Contest
+1. _Ludus +500_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) resolvió 12 problemas y obtuvo el lugar #27 (98%) en The 2024 ICPC Gran Premio de Mexico
 1. _los punteros_ ([ITESM Campus Mazatlán](escuela/itesm-campus-mazatlan)) resolvió 4 problemas y obtuvo el lugar #6 (97%) en The 2007 ACM Mexico and Central America Programming Contest
 1. _JRA_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) resolvió 5 problemas y obtuvo el lugar #9 (97%) en The 2014 ACM-ICPC Mexico and Central America Finals
 1. _Sieve of Ludus_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) resolvió 4 problemas y obtuvo el lugar #13 (97%) en The 2023 ICPC Mexico Finals
 1. _MTY1_ ([ITESM Campus Mazatlán](escuela/itesm-campus-mazatlan)) resolvió 4 problemas y obtuvo el lugar #5 (96%) en The 2004 ACM Mexico and Central America Programming Contest
-1. _javaglets_ ([ITESM Campus Mazatlán](escuela/itesm-campus-mazatlan)) resolvió 3 problemas y obtuvo el lugar #8 (95%) en The 2005 ACM Mexico and Central America Programming Contest
-1. _AC2++_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) resolvió 3 problemas y obtuvo el lugar #30 (94%) en The 2023 ICPC Mexico Finals
 
 ## Participaciones
 
@@ -21,7 +21,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos | Escuelas |
 | --- | --- | --- | --- | --- | --- | --- |
-| **Total** | **2** | **0** | **70** | **65** | **130** | **8** |
+| **Total** | **2** | **0** | **70** | **81** | **146** | **8** |
 | [2001-2002](#2001-2002) | 0 | 0 | 4 | 0 | 4 | 1 |
 | [2002-2003](#2002-2003) | 0 | 0 | 7 | 0 | 7 | 1 |
 | [2003-2004](#2003-2004) | 0 | 0 | 6 | 0 | 6 | 1 |
@@ -45,6 +45,7 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 1 | 7 | 7 | 1 |
 | [2022-2023](#2022-2023) | 0 | 0 | 1 | 15 | 15 | 3 |
 | [2023-2024](#2023-2024) | 0 | 0 | 2 | 18 | 18 | 3 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 16 | 16 | 3 |
 
 ### 2001-2002
 
@@ -241,6 +242,25 @@
 1. #443 _Gods Programming_ ([Universidad Autónoma de Sinaloa](escuela/universidad-autonoma-de-sinaloa)) (Clasificatorio)
 1. #457 (#132 de TecNM) _Las Llaves_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
 
+### 2024-2025
+
+1. #4 (#1 de TecNM) _BRO... CSM_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
+1. #27 (#3 de TecNM) _Ludus +500_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
+1. #44 (#6 de TecNM) _Combo Deluxe_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
+1. #59 (#10 de TecNM) _ADO++_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
+1. #100 _Los Monos Bichis_ ([Facultad de Informática Mazatlán UAS](escuela/facultad-de-informatica-mazatlan-uas)) (Clasificatorio)
+1. #137 (#23 de TecNM) _EAGLES_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
+1. #196 (#36 de TecNM) _KRV_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
+1. #250 (#52 de TecNM) _Hasbulla Lovers Official Fans Club_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
+1. #312 _Los Monitos_ ([Facultad de Informática Mazatlán UAS](escuela/facultad-de-informatica-mazatlan-uas)) (Clasificatorio)
+1. #372 (#82 de TecNM) _SIG++_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
+1. #412 (#89 de TecNM) _Pikmin 4_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
+1. #413 (#90 de TecNM) _C+=3_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
+1. #423 (#91 de TecNM) _Chicas Superpoderosas_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
+1. #424 (#92 de TecNM) _Triforce_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
+1. #436 _Firilantes_ ([Facultad de Informática Mazatlán UAS](escuela/facultad-de-informatica-mazatlan-uas)) (Clasificatorio)
+1. #482 _Alydev_ ([Universidad Autónoma de Occidente](escuela/universidad-autonoma-de-occidente)) (Clasificatorio)
+
 
 ## Ranking de escuelas
 
@@ -248,24 +268,24 @@
 
 | # | Escuela | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Total |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan) | 0 | 0 | 4 | 29 | 29 |
+| 1 | [Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan) | 0 | 0 | 4 | 41 | 41 |
 | 2 | [Universidad Autónoma de Sinaloa](escuela/universidad-autonoma-de-sinaloa) | 0 | 0 | 0 | 13 | 13 |
-| 3 | [Facultad de Informática Mazatlán UAS](escuela/facultad-de-informatica-mazatlan-uas) | 0 | 0 | 0 | 2 | 2 |
-| 4 | [Universidad de Occidente, Unidad Culiacán](escuela/universidad-de-occidente,-unidad-culiacan) | 0 | 0 | 0 | 1 | 1 |
-| 5 | [Universidad Autónoma de Occidente](escuela/universidad-autonoma-de-occidente) | 0 | 0 | 0 | 1 | 1 |
+| 3 | [Facultad de Informática Mazatlán UAS](escuela/facultad-de-informatica-mazatlan-uas) | 0 | 0 | 0 | 5 | 5 |
+| 4 | [Universidad Autónoma de Occidente](escuela/universidad-autonoma-de-occidente) | 0 | 0 | 0 | 2 | 2 |
+| 5 | [Universidad de Occidente, Unidad Culiacán](escuela/universidad-de-occidente,-unidad-culiacan) | 0 | 0 | 0 | 1 | 1 |
 | 6 | [Instituto Tecnológico de Mazatlán](escuela/instituto-tecnologico-de-mazatlan) | 0 | 0 | 0 | 1 | 1 |
 
 ### Histórico
 
 | # | Escuela | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Total |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan) | 2 | 0 | 19 | 39 | 53 |
+| 1 | [Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan) | 2 | 0 | 19 | 51 | 65 |
 | 2 | [ITESM Campus Mazatlán](escuela/itesm-campus-mazatlan) | 0 | 0 | 47 | 0 | 47 |
 | 3 | [Universidad Politecnica de Sinaloa](escuela/universidad-politecnica-de-sinaloa) | 0 | 0 | 4 | 0 | 4 |
 | 4 | [Universidad Autónoma de Sinaloa](escuela/universidad-autonoma-de-sinaloa) | 0 | 0 | 0 | 20 | 20 |
-| 5 | [Universidad de Occidente, Unidad Culiacán](escuela/universidad-de-occidente,-unidad-culiacan) | 0 | 0 | 0 | 2 | 2 |
-| 6 | [Facultad de Informática Mazatlán UAS](escuela/facultad-de-informatica-mazatlan-uas) | 0 | 0 | 0 | 2 | 2 |
-| 7 | [Universidad Autónoma de Occidente](escuela/universidad-autonoma-de-occidente) | 0 | 0 | 0 | 1 | 1 |
+| 5 | [Facultad de Informática Mazatlán UAS](escuela/facultad-de-informatica-mazatlan-uas) | 0 | 0 | 0 | 5 | 5 |
+| 6 | [Universidad de Occidente, Unidad Culiacán](escuela/universidad-de-occidente,-unidad-culiacan) | 0 | 0 | 0 | 2 | 2 |
+| 7 | [Universidad Autónoma de Occidente](escuela/universidad-autonoma-de-occidente) | 0 | 0 | 0 | 2 | 2 |
 | 8 | [Instituto Tecnológico de Mazatlán](escuela/instituto-tecnologico-de-mazatlan) | 0 | 0 | 0 | 1 | 1 |
 
 

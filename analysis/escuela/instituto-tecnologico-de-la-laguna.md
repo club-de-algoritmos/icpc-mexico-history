@@ -3,15 +3,15 @@
 ## Mejores 10 equipos
 
 1. _EspantaBugs_ resolvió 2 problemas y obtuvo el lugar #37 (97%) en The 2022 ICPC Mexico Finals
+1. _Usurpadores_ resolvió 10 problemas y obtuvo el lugar #62 (95%) en The 2024 ICPC Gran Premio de Mexico
 1. _ITLN_ resolvió 7 problemas y obtuvo el lugar #101 (92%) en Gran Premio de Mexico 2019
 1. _EspantaBugs_ resolvió 2 problemas y obtuvo el lugar #42 (91%) en The 2023 ICPC Mexico Finals
-1. _SPTeam_ resolvió 6 problemas y obtuvo el lugar #74 (84%) en The 2023 ICPC Gran Premio de Mexico
-1. _ITLN_ resolvió 6 problemas y obtuvo el lugar #105 (84%) en Gran Premio de Mexico & Centroamerica 2017
-1. _VectorRaptor's_ resolvió 4 problemas y obtuvo el lugar #171 (84%) en The 2022 ICPC Gran Premio de Mexico
-1. _DinamitaTeam_ resolvió 4 problemas y obtuvo el lugar #173 (84%) en The 2022 ICPC Gran Premio de Mexico
-1. _Navy_ resolvió 1 problemas y obtuvo el lugar #48 (81%) en The 2014 ACM-ICPC Mexico and Central America Finals
-1. _Mega Equipo del Tio Oswi_ resolvió 5 problemas y obtuvo el lugar #129 (80%) en Gran Premio de Mexico & Centroamerica 2017
-1. _PuroTecLaguna_ resolvió 5 problemas y obtuvo el lugar #101 (78%) en The 2023 ICPC Gran Premio de Mexico
+1. _Syntax Terror_ resolvió 8 problemas y obtuvo el lugar #108 (91%) en The 2024 ICPC Gran Premio de Mexico
+1. _Los Facilitadores_ resolvió 8 problemas y obtuvo el lugar #111 (91%) en The 2024 ICPC Gran Premio de Mexico
+1. _SPTeam_ resolvió 7 problemas y obtuvo el lugar #127 (90%) en The 2024 ICPC Gran Premio de Mexico
+1. _RQT_Recursivos_ resolvió 7 problemas y obtuvo el lugar #128 (90%) en The 2024 ICPC Gran Premio de Mexico
+1. _Who was in Paris??_ resolvió 7 problemas y obtuvo el lugar #145 (88%) en The 2024 ICPC Gran Premio de Mexico
+1. _Las chicas superprogramadoras_ resolvió 6 problemas y obtuvo el lugar #186 (85%) en The 2024 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **24** | **65** | **86** |
+| **Total** | **0** | **0** | **24** | **96** | **117** |
 | [2001-2002](#2001-2002) | 0 | 0 | 6 | 0 | 6 |
 | [2002-2003](#2002-2003) | 0 | 0 | 13 | 0 | 13 |
 | [2013-2014](#2013-2014) | 0 | 0 | 2 | 0 | 2 |
@@ -29,6 +29,7 @@
 | [2019-2020](#2019-2020) | 0 | 0 | 0 | 6 | 6 |
 | [2022-2023](#2022-2023) | 0 | 0 | 1 | 31 | 31 |
 | [2023-2024](#2023-2024) | 0 | 0 | 1 | 11 | 11 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 31 | 31 |
 
 ### 2001-2002
 
@@ -142,6 +143,40 @@
 1. #386 (#101 de TecNM) _CH3PO_ (Clasificatorio)
 1. #391 (#104 de TecNM) _Las Chicas Superpoderosas_ (Clasificatorio)
 1. #431 (#109 de TecNM) _Castech team_ (Clasificatorio)
+
+### 2024-2025
+
+1. #62 (#11 de TecNM) _Usurpadores_ (Clasificatorio)
+1. #108 (#13 de TecNM) _Syntax Terror_ (Clasificatorio)
+1. #111 (#14 de TecNM) _Los Facilitadores_ (Clasificatorio)
+1. #127 (#19 de TecNM) _SPTeam_ (Clasificatorio)
+1. #128 (#20 de TecNM) _RQT_Recursivos_ (Clasificatorio)
+1. #145 (#26 de TecNM) _Who was in Paris??_ (Clasificatorio)
+1. #186 (#33 de TecNM) _Las chicas superprogramadoras_ (Clasificatorio)
+1. #187 (#34 de TecNM) _Codemonkees_ (Clasificatorio)
+1. #201 (#37 de TecNM) _Ciseña's Discípulos _ (Clasificatorio)
+1. #213 (#39 de TecNM) _LOOP LEYENDS_ (Clasificatorio)
+1. #255 (#53 de TecNM) _Burritos de C_ (Clasificatorio)
+1. #287 (#56 de TecNM) _Polimorfos_RQT_ (Clasificatorio)
+1. #302 (#61 de TecNM) _Sudo apt get_ (Clasificatorio)
+1. #314 (#63 de TecNM) _Javalimos_ (Clasificatorio)
+1. #345 (#73 de TecNM) _MonkeyDevs_ (Clasificatorio)
+1. #349 (#74 de TecNM) _Spiritual mangoes_ (Clasificatorio)
+1. #361 (#79 de TecNM) _Xtreme_ (Clasificatorio)
+1. #438 (#93 de TecNM) _6fh Lamia_ (Clasificatorio)
+1. #448 (#97 de TecNM) _BugBusters_ (Clasificatorio)
+1. #449 (#98 de TecNM) _Netfreaks 11.3_ (Clasificatorio)
+1. #453 (#101 de TecNM) _bug blitzers _ (Clasificatorio)
+1. #464 (#106 de TecNM) _CharlieGPT_ (Clasificatorio)
+1. #471 (#109 de TecNM) _The Alphas_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Algorítmicas_ (Clasificatorio)
+1. #482 (#114 de TecNM) _CMJ_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Juan Venados_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Los Pythones_ (Clasificatorio)
+1. #482 (#114 de TecNM) _MEC_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Motify_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Paradigma_ (Clasificatorio)
+1. #482 (#114 de TecNM) _ciPlusPlus_ (Clasificatorio)
 
 
 

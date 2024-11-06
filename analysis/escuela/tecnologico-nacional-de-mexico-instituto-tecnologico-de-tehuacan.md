@@ -9,9 +9,9 @@
 1. _PROGRAMANDO DE CHILL_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _Tecnólogos ISC_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _¿Apoco si muy programadores?_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _Cardenales Tec_ resolvió 0 problemas y obtuvo el lugar #226 (53%) en The 2021 ICPC Gran Premio de Mexico
-1. _CARDENALESISC_ resolvió 0 problemas y obtuvo el lugar #351 (50%) en Gran Premio de Mexico 2020
-1. _Cardenales Tec_ resolvió 0 problemas y obtuvo el lugar #351 (50%) en Gran Premio de Mexico 2020
+1. _Cardenales Tec 4.0_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
+1. _Coding011_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
+1. _DATABYTES_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -19,10 +19,11 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **0** | **13** | **13** |
+| **Total** | **0** | **0** | **0** | **19** | **19** |
 | [2020-2021](#2020-2021) | 0 | 0 | 0 | 5 | 5 |
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 1 | 1 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 7 | 7 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 6 | 6 |
 
 ### 2020-2021
 
@@ -45,6 +46,15 @@
 1. #382 (#82 de TecNM) _PROGRAMANDO DE CHILL_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Tecnólogos ISC_ (Clasificatorio)
 1. #382 (#82 de TecNM) _¿Apoco si muy programadores?_ (Clasificatorio)
+
+### 2024-2025
+
+1. #482 (#114 de TecNM) _Cardenales Tec 4.0_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Coding011_ (Clasificatorio)
+1. #482 (#114 de TecNM) _DATABYTES_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Los Q’s_ (Clasificatorio)
+1. #482 (#114 de TecNM) _cooks_ (Clasificatorio)
+1. #482 (#114 de TecNM) _freebugs_ (Clasificatorio)
 
 
 

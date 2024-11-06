@@ -4,15 +4,15 @@
 
 1. _Borregos Salvajes_ resolvió 6 problemas y obtuvo el lugar #3 (100%) en The 2023 ICPC Mexico Finals
     - Avanzó a la final mundial y resolvió 1 problemas y obtuvo el lugar #52 (64%) en The 48th Annual World Finals of the International Collegiate Programming Contest
+1. _Borregos(0,0,0);_ resolvió 16 problemas y obtuvo el lugar #18 (99%) en The 2024 ICPC Gran Premio de Mexico
 1. _Tsurus Tuneados_ resolvió 3 problemas y obtuvo el lugar #18 (98%) en The 2022 ICPC Mexico Finals
 1. _ViralBugSyndrome.exe_ resolvió 4 problemas y obtuvo el lugar #20 (98%) en The 2018 ICPC Mexico and Central America Finals
+1. _Keyboard Warriors_ resolvió 5 problemas y obtuvo el lugar #45 (96%) en The 2024 ICPC Gran Premio de Mexico
 1. _Carlit-OS_ resolvió 4 problemas y obtuvo el lugar #10 (95%) en The 2008 Mexico & Central America Contest
 1. _Tec GDL 10_ resolvió 3 problemas y obtuvo el lugar #34 (95%) en The 2020 ICPC Mexico Finals
 1. _Galácticos 1_ resolvió 8 problemas y obtuvo el lugar #71 (94%) en Gran Premio de Mexico 2019
+1. _Los Hamsters enviados de Dios del Antiguo Testamento_ resolvió 10 problemas y obtuvo el lugar #75 (94%) en The 2024 ICPC Gran Premio de Mexico
 1. _Acrux Exclamation_ resolvió 4 problemas y obtuvo el lugar #10 (93%) en The 2006 ACM Mexico and Central America Programming Contest
-1. _McTrio_ resolvió 3 problemas y obtuvo el lugar #11 (93%) en The 2007 ACM Mexico and Central America Programming Contest
-1. _Los Fosa_ resolvió 3 problemas y obtuvo el lugar #33 (93%) en The 2023 ICPC Mexico Finals
-1. _Tec GDL 6_ resolvió 1 problemas y obtuvo el lugar #47 (91%) en The 2021 ICPC Mexico Finals
 
 ## Participaciones
 
@@ -20,7 +20,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **1** | **1** | **49** | **54** | **95** |
+| **Total** | **1** | **1** | **49** | **61** | **102** |
 | [2001-2002](#2001-2002) | 0 | 0 | 1 | 0 | 1 |
 | [2002-2003](#2002-2003) | 0 | 0 | 3 | 0 | 3 |
 | [2003-2004](#2003-2004) | 0 | 0 | 1 | 0 | 1 |
@@ -41,6 +41,7 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 2 | 8 | 8 |
 | [2022-2023](#2022-2023) | 0 | 0 | 1 | 8 | 8 |
 | [2023-2024](#2023-2024) | 1 | 1 | 3 | 5 | 5 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 7 | 7 |
 
 ### 2001-2002
 
@@ -197,6 +198,16 @@
 1. #49 (#7 de ITESM) _TECueme_ (Regional)
 1. #295 (#38 de ITESM) _Bubble Sorters_ (Clasificatorio)
 1. #374 (#47 de ITESM) _CodICI_ (Clasificatorio)
+
+### 2024-2025
+
+1. #18 (#2 de ITESM) _Borregos(0,0,0);_ (Clasificatorio)
+1. #45 (#8 de ITESM) _Keyboard Warriors_ (Clasificatorio)
+1. #75 (#14 de ITESM) _Los Hamsters enviados de Dios del Antiguo Testamento_ (Clasificatorio)
+1. #271 (#43 de ITESM) _Bubble sorters_ (Clasificatorio)
+1. #283 (#45 de ITESM) _Changos articos en c# menor_ (Clasificatorio)
+1. #303 (#49 de ITESM) _Triángulo agudo_ (Clasificatorio)
+1. #482 (#69 de ITESM) _Qué triste fue decirnos adiós Cuando nos adorábamos más Hasta la golondrina emigró Presagiando el final Qué triste luce todo sin ti Los mares de las playas se van Se tiñen los colores de gris Hoy todo es soledad No sé si vuelva a verte después_ (Clasificatorio)
 
 
 

@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **28** | **50** | **60** |
+| **Total** | **0** | **0** | **28** | **54** | **64** |
 | [2007-2008](#2007-2008) | 0 | 0 | 1 | 0 | 1 |
 | [2011-2012](#2011-2012) | 0 | 0 | 3 | 0 | 3 |
 | [2012-2013](#2012-2013) | 0 | 0 | 2 | 0 | 2 |
@@ -34,6 +34,7 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 2 | 6 | 6 |
 | [2022-2023](#2022-2023) | 0 | 0 | 1 | 8 | 8 |
 | [2023-2024](#2023-2024) | 0 | 0 | 1 | 4 | 4 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 4 | 4 |
 
 ### 2007-2008
 
@@ -136,6 +137,13 @@
 1. #95 _M@cAtletas_ (Clasificatorio)
 1. #228 _PDF(Pasado de flow)_ (Clasificatorio)
 1. #429 _Minitas_chinas++_ (Clasificatorio)
+
+### 2024-2025
+
+1. #90 _Chinches Programadoras_ (Clasificatorio)
+1. #207 _Sin_Nombre_ (Clasificatorio)
+1. #228 _MAC-Queens_ (Clasificatorio)
+1. #482 _CtrlCastle_ (Clasificatorio)
 
 
 

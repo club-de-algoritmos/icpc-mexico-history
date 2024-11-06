@@ -20,7 +20,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **1** | **0** | **22** | **57** | **69** |
+| **Total** | **1** | **0** | **22** | **67** | **79** |
 | [2008-2009](#2008-2009) | 0 | 0 | 3 | 0 | 3 |
 | [2010-2011](#2010-2011) | 0 | 0 | 6 | 0 | 6 |
 | [2011-2012](#2011-2012) | 1 | 0 | 2 | 0 | 2 |
@@ -35,6 +35,7 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 4 | 4 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 8 | 8 |
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 2 | 2 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 10 | 10 |
 
 ### 2008-2009
 
@@ -147,6 +148,19 @@
 
 1. #97 (#14 de ITESM) _DoSAttack_ (Clasificatorio)
 1. #122 (#16 de ITESM) _Programasters_ (Clasificatorio)
+
+### 2024-2025
+
+1. #77 (#15 de ITESM) _NPCs_ (Clasificatorio)
+1. #82 (#17 de ITESM) _Teorema del Grafo Euleriano_ (Clasificatorio)
+1. #130 (#23 de ITESM) _DoSattack_ (Clasificatorio)
+1. #132 (#25 de ITESM) _Cheddarini_ (Clasificatorio)
+1. #218 (#36 de ITESM) _Array of Borregos_ (Clasificatorio)
+1. #270 (#42 de ITESM) _Fanyezoiel_ (Clasificatorio)
+1. #482 (#69 de ITESM) _DevsInDev_ (Clasificatorio)
+1. #482 (#69 de ITESM) _Permanganato de potasio_ (Clasificatorio)
+1. #482 (#69 de ITESM) _Roblos_ (Clasificatorio)
+1. #482 (#69 de ITESM) _W++_ (Clasificatorio)
 
 
 

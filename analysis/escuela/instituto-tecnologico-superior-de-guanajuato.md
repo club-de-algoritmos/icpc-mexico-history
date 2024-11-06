@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **9** | **48** | **48** |
+| **Total** | **0** | **0** | **9** | **61** | **61** |
 | [2014-2015](#2014-2015) | 0 | 0 | 1 | 3 | 3 |
 | [2015-2016](#2015-2016) | 0 | 0 | 2 | 2 | 2 |
 | [2016-2017](#2016-2017) | 0 | 0 | 2 | 5 | 5 |
@@ -29,6 +29,7 @@
 | [2020-2021](#2020-2021) | 0 | 0 | 0 | 4 | 4 |
 | [2021-2022](#2021-2022) | 0 | 0 | 1 | 8 | 8 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 9 | 9 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 13 | 13 |
 
 ### 2014-2015
 
@@ -104,6 +105,22 @@
 1. #382 (#82 de TecNM) _Virtuous_ (Clasificatorio)
 1. #382 (#82 de TecNM) _White Hat_ (Clasificatorio)
 1. #382 (#82 de TecNM) _big boys_ (Clasificatorio)
+
+### 2024-2025
+
+1. #482 (#114 de TecNM) _ArticsBocs_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Black Parrots_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Coding Friends_ (Clasificatorio)
+1. #482 (#114 de TecNM) _HexaHackers_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Los Primos_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Los del B_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Net Team_ (Clasificatorio)
+1. #482 (#114 de TecNM) _PDM_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Pirate Code_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Power Rangers_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Sparks of Change_ (Clasificatorio)
+1. #482 (#114 de TecNM) _TecnoBrous_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Three bytes crew_ (Clasificatorio)
 
 
 

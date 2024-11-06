@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **1** | **60** | **689** | **739** |
+| **Total** | **0** | **1** | **60** | **782** | **832** |
 | [2002-2003](#2002-2003) | 0 | 0 | 5 | 0 | 5 |
 | [2003-2004](#2003-2004) | 0 | 0 | 3 | 0 | 3 |
 | [2004-2005](#2004-2005) | 0 | 0 | 3 | 0 | 3 |
@@ -39,6 +39,7 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 6 | 6 |
 | [2022-2023](#2022-2023) | 0 | 0 | 3 | 9 | 11 |
 | [2023-2024](#2023-2024) | 0 | 1 | 0 | 5 | 5 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 93 | 93 |
 
 ### 2002-2003
 
@@ -835,6 +836,102 @@
 1. #108 _Hijos de Gatica_ (Clasificatorio)
 1. #181 _Tilines ICPC_ (Clasificatorio)
 1. #229 _Codisaurios_ (Clasificatorio)
+
+### 2024-2025
+
+1. #122 _Gaticones_ (Clasificatorio)
+1. #140 _Gatubelxs_ (Clasificatorio)
+1. #209 _ICPTIESOS_ (Clasificatorio)
+1. #220 _Asterisk*_ (Clasificatorio)
+1. #225 _Beach boys & girl_ (Clasificatorio)
+1. #253 _Codisaurios_ (Clasificatorio)
+1. #263 _Los Secretarios_ (Clasificatorio)
+1. #316 _Luis^4_ (Clasificatorio)
+1. #482 _AP_ATA_IFINES_ (Clasificatorio)
+1. #482 _AP_ATA_MRG_ (Clasificatorio)
+1. #482 _AP_ATA_TRICODERS_ (Clasificatorio)
+1. #482 _AP_JAZC_Datrio_ (Clasificatorio)
+1. #482 _AP_JAZC_tostadas.py_ (Clasificatorio)
+1. #482 _AP_JPAM El maravilloso equipo_ (Clasificatorio)
+1. #482 _AP_JPAM León_ (Clasificatorio)
+1. #482 _AP_JPAM Megazord_ (Clasificatorio)
+1. #482 _AP_JPAM Montapuercas_ (Clasificatorio)
+1. #482 _AP_MAVG_GRA_ (Clasificatorio)
+1. #482 _AP_MAVG_SCHRÖDINCODERS_ (Clasificatorio)
+1. #482 _AP_NIVP_Programadores_ (Clasificatorio)
+1. #482 _AlgoMonster_ (Clasificatorio)
+1. #482 _Bioamigos_ (Clasificatorio)
+1. #482 _Biolofi_ (Clasificatorio)
+1. #482 _Chatgpt no nos puso nombre_ (Clasificatorio)
+1. #482 _Code Titans _ (Clasificatorio)
+1. #482 _Coding Warriors - MTLA_ (Clasificatorio)
+1. #482 _DA_FSC Equipo Alfa dinamita buena onda escuadrón lobo_ (Clasificatorio)
+1. #482 _DA_FSC Los changos árticos_ (Clasificatorio)
+1. #482 _DA_FSC Nancy_ (Clasificatorio)
+1. #482 _DA_JNGJ - 123456_ (Clasificatorio)
+1. #482 _DA_JNGJ - Bonding_ (Clasificatorio)
+1. #482 _DA_JNGJ - Las tortugas ninga_ (Clasificatorio)
+1. #482 _DA_JNGJ - Los algorítmicos _ (Clasificatorio)
+1. #482 _DA_JNGJ - Los olvidados_ (Clasificatorio)
+1. #482 _DA_JNGJ - Progracuaches_ (Clasificatorio)
+1. #482 _DA_JNGJ - Sintax_ (Clasificatorio)
+1. #482 _DA_JNGJ - o(n) team_ (Clasificatorio)
+1. #482 _DA_JPAM Los Ingeniebrios_ (Clasificatorio)
+1. #482 _DA_JPAM Pythonimus_ (Clasificatorio)
+1. #482 _DA_JPAM abcd123_ (Clasificatorio)
+1. #482 _FVL Control + Fuckers_ (Clasificatorio)
+1. #482 _FVL Fans de la Sonora Dinamita_ (Clasificatorio)
+1. #482 _Fast fins_ (Clasificatorio)
+1. #482 _Financebros_ (Clasificatorio)
+1. #482 _Fuerza G_ (Clasificatorio)
+1. #482 _IFIIS_ (Clasificatorio)
+1. #482 _IQs_ (Clasificatorio)
+1. #482 _Industriales - MTLA_ (Clasificatorio)
+1. #482 _Ing Civil_ (Clasificatorio)
+1. #482 _Ingeniebrios_ (Clasificatorio)
+1. #482 _Ingeniebrios - MTLA_ (Clasificatorio)
+1. #482 _InnovaTec_ (Clasificatorio)
+1. #482 _LASG_Un_equipo_ (Clasificatorio)
+1. #482 _LCAG DA All Star Dream Team_ (Clasificatorio)
+1. #482 _LCAG DA Cobra Coding Squad_ (Clasificatorio)
+1. #482 _LCAG DA Main branch_ (Clasificatorio)
+1. #482 _LOS ARPAWOCKY_ (Clasificatorio)
+1. #482 _Las Civiles_ (Clasificatorio)
+1. #482 _Long Pytons_ (Clasificatorio)
+1. #482 _Los Bro_ (Clasificatorio)
+1. #482 _Los Chacales del Norte_ (Clasificatorio)
+1. #482 _Los E-nanitos_ (Clasificatorio)
+1. #482 _Los Maynez_ (Clasificatorio)
+1. #482 _Los Mirzos_ (Clasificatorio)
+1. #482 _Los biotonotos _ (Clasificatorio)
+1. #482 _Los hijos de Sheinbaum_ (Clasificatorio)
+1. #482 _Los pepenadores_ (Clasificatorio)
+1. #482 _Los tres punto catorce_ (Clasificatorio)
+1. #482 _MTLA_Error 404: Talento no encontrado_ (Clasificatorio)
+1. #482 _MTLA_Ingeniebrios_ (Clasificatorio)
+1. #482 _MTLA_Trencitas_ (Clasificatorio)
+1. #482 _Madridismo Sociológico _ (Clasificatorio)
+1. #482 _Magic - MTLA_ (Clasificatorio)
+1. #482 _Minúsculos  - MTLA_ (Clasificatorio)
+1. #482 _Morsas.pbix _ (Clasificatorio)
+1. #482 _Nicolovers_ (Clasificatorio)
+1. #482 _OOZMAKAPPA_ (Clasificatorio)
+1. #482 _Otros Datos_ (Clasificatorio)
+1. #482 _Poreldiploma_ (Clasificatorio)
+1. #482 _Progenitores -MTLA_ (Clasificatorio)
+1. #482 _Puffles_ (Clasificatorio)
+1. #482 _Red Squadron Masters_ (Clasificatorio)
+1. #482 _Rigoneta_ (Clasificatorio)
+1. #482 _SHE -MTLA_ (Clasificatorio)
+1. #482 _Si pasamos o neh_ (Clasificatorio)
+1. #482 _Sin nombre 82_ (Clasificatorio)
+1. #482 _Syntax Sultans_ (Clasificatorio)
+1. #482 _TECHWIZARDS_ (Clasificatorio)
+1. #482 _VIP_ (Clasificatorio)
+1. #482 _VSC_ (Clasificatorio)
+1. #482 _Vault 33_ (Clasificatorio)
+1. #482 _WebOS_ (Clasificatorio)
+1. #482 _uno mas por favor_ (Clasificatorio)
 
 
 

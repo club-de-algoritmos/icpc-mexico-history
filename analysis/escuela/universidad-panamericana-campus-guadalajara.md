@@ -2,6 +2,7 @@
 
 ## Mejores 10 equipos
 
+1. _Team Impala_ resolvió 16 problemas y obtuvo el lugar #17 (99%) en The 2024 ICPC Gran Premio de Mexico
 1. _Hololive_ resolvió 3 problemas y obtuvo el lugar #22 (98%) en The 2022 ICPC Mexico Finals
 1. _Software Chasers_ resolvió 2 problemas y obtuvo el lugar #38 (97%) en The 2022 ICPC Mexico Finals
 1. _Mojibake_ resolvió 3 problemas y obtuvo el lugar #23 (96%) en The 2021 ICPC Mexico Finals
@@ -9,9 +10,8 @@
 1. _DrimTimICP_ resolvió 1 problemas y obtuvo el lugar #51 (93%) en The 2020 ICPC Mexico Finals
 1. _Takodachis_ resolvió 2 problemas y obtuvo el lugar #37 (92%) en The 2023 ICPC Mexico Finals
 1. _EzpcLemonEzQuizi_ resolvió 6 problemas y obtuvo el lugar #96 (91%) en The 2022 ICPC Gran Premio de Mexico
+1. _Testigos de DuPort_ resolvió 8 problemas y obtuvo el lugar #113 (91%) en The 2024 ICPC Gran Premio de Mexico
 1. _AlfaBuenaMaravillaOndaDinamitaEscuadrónLobo_ resolvió 0 problemas y obtuvo el lugar #50 (90%) en The 2021 ICPC Mexico Finals
-1. _Los Ángeles Azules_ resolvió 6 problemas y obtuvo el lugar #105 (90%) en The 2022 ICPC Gran Premio de Mexico
-1. _Trópicos de Capricornio_ resolvió 5 problemas y obtuvo el lugar #133 (90%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **7** | **50** | **50** |
+| **Total** | **0** | **0** | **7** | **62** | **62** |
 | [2017-2018](#2017-2018) | 0 | 0 | 0 | 2 | 2 |
 | [2018-2019](#2018-2019) | 0 | 0 | 0 | 4 | 4 |
 | [2019-2020](#2019-2020) | 0 | 0 | 0 | 2 | 2 |
@@ -27,6 +27,7 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 2 | 6 | 6 |
 | [2022-2023](#2022-2023) | 0 | 0 | 2 | 13 | 13 |
 | [2023-2024](#2023-2024) | 0 | 0 | 2 | 17 | 17 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 12 | 12 |
 
 ### 2017-2018
 
@@ -98,6 +99,21 @@
 1. #270 _UPGDL02_ (Clasificatorio)
 1. #275 _Los Chavos_ (Clasificatorio)
 1. #349 _Fibonacci_ (Clasificatorio)
+
+### 2024-2025
+
+1. #17 _Team Impala_ (Clasificatorio)
+1. #113 _Testigos de DuPort_ (Clasificatorio)
+1. #245 _UP Fuerzas Especiales_ (Clasificatorio)
+1. #247 _Las Divines_ (Clasificatorio)
+1. #261 _Remaria_ (Clasificatorio)
+1. #279 _Ingenieros Malvados y Asociados_ (Clasificatorio)
+1. #280 _Python_Es_ (Clasificatorio)
+1. #286 _Los Javasaurios_ (Clasificatorio)
+1. #291 _Coquette_ (Clasificatorio)
+1. #321 _Java lioestesemestre_ (Clasificatorio)
+1. #326 _Pescadores del puerto_ (Clasificatorio)
+1. #430 _Joshiditos_ (Clasificatorio)
 
 
 

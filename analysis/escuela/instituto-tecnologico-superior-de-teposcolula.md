@@ -19,11 +19,12 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **0** | **30** | **30** |
+| **Total** | **0** | **0** | **0** | **36** | **36** |
 | [2019-2020](#2019-2020) | 0 | 0 | 0 | 15 | 15 |
 | [2020-2021](#2020-2021) | 0 | 0 | 0 | 6 | 6 |
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 6 | 6 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 3 | 3 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 6 | 6 |
 
 ### 2019-2020
 
@@ -66,6 +67,15 @@
 1. #382 (#82 de TecNM) _Roots_ (Clasificatorio)
 1. #382 (#82 de TecNM) _alpha team_ (Clasificatorio)
 1. #382 (#82 de TecNM) _noCompila_ (Clasificatorio)
+
+### 2024-2025
+
+1. #482 (#114 de TecNM) _Binary Brigade_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Code Tepos_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Cristian_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Dinamita_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Los Cibernéticos_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Team JEA_ (Clasificatorio)
 
 
 

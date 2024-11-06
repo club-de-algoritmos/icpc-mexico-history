@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **17** | **30** | **45** |
+| **Total** | **0** | **0** | **17** | **35** | **50** |
 | [2005-2006](#2005-2006) | 0 | 0 | 1 | 0 | 1 |
 | [2006-2007](#2006-2007) | 0 | 0 | 1 | 0 | 1 |
 | [2007-2008](#2007-2008) | 0 | 0 | 1 | 0 | 1 |
@@ -39,6 +39,7 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 2 | 2 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 4 | 4 |
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 5 | 5 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 5 | 5 |
 
 ### 2005-2006
 
@@ -141,6 +142,14 @@
 1. #277 (#54 de TecNM) _#3Monos_ (Clasificatorio)
 1. #278 (#55 de TecNM) _3 Sotox_ (Clasificatorio)
 1. #280 (#57 de TecNM) _Los huay chivos del itescam_ (Clasificatorio)
+
+### 2024-2025
+
+1. #482 (#114 de TecNM) _1CodeHunters_ (Clasificatorio)
+1. #482 (#114 de TecNM) _3Monos_ (Clasificatorio)
+1. #482 (#114 de TecNM) _DeepMaze_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Los_Irvins_ (Clasificatorio)
+1. #482 (#114 de TecNM) _WorkCode_ (Clasificatorio)
 
 
 

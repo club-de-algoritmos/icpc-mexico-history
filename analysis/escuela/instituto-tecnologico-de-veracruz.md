@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **15** | **57** | **62** |
+| **Total** | **0** | **0** | **15** | **59** | **64** |
 | [2006-2007](#2006-2007) | 0 | 0 | 1 | 0 | 1 |
 | [2012-2013](#2012-2013) | 0 | 0 | 2 | 0 | 2 |
 | [2013-2014](#2013-2014) | 0 | 0 | 2 | 0 | 2 |
@@ -33,6 +33,7 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 4 | 4 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 7 | 7 |
 | [2023-2024](#2023-2024) | 0 | 0 | 1 | 5 | 5 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 2 | 2 |
 
 ### 2006-2007
 
@@ -134,6 +135,11 @@
 1. #180 (#32 de TecNM) _Javarianos_ (Clasificatorio)
 1. #197 (#38 de TecNM) _SXTeam_ (Clasificatorio)
 1. #297 (#60 de TecNM) _Program in raptor_ (Clasificatorio)
+
+### 2024-2025
+
+1. #121 (#16 de TecNM) _ItverPower_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Jar8s_ (Clasificatorio)
 
 
 

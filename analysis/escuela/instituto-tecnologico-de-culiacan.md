@@ -6,14 +6,14 @@
     - Avanzó a la final mundial y resolvió 3 problemas y obtuvo el lugar #49 (52%) en 33rd Annual World Finals of the ACM International Collegiate Programming Contest
 1. _ITC Turing Machines_ resolvió 5 problemas y obtuvo el lugar #3 (99%) en The 2007 ACM Mexico and Central America Programming Contest
     - Avanzó a la final mundial y resolvió 0 problemas y obtuvo el lugar #90 (10%) en The 2008 ACM Programming Contest World Finals
+1. _BRO... CSM_ resolvió 19 problemas y obtuvo el lugar #4 (100%) en The 2024 ICPC Gran Premio de Mexico
 1. _Ludus G++_ resolvió 4 problemas y obtuvo el lugar #14 (99%) en The 2022 ICPC Mexico Finals
+1. _Ludus +500_ resolvió 12 problemas y obtuvo el lugar #27 (98%) en The 2024 ICPC Gran Premio de Mexico
 1. _JRA_ resolvió 5 problemas y obtuvo el lugar #9 (97%) en The 2014 ACM-ICPC Mexico and Central America Finals
 1. _Sieve of Ludus_ resolvió 4 problemas y obtuvo el lugar #13 (97%) en The 2023 ICPC Mexico Finals
+1. _Combo Deluxe_ resolvió 12 problemas y obtuvo el lugar #44 (96%) en The 2024 ICPC Gran Premio de Mexico
+1. _ADO++_ resolvió 9 problemas y obtuvo el lugar #59 (95%) en The 2024 ICPC Gran Premio de Mexico
 1. _AC2++_ resolvió 3 problemas y obtuvo el lugar #30 (94%) en The 2023 ICPC Mexico Finals
-1. _Three Bits_ resolvió 4 problemas y obtuvo el lugar #12 (93%) en The 2012 Mexico & Central America Regional Contest
-1. _Ludus G++_ resolvió 2 problemas y obtuvo el lugar #36 (93%) en The 2021 ICPC Mexico Finals
-1. _tec de Culiacán_ resolvió 4 problemas y obtuvo el lugar #16 (91%) en The 2009 Mexico & Central America Contest
-1. _Hijos de Honor_ resolvió 7 problemas y obtuvo el lugar #93 (91%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -21,7 +21,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **2** | **0** | **19** | **39** | **53** |
+| **Total** | **2** | **0** | **19** | **51** | **65** |
 | [2006-2007](#2006-2007) | 0 | 0 | 1 | 0 | 1 |
 | [2007-2008](#2007-2008) | 1 | 0 | 1 | 0 | 1 |
 | [2008-2009](#2008-2009) | 1 | 0 | 3 | 0 | 3 |
@@ -35,6 +35,7 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 1 | 7 | 7 |
 | [2022-2023](#2022-2023) | 0 | 0 | 1 | 10 | 10 |
 | [2023-2024](#2023-2024) | 0 | 0 | 2 | 12 | 12 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 12 | 12 |
 
 ### 2006-2007
 
@@ -129,6 +130,21 @@
 1. #303 (#63 de TecNM) _Datahead_ (Clasificatorio)
 1. #319 (#69 de TecNM) _los traperitos_ (Clasificatorio)
 1. #457 (#132 de TecNM) _Las Llaves_ (Clasificatorio)
+
+### 2024-2025
+
+1. #4 (#1 de TecNM) _BRO... CSM_ (Clasificatorio)
+1. #27 (#3 de TecNM) _Ludus +500_ (Clasificatorio)
+1. #44 (#6 de TecNM) _Combo Deluxe_ (Clasificatorio)
+1. #59 (#10 de TecNM) _ADO++_ (Clasificatorio)
+1. #137 (#23 de TecNM) _EAGLES_ (Clasificatorio)
+1. #196 (#36 de TecNM) _KRV_ (Clasificatorio)
+1. #250 (#52 de TecNM) _Hasbulla Lovers Official Fans Club_ (Clasificatorio)
+1. #372 (#82 de TecNM) _SIG++_ (Clasificatorio)
+1. #412 (#89 de TecNM) _Pikmin 4_ (Clasificatorio)
+1. #413 (#90 de TecNM) _C+=3_ (Clasificatorio)
+1. #423 (#91 de TecNM) _Chicas Superpoderosas_ (Clasificatorio)
+1. #424 (#92 de TecNM) _Triforce_ (Clasificatorio)
 
 
 

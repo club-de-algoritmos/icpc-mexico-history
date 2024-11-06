@@ -19,11 +19,12 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **0** | **69** | **69** |
+| **Total** | **0** | **0** | **0** | **119** | **119** |
 | [2019-2020](#2019-2020) | 0 | 0 | 0 | 15 | 15 |
 | [2020-2021](#2020-2021) | 0 | 0 | 0 | 7 | 7 |
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 6 | 6 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 41 | 41 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 50 | 50 |
 
 ### 2019-2020
 
@@ -105,6 +106,59 @@
 1. #382 (#82 de TecNM) _Scrums_ (Clasificatorio)
 1. #382 (#82 de TecNM) _TORTA DE TAMAL_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Tacitas de Café_ (Clasificatorio)
+
+### 2024-2025
+
+1. #482 (#114 de TecNM) _3G_ (Clasificatorio)
+1. #482 (#114 de TecNM) _AMY_ (Clasificatorio)
+1. #482 (#114 de TecNM) _BROKEN BONES_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Byte Force_ (Clasificatorio)
+1. #482 (#114 de TecNM) _ByteError_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Code Transformers_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Code dropped_ (Clasificatorio)
+1. #482 (#114 de TecNM) _CyberStorm_ (Clasificatorio)
+1. #482 (#114 de TecNM) _EQUIPO ALFA_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Etéreos_ (Clasificatorio)
+1. #482 (#114 de TecNM) _GUERREROS DIGITALES_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Galleta_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Huevito con Catsup_ (Clasificatorio)
+1. #482 (#114 de TecNM) _IT Imperium_ (Clasificatorio)
+1. #482 (#114 de TecNM) _JAM_ (Clasificatorio)
+1. #482 (#114 de TecNM) _JAV_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Jurásicos_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Kuchaw_ (Clasificatorio)
+1. #482 (#114 de TecNM) _LINUXEROS_ (Clasificatorio)
+1. #482 (#114 de TecNM) _LKE_ (Clasificatorio)
+1. #482 (#114 de TecNM) _LOS AUTOMATAS_ (Clasificatorio)
+1. #482 (#114 de TecNM) _LOS CANTERAS_ (Clasificatorio)
+1. #482 (#114 de TecNM) _LOS JAVEROS_ (Clasificatorio)
+1. #482 (#114 de TecNM) _LOS TAZOS DORADOS_ (Clasificatorio)
+1. #482 (#114 de TecNM) _LOST ONES_ (Clasificatorio)
+1. #482 (#114 de TecNM) _LOZ AZULITOS_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Las Poderosas_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Littlebits_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Los Bandidos_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Los Hipopotomonstosesquipedaliofobicos _ (Clasificatorio)
+1. #482 (#114 de TecNM) _Los Piolas_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Los Titan's Company_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Los Tornados_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Los Volcanes xD_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Los ansiosos de veras_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Nenis_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Nym-0s_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Olimpus_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Pixel Queens_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Potaxies_ (Clasificatorio)
+1. #482 (#114 de TecNM) _ROCKET_ (Clasificatorio)
+1. #482 (#114 de TecNM) _ROSITA FRESITA_ (Clasificatorio)
+1. #482 (#114 de TecNM) _SMAG_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Stack Overflowers_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Studio KMC Dev._ (Clasificatorio)
+1. #482 (#114 de TecNM) _Syntax Error ITESHU_ (Clasificatorio)
+1. #482 (#114 de TecNM) _TOLENTINOS_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Wishle_ (Clasificatorio)
+1. #482 (#114 de TecNM) _YAI_ (Clasificatorio)
+1. #482 (#114 de TecNM) _chilemorrón_ (Clasificatorio)
 
 
 

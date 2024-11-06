@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **13** | **19** | **32** |
+| **Total** | **0** | **0** | **13** | **22** | **35** |
 | [2009-2010](#2009-2010) | 0 | 0 | 2 | 0 | 2 |
 | [2010-2011](#2010-2011) | 0 | 0 | 3 | 0 | 3 |
 | [2011-2012](#2011-2012) | 0 | 0 | 3 | 0 | 3 |
@@ -28,6 +28,7 @@
 | [2020-2021](#2020-2021) | 0 | 0 | 0 | 11 | 11 |
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 2 | 2 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 6 | 6 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 3 | 3 |
 
 ### 2009-2010
 
@@ -84,6 +85,12 @@
 1. #382 (#82 de TecNM) _PyJava++_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Ticsitos_ (Clasificatorio)
 1. #382 (#82 de TecNM) _pony force_ (Clasificatorio)
+
+### 2024-2025
+
+1. #482 (#114 de TecNM) _CodeByPixel_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Full Snack Developers_ (Clasificatorio)
+1. #482 (#114 de TecNM) _PonysCodeCrafters_ (Clasificatorio)
 
 
 

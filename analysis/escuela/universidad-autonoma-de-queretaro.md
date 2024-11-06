@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **19** | **15** | **31** |
+| **Total** | **0** | **0** | **19** | **25** | **41** |
 | [2002-2003](#2002-2003) | 0 | 0 | 1 | 0 | 1 |
 | [2003-2004](#2003-2004) | 0 | 0 | 3 | 0 | 3 |
 | [2004-2005](#2004-2005) | 0 | 0 | 3 | 0 | 3 |
@@ -32,6 +32,7 @@
 | [2017-2018](#2017-2018) | 0 | 0 | 1 | 3 | 3 |
 | [2018-2019](#2018-2019) | 0 | 0 | 1 | 4 | 4 |
 | [2019-2020](#2019-2020) | 0 | 0 | 1 | 3 | 3 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 10 | 10 |
 
 ### 2002-2003
 
@@ -99,6 +100,19 @@
 1. #38 _The Best Skynet_ (Regional)
 1. #288 _Troyanos UAQ_ (Clasificatorio)
 1. #382 _2 Fast & 2 Fourier_ (Clasificatorio)
+
+### 2024-2025
+
+1. #482 _CT-501_ (Clasificatorio)
+1. #482 _CodigoEnigma_ (Clasificatorio)
+1. #482 _Exceso_de_Fe_ (Clasificatorio)
+1. #482 _MarcoAurelios_ (Clasificatorio)
+1. #482 _Marco_Aurelios-mk2_ (Clasificatorio)
+1. #482 _Mugiwara_ (Clasificatorio)
+1. #482 _Mugiwaras_ (Clasificatorio)
+1. #482 _Thetroyans_ (Clasificatorio)
+1. #482 _TroyanTunes_ (Clasificatorio)
+1. #482 _UAQuibus_ (Clasificatorio)
 
 
 

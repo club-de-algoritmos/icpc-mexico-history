@@ -19,11 +19,12 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **0** | **31** | **31** |
+| **Total** | **0** | **0** | **0** | **39** | **39** |
 | [2019-2020](#2019-2020) | 0 | 0 | 0 | 9 | 9 |
 | [2020-2021](#2020-2021) | 0 | 0 | 0 | 9 | 9 |
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 7 | 7 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 6 | 6 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 8 | 8 |
 
 ### 2019-2020
 
@@ -67,6 +68,17 @@
 1. #382 (#82 de TecNM) _Gateway-TICs-ITSOEH_ (Clasificatorio)
 1. #382 (#82 de TecNM) _ITSOEH ISIC Error 404_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Not Found 404_ (Clasificatorio)
+
+### 2024-2025
+
+1. #482 (#114 de TecNM) _Error 406_ (Clasificatorio)
+1. #482 (#114 de TecNM) _ITSOEH-IOT-CLUB-SS_ (Clasificatorio)
+1. #482 (#114 de TecNM) _ITSOEH-IoT-Club_ (Clasificatorio)
+1. #482 (#114 de TecNM) _ITSOEH-IoT-Club-2_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Los hamburguesitos_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Masters Coders_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Real Beltic’s_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Tecno TICs_ (Clasificatorio)
 
 
 

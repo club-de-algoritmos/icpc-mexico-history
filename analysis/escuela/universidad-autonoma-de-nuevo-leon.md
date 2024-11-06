@@ -8,13 +8,13 @@
     - Avanzó a la final mundial y resolvió 3 problemas y obtuvo el lugar #57 (58%) en 41st Annual World Finals of the ACM International Collegiate Programming Contest
 1. _TriAda_ resolvió 5 problemas y obtuvo el lugar #4 (99%) en The 2021 ICPC Mexico Finals
     - Avanzó a la final mundial y resolvió 2 problemas y obtuvo el lugar #62 (50%) en 46th Annual World Finals of the International Collegiate Programming Contest
+1. _Tigres.cpp_ resolvió 17 problemas y obtuvo el lugar #9 (99%) en The 2024 ICPC Gran Premio de Mexico
 1. _TriAda_ resolvió 5 problemas y obtuvo el lugar #10 (99%) en The 2020 ICPC Mexico Finals
 1. _ACE_ resolvió 4 problemas y obtuvo el lugar #11 (99%) en The 2022 ICPC Mexico Finals
 1. _nu1l_ resolvió 4 problemas y obtuvo el lugar #15 (99%) en The 2022 ICPC Mexico Finals
 1. _TriAda_ resolvió 4 problemas y obtuvo el lugar #19 (99%) en The 2019 ICPC Mexico Finals
 1. _Los Irmos_ resolvió 3 problemas y obtuvo el lugar #3 (98%) en The 2003 ACM Mexico and Central America Programming Contest
 1. _Los Irmos_ resolvió 2 problemas y obtuvo el lugar #3 (98%) en The 2002 ACM Mexico and Central America Programming Contest
-1. _FCFM1_ resolvió 4 problemas y obtuvo el lugar #3 (97%) en The 2001 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 
@@ -22,7 +22,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **3** | **0** | **56** | **80** | **120** |
+| **Total** | **3** | **0** | **56** | **107** | **147** |
 | [2001-2002](#2001-2002) | 0 | 0 | 3 | 0 | 3 |
 | [2002-2003](#2002-2003) | 0 | 0 | 3 | 0 | 3 |
 | [2003-2004](#2003-2004) | 0 | 0 | 3 | 0 | 3 |
@@ -46,6 +46,7 @@
 | [2021-2022](#2021-2022) | 1 | 0 | 2 | 11 | 11 |
 | [2022-2023](#2022-2023) | 0 | 0 | 2 | 23 | 23 |
 | [2023-2024](#2023-2024) | 0 | 0 | 2 | 14 | 14 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 27 | 27 |
 
 ### 2001-2002
 
@@ -238,6 +239,36 @@
 1. #415 _Attack On Python_ (Clasificatorio)
 1. #416 _NanoByte_ (Clasificatorio)
 1. #417 _Fast Code_ (Clasificatorio)
+
+### 2024-2025
+
+1. #9 _Tigres.cpp_ (Clasificatorio)
+1. #69 _NSP_ (Clasificatorio)
+1. #94 _Machines Ant Killer_ (Clasificatorio)
+1. #97 _JAM64_ (Clasificatorio)
+1. #115 _Code Repairers_ (Clasificatorio)
+1. #185 _Las Chicas superpoderosas_ (Clasificatorio)
+1. #190 _Timbits_ (Clasificatorio)
+1. #281 _Mercenarios by JL_ (Clasificatorio)
+1. #284 _Gallos Kaisen_ (Clasificatorio)
+1. #317 _Los Ensambladores_ (Clasificatorio)
+1. #346 _while True_ (Clasificatorio)
+1. #351 _TFDFPS_ (Clasificatorio)
+1. #353 _bisontes LCC_ (Clasificatorio)
+1. #355 _terronsitos 404_ (Clasificatorio)
+1. #386 _Zelayos_ (Clasificatorio)
+1. #406 _Trio dinámico_ (Clasificatorio)
+1. #409 _Thing Link_ (Clasificatorio)
+1. #416 _prograpaps_ (Clasificatorio)
+1. #422 _Code crafters_ (Clasificatorio)
+1. #435 _Scriptsymphony_ (Clasificatorio)
+1. #445 _Algoritbros_ (Clasificatorio)
+1. #474 _AWA.py_ (Clasificatorio)
+1. #475 _CODE 5-3_ (Clasificatorio)
+1. #482 _3HDD_ (Clasificatorio)
+1. #482 _Axioma.exe_ (Clasificatorio)
+1. #482 _Kappa_ (Clasificatorio)
+1. #482 _LCCMonkeys_ (Clasificatorio)
 
 
 

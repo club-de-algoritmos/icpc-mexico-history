@@ -19,11 +19,12 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **0** | **44** | **44** |
+| **Total** | **0** | **0** | **0** | **54** | **54** |
 | [2019-2020](#2019-2020) | 0 | 0 | 0 | 11 | 11 |
 | [2020-2021](#2020-2021) | 0 | 0 | 0 | 12 | 12 |
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 8 | 8 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 13 | 13 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 10 | 10 |
 
 ### 2019-2020
 
@@ -80,6 +81,19 @@
 1. #382 (#82 de TecNM) _The Best Programmers_ (Clasificatorio)
 1. #382 (#82 de TecNM) _The Powerpuff Girls_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Trifuerza_ (Clasificatorio)
+
+### 2024-2025
+
+1. #482 (#114 de TecNM) _Albóndiga_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Byte Brothers_ (Clasificatorio)
+1. #482 (#114 de TecNM) _CSM_ (Clasificatorio)
+1. #482 (#114 de TecNM) _GodHelpUs_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Los Encriptados_ (Clasificatorio)
+1. #482 (#114 de TecNM) _MEGABYTE_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Pochoclos_ (Clasificatorio)
+1. #482 (#114 de TecNM) _PrepuSys_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Tazos dorados_ (Clasificatorio)
+1. #482 (#114 de TecNM) _The Sharks_ (Clasificatorio)
 
 
 

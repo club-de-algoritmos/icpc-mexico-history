@@ -6,6 +6,8 @@
 1. _A.s.m._ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _dinamita_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _type_null_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _AAAIMX-Encoders_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
+1. _TetraForce_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
 1. _OMEN_ resolvió 0 problemas y obtuvo el lugar #226 (53%) en The 2021 ICPC Gran Premio de Mexico
 
 ## Participaciones
@@ -14,9 +16,10 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **0** | **5** | **5** |
+| **Total** | **0** | **0** | **0** | **7** | **7** |
 | [2019-2020](#2019-2020) | 0 | 0 | 0 | 4 | 4 |
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 1 | 1 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 2 | 2 |
 
 ### 2019-2020
 
@@ -28,6 +31,11 @@
 ### 2021-2022
 
 1. #226 (#36 de TecNM) _OMEN_ (Clasificatorio)
+
+### 2024-2025
+
+1. #482 (#114 de TecNM) _AAAIMX-Encoders_ (Clasificatorio)
+1. #482 (#114 de TecNM) _TetraForce_ (Clasificatorio)
 
 
 

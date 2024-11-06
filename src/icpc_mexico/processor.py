@@ -180,6 +180,21 @@ def get_schools(contests: List[FinishedContest]) -> List[School]:
             country=MEXICO,
         ),
         School(
+            name='Instituto Tecnológico Superior de Acatlán de Osorio',
+            alt_names=['higher technological institute of acatlan de osorio'],
+            country=MEXICO,
+        ),
+        School(
+            name='Tecnológico Nacional de Mexico en Celaya',
+            alt_names=['tecnologico nacionalde mexico en celaya'],
+            country=MEXICO,
+        ),
+        School(
+            name='Instituto Tecnológico de Querétaro',
+            alt_names=['instituto tecnologico de queretaro'],
+            country=MEXICO,
+        ),
+        School(
             name='Instituto Tecnológico de San Luis Potosí',
             alt_names=['institutuo technologico de san luis potosi'],
             country=MEXICO,
@@ -309,7 +324,19 @@ def get_schools(contests: List[FinishedContest]) -> List[School]:
             schools.append(School(name=school_name, community=SchoolCommunity.ITESM, country=MEXICO))
             continue
 
-        if contains_strings(normalized_name, 'olimpiada', 'cetis', 'cbtis', 'cecytem', 'bachillerato', 'preparatoria'):
+        if contains_strings(
+                normalized_name,
+                'olimpiada',
+                'cetis',
+                'cbtis',
+                'cecytem',
+                'bachillerato',
+                'preparatoria',
+                'centros de estudios tecnologicos industrial y de servicios',
+                'colegio nacional de educacion profesional',
+                'escuela de talentos guanajuato azteca',
+                'medio superior',
+        ):
             schools.append(School(name=school_name, is_eligible=False, country=MEXICO))
             continue
 

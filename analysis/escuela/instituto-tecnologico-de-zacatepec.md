@@ -2,7 +2,9 @@
 
 ## Mejores 10 equipos
 
+1. _Internship plis_ resolvió 13 problemas y obtuvo el lugar #22 (98%) en The 2024 ICPC Gran Premio de Mexico
 1. _Juniors_ resolvió 3 problemas y obtuvo el lugar #35 (92%) en The 2023 ICPC Mexico Finals
+1. _NetRunners_ resolvió 7 problemas y obtuvo el lugar #139 (89%) en The 2024 ICPC Gran Premio de Mexico
 1. _Juniors_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
@@ -11,9 +13,10 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **1** | **2** | **2** |
+| **Total** | **0** | **0** | **1** | **4** | **4** |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 1 | 1 |
 | [2023-2024](#2023-2024) | 0 | 0 | 1 | 1 | 1 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 2 | 2 |
 
 ### 2022-2023
 
@@ -22,6 +25,11 @@
 ### 2023-2024
 
 1. #35 (#6 de TecNM) _Juniors_ (Regional)
+
+### 2024-2025
+
+1. #22 (#2 de TecNM) _Internship plis_ (Clasificatorio)
+1. #139 (#24 de TecNM) _NetRunners_ (Clasificatorio)
 
 
 

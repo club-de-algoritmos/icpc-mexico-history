@@ -4,6 +4,7 @@
 
 1. _UAM Azcapotzalco XX_ resolvió 3 problemas y obtuvo el lugar #5 (98%) en The 2011 Mexico & Central America Regional Contest
 1. _++UAM_ resolvió 4 problemas y obtuvo el lugar #19 (98%) en The 2018 ICPC Mexico and Central America Finals
+1. _Kemonitos_ resolvió 14 problemas y obtuvo el lugar #23 (98%) en The 2024 ICPC Gran Premio de Mexico
 1. _++UAM_ resolvió 3 problemas y obtuvo el lugar #26 (98%) en The 2019 ICPC Mexico Finals
 1. _La mejor remontada_ resolvió 4 problemas y obtuvo el lugar #21 (96%) en The 2023 ICPC Mexico Finals
 1. _Los Lobos Solitarios_ resolvió 1 problemas y obtuvo el lugar #48 (96%) en The 2022 ICPC Mexico Finals
@@ -11,7 +12,6 @@
 1. _UAMitos_ resolvió 9 problemas y obtuvo el lugar #69 (95%) en Gran Premio de Mexico 2019
 1. _UAM-A 2017-1_ resolvió 2 problemas y obtuvo el lugar #42 (94%) en The 2017 ACM-ICPC Mexico and Central America Finals
 1. _UAMitosPlusPlus_ resolvió 2 problemas y obtuvo el lugar #45 (94%) en The 2020 ICPC Mexico Finals
-1. _UAM Azcapotzalco 2016_ resolvió 3 problemas y obtuvo el lugar #36 (93%) en The 2016 ACM-ICPC Mexico and Central America Finals
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **40** | **28** | **56** |
+| **Total** | **0** | **0** | **40** | **31** | **59** |
 | [2004-2005](#2004-2005) | 0 | 0 | 2 | 0 | 2 |
 | [2005-2006](#2005-2006) | 0 | 0 | 2 | 0 | 2 |
 | [2006-2007](#2006-2007) | 0 | 0 | 3 | 0 | 3 |
@@ -39,6 +39,7 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 2 | 4 | 4 |
 | [2022-2023](#2022-2023) | 0 | 0 | 1 | 4 | 4 |
 | [2023-2024](#2023-2024) | 0 | 0 | 1 | 2 | 2 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 3 | 3 |
 
 ### 2004-2005
 
@@ -152,6 +153,12 @@
 
 1. #21 _La mejor remontada_ (Regional)
 1. #153 _cagUAM++_ (Clasificatorio)
+
+### 2024-2025
+
+1. #23 _Kemonitos_ (Clasificatorio)
+1. #129 _UAMitos++_ (Clasificatorio)
+1. #162 _std::UwU_ (Clasificatorio)
 
 
 

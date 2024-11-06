@@ -11,7 +11,7 @@
 1. _OREO´S_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _RAM_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _poseidonRX_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _Dinamita_ resolvió 0 problemas y obtuvo el lugar #351 (50%) en Gran Premio de Mexico 2020
+1. _BETA_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -19,13 +19,14 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **12** | **13** | **25** |
+| **Total** | **0** | **0** | **12** | **26** | **38** |
 | [2010-2011](#2010-2011) | 0 | 0 | 3 | 0 | 3 |
 | [2011-2012](#2011-2012) | 0 | 0 | 3 | 0 | 3 |
 | [2012-2013](#2012-2013) | 0 | 0 | 3 | 0 | 3 |
 | [2013-2014](#2013-2014) | 0 | 0 | 3 | 0 | 3 |
 | [2020-2021](#2020-2021) | 0 | 0 | 0 | 4 | 4 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 9 | 9 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 13 | 13 |
 
 ### 2010-2011
 
@@ -69,6 +70,22 @@
 1. #382 (#82 de TecNM) _OREO´S_ (Clasificatorio)
 1. #382 (#82 de TecNM) _RAM_ (Clasificatorio)
 1. #382 (#82 de TecNM) _poseidonRX_ (Clasificatorio)
+
+### 2024-2025
+
+1. #482 (#114 de TecNM) _BETA_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Byte Masters_ (Clasificatorio)
+1. #482 (#114 de TecNM) _COMPILLAS_ (Clasificatorio)
+1. #482 (#114 de TecNM) _CR7_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Circulo Creativo_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Code Crafters_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Los David´s_ (Clasificatorio)
+1. #482 (#114 de TecNM) _My Java Romance_ (Clasificatorio)
+1. #482 (#114 de TecNM) _No saben Programar_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Piratcod_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Sorbo de Cafe_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Taycan_ (Clasificatorio)
+1. #482 (#114 de TecNM) _X-Force_ (Clasificatorio)
 
 
 

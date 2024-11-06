@@ -10,8 +10,8 @@
 1. _CodeArtisans_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _League of Coders_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _TuzoGlitchXP_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _TecPachuca_01_ resolvió 0 problemas y obtuvo el lugar #226 (53%) en The 2021 ICPC Gran Premio de Mexico
-1. _TecPachuca_02_ resolvió 0 problemas y obtuvo el lugar #226 (53%) en The 2021 ICPC Gran Premio de Mexico
+1. _Alfadinamitabuenaondamaravillaescuadronlobo_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
+1. _Dark Magicians_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -19,13 +19,14 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **1** | **11** | **12** |
+| **Total** | **0** | **0** | **1** | **18** | **19** |
 | [2006-2007](#2006-2007) | 0 | 0 | 1 | 0 | 1 |
 | [2018-2019](#2018-2019) | 0 | 0 | 0 | 2 | 2 |
 | [2019-2020](#2019-2020) | 0 | 0 | 0 | 2 | 2 |
 | [2020-2021](#2020-2021) | 0 | 0 | 0 | 1 | 1 |
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 2 | 2 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 4 | 4 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 7 | 7 |
 
 ### 2006-2007
 
@@ -56,6 +57,16 @@
 1. #382 (#82 de TecNM) _CodeArtisans_ (Clasificatorio)
 1. #382 (#82 de TecNM) _League of Coders_ (Clasificatorio)
 1. #382 (#82 de TecNM) _TuzoGlitchXP_ (Clasificatorio)
+
+### 2024-2025
+
+1. #482 (#114 de TecNM) _Alfadinamitabuenaondamaravillaescuadronlobo_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Dark Magicians_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Digital Fighters_ (Clasificatorio)
+1. #482 (#114 de TecNM) _League of Coders_ (Clasificatorio)
+1. #482 (#114 de TecNM) _PixelFlux_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Senatus_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Titans_ (Clasificatorio)
 
 
 

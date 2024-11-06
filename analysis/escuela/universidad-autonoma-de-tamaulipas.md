@@ -3,6 +3,7 @@
 ## Mejores 10 equipos
 
 1. _Pinky_Pie_ resolvió 3 problemas y obtuvo el lugar #28 (92%) en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _Chilaquiles en salsa verde_ resolvió 8 problemas y obtuvo el lugar #107 (91%) en The 2024 ICPC Gran Premio de Mexico
 1. _JAVAlimos_ resolvió 5 problemas y obtuvo el lugar #140 (89%) en Gran Premio de Mexico 2019
 1. _Origins_ resolvió 5 problemas y obtuvo el lugar #143 (89%) en Gran Premio de Mexico 2019
 1. _AmIUbiCom-Rojo_ resolvió 8 problemas y obtuvo el lugar #78 (88%) en Gran Premio de Mexico & Centroamerica 2017
@@ -11,7 +12,6 @@
 1. _AmI-UbiCom_ resolvió 2 problemas y obtuvo el lugar #79 (85%) en The 2016 ACM-ICPC Mexico and Central America Finals
 1. _Ami-UbiCom_ resolvió 1 problemas y obtuvo el lugar #45 (82%) en The 2014 ACM-ICPC Mexico and Central America Finals
 1. _System.GC_ resolvió 4 problemas y obtuvo el lugar #57 (82%) en Gran Premio de Mexico & Centroamerica
-1. _Chip&Dale_ resolvió 3 problemas y obtuvo el lugar #59 (82%) en Gran Premio de Mexico & Centroamerica
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **19** | **84** | **99** |
+| **Total** | **0** | **0** | **19** | **90** | **105** |
 | [2001-2002](#2001-2002) | 0 | 0 | 3 | 0 | 3 |
 | [2005-2006](#2005-2006) | 0 | 0 | 1 | 0 | 1 |
 | [2006-2007](#2006-2007) | 0 | 0 | 1 | 0 | 1 |
@@ -33,6 +33,7 @@
 | [2019-2020](#2019-2020) | 0 | 0 | 0 | 20 | 20 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 6 | 6 |
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 2 | 2 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 6 | 6 |
 
 ### 2001-2002
 
@@ -171,6 +172,15 @@
 
 1. #110 _Los Papus Pro_ (Clasificatorio)
 1. #124 _TDManiaticos_ (Clasificatorio)
+
+### 2024-2025
+
+1. #107 _Chilaquiles en salsa verde_ (Clasificatorio)
+1. #397 _Inteligencia Ambiental_ (Clasificatorio)
+1. #428 _Brizuela y su pandilla_ (Clasificatorio)
+1. #451 _GitGut_ (Clasificatorio)
+1. #476 _Syntax Sorcerers_ (Clasificatorio)
+1. #482 _Chilaquiles en Salsa Verde_ (Clasificatorio)
 
 
 

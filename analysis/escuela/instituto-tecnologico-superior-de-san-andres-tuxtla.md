@@ -19,10 +19,11 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **0** | **31** | **31** |
+| **Total** | **0** | **0** | **0** | **46** | **46** |
 | [2020-2021](#2020-2021) | 0 | 0 | 0 | 7 | 7 |
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 9 | 9 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 15 | 15 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 15 | 15 |
 
 ### 2020-2021
 
@@ -63,6 +64,24 @@
 1. #382 (#82 de TecNM) _warlocks_ (Clasificatorio)
 1. #382 (#82 de TecNM) _warlocks-2_ (Clasificatorio)
 1. #382 (#82 de TecNM) _wizard2_ (Clasificatorio)
+
+### 2024-2025
+
+1. #482 (#114 de TecNM) _404:No encontrado_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Algorithm Avengers_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Brawlpapus_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Bytten-ManGoes_ (Clasificatorio)
+1. #482 (#114 de TecNM) _ClassNotFoundException_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Grenda 2 la secuela_ (Clasificatorio)
+1. #482 (#114 de TecNM) _La tercera es la vencida_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Los espanta viejas_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Los viajeros del sofá_ (Clasificatorio)
+1. #482 (#114 de TecNM) _MyPython_ (Clasificatorio)
+1. #482 (#114 de TecNM) _NIUPI_ (Clasificatorio)
+1. #482 (#114 de TecNM) _PyTeam_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Team Umizoomi_ (Clasificatorio)
+1. #482 (#114 de TecNM) _ZeroesOnces_ (Clasificatorio)
+1. #482 (#114 de TecNM) _freshman_ (Clasificatorio)
 
 
 

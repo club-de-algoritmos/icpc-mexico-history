@@ -2,6 +2,8 @@
 
 ## Mejores 10 equipos
 
+1. _¿Quién es el main?_ resolvió 5 problemas y obtuvo el lugar #205 (83%) en The 2024 ICPC Gran Premio de Mexico
+1. _Tifosi_ resolvió 2 problemas y obtuvo el lugar #359 (71%) en The 2024 ICPC Gran Premio de Mexico
 1. _Los Programadoruskis_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _Coders4Life_ resolvió 0 problemas y obtuvo el lugar #61 (59%) en The 2007 ACM Mexico and Central America Programming Contest
 1. _IngCode_ resolvió 0 problemas y obtuvo el lugar #351 (50%) en Gran Premio de Mexico 2020
@@ -16,13 +18,14 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **3** | **4** | **7** |
+| **Total** | **0** | **0** | **3** | **6** | **9** |
 | [2007-2008](#2007-2008) | 0 | 0 | 1 | 0 | 1 |
 | [2008-2009](#2008-2009) | 0 | 0 | 2 | 0 | 2 |
 | [2018-2019](#2018-2019) | 0 | 0 | 0 | 1 | 1 |
 | [2019-2020](#2019-2020) | 0 | 0 | 0 | 1 | 1 |
 | [2020-2021](#2020-2021) | 0 | 0 | 0 | 1 | 1 |
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 1 | 1 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 2 | 2 |
 
 ### 2007-2008
 
@@ -48,6 +51,11 @@
 ### 2023-2024
 
 1. #419 _Capa 8 Runtime Error_ (Clasificatorio)
+
+### 2024-2025
+
+1. #205 _¿Quién es el main?_ (Clasificatorio)
+1. #359 _Tifosi_ (Clasificatorio)
 
 
 

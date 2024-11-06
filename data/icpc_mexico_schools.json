@@ -1,5 +1,13 @@
 [
   {
+    "name": "Bachillerato Bivalente de Talentos",
+    "alt_names": [],
+    "community": null,
+    "country": "mexico",
+    "state": null,
+    "is_eligible": false
+  },
+  {
     "name": "Benemérita Universidad Autónoma de Puebla",
     "alt_names": [
       "buap facultad de ciencias de la computacion"
@@ -66,7 +74,47 @@
     "is_eligible": false
   },
   {
+    "name": "Centro de Bachillerato Tecnológico Agropecuario No. 113",
+    "alt_names": [],
+    "community": null,
+    "country": "mexico",
+    "state": null,
+    "is_eligible": false
+  },
+  {
     "name": "Centro de Bachillerato Tecnológico industrial de servicios",
+    "alt_names": [],
+    "community": null,
+    "country": "mexico",
+    "state": null,
+    "is_eligible": false
+  },
+  {
+    "name": "Centro de Bachillerato Tecnológico Industrial y de Servicios No. 139",
+    "alt_names": [],
+    "community": null,
+    "country": "mexico",
+    "state": null,
+    "is_eligible": false
+  },
+  {
+    "name": "Centro de Bachillerato Tecnológico Industrial y de Servicios No. 148",
+    "alt_names": [],
+    "community": null,
+    "country": "mexico",
+    "state": null,
+    "is_eligible": false
+  },
+  {
+    "name": "Centro de Bachillerato Tecnológico Industrial y de Servicios No. 172",
+    "alt_names": [],
+    "community": null,
+    "country": "mexico",
+    "state": null,
+    "is_eligible": false
+  },
+  {
+    "name": "Centro de Bachillerato Tecnológico Industrial y de Servicios No.255",
     "alt_names": [],
     "community": null,
     "country": "mexico",
@@ -104,6 +152,30 @@
     "country": "mexico",
     "state": null,
     "is_eligible": true
+  },
+  {
+    "name": "Centros de Estudios Tecnológicos Industrial y de Servicios 120",
+    "alt_names": [],
+    "community": null,
+    "country": "mexico",
+    "state": null,
+    "is_eligible": false
+  },
+  {
+    "name": "Centros de Estudios Tecnológicos Industrial y de Servicios 150",
+    "alt_names": [],
+    "community": null,
+    "country": "mexico",
+    "state": null,
+    "is_eligible": false
+  },
+  {
+    "name": "Centros de Estudios Tecnológicos Industrial y de Servicios 77",
+    "alt_names": [],
+    "community": null,
+    "country": "mexico",
+    "state": null,
+    "is_eligible": false
   },
   {
     "name": "CETI Colomos",
@@ -146,12 +218,60 @@
     "is_eligible": false
   },
   {
+    "name": "Colegio Nacional de Educación Profesional Técnica Cortazar",
+    "alt_names": [],
+    "community": null,
+    "country": "mexico",
+    "state": null,
+    "is_eligible": false
+  },
+  {
+    "name": "Colegio Nacional de Educación Profesional Técnica León II",
+    "alt_names": [],
+    "community": null,
+    "country": "mexico",
+    "state": null,
+    "is_eligible": false
+  },
+  {
+    "name": "Colegio Nacional de Educación Profesional Técnica Moroleon",
+    "alt_names": [],
+    "community": null,
+    "country": "mexico",
+    "state": null,
+    "is_eligible": false
+  },
+  {
+    "name": "Colegio Nacional de Educación Profesional Técnica Salamanca",
+    "alt_names": [],
+    "community": null,
+    "country": "mexico",
+    "state": null,
+    "is_eligible": false
+  },
+  {
     "name": "Colegio Voluntad de Acero",
     "alt_names": [],
     "community": null,
     "country": "mexico",
     "state": null,
     "is_eligible": true
+  },
+  {
+    "name": "Escuela de Talentos Guanajuato Azteca NMS",
+    "alt_names": [],
+    "community": null,
+    "country": "mexico",
+    "state": null,
+    "is_eligible": false
+  },
+  {
+    "name": "Escuela del Nivel Medio Superior de Salvatierra",
+    "alt_names": [],
+    "community": null,
+    "country": "mexico",
+    "state": null,
+    "is_eligible": false
   },
   {
     "name": "Escuela Preparatoria 5 Universidad de Guadalajara",
@@ -203,6 +323,14 @@
   },
   {
     "name": "Facultad de Ciencias-Universidad Nacional Autónoma de México",
+    "alt_names": [],
+    "community": null,
+    "country": "mexico",
+    "state": null,
+    "is_eligible": true
+  },
+  {
+    "name": "Facultad de Economia - Universidad Nacional Autonoma de Mexico",
     "alt_names": [],
     "community": null,
     "country": "mexico",
@@ -450,6 +578,14 @@
     "is_eligible": true
   },
   {
+    "name": "INSTITUTO TECNOLOGICO DE QUERETARO",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "country": "mexico",
+    "state": null,
+    "is_eligible": true
+  },
+  {
     "name": "Instituto Tecnologico de Sonora",
     "alt_names": [],
     "community": "Tecnologico Nacional de Mexico",
@@ -619,6 +755,14 @@
   },
   {
     "name": "Instituto Tecnologico Superior de Lerdo",
+    "alt_names": [],
+    "community": "Tecnologico Nacional de Mexico",
+    "country": "mexico",
+    "state": null,
+    "is_eligible": true
+  },
+  {
+    "name": "Instituto Tecnologico Superior de Libres",
     "alt_names": [],
     "community": "Tecnologico Nacional de Mexico",
     "country": "mexico",
@@ -1103,14 +1247,6 @@
     "is_eligible": true
   },
   {
-    "name": "Instituto Tecnológico de Querétaro",
-    "alt_names": [],
-    "community": "Tecnologico Nacional de Mexico",
-    "country": "mexico",
-    "state": null,
-    "is_eligible": true
-  },
-  {
     "name": "Instituto Tecnológico de Roque",
     "alt_names": [],
     "community": "Tecnologico Nacional de Mexico",
@@ -1298,8 +1434,10 @@
   },
   {
     "name": "Instituto Tecnológico Superior de Acatlán de Osorio",
-    "alt_names": [],
-    "community": "Tecnologico Nacional de Mexico",
+    "alt_names": [
+      "higher technological institute of acatlan de osorio"
+    ],
+    "community": null,
     "country": "mexico",
     "state": null,
     "is_eligible": true
@@ -1526,14 +1664,6 @@
   },
   {
     "name": "Instituto Tecnológico Superior de la Región Sierra",
-    "alt_names": [],
-    "community": "Tecnologico Nacional de Mexico",
-    "country": "mexico",
-    "state": null,
-    "is_eligible": true
-  },
-  {
-    "name": "Instituto Tecnológico Superior de Libres",
     "alt_names": [],
     "community": "Tecnologico Nacional de Mexico",
     "country": "mexico",
@@ -2031,12 +2161,44 @@
     "is_eligible": false
   },
   {
+    "name": "Olimpiada Mexicana de Informática en Yucatán",
+    "alt_names": [],
+    "community": null,
+    "country": "mexico",
+    "state": null,
+    "is_eligible": false
+  },
+  {
+    "name": "Olimpiada Mexicana de Informática Michoacán",
+    "alt_names": [],
+    "community": null,
+    "country": "mexico",
+    "state": null,
+    "is_eligible": false
+  },
+  {
     "name": "Politécnica de Santa Rosa Jáuregui",
     "alt_names": [],
     "community": null,
     "country": "mexico",
     "state": null,
     "is_eligible": true
+  },
+  {
+    "name": "Preparatoria del Sur de Guanajuato",
+    "alt_names": [],
+    "community": null,
+    "country": "mexico",
+    "state": null,
+    "is_eligible": false
+  },
+  {
+    "name": "Preparatoria ITESO",
+    "alt_names": [],
+    "community": null,
+    "country": "mexico",
+    "state": null,
+    "is_eligible": false
   },
   {
     "name": "TEC Milenio - Las Torres",
@@ -2153,6 +2315,16 @@
   {
     "name": "Tecnológico de Estudios Superiores de Jilotepec",
     "alt_names": [],
+    "community": null,
+    "country": "mexico",
+    "state": null,
+    "is_eligible": true
+  },
+  {
+    "name": "Tecnológico Nacional de Mexico en Celaya",
+    "alt_names": [
+      "tecnologico nacionalde mexico en celaya"
+    ],
     "community": null,
     "country": "mexico",
     "state": null,
@@ -2528,6 +2700,14 @@
   },
   {
     "name": "Universidad Autónoma Metropolitana Azcapotzalco",
+    "alt_names": [],
+    "community": null,
+    "country": "mexico",
+    "state": null,
+    "is_eligible": true
+  },
+  {
+    "name": "Universidad Autónoma Metropolitana Unidad Iztapalapa",
     "alt_names": [],
     "community": null,
     "country": "mexico",
@@ -2972,6 +3152,14 @@
     "is_eligible": true
   },
   {
+    "name": "Universidad del Valle de Mexico Campus Guadalajara Sur",
+    "alt_names": [],
+    "community": null,
+    "country": "mexico",
+    "state": null,
+    "is_eligible": true
+  },
+  {
     "name": "Universidad del Valle de Mexico Campus San Rafael",
     "alt_names": [],
     "community": null,
@@ -3109,6 +3297,14 @@
   },
   {
     "name": "Universidad Marista de Guadalajara",
+    "alt_names": [],
+    "community": null,
+    "country": "mexico",
+    "state": null,
+    "is_eligible": true
+  },
+  {
+    "name": "Universidad Marista de Mérida",
     "alt_names": [],
     "community": null,
     "country": "mexico",
@@ -3381,6 +3577,14 @@
   },
   {
     "name": "Universidad Tecnologica del Estado de Zacatecas",
+    "alt_names": [],
+    "community": null,
+    "country": "mexico",
+    "state": null,
+    "is_eligible": true
+  },
+  {
+    "name": "Universidad Tecnológica de Aguascalientes",
     "alt_names": [],
     "community": null,
     "country": "mexico",

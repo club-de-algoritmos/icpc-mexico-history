@@ -2,16 +2,16 @@
 
 ## Mejores 10 equipos
 
+1. _3 de Lechón con Cascarita_ resolvió 15 problemas y obtuvo el lugar #19 (99%) en The 2024 ICPC Gran Premio de Mexico
 1. _Gauss N’ Roses_ resolvió 4 problemas y obtuvo el lugar #12 (98%) en The 2023 ICPC Mexico Finals
 1. _Coding Horror_ resolvió 3 problemas y obtuvo el lugar #17 (98%) en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _Gauss N´ Roses_ resolvió 15 problemas y obtuvo el lugar #21 (98%) en The 2024 ICPC Gran Premio de Mexico
 1. _Gauss N' Roses_ resolvió 2 problemas y obtuvo el lugar #32 (97%) en The 2022 ICPC Mexico Finals
 1. _Gleichseitiges_ resolvió 3 problemas y obtuvo el lugar #22 (96%) en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _La Choza de los Pequeñines_ resolvió 9 problemas y obtuvo el lugar #70 (94%) en The 2024 ICPC Gran Premio de Mexico
+1. _Tortugas Ninja_ resolvió 9 problemas y obtuvo el lugar #79 (94%) en The 2024 ICPC Gran Premio de Mexico
 1. _Equilateros_ resolvió 3 problemas y obtuvo el lugar #24 (93%) en The 2015 ACM-ICPC Mexico and Central America Finals
 1. _Coding Horor v2.0_ resolvió 2 problemas y obtuvo el lugar #56 (93%) en The 2018 ICPC Mexico and Central America Finals
-1. _Coding Horror_ resolvió 2 problemas y obtuvo el lugar #42 (92%) en The 2016 ACM-ICPC Mexico and Central America Finals
-1. _Firmala Gio_ resolvió 7 problemas y obtuvo el lugar #99 (92%) en Gran Premio de Mexico 2019
-1. _Coding Horror_ resolvió 3 problemas y obtuvo el lugar #23 (91%) en The 2014 ACM-ICPC Mexico and Central America Finals
-1. _Coding Horror_ resolvió 3 problemas y obtuvo el lugar #29 (91%) en The 2015 ACM-ICPC Mexico and Central America Finals
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **17** | **50** | **58** |
+| **Total** | **0** | **0** | **17** | **71** | **79** |
 | [2001-2002](#2001-2002) | 0 | 0 | 1 | 0 | 1 |
 | [2002-2003](#2002-2003) | 0 | 0 | 2 | 0 | 2 |
 | [2004-2005](#2004-2005) | 0 | 0 | 1 | 0 | 1 |
@@ -36,6 +36,7 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 2 | 2 |
 | [2022-2023](#2022-2023) | 0 | 0 | 1 | 1 | 1 |
 | [2023-2024](#2023-2024) | 0 | 0 | 1 | 4 | 4 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 21 | 21 |
 
 ### 2001-2002
 
@@ -142,6 +143,30 @@
 1. #189 _Sasser_ (Clasificatorio)
 1. #223 _FMAT-01_ (Clasificatorio)
 1. #238 _TripleByte_ (Clasificatorio)
+
+### 2024-2025
+
+1. #19 _3 de Lechón con Cascarita_ (Clasificatorio)
+1. #21 _Gauss N´ Roses_ (Clasificatorio)
+1. #70 _La Choza de los Pequeñines_ (Clasificatorio)
+1. #79 _Tortugas Ninja_ (Clasificatorio)
+1. #157 _Backyardigans_ (Clasificatorio)
+1. #172 _Equipo bomba_ (Clasificatorio)
+1. #194 _MeanGirls_ (Clasificatorio)
+1. #197 _Aluxes con Xikil Pak_ (Clasificatorio)
+1. #199 _El xix_ (Clasificatorio)
+1. #206 _V for Vector_ (Clasificatorio)
+1. #222 _Rocket_ (Clasificatorio)
+1. #482 _3-de-Lechón-con-Cascarita_ (Clasificatorio)
+1. #482 _Cerradura de Kleene al cuadrado_ (Clasificatorio)
+1. #482 _Command Not Found_ (Clasificatorio)
+1. #482 _Fondo de Bikini_ (Clasificatorio)
+1. #482 _Gauss N' Roses_ (Clasificatorio)
+1. #482 _Newbies_ (Clasificatorio)
+1. #482 _Salbutes con frijol_ (Clasificatorio)
+1. #482 _Salbutes con frijol 2.0_ (Clasificatorio)
+1. #482 _Testigos de Java_ (Clasificatorio)
+1. #482 _V-for-Vector_ (Clasificatorio)
 
 
 

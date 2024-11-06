@@ -8,6 +8,8 @@
 1. _RGV-ISC_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _SMartinTics_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _Sparks_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Developers ISC_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
+1. _ISC Programmers_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -15,8 +17,9 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **0** | **6** | **6** |
+| **Total** | **0** | **0** | **0** | **8** | **8** |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 6 | 6 |
+| [2024-2025](#2024-2025) | 0 | 0 | 0 | 2 | 2 |
 
 ### 2022-2023
 
@@ -26,6 +29,11 @@
 1. #382 (#82 de TecNM) _RGV-ISC_ (Clasificatorio)
 1. #382 (#82 de TecNM) _SMartinTics_ (Clasificatorio)
 1. #382 (#82 de TecNM) _Sparks_ (Clasificatorio)
+
+### 2024-2025
+
+1. #482 (#114 de TecNM) _Developers ISC_ (Clasificatorio)
+1. #482 (#114 de TecNM) _ISC Programmers_ (Clasificatorio)
 
 
 

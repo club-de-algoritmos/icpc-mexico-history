@@ -272,12 +272,16 @@ def get_schools(contests: List[FinishedContest]) -> List[School]:
             schools.append(School(name=school_name, country='jamaica'))
             continue
 
-        if contains_strings(normalized_name, 'universidad centroamericana'):
+        if contains_strings(normalized_name, 'universidad centroamericana', 'universidad gerardo barrios'):
             schools.append(School(name=school_name, country='el salvador'))
             continue
 
-        if contains_strings(normalized_name, 'universidad rafael landivar'):
+        if contains_strings(normalized_name, 'guatemala', 'universidad rafael landivar', 'universidad mesoamericana'):
             schools.append(School(name=school_name, country='guatemala'))
+            continue
+
+        if contains_strings(normalized_name, 'panama', 'universidad internacional de ciencia y tecnologia'):
+            schools.append(School(name=school_name, country='panama'))
             continue
 
         if (contains_strings(normalized_name,
@@ -285,6 +289,9 @@ def get_schools(contests: List[FinishedContest]) -> List[School]:
                              'universidad de las ciencias informaticas',
                              'universidad de oriente',
                              'universidad de cienfuegos',
+                             'universidad de guantanamo',
+                             'universidad de holguin',
+                             'universidad de la isla de la juventud',
                              'camaguey')):
             schools.append(School(name=school_name, country='cuba'))
             continue

@@ -2759,7 +2759,7 @@
     "name": "Universidad de Guantánamo",
     "alt_names": [],
     "community": null,
-    "country": "mexico",
+    "country": "cuba",
     "state": null,
     "is_eligible": true
   },
@@ -2767,7 +2767,7 @@
     "name": "Universidad de Holguín",
     "alt_names": [],
     "community": null,
-    "country": "mexico",
+    "country": "cuba",
     "state": null,
     "is_eligible": true
   },
@@ -2783,7 +2783,7 @@
     "name": "Universidad de la Isla de la Juventud",
     "alt_names": [],
     "community": null,
-    "country": "mexico",
+    "country": "cuba",
     "state": null,
     "is_eligible": true
   },
@@ -2887,7 +2887,7 @@
     "name": "Universidad de Panama",
     "alt_names": [],
     "community": null,
-    "country": "mexico",
+    "country": "panama",
     "state": null,
     "is_eligible": true
   },
@@ -2903,7 +2903,7 @@
     "name": "Universidad de San Carlos de Guatemala",
     "alt_names": [],
     "community": null,
-    "country": "mexico",
+    "country": "guatemala",
     "state": null,
     "is_eligible": true
   },
@@ -3007,7 +3007,7 @@
     "name": "Universidad Gerardo Barrios",
     "alt_names": [],
     "community": null,
-    "country": "mexico",
+    "country": "el salvador",
     "state": null,
     "is_eligible": true
   },
@@ -3063,7 +3063,7 @@
     "name": "Universidad Internacional de Ciencia y Tecnología",
     "alt_names": [],
     "community": null,
-    "country": "mexico",
+    "country": "panama",
     "state": null,
     "is_eligible": true
   },
@@ -3103,7 +3103,7 @@
     "name": "Universidad Mariano Galvez de Guatemala Campus Chiquimulilla",
     "alt_names": [],
     "community": null,
-    "country": "mexico",
+    "country": "guatemala",
     "state": null,
     "is_eligible": true
   },
@@ -3119,7 +3119,7 @@
     "name": "Universidad Mesoamericana",
     "alt_names": [],
     "community": null,
-    "country": "mexico",
+    "country": "guatemala",
     "state": null,
     "is_eligible": true
   },
@@ -3375,7 +3375,7 @@
     "name": "Universidad Tecnologica de Panama",
     "alt_names": [],
     "community": null,
-    "country": "mexico",
+    "country": "panama",
     "state": null,
     "is_eligible": true
   },

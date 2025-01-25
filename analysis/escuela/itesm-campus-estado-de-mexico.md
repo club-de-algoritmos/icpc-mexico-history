@@ -21,7 +21,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **2** | **0** | **28** | **106** | **121** |
+| **Total** | **2** | **0** | **30** | **106** | **121** |
 | [1998-1999](#1998-1999) | 1 | 0 | 0 | 0 | 1 |
 | [1999-2000](#1999-2000) | 1 | 0 | 0 | 0 | 1 |
 | [2001-2002](#2001-2002) | 0 | 0 | 3 | 0 | 3 |
@@ -40,7 +40,7 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 1 | 8 | 8 |
 | [2022-2023](#2022-2023) | 0 | 0 | 1 | 14 | 14 |
 | [2023-2024](#2023-2024) | 0 | 0 | 1 | 13 | 13 |
-| [2024-2025](#2024-2025) | 0 | 0 | 0 | 19 | 19 |
+| [2024-2025](#2024-2025) | 0 | 0 | 2 | 19 | 19 |
 
 ### 1998-1999
 
@@ -203,11 +203,11 @@
 ### 2024-2025
 
 1. #43 (#7 de ITESM) _súbditos de sommerville_ (Clasificatorio)
-1. #66 (#12 de ITESM) _using brainspace;_ (Clasificatorio)
+1. #69 (#12 de ITESM) _using brainspace;_ (Regional)
+1. #88 (#16 de ITESM) _placeholder_ (Regional)
 1. #131 (#24 de ITESM) _Jokabi_ (Clasificatorio)
 1. #153 (#26 de ITESM) _koqforces_ (Clasificatorio)
 1. #156 (#27 de ITESM) _PEP8_ (Clasificatorio)
-1. #168 (#30 de ITESM) _placeholder_ (Clasificatorio)
 1. #182 (#32 de ITESM) _Colo-Colo AC de CV_ (Clasificatorio)
 1. #214 (#35 de ITESM) _ProgramadoresGPT4_ (Clasificatorio)
 1. #219 (#37 de ITESM) _Hackybaras_ (Clasificatorio)

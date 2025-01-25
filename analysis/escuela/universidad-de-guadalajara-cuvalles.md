@@ -4,7 +4,7 @@
 
 1. _La Tribu_ resolvió 6 problemas y obtuvo el lugar #82 (94%) en Gran Premio de Mexico 2019
 1. _La Tribu_ resolvió 2 problemas y obtuvo el lugar #66 (92%) en The 2018 ICPC Mexico and Central America Finals
-1. _Los Gaussianos_ resolvió 9 problemas y obtuvo el lugar #98 (92%) en The 2024 ICPC Gran Premio de Mexico
+1. _Los Gaussianos_ resolvió 1 problemas y obtuvo el lugar #99 (92%) en The 2024 ICPC Mexico Finals
 1. _Cuvalles_ resolvió 6 problemas y obtuvo el lugar #104 (90%) en The 2022 ICPC Gran Premio de Mexico
 1. _Valles.py_ resolvió 5 problemas y obtuvo el lugar #130 (88%) en The 2022 ICPC Gran Premio de Mexico
 1. _Connectia_ resolvió 4 problemas y obtuvo el lugar #156 (88%) en Gran Premio de Mexico 2019
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **10** | **29** | **38** |
+| **Total** | **0** | **0** | **11** | **29** | **38** |
 | [2007-2008](#2007-2008) | 0 | 0 | 1 | 0 | 1 |
 | [2008-2009](#2008-2009) | 0 | 0 | 4 | 0 | 4 |
 | [2009-2010](#2009-2010) | 0 | 0 | 2 | 0 | 2 |
@@ -31,7 +31,7 @@
 | [2020-2021](#2020-2021) | 0 | 0 | 0 | 1 | 1 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 3 | 3 |
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 2 | 2 |
-| [2024-2025](#2024-2025) | 0 | 0 | 0 | 4 | 4 |
+| [2024-2025](#2024-2025) | 0 | 0 | 1 | 4 | 4 |
 
 ### 2007-2008
 
@@ -102,7 +102,7 @@
 
 ### 2024-2025
 
-1. #98 _Los Gaussianos_ (Clasificatorio)
+1. #99 _Los Gaussianos_ (Regional)
 1. #184 _valles.py_ (Clasificatorio)
 1. #298 _programamistas_ (Clasificatorio)
 1. #482 _Programamistas_ (Clasificatorio)

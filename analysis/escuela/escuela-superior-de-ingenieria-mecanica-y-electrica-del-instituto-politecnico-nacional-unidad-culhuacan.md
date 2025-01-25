@@ -2,7 +2,7 @@
 
 ## Mejores 10 equipos
 
-1. _3WA Y Me Voy_ resolvió 8 problemas y obtuvo el lugar #99 (92%) en The 2024 ICPC Gran Premio de Mexico
+1. _3WA Y Me Voy_ resolvió 3 problemas y obtuvo el lugar #116 (91%) en The 2024 ICPC Mexico Finals
 1. _outsiders_ resolvió 2 problemas y obtuvo el lugar #358 (71%) en The 2024 ICPC Gran Premio de Mexico
 1. _ESIMEQUESESIENTE_ resolvió 2 problemas y obtuvo el lugar #396 (68%) en The 2024 ICPC Gran Premio de Mexico
 1. _ESIMECU-Anthrax_ resolvió 4 problemas y obtuvo el lugar #150 (67%) en The 2023 ICPC Gran Premio de Mexico
@@ -15,9 +15,9 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **0** | **6** | **6** |
+| **Total** | **0** | **0** | **1** | **6** | **6** |
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 3 | 3 |
-| [2024-2025](#2024-2025) | 0 | 0 | 0 | 3 | 3 |
+| [2024-2025](#2024-2025) | 0 | 0 | 1 | 3 | 3 |
 
 ### 2023-2024
 
@@ -27,7 +27,7 @@
 
 ### 2024-2025
 
-1. #99 _3WA Y Me Voy_ (Clasificatorio)
+1. #116 _3WA Y Me Voy_ (Regional)
 1. #358 _outsiders_ (Clasificatorio)
 1. #396 _ESIMEQUESESIENTE_ (Clasificatorio)
 

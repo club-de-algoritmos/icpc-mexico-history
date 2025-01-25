@@ -2,7 +2,7 @@
 
 ## Mejores 10 equipos
 
-1. _Nameless.cpp_ resolvió 7 problemas y obtuvo el lugar #133 (89%) en The 2024 ICPC Gran Premio de Mexico
+1. _Nameless.cpp_ resolvió 1 problemas y obtuvo el lugar #96 (92%) en The 2024 ICPC Mexico Finals
 1. _Peaky Blinders_ resolvió 6 problemas y obtuvo el lugar #158 (87%) en The 2024 ICPC Gran Premio de Mexico
 1. _3 Bits_ resolvió 3 problemas y obtuvo el lugar #310 (75%) en The 2024 ICPC Gran Premio de Mexico
 1. _Nameless.jar_ resolvió 5 problemas y obtuvo el lugar #118 (74%) en The 2023 ICPC Gran Premio de Mexico
@@ -19,13 +19,13 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **0** | **33** | **33** |
+| **Total** | **0** | **0** | **1** | **33** | **33** |
 | [2019-2020](#2019-2020) | 0 | 0 | 0 | 2 | 2 |
 | [2020-2021](#2020-2021) | 0 | 0 | 0 | 7 | 7 |
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 1 | 1 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 5 | 5 |
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 5 | 5 |
-| [2024-2025](#2024-2025) | 0 | 0 | 0 | 13 | 13 |
+| [2024-2025](#2024-2025) | 0 | 0 | 1 | 13 | 13 |
 
 ### 2019-2020
 
@@ -64,7 +64,7 @@
 
 ### 2024-2025
 
-1. #133 (#21 de TecNM) _Nameless.cpp_ (Clasificatorio)
+1. #96 (#15 de TecNM) _Nameless.cpp_ (Regional)
 1. #158 (#30 de TecNM) _Peaky Blinders_ (Clasificatorio)
 1. #310 (#62 de TecNM) _3 Bits_ (Clasificatorio)
 1. #331 (#69 de TecNM) _XiaomiLovers_ (Clasificatorio)

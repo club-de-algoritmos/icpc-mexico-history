@@ -11,11 +11,11 @@
 1. _Los novatos reloaded_ resolvió 4 problemas y obtuvo el lugar #1 (100%) en The 2003 ACM Mexico and Central America Programming Contest
     - Avanzó a la final mundial y resolvió 0 problemas y obtuvo el lugar #68 (7%) en The 2004 ACM Programming Contest World Finals
 1. _NO-NAME_ resolvió 4 problemas y obtuvo el lugar #3 (98%) en The 2004 ACM Mexico and Central America Programming Contest
+1. _TamalesDeMole_ resolvió 3 problemas y obtuvo el lugar #63 (95%) en The 2024 ICPC Mexico Finals
 1. _UDLAP4-NoName_ resolvió 2 problemas y obtuvo el lugar #12 (88%) en The 2002 ACM Mexico and Central America Programming Contest
 1. _UDLAP2-IO-PROMPT_ resolvió 2 problemas y obtuvo el lugar #21 (86%) en The 2005 ACM Mexico and Central America Programming Contest
 1. _Beta Version_ resolvió 3 problemas y obtuvo el lugar #26 (80%) en The 2006 ACM Mexico and Central America Programming Contest
 1. _UDLAP5-EOF_ resolvió 2 problemas y obtuvo el lugar #29 (80%) en The 2005 ACM Mexico and Central America Programming Contest
-1. _UDLAP2-Sith_ resolvió 1 problemas y obtuvo el lugar #20 (79%) en The 2002 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 
@@ -23,7 +23,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **4** | **0** | **23** | **1** | **26** |
+| **Total** | **4** | **0** | **24** | **1** | **26** |
 | [1998-1999](#1998-1999) | 1 | 0 | 0 | 0 | 1 |
 | [1999-2000](#1999-2000) | 1 | 0 | 0 | 0 | 1 |
 | [2001-2002](#2001-2002) | 0 | 0 | 3 | 0 | 3 |
@@ -32,7 +32,7 @@
 | [2004-2005](#2004-2005) | 0 | 0 | 4 | 0 | 4 |
 | [2005-2006](#2005-2006) | 0 | 0 | 7 | 0 | 7 |
 | [2006-2007](#2006-2007) | 0 | 0 | 1 | 0 | 1 |
-| [2024-2025](#2024-2025) | 0 | 0 | 0 | 1 | 1 |
+| [2024-2025](#2024-2025) | 0 | 0 | 1 | 1 | 1 |
 
 ### 1998-1999
 
@@ -89,7 +89,7 @@
 
 ### 2024-2025
 
-1. #364 _TamalesDeMole_ (Clasificatorio)
+1. #63 _TamalesDeMole_ (Regional)
 
 
 

@@ -3,6 +3,7 @@
 ## Mejores 10 equipos
 
 1. _PañaleraSquad_ resolvió 3 problemas y obtuvo el lugar #38 (95%) en The 2020 ICPC Mexico Finals
+1. _zorros.asm_ resolvió 1 problemas y obtuvo el lugar #102 (92%) en The 2024 ICPC Mexico Finals
 1. _Haka ITQ_ resolvió 3 problemas y obtuvo el lugar #20 (88%) en The 2009 Mexico & Central America Contest
 1. _Haka - ITQ_ resolvió 3 problemas y obtuvo el lugar #38 (81%) en The 2010 Mexico & Central America Regional Contest
 1. _Haka_ resolvió 2 problemas y obtuvo el lugar #42 (76%) en The 2008 Mexico & Central America Contest
@@ -11,7 +12,6 @@
 1. _NWA_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
 1. _puntoycoma_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
 1. _Black Fox Army_ resolvió 1 problemas y obtuvo el lugar #38 (75%) en The 2007 ACM Mexico and Central America Programming Contest
-1. _R00T_ resolvió 4 problemas y obtuvo el lugar #201 (71%) en Gran Premio de Mexico 2018
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **25** | **18** | **42** |
+| **Total** | **0** | **0** | **26** | **18** | **42** |
 | [2001-2002](#2001-2002) | 0 | 0 | 3 | 0 | 3 |
 | [2003-2004](#2003-2004) | 0 | 0 | 1 | 0 | 1 |
 | [2004-2005](#2004-2005) | 0 | 0 | 4 | 0 | 4 |
@@ -35,7 +35,7 @@
 | [2019-2020](#2019-2020) | 0 | 0 | 0 | 6 | 6 |
 | [2020-2021](#2020-2021) | 0 | 0 | 1 | 1 | 1 |
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 2 | 2 |
-| [2024-2025](#2024-2025) | 0 | 0 | 0 | 4 | 4 |
+| [2024-2025](#2024-2025) | 0 | 0 | 1 | 4 | 4 |
 
 ### 2001-2002
 
@@ -122,10 +122,10 @@
 
 ### 2024-2025
 
+1. #102 (#19 de TecNM) _zorros.asm_ (Regional)
 1. #482 (#114 de TecNM) _CD_ (Clasificatorio)
 1. #482 (#114 de TecNM) _Team IA MUNDY_ (Clasificatorio)
 1. #482 (#114 de TecNM) _cachirules_ (Clasificatorio)
-1. #482 (#114 de TecNM) _zorros.asm_ (Clasificatorio)
 
 
 

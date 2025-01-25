@@ -2,11 +2,11 @@
 
 ## Mejores 10 equipos
 
+1. _Familia Gallegos 3: La Venganza_ resolvió 4 problemas y obtuvo el lugar #41 (97%) en The 2024 ICPC Mexico Finals
 1. _Equipo alfa buena maravilla onda dinamita escuadrón lobo_ resolvió 1 problemas y obtuvo el lugar #45 (96%) en The 2022 ICPC Mexico Finals
 1. _Raptors_ resolvió 1 problemas y obtuvo el lugar #46 (96%) en The 2022 ICPC Mexico Finals
-1. _Familia Gallegos 3: La Venganza_ resolvió 10 problemas y obtuvo el lugar #58 (95%) en The 2024 ICPC Gran Premio de Mexico
+1. _Racoode_ resolvió 3 problemas y obtuvo el lugar #50 (96%) en The 2024 ICPC Mexico Finals
 1. _Troyanos_ resolvió 3 problemas y obtuvo el lugar #10 (92%) en The 2004 ACM Mexico and Central America Programming Contest
-1. _Racoode_ resolvió 9 problemas y obtuvo el lugar #96 (92%) en The 2024 ICPC Gran Premio de Mexico
 1. _Nth time's the charm_ resolvió 8 problemas y obtuvo el lugar #104 (92%) en The 2024 ICPC Gran Premio de Mexico
 1. _The Chosen O(n)es_ resolvió 1 problemas y obtuvo el lugar #46 (90%) en The 2023 ICPC Mexico Finals
 1. _Serendipia_ resolvió 6 problemas y obtuvo el lugar #113 (89%) en The 2022 ICPC Gran Premio de Mexico
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **13** | **60** | **70** |
+| **Total** | **0** | **0** | **15** | **60** | **70** |
 | [2002-2003](#2002-2003) | 0 | 0 | 2 | 0 | 2 |
 | [2003-2004](#2003-2004) | 0 | 0 | 2 | 0 | 2 |
 | [2004-2005](#2004-2005) | 0 | 0 | 1 | 0 | 1 |
@@ -33,7 +33,7 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 12 | 12 |
 | [2022-2023](#2022-2023) | 0 | 0 | 2 | 9 | 9 |
 | [2023-2024](#2023-2024) | 0 | 0 | 1 | 7 | 7 |
-| [2024-2025](#2024-2025) | 0 | 0 | 0 | 10 | 10 |
+| [2024-2025](#2024-2025) | 0 | 0 | 2 | 10 | 10 |
 
 ### 2002-2003
 
@@ -136,8 +136,8 @@
 
 ### 2024-2025
 
-1. #58 _Familia Gallegos 3: La Venganza_ (Clasificatorio)
-1. #96 _Racoode_ (Clasificatorio)
+1. #41 _Familia Gallegos 3: La Venganza_ (Regional)
+1. #50 _Racoode_ (Regional)
 1. #104 _Nth time's the charm_ (Clasificatorio)
 1. #142 _Mavericks_ (Clasificatorio)
 1. #150 _Brute-forcers_ (Clasificatorio)

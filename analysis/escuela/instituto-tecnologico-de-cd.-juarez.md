@@ -2,7 +2,7 @@
 
 ## Mejores 10 equipos
 
-1. _Ella programa sola_ resolvió 6 problemas y obtuvo el lugar #152 (88%) en The 2024 ICPC Gran Premio de Mexico
+1. _Ella programa sola_ resolvió 3 problemas y obtuvo el lugar #71 (94%) en The 2024 ICPC Mexico Finals
 1. _TecnoTeam_ resolvió 4 problemas y obtuvo el lugar #178 (83%) en The 2022 ICPC Gran Premio de Mexico
 1. _Structured Papeadas Language_ resolvió 4 problemas y obtuvo el lugar #290 (76%) en The 2024 ICPC Gran Premio de Mexico
 1. _Los triggers del norte_ resolvió 2 problemas y obtuvo el lugar #337 (72%) en The 2024 ICPC Gran Premio de Mexico
@@ -19,13 +19,13 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **0** | **23** | **23** |
+| **Total** | **0** | **0** | **1** | **23** | **23** |
 | [2019-2020](#2019-2020) | 0 | 0 | 0 | 9 | 9 |
 | [2020-2021](#2020-2021) | 0 | 0 | 0 | 1 | 1 |
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 1 | 1 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 8 | 8 |
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 1 | 1 |
-| [2024-2025](#2024-2025) | 0 | 0 | 0 | 3 | 3 |
+| [2024-2025](#2024-2025) | 0 | 0 | 1 | 3 | 3 |
 
 ### 2019-2020
 
@@ -64,7 +64,7 @@
 
 ### 2024-2025
 
-1. #152 (#28 de TecNM) _Ella programa sola_ (Clasificatorio)
+1. #71 (#10 de TecNM) _Ella programa sola_ (Regional)
 1. #290 (#57 de TecNM) _Structured Papeadas Language_ (Clasificatorio)
 1. #337 (#70 de TecNM) _Los triggers del norte_ (Clasificatorio)
 

@@ -11,7 +11,7 @@
 1. _Code Dream_ resolvió 4 problemas y obtuvo el lugar #9 (95%) en The 2008 Mexico & Central America Contest
 1. _Hijos de Piza 5_ resolvió 1 problemas y obtuvo el lugar #49 (95%) en The 2022 ICPC Mexico Finals
 1. _Red Squadron_ resolvió 1 problemas y obtuvo el lugar #50 (95%) en The 2022 ICPC Mexico Finals
-1. _ACRUX_ resolvió 3 problemas y obtuvo el lugar #7 (94%) en The 2003 ACM Mexico and Central America Programming Contest
+1. _Gaticones_ resolvió 3 problemas y obtuvo el lugar #56 (95%) en The 2024 ICPC Mexico Finals
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **1** | **60** | **782** | **832** |
+| **Total** | **0** | **1** | **62** | **782** | **832** |
 | [2002-2003](#2002-2003) | 0 | 0 | 5 | 0 | 5 |
 | [2003-2004](#2003-2004) | 0 | 0 | 3 | 0 | 3 |
 | [2004-2005](#2004-2005) | 0 | 0 | 3 | 0 | 3 |
@@ -39,7 +39,7 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 6 | 6 |
 | [2022-2023](#2022-2023) | 0 | 0 | 3 | 9 | 11 |
 | [2023-2024](#2023-2024) | 0 | 1 | 0 | 5 | 5 |
-| [2024-2025](#2024-2025) | 0 | 0 | 0 | 93 | 93 |
+| [2024-2025](#2024-2025) | 0 | 0 | 2 | 93 | 93 |
 
 ### 2002-2003
 
@@ -839,8 +839,8 @@
 
 ### 2024-2025
 
-1. #122 _Gaticones_ (Clasificatorio)
-1. #140 _Gatubelxs_ (Clasificatorio)
+1. #56 _Gaticones_ (Regional)
+1. #87 _Gatubelxs_ (Regional)
 1. #209 _ICPTIESOS_ (Clasificatorio)
 1. #220 _Asterisk*_ (Clasificatorio)
 1. #225 _Beach boys & girl_ (Clasificatorio)

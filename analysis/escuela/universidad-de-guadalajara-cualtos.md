@@ -10,8 +10,8 @@
 1. _Sí no gano,me corren - CUALTOS_ resolvió 2 problemas y obtuvo el lugar #57 (93%) en The 2018 ICPC Mexico and Central America Finals
 1. _Macboy´s_ resolvió 6 problemas y obtuvo el lugar #84 (93%) en Gran Premio de Mexico 2019
 1. _Chapulines 2.0 - CUALTOS_ resolvió 2 problemas y obtuvo el lugar #67 (92%) en The 2018 ICPC Mexico and Central America Finals
+1. _Merequetenge_ resolvió 1 problemas y obtuvo el lugar #105 (91%) en The 2024 ICPC Mexico Finals
 1. _Si no gano, me corren_ resolvió 11 problemas y obtuvo el lugar #73 (90%) en Gran Premio de Mexico 2020
-1. _Zero_ resolvió 8 problemas y obtuvo el lugar #84 (88%) en Gran Premio de Mexico 2020
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **3** | **36** | **36** |
+| **Total** | **0** | **0** | **4** | **36** | **36** |
 | [2014-2015](#2014-2015) | 0 | 0 | 0 | 4 | 4 |
 | [2017-2018](#2017-2018) | 0 | 0 | 0 | 2 | 2 |
 | [2018-2019](#2018-2019) | 0 | 0 | 2 | 5 | 5 |
@@ -27,7 +27,7 @@
 | [2020-2021](#2020-2021) | 0 | 0 | 0 | 8 | 8 |
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 4 | 4 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 1 | 1 |
-| [2024-2025](#2024-2025) | 0 | 0 | 0 | 3 | 3 |
+| [2024-2025](#2024-2025) | 0 | 0 | 1 | 3 | 3 |
 
 ### 2014-2015
 
@@ -85,7 +85,7 @@
 
 ### 2024-2025
 
-1. #262 _Merequetenge_ (Clasificatorio)
+1. #105 _Merequetenge_ (Regional)
 1. #482 _Cocolisos_ (Clasificatorio)
 1. #482 _NVidiosos_ (Clasificatorio)
 

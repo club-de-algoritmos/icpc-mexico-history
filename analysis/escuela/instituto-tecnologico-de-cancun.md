@@ -2,8 +2,8 @@
 
 ## Mejores 10 equipos
 
-1. _Tucanes1_ resolvió 10 problemas y obtuvo el lugar #56 (95%) en The 2024 ICPC Gran Premio de Mexico
-1. _TucanesCancun_ resolvió 9 problemas y obtuvo el lugar #89 (93%) en The 2024 ICPC Gran Premio de Mexico
+1. _Tucanes1_ resolvió 3 problemas y obtuvo el lugar #72 (94%) en The 2024 ICPC Mexico Finals
+1. _TucanesCancun_ resolvió 1 problemas y obtuvo el lugar #108 (91%) en The 2024 ICPC Mexico Finals
 1. _Tucanes2_ resolvió 7 problemas y obtuvo el lugar #147 (88%) en The 2024 ICPC Gran Premio de Mexico
 1. _Tucampeón_ resolvió 4 problemas y obtuvo el lugar #231 (81%) en The 2024 ICPC Gran Premio de Mexico
 1. _Tucancitos_ resolvió 4 problemas y obtuvo el lugar #236 (81%) en The 2024 ICPC Gran Premio de Mexico
@@ -19,12 +19,12 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **0** | **27** | **27** |
+| **Total** | **0** | **0** | **2** | **27** | **27** |
 | [2020-2021](#2020-2021) | 0 | 0 | 0 | 1 | 1 |
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 1 | 1 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 7 | 7 |
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 2 | 2 |
-| [2024-2025](#2024-2025) | 0 | 0 | 0 | 16 | 16 |
+| [2024-2025](#2024-2025) | 0 | 0 | 2 | 16 | 16 |
 
 ### 2020-2021
 
@@ -51,8 +51,8 @@
 
 ### 2024-2025
 
-1. #56 (#9 de TecNM) _Tucanes1_ (Clasificatorio)
-1. #89 (#12 de TecNM) _TucanesCancun_ (Clasificatorio)
+1. #72 (#11 de TecNM) _Tucanes1_ (Regional)
+1. #108 (#20 de TecNM) _TucanesCancun_ (Regional)
 1. #147 (#27 de TecNM) _Tucanes2_ (Clasificatorio)
 1. #231 (#46 de TecNM) _Tucampeón_ (Clasificatorio)
 1. #236 (#48 de TecNM) _Tucancitos_ (Clasificatorio)

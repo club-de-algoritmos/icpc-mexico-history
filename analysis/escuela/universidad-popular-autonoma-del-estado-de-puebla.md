@@ -2,16 +2,16 @@
 
 ## Mejores 10 equipos
 
-1. _CPU_ resolvió 11 problemas y obtuvo el lugar #46 (96%) en The 2024 ICPC Gran Premio de Mexico
-1. _<Bits/team.h>_ resolvió 10 problemas y obtuvo el lugar #57 (95%) en The 2024 ICPC Gran Premio de Mexico
+1. _<Bits/team.h>_ resolvió 4 problemas y obtuvo el lugar #38 (97%) en The 2024 ICPC Mexico Finals
+1. _CPU_ resolvió 3 problemas y obtuvo el lugar #54 (96%) en The 2024 ICPC Mexico Finals
 1. _Array of clowns_ resolvió 10 problemas y obtuvo el lugar #73 (94%) en Gran Premio de Mexico 2019
 1. _CPU;_ resolvió 7 problemas y obtuvo el lugar #81 (92%) en The 2022 ICPC Gran Premio de Mexico
+1. _McTrio_ resolvió 1 problemas y obtuvo el lugar #107 (91%) en The 2024 ICPC Mexico Finals
 1. _CPU_ resolvió 2 problemas y obtuvo el lugar #44 (90%) en The 2023 ICPC Mexico Finals
 1. _Hakunas_ resolvió 2 problemas y obtuvo el lugar #51 (90%) en The 2016 ACM-ICPC Mexico and Central America Finals
 1. _3 de asada_ resolvió 5 problemas y obtuvo el lugar #115 (89%) en The 2022 ICPC Gran Premio de Mexico
 1. _<bits/team.h>_ resolvió 5 problemas y obtuvo el lugar #118 (89%) en The 2022 ICPC Gran Premio de Mexico
 1. _Array of clowns_ resolvió 7 problemas y obtuvo el lugar #86 (87%) en Gran Premio de Mexico & Centroamerica 2017
-1. _MichiTech_ resolvió 6 problemas y obtuvo el lugar #171 (86%) en The 2024 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **8** | **45** | **50** |
+| **Total** | **0** | **0** | **11** | **45** | **50** |
 | [2006-2007](#2006-2007) | 0 | 0 | 1 | 0 | 1 |
 | [2007-2008](#2007-2008) | 0 | 0 | 2 | 0 | 2 |
 | [2008-2009](#2008-2009) | 0 | 0 | 2 | 0 | 2 |
@@ -32,7 +32,7 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 2 | 2 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 5 | 5 |
 | [2023-2024](#2023-2024) | 0 | 0 | 1 | 7 | 7 |
-| [2024-2025](#2024-2025) | 0 | 0 | 0 | 10 | 10 |
+| [2024-2025](#2024-2025) | 0 | 0 | 3 | 10 | 10 |
 
 ### 2006-2007
 
@@ -112,12 +112,12 @@
 
 ### 2024-2025
 
-1. #46 _CPU_ (Clasificatorio)
-1. #57 _<Bits/team.h>_ (Clasificatorio)
+1. #38 _<Bits/team.h>_ (Regional)
+1. #54 _CPU_ (Regional)
+1. #107 _McTrio_ (Regional)
 1. #171 _MichiTech_ (Clasificatorio)
 1. #173 _Trucha Salvaje_ (Clasificatorio)
 1. #192 _alt+35 1_ (Clasificatorio)
-1. #193 _McTrio_ (Clasificatorio)
 1. #203 _Scripting.js_ (Clasificatorio)
 1. #235 _Trifuerza_ (Clasificatorio)
 1. #260 _Transformers_ (Clasificatorio)

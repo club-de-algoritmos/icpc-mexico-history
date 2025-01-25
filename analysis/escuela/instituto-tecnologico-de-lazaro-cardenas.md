@@ -4,6 +4,7 @@
 
 1. _Base16_ resolvió 3 problemas y obtuvo el lugar #51 (94%) en The 2018 ICPC Mexico and Central America Finals
 1. _Guerreros del Sol_ resolvió 7 problemas y obtuvo el lugar #89 (92%) en The 2022 ICPC Gran Premio de Mexico
+1. _Bug Busters_ resolvió 1 problemas y obtuvo el lugar #111 (91%) en The 2024 ICPC Mexico Finals
 1. _Base16_ resolvió 5 problemas y obtuvo el lugar #130 (90%) en Gran Premio de Mexico 2019
 1. _base16_ resolvió 10 problemas y obtuvo el lugar #79 (89%) en Gran Premio de Mexico 2020
 1. _Innombrables_ resolvió 4 problemas y obtuvo el lugar #184 (86%) en Gran Premio de Mexico 2019
@@ -11,7 +12,6 @@
 1. _Base16_ resolvió 4 problemas y obtuvo el lugar #131 (80%) en Gran Premio de Mexico & Centroamerica 2017
 1. _charmander;_ resolvió 2 problemas y obtuvo el lugar #281 (78%) en Gran Premio de Mexico 2019
 1. _char mander_ resolvió 6 problemas y obtuvo el lugar #160 (77%) en Gran Premio de Mexico 2020
-1. _Dinamita_ resolvió 2 problemas y obtuvo el lugar #294 (77%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **9** | **64** | **72** |
+| **Total** | **0** | **0** | **10** | **64** | **72** |
 | [2011-2012](#2011-2012) | 0 | 0 | 2 | 0 | 2 |
 | [2012-2013](#2012-2013) | 0 | 0 | 3 | 0 | 3 |
 | [2013-2014](#2013-2014) | 0 | 0 | 3 | 0 | 3 |
@@ -30,7 +30,7 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 6 | 6 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 16 | 16 |
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 1 | 1 |
-| [2024-2025](#2024-2025) | 0 | 0 | 0 | 3 | 3 |
+| [2024-2025](#2024-2025) | 0 | 0 | 1 | 3 | 3 |
 
 ### 2011-2012
 
@@ -133,7 +133,7 @@
 
 ### 2024-2025
 
-1. #477 (#111 de TecNM) _Bug Busters_ (Clasificatorio)
+1. #111 (#21 de TecNM) _Bug Busters_ (Regional)
 1. #482 (#114 de TecNM) _Beepro_ (Clasificatorio)
 1. #482 (#114 de TecNM) _ChavaScript_ (Clasificatorio)
 

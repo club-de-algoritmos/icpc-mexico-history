@@ -2,15 +2,15 @@
 
 ## Mejores 10 equipos
 
-1. _Chamba Seekers_ resolvió 16 problemas y obtuvo el lugar #12 (99%) en The 2024 ICPC Gran Premio de Mexico
+1. _Chamba Seekers_ resolvió 4 problemas y obtuvo el lugar #11 (99%) en The 2024 ICPC Mexico Finals
+1. _Papás de Chamba Seekers_ resolvió 4 problemas y obtuvo el lugar #19 (99%) en The 2024 ICPC Mexico Finals
 1. _Solanitos_ resolvió 4 problemas y obtuvo el lugar #11 (98%) en The 2023 ICPC Mexico Finals
-1. _Papás de Chamba Seekers_ resolvió 15 problemas y obtuvo el lugar #25 (98%) en The 2024 ICPC Gran Premio de Mexico
 1. _Los Chicos Superpoderosos_ resolvió 2 problemas y obtuvo el lugar #33 (97%) en The 2022 ICPC Mexico Finals
 1. _NoC++_ resolvió 1 problemas y obtuvo el lugar #42 (96%) en The 2022 ICPC Mexico Finals
 1. _StuckInC_ resolvió 11 problemas y obtuvo el lugar #51 (96%) en The 2024 ICPC Gran Premio de Mexico
 1. _Quesabirria Flamin'Hot_ resolvió 4 problemas y obtuvo el lugar #22 (95%) en The 2023 ICPC Mexico Finals
+1. _DaleBoca_ resolvió 3 problemas y obtuvo el lugar #61 (95%) en The 2024 ICPC Mexico Finals
 1. _Tistabros_ resolvió 9 problemas y obtuvo el lugar #67 (95%) en The 2024 ICPC Gran Premio de Mexico
-1. _DaleBoca_ resolvió 9 problemas y obtuvo el lugar #72 (94%) en The 2024 ICPC Gran Premio de Mexico
 1. _Miopes Derivados_ resolvió 9 problemas y obtuvo el lugar #84 (93%) en The 2024 ICPC Gran Premio de Mexico
 
 ## Participaciones
@@ -19,12 +19,12 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **4** | **34** | **34** |
+| **Total** | **0** | **0** | **7** | **34** | **34** |
 | [2020-2021](#2020-2021) | 0 | 0 | 0 | 1 | 1 |
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 1 | 1 |
 | [2022-2023](#2022-2023) | 0 | 0 | 2 | 10 | 10 |
 | [2023-2024](#2023-2024) | 0 | 0 | 2 | 9 | 9 |
-| [2024-2025](#2024-2025) | 0 | 0 | 0 | 13 | 13 |
+| [2024-2025](#2024-2025) | 0 | 0 | 3 | 13 | 13 |
 
 ### 2020-2021
 
@@ -61,11 +61,11 @@
 
 ### 2024-2025
 
-1. #12 _Chamba Seekers_ (Clasificatorio)
-1. #25 _Papás de Chamba Seekers_ (Clasificatorio)
+1. #11 _Chamba Seekers_ (Regional)
+1. #19 _Papás de Chamba Seekers_ (Regional)
 1. #51 _StuckInC_ (Clasificatorio)
+1. #61 _DaleBoca_ (Regional)
 1. #67 _Tistabros_ (Clasificatorio)
-1. #72 _DaleBoca_ (Clasificatorio)
 1. #84 _Miopes Derivados_ (Clasificatorio)
 1. #114 _MilTaCoZ.py_ (Clasificatorio)
 1. #176 _The PlatyPOOs_ (Clasificatorio)

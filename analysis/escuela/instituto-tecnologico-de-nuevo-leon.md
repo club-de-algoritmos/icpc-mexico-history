@@ -4,6 +4,7 @@
 
 1. _A verdad me engañe_ resolvió 3 problemas y obtuvo el lugar #39 (95%) en The 2020 ICPC Mexico Finals
 1. _OxBests_ resolvió 1 problemas y obtuvo el lugar #55 (95%) en The 2022 ICPC Mexico Finals
+1. _Nahuales_ resolvió 0 problemas y obtuvo el lugar #113 (91%) en The 2024 ICPC Mexico Finals
 1. _0xBests_ resolvió 0 problemas y obtuvo el lugar #50 (90%) en The 2021 ICPC Mexico Finals
 1. _A verdad me engañe_ resolvió 5 problemas y obtuvo el lugar #129 (90%) en Gran Premio de Mexico 2019
 1. _DeltaHBC_ resolvió 6 problemas y obtuvo el lugar #164 (87%) en The 2024 ICPC Gran Premio de Mexico
@@ -11,7 +12,6 @@
 1. _Los cadetes de Konoha_ resolvió 3 problemas y obtuvo el lugar #224 (79%) en The 2022 ICPC Gran Premio de Mexico
 1. _silumgar_ resolvió 4 problemas y obtuvo el lugar #145 (78%) en Gran Premio de Mexico & Centroamerica 2017
 1. _Chip’n Dale +1_ resolvió 3 problemas y obtuvo el lugar #231 (78%) en The 2022 ICPC Gran Premio de Mexico
-1. _Los Mavericks_ resolvió 3 problemas y obtuvo el lugar #234 (78%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **37** | **71** | **104** |
+| **Total** | **0** | **0** | **38** | **71** | **104** |
 | [2001-2002](#2001-2002) | 0 | 0 | 2 | 0 | 2 |
 | [2002-2003](#2002-2003) | 0 | 0 | 2 | 0 | 2 |
 | [2004-2005](#2004-2005) | 0 | 0 | 1 | 0 | 1 |
@@ -41,7 +41,7 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 1 | 5 | 5 |
 | [2022-2023](#2022-2023) | 0 | 0 | 1 | 13 | 13 |
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 7 | 7 |
-| [2024-2025](#2024-2025) | 0 | 0 | 0 | 8 | 8 |
+| [2024-2025](#2024-2025) | 0 | 0 | 1 | 8 | 8 |
 
 ### 2001-2002
 
@@ -204,8 +204,8 @@
 
 ### 2024-2025
 
+1. #113 (#22 de TecNM) _Nahuales_ (Regional)
 1. #164 (#31 de TecNM) _DeltaHBC_ (Clasificatorio)
-1. #267 (#54 de TecNM) _Nahuales_ (Clasificatorio)
 1. #407 (#88 de TecNM) _Cyberpicañas_ (Clasificatorio)
 1. #441 (#95 de TecNM) _Coders in Progress_ (Clasificatorio)
 1. #482 (#114 de TecNM) _GXRunners_ (Clasificatorio)

@@ -8,10 +8,10 @@
 1. _fe++_ resolvió 6 problemas y obtuvo el lugar #44 (96%) en The 2022 ICPC Gran Premio de Mexico
 1. _Eternity_ resolvió 2 problemas y obtuvo el lugar #38 (95%) en The 2017 ACM-ICPC Mexico and Central America Finals
 1. _<CodeBreakers/>_ resolvió 2 problemas y obtuvo el lugar #43 (94%) en The 2020 ICPC Mexico Finals
+1. _ItverPower_ resolvió 2 problemas y obtuvo el lugar #80 (94%) en The 2024 ICPC Mexico Finals
 1. _Programmers Crew_ resolvió 12 problemas y obtuvo el lugar #48 (91%) en Gran Premio de Mexico & Centroamerica
 1. _FastFingers lml_ resolvió 3 problemas y obtuvo el lugar #34 (90%) en The 2015 ACM-ICPC Mexico and Central America Finals
 1. _HeavyMachineGun_ resolvió 2 problemas y obtuvo el lugar #52 (90%) en The 2016 ACM-ICPC Mexico and Central America Finals
-1. _ProgrammersCrew_ resolvió 10 problemas y obtuvo el lugar #62 (90%) en Gran Premio de Mexico & Centroamerica 2017
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **15** | **59** | **64** |
+| **Total** | **0** | **0** | **16** | **59** | **64** |
 | [2006-2007](#2006-2007) | 0 | 0 | 1 | 0 | 1 |
 | [2012-2013](#2012-2013) | 0 | 0 | 2 | 0 | 2 |
 | [2013-2014](#2013-2014) | 0 | 0 | 2 | 0 | 2 |
@@ -33,7 +33,7 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 4 | 4 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 7 | 7 |
 | [2023-2024](#2023-2024) | 0 | 0 | 1 | 5 | 5 |
-| [2024-2025](#2024-2025) | 0 | 0 | 0 | 2 | 2 |
+| [2024-2025](#2024-2025) | 0 | 0 | 1 | 2 | 2 |
 
 ### 2006-2007
 
@@ -138,7 +138,7 @@
 
 ### 2024-2025
 
-1. #121 (#16 de TecNM) _ItverPower_ (Clasificatorio)
+1. #80 (#13 de TecNM) _ItverPower_ (Regional)
 1. #482 (#114 de TecNM) _Jar8s_ (Clasificatorio)
 
 

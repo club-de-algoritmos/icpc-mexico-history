@@ -8,12 +8,12 @@
     - Avanzó a la final mundial y resolvió 2 problemas y obtuvo el lugar #76 (26%) en 34th Annual World Finals of the ACM International Collegiate Programming Contest
 1. _lEFTaSaNeXERCISE_ resolvió 5 problemas y obtuvo el lugar #11 (99%) en The 2019 ICPC Mexico Finals
 1. _c+vga_ resolvió 5 problemas y obtuvo el lugar #13 (99%) en The 2018 ICPC Mexico and Central America Finals
+1. _The Strings_ resolvió 4 problemas y obtuvo el lugar #16 (99%) en The 2024 ICPC Mexico Finals
 1. _Deadly Coding Squad =)_ resolvió 4 problemas y obtuvo el lugar #4 (98%) en The 2008 Mexico & Central America Contest
 1. _MachineGun_ resolvió 4 problemas y obtuvo el lugar #5 (98%) en The 2008 Mexico & Central America Contest
 1. _pragma_ resolvió 23 problemas y obtuvo el lugar #7 (98%) en Gran Premio de Mexico & Centroamerica 2017
 1. _wlog_ resolvió 4 problemas y obtuvo el lugar #12 (98%) en The 2016 ACM-ICPC Mexico and Central America Finals
 1. _pragma++_ resolvió 5 problemas y obtuvo el lugar #16 (98%) en The 2018 ICPC Mexico and Central America Finals
-1. _The Strings_ resolvió 15 problemas y obtuvo el lugar #20 (98%) en The 2024 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -21,7 +21,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **2** | **0** | **68** | **40** | **100** |
+| **Total** | **2** | **0** | **70** | **40** | **100** |
 | [2001-2002](#2001-2002) | 0 | 0 | 4 | 0 | 4 |
 | [2002-2003](#2002-2003) | 0 | 0 | 1 | 0 | 1 |
 | [2004-2005](#2004-2005) | 0 | 0 | 2 | 0 | 2 |
@@ -40,7 +40,7 @@
 | [2018-2019](#2018-2019) | 0 | 0 | 2 | 12 | 12 |
 | [2019-2020](#2019-2020) | 0 | 0 | 1 | 5 | 5 |
 | [2020-2021](#2020-2021) | 0 | 0 | 0 | 2 | 2 |
-| [2024-2025](#2024-2025) | 0 | 0 | 0 | 7 | 7 |
+| [2024-2025](#2024-2025) | 0 | 0 | 2 | 7 | 7 |
 
 ### 2001-2002
 
@@ -193,9 +193,9 @@
 
 ### 2024-2025
 
-1. #20 (#3 de ITESM) _The Strings_ (Clasificatorio)
+1. #16 (#2 de ITESM) _The Strings_ (Regional)
+1. #79 (#13 de ITESM) _DontPanic()_ (Regional)
 1. #195 (#33 de ITESM) _Binary Brains_ (Clasificatorio)
-1. #369 (#59 de ITESM) _DontPanic()_ (Clasificatorio)
 1. #378 (#60 de ITESM) _Sudo_ (Clasificatorio)
 1. #411 (#65 de ITESM) _Skull kids_ (Clasificatorio)
 1. #420 (#66 de ITESM) _BLUE BLUE_ (Clasificatorio)

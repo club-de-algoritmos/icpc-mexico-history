@@ -28,7 +28,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **10** | **0** | **92** | **329** | **393** |
+| **Total** | **10** | **0** | **99** | **329** | **393** |
 | [1997-1998](#1997-1998) | 1 | 0 | 0 | 0 | 1 |
 | [1998-1999](#1998-1999) | 1 | 0 | 0 | 0 | 1 |
 | [2000-2001](#2000-2001) | 1 | 0 | 0 | 0 | 1 |
@@ -53,7 +53,7 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 3 | 24 | 24 |
 | [2022-2023](#2022-2023) | 0 | 0 | 2 | 32 | 32 |
 | [2023-2024](#2023-2024) | 0 | 0 | 3 | 29 | 29 |
-| [2024-2025](#2024-2025) | 0 | 0 | 0 | 33 | 33 |
+| [2024-2025](#2024-2025) | 0 | 0 | 7 | 33 | 33 |
 
 ### 1997-1998
 
@@ -499,15 +499,15 @@
 
 ### 2024-2025
 
-1. #14 (#1 de ITESM) _Lancheros de Balzapote_ (Clasificatorio)
-1. #32 (#4 de ITESM) _Data Divas_ (Clasificatorio)
-1. #38 (#5 de ITESM) _Patos_Con_Sombrero_ (Clasificatorio)
-1. #42 (#6 de ITESM) _Shadow Wizard Money Gang_ (Clasificatorio)
-1. #55 (#9 de ITESM) _Rbrgs.cpp_ (Clasificatorio)
-1. #63 (#10 de ITESM) _Algorithm Assassins_ (Clasificatorio)
+1. #10 (#1 de ITESM) _Data Divas_ (Regional)
+1. #21 (#3 de ITESM) _Lancheros de Balzapote_ (Regional)
+1. #25 (#4 de ITESM) _Rbrgs.cpp_ (Regional)
+1. #36 (#7 de ITESM) _Patos_Con_Sombrero_ (Regional)
+1. #52 (#9 de ITESM) _Shadow Wizard Money Gang_ (Regional)
+1. #58 (#11 de ITESM) _Heap Heap Hooray_ (Regional)
 1. #64 (#11 de ITESM) _Nash_Equilibrium_ (Clasificatorio)
 1. #68 (#13 de ITESM) _Crusaders_ (Clasificatorio)
-1. #78 (#16 de ITESM) _Heap Heap Hooray_ (Clasificatorio)
+1. #94 (#18 de ITESM) _Algorithm Assassins_ (Regional)
 1. #102 (#19 de ITESM) _icpc girlies!!!_ (Clasificatorio)
 1. #116 (#21 de ITESM) _rbrgs.py_ (Clasificatorio)
 1. #118 (#22 de ITESM) _Sabritones_ (Clasificatorio)

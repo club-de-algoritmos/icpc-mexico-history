@@ -10,10 +10,10 @@
 1. _Hugs for Bugs_ resolvió 3 problemas y obtuvo el lugar #19 (98%) en The 2022 ICPC Mexico Finals
 1. _Javamonos_ resolvió 3 problemas y obtuvo el lugar #20 (98%) en The 2022 ICPC Mexico Finals
 1. _Another Day, another AC_ resolvió 3 problemas y obtuvo el lugar #24 (98%) en The 2019 ICPC Mexico Finals
+1. _Los EspinosOS_ resolvió 4 problemas y obtuvo el lugar #26 (98%) en The 2024 ICPC Mexico Finals
 1. _Laughing Coffee_ resolvió 4 problemas y obtuvo el lugar #11 (97%) en The 2015 ACM-ICPC Mexico and Central America Finals
 1. _ITSUR MIX LANG COFFEE_ resolvió 4 problemas y obtuvo el lugar #14 (97%) en The 2016 ACM-ICPC Mexico and Central America Finals
-1. _Los EspinosOS_ resolvió 9 problemas y obtuvo el lugar #34 (97%) en The 2024 ICPC Gran Premio de Mexico
-1. _DAJ_ resolvió 11 problemas y obtuvo el lugar #37 (97%) en The 2024 ICPC Gran Premio de Mexico
+1. _ITSUR-MIXLANG CODERS_ resolvió 3 problemas y obtuvo el lugar #8 (96%) en The 2013 Mexico & Central America Regional Contest
 
 ## Participaciones
 
@@ -21,7 +21,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **2** | **0** | **29** | **211** | **219** |
+| **Total** | **2** | **0** | **33** | **211** | **219** |
 | [2010-2011](#2010-2011) | 0 | 0 | 3 | 0 | 3 |
 | [2011-2012](#2011-2012) | 0 | 0 | 1 | 0 | 1 |
 | [2012-2013](#2012-2013) | 0 | 0 | 2 | 0 | 2 |
@@ -36,7 +36,7 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 3 | 16 | 16 |
 | [2022-2023](#2022-2023) | 0 | 0 | 3 | 29 | 29 |
 | [2023-2024](#2023-2024) | 0 | 0 | 4 | 20 | 20 |
-| [2024-2025](#2024-2025) | 0 | 0 | 0 | 18 | 18 |
+| [2024-2025](#2024-2025) | 0 | 0 | 4 | 18 | 18 |
 
 ### 2010-2011
 
@@ -285,16 +285,16 @@
 
 ### 2024-2025
 
-1. #34 (#4 de TecNM) _Los EspinosOS_ (Clasificatorio)
-1. #37 (#5 de TecNM) _DAJ_ (Clasificatorio)
+1. #26 (#3 de TecNM) _Los EspinosOS_ (Regional)
+1. #51 (#6 de TecNM) _DAJ_ (Regional)
 1. #53 (#7 de TecNM) _ITsurus_ (Clasificatorio)
-1. #54 (#8 de TecNM) _Como_ (Clasificatorio)
+1. #53 (#7 de TecNM) _Como_ (Regional)
+1. #64 (#8 de TecNM) _404 not found_ (Regional)
 1. #120 (#15 de TecNM) _AnythingButWA_ (Clasificatorio)
 1. #124 (#17 de TecNM) _WAOUS TEAM_ (Clasificatorio)
 1. #154 (#29 de TecNM) _Nahuales Swifties_ (Clasificatorio)
 1. #179 (#32 de TecNM) _CodigoCompartir_ (Clasificatorio)
 1. #191 (#35 de TecNM) _Los piratas del pseudo código _ (Clasificatorio)
-1. #379 (#83 de TecNM) _404 not found_ (Clasificatorio)
 1. #482 (#114 de TecNM) _C mas magos_ (Clasificatorio)
 1. #482 (#114 de TecNM) _Cagua++_ (Clasificatorio)
 1. #482 (#114 de TecNM) _Halcones_ (Clasificatorio)

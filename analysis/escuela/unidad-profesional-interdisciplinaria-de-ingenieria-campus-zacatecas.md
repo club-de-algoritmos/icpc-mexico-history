@@ -4,12 +4,12 @@
 
 1. _Las pistas de NULL_ resolvió 1 problemas y obtuvo el lugar #45 (97%) en The 2019 ICPC Mexico Finals
 1. _Las pistas de nullptr_ resolvió 3 problemas y obtuvo el lugar #40 (94%) en The 2020 ICPC Mexico Finals
+1. _ChatGPT Make A Cool Team Name_ resolvió 3 problemas y obtuvo el lugar #74 (94%) en The 2024 ICPC Mexico Finals
 1. _Escuadron alpha lobo dinamita_ resolvió 6 problemas y obtuvo el lugar #83 (94%) en Gran Premio de Mexico 2019
 1. _Printfers_ resolvió 3 problemas y obtuvo el lugar #35 (93%) en The 2016 ACM-ICPC Mexico and Central America Finals
-1. _ChatGPT Make A Cool Team Name_ resolvió 9 problemas y obtuvo el lugar #86 (93%) en The 2024 ICPC Gran Premio de Mexico
+1. _Tacos Envenenados_ resolvió 2 problemas y obtuvo el lugar #86 (93%) en The 2024 ICPC Mexico Finals
 1. _solo_dos_idiotas_y_lalo_ resolvió 1 problemas y obtuvo el lugar #53 (92%) en The 2017 ACM-ICPC Mexico and Central America Finals
 1. _Printfers_ resolvió 1 problemas y obtuvo el lugar #55 (92%) en The 2017 ACM-ICPC Mexico and Central America Finals
-1. _Tacos Envenenados_ resolvió 8 problemas y obtuvo el lugar #101 (92%) en The 2024 ICPC Gran Premio de Mexico
 1. _Los charlies de Angel_ resolvió 1 problemas y obtuvo el lugar #45 (91%) en The 2021 ICPC Mexico Finals
 1. _3idiotas_ resolvió 2 problemas y obtuvo el lugar #46 (91%) en The 2016 ACM-ICPC Mexico and Central America Finals
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **10** | **48** | **48** |
+| **Total** | **0** | **0** | **12** | **48** | **48** |
 | [2014-2015](#2014-2015) | 0 | 0 | 1 | 3 | 3 |
 | [2015-2016](#2015-2016) | 0 | 0 | 2 | 7 | 7 |
 | [2016-2017](#2016-2017) | 0 | 0 | 2 | 7 | 7 |
@@ -30,7 +30,7 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 1 | 2 | 2 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 1 | 1 |
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 2 | 2 |
-| [2024-2025](#2024-2025) | 0 | 0 | 0 | 3 | 3 |
+| [2024-2025](#2024-2025) | 0 | 0 | 2 | 3 | 3 |
 
 ### 2014-2015
 
@@ -109,8 +109,8 @@
 
 ### 2024-2025
 
-1. #86 _ChatGPT Make A Cool Team Name_ (Clasificatorio)
-1. #101 _Tacos Envenenados_ (Clasificatorio)
+1. #74 _ChatGPT Make A Cool Team Name_ (Regional)
+1. #86 _Tacos Envenenados_ (Regional)
 1. #356 _Ardillas Por Doquier_ (Clasificatorio)
 
 

@@ -2,8 +2,8 @@
 
 ## Mejores 10 equipos
 
-1. _ITESM Ags 01_ resolvió 9 problemas y obtuvo el lugar #83 (93%) en The 2024 ICPC Gran Premio de Mexico
 1. _Smash coders_ resolvió 3 problemas y obtuvo el lugar #14 (92%) en The 2008 Mexico & Central America Contest
+1. _ITESM Ags 01_ resolvió 2 problemas y obtuvo el lugar #117 (90%) en The 2024 ICPC Mexico Finals
 1. _Big Blue Team_ resolvió 3 problemas y obtuvo el lugar #29 (86%) en The 2010 Mexico & Central America Regional Contest
 1. _Null team_ resolvió 3 problemas y obtuvo el lugar #30 (83%) en The 2008 Mexico & Central America Contest
 1. _Team.name = null;_ resolvió 2 problemas y obtuvo el lugar #41 (75%) en The 2009 Mexico & Central America Contest
@@ -19,13 +19,13 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **10** | **1** | **11** |
+| **Total** | **0** | **0** | **11** | **1** | **11** |
 | [2007-2008](#2007-2008) | 0 | 0 | 2 | 0 | 2 |
 | [2008-2009](#2008-2009) | 0 | 0 | 3 | 0 | 3 |
 | [2009-2010](#2009-2010) | 0 | 0 | 1 | 0 | 1 |
 | [2010-2011](#2010-2011) | 0 | 0 | 3 | 0 | 3 |
 | [2013-2014](#2013-2014) | 0 | 0 | 1 | 0 | 1 |
-| [2024-2025](#2024-2025) | 0 | 0 | 0 | 1 | 1 |
+| [2024-2025](#2024-2025) | 0 | 0 | 1 | 1 | 1 |
 
 ### 2007-2008
 
@@ -54,7 +54,7 @@
 
 ### 2024-2025
 
-1. #83 (#18 de ITESM) _ITESM Ags 01_ (Clasificatorio)
+1. #117 (#19 de ITESM) _ITESM Ags 01_ (Regional)
 
 
 

@@ -7,7 +7,7 @@
 1. _Peludos_ resolvió 7 problemas y obtuvo el lugar #1 (100%) en The 2014 ACM-ICPC Mexico and Central America Finals
     - Avanzó a la final mundial y resolvió 2 problemas y obtuvo el lugar #110 (14%) en 39th Annual World Finals of the ACM International Collegiate Programming Contest
 1. _Peludos_ resolvió 5 problemas y obtuvo el lugar #3 (99%) en The 2012 Mexico & Central America Regional Contest
-1. _CALTECH (Calvillo Institute of Technology)_ resolvió 16 problemas y obtuvo el lugar #10 (99%) en The 2024 ICPC Gran Premio de Mexico
+1. _CALTECH (Calvillo Institute of Technology)_ resolvió 4 problemas y obtuvo el lugar #13 (99%) en The 2024 ICPC Mexico Finals
 1. _Leulz_ resolvió 4 problemas y obtuvo el lugar #7 (98%) en The 2015 ACM-ICPC Mexico and Central America Finals
 1. _cagUAA++_ resolvió 4 problemas y obtuvo el lugar #15 (98%) en The 2020 ICPC Mexico Finals
 1. _Gallos_ resolvió 3 problemas y obtuvo el lugar #25 (98%) en The 2022 ICPC Mexico Finals
@@ -21,7 +21,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **2** | **0** | **40** | **97** | **122** |
+| **Total** | **2** | **0** | **42** | **97** | **122** |
 | [2005-2006](#2005-2006) | 0 | 0 | 1 | 0 | 1 |
 | [2009-2010](#2009-2010) | 0 | 0 | 3 | 0 | 3 |
 | [2010-2011](#2010-2011) | 0 | 0 | 3 | 0 | 3 |
@@ -38,7 +38,7 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 1 | 2 | 2 |
 | [2022-2023](#2022-2023) | 0 | 0 | 1 | 7 | 7 |
 | [2023-2024](#2023-2024) | 0 | 0 | 1 | 3 | 3 |
-| [2024-2025](#2024-2025) | 0 | 0 | 0 | 8 | 8 |
+| [2024-2025](#2024-2025) | 0 | 0 | 2 | 8 | 8 |
 
 ### 2005-2006
 
@@ -206,8 +206,8 @@
 
 ### 2024-2025
 
-1. #10 _CALTECH (Calvillo Institute of Technology)_ (Clasificatorio)
-1. #106 _Crustáceo Cascarudo_ (Clasificatorio)
+1. #13 _CALTECH (Calvillo Institute of Technology)_ (Regional)
+1. #57 _Crustáceo Cascarudo_ (Regional)
 1. #274 _HoneyCrisps_ (Clasificatorio)
 1. #296 _Chotitas_ (Clasificatorio)
 1. #482 _Montoalrey_ (Clasificatorio)

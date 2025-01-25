@@ -8,13 +8,13 @@
     - Avanzó a la final mundial y resolvió 3 problemas y obtuvo el lugar #57 (58%) en 41st Annual World Finals of the ACM International Collegiate Programming Contest
 1. _TriAda_ resolvió 5 problemas y obtuvo el lugar #4 (99%) en The 2021 ICPC Mexico Finals
     - Avanzó a la final mundial y resolvió 2 problemas y obtuvo el lugar #62 (50%) en 46th Annual World Finals of the International Collegiate Programming Contest
-1. _Tigres.cpp_ resolvió 17 problemas y obtuvo el lugar #9 (99%) en The 2024 ICPC Gran Premio de Mexico
 1. _TriAda_ resolvió 5 problemas y obtuvo el lugar #10 (99%) en The 2020 ICPC Mexico Finals
 1. _ACE_ resolvió 4 problemas y obtuvo el lugar #11 (99%) en The 2022 ICPC Mexico Finals
 1. _nu1l_ resolvió 4 problemas y obtuvo el lugar #15 (99%) en The 2022 ICPC Mexico Finals
 1. _TriAda_ resolvió 4 problemas y obtuvo el lugar #19 (99%) en The 2019 ICPC Mexico Finals
 1. _Los Irmos_ resolvió 3 problemas y obtuvo el lugar #3 (98%) en The 2003 ACM Mexico and Central America Programming Contest
 1. _Los Irmos_ resolvió 2 problemas y obtuvo el lugar #3 (98%) en The 2002 ACM Mexico and Central America Programming Contest
+1. _Tigres.cpp_ resolvió 4 problemas y obtuvo el lugar #20 (98%) en The 2024 ICPC Mexico Finals
 
 ## Participaciones
 
@@ -22,7 +22,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **3** | **0** | **56** | **107** | **147** |
+| **Total** | **3** | **0** | **58** | **107** | **147** |
 | [2001-2002](#2001-2002) | 0 | 0 | 3 | 0 | 3 |
 | [2002-2003](#2002-2003) | 0 | 0 | 3 | 0 | 3 |
 | [2003-2004](#2003-2004) | 0 | 0 | 3 | 0 | 3 |
@@ -46,7 +46,7 @@
 | [2021-2022](#2021-2022) | 1 | 0 | 2 | 11 | 11 |
 | [2022-2023](#2022-2023) | 0 | 0 | 2 | 23 | 23 |
 | [2023-2024](#2023-2024) | 0 | 0 | 2 | 14 | 14 |
-| [2024-2025](#2024-2025) | 0 | 0 | 0 | 27 | 27 |
+| [2024-2025](#2024-2025) | 0 | 0 | 2 | 27 | 27 |
 
 ### 2001-2002
 
@@ -242,8 +242,8 @@
 
 ### 2024-2025
 
-1. #9 _Tigres.cpp_ (Clasificatorio)
-1. #69 _NSP_ (Clasificatorio)
+1. #20 _Tigres.cpp_ (Regional)
+1. #70 _NSP_ (Regional)
 1. #94 _Machines Ant Killer_ (Clasificatorio)
 1. #97 _JAM64_ (Clasificatorio)
 1. #115 _Code Repairers_ (Clasificatorio)

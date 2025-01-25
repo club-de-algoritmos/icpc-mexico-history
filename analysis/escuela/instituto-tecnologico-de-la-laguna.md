@@ -3,10 +3,10 @@
 ## Mejores 10 equipos
 
 1. _EspantaBugs_ resolvió 2 problemas y obtuvo el lugar #37 (97%) en The 2022 ICPC Mexico Finals
-1. _Usurpadores_ resolvió 10 problemas y obtuvo el lugar #62 (95%) en The 2024 ICPC Gran Premio de Mexico
+1. _Usurpadores_ resolvió 3 problemas y obtuvo el lugar #68 (94%) en The 2024 ICPC Mexico Finals
+1. _Syntax Terror_ resolvió 1 problemas y obtuvo el lugar #98 (92%) en The 2024 ICPC Mexico Finals
 1. _ITLN_ resolvió 7 problemas y obtuvo el lugar #101 (92%) en Gran Premio de Mexico 2019
 1. _EspantaBugs_ resolvió 2 problemas y obtuvo el lugar #42 (91%) en The 2023 ICPC Mexico Finals
-1. _Syntax Terror_ resolvió 8 problemas y obtuvo el lugar #108 (91%) en The 2024 ICPC Gran Premio de Mexico
 1. _Los Facilitadores_ resolvió 8 problemas y obtuvo el lugar #111 (91%) en The 2024 ICPC Gran Premio de Mexico
 1. _SPTeam_ resolvió 7 problemas y obtuvo el lugar #127 (90%) en The 2024 ICPC Gran Premio de Mexico
 1. _RQT_Recursivos_ resolvió 7 problemas y obtuvo el lugar #128 (90%) en The 2024 ICPC Gran Premio de Mexico
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **24** | **96** | **117** |
+| **Total** | **0** | **0** | **26** | **96** | **117** |
 | [2001-2002](#2001-2002) | 0 | 0 | 6 | 0 | 6 |
 | [2002-2003](#2002-2003) | 0 | 0 | 13 | 0 | 13 |
 | [2013-2014](#2013-2014) | 0 | 0 | 2 | 0 | 2 |
@@ -29,7 +29,7 @@
 | [2019-2020](#2019-2020) | 0 | 0 | 0 | 6 | 6 |
 | [2022-2023](#2022-2023) | 0 | 0 | 1 | 31 | 31 |
 | [2023-2024](#2023-2024) | 0 | 0 | 1 | 11 | 11 |
-| [2024-2025](#2024-2025) | 0 | 0 | 0 | 31 | 31 |
+| [2024-2025](#2024-2025) | 0 | 0 | 2 | 31 | 31 |
 
 ### 2001-2002
 
@@ -146,8 +146,8 @@
 
 ### 2024-2025
 
-1. #62 (#11 de TecNM) _Usurpadores_ (Clasificatorio)
-1. #108 (#13 de TecNM) _Syntax Terror_ (Clasificatorio)
+1. #68 (#9 de TecNM) _Usurpadores_ (Regional)
+1. #98 (#17 de TecNM) _Syntax Terror_ (Regional)
 1. #111 (#14 de TecNM) _Los Facilitadores_ (Clasificatorio)
 1. #127 (#19 de TecNM) _SPTeam_ (Clasificatorio)
 1. #128 (#20 de TecNM) _RQT_Recursivos_ (Clasificatorio)

@@ -5,13 +5,13 @@
 1. _Assassin Bugs_ resolvió 4 problemas y obtuvo el lugar #26 (96%) en The 2020 ICPC Mexico Finals
 1. _CSF1_ resolvió 3 problemas y obtuvo el lugar #16 (95%) en The 2015 ACM-ICPC Mexico and Central America Finals
 1. _CSF1_ resolvió 2 problemas y obtuvo el lugar #38 (93%) en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _Cod3r5_ resolvió 2 problemas y obtuvo el lugar #81 (93%) en The 2024 ICPC Mexico Finals
+1. _C Plas Plas_ resolvió 1 problemas y obtuvo el lugar #90 (93%) en The 2024 ICPC Mexico Finals
 1. _The Brewskis_ resolvió 2 problemas y obtuvo el lugar #54 (90%) en The 2016 ACM-ICPC Mexico and Central America Finals
 1. _Assassin Bugs_ resolvió 9 problemas y obtuvo el lugar #67 (89%) en Gran Premio de Mexico & Centroamerica 2017
 1. _ITCrew_ resolvió 8 problemas y obtuvo el lugar #79 (88%) en Gran Premio de Mexico & Centroamerica 2017
-1. _Cod3r5_ resolvió 6 problemas y obtuvo el lugar #165 (87%) en The 2024 ICPC Gran Premio de Mexico
 1. _C-nadores_ resolvió 4 problemas y obtuvo el lugar #181 (86%) en Gran Premio de Mexico 2019
 1. _C-nadores_ resolvió 6 problemas y obtuvo el lugar #102 (83%) en Gran Premio de Mexico 2018
-1. _Trinidad_ resolvió 6 problemas y obtuvo el lugar #118 (81%) en Gran Premio de Mexico 2018
 
 ## Participaciones
 
@@ -19,14 +19,14 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **4** | **22** | **22** |
+| **Total** | **0** | **0** | **6** | **22** | **22** |
 | [2015-2016](#2015-2016) | 0 | 0 | 1 | 3 | 3 |
 | [2016-2017](#2016-2017) | 0 | 0 | 2 | 5 | 5 |
 | [2017-2018](#2017-2018) | 0 | 0 | 0 | 5 | 5 |
 | [2018-2019](#2018-2019) | 0 | 0 | 0 | 4 | 4 |
 | [2019-2020](#2019-2020) | 0 | 0 | 0 | 2 | 2 |
 | [2020-2021](#2020-2021) | 0 | 0 | 1 | 1 | 1 |
-| [2024-2025](#2024-2025) | 0 | 0 | 0 | 2 | 2 |
+| [2024-2025](#2024-2025) | 0 | 0 | 2 | 2 | 2 |
 
 ### 2015-2016
 
@@ -68,8 +68,8 @@
 
 ### 2024-2025
 
-1. #165 (#29 de ITESM) _Cod3r5_ (Clasificatorio)
-1. #256 (#39 de ITESM) _C Plas Plas_ (Clasificatorio)
+1. #81 (#14 de ITESM) _Cod3r5_ (Regional)
+1. #90 (#17 de ITESM) _C Plas Plas_ (Regional)
 
 
 

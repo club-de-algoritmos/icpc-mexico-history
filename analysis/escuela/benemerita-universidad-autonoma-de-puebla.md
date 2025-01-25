@@ -7,13 +7,13 @@
 1. _Death Match_ resolvió 4 problemas y obtuvo el lugar #2 (99%) en The 2006 ACM Mexico and Central America Programming Contest
     - Avanzó a la final mundial y resolvió 0 problemas y obtuvo el lugar #86 (2%) en The 2007 ACM Programming Contest World Finals
 1. _Call C Team_ resolvió 4 problemas y obtuvo el lugar #6 (96%) en The 2005 ACM Mexico and Central America Programming Contest
-1. _no hay nombre, pero ¿Se han preguntado cual es el limite de caracteres en el nombre de un equi_ resolvió 10 problemas y obtuvo el lugar #49 (96%) en The 2024 ICPC Gran Premio de Mexico
 1. _Terna Dorada_ resolvió 3 problemas y obtuvo el lugar #6 (95%) en The 2003 ACM Mexico and Central America Programming Contest
 1. _SAG AM_ resolvió 3 problemas y obtuvo el lugar #9 (95%) en The 2011 Mexico & Central America Regional Contest
 1. _Codeslayer_ resolvió 4 problemas y obtuvo el lugar #14 (95%) en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _no hay nombre, pero ¿Se han preguntado cual es el limite de caracteres en el nombre de un equi_ resolvió 3 problemas y obtuvo el lugar #65 (95%) en The 2024 ICPC Mexico Finals
 1. _Algoholics_ resolvió 4 problemas y obtuvo el lugar #14 (92%) en The 2009 Mexico & Central America Contest
+1. _Lobocode_ resolvió 1 problemas y obtuvo el lugar #109 (91%) en The 2024 ICPC Mexico Finals
 1. _Aediat upin_ resolvió 4 problemas y obtuvo el lugar #17 (90%) en The 2009 Mexico & Central America Contest
-1. _Drink Team_ resolvió 3 problemas y obtuvo el lugar #17 (90%) en The 2012 Mexico & Central America Regional Contest
 
 ## Participaciones
 
@@ -21,7 +21,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **2** | **0** | **37** | **23** | **59** |
+| **Total** | **2** | **0** | **39** | **23** | **59** |
 | [2002-2003](#2002-2003) | 0 | 0 | 2 | 0 | 2 |
 | [2003-2004](#2003-2004) | 0 | 0 | 5 | 0 | 5 |
 | [2004-2005](#2004-2005) | 1 | 0 | 3 | 0 | 3 |
@@ -40,7 +40,7 @@
 | [2019-2020](#2019-2020) | 0 | 0 | 0 | 4 | 4 |
 | [2020-2021](#2020-2021) | 0 | 0 | 0 | 2 | 2 |
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 1 | 1 |
-| [2024-2025](#2024-2025) | 0 | 0 | 0 | 8 | 8 |
+| [2024-2025](#2024-2025) | 0 | 0 | 2 | 8 | 8 |
 
 ### 2002-2003
 
@@ -151,10 +151,10 @@
 
 ### 2024-2025
 
-1. #49 _no hay nombre, pero ¿Se han preguntado cual es el limite de caracteres en el nombre de un equi_ (Clasificatorio)
+1. #65 _no hay nombre, pero ¿Se han preguntado cual es el limite de caracteres en el nombre de un equi_ (Regional)
+1. #109 _Lobocode_ (Regional)
 1. #141 _binary_sech()_ (Clasificatorio)
 1. #155 _Mateatletas_ (Clasificatorio)
-1. #180 _Lobocode_ (Clasificatorio)
 1. #341 _Chile Poblano_ (Clasificatorio)
 1. #432 _Java-limos_ (Clasificatorio)
 1. #482 _Noditos_ (Clasificatorio)

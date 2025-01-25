@@ -2,14 +2,14 @@
 
 ## Mejores 10 equipos
 
-1. _A poco sí muy AC?_ resolvió 11 problemas y obtuvo el lugar #35 (97%) en The 2024 ICPC Gran Premio de Mexico
+1. _A poco sí muy AC?_ resolvió 3 problemas y obtuvo el lugar #43 (97%) en The 2024 ICPC Mexico Finals
 1. _CRIGED.PY_ resolvió 1 problemas y obtuvo el lugar #47 (96%) en The 2022 ICPC Mexico Finals
 1. _CRIGED.PY_ resolvió 3 problemas y obtuvo el lugar #28 (94%) en The 2023 ICPC Mexico Finals
-1. _Dos tequilas y un mojito_ resolvió 9 problemas y obtuvo el lugar #87 (93%) en The 2024 ICPC Gran Premio de Mexico
+1. _Dos tequilas y un mojito_ resolvió 2 problemas y obtuvo el lugar #84 (93%) en The 2024 ICPC Mexico Finals
+1. _Los shabOS_ resolvió 1 problemas y obtuvo el lugar #91 (93%) en The 2024 ICPC Mexico Finals
 1. _CTRL2_ resolvió 5 problemas y obtuvo el lugar #132 (87%) en The 2022 ICPC Gran Premio de Mexico
 1. _Chat GNA_ resolvió 6 problemas y obtuvo el lugar #160 (87%) en The 2024 ICPC Gran Premio de Mexico
 1. _Byte the Dust_ resolvió 6 problemas y obtuvo el lugar #188 (85%) en The 2024 ICPC Gran Premio de Mexico
-1. _Los shabOS_ resolvió 5 problemas y obtuvo el lugar #204 (83%) en The 2024 ICPC Gran Premio de Mexico
 1. _Mavericks_ resolvió 3 problemas y obtuvo el lugar #204 (81%) en The 2022 ICPC Gran Premio de Mexico
 1. _Coding Slayer_ resolvió 5 problemas y obtuvo el lugar #96 (79%) en The 2023 ICPC Gran Premio de Mexico
 
@@ -19,13 +19,13 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **2** | **35** | **35** |
+| **Total** | **0** | **0** | **5** | **35** | **35** |
 | [2014-2015](#2014-2015) | 0 | 0 | 0 | 1 | 1 |
 | [2015-2016](#2015-2016) | 0 | 0 | 0 | 1 | 1 |
 | [2017-2018](#2017-2018) | 0 | 0 | 0 | 1 | 1 |
 | [2022-2023](#2022-2023) | 0 | 0 | 1 | 4 | 4 |
 | [2023-2024](#2023-2024) | 0 | 0 | 1 | 13 | 13 |
-| [2024-2025](#2024-2025) | 0 | 0 | 0 | 15 | 15 |
+| [2024-2025](#2024-2025) | 0 | 0 | 3 | 15 | 15 |
 
 ### 2014-2015
 
@@ -64,11 +64,11 @@
 
 ### 2024-2025
 
-1. #35 _A poco sí muy AC?_ (Clasificatorio)
-1. #87 _Dos tequilas y un mojito_ (Clasificatorio)
+1. #43 _A poco sí muy AC?_ (Regional)
+1. #84 _Dos tequilas y un mojito_ (Regional)
+1. #91 _Los shabOS_ (Regional)
 1. #160 _Chat GNA_ (Clasificatorio)
 1. #188 _Byte the Dust_ (Clasificatorio)
-1. #204 _Los shabOS_ (Clasificatorio)
 1. #285 _Bosquejitos_ (Clasificatorio)
 1. #333 _Escuadrón lobo_ (Clasificatorio)
 1. #334 _Team=410_ (Clasificatorio)

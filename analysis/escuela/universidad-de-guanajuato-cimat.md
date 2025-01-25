@@ -19,7 +19,7 @@
 1. _U de Guanajuato Hausdorff_ resolvió 6 problemas y obtuvo el lugar #2 (99%) en The 2007 ACM Mexico and Central America Programming Contest
     - Avanzó a la final mundial y resolvió 0 problemas y obtuvo el lugar #90 (10%) en The 2008 ACM Programming Contest World Finals
 1. _La última y nos vamos_ resolvió 6 problemas y obtuvo el lugar #2 (100%) en The 2023 ICPC Mexico Finals
-1. _La última y nos vamos, ahora sí_ resolvió 21 problemas y obtuvo el lugar #5 (100%) en The 2024 ICPC Gran Premio de Mexico
+1. _JoJoJo’S_ resolvió 5 problemas y obtuvo el lugar #5 (100%) en The 2022 ICPC Mexico Finals
 
 ## Participaciones
 
@@ -27,7 +27,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **8** | **2** | **60** | **74** | **104** |
+| **Total** | **8** | **2** | **63** | **74** | **104** |
 | [2001-2002](#2001-2002) | 0 | 0 | 2 | 0 | 2 |
 | [2002-2003](#2002-2003) | 1 | 0 | 3 | 0 | 3 |
 | [2003-2004](#2003-2004) | 0 | 0 | 3 | 0 | 3 |
@@ -51,7 +51,7 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 3 | 7 | 7 |
 | [2022-2023](#2022-2023) | 1 | 0 | 3 | 10 | 10 |
 | [2023-2024](#2023-2024) | 1 | 2 | 3 | 5 | 5 |
-| [2024-2025](#2024-2025) | 0 | 0 | 0 | 9 | 9 |
+| [2024-2025](#2024-2025) | 0 | 0 | 3 | 9 | 9 |
 
 ### 2001-2002
 
@@ -227,9 +227,9 @@
 
 ### 2024-2025
 
-1. #5 _La última y nos vamos, ahora sí_ (Clasificatorio)
-1. #13 _Cocon13_ (Clasificatorio)
-1. #26 _Mathgic_ (Clasificatorio)
+1. #7 _Cocon13_ (Regional)
+1. #12 _La última y nos vamos, ahora sí_ (Regional)
+1. #14 _Mathgic_ (Regional)
 1. #73 _B01ng de frut l00ps_ (Clasificatorio)
 1. #85 _Código al fallo_ (Clasificatorio)
 1. #119 _ItIsLimitless_ (Clasificatorio)

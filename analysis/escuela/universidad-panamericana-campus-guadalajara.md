@@ -2,15 +2,15 @@
 
 ## Mejores 10 equipos
 
-1. _Team Impala_ resolvió 16 problemas y obtuvo el lugar #17 (99%) en The 2024 ICPC Gran Premio de Mexico
 1. _Hololive_ resolvió 3 problemas y obtuvo el lugar #22 (98%) en The 2022 ICPC Mexico Finals
+1. _Team Impala_ resolvió 4 problemas y obtuvo el lugar #24 (98%) en The 2024 ICPC Mexico Finals
 1. _Software Chasers_ resolvió 2 problemas y obtuvo el lugar #38 (97%) en The 2022 ICPC Mexico Finals
 1. _Mojibake_ resolvió 3 problemas y obtuvo el lugar #23 (96%) en The 2021 ICPC Mexico Finals
 1. _Mojibake_ resolvió 3 problemas y obtuvo el lugar #27 (94%) en The 2023 ICPC Mexico Finals
+1. _Testigos de DuPort_ resolvió 3 problemas y obtuvo el lugar #73 (94%) en The 2024 ICPC Mexico Finals
 1. _DrimTimICP_ resolvió 1 problemas y obtuvo el lugar #51 (93%) en The 2020 ICPC Mexico Finals
 1. _Takodachis_ resolvió 2 problemas y obtuvo el lugar #37 (92%) en The 2023 ICPC Mexico Finals
 1. _EzpcLemonEzQuizi_ resolvió 6 problemas y obtuvo el lugar #96 (91%) en The 2022 ICPC Gran Premio de Mexico
-1. _Testigos de DuPort_ resolvió 8 problemas y obtuvo el lugar #113 (91%) en The 2024 ICPC Gran Premio de Mexico
 1. _AlfaBuenaMaravillaOndaDinamitaEscuadrónLobo_ resolvió 0 problemas y obtuvo el lugar #50 (90%) en The 2021 ICPC Mexico Finals
 
 ## Participaciones
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **7** | **62** | **62** |
+| **Total** | **0** | **0** | **9** | **62** | **62** |
 | [2017-2018](#2017-2018) | 0 | 0 | 0 | 2 | 2 |
 | [2018-2019](#2018-2019) | 0 | 0 | 0 | 4 | 4 |
 | [2019-2020](#2019-2020) | 0 | 0 | 0 | 2 | 2 |
@@ -27,7 +27,7 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 2 | 6 | 6 |
 | [2022-2023](#2022-2023) | 0 | 0 | 2 | 13 | 13 |
 | [2023-2024](#2023-2024) | 0 | 0 | 2 | 17 | 17 |
-| [2024-2025](#2024-2025) | 0 | 0 | 0 | 12 | 12 |
+| [2024-2025](#2024-2025) | 0 | 0 | 2 | 12 | 12 |
 
 ### 2017-2018
 
@@ -102,8 +102,8 @@
 
 ### 2024-2025
 
-1. #17 _Team Impala_ (Clasificatorio)
-1. #113 _Testigos de DuPort_ (Clasificatorio)
+1. #24 _Team Impala_ (Regional)
+1. #73 _Testigos de DuPort_ (Regional)
 1. #245 _UP Fuerzas Especiales_ (Clasificatorio)
 1. #247 _Las Divines_ (Clasificatorio)
 1. #261 _Remaria_ (Clasificatorio)

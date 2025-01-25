@@ -10,7 +10,7 @@
     - Avanzó a la final mundial y resolvió 3 problemas y obtuvo el lugar #62 (50%) en 46th Annual World Finals of the International Collegiate Programming Contest
 1. _U de G ACM Problem Solvers_ resolvió 6 problemas y obtuvo el lugar #1 (100%) en The 2007 ACM Mexico and Central America Programming Contest
     - Avanzó a la final mundial y resolvió 2 problemas y obtuvo el lugar #65 (35%) en The 2008 ACM Programming Contest World Finals
-1. _Motomomis_ resolvió 22 problemas y obtuvo el lugar #7 (100%) en The 2024 ICPC Gran Premio de Mexico
+1. _Motomomis_ resolvió 5 problemas y obtuvo el lugar #5 (100%) en The 2024 ICPC Mexico Finals
 1. _Ma+aLeones7000_ resolvió 4 problemas y obtuvo el lugar #10 (99%) en The 2022 ICPC Mexico Finals
 1. _Leones(0,0,0);_ resolvió 4 problemas y obtuvo el lugar #17 (99%) en The 2019 ICPC Mexico Finals
 1. _DeltaWing_ resolvió 5 problemas y obtuvo el lugar #10 (98%) en The 2023 ICPC Mexico Finals
@@ -23,7 +23,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **4** | **0** | **74** | **181** | **234** |
+| **Total** | **4** | **0** | **77** | **181** | **234** |
 | [2002-2003](#2002-2003) | 0 | 0 | 2 | 0 | 2 |
 | [2003-2004](#2003-2004) | 0 | 0 | 5 | 0 | 5 |
 | [2004-2005](#2004-2005) | 0 | 0 | 8 | 0 | 8 |
@@ -46,7 +46,7 @@
 | [2021-2022](#2021-2022) | 1 | 0 | 3 | 7 | 7 |
 | [2022-2023](#2022-2023) | 1 | 0 | 5 | 26 | 26 |
 | [2023-2024](#2023-2024) | 0 | 0 | 3 | 19 | 19 |
-| [2024-2025](#2024-2025) | 0 | 0 | 0 | 39 | 39 |
+| [2024-2025](#2024-2025) | 0 | 0 | 3 | 39 | 39 |
 
 ### 2002-2003
 
@@ -315,9 +315,9 @@
 
 ### 2024-2025
 
-1. #7 _Motomomis_ (Clasificatorio)
-1. #29 _Con el maximum flow_ (Clasificatorio)
-1. #48 _Dead Developers Society_ (Clasificatorio)
+1. #5 _Motomomis_ (Regional)
+1. #42 _Con el maximum flow_ (Regional)
+1. #44 _Dead Developers Society_ (Regional)
 1. #105 _Enchiladas Verdes_ (Clasificatorio)
 1. #112 _Segfaulters_ (Clasificatorio)
 1. #136 _SkibidiToilets_ (Clasificatorio)

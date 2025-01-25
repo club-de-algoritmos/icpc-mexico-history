@@ -4,12 +4,12 @@
 
 1. _#include<uaz>_ resolvió 4 problemas y obtuvo el lugar #18 (98%) en The 2018 ICPC Mexico and Central America Finals
 1. _#include <uaz>_ resolvió 4 problemas y obtuvo el lugar #22 (98%) en The 2019 ICPC Mexico Finals
-1. _PuerkaSquad_ resolvió 10 problemas y obtuvo el lugar #36 (97%) en The 2024 ICPC Gran Premio de Mexico
 1. _Ice and Fire_ resolvió 2 problemas y obtuvo el lugar #36 (97%) en The 2022 ICPC Mexico Finals
 1. _#include<uaz>_ resolvió 3 problemas y obtuvo el lugar #21 (96%) en The 2021 ICPC Mexico Finals
 1. _#include<uaz>_ resolvió 3 problemas y obtuvo el lugar #30 (96%) en The 2020 ICPC Mexico Finals
 1. _#include <uaz>_ resolvió 1 problemas y obtuvo el lugar #41 (96%) en The 2022 ICPC Mexico Finals
-1. _Balloon thieves_ resolvió 9 problemas y obtuvo el lugar #60 (95%) en The 2024 ICPC Gran Premio de Mexico
+1. _Balloon thieves_ resolvió 3 problemas y obtuvo el lugar #46 (96%) en The 2024 ICPC Mexico Finals
+1. _PuerkaSquad_ resolvió 3 problemas y obtuvo el lugar #48 (96%) en The 2024 ICPC Mexico Finals
 1. _Sudo Programmers_ resolvió 9 problemas y obtuvo el lugar #67 (94%) en The 2022 ICPC Gran Premio de Mexico
 1. _El Bueno, el Malo y el Feo_ resolvió 5 problemas y obtuvo el lugar #87 (93%) en Gran Premio de Mexico 2019
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **29** | **183** | **198** |
+| **Total** | **0** | **0** | **31** | **183** | **198** |
 | [2004-2005](#2004-2005) | 0 | 0 | 3 | 0 | 3 |
 | [2005-2006](#2005-2006) | 0 | 0 | 3 | 0 | 3 |
 | [2006-2007](#2006-2007) | 0 | 0 | 1 | 0 | 1 |
@@ -36,7 +36,7 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 3 | 18 | 18 |
 | [2022-2023](#2022-2023) | 0 | 0 | 2 | 25 | 25 |
 | [2023-2024](#2023-2024) | 0 | 0 | 1 | 8 | 8 |
-| [2024-2025](#2024-2025) | 0 | 0 | 0 | 18 | 18 |
+| [2024-2025](#2024-2025) | 0 | 0 | 2 | 18 | 18 |
 
 ### 2004-2005
 
@@ -268,8 +268,8 @@
 
 ### 2024-2025
 
-1. #36 _PuerkaSquad_ (Clasificatorio)
-1. #60 _Balloon thieves_ (Clasificatorio)
+1. #46 _Balloon thieves_ (Regional)
+1. #48 _PuerkaSquad_ (Regional)
 1. #117 _CmonKeys_ (Clasificatorio)
 1. #265 _Exidis_ (Clasificatorio)
 1. #268 _No son enchiladas_ (Clasificatorio)

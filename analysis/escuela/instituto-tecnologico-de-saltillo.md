@@ -2,7 +2,7 @@
 
 ## Mejores 10 equipos
 
-1. _Tlacuaches del arroyo_ resolvió 7 problemas y obtuvo el lugar #125 (90%) en The 2024 ICPC Gran Premio de Mexico
+1. _Tlacuaches del arroyo_ resolvió 1 problemas y obtuvo el lugar #100 (92%) en The 2024 ICPC Mexico Finals
 1. _BPITS_ resolvió 7 problemas y obtuvo el lugar #135 (89%) en The 2024 ICPC Gran Premio de Mexico
 1. _static void_ resolvió 7 problemas y obtuvo el lugar #144 (88%) en The 2024 ICPC Gran Premio de Mexico
 1. _Burros Pardos_ resolvió 2 problemas y obtuvo el lugar #18 (85%) en The 2004 ACM Mexico and Central America Programming Contest
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **28** | **11** | **39** |
+| **Total** | **0** | **0** | **29** | **11** | **39** |
 | [2003-2004](#2003-2004) | 0 | 0 | 2 | 0 | 2 |
 | [2004-2005](#2004-2005) | 0 | 0 | 2 | 0 | 2 |
 | [2005-2006](#2005-2006) | 0 | 0 | 2 | 0 | 2 |
@@ -32,7 +32,7 @@
 | [2013-2014](#2013-2014) | 0 | 0 | 4 | 0 | 4 |
 | [2018-2019](#2018-2019) | 0 | 0 | 0 | 3 | 3 |
 | [2019-2020](#2019-2020) | 0 | 0 | 0 | 3 | 3 |
-| [2024-2025](#2024-2025) | 0 | 0 | 0 | 5 | 5 |
+| [2024-2025](#2024-2025) | 0 | 0 | 1 | 5 | 5 |
 
 ### 2003-2004
 
@@ -106,7 +106,7 @@
 
 ### 2024-2025
 
-1. #125 (#18 de TecNM) _Tlacuaches del arroyo_ (Clasificatorio)
+1. #100 (#18 de TecNM) _Tlacuaches del arroyo_ (Regional)
 1. #135 (#22 de TecNM) _BPITS_ (Clasificatorio)
 1. #144 (#25 de TecNM) _static void_ (Clasificatorio)
 1. #224 (#43 de TecNM) _Crustáceos_ (Clasificatorio)

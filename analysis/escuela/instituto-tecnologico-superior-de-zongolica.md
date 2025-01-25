@@ -2,16 +2,16 @@
 
 ## Mejores 10 equipos
 
-1. _Syntax_Error_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _Alpha_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
-1. _Blog Masters_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
-1. _Bumm UPD_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
-1. _Byte Busters_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
-1. _Los trisolteros_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
-1. _Ludópatas_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
-1. _Making Play_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
-1. _Riverpolitos_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
-1. _Sitec_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
+1. _Riverpolitos_ resolvió 0 problemas y obtuvo el lugar #482 (60%) en The 2024 ICPC Gran Premio de Mexico
+1. _Byte Busters_ resolvió 0 problemas y obtuvo el lugar #482 (59%) en The 2024 ICPC Gran Premio de Mexico
+1. _Los trisolteros_ resolvió 0 problemas y obtuvo el lugar #482 (59%) en The 2024 ICPC Gran Premio de Mexico
+1. _Ludópatas_ resolvió 0 problemas y obtuvo el lugar #482 (57%) en The 2024 ICPC Gran Premio de Mexico
+1. _Making Play_ resolvió 0 problemas y obtuvo el lugar #482 (57%) en The 2024 ICPC Gran Premio de Mexico
+1. _Sitec_ resolvió 0 problemas y obtuvo el lugar #482 (57%) en The 2024 ICPC Gran Premio de Mexico
+1. _Super code_ resolvió 0 problemas y obtuvo el lugar #482 (57%) en The 2024 ICPC Gran Premio de Mexico
+1. _Alpha_ resolvió 0 problemas y obtuvo el lugar #482 (56%) en The 2024 ICPC Gran Premio de Mexico
+1. _Bumm UPD_ resolvió 0 problemas y obtuvo el lugar #482 (56%) en The 2024 ICPC Gran Premio de Mexico
+1. _Tech Visionaries_ resolvió 0 problemas y obtuvo el lugar #482 (56%) en The 2024 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -45,18 +45,18 @@
 
 ### 2024-2025
 
-1. #482 (#114 de TecNM) _Alpha_ (Clasificatorio)
-1. #482 (#114 de TecNM) _Blog Masters_ (Clasificatorio)
-1. #482 (#114 de TecNM) _Bumm UPD_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Riverpolitos_ (Clasificatorio)
 1. #482 (#114 de TecNM) _Byte Busters_ (Clasificatorio)
 1. #482 (#114 de TecNM) _Los trisolteros_ (Clasificatorio)
 1. #482 (#114 de TecNM) _Ludópatas_ (Clasificatorio)
 1. #482 (#114 de TecNM) _Making Play_ (Clasificatorio)
-1. #482 (#114 de TecNM) _Riverpolitos_ (Clasificatorio)
 1. #482 (#114 de TecNM) _Sitec_ (Clasificatorio)
 1. #482 (#114 de TecNM) _Super code_ (Clasificatorio)
-1. #482 (#114 de TecNM) _Syntax_Error_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Alpha_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Bumm UPD_ (Clasificatorio)
 1. #482 (#114 de TecNM) _Tech Visionaries_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Blog Masters_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Syntax_Error_ (Clasificatorio)
 
 
 

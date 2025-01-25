@@ -2,14 +2,14 @@
 
 ## Mejores 10 equipos
 
-1. _ganando.cpp_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Delta ITAP_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _Luxury Programers _ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _CodeDestroyers ITAP_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
-1. _Delta ITAP_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
-1. _coyotes_ resolvió 0 problemas y obtuvo el lugar #85 (40%) en The 2005 ACM Mexico and Central America Programming Contest
-1. _itap_ resolvió 0 problemas y obtuvo el lugar #85 (40%) en The 2005 ACM Mexico and Central America Programming Contest
-1. _tecap_ resolvió 0 problemas y obtuvo el lugar #85 (40%) en The 2005 ACM Mexico and Central America Programming Contest
+1. _Delta ITAP_ resolvió 0 problemas y obtuvo el lugar #382 (41%) en The 2022 ICPC Gran Premio de Mexico
+1. _Luxury Programers _ resolvió 0 problemas y obtuvo el lugar #382 (33%) en The 2022 ICPC Gran Premio de Mexico
+1. _ganando.cpp_ obtuvo el lugar #382 (33%) en Gran Premio de Mexico 2019
+1. _Delta ITAP_ resolvió 0 problemas y obtuvo el lugar #482 (21%) en The 2024 ICPC Gran Premio de Mexico
+1. _coyotes_ resolvió 0 problemas y obtuvo el lugar #85 (11%) en The 2005 ACM Mexico and Central America Programming Contest
+1. _itap_ resolvió 0 problemas y obtuvo el lugar #85 (10%) en The 2005 ACM Mexico and Central America Programming Contest
+1. _tecap_ resolvió 0 problemas y obtuvo el lugar #85 (9%) en The 2005 ACM Mexico and Central America Programming Contest
+1. _CodeDestroyers ITAP_ resolvió 0 problemas y obtuvo el lugar #482 (0%) en The 2024 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -40,8 +40,8 @@
 
 ### 2024-2025
 
-1. #482 (#114 de TecNM) _CodeDestroyers ITAP_ (Clasificatorio)
 1. #482 (#114 de TecNM) _Delta ITAP_ (Clasificatorio)
+1. #482 (#114 de TecNM) _CodeDestroyers ITAP_ (Clasificatorio)
 
 
 

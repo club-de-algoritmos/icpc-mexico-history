@@ -11,9 +11,9 @@
 1. _The Strings_ resolvió 4 problemas y obtuvo el lugar #16 (99%) en The 2024 ICPC Mexico Finals
 1. _Deadly Coding Squad =)_ resolvió 4 problemas y obtuvo el lugar #4 (98%) en The 2008 Mexico & Central America Contest
 1. _MachineGun_ resolvió 4 problemas y obtuvo el lugar #5 (98%) en The 2008 Mexico & Central America Contest
-1. _pragma_ resolvió 23 problemas y obtuvo el lugar #7 (98%) en Gran Premio de Mexico & Centroamerica 2017
 1. _wlog_ resolvió 4 problemas y obtuvo el lugar #12 (98%) en The 2016 ACM-ICPC Mexico and Central America Finals
 1. _pragma++_ resolvió 5 problemas y obtuvo el lugar #16 (98%) en The 2018 ICPC Mexico and Central America Finals
+1. _Code'n'play_ resolvió 3 problemas y obtuvo el lugar #17 (97%) en The 2016 ACM-ICPC Mexico and Central America Finals
 
 ## Participaciones
 
@@ -82,9 +82,9 @@
 1. #47 (#13 de ITESM) _RPM_ (Regional)
 1. #58 (#17 de ITESM) _Le Chaveliers_ (Regional)
 1. #60 (#18 de ITESM) _Klan Fresas Tec_ (Regional)
+1. #61 (#19 de ITESM) _Its Hammer Time!!_ (Regional)
 1. #61 (#19 de ITESM) _4TW_ (Regional)
 1. #61 (#19 de ITESM) _ITESM-CQ1_ (Regional)
-1. #61 (#19 de ITESM) _Its Hammer Time!!_ (Regional)
 1. #61 (#19 de ITESM) _Mandil--;_ (Regional)
 1. #61 (#19 de ITESM) _Son of a Bit_ (Regional)
 
@@ -142,23 +142,23 @@
 
 1. #20 (#6 de ITESM) _Coder::Dash_ (Regional)
 1. #21 (#7 de ITESM) _Aleph_ (Regional)
-1. #108 (#26 de ITESM) _ABM_ (Clasificatorio)
 1. #108 (#26 de ITESM) _Babuinos_ (Clasificatorio)
+1. #108 (#26 de ITESM) _ABM_ (Clasificatorio)
 1. #108 (#26 de ITESM) _TIMANO_ (Clasificatorio)
 
 ### 2016-2017
 
 1. #12 (#2 de ITESM) _wlog_ (Regional)
 1. #17 (#4 de ITESM) _Code'n'play_ (Regional)
-1. #121 (#33 de ITESM) _ANT_ (Clasificatorio)
 1. #121 (#33 de ITESM) _Glitchs_ (Clasificatorio)
+1. #121 (#33 de ITESM) _ANT_ (Clasificatorio)
 
 ### 2017-2018
 
 1. #3 (#1 de ITESM) _Pragma_ (Regional)
     - Avanzó a la final mundial y resolvió 2 problemas obtuviendo el lugar #57 (60%) en 42nd Annual World Finals of the International Collegiate Programming Contest
-1. #7 (#1 de ITESM) _pragma_ (Clasificatorio)
 1. #43 (#8 de ITESM) _c+vga_ (Regional)
+1. #7 (#1 de ITESM) _pragma_ (Clasificatorio)
 1. #377 (#65 de ITESM) _Iscracks_ (Clasificatorio)
 1. #397 (#67 de ITESM) _Pizza Atomica_ (Clasificatorio)
 1. #404 (#68 de ITESM) _LPRK_ (Clasificatorio)

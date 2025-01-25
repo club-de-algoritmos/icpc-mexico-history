@@ -4,8 +4,8 @@
 
 1. _Note NV_ resolvió 1 problemas y obtuvo el lugar #76 (91%) en The 2018 ICPC Mexico and Central America Finals
 1. _Note NV_ resolvió 1 problemas y obtuvo el lugar #340 (74%) en Gran Premio de Mexico 2019
-1. _BLACK JACK_ resolvió 2 problemas y obtuvo el lugar #286 (58%) en Gran Premio de Mexico & Centroamerica 2017
-1. _CognitiveCode_ resolvió 0 problemas y obtuvo el lugar #394 (48%) en Gran Premio de Mexico 2018
+1. _BLACK JACK_ resolvió 2 problemas y obtuvo el lugar #286 (56%) en Gran Premio de Mexico & Centroamerica 2017
+1. _CognitiveCode_ resolvió 0 problemas y obtuvo el lugar #394 (45%) en Gran Premio de Mexico 2018
 
 ## Participaciones
 

@@ -7,11 +7,11 @@
 1. _LAVANDA NORTEÑA_ resolvió 2 problemas y obtuvo el lugar #35 (97%) en The 2019 ICPC Mexico Finals
 1. _LA MAFIA DEL PODER_ resolvió 1 problemas y obtuvo el lugar #42 (97%) en The 2019 ICPC Mexico Finals
 1. _twt_ resolvió 3 problemas y obtuvo el lugar #23 (96%) en The 2016 ACM-ICPC Mexico and Central America Finals
-1. _turing incompleto_ resolvió 2 problemas y obtuvo el lugar #31 (96%) en The 2017 ACM-ICPC Mexico and Central America Finals
 1. _M@C'nificas _ resolvió 2 problemas y obtuvo el lugar #39 (96%) en The 2022 ICPC Mexico Finals
-1. _BEANERS_ resolvió 8 problemas y obtuvo el lugar #51 (96%) en Gran Premio de Mexico 2019
 1. _Burst Programming_ resolvió 2 problemas y obtuvo el lugar #10 (95%) en The 2013 Mexico & Central America Regional Contest
+1. _turing incompleto_ resolvió 2 problemas y obtuvo el lugar #31 (95%) en The 2017 ACM-ICPC Mexico and Central America Finals
 1. _Lavanda Norteña_ resolvió 3 problemas y obtuvo el lugar #33 (95%) en The 2020 ICPC Mexico Finals
+1. _BEANERS_ resolvió 8 problemas y obtuvo el lugar #51 (95%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 
@@ -74,8 +74,8 @@
 1. #61 _The orden of the T-Rex_ (Regional)
 1. #75 _Dinamita_ (Clasificatorio)
 1. #95 _e^z_ (Clasificatorio)
-1. #121 _NOLASTNAME 404_ (Clasificatorio)
 1. #121 _Parálisis Permanente_ (Clasificatorio)
+1. #121 _NOLASTNAME 404_ (Clasificatorio)
 
 ### 2017-2018
 
@@ -101,8 +101,8 @@
 1. #70 _RE100TE_ (Clasificatorio)
 1. #72 _PONJO_ (Clasificatorio)
 1. #74 _ac@tlecos_ (Clasificatorio)
-1. #382 _FIRECODE_ (Clasificatorio)
 1. #382 _NOC++_ (Clasificatorio)
+1. #382 _FIRECODE_ (Clasificatorio)
 
 ### 2020-2021
 

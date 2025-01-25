@@ -109,33 +109,33 @@
 1. #76 _JalAgs_ (Clasificatorio)
 1. #101 _Nac-OS_ (Clasificatorio)
 1. #108 _BUILDERS_ (Clasificatorio)
-1. #108 _Baticholos_ (Clasificatorio)
-1. #108 _Gates-Jobs_ (Clasificatorio)
+1. #108 _Los Gorrudos Z_ (Clasificatorio)
+1. #108 _Master program_ (Clasificatorio)
 1. #108 _LECK'S_ (Clasificatorio)
 1. #108 _Las papas_ (Clasificatorio)
-1. #108 _Los Gorrudos Z_ (Clasificatorio)
-1. #108 _Los Omares_ (Clasificatorio)
-1. #108 _Master program_ (Clasificatorio)
-1. #108 _Motoloko_ (Clasificatorio)
-1. #108 _SiameseFightFish_ (Clasificatorio)
-1. #108 _The Wave_ (Clasificatorio)
 1. #108 _UAA pos_ (Clasificatorio)
+1. #108 _Baticholos_ (Clasificatorio)
+1. #108 _SiameseFightFish_ (Clasificatorio)
+1. #108 _Gates-Jobs_ (Clasificatorio)
+1. #108 _Motoloko_ (Clasificatorio)
+1. #108 _Los Omares_ (Clasificatorio)
+1. #108 _The Wave_ (Clasificatorio)
 
 ### 2016-2017
 
 1. #31 _Nac-OS_ (Regional)
 1. #56 _Chinchanpu_ (Regional)
 1. #114 _hidrorayos_ (Clasificatorio)
-1. #121 _BIGUAA_ (Clasificatorio)
-1. #121 _Comegalletas_ (Clasificatorio)
-1. #121 _Jalags_ (Clasificatorio)
-1. #121 _LASTeam_ (Clasificatorio)
-1. #121 _Los Pelones de Breizers_ (Clasificatorio)
-1. #121 _Los Tiempo Límite Excedido_ (Clasificatorio)
 1. #121 _New Tesla_ (Clasificatorio)
+1. #121 _LASTeam_ (Clasificatorio)
 1. #121 _Rabano_ (Clasificatorio)
-1. #121 _Tesla_ (Clasificatorio)
+1. #121 _BIGUAA_ (Clasificatorio)
+1. #121 _Jalags_ (Clasificatorio)
 1. #121 _jaguaar_ (Clasificatorio)
+1. #121 _Los Tiempo Límite Excedido_ (Clasificatorio)
+1. #121 _Tesla_ (Clasificatorio)
+1. #121 _Los Pelones de Breizers_ (Clasificatorio)
+1. #121 _Comegalletas_ (Clasificatorio)
 
 ### 2017-2018
 
@@ -152,8 +152,8 @@
 1. #291 _Server Not Found_ (Clasificatorio)
 1. #312 _Dinamita_ (Clasificatorio)
 1. #333 _Hyper X_ (Clasificatorio)
-1. #405 _Los judas Iscariote_ (Clasificatorio)
 1. #405 _jaguaar_ (Clasificatorio)
+1. #405 _Los judas Iscariote_ (Clasificatorio)
 
 ### 2018-2019
 
@@ -210,10 +210,10 @@
 1. #57 _Crustáceo Cascarudo_ (Regional)
 1. #274 _HoneyCrisps_ (Clasificatorio)
 1. #296 _Chotitas_ (Clasificatorio)
-1. #482 _Montoalrey_ (Clasificatorio)
+1. #482 _include<gallos>_ (Clasificatorio)
 1. #482 _Null&Void_ (Clasificatorio)
 1. #482 _Roosters_ (Clasificatorio)
-1. #482 _include<gallos>_ (Clasificatorio)
+1. #482 _Montoalrey_ (Clasificatorio)
 
 
 

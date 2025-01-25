@@ -2,9 +2,9 @@
 
 ## Mejores 10 equipos
 
-1. _LMENTAL_ resolvió 2 problemas y obtuvo el lugar #56 (66%) en The 2012 Mexico & Central America Regional Contest
-1. _ITS_COALCOMAN_ resolvió 1 problemas y obtuvo el lugar #88 (46%) en The 2011 Mexico & Central America Regional Contest
-1. _ITS_COALCOMAN_ resolvió 0 problemas y obtuvo el lugar #134 (18%) en The 2012 Mexico & Central America Regional Contest
+1. _LMENTAL_ resolvió 2 problemas y obtuvo el lugar #56 (65%) en The 2012 Mexico & Central America Regional Contest
+1. _ITS_COALCOMAN_ resolvió 1 problemas y obtuvo el lugar #88 (45%) en The 2011 Mexico & Central America Regional Contest
+1. _ITS_COALCOMAN_ resolvió 0 problemas y obtuvo el lugar #134 (9%) en The 2012 Mexico & Central America Regional Contest
 
 ## Participaciones
 

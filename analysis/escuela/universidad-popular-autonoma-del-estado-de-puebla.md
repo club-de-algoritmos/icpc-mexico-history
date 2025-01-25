@@ -9,9 +9,9 @@
 1. _McTrio_ resolvió 1 problemas y obtuvo el lugar #107 (91%) en The 2024 ICPC Mexico Finals
 1. _CPU_ resolvió 2 problemas y obtuvo el lugar #44 (90%) en The 2023 ICPC Mexico Finals
 1. _Hakunas_ resolvió 2 problemas y obtuvo el lugar #51 (90%) en The 2016 ACM-ICPC Mexico and Central America Finals
-1. _3 de asada_ resolvió 5 problemas y obtuvo el lugar #115 (89%) en The 2022 ICPC Gran Premio de Mexico
-1. _<bits/team.h>_ resolvió 5 problemas y obtuvo el lugar #118 (89%) en The 2022 ICPC Gran Premio de Mexico
-1. _Array of clowns_ resolvió 7 problemas y obtuvo el lugar #86 (87%) en Gran Premio de Mexico & Centroamerica 2017
+1. _3 de asada_ resolvió 5 problemas y obtuvo el lugar #115 (88%) en The 2022 ICPC Gran Premio de Mexico
+1. _<bits/team.h>_ resolvió 5 problemas y obtuvo el lugar #118 (88%) en The 2022 ICPC Gran Premio de Mexico
+1. _Nous_ resolvió 6 problemas y obtuvo el lugar #70 (84%) en The 2023 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -40,8 +40,8 @@
 
 ### 2007-2008
 
-1. #61 _CCeros_ (Regional)
 1. #61 _Javeros_ (Regional)
+1. #61 _CCeros_ (Regional)
 
 ### 2008-2009
 
@@ -51,15 +51,15 @@
 ### 2015-2016
 
 1. #57 _Hakuna matata_ (Regional)
-1. #108 _FGs_ (Clasificatorio)
 1. #108 _UPAEP Error 404_ (Clasificatorio)
+1. #108 _FGs_ (Clasificatorio)
 
 ### 2016-2017
 
 1. #51 _Hakunas_ (Regional)
-1. #121 _Exodia_ (Clasificatorio)
-1. #121 _Gramados_ (Clasificatorio)
 1. #121 _Tyrion & Co_ (Clasificatorio)
+1. #121 _Gramados_ (Clasificatorio)
+1. #121 _Exodia_ (Clasificatorio)
 
 ### 2017-2018
 

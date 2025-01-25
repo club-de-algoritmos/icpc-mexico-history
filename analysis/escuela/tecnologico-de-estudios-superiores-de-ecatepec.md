@@ -2,12 +2,12 @@
 
 ## Mejores 10 equipos
 
-1. _TESEPEQUENSES_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _Creators of the future_ resolvió 0 problemas y obtuvo el lugar #226 (53%) en The 2021 ICPC Gran Premio de Mexico
-1. _Digital Kutzing of TESE_ resolvió 0 problemas y obtuvo el lugar #226 (53%) en The 2021 ICPC Gran Premio de Mexico
-1. _Ciberneticas TESE_ resolvió 0 problemas y obtuvo el lugar #351 (50%) en Gran Premio de Mexico 2020
-1. _KutzIng_ resolvió 0 problemas y obtuvo el lugar #351 (50%) en Gran Premio de Mexico 2020
-1. _Xok-TESE_ resolvió 0 problemas y obtuvo el lugar #351 (50%) en Gran Premio de Mexico 2020
+1. _KutzIng_ resolvió 0 problemas y obtuvo el lugar #351 (29%) en Gran Premio de Mexico 2020
+1. _Creators of the future_ resolvió 0 problemas y obtuvo el lugar #226 (18%) en The 2021 ICPC Gran Premio de Mexico
+1. _Digital Kutzing of TESE_ resolvió 0 problemas y obtuvo el lugar #226 (17%) en The 2021 ICPC Gran Premio de Mexico
+1. _Xok-TESE_ resolvió 0 problemas y obtuvo el lugar #351 (17%) en Gran Premio de Mexico 2020
+1. _TESEPEQUENSES_ resolvió 0 problemas y obtuvo el lugar #382 (10%) en The 2022 ICPC Gran Premio de Mexico
+1. _Ciberneticas TESE_ resolvió 0 problemas y obtuvo el lugar #351 (6%) en Gran Premio de Mexico 2020
 
 ## Participaciones
 
@@ -22,9 +22,9 @@
 
 ### 2020-2021
 
-1. #351 _Ciberneticas TESE_ (Clasificatorio)
 1. #351 _KutzIng_ (Clasificatorio)
 1. #351 _Xok-TESE_ (Clasificatorio)
+1. #351 _Ciberneticas TESE_ (Clasificatorio)
 
 ### 2021-2022
 

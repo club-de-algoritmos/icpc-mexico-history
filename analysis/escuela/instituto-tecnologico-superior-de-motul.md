@@ -2,13 +2,13 @@
 
 ## Mejores 10 equipos
 
-1. _Felinos6_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Felinos8_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _felinos 1_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _felinos 2_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _felinos 3_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _felinos 4_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _ISC-Motul_ resolvió 0 problemas y obtuvo el lugar #351 (50%) en Gran Premio de Mexico 2020
+1. _Felinos8_ obtuvo el lugar #382 (58%) en Gran Premio de Mexico 2019
+1. _felinos 1_ obtuvo el lugar #382 (43%) en Gran Premio de Mexico 2019
+1. _ISC-Motul_ resolvió 0 problemas y obtuvo el lugar #351 (27%) en Gran Premio de Mexico 2020
+1. _Felinos6_ obtuvo el lugar #382 (21%) en Gran Premio de Mexico 2019
+1. _felinos 4_ obtuvo el lugar #382 (15%) en Gran Premio de Mexico 2019
+1. _felinos 2_ obtuvo el lugar #382 (11%) en Gran Premio de Mexico 2019
+1. _felinos 3_ obtuvo el lugar #382 (5%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 
@@ -22,12 +22,12 @@
 
 ### 2019-2020
 
-1. #382 (#100 de TecNM) _Felinos6_ (Clasificatorio)
 1. #382 (#100 de TecNM) _Felinos8_ (Clasificatorio)
 1. #382 (#100 de TecNM) _felinos 1_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Felinos6_ (Clasificatorio)
+1. #382 (#100 de TecNM) _felinos 4_ (Clasificatorio)
 1. #382 (#100 de TecNM) _felinos 2_ (Clasificatorio)
 1. #382 (#100 de TecNM) _felinos 3_ (Clasificatorio)
-1. #382 (#100 de TecNM) _felinos 4_ (Clasificatorio)
 
 ### 2020-2021
 

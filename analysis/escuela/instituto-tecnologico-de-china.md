@@ -2,7 +2,7 @@
 
 ## Mejores 10 equipos
 
-1. _TOROS BYTE_ resolvió 0 problemas y obtuvo el lugar #351 (50%) en Gran Premio de Mexico 2020
+1. _TOROS BYTE_ resolvió 0 problemas y obtuvo el lugar #351 (15%) en Gran Premio de Mexico 2020
 
 ## Participaciones
 

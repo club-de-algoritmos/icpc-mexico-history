@@ -3,15 +3,15 @@
 ## Mejores 10 equipos
 
 1. _Equipapoi_ resolvió 5 problemas y obtuvo el lugar #134 (87%) en The 2022 ICPC Gran Premio de Mexico
-1. _La_secta_de_Namjoon;_ resolvió 4 problemas y obtuvo el lugar #147 (86%) en The 2022 ICPC Gran Premio de Mexico
-1. _Spartans_ resolvió 4 problemas y obtuvo el lugar #146 (78%) en Gran Premio de Mexico & Centroamerica 2017
+1. _La_secta_de_Namjoon;_ resolvió 4 problemas y obtuvo el lugar #147 (85%) en The 2022 ICPC Gran Premio de Mexico
 1. _Los bellos durmientes_ resolvió 2 problemas y obtuvo el lugar #238 (77%) en The 2022 ICPC Gran Premio de Mexico
-1. _Anonimos_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
-1. _Biorenegados_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
-1. _Los Héroes del Norte_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
-1. _Los fabulosos Cadillacs_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
-1. _Team Masters_ resolvió 3 problemas y obtuvo el lugar #157 (76%) en Gran Premio de Mexico & Centroamerica 2017
-1. _Dinamita AEO_ resolvió 3 problemas y obtuvo el lugar #159 (76%) en Gran Premio de Mexico & Centroamerica 2017
+1. _Ragnarok_ resolvió 1 problemas y obtuvo el lugar #303 (76%) en Gran Premio de Mexico 2019
+1. _Spartans_ resolvió 4 problemas y obtuvo el lugar #146 (74%) en Gran Premio de Mexico & Centroamerica 2017
+1. _Team Masters_ resolvió 3 problemas y obtuvo el lugar #157 (73%) en Gran Premio de Mexico & Centroamerica 2017
+1. _Dinamita AEO_ resolvió 3 problemas y obtuvo el lugar #159 (73%) en Gran Premio de Mexico & Centroamerica 2017
+1. _LOS JAVEROS_ resolvió 2 problemas y obtuvo el lugar #46 (72%) en The 2012 Mexico & Central America Regional Contest
+1. _Los luquines_ resolvió 3 problemas y obtuvo el lugar #161 (72%) en Gran Premio de Mexico & Centroamerica 2017
+1. _RRQ_ resolvió 2 problemas y obtuvo el lugar #299 (72%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -42,9 +42,9 @@
 
 ### 2011-2012
 
+1. #104 (#35 de TecNM) _NEOCUANTIC_ (Regional)
 1. #104 (#35 de TecNM) _Espartanos_ (Regional)
 1. #104 (#35 de TecNM) _LOS JAVEROS_ (Regional)
-1. #104 (#35 de TecNM) _NEOCUANTIC_ (Regional)
 
 ### 2012-2013
 
@@ -59,14 +59,14 @@
 
 ### 2015-2016
 
-1. #108 (#28 de TecNM) _Hades Kerbes_ (Clasificatorio)
 1. #108 (#28 de TecNM) _Tres Mosqueteros_ (Clasificatorio)
+1. #108 (#28 de TecNM) _Hades Kerbes_ (Clasificatorio)
 
 ### 2016-2017
 
 1. #121 (#22 de TecNM) _Anonimos_ (Clasificatorio)
-1. #121 (#22 de TecNM) _Biorenegados_ (Clasificatorio)
 1. #121 (#22 de TecNM) _Los Héroes del Norte_ (Clasificatorio)
+1. #121 (#22 de TecNM) _Biorenegados_ (Clasificatorio)
 1. #121 (#22 de TecNM) _Los fabulosos Cadillacs_ (Clasificatorio)
 
 ### 2017-2018
@@ -82,8 +82,8 @@
 1. #388 (#90 de TecNM) _TORO MAX_ (Clasificatorio)
 1. #402 (#95 de TecNM) _Hades Kerbes_ (Clasificatorio)
 1. #405 (#97 de TecNM) _BLACK MEN_ (Clasificatorio)
-1. #405 (#97 de TecNM) _Team Alpha_ (Clasificatorio)
 1. #405 (#97 de TecNM) _Zarflopie_ (Clasificatorio)
+1. #405 (#97 de TecNM) _Team Alpha_ (Clasificatorio)
 
 ### 2018-2019
 
@@ -97,17 +97,17 @@
 1. #303 (#65 de TecNM) _Ragnarok_ (Clasificatorio)
 1. #368 (#92 de TecNM) _The Arrayngers_ (Clasificatorio)
 1. #377 (#99 de TecNM) _The Yutas_ (Clasificatorio)
-1. #382 (#100 de TecNM) _INDEFINIDO_ (Clasificatorio)
 1. #382 (#100 de TecNM) _Jarvis_ (Clasificatorio)
 1. #382 (#100 de TecNM) _LEA_ (Clasificatorio)
 1. #382 (#100 de TecNM) _Los Bisteks_ (Clasificatorio)
+1. #382 (#100 de TecNM) _INDEFINIDO_ (Clasificatorio)
 
 ### 2020-2021
 
 1. #339 (#58 de TecNM) _IEEE CS Pátzware_ (Clasificatorio)
 1. #351 (#65 de TecNM) _RASLT_DEDSEC_ (Clasificatorio)
-1. #351 (#65 de TecNM) _RASLT_Ragnarok_ (Clasificatorio)
 1. #351 (#65 de TecNM) _Sintaxis Error - S3_ (Clasificatorio)
+1. #351 (#65 de TecNM) _RASLT_Ragnarok_ (Clasificatorio)
 
 ### 2021-2022
 
@@ -120,8 +120,8 @@
 1. #147 (#26 de TecNM) _La_secta_de_Namjoon;_ (Clasificatorio)
 1. #238 (#46 de TecNM) _Los bellos durmientes_ (Clasificatorio)
 1. #299 (#55 de TecNM) _RRQ_ (Clasificatorio)
-1. #382 (#83 de TecNM) _Los trifantasticos_ (Clasificatorio)
 1. #382 (#83 de TecNM) _Sopa de Codito_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Los trifantasticos_ (Clasificatorio)
 
 ### 2023-2024
 

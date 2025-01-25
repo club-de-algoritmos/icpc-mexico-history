@@ -2,14 +2,14 @@
 
 ## Mejores 10 equipos
 
-1. _“Los Casimiritos”_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Code Warriors_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _Error404_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _Proyecto Génesis_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _Sistemas1_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _Sistemas2_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _Sistemas3_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _Sistemas4_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _“Los Casimiritos”_ obtuvo el lugar #382 (38%) en Gran Premio de Mexico 2019
+1. _Code Warriors_ resolvió 0 problemas y obtuvo el lugar #382 (25%) en The 2022 ICPC Gran Premio de Mexico
+1. _Error404_ resolvió 0 problemas y obtuvo el lugar #382 (24%) en The 2022 ICPC Gran Premio de Mexico
+1. _Proyecto Génesis_ resolvió 0 problemas y obtuvo el lugar #382 (23%) en The 2022 ICPC Gran Premio de Mexico
+1. _Sistemas1_ resolvió 0 problemas y obtuvo el lugar #382 (13%) en The 2022 ICPC Gran Premio de Mexico
+1. _Sistemas2_ resolvió 0 problemas y obtuvo el lugar #382 (9%) en The 2022 ICPC Gran Premio de Mexico
+1. _Sistemas3_ resolvió 0 problemas y obtuvo el lugar #382 (9%) en The 2022 ICPC Gran Premio de Mexico
+1. _Sistemas4_ resolvió 0 problemas y obtuvo el lugar #382 (9%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 

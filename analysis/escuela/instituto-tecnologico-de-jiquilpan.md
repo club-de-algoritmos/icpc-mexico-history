@@ -2,16 +2,16 @@
 
 ## Mejores 10 equipos
 
-1. _Halcones-ISIC-1_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _Halcones-ISIC-2_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _Halcones-ISIC-3_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _HalconesJiq_ resolvió 0 problemas y obtuvo el lugar #351 (50%) en Gran Premio de Mexico 2020
-1. _Anonimos ITJ_ resolvió 0 problemas y obtuvo el lugar #395 (48%) en Gran Premio de Mexico 2018
-1. _Black and White_ resolvió 0 problemas y obtuvo el lugar #395 (48%) en Gran Premio de Mexico 2018
-1. _Death Code_ resolvió 0 problemas y obtuvo el lugar #395 (48%) en Gran Premio de Mexico 2018
-1. _Equipo B.O.M.A.I.D._ resolvió 0 problemas y obtuvo el lugar #395 (48%) en Gran Premio de Mexico 2018
-1. _HexaBytes_ resolvió 0 problemas y obtuvo el lugar #395 (48%) en Gran Premio de Mexico 2018
-1. _Last King_ resolvió 0 problemas y obtuvo el lugar #395 (48%) en Gran Premio de Mexico 2018
+1. _Halcones-ISIC-1_ resolvió 0 problemas y obtuvo el lugar #382 (61%) en The 2022 ICPC Gran Premio de Mexico
+1. _Halcones-ISIC-2_ resolvió 0 problemas y obtuvo el lugar #382 (60%) en The 2022 ICPC Gran Premio de Mexico
+1. _Halcones-ISIC-3_ resolvió 0 problemas y obtuvo el lugar #382 (29%) en The 2022 ICPC Gran Premio de Mexico
+1. _Los ATM_ resolvió 0 problemas y obtuvo el lugar #395 (21%) en Gran Premio de Mexico 2018
+1. _HexaBytes_ resolvió 0 problemas y obtuvo el lugar #395 (19%) en Gran Premio de Mexico 2018
+1. _Anonimos ITJ_ resolvió 0 problemas y obtuvo el lugar #395 (13%) en Gran Premio de Mexico 2018
+1. _Last King_ resolvió 0 problemas y obtuvo el lugar #395 (12%) en Gran Premio de Mexico 2018
+1. _Los Guadalupanos_ resolvió 0 problemas y obtuvo el lugar #395 (11%) en Gran Premio de Mexico 2018
+1. _Titán_ resolvió 0 problemas y obtuvo el lugar #395 (10%) en Gran Premio de Mexico 2018
+1. _Death Code_ resolvió 0 problemas y obtuvo el lugar #395 (9%) en Gran Premio de Mexico 2018
 
 ## Participaciones
 
@@ -26,17 +26,17 @@
 
 ### 2018-2019
 
-1. #395 (#160 de TecNM) _Anonimos ITJ_ (Clasificatorio)
-1. #395 (#160 de TecNM) _Black and White_ (Clasificatorio)
-1. #395 (#160 de TecNM) _Death Code_ (Clasificatorio)
-1. #395 (#160 de TecNM) _Equipo B.O.M.A.I.D._ (Clasificatorio)
-1. #395 (#160 de TecNM) _HexaBytes_ (Clasificatorio)
-1. #395 (#160 de TecNM) _Last King_ (Clasificatorio)
 1. #395 (#160 de TecNM) _Los ATM_ (Clasificatorio)
+1. #395 (#160 de TecNM) _HexaBytes_ (Clasificatorio)
+1. #395 (#160 de TecNM) _Anonimos ITJ_ (Clasificatorio)
+1. #395 (#160 de TecNM) _Last King_ (Clasificatorio)
 1. #395 (#160 de TecNM) _Los Guadalupanos_ (Clasificatorio)
+1. #395 (#160 de TecNM) _Titán_ (Clasificatorio)
+1. #395 (#160 de TecNM) _Death Code_ (Clasificatorio)
 1. #395 (#160 de TecNM) _Los Halcones_ (Clasificatorio)
 1. #395 (#160 de TecNM) _Los Padrinos_ (Clasificatorio)
-1. #395 (#160 de TecNM) _Titán_ (Clasificatorio)
+1. #395 (#160 de TecNM) _Equipo B.O.M.A.I.D._ (Clasificatorio)
+1. #395 (#160 de TecNM) _Black and White_ (Clasificatorio)
 
 ### 2020-2021
 

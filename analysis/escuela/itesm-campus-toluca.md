@@ -2,16 +2,16 @@
 
 ## Mejores 10 equipos
 
-1. _Lxs Pixies_ resolvió 7 problemas y obtuvo el lugar #94 (91%) en The 2022 ICPC Gran Premio de Mexico
 1. _BugHunterAddicts_ resolvió 1 problemas y obtuvo el lugar #49 (90%) en The 2021 ICPC Mexico Finals
+1. _Lxs Pixies_ resolvió 7 problemas y obtuvo el lugar #94 (90%) en The 2022 ICPC Gran Premio de Mexico
 1. _Siuuu++_ resolvió 1 problemas y obtuvo el lugar #51 (89%) en The 2023 ICPC Mexico Finals
-1. _Googol_ resolvió 7 problemas y obtuvo el lugar #88 (86%) en Gran Premio de Mexico & Centroamerica 2017
-1. _Shalusco_ resolvió 5 problemas y obtuvo el lugar #208 (83%) en The 2024 ICPC Gran Premio de Mexico
-1. _Los Tlacuaches de Turín_ resolvió 5 problemas y obtuvo el lugar #93 (80%) en The 2023 ICPC Gran Premio de Mexico
-1. _ARM_ resolvió 4 problemas y obtuvo el lugar #134 (80%) en Gran Premio de Mexico & Centroamerica 2017
-1. _Los Tlacuaches de Turín_ resolvió 3 problemas y obtuvo el lugar #223 (79%) en The 2022 ICPC Gran Premio de Mexico
+1. _Googol_ resolvió 7 problemas y obtuvo el lugar #88 (82%) en Gran Premio de Mexico & Centroamerica 2017
+1. _Shalusco_ resolvió 5 problemas y obtuvo el lugar #208 (81%) en The 2024 ICPC Gran Premio de Mexico
+1. _Los Tlacuaches de Turín_ resolvió 5 problemas y obtuvo el lugar #93 (79%) en The 2023 ICPC Gran Premio de Mexico
 1. _TTTeam_ resolvió 3 problemas y obtuvo el lugar #44 (78%) en The 2010 Mexico & Central America Regional Contest
-1. _Siuuu++_ resolvió 4 problemas y obtuvo el lugar #244 (77%) en The 2022 ICPC Gran Premio de Mexico
+1. _Los Tlacuaches de Turín_ resolvió 3 problemas y obtuvo el lugar #223 (78%) en The 2022 ICPC Gran Premio de Mexico
+1. _ARM_ resolvió 4 problemas y obtuvo el lugar #134 (76%) en Gran Premio de Mexico & Centroamerica 2017
+1. _Siuuu++_ resolvió 4 problemas y obtuvo el lugar #244 (76%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -68,8 +68,8 @@
 1. #134 (#35 de ITESM) _ARM_ (Clasificatorio)
 1. #210 (#45 de ITESM) _Abelord's Children_ (Clasificatorio)
 1. #389 (#66 de ITESM) _ALB_ (Clasificatorio)
-1. #405 (#69 de ITESM) _Madre mia Willy_ (Clasificatorio)
 1. #405 (#69 de ITESM) _Trycatch_ (Clasificatorio)
+1. #405 (#69 de ITESM) _Madre mia Willy_ (Clasificatorio)
 
 ### 2020-2021
 

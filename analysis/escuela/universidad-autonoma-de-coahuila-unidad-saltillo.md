@@ -5,13 +5,13 @@
 1. _Supernovas_ resolvió 3 problemas y obtuvo el lugar #12 (98%) en The 2017 ACM-ICPC Mexico and Central America Finals
 1. _Los Choquistas 2.0_ resolvió 5 problemas y obtuvo el lugar #15 (98%) en The 2018 ICPC Mexico and Central America Finals
 1. _Let it C_ resolvió 7 problemas y obtuvo el lugar #100 (92%) en Gran Premio de Mexico 2019
-1. _Error (╯°□°)╯︵ ┻━┻ ɹoɹɹƎ_ resolvió 7 problemas y obtuvo el lugar #106 (92%) en Gran Premio de Mexico 2019
+1. _Error (╯°□°)╯︵ ┻━┻ ɹoɹɹƎ_ resolvió 7 problemas y obtuvo el lugar #106 (91%) en Gran Premio de Mexico 2019
 1. _Ignite_ resolvió 5 problemas y obtuvo el lugar #125 (90%) en Gran Premio de Mexico 2019
 1. _Grafoliebers (╯°□°)╯︵ ɹoɹɹƎ_ resolvió 1 problemas y obtuvo el lugar #77 (89%) en The 2017 ACM-ICPC Mexico and Central America Finals
-1. _Grafoliebers_ resolvió 8 problemas y obtuvo el lugar #70 (87%) en Gran Premio de Mexico 2018
-1. _The Little Kruskals_ resolvió 7 problemas y obtuvo el lugar #85 (87%) en Gran Premio de Mexico & Centroamerica 2017
-1. _Let it C_ resolvió 9 problemas y obtuvo el lugar #80 (86%) en Gran Premio de Mexico 2018
+1. _Grafoliebers_ resolvió 8 problemas y obtuvo el lugar #70 (86%) en Gran Premio de Mexico 2018
 1. _Jajajava_ resolvió 4 problemas y obtuvo el lugar #176 (86%) en Gran Premio de Mexico 2019
+1. _Let it C_ resolvió 9 problemas y obtuvo el lugar #80 (85%) en Gran Premio de Mexico 2018
+1. _Isanse_ resolvió 3 problemas y obtuvo el lugar #209 (84%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 

@@ -2,16 +2,16 @@
 
 ## Mejores 10 equipos
 
-1. _CompoundBread_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Procode_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _COMIHACKS_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _SERVERS SQUAD_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _QUIMERA TEAM_ resolvió 1 problemas y obtuvo el lugar #440 (64%) en The 2024 ICPC Gran Premio de Mexico
 1. _LOS SEMI SENIORS_ resolvió 1 problemas y obtuvo el lugar #452 (63%) en The 2024 ICPC Gran Premio de Mexico
-1. _SQUAD SERVERS_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
-1. _BynaryBeast1_ resolvió 0 problemas y obtuvo el lugar #226 (53%) en The 2021 ICPC Gran Premio de Mexico
-1. _Tecno_Code_ resolvió 0 problemas y obtuvo el lugar #226 (53%) en The 2021 ICPC Gran Premio de Mexico
-1. _QUIMERA TEAM_ resolvió 2 problemas y obtuvo el lugar #342 (24%) en The 2023 ICPC Gran Premio de Mexico
+1. _CompoundBread_ obtuvo el lugar #382 (56%) en Gran Premio de Mexico 2019
+1. _BynaryBeast1_ resolvió 0 problemas y obtuvo el lugar #226 (41%) en The 2021 ICPC Gran Premio de Mexico
+1. _Tecno_Code_ resolvió 0 problemas y obtuvo el lugar #226 (41%) en The 2021 ICPC Gran Premio de Mexico
+1. _COMIHACKS_ resolvió 0 problemas y obtuvo el lugar #382 (29%) en The 2022 ICPC Gran Premio de Mexico
+1. _QUIMERA TEAM_ resolvió 2 problemas y obtuvo el lugar #342 (25%) en The 2023 ICPC Gran Premio de Mexico
+1. _SQUAD SERVERS_ resolvió 0 problemas y obtuvo el lugar #482 (23%) en The 2024 ICPC Gran Premio de Mexico
+1. _SERVERS SQUAD_ resolvió 0 problemas y obtuvo el lugar #382 (2%) en The 2022 ICPC Gran Premio de Mexico
+1. _Procode_ obtuvo el lugar #382 (1%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 

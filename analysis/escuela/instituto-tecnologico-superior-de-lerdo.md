@@ -3,15 +3,15 @@
 ## Mejores 10 equipos
 
 1. _MASTER.NET_ resolvió 6 problemas y obtuvo el lugar #113 (91%) en Gran Premio de Mexico 2019
-1. _THE MASTER_ resolvió 9 problemas y obtuvo el lugar #81 (88%) en Gran Premio de Mexico 2020
-1. _The Walker_ resolvió 5 problemas y obtuvo el lugar #141 (87%) en The 2022 ICPC Gran Premio de Mexico
-1. _Guardians_ resolvió 4 problemas y obtuvo el lugar #148 (86%) en The 2022 ICPC Gran Premio de Mexico
+1. _THE MASTER_ resolvió 9 problemas y obtuvo el lugar #81 (87%) en Gran Premio de Mexico 2020
+1. _The Walker_ resolvió 5 problemas y obtuvo el lugar #141 (86%) en The 2022 ICPC Gran Premio de Mexico
 1. _The Last Fad_ resolvió 3 problemas y obtuvo el lugar #26 (85%) en The 2012 Mexico & Central America Regional Contest
 1. _MASTER.NET_ resolvió 2 problemas y obtuvo el lugar #75 (85%) en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _Guardians_ resolvió 4 problemas y obtuvo el lugar #148 (85%) en The 2022 ICPC Gran Premio de Mexico
 1. _Hi Universe_ resolvió 3 problemas y obtuvo el lugar #156 (85%) en The 2022 ICPC Gran Premio de Mexico
-1. _MASTER.NET_ resolvió 5 problemas y obtuvo el lugar #111 (83%) en Gran Premio de Mexico & Centroamerica 2017
-1. _ZaGa Team_ resolvió 5 problemas y obtuvo el lugar #211 (83%) en The 2024 ICPC Gran Premio de Mexico
 1. _WHITE_SPACE_ resolvió 3 problemas y obtuvo el lugar #223 (83%) en Gran Premio de Mexico 2019
+1. _ZaGa Team_ resolvió 5 problemas y obtuvo el lugar #211 (81%) en The 2024 ICPC Gran Premio de Mexico
+1. _Strix_ resolvió 5 problemas y obtuvo el lugar #215 (81%) en The 2024 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -42,9 +42,9 @@
 
 ### 2005-2006
 
-1. #85 (#12 de TecNM) _Correcaminos Lerdo_ (Regional)
-1. #85 (#12 de TecNM) _ITSL Lerdo_ (Regional)
 1. #85 (#12 de TecNM) _Laguneros Lerdo_ (Regional)
+1. #85 (#12 de TecNM) _ITSL Lerdo_ (Regional)
+1. #85 (#12 de TecNM) _Correcaminos Lerdo_ (Regional)
 
 ### 2007-2008
 
@@ -84,8 +84,8 @@
 
 ### 2013-2014
 
-1. #95 (#24 de TecNM) _KL_ (Regional)
 1. #95 (#24 de TecNM) _NULL_ (Regional)
+1. #95 (#24 de TecNM) _KL_ (Regional)
 1. #95 (#24 de TecNM) _POK_ (Regional)
 
 ### 2014-2015
@@ -93,29 +93,29 @@
 1. #142 (#34 de TecNM) _NULL_ (Clasificatorio)
 1. #174 (#45 de TecNM) _Triforce_ (Clasificatorio)
 1. #188 (#49 de TecNM) _Dudekashell_ (Clasificatorio)
+1. #204 (#57 de TecNM) _Los que sean_ (Clasificatorio)
 1. #204 (#57 de TecNM) _Cumbayos_ (Clasificatorio)
 1. #204 (#57 de TecNM) _Dos Mortales y un Dios_ (Clasificatorio)
-1. #204 (#57 de TecNM) _Los que sean_ (Clasificatorio)
 1. #204 (#57 de TecNM) _Vengadores_ (Clasificatorio)
 
 ### 2015-2016
 
 1. #76 (#15 de TecNM) _MASTER.NET_ (Regional)
 1. #108 (#28 de TecNM) _11Progamadores_ (Clasificatorio)
-1. #108 (#28 de TecNM) _LOS CEGGOS_ (Clasificatorio)
-1. #108 (#28 de TecNM) _PandemixSoft_ (Clasificatorio)
 1. #108 (#28 de TecNM) _m&m_ (Clasificatorio)
+1. #108 (#28 de TecNM) _PandemixSoft_ (Clasificatorio)
+1. #108 (#28 de TecNM) _LOS CEGGOS_ (Clasificatorio)
 
 ### 2016-2017
 
 1. #75 (#13 de TecNM) _MASTER.NET_ (Regional)
-1. #121 (#22 de TecNM) _AMM_ (Clasificatorio)
-1. #121 (#22 de TecNM) _Alfa_ (Clasificatorio)
-1. #121 (#22 de TecNM) _CCMAS_ (Clasificatorio)
 1. #121 (#22 de TecNM) _JAVAJAVADO_ (Clasificatorio)
-1. #121 (#22 de TecNM) _Lozano´s_ (Clasificatorio)
 1. #121 (#22 de TecNM) _Silver Coding_ (Clasificatorio)
+1. #121 (#22 de TecNM) _Lozano´s_ (Clasificatorio)
 1. #121 (#22 de TecNM) _Tec-2Net_ (Clasificatorio)
+1. #121 (#22 de TecNM) _Alfa_ (Clasificatorio)
+1. #121 (#22 de TecNM) _AMM_ (Clasificatorio)
+1. #121 (#22 de TecNM) _CCMAS_ (Clasificatorio)
 
 ### 2017-2018
 
@@ -152,18 +152,18 @@
 1. #324 (#53 de TecNM) _Blue_ (Clasificatorio)
 1. #344 (#60 de TecNM) _The Best Team_ (Clasificatorio)
 1. #351 (#65 de TecNM) _ABC_ (Clasificatorio)
-1. #351 (#65 de TecNM) _LerdoOne_ (Clasificatorio)
-1. #351 (#65 de TecNM) _PrimeC_ (Clasificatorio)
 1. #351 (#65 de TecNM) _ProgBots_ (Clasificatorio)
+1. #351 (#65 de TecNM) _PrimeC_ (Clasificatorio)
+1. #351 (#65 de TecNM) _LerdoOne_ (Clasificatorio)
 
 ### 2021-2022
 
 1. #121 (#10 de TecNM) _G2_ (Clasificatorio)
 1. #205 (#28 de TecNM) _PCF Team_ (Clasificatorio)
 1. #226 (#37 de TecNM) _Blue 2.0_ (Clasificatorio)
-1. #226 (#37 de TecNM) _MixTeam_ (Clasificatorio)
 1. #226 (#37 de TecNM) _PrimeC_ (Clasificatorio)
 1. #226 (#37 de TecNM) _Titan_ (Clasificatorio)
+1. #226 (#37 de TecNM) _MixTeam_ (Clasificatorio)
 
 ### 2022-2023
 
@@ -174,12 +174,12 @@
 1. #293 (#54 de TecNM) _TerceroLerdo_ (Clasificatorio)
 1. #326 (#62 de TecNM) _Titan_ (Clasificatorio)
 1. #336 (#68 de TecNM) _Blue 3.0_ (Clasificatorio)
-1. #382 (#83 de TecNM) _Gameshackers_ (Clasificatorio)
-1. #382 (#83 de TecNM) _LerdoEsfuerzo_ (Clasificatorio)
 1. #382 (#83 de TecNM) _Los 3_ (Clasificatorio)
 1. #382 (#83 de TecNM) _Los trillizos_ (Clasificatorio)
 1. #382 (#83 de TecNM) _Pollos Hermanos_ (Clasificatorio)
+1. #382 (#83 de TecNM) _LerdoEsfuerzo_ (Clasificatorio)
 1. #382 (#83 de TecNM) _PrimeroPro_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Gameshackers_ (Clasificatorio)
 
 ### 2023-2024
 
@@ -210,8 +210,8 @@
 1. #367 (#81 de TecNM) _Team Waos_ (Clasificatorio)
 1. #478 (#112 de TecNM) _Softgirls_ (Clasificatorio)
 1. #481 (#113 de TecNM) _Flecha_ (Clasificatorio)
-1. #482 (#114 de TecNM) _ALGAmigos_ (Clasificatorio)
 1. #482 (#114 de TecNM) _The Paragonsitos_ (Clasificatorio)
+1. #482 (#114 de TecNM) _ALGAmigos_ (Clasificatorio)
 
 
 

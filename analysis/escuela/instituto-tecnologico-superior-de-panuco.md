@@ -2,16 +2,16 @@
 
 ## Mejores 10 equipos
 
-1. _Hackers_ resolvió 2 problemas y obtuvo el lugar #37 (74%) en The 2005 ACM Mexico and Central America Programming Contest
-1. _ITSP1_ resolvió 0 problemas y obtuvo el lugar #27 (72%) en The 2002 ACM Mexico and Central America Programming Contest
-1. _ITSP2_ resolvió 0 problemas y obtuvo el lugar #27 (72%) en The 2002 ACM Mexico and Central America Programming Contest
-1. _ITSP3_ resolvió 0 problemas y obtuvo el lugar #27 (72%) en The 2002 ACM Mexico and Central America Programming Contest
-1. _hard disk_ resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
-1. _Breakers_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _Los caimancitos_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _TECNO BOYS_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _TECNO CAIMANES_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _ITSP-1_ resolvió 0 problemas y obtuvo el lugar #41 (62%) en The 2003 ACM Mexico and Central America Programming Contest
+1. _Hackers_ resolvió 2 problemas y obtuvo el lugar #37 (78%) en The 2005 ACM Mexico and Central America Programming Contest
+1. _ITSP-1_ resolvió 0 problemas y obtuvo el lugar #41 (56%) en The 2003 ACM Mexico and Central America Programming Contest
+1. _ITSPanuco_ resolvió 0 problemas y obtuvo el lugar #61 (55%) en The 2007 ACM Mexico and Central America Programming Contest
+1. _The JMV_ resolvió 0 problemas y obtuvo el lugar #61 (55%) en The 2007 ACM Mexico and Central America Programming Contest
+1. _puntero_ resolvió 1 problemas y obtuvo el lugar #79 (55%) en The 2005 ACM Mexico and Central America Programming Contest
+1. _ITSPánuco 1_ resolvió 1 problemas y obtuvo el lugar #54 (53%) en The 2004 ACM Mexico and Central America Programming Contest
+1. _Los viajeros del ITSP_ resolvió 1 problemas y obtuvo el lugar #87 (51%) en The 2013 Mexico & Central America Regional Contest
+1. _ITSP2_ resolvió 0 problemas y obtuvo el lugar #41 (49%) en The 2003 ACM Mexico and Central America Programming Contest
+1. _ITSP1_ resolvió 0 problemas y obtuvo el lugar #27 (47%) en The 2002 ACM Mexico and Central America Programming Contest
+1. _ITSP2_ resolvió 0 problemas y obtuvo el lugar #27 (46%) en The 2002 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 
@@ -90,10 +90,10 @@
 
 ### 2022-2023
 
-1. #382 (#83 de TecNM) _Breakers_ (Clasificatorio)
 1. #382 (#83 de TecNM) _Los caimancitos_ (Clasificatorio)
 1. #382 (#83 de TecNM) _TECNO BOYS_ (Clasificatorio)
 1. #382 (#83 de TecNM) _TECNO CAIMANES_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Breakers_ (Clasificatorio)
 
 
 

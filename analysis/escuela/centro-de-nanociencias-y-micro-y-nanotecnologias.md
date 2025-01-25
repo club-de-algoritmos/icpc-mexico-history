@@ -7,9 +7,9 @@
 1. _Hijos de Turing_ resolvió 4 problemas y obtuvo el lugar #28 (96%) en The 2020 ICPC Mexico Finals
 1. _Sereno el Fullereno_ resolvió 3 problemas y obtuvo el lugar #25 (95%) en The 2021 ICPC Mexico Finals
 1. _Sereno El Fullereno_ resolvió 2 problemas y obtuvo el lugar #45 (90%) en The 2023 ICPC Mexico Finals
-1. _int bellakos = 3;_ resolvió 5 problemas y obtuvo el lugar #136 (87%) en The 2022 ICPC Gran Premio de Mexico
+1. _int bellakos = 3;_ resolvió 5 problemas y obtuvo el lugar #136 (86%) en The 2022 ICPC Gran Premio de Mexico
 1. _Programamis_ resolvió 5 problemas y obtuvo el lugar #143 (86%) en The 2022 ICPC Gran Premio de Mexico
-1. _Bypass Space_ resolvió 4 problemas y obtuvo el lugar #152 (86%) en The 2022 ICPC Gran Premio de Mexico
+1. _Bypass Space_ resolvió 4 problemas y obtuvo el lugar #152 (85%) en The 2022 ICPC Gran Premio de Mexico
 1. _Programamis_ resolvió 6 problemas y obtuvo el lugar #81 (82%) en The 2023 ICPC Gran Premio de Mexico
 1. _Ángstroms_ resolvió 2 problemas y obtuvo el lugar #134 (72%) en The 2021 ICPC Gran Premio de Mexico
 

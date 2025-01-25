@@ -2,16 +2,16 @@
 
 ## Mejores 10 equipos
 
-1. _EquipoZit1_ resolvió 2 problemas y obtuvo el lugar #267 (64%) en Gran Premio de Mexico 2018
-1. _Los 3.1416_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _EquipoZit1_ resolvió 2 problemas y obtuvo el lugar #267 (63%) en Gran Premio de Mexico 2018
 1. _EquipoZit3_ resolvió 1 problemas y obtuvo el lugar #343 (54%) en Gran Premio de Mexico 2018
 1. _EquipoZit2_ resolvió 1 problemas y obtuvo el lugar #352 (53%) en Gran Premio de Mexico 2018
-1. _ITZitacuaro1_ resolvió 0 problemas y obtuvo el lugar #104 (36%) en The 2011 Mexico & Central America Regional Contest
-1. _ITZitacuaro2_ resolvió 0 problemas y obtuvo el lugar #104 (36%) en The 2011 Mexico & Central America Regional Contest
-1. _ITZitacuaro3_ resolvió 0 problemas y obtuvo el lugar #104 (36%) en The 2011 Mexico & Central America Regional Contest
 1. _ITZit2_ resolvió 1 problemas y obtuvo el lugar #130 (35%) en The 2010 Mexico & Central America Regional Contest
+1. _ITZitacuaro2_ resolvió 0 problemas y obtuvo el lugar #104 (34%) en The 2011 Mexico & Central America Regional Contest
+1. _Los 3.1416_ resolvió 0 problemas y obtuvo el lugar #382 (33%) en The 2022 ICPC Gran Premio de Mexico
 1. _ITZit1_ resolvió 1 problemas y obtuvo el lugar #138 (31%) en The 2010 Mexico & Central America Regional Contest
 1. _ITZit3_ resolvió 1 problemas y obtuvo el lugar #139 (30%) en The 2010 Mexico & Central America Regional Contest
+1. _itzitacuaro 2_ resolvió 1 problemas y obtuvo el lugar #116 (29%) en The 2012 Mexico & Central America Regional Contest
+1. _itzitacuaro 1_ resolvió 0 problemas y obtuvo el lugar #134 (7%) en The 2012 Mexico & Central America Regional Contest
 
 ## Participaciones
 
@@ -34,9 +34,9 @@
 
 ### 2011-2012
 
-1. #104 (#35 de TecNM) _ITZitacuaro1_ (Regional)
 1. #104 (#35 de TecNM) _ITZitacuaro2_ (Regional)
 1. #104 (#35 de TecNM) _ITZitacuaro3_ (Regional)
+1. #104 (#35 de TecNM) _ITZitacuaro1_ (Regional)
 
 ### 2012-2013
 

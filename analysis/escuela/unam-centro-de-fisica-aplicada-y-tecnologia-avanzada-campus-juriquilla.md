@@ -2,8 +2,8 @@
 
 ## Mejores 10 equipos
 
-1. _PIC_ resolvió 4 problemas y obtuvo el lugar #188 (72%) en Gran Premio de Mexico & Centroamerica 2017
-1. _VICTOREM_ resolvió 0 problemas y obtuvo el lugar #405 (40%) en Gran Premio de Mexico & Centroamerica 2017
+1. _PIC_ resolvió 4 problemas y obtuvo el lugar #188 (69%) en Gran Premio de Mexico & Centroamerica 2017
+1. _VICTOREM_ resolvió 0 problemas y obtuvo el lugar #405 (23%) en Gran Premio de Mexico & Centroamerica 2017
 
 ## Participaciones
 

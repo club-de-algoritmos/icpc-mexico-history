@@ -3,15 +3,15 @@
 ## Mejores 10 equipos
 
 1. _TecGrullo_ resolvió 2 problemas y obtuvo el lugar #37 (85%) en The 2014 ACM-ICPC Mexico and Central America Finals
-1. _TecGrullo2_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
-1. _TecGrullo2_2_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
-1. _TecGrullo3_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
 1. _TecMM Grullo 2_ resolvió 1 problemas y obtuvo el lugar #369 (71%) en Gran Premio de Mexico 2019
-1. _TecMM Grullo 1_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _TecMM Grullo 3_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _TecMM Grullo 4_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _TecGrullo1_ resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
-1. _TecGrullo2_ resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
+1. _TecMM Grullo 4_ obtuvo el lugar #382 (67%) en Gran Premio de Mexico 2019
+1. _TMMGrullo2_ resolvió 3 problemas y obtuvo el lugar #263 (64%) en Gran Premio de Mexico 2018
+1. _TMMGrullo3_ resolvió 2 problemas y obtuvo el lugar #276 (62%) en Gran Premio de Mexico 2018
+1. _TMMGrullo1_ resolvió 2 problemas y obtuvo el lugar #279 (62%) en Gran Premio de Mexico 2018
+1. _TMMGrullo1_ resolvió 1 problemas y obtuvo el lugar #332 (51%) en Gran Premio de Mexico & Centroamerica 2017
+1. _TecGrullo22_ resolvió 0 problemas y obtuvo el lugar #108 (50%) en Gran Premio de Mexico & Centroamerica
+1. _TecGrullo4_ resolvió 0 problemas y obtuvo el lugar #108 (49%) en Gran Premio de Mexico & Centroamerica
+1. _TMMGrullo3_ resolvió 1 problemas y obtuvo el lugar #343 (49%) en Gran Premio de Mexico & Centroamerica 2017
 
 ## Participaciones
 
@@ -54,16 +54,16 @@
 
 ### 2015-2016
 
-1. #108 (#28 de TecNM) _TecGrullo1_ (Clasificatorio)
-1. #108 (#28 de TecNM) _TecGrullo2_ (Clasificatorio)
 1. #108 (#28 de TecNM) _TecGrullo22_ (Clasificatorio)
 1. #108 (#28 de TecNM) _TecGrullo4_ (Clasificatorio)
+1. #108 (#28 de TecNM) _TecGrullo1_ (Clasificatorio)
+1. #108 (#28 de TecNM) _TecGrullo2_ (Clasificatorio)
 
 ### 2016-2017
 
 1. #121 (#22 de TecNM) _TecGrullo2_ (Clasificatorio)
-1. #121 (#22 de TecNM) _TecGrullo2_2_ (Clasificatorio)
 1. #121 (#22 de TecNM) _TecGrullo3_ (Clasificatorio)
+1. #121 (#22 de TecNM) _TecGrullo2_2_ (Clasificatorio)
 
 ### 2017-2018
 
@@ -83,9 +83,9 @@
 ### 2019-2020
 
 1. #369 (#93 de TecNM) _TecMM Grullo 2_ (Clasificatorio)
-1. #382 (#100 de TecNM) _TecMM Grullo 1_ (Clasificatorio)
-1. #382 (#100 de TecNM) _TecMM Grullo 3_ (Clasificatorio)
 1. #382 (#100 de TecNM) _TecMM Grullo 4_ (Clasificatorio)
+1. #382 (#100 de TecNM) _TecMM Grullo 3_ (Clasificatorio)
+1. #382 (#100 de TecNM) _TecMM Grullo 1_ (Clasificatorio)
 
 
 

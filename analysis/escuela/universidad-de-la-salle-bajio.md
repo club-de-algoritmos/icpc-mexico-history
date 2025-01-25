@@ -2,9 +2,9 @@
 
 ## Mejores 10 equipos
 
-1. _Aguilas de Fuego_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
-1. _The choosens_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
 1. _ISSC1216_ resolvió 2 problemas y obtuvo el lugar #109 (50%) en Mexico and Central America Finals - Programming Battle
+1. _Aguilas de Fuego_ resolvió 0 problemas y obtuvo el lugar #121 (19%) en Gran Premio de Mexico & Centroamerica
+1. _The choosens_ resolvió 0 problemas y obtuvo el lugar #121 (15%) en Gran Premio de Mexico & Centroamerica
 
 ## Participaciones
 

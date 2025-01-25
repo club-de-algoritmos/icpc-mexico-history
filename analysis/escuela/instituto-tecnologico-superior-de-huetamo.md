@@ -2,16 +2,16 @@
 
 ## Mejores 10 equipos
 
-1. _Bartolito_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _COD_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _INGE_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _JLE_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Jhovys_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Los Limones_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Los Quintos_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Los marcos_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Master_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Romeros_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _INGE_ obtuvo el lugar #382 (66%) en Gran Premio de Mexico 2019
+1. _Bartolito_ obtuvo el lugar #382 (60%) en Gran Premio de Mexico 2019
+1. _RuntimeError_ resolvió 0 problemas y obtuvo el lugar #382 (60%) en The 2022 ICPC Gran Premio de Mexico
+1. _Los Limones_ obtuvo el lugar #382 (54%) en Gran Premio de Mexico 2019
+1. _Los Quintos_ obtuvo el lugar #382 (54%) en Gran Premio de Mexico 2019
+1. _Computer team_ resolvió 0 problemas y obtuvo el lugar #382 (50%) en The 2022 ICPC Gran Premio de Mexico
+1. _Rocket_ resolvió 0 problemas y obtuvo el lugar #382 (50%) en The 2022 ICPC Gran Premio de Mexico
+1. _Romeros_ obtuvo el lugar #382 (48%) en Gran Premio de Mexico 2019
+1. _COD_ obtuvo el lugar #382 (47%) en Gran Premio de Mexico 2019
+1. _ITSH Chuunin_ resolvió 0 problemas y obtuvo el lugar #482 (47%) en The 2024 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -27,29 +27,29 @@
 
 ### 2019-2020
 
-1. #382 (#100 de TecNM) _Bartolito_ (Clasificatorio)
-1. #382 (#100 de TecNM) _COD_ (Clasificatorio)
 1. #382 (#100 de TecNM) _INGE_ (Clasificatorio)
-1. #382 (#100 de TecNM) _JLE_ (Clasificatorio)
-1. #382 (#100 de TecNM) _Jhovys_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Bartolito_ (Clasificatorio)
 1. #382 (#100 de TecNM) _Los Limones_ (Clasificatorio)
 1. #382 (#100 de TecNM) _Los Quintos_ (Clasificatorio)
-1. #382 (#100 de TecNM) _Los marcos_ (Clasificatorio)
-1. #382 (#100 de TecNM) _Master_ (Clasificatorio)
 1. #382 (#100 de TecNM) _Romeros_ (Clasificatorio)
+1. #382 (#100 de TecNM) _COD_ (Clasificatorio)
+1. #382 (#100 de TecNM) _JLE_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Master_ (Clasificatorio)
 1. #382 (#100 de TecNM) _We are CSS_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Los marcos_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Jhovys_ (Clasificatorio)
 
 ### 2022-2023
 
-1. #382 (#83 de TecNM) _CodeKem_ (Clasificatorio)
+1. #382 (#83 de TecNM) _RuntimeError_ (Clasificatorio)
 1. #382 (#83 de TecNM) _Computer team_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Rocket_ (Clasificatorio)
 1. #382 (#83 de TecNM) _Dixtractor_ (Clasificatorio)
 1. #382 (#83 de TecNM) _ISICMD_ (Clasificatorio)
-1. #382 (#83 de TecNM) _Los Fatui_ (Clasificatorio)
-1. #382 (#83 de TecNM) _Rocket_ (Clasificatorio)
-1. #382 (#83 de TecNM) _RuntimeError_ (Clasificatorio)
-1. #382 (#83 de TecNM) _Tech Giants_ (Clasificatorio)
 1. #382 (#83 de TecNM) _TheLastUs_ (Clasificatorio)
+1. #382 (#83 de TecNM) _CodeKem_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Los Fatui_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Tech Giants_ (Clasificatorio)
 
 ### 2023-2024
 

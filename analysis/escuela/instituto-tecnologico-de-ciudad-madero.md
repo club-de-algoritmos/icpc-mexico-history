@@ -10,8 +10,8 @@
 1. _Javadabadoo_ resolvió 4 problemas y obtuvo el lugar #9 (95%) en The 2012 Mexico & Central America Regional Contest
 1. _HyVent_ resolvió 4 problemas y obtuvo el lugar #13 (93%) en The 2012 Mexico & Central America Regional Contest
 1. _leopardos_ resolvió 2 problemas y obtuvo el lugar #39 (93%) en The 2016 ACM-ICPC Mexico and Central America Finals
-1. _ITCM 4_ resolvió 2 problemas y obtuvo el lugar #9 (90%) en The 2001 ACM Mexico and Central America Programming Contest
-1. _Tec Madero 3_ resolvió 2 problemas y obtuvo el lugar #10 (89%) en The 2001 ACM Mexico and Central America Programming Contest
+1. _ITCM 4_ resolvió 2 problemas y obtuvo el lugar #9 (91%) en The 2001 ACM Mexico and Central America Programming Contest
+1. _Tec Madero 3_ resolvió 2 problemas y obtuvo el lugar #10 (90%) en The 2001 ACM Mexico and Central America Programming Contest
 1. _ITCM3- The Ants_ resolvió 2 problemas y obtuvo el lugar #13 (89%) en The 2003 ACM Mexico and Central America Programming Contest
 1. _Yep Yep_ resolvió 3 problemas y obtuvo el lugar #23 (86%) en The 2012 Mexico & Central America Regional Contest
 
@@ -112,8 +112,8 @@
 
 1. #62 (#10 de TecNM) _JavaDabaDoo_ (Regional)
 1. #91 (#22 de TecNM) _HyVent_ (Regional)
-1. #95 (#24 de TecNM) _Anonymous_ (Regional)
 1. #95 (#24 de TecNM) _Bot_ (Regional)
+1. #95 (#24 de TecNM) _Anonymous_ (Regional)
 1. #95 (#24 de TecNM) _object_ (Regional)
 
 ### 2014-2015
@@ -124,11 +124,11 @@
 
 ### 2015-2016
 
-1. #108 (#28 de TecNM) _Amanda y los galácticos_ (Clasificatorio)
-1. #108 (#28 de TecNM) _DreamTeam_ (Clasificatorio)
 1. #108 (#28 de TecNM) _Jelly_ (Clasificatorio)
-1. #108 (#28 de TecNM) _Tacodes_ (Clasificatorio)
+1. #108 (#28 de TecNM) _DreamTeam_ (Clasificatorio)
+1. #108 (#28 de TecNM) _Amanda y los galácticos_ (Clasificatorio)
 1. #108 (#28 de TecNM) _Warlords_ (Clasificatorio)
+1. #108 (#28 de TecNM) _Tacodes_ (Clasificatorio)
 
 ### 2016-2017
 
@@ -145,41 +145,41 @@
 ### 2019-2020
 
 1. #361 (#87 de TecNM) _Dejavu_ (Clasificatorio)
-1. #382 (#100 de TecNM) _Alfa_ (Clasificatorio)
-1. #382 (#100 de TecNM) _Black List_ (Clasificatorio)
-1. #382 (#100 de TecNM) _Dark Fenix_ (Clasificatorio)
 1. #382 (#100 de TecNM) _Equipo Tres_ (Clasificatorio)
-1. #382 (#100 de TecNM) _Hyperlink`s_ (Clasificatorio)
 1. #382 (#100 de TecNM) _ITCM-NULL_ (Clasificatorio)
-1. #382 (#100 de TecNM) _Ingenieros TEC_ (Clasificatorio)
-1. #382 (#100 de TecNM) _Java Girls_ (Clasificatorio)
-1. #382 (#100 de TecNM) _Los Cracks de BorlandC_ (Clasificatorio)
-1. #382 (#100 de TecNM) _Los Pitufos_ (Clasificatorio)
-1. #382 (#100 de TecNM) _NetBeans_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Alfa_ (Clasificatorio)
 1. #382 (#100 de TecNM) _OMEGA_ (Clasificatorio)
 1. #382 (#100 de TecNM) _Performing Jazz_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Los Cracks de BorlandC_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Los Pitufos_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Java Girls_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Hyperlink`s_ (Clasificatorio)
 1. #382 (#100 de TecNM) _X Force_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Dark Fenix_ (Clasificatorio)
+1. #382 (#100 de TecNM) _NetBeans_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Ingenieros TEC_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Black List_ (Clasificatorio)
 1. #382 (#100 de TecNM) _free lancer_ (Clasificatorio)
 
 ### 2020-2021
 
-1. #351 (#65 de TecNM) _Boombastic_ (Clasificatorio)
-1. #351 (#65 de TecNM) _CLAY_ (Clasificatorio)
 1. #351 (#65 de TecNM) _Getters_ (Clasificatorio)
+1. #351 (#65 de TecNM) _CLAY_ (Clasificatorio)
 1. #351 (#65 de TecNM) _Hyperlinks_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Boombastic_ (Clasificatorio)
 1. #351 (#65 de TecNM) _Proyecto JGEHV_ (Clasificatorio)
 
 ### 2021-2022
 
-1. #226 (#37 de TecNM) _Automatas_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Los Tlacuachos:v_ (Clasificatorio)
 1. #226 (#37 de TecNM) _Equipo 103_ (Clasificatorio)
 1. #226 (#37 de TecNM) _Los Akatsuki _ (Clasificatorio)
-1. #226 (#37 de TecNM) _Los Tlacuachos:v_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Automatas_ (Clasificatorio)
 
 ### 2022-2023
 
-1. #382 (#83 de TecNM) _BugBusters_ (Clasificatorio)
 1. #382 (#83 de TecNM) _Getters_ (Clasificatorio)
+1. #382 (#83 de TecNM) _BugBusters_ (Clasificatorio)
 1. #382 (#83 de TecNM) _Runtime Terror_ (Clasificatorio)
 
 ### 2023-2024
@@ -188,19 +188,19 @@
 
 ### 2024-2025
 
+1. #482 (#114 de TecNM) _JavaCopilot3_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Vectorianos_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Nano_ (Clasificatorio)
+1. #482 (#114 de TecNM) _TaCo 3: Mas recargados que nunca_ (Clasificatorio)
+1. #482 (#114 de TecNM) _not False_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Maxtec_ (Clasificatorio)
+1. #482 (#114 de TecNM) _RuntimeTerror_ (Clasificatorio)
+1. #482 (#114 de TecNM) _pollito churs_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Nova Tec_ (Clasificatorio)
+1. #482 (#114 de TecNM) _XMP_ (Clasificatorio)
 1. #482 (#114 de TecNM) _Code Kiwami_ (Clasificatorio)
 1. #482 (#114 de TecNM) _J.R.R. Tolkien.py_ (Clasificatorio)
-1. #482 (#114 de TecNM) _JavaCopilot3_ (Clasificatorio)
 1. #482 (#114 de TecNM) _Los Eevee_ (Clasificatorio)
-1. #482 (#114 de TecNM) _Maxtec_ (Clasificatorio)
-1. #482 (#114 de TecNM) _Nano_ (Clasificatorio)
-1. #482 (#114 de TecNM) _Nova Tec_ (Clasificatorio)
-1. #482 (#114 de TecNM) _RuntimeTerror_ (Clasificatorio)
-1. #482 (#114 de TecNM) _TaCo 3: Mas recargados que nunca_ (Clasificatorio)
-1. #482 (#114 de TecNM) _Vectorianos_ (Clasificatorio)
-1. #482 (#114 de TecNM) _XMP_ (Clasificatorio)
-1. #482 (#114 de TecNM) _not False_ (Clasificatorio)
-1. #482 (#114 de TecNM) _pollito churs_ (Clasificatorio)
 
 
 

@@ -2,9 +2,9 @@
 
 ## Mejores 10 equipos
 
-1. _BLACK_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _CyberDevs_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _Sierra 3_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _BLACK_ resolvió 0 problemas y obtuvo el lugar #382 (43%) en The 2022 ICPC Gran Premio de Mexico
+1. _CyberDevs_ resolvió 0 problemas y obtuvo el lugar #382 (43%) en The 2022 ICPC Gran Premio de Mexico
+1. _Sierra 3_ resolvió 0 problemas y obtuvo el lugar #382 (43%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 

@@ -10,8 +10,8 @@
 1. _Testigos de DuPort_ resolvió 3 problemas y obtuvo el lugar #73 (94%) en The 2024 ICPC Mexico Finals
 1. _DrimTimICP_ resolvió 1 problemas y obtuvo el lugar #51 (93%) en The 2020 ICPC Mexico Finals
 1. _Takodachis_ resolvió 2 problemas y obtuvo el lugar #37 (92%) en The 2023 ICPC Mexico Finals
-1. _EzpcLemonEzQuizi_ resolvió 6 problemas y obtuvo el lugar #96 (91%) en The 2022 ICPC Gran Premio de Mexico
 1. _AlfaBuenaMaravillaOndaDinamitaEscuadrónLobo_ resolvió 0 problemas y obtuvo el lugar #50 (90%) en The 2021 ICPC Mexico Finals
+1. _EzpcLemonEzQuizi_ resolvió 6 problemas y obtuvo el lugar #96 (90%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 

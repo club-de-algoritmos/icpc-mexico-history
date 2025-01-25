@@ -187,10 +187,16 @@ class Queries:
                     results_by_team_name[team_name][contest_index] = ExtendedTeamResult(
                         team_result=team_result, contest=contest)
 
-            regional_teams = {result.name for result in regional.team_results} if regional else set()
-            qualifier_teams = {result.name for result in qualifier.team_results} if qualifier else set()
-            extra_teams_in_regional = regional_teams - qualifier_teams
-            regional_season_teams = regional_teams | qualifier_teams
+            regional_results = regional.team_results if regional else []
+            qualifier_results = qualifier.team_results if qualifier else []
+            # Teams that were in the regional but were not in the qualifiers, will push down teams that did not
+            # make it to the regional, and all teams that didn't make it to the regional should rank after them
+            regional_season_ranks = {}
+            rank = 0
+            for team in regional_results + qualifier_results:
+                if team.name not in regional_season_ranks:
+                    rank += 1
+                    regional_season_ranks[team.name] = rank
 
             teams: List[RankedTeam] = []
             for team_name, ext_team_results in results_by_team_name.items():
@@ -200,17 +206,10 @@ class Queries:
                 )
                 world_result, championship_result, regional_result, qualifier_result = ext_team_results
 
-                regional_season_rank = None
-                if regional_result:
-                    regional_season_rank = regional_result.team_result.rank
-                elif qualifier_result:
-                    # Teams that were in the regional but were not in the qualifiers, will push down teams that did not
-                    # make it to the regional
-                    regional_season_rank = qualifier_result.team_result.rank + len(extra_teams_in_regional)
-
+                regional_season_rank = regional_season_ranks.get(team_name)
                 regional_season_percentile = None
                 if regional_season_rank:
-                    regional_season_percentile = get_percentile(regional_season_rank, len(regional_season_teams))
+                    regional_season_percentile = get_percentile(regional_season_rank, rank)
 
                 teams.append(RankedTeam(name=team_name,
                                         school=school,

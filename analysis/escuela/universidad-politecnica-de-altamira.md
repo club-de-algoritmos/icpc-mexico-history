@@ -3,15 +3,15 @@
 ## Mejores 10 equipos
 
 1. _Bit By Bit_ resolvió 5 problemas y obtuvo el lugar #126 (72%) en The 2023 ICPC Gran Premio de Mexico
-1. _Javalies 1_ resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
-1. _Javalies 2_ resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
-1. _Bit By Bit_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _PseudoBoom_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _Innovadores de códigos _ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
-1. _Jalabines_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
-1. _LOS TRES CIEGOS_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
-1. _Prietos en aprietos_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
-1. _UPCODERS_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
+1. _Prietos en Aprietos_ resolvió 4 problemas y obtuvo el lugar #198 (56%) en The 2023 ICPC Gran Premio de Mexico
+1. _Jalabines_ resolvió 0 problemas y obtuvo el lugar #482 (49%) en The 2024 ICPC Gran Premio de Mexico
+1. _Innovadores de códigos _ resolvió 0 problemas y obtuvo el lugar #482 (48%) en The 2024 ICPC Gran Premio de Mexico
+1. _LOS TRES CIEGOS_ resolvió 0 problemas y obtuvo el lugar #482 (44%) en The 2024 ICPC Gran Premio de Mexico
+1. _Prietos en aprietos_ resolvió 0 problemas y obtuvo el lugar #482 (44%) en The 2024 ICPC Gran Premio de Mexico
+1. _UPCODERS_ resolvió 0 problemas y obtuvo el lugar #482 (44%) en The 2024 ICPC Gran Premio de Mexico
+1. _Code Void_ resolvió 2 problemas y obtuvo el lugar #292 (35%) en The 2023 ICPC Gran Premio de Mexico
+1. _Javalies 1_ resolvió 0 problemas y obtuvo el lugar #108 (32%) en Gran Premio de Mexico & Centroamerica
+1. _Bit By Bit_ resolvió 0 problemas y obtuvo el lugar #382 (24%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -48,8 +48,8 @@
 
 ### 2024-2025
 
-1. #482 _Innovadores de códigos _ (Clasificatorio)
 1. #482 _Jalabines_ (Clasificatorio)
+1. #482 _Innovadores de códigos _ (Clasificatorio)
 1. #482 _LOS TRES CIEGOS_ (Clasificatorio)
 1. #482 _Prietos en aprietos_ (Clasificatorio)
 1. #482 _UPCODERS_ (Clasificatorio)

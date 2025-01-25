@@ -3,15 +3,15 @@
 ## Mejores 10 equipos
 
 1. _RoadToGold_ resolvió 8 problemas y obtuvo el lugar #131 (81%) en Gran Premio de Mexico 2020
-1. _Los Mapogos_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Try and Catch_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Booleanos_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _Coders breakers_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _JAR_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _JAY_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _Coders Breakers_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
-1. _Recursadores_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
-1. _Tiren Paro_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
+1. _Los Mapogos_ obtuvo el lugar #382 (49%) en Gran Premio de Mexico 2019
+1. _skibiditilinesinsanos_ resolvió 0 problemas y obtuvo el lugar #482 (47%) en The 2024 ICPC Gran Premio de Mexico
+1. _Coders Breakers_ resolvió 0 problemas y obtuvo el lugar #482 (45%) en The 2024 ICPC Gran Premio de Mexico
+1. _Recursadores_ resolvió 0 problemas y obtuvo el lugar #482 (45%) en The 2024 ICPC Gran Premio de Mexico
+1. _Tiren Paro_ resolvió 0 problemas y obtuvo el lugar #482 (45%) en The 2024 ICPC Gran Premio de Mexico
+1. _UVistas_ resolvió 0 problemas y obtuvo el lugar #482 (45%) en The 2024 ICPC Gran Premio de Mexico
+1. _Try and Catch_ obtuvo el lugar #382 (41%) en Gran Premio de Mexico 2019
+1. _Booleanos_ resolvió 0 problemas y obtuvo el lugar #382 (29%) en The 2022 ICPC Gran Premio de Mexico
+1. _AMADA_ resolvió 0 problemas y obtuvo el lugar #351 (16%) en Gran Premio de Mexico 2020
 
 ## Participaciones
 
@@ -38,8 +38,8 @@
 
 ### 2021-2022
 
-1. #226 _BitsNCode_ (Clasificatorio)
 1. #226 _Jaiba's code_ (Clasificatorio)
+1. #226 _BitsNCode_ (Clasificatorio)
 
 ### 2022-2023
 
@@ -50,11 +50,11 @@
 
 ### 2024-2025
 
+1. #482 _skibiditilinesinsanos_ (Clasificatorio)
 1. #482 _Coders Breakers_ (Clasificatorio)
 1. #482 _Recursadores_ (Clasificatorio)
 1. #482 _Tiren Paro_ (Clasificatorio)
 1. #482 _UVistas_ (Clasificatorio)
-1. #482 _skibiditilinesinsanos_ (Clasificatorio)
 
 
 

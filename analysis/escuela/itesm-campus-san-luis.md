@@ -2,12 +2,12 @@
 
 ## Mejores 10 equipos
 
-1. _TecSLP_ resolvió 0 problemas y obtuvo el lugar #27 (72%) en The 2002 ACM Mexico and Central America Programming Contest
-1. _PLU'S Team_ resolvió 0 problemas y obtuvo el lugar #41 (62%) en The 2003 ACM Mexico and Central America Programming Contest
-1. _Tec SLP 2_ resolvió 1 problemas y obtuvo el lugar #75 (47%) en The 2005 ACM Mexico and Central America Programming Contest
-1. _Tec SLP 1_ resolvió 1 problemas y obtuvo el lugar #83 (41%) en The 2005 ACM Mexico and Central America Programming Contest
-1. _SI C C_ resolvió 1 problemas y obtuvo el lugar #49 (39%) en The 2001 ACM Mexico and Central America Programming Contest
+1. _Tec SLP 2_ resolvió 1 problemas y obtuvo el lugar #75 (58%) en The 2005 ACM Mexico and Central America Programming Contest
+1. _Tec SLP 1_ resolvió 1 problemas y obtuvo el lugar #83 (55%) en The 2005 ACM Mexico and Central America Programming Contest
+1. _SI C C_ resolvió 1 problemas y obtuvo el lugar #49 (43%) en The 2001 ACM Mexico and Central America Programming Contest
 1. _Los Borregos de San Luis_ resolvió 1 problemas y obtuvo el lugar #124 (38%) en The 2010 Mexico & Central America Regional Contest
+1. _PLU'S Team_ resolvió 0 problemas y obtuvo el lugar #41 (36%) en The 2003 ACM Mexico and Central America Programming Contest
+1. _TecSLP_ resolvió 0 problemas y obtuvo el lugar #27 (14%) en The 2002 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

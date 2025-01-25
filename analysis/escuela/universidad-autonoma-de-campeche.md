@@ -2,8 +2,8 @@
 
 ## Mejores 10 equipos
 
-1. _FI-UACAM_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
-1. _uaq 4_ resolvió 0 problemas y obtuvo el lugar #86 (32%) en The 2006 ACM Mexico and Central America Programming Contest
+1. _FI-UACAM_ resolvió 0 problemas y obtuvo el lugar #121 (22%) en Gran Premio de Mexico & Centroamerica
+1. _uaq 4_ resolvió 0 problemas y obtuvo el lugar #86 (3%) en The 2006 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

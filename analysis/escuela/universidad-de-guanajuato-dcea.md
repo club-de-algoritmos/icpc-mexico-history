@@ -3,7 +3,7 @@
 ## Mejores 10 equipos
 
 1. _Nosotros Los Guapos_ resolvió 4 problemas y obtuvo el lugar #17 (99%) en The 2024 ICPC Mexico Finals
-1. _TuringTesla_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _TuringTesla_ obtuvo el lugar #382 (5%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 

@@ -2,7 +2,7 @@
 
 ## Mejores 10 equipos
 
-1. _Ray mundos_ resolvió 1 problemas y obtuvo el lugar #433 (65%) en The 2024 ICPC Gran Premio de Mexico
+1. _Ray mundos_ resolvió 1 problemas y obtuvo el lugar #433 (64%) en The 2024 ICPC Gran Premio de Mexico
 
 ## Participaciones
 

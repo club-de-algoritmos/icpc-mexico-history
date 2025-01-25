@@ -2,16 +2,16 @@
 
 ## Mejores 10 equipos
 
-1. _A poco sí muy AC?_ resolvió 3 problemas y obtuvo el lugar #43 (97%) en The 2024 ICPC Mexico Finals
+1. _A poco sí muy AC?_ resolvió 3 problemas y obtuvo el lugar #43 (96%) en The 2024 ICPC Mexico Finals
 1. _CRIGED.PY_ resolvió 1 problemas y obtuvo el lugar #47 (96%) en The 2022 ICPC Mexico Finals
 1. _CRIGED.PY_ resolvió 3 problemas y obtuvo el lugar #28 (94%) en The 2023 ICPC Mexico Finals
 1. _Dos tequilas y un mojito_ resolvió 2 problemas y obtuvo el lugar #84 (93%) en The 2024 ICPC Mexico Finals
 1. _Los shabOS_ resolvió 1 problemas y obtuvo el lugar #91 (93%) en The 2024 ICPC Mexico Finals
 1. _CTRL2_ resolvió 5 problemas y obtuvo el lugar #132 (87%) en The 2022 ICPC Gran Premio de Mexico
-1. _Chat GNA_ resolvió 6 problemas y obtuvo el lugar #160 (87%) en The 2024 ICPC Gran Premio de Mexico
-1. _Byte the Dust_ resolvió 6 problemas y obtuvo el lugar #188 (85%) en The 2024 ICPC Gran Premio de Mexico
-1. _Mavericks_ resolvió 3 problemas y obtuvo el lugar #204 (81%) en The 2022 ICPC Gran Premio de Mexico
-1. _Coding Slayer_ resolvió 5 problemas y obtuvo el lugar #96 (79%) en The 2023 ICPC Gran Premio de Mexico
+1. _Chat GNA_ resolvió 6 problemas y obtuvo el lugar #160 (85%) en The 2024 ICPC Gran Premio de Mexico
+1. _Byte the Dust_ resolvió 6 problemas y obtuvo el lugar #188 (83%) en The 2024 ICPC Gran Premio de Mexico
+1. _Mavericks_ resolvió 3 problemas y obtuvo el lugar #204 (80%) en The 2022 ICPC Gran Premio de Mexico
+1. _Código a Vapor_ resolvió 3 problemas y obtuvo el lugar #219 (79%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -75,10 +75,10 @@
 1. #429 _Racc_ (Clasificatorio)
 1. #431 _KVJ_ (Clasificatorio)
 1. #479 _KP's_ (Clasificatorio)
-1. #482 _Beer Code_ (Clasificatorio)
-1. #482 _Bellakitos pop_ (Clasificatorio)
-1. #482 _Byte Squad_ (Clasificatorio)
 1. #482 _Pythologic_ (Clasificatorio)
+1. #482 _Byte Squad_ (Clasificatorio)
+1. #482 _Bellakitos pop_ (Clasificatorio)
+1. #482 _Beer Code_ (Clasificatorio)
 
 
 

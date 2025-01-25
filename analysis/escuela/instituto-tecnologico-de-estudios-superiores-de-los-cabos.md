@@ -2,7 +2,7 @@
 
 ## Mejores 10 equipos
 
-1. _Los Rockys Stone's_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Los Rockys Stone's_ obtuvo el lugar #382 (27%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 

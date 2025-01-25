@@ -3,14 +3,14 @@
 ## Mejores 10 equipos
 
 1. _¿Quién es el main?_ resolvió 0 problemas y obtuvo el lugar #113 (91%) en The 2024 ICPC Mexico Finals
-1. _Tifosi_ resolvió 2 problemas y obtuvo el lugar #359 (71%) en The 2024 ICPC Gran Premio de Mexico
-1. _Los Programadoruskis_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Coders4Life_ resolvió 0 problemas y obtuvo el lugar #61 (59%) en The 2007 ACM Mexico and Central America Programming Contest
-1. _IngCode_ resolvió 0 problemas y obtuvo el lugar #351 (50%) en Gran Premio de Mexico 2020
-1. _Los Bytes_ resolvió 0 problemas y obtuvo el lugar #394 (48%) en Gran Premio de Mexico 2018
-1. _AlCEMY.C_ resolvió 0 problemas y obtuvo el lugar #101 (40%) en The 2008 Mexico & Central America Contest
-1. _RiEdAl.H_ resolvió 0 problemas y obtuvo el lugar #101 (40%) en The 2008 Mexico & Central America Contest
-1. _Capa 8 Runtime Error_ resolvió 0 problemas y obtuvo el lugar #419 (7%) en The 2023 ICPC Gran Premio de Mexico
+1. _Tifosi_ resolvió 2 problemas y obtuvo el lugar #359 (70%) en The 2024 ICPC Gran Premio de Mexico
+1. _Los Programadoruskis_ obtuvo el lugar #382 (56%) en Gran Premio de Mexico 2019
+1. _Los Bytes_ resolvió 0 problemas y obtuvo el lugar #394 (34%) en Gran Premio de Mexico 2018
+1. _RiEdAl.H_ resolvió 0 problemas y obtuvo el lugar #101 (30%) en The 2008 Mexico & Central America Contest
+1. _IngCode_ resolvió 0 problemas y obtuvo el lugar #351 (25%) en Gran Premio de Mexico 2020
+1. _AlCEMY.C_ resolvió 0 problemas y obtuvo el lugar #101 (24%) en The 2008 Mexico & Central America Contest
+1. _Coders4Life_ resolvió 0 problemas y obtuvo el lugar #61 (12%) en The 2007 ACM Mexico and Central America Programming Contest
+1. _Capa 8 Runtime Error_ resolvió 0 problemas y obtuvo el lugar #419 (8%) en The 2023 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -33,8 +33,8 @@
 
 ### 2008-2009
 
-1. #101 _AlCEMY.C_ (Regional)
 1. #101 _RiEdAl.H_ (Regional)
+1. #101 _AlCEMY.C_ (Regional)
 
 ### 2018-2019
 

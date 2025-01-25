@@ -2,12 +2,12 @@
 
 ## Mejores 10 equipos
 
-1. _HolaMundo.py_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
-1. _PozolArrecho_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
-1. _Unach++_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
-1. _NullPointer_ resolvió 0 problemas y obtuvo el lugar #226 (53%) en The 2021 ICPC Gran Premio de Mexico
-1. _QCoders_ resolvió 0 problemas y obtuvo el lugar #226 (53%) en The 2021 ICPC Gran Premio de Mexico
-1. _NegCoders_ resolvió 0 problemas y obtuvo el lugar #351 (50%) en Gran Premio de Mexico 2020
+1. _HolaMundo.py_ resolvió 0 problemas y obtuvo el lugar #482 (48%) en The 2024 ICPC Gran Premio de Mexico
+1. _PozolArrecho_ resolvió 0 problemas y obtuvo el lugar #482 (48%) en The 2024 ICPC Gran Premio de Mexico
+1. _Unach++_ resolvió 0 problemas y obtuvo el lugar #482 (48%) en The 2024 ICPC Gran Premio de Mexico
+1. _NullPointer_ resolvió 0 problemas y obtuvo el lugar #226 (7%) en The 2021 ICPC Gran Premio de Mexico
+1. _QCoders_ resolvió 0 problemas y obtuvo el lugar #226 (7%) en The 2021 ICPC Gran Premio de Mexico
+1. _NegCoders_ resolvió 0 problemas y obtuvo el lugar #351 (2%) en Gran Premio de Mexico 2020
 
 ## Participaciones
 

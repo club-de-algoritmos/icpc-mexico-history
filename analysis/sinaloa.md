@@ -60,9 +60,9 @@
 1. #13 (#5 de ITESM) _HMJ21_ ([ITESM Campus Mazatlán](escuela/itesm-campus-mazatlan)) (Regional)
 1. #21 (#8 de ITESM) _YHS20_ ([ITESM Campus Mazatlán](escuela/itesm-campus-mazatlan)) (Regional)
 1. #24 (#9 de ITESM) _Let it C_ ([ITESM Campus Mazatlán](escuela/itesm-campus-mazatlan)) (Regional)
-1. #27 (#10 de ITESM) _COD22_ ([ITESM Campus Mazatlán](escuela/itesm-campus-mazatlan)) (Regional)
-1. #27 (#10 de ITESM) _Knights EC_ ([ITESM Campus Mazatlán](escuela/itesm-campus-mazatlan)) (Regional)
 1. #27 (#10 de ITESM) _drink team_ ([ITESM Campus Mazatlán](escuela/itesm-campus-mazatlan)) (Regional)
+1. #27 (#10 de ITESM) _Knights EC_ ([ITESM Campus Mazatlán](escuela/itesm-campus-mazatlan)) (Regional)
+1. #27 (#10 de ITESM) _COD22_ ([ITESM Campus Mazatlán](escuela/itesm-campus-mazatlan)) (Regional)
 
 ### 2003-2004
 
@@ -100,11 +100,11 @@
 1. #36 (#9 de ITESM) _Balls of Fire_ ([ITESM Campus Mazatlán](escuela/itesm-campus-mazatlan)) (Regional)
 1. #50 (#13 de ITESM) _Carlit-OS_ ([ITESM Campus Mazatlán](escuela/itesm-campus-mazatlan)) (Regional)
 1. #55 (#16 de ITESM) _Borregos PACK_ ([ITESM Campus Mazatlán](escuela/itesm-campus-mazatlan)) (Regional)
-1. #85 (#27 de ITESM) _Hijos de Efren_ ([ITESM Campus Mazatlán](escuela/itesm-campus-mazatlan)) (Regional)
 1. #85 (#27 de ITESM) _ITESM Mazatlán_ ([ITESM Campus Mazatlán](escuela/itesm-campus-mazatlan)) (Regional)
-1. #85 (#27 de ITESM) _ITESM ZAC 1_ ([ITESM Campus Mazatlán](escuela/itesm-campus-mazatlan)) (Regional)
 1. #85 (#27 de ITESM) _Los Mazatlecos_ ([ITESM Campus Mazatlán](escuela/itesm-campus-mazatlan)) (Regional)
+1. #85 (#27 de ITESM) _Hijos de Efren_ ([ITESM Campus Mazatlán](escuela/itesm-campus-mazatlan)) (Regional)
 1. #85 (#27 de ITESM) _Punishers_ ([ITESM Campus Mazatlán](escuela/itesm-campus-mazatlan)) (Regional)
+1. #85 (#27 de ITESM) _ITESM ZAC 1_ ([ITESM Campus Mazatlán](escuela/itesm-campus-mazatlan)) (Regional)
 
 ### 2007-2008
 
@@ -113,10 +113,10 @@
 1. #6 (#1 de ITESM) _los punteros_ ([ITESM Campus Mazatlán](escuela/itesm-campus-mazatlan)) (Regional)
 1. #19 (#6 de ITESM) _ITESM CEM_ ([ITESM Campus Mazatlán](escuela/itesm-campus-mazatlan)) (Regional)
 1. #35 (#9 de ITESM) _Objeto.metodo()_ ([ITESM Campus Mazatlán](escuela/itesm-campus-mazatlan)) (Regional)
-1. #61 (#19 de ITESM) _3-108_ ([ITESM Campus Mazatlán](escuela/itesm-campus-mazatlan)) (Regional)
-1. #61 (#19 de ITESM) _FORZA ITIC 1_ ([ITESM Campus Mazatlán](escuela/itesm-campus-mazatlan)) (Regional)
 1. #61 (#19 de ITESM) _Pascaleros_ ([ITESM Campus Mazatlán](escuela/itesm-campus-mazatlan)) (Regional)
 1. #61 (#19 de ITESM) _Top Coder_ ([ITESM Campus Mazatlán](escuela/itesm-campus-mazatlan)) (Regional)
+1. #61 (#19 de ITESM) _3-108_ ([ITESM Campus Mazatlán](escuela/itesm-campus-mazatlan)) (Regional)
+1. #61 (#19 de ITESM) _FORZA ITIC 1_ ([ITESM Campus Mazatlán](escuela/itesm-campus-mazatlan)) (Regional)
 
 ### 2008-2009
 
@@ -139,8 +139,8 @@
 1. #48 (#7 de TecNM) _Three Bits_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Regional)
 1. #92 _UPSIN DELTA_ ([Universidad Politecnica de Sinaloa](escuela/universidad-politecnica-de-sinaloa)) (Regional)
 1. #101 _UPSIN GAMMA_ ([Universidad Politecnica de Sinaloa](escuela/universidad-politecnica-de-sinaloa)) (Regional)
-1. #104 _UPSIN ALFA_ ([Universidad Politecnica de Sinaloa](escuela/universidad-politecnica-de-sinaloa)) (Regional)
 1. #104 _UPSIN BETA_ ([Universidad Politecnica de Sinaloa](escuela/universidad-politecnica-de-sinaloa)) (Regional)
+1. #104 _UPSIN ALFA_ ([Universidad Politecnica de Sinaloa](escuela/universidad-politecnica-de-sinaloa)) (Regional)
 
 ### 2012-2013
 
@@ -159,14 +159,14 @@
 1. #54 (#7 de TecNM) _Los Cansados_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
 1. #90 (#16 de TecNM) _Los simuladores_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
 1. #153 (#38 de TecNM) _Mighty Morphin 335_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
-1. #204 (#57 de TecNM) _Equipo Rocket_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
 1. #204 (#57 de TecNM) _JDK_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
+1. #204 (#57 de TecNM) _Equipo Rocket_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
 
 ### 2015-2016
 
 1. #108 (#28 de TecNM) _Bonum faciunt_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
-1. #108 (#28 de TecNM) _EPN Y LOS 43?_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
 1. #108 (#28 de TecNM) _Exception_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
+1. #108 (#28 de TecNM) _EPN Y LOS 43?_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
 1. #108 (#28 de TecNM) _Qbits_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
 
 ### 2018-2019
@@ -186,8 +186,8 @@
 1. #206 _Equipo106_ ([Universidad de Occidente, Unidad Culiacán](escuela/universidad-de-occidente,-unidad-culiacan)) (Clasificatorio)
 1. #351 _Singleton_ ([Universidad Autónoma de Sinaloa](escuela/universidad-autonoma-de-sinaloa)) (Clasificatorio)
 1. #354 _Team-Capi_ ([Universidad Autónoma de Occidente](escuela/universidad-autonoma-de-occidente)) (Clasificatorio)
-1. #382 _Código Enigma_ ([Universidad Autónoma de Sinaloa](escuela/universidad-autonoma-de-sinaloa)) (Clasificatorio)
 1. #382 _TryCatch_ ([Universidad Autónoma de Sinaloa](escuela/universidad-autonoma-de-sinaloa)) (Clasificatorio)
+1. #382 _Código Enigma_ ([Universidad Autónoma de Sinaloa](escuela/universidad-autonoma-de-sinaloa)) (Clasificatorio)
 
 ### 2020-2021
 
@@ -217,8 +217,8 @@
 1. #222 (#37 de TecNM) _Los tilines insanos_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
 1. #227 (#39 de TecNM) _New Legacy_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
 1. #267 _FIMAZ_ ([Facultad de Informática Mazatlán UAS](escuela/facultad-de-informatica-mazatlan-uas)) (Clasificatorio)
-1. #382 _El Pariente Technologies_ ([Universidad Autónoma de Sinaloa](escuela/universidad-autonoma-de-sinaloa)) (Clasificatorio)
 1. #382 _Hog Riders_ ([Universidad Autónoma de Sinaloa](escuela/universidad-autonoma-de-sinaloa)) (Clasificatorio)
+1. #382 _El Pariente Technologies_ ([Universidad Autónoma de Sinaloa](escuela/universidad-autonoma-de-sinaloa)) (Clasificatorio)
 1. #382 (#83 de TecNM) _SeatWorks_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
 
 ### 2023-2024
@@ -246,9 +246,9 @@
 
 1. #15 (#2 de TecNM) _BRO... CSM_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Regional)
 1. #29 (#5 de TecNM) _Ludus +500_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Regional)
-1. #59 (#10 de TecNM) _ADO++_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
 1. #67 _Los Monos Bichis_ ([Facultad de Informática Mazatlán UAS](escuela/facultad-de-informatica-mazatlan-uas)) (Regional)
 1. #76 (#12 de TecNM) _Combo Deluxe_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Regional)
+1. #59 (#10 de TecNM) _ADO++_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
 1. #137 (#23 de TecNM) _EAGLES_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
 1. #196 (#36 de TecNM) _KRV_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
 1. #250 (#52 de TecNM) _Hasbulla Lovers Official Fans Club_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)

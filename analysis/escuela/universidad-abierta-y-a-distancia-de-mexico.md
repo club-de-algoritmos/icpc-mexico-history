@@ -2,7 +2,7 @@
 
 ## Mejores 10 equipos
 
-1. _Flotantes_ resolvió 2 problemas y obtuvo el lugar #137 (71%) en The 2021 ICPC Gran Premio de Mexico
+1. _Flotantes_ resolvió 2 problemas y obtuvo el lugar #137 (72%) en The 2021 ICPC Gran Premio de Mexico
 
 ## Participaciones
 

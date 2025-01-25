@@ -5,13 +5,13 @@
 1. _Compilando..._ resolvió 2 problemas y obtuvo el lugar #66 (87%) en The 2016 ACM-ICPC Mexico and Central America Finals
 1. _HashTable_ resolvió 3 problemas y obtuvo el lugar #28 (83%) en The 2012 Mexico & Central America Regional Contest
 1. _IOException_ resolvió 3 problemas y obtuvo el lugar #219 (83%) en Gran Premio de Mexico 2019
-1. _DeepMaze_ resolvió 5 problemas y obtuvo el lugar #91 (80%) en The 2023 ICPC Gran Premio de Mexico
-1. _DeepMaze_ resolvió 2 problemas y obtuvo el lugar #235 (78%) en The 2022 ICPC Gran Premio de Mexico
-1. _Lira coders_ resolvió 2 problemas y obtuvo el lugar #236 (78%) en The 2022 ICPC Gran Premio de Mexico
+1. _DeepMaze_ resolvió 5 problemas y obtuvo el lugar #91 (79%) en The 2023 ICPC Gran Premio de Mexico
 1. _alt+F4_ resolvió 2 problemas y obtuvo el lugar #286 (78%) en Gran Premio de Mexico 2019
 1. _4luX1t0s_ resolvió 2 problemas y obtuvo el lugar #38 (77%) en The 2012 Mexico & Central America Regional Contest
 1. _Hashtable_ resolvió 1 problemas y obtuvo el lugar #57 (77%) en The 2014 ACM-ICPC Mexico and Central America Finals
-1. _Esclavos_del_API_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _DeepMaze_ resolvió 2 problemas y obtuvo el lugar #235 (77%) en The 2022 ICPC Gran Premio de Mexico
+1. _Lira coders_ resolvió 2 problemas y obtuvo el lugar #236 (77%) en The 2022 ICPC Gran Premio de Mexico
+1. _01MrRobot_ resolvió 4 problemas y obtuvo el lugar #236 (66%) en Gran Premio de Mexico 2020
 
 ## Participaciones
 
@@ -92,10 +92,10 @@
 
 ### 2015-2016
 
-1. #108 (#28 de TecNM) _AFK_code_ (Clasificatorio)
 1. #108 (#28 de TecNM) _Gears of war_ (Clasificatorio)
-1. #108 (#28 de TecNM) _INFCAJ_ (Clasificatorio)
 1. #108 (#28 de TecNM) _Los obligados_ (Clasificatorio)
+1. #108 (#28 de TecNM) _INFCAJ_ (Clasificatorio)
+1. #108 (#28 de TecNM) _AFK_code_ (Clasificatorio)
 
 ### 2016-2017
 
@@ -148,8 +148,8 @@
 1. #482 (#114 de TecNM) _1CodeHunters_ (Clasificatorio)
 1. #482 (#114 de TecNM) _3Monos_ (Clasificatorio)
 1. #482 (#114 de TecNM) _DeepMaze_ (Clasificatorio)
-1. #482 (#114 de TecNM) _Los_Irvins_ (Clasificatorio)
 1. #482 (#114 de TecNM) _WorkCode_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Los_Irvins_ (Clasificatorio)
 
 
 

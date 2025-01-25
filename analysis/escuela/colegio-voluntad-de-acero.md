@@ -2,7 +2,7 @@
 
 ## Mejores 10 equipos
 
-1. _TEAM VOLU_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _TEAM VOLU_ resolvió 0 problemas y obtuvo el lugar #382 (59%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 

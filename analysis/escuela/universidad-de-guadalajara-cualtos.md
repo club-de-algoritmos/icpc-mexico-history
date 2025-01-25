@@ -6,12 +6,12 @@
 1. _Mercería Paquita :D_ resolvió 7 problemas y obtuvo el lugar #77 (94%) en Gran Premio de Mexico 2019
 1. _SyntaxError :v_ resolvió 7 problemas y obtuvo el lugar #78 (94%) en Gran Premio de Mexico 2019
 1. _System_32_ resolvió 7 problemas y obtuvo el lugar #79 (94%) en Gran Premio de Mexico 2019
-1. _String Productions_ resolvió 6 problemas y obtuvo el lugar #80 (94%) en Gran Premio de Mexico 2019
 1. _Sí no gano,me corren - CUALTOS_ resolvió 2 problemas y obtuvo el lugar #57 (93%) en The 2018 ICPC Mexico and Central America Finals
+1. _String Productions_ resolvió 6 problemas y obtuvo el lugar #80 (93%) en Gran Premio de Mexico 2019
 1. _Macboy´s_ resolvió 6 problemas y obtuvo el lugar #84 (93%) en Gran Premio de Mexico 2019
 1. _Chapulines 2.0 - CUALTOS_ resolvió 2 problemas y obtuvo el lugar #67 (92%) en The 2018 ICPC Mexico and Central America Finals
 1. _Merequetenge_ resolvió 1 problemas y obtuvo el lugar #105 (91%) en The 2024 ICPC Mexico Finals
-1. _Si no gano, me corren_ resolvió 11 problemas y obtuvo el lugar #73 (90%) en Gran Premio de Mexico 2020
+1. _Si no gano, me corren_ resolvió 11 problemas y obtuvo el lugar #73 (88%) en Gran Premio de Mexico 2020
 
 ## Participaciones
 
@@ -86,8 +86,8 @@
 ### 2024-2025
 
 1. #105 _Merequetenge_ (Regional)
-1. #482 _Cocolisos_ (Clasificatorio)
 1. #482 _NVidiosos_ (Clasificatorio)
+1. #482 _Cocolisos_ (Clasificatorio)
 
 
 

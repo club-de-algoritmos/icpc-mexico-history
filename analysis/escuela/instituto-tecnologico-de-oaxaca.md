@@ -2,16 +2,16 @@
 
 ## Mejores 10 equipos
 
-1. _Antler_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _CAJ-ITO_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _KEDM Team_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _MAGG_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Team Dinamita de Oaxaca_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _Prospectos de ingeniero_ resolvió 2 problemas y obtuvo el lugar #387 (68%) en The 2024 ICPC Gran Premio de Mexico
 1. _EMCO_ resolvió 2 problemas y obtuvo el lugar #391 (68%) en The 2024 ICPC Gran Premio de Mexico
-1. _FuerzITO_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _The Warriors_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Antler_ obtuvo el lugar #382 (65%) en Gran Premio de Mexico 2019
 1. _IFanidado_ resolvió 1 problemas y obtuvo el lugar #450 (63%) en The 2024 ICPC Gran Premio de Mexico
+1. _GWC_ resolvió 1 problemas y obtuvo el lugar #469 (61%) en The 2024 ICPC Gran Premio de Mexico
+1. _CAJ-ITO_ obtuvo el lugar #382 (57%) en Gran Premio de Mexico 2019
+1. _Itosaurios_ resolvió 4 problemas y obtuvo el lugar #202 (55%) en The 2023 ICPC Gran Premio de Mexico
+1. _KEDM Team_ obtuvo el lugar #382 (48%) en Gran Premio de Mexico 2019
+1. _Equipo 2_ resolvió 3 problemas y obtuvo el lugar #244 (46%) en The 2023 ICPC Gran Premio de Mexico
+1. _Team Dinamita de Oaxaca_ obtuvo el lugar #382 (40%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 
@@ -30,8 +30,8 @@
 1. #382 (#100 de TecNM) _Antler_ (Clasificatorio)
 1. #382 (#100 de TecNM) _CAJ-ITO_ (Clasificatorio)
 1. #382 (#100 de TecNM) _KEDM Team_ (Clasificatorio)
-1. #382 (#100 de TecNM) _MAGG_ (Clasificatorio)
 1. #382 (#100 de TecNM) _Team Dinamita de Oaxaca_ (Clasificatorio)
+1. #382 (#100 de TecNM) _MAGG_ (Clasificatorio)
 
 ### 2022-2023
 

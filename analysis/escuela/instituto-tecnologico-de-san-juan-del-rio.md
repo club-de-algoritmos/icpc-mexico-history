@@ -2,10 +2,10 @@
 
 ## Mejores 10 equipos
 
-1. _CRALER_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _TEC ++_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _AlphaBit_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
-1. _Logic Legends_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
+1. _CRALER_ obtuvo el lugar #382 (44%) en Gran Premio de Mexico 2019
+1. _TEC ++_ obtuvo el lugar #382 (42%) en Gran Premio de Mexico 2019
+1. _AlphaBit_ resolvió 0 problemas y obtuvo el lugar #482 (18%) en The 2024 ICPC Gran Premio de Mexico
+1. _Logic Legends_ resolvió 0 problemas y obtuvo el lugar #482 (16%) en The 2024 ICPC Gran Premio de Mexico
 
 ## Participaciones
 

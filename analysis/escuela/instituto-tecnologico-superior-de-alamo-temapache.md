@@ -2,16 +2,16 @@
 
 ## Mejores 10 equipos
 
-1. _Los 5 Métodos_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
-1. _Los Romies_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
-1. _The Mirror's_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
-1. _Conejos digitales_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Warriors_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _ITSAT 2_ resolvió 2 problemas y obtuvo el lugar #236 (65%) en Gran Premio de Mexico & Centroamerica 2017
-1. _BitCodeOne_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _CodeOne_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _ITSAT 3_ resolvió 2 problemas y obtuvo el lugar #250 (63%) en Gran Premio de Mexico & Centroamerica 2017
-1. _CodeOne_ resolvió 0 problemas y obtuvo el lugar #226 (53%) en The 2021 ICPC Gran Premio de Mexico
+1. _Los Romies_ resolvió 0 problemas y obtuvo el lugar #121 (63%) en Gran Premio de Mexico & Centroamerica
+1. _ITSAT 2_ resolvió 2 problemas y obtuvo el lugar #236 (63%) en Gran Premio de Mexico & Centroamerica 2017
+1. _ITSAT 3_ resolvió 2 problemas y obtuvo el lugar #250 (61%) en Gran Premio de Mexico & Centroamerica 2017
+1. _BitCodeOne_ resolvió 0 problemas y obtuvo el lugar #382 (40%) en The 2022 ICPC Gran Premio de Mexico
+1. _CodeOne_ resolvió 0 problemas y obtuvo el lugar #382 (40%) en The 2022 ICPC Gran Premio de Mexico
+1. _Conejos digitales_ obtuvo el lugar #382 (38%) en Gran Premio de Mexico 2019
+1. _Warriors_ obtuvo el lugar #382 (30%) en Gran Premio de Mexico 2019
+1. _ITSAT 1_ resolvió 0 problemas y obtuvo el lugar #405 (28%) en Gran Premio de Mexico & Centroamerica 2017
+1. _CodeOne_ resolvió 0 problemas y obtuvo el lugar #351 (27%) en Gran Premio de Mexico 2020
+1. _Galvantulas_ resolvió 0 problemas y obtuvo el lugar #95 (21%) en The 2013 Mexico & Central America Regional Contest
 
 ## Participaciones
 
@@ -44,8 +44,8 @@
 
 ### 2016-2017
 
-1. #121 (#22 de TecNM) _Los 5 Métodos_ (Clasificatorio)
 1. #121 (#22 de TecNM) _Los Romies_ (Clasificatorio)
+1. #121 (#22 de TecNM) _Los 5 Métodos_ (Clasificatorio)
 1. #121 (#22 de TecNM) _The Mirror's_ (Clasificatorio)
 
 ### 2017-2018
@@ -61,8 +61,8 @@
 
 ### 2020-2021
 
-1. #351 (#65 de TecNM) _CodeBit_ (Clasificatorio)
 1. #351 (#65 de TecNM) _CodeOne_ (Clasificatorio)
+1. #351 (#65 de TecNM) _CodeBit_ (Clasificatorio)
 
 ### 2021-2022
 

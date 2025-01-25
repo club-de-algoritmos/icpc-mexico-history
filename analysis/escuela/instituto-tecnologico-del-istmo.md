@@ -2,10 +2,10 @@
 
 ## Mejores 10 equipos
 
-1. _CINERE_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Delp_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _XHAHUIS_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Istmo _ resolvió 0 problemas y obtuvo el lugar #351 (50%) en Gran Premio de Mexico 2020
+1. _CINERE_ obtuvo el lugar #382 (69%) en Gran Premio de Mexico 2019
+1. _Delp_ obtuvo el lugar #382 (28%) en Gran Premio de Mexico 2019
+1. _XHAHUIS_ obtuvo el lugar #382 (23%) en Gran Premio de Mexico 2019
+1. _Istmo _ resolvió 0 problemas y obtuvo el lugar #351 (13%) en Gran Premio de Mexico 2020
 
 ## Participaciones
 

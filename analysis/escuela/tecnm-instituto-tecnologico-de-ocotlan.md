@@ -2,12 +2,12 @@
 
 ## Mejores 10 equipos
 
-1. _CodingTeam_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _JAVAlioburger_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _Los Cuisillos_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _Los Picateclas_ resolvió 0 problemas y obtuvo el lugar #226 (53%) en The 2021 ICPC Gran Premio de Mexico
-1. _The Python's_ resolvió 0 problemas y obtuvo el lugar #226 (53%) en The 2021 ICPC Gran Premio de Mexico
-1. _“ ; Mortal ”_ resolvió 0 problemas y obtuvo el lugar #226 (53%) en The 2021 ICPC Gran Premio de Mexico
+1. _CodingTeam_ resolvió 0 problemas y obtuvo el lugar #382 (38%) en The 2022 ICPC Gran Premio de Mexico
+1. _Los Cuisillos_ resolvió 0 problemas y obtuvo el lugar #382 (38%) en The 2022 ICPC Gran Premio de Mexico
+1. _JAVAlioburger_ resolvió 0 problemas y obtuvo el lugar #382 (36%) en The 2022 ICPC Gran Premio de Mexico
+1. _Los Picateclas_ resolvió 0 problemas y obtuvo el lugar #226 (13%) en The 2021 ICPC Gran Premio de Mexico
+1. _The Python's_ resolvió 0 problemas y obtuvo el lugar #226 (13%) en The 2021 ICPC Gran Premio de Mexico
+1. _“ ; Mortal ”_ resolvió 0 problemas y obtuvo el lugar #226 (12%) en The 2021 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -28,8 +28,8 @@
 ### 2022-2023
 
 1. #382 (#83 de TecNM) _CodingTeam_ (Clasificatorio)
-1. #382 (#83 de TecNM) _JAVAlioburger_ (Clasificatorio)
 1. #382 (#83 de TecNM) _Los Cuisillos_ (Clasificatorio)
+1. #382 (#83 de TecNM) _JAVAlioburger_ (Clasificatorio)
 
 
 

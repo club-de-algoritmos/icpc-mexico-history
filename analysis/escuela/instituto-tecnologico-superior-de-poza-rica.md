@@ -6,12 +6,12 @@
 1. _ITSPR2_ resolvió 2 problemas y obtuvo el lugar #71 (86%) en The 2016 ACM-ICPC Mexico and Central America Finals
 1. _Three Ocean_ resolvió 4 problemas y obtuvo el lugar #154 (85%) en The 2022 ICPC Gran Premio de Mexico
 1. _ITSPR-3_ resolvió 3 problemas y obtuvo el lugar #39 (81%) en The 2010 Mexico & Central America Regional Contest
-1. _ITSPR2_ resolvió 1 problemas y obtuvo el lugar #51 (80%) en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _ITSPR2_ resolvió 1 problemas y obtuvo el lugar #51 (79%) en The 2014 ACM-ICPC Mexico and Central America Finals
 1. _Cometa azul_ resolvió 2 problemas y obtuvo el lugar #293 (77%) en Gran Premio de Mexico 2019
-1. _ITSPR3_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
-1. _ITSPR4_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
 1. _ITSPR-1_ resolvió 2 problemas y obtuvo el lugar #42 (74%) en The 2011 Mexico & Central America Regional Contest
-1. _TEC POZA RICA_ resolvió 0 problemas y obtuvo el lugar #27 (72%) en The 2002 ACM Mexico and Central America Programming Contest
+1. _itspr_ resolvió 2 problemas y obtuvo el lugar #49 (71%) en The 2008 Mexico & Central America Contest
+1. _Team Jar_ resolvió 1 problemas y obtuvo el lugar #370 (71%) en Gran Premio de Mexico 2019
+1. _Three Ocean_ resolvió 1 problemas y obtuvo el lugar #154 (69%) en The 2021 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -101,11 +101,11 @@
 
 ### 2015-2016
 
+1. #108 (#28 de TecNM) _Kronos con k_ (Clasificatorio)
+1. #108 (#28 de TecNM) _Zeus_ (Clasificatorio)
 1. #108 (#28 de TecNM) _Arkadia_ (Clasificatorio)
 1. #108 (#28 de TecNM) _Atlas_ (Clasificatorio)
 1. #108 (#28 de TecNM) _Error 404_ (Clasificatorio)
-1. #108 (#28 de TecNM) _Kronos con k_ (Clasificatorio)
-1. #108 (#28 de TecNM) _Zeus_ (Clasificatorio)
 
 ### 2016-2017
 
@@ -116,18 +116,18 @@
 
 ### 2017-2018
 
+1. #405 (#97 de TecNM) _Tuxpan team_ (Clasificatorio)
 1. #405 (#97 de TecNM) _ATLAS_ (Clasificatorio)
 1. #405 (#97 de TecNM) _Code Fire_ (Clasificatorio)
-1. #405 (#97 de TecNM) _Tuxpan team_ (Clasificatorio)
 
 ### 2019-2020
 
 1. #293 (#60 de TecNM) _Cometa azul_ (Clasificatorio)
 1. #370 (#94 de TecNM) _Team Jar_ (Clasificatorio)
 1. #382 (#100 de TecNM) _Creative Tech Giants_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Los Rolos_ (Clasificatorio)
 1. #382 (#100 de TecNM) _Cypher_ (Clasificatorio)
 1. #382 (#100 de TecNM) _Dinamita_2019_ (Clasificatorio)
-1. #382 (#100 de TecNM) _Los Rolos_ (Clasificatorio)
 
 ### 2021-2022
 

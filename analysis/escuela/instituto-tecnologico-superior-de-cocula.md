@@ -2,11 +2,11 @@
 
 ## Mejores 10 equipos
 
-1. _Punto y coma_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _The last fight_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Virtus Pro_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Cocula1_ resolvió 0 problemas y obtuvo el lugar #405 (40%) en Gran Premio de Mexico & Centroamerica 2017
-1. _TecCocula_ resolvió 0 problemas y obtuvo el lugar #405 (40%) en Gran Premio de Mexico & Centroamerica 2017
+1. _The last fight_ obtuvo el lugar #382 (56%) en Gran Premio de Mexico 2019
+1. _TecCocula_ resolvió 0 problemas y obtuvo el lugar #405 (42%) en Gran Premio de Mexico & Centroamerica 2017
+1. _Cocula1_ resolvió 0 problemas y obtuvo el lugar #405 (39%) en Gran Premio de Mexico & Centroamerica 2017
+1. _Punto y coma_ obtuvo el lugar #382 (24%) en Gran Premio de Mexico 2019
+1. _Virtus Pro_ obtuvo el lugar #382 (3%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 
@@ -20,13 +20,13 @@
 
 ### 2017-2018
 
-1. #405 (#97 de TecNM) _Cocula1_ (Clasificatorio)
 1. #405 (#97 de TecNM) _TecCocula_ (Clasificatorio)
+1. #405 (#97 de TecNM) _Cocula1_ (Clasificatorio)
 
 ### 2019-2020
 
-1. #382 (#100 de TecNM) _Punto y coma_ (Clasificatorio)
 1. #382 (#100 de TecNM) _The last fight_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Punto y coma_ (Clasificatorio)
 1. #382 (#100 de TecNM) _Virtus Pro_ (Clasificatorio)
 
 

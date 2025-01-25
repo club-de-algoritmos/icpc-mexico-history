@@ -4,7 +4,7 @@
 
 1. _upcode_ resolvió 2 problemas y obtuvo el lugar #34 (87%) en The 2014 ACM-ICPC Mexico and Central America Finals
 1. _UPQROO Cancún_ resolvió 2 problemas y obtuvo el lugar #77 (85%) en The 2016 ACM-ICPC Mexico and Central America Finals
-1. _UPQROO Cancún II_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _UPQROO Cancún II_ resolvió 0 problemas y obtuvo el lugar #121 (43%) en Gran Premio de Mexico & Centroamerica
 
 ## Participaciones
 

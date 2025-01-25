@@ -6,12 +6,12 @@
 1. _Los que no vinieron_ resolvió 5 problemas y obtuvo el lugar #12 (98%) en The 2020 ICPC Mexico Finals
 1. _RAM_ resolvió 4 problemas y obtuvo el lugar #26 (97%) en The 2018 ICPC Mexico and Central America Finals
 1. _Los que no vinieron_ resolvió 1 problemas y obtuvo el lugar #43 (97%) en The 2019 ICPC Mexico Finals
-1. _Los que SÍ vinieron_ resolvió 9 problemas y obtuvo el lugar #56 (95%) en The 2022 ICPC Gran Premio de Mexico
+1. _Los que SÍ vinieron_ resolvió 9 problemas y obtuvo el lugar #56 (93%) en The 2022 ICPC Gran Premio de Mexico
 1. _Cancer_ resolvió 3 problemas y obtuvo el lugar #23 (87%) en The 2008 Mexico & Central America Contest
 1. _javaglets_ resolvió 2 problemas y obtuvo el lugar #17 (86%) en The 2004 ACM Mexico and Central America Programming Contest
 1. _Chevaliers_ resolvió 3 problemas y obtuvo el lugar #18 (86%) en The 2006 ACM Mexico and Central America Programming Contest
-1. _EpicTeam_ resolvió 7 problemas y obtuvo el lugar #100 (85%) en Gran Premio de Mexico & Centroamerica 2017
 1. _Rike Polle de 10 pesitos_ resolvió 4 problemas y obtuvo el lugar #192 (85%) en Gran Premio de Mexico 2019
+1. _Armadillos_ resolvió 3 problemas y obtuvo el lugar #194 (81%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -69,10 +69,10 @@
 
 ### 2016-2017
 
-1. #121 (#33 de ITESM) _Espartanos_ (Clasificatorio)
 1. #121 (#33 de ITESM) _Los destructores_ (Clasificatorio)
-1. #121 (#33 de ITESM) _Neto y los OMI_ (Clasificatorio)
 1. #121 (#33 de ITESM) _STL Team_ (Clasificatorio)
+1. #121 (#33 de ITESM) _Neto y los OMI_ (Clasificatorio)
+1. #121 (#33 de ITESM) _Espartanos_ (Clasificatorio)
 
 ### 2017-2018
 
@@ -81,8 +81,8 @@
 1. #140 (#37 de ITESM) _Olympus_ (Clasificatorio)
 1. #299 (#56 de ITESM) _For Honor_ (Clasificatorio)
 1. #344 (#61 de ITESM) _MBuzdalovers_ (Clasificatorio)
-1. #405 (#69 de ITESM) _Charmanders_ (Clasificatorio)
 1. #405 (#69 de ITESM) _DreamTeam_ (Clasificatorio)
+1. #405 (#69 de ITESM) _Charmanders_ (Clasificatorio)
 
 ### 2018-2019
 

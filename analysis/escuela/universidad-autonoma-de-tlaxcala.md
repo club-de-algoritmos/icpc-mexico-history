@@ -49,8 +49,8 @@
 ### 2003-2004
 
 1. #14 _Tlacuaches_ (Regional)
-1. #41 _Los Rabales_ (Regional)
 1. #41 _Smart Survivors_ (Regional)
+1. #41 _Los Rabales_ (Regional)
 
 ### 2004-2005
 
@@ -66,8 +66,8 @@
 ### 2006-2007
 
 1. #20 _C.java_ (Regional)
-1. #85 _Encriptados_ (Regional)
 1. #85 _Survival Machines_ (Regional)
+1. #85 _Encriptados_ (Regional)
 
 ### 2007-2008
 
@@ -97,8 +97,8 @@
 ### 2011-2012
 
 1. #50 _AJM_ (Regional)
-1. #104 _3L_ (Regional)
 1. #104 _QLAN_ (Regional)
+1. #104 _3L_ (Regional)
 
 ### 2012-2013
 
@@ -119,10 +119,10 @@
 
 ### 2016-2017
 
-1. #121 _Cerbero_ (Clasificatorio)
-1. #121 _DO-FOR_ (Clasificatorio)
-1. #121 _IEEA_ (Clasificatorio)
 1. #121 _NO-VATOS_ (Clasificatorio)
+1. #121 _IEEA_ (Clasificatorio)
+1. #121 _DO-FOR_ (Clasificatorio)
+1. #121 _Cerbero_ (Clasificatorio)
 
 ### 2017-2018
 
@@ -132,6 +132,7 @@
 1. #376 _Los discípulos de Albores_ (Clasificatorio)
 1. #387 _Hackerelite_ (Clasificatorio)
 1. #399 _DO-FOR_ (Clasificatorio)
+1. #405 _raccoons_ (Clasificatorio)
 1. #405 _CAD_ (Clasificatorio)
 1. #405 _DoFor_ (Clasificatorio)
 1. #405 _LAIKANS_ (Clasificatorio)
@@ -139,7 +140,6 @@
 1. #405 _LORDS SEMPAI_ (Clasificatorio)
 1. #405 _MAPACHES_ (Clasificatorio)
 1. #405 _MG_ (Clasificatorio)
-1. #405 _raccoons_ (Clasificatorio)
 
 ### 2018-2019
 
@@ -159,10 +159,10 @@
 1. #341 _Los Charks_ (Clasificatorio)
 1. #364 _UAT_Mapachitos_ (Clasificatorio)
 1. #378 _BAM_ (Clasificatorio)
-1. #382 _Great Programmers_ (Clasificatorio)
-1. #382 _LPM_ (Clasificatorio)
 1. #382 _Los Padrotes_ (Clasificatorio)
 1. #382 _Racoons Crew 2.0_ (Clasificatorio)
+1. #382 _LPM_ (Clasificatorio)
+1. #382 _Great Programmers_ (Clasificatorio)
 1. #382 _UAT_coders_ (Clasificatorio)
 
 ### 2020-2021

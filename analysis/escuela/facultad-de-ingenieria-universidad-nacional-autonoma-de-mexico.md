@@ -3,15 +3,15 @@
 ## Mejores 10 equipos
 
 1. _Chamba Seekers_ resolvió 4 problemas y obtuvo el lugar #11 (99%) en The 2024 ICPC Mexico Finals
-1. _Papás de Chamba Seekers_ resolvió 4 problemas y obtuvo el lugar #19 (99%) en The 2024 ICPC Mexico Finals
 1. _Solanitos_ resolvió 4 problemas y obtuvo el lugar #11 (98%) en The 2023 ICPC Mexico Finals
+1. _Papás de Chamba Seekers_ resolvió 4 problemas y obtuvo el lugar #19 (98%) en The 2024 ICPC Mexico Finals
 1. _Los Chicos Superpoderosos_ resolvió 2 problemas y obtuvo el lugar #33 (97%) en The 2022 ICPC Mexico Finals
 1. _NoC++_ resolvió 1 problemas y obtuvo el lugar #42 (96%) en The 2022 ICPC Mexico Finals
-1. _StuckInC_ resolvió 11 problemas y obtuvo el lugar #51 (96%) en The 2024 ICPC Gran Premio de Mexico
 1. _Quesabirria Flamin'Hot_ resolvió 4 problemas y obtuvo el lugar #22 (95%) en The 2023 ICPC Mexico Finals
 1. _DaleBoca_ resolvió 3 problemas y obtuvo el lugar #61 (95%) en The 2024 ICPC Mexico Finals
-1. _Tistabros_ resolvió 9 problemas y obtuvo el lugar #67 (95%) en The 2024 ICPC Gran Premio de Mexico
-1. _Miopes Derivados_ resolvió 9 problemas y obtuvo el lugar #84 (93%) en The 2024 ICPC Gran Premio de Mexico
+1. _JVF-007_ resolvió 7 problemas y obtuvo el lugar #82 (92%) en The 2022 ICPC Gran Premio de Mexico
+1. _StuckInC_ resolvió 11 problemas y obtuvo el lugar #51 (90%) en The 2024 ICPC Gran Premio de Mexico
+1. _Bryxelz _ resolvió 7 problemas y obtuvo el lugar #95 (90%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -63,8 +63,8 @@
 
 1. #11 _Chamba Seekers_ (Regional)
 1. #19 _Papás de Chamba Seekers_ (Regional)
-1. #51 _StuckInC_ (Clasificatorio)
 1. #61 _DaleBoca_ (Regional)
+1. #51 _StuckInC_ (Clasificatorio)
 1. #67 _Tistabros_ (Clasificatorio)
 1. #84 _Miopes Derivados_ (Clasificatorio)
 1. #114 _MilTaCoZ.py_ (Clasificatorio)

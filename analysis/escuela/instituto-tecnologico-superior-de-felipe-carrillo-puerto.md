@@ -2,9 +2,9 @@
 
 ## Mejores 10 equipos
 
-1. _Maya Decoders_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
-1. _3code_ resolvió 0 problemas y obtuvo el lugar #226 (53%) en The 2021 ICPC Gran Premio de Mexico
-1. _3code_ resolvió 0 problemas y obtuvo el lugar #351 (50%) en Gran Premio de Mexico 2020
+1. _3code_ resolvió 0 problemas y obtuvo el lugar #226 (48%) en The 2021 ICPC Gran Premio de Mexico
+1. _Maya Decoders_ resolvió 0 problemas y obtuvo el lugar #482 (10%) en The 2024 ICPC Gran Premio de Mexico
+1. _3code_ resolvió 0 problemas y obtuvo el lugar #351 (5%) en Gran Premio de Mexico 2020
 
 ## Participaciones
 

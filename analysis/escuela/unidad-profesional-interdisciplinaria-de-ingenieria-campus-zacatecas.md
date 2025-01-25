@@ -5,8 +5,8 @@
 1. _Las pistas de NULL_ resolvió 1 problemas y obtuvo el lugar #45 (97%) en The 2019 ICPC Mexico Finals
 1. _Las pistas de nullptr_ resolvió 3 problemas y obtuvo el lugar #40 (94%) en The 2020 ICPC Mexico Finals
 1. _ChatGPT Make A Cool Team Name_ resolvió 3 problemas y obtuvo el lugar #74 (94%) en The 2024 ICPC Mexico Finals
-1. _Escuadron alpha lobo dinamita_ resolvió 6 problemas y obtuvo el lugar #83 (94%) en Gran Premio de Mexico 2019
 1. _Printfers_ resolvió 3 problemas y obtuvo el lugar #35 (93%) en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _Escuadron alpha lobo dinamita_ resolvió 6 problemas y obtuvo el lugar #83 (93%) en Gran Premio de Mexico 2019
 1. _Tacos Envenenados_ resolvió 2 problemas y obtuvo el lugar #86 (93%) en The 2024 ICPC Mexico Finals
 1. _solo_dos_idiotas_y_lalo_ resolvió 1 problemas y obtuvo el lugar #53 (92%) en The 2017 ACM-ICPC Mexico and Central America Finals
 1. _Printfers_ resolvió 1 problemas y obtuvo el lugar #55 (92%) en The 2017 ACM-ICPC Mexico and Central America Finals
@@ -42,8 +42,8 @@
 
 1. #48 _404 Not Found_ (Regional)
 1. #66 _SNBC&D_ (Regional)
-1. #108 _Banderola_ (Clasificatorio)
 1. #108 _Maquinas Digitales_ (Clasificatorio)
+1. #108 _Banderola_ (Clasificatorio)
 1. #108 _Printfers_ (Clasificatorio)
 1. #108 _Sistemas X_ (Clasificatorio)
 1. #108 _javaswitnesses_ (Clasificatorio)
@@ -53,10 +53,10 @@
 1. #35 _Printfers_ (Regional)
 1. #46 _3idiotas_ (Regional)
 1. #121 _404_not_found_ (Clasificatorio)
-1. #121 _Internautas por amor_ (Clasificatorio)
-1. #121 _Los nuevos_ (Clasificatorio)
 1. #121 _Los_asiaticos_ (Clasificatorio)
 1. #121 _if_then_else_ (Clasificatorio)
+1. #121 _Los nuevos_ (Clasificatorio)
+1. #121 _Internautas por amor_ (Clasificatorio)
 
 ### 2017-2018
 

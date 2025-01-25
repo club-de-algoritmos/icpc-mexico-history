@@ -8,10 +8,10 @@
 1. _mani_ resolvió 1 problemas y obtuvo el lugar #41 (73%) en The 2007 ACM Mexico and Central America Programming Contest
 1. _++TEC_ resolvió 2 problemas y obtuvo el lugar #45 (73%) en The 2012 Mexico & Central America Regional Contest
 1. _JUnit_ resolvió 1 problemas y obtuvo el lugar #46 (70%) en The 2007 ACM Mexico and Central America Programming Contest
-1. _BetaMasters_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _EquiPaco 1.9_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _Kokiri_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _MiT_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _J-UNIT RELOADED_ resolvió 1 problemas y obtuvo el lugar #70 (59%) en The 2008 Mexico & Central America Contest
+1. _CACHORA'S TEAM_ resolvió 0 problemas y obtuvo el lugar #61 (57%) en The 2007 ACM Mexico and Central America Programming Contest
+1. _ACM1PTPLZ_ resolvió 2 problemas y obtuvo el lugar #72 (55%) en The 2011 Mexico & Central America Regional Contest
+1. _Kokiri_ resolvió 0 problemas y obtuvo el lugar #382 (55%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -40,9 +40,9 @@
 
 ### 2005-2006
 
-1. #85 (#12 de TecNM) _Tuberculos_ (Regional)
 1. #85 (#12 de TecNM) _bufaloITM_ (Regional)
 1. #85 (#12 de TecNM) _bufalosCC_ (Regional)
+1. #85 (#12 de TecNM) _Tuberculos_ (Regional)
 
 ### 2006-2007
 
@@ -69,8 +69,8 @@
 
 1. #72 (#17 de TecNM) _ACM1PTPLZ_ (Regional)
 1. #95 (#28 de TecNM) _MXL 7.2_ (Regional)
-1. #104 (#35 de TecNM) _BIT-ALLS_ (Regional)
 1. #104 (#35 de TecNM) _Los Pitufos_ (Regional)
+1. #104 (#35 de TecNM) _BIT-ALLS_ (Regional)
 
 ### 2012-2013
 
@@ -82,22 +82,22 @@
 
 ### 2020-2021
 
-1. #351 (#65 de TecNM) _Dos norteños y un chilango_ (Clasificatorio)
-1. #351 (#65 de TecNM) _RYN_ (Clasificatorio)
 1. #351 (#65 de TecNM) _SLEEK_STYLE_ (Clasificatorio)
+1. #351 (#65 de TecNM) _RYN_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Dos norteños y un chilango_ (Clasificatorio)
 1. #351 (#65 de TecNM) _Turing testers_ (Clasificatorio)
 
 ### 2021-2022
 
 1. #226 (#37 de TecNM) _C#TecnmMexicali_ (Clasificatorio)
-1. #226 (#37 de TecNM) _Dos norteños y un chilango_ (Clasificatorio)
 1. #226 (#37 de TecNM) _Niños_Buenos_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Dos norteños y un chilango_ (Clasificatorio)
 
 ### 2022-2023
 
+1. #382 (#83 de TecNM) _Kokiri_ (Clasificatorio)
 1. #382 (#83 de TecNM) _BetaMasters_ (Clasificatorio)
 1. #382 (#83 de TecNM) _EquiPaco 1.9_ (Clasificatorio)
-1. #382 (#83 de TecNM) _Kokiri_ (Clasificatorio)
 1. #382 (#83 de TecNM) _MiT_ (Clasificatorio)
 1. #382 (#83 de TecNM) _PyroMochis_ (Clasificatorio)
 

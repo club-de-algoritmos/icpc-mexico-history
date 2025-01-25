@@ -3,15 +3,15 @@
 ## Mejores 10 equipos
 
 1. _Turigers_ resolvió 1 problemas y obtuvo el lugar #45 (82%) en The 2014 ACM-ICPC Mexico and Central America Finals
-1. _AnotherCreativeName_ resolvió 8 problemas y obtuvo el lugar #137 (81%) en Gran Premio de Mexico 2020
-1. _Flagship_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
-1. _LAC team_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
-1. _bitwise_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
-1. _javalimos_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
-1. _quetzal_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
-1. _the xtreme programmers_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _AnotherCreativeName_ resolvió 8 problemas y obtuvo el lugar #137 (80%) en Gran Premio de Mexico 2020
 1. _Trouble hunters_ resolvió 5 problemas y obtuvo el lugar #188 (73%) en Gran Premio de Mexico 2020
-1. _C-NEWS_ resolvió 0 problemas y obtuvo el lugar #27 (72%) en The 2002 ACM Mexico and Central America Programming Contest
+1. _LAC team_ resolvió 0 problemas y obtuvo el lugar #121 (71%) en Gran Premio de Mexico & Centroamerica
+1. _Rocket Code_ resolvió 3 problemas y obtuvo el lugar #257 (63%) en Gran Premio de Mexico 2020
+1. _Rocket code_ resolvió 1 problemas y obtuvo el lugar #197 (60%) en The 2021 ICPC Gran Premio de Mexico
+1. _Rockola_ resolvió 2 problemas y obtuvo el lugar #303 (59%) en Gran Premio de Mexico 2018
+1. _Oml markup language_ resolvió 0 problemas y obtuvo el lugar #108 (55%) en Gran Premio de Mexico & Centroamerica
+1. _Turingers_ resolvió 1 problemas y obtuvo el lugar #84 (53%) en The 2013 Mexico & Central America Regional Contest
+1. _UVetc_ obtuvo el lugar #382 (53%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 
@@ -60,19 +60,19 @@
 
 ### 2015-2016
 
-1. #108 _Flagship_ (Clasificatorio)
 1. #108 _Oml markup language_ (Clasificatorio)
 1. #108 _architects_ (Clasificatorio)
+1. #108 _Flagship_ (Clasificatorio)
 1. #108 _bitwise_ (Clasificatorio)
 
 ### 2016-2017
 
-1. #121 _Flagship_ (Clasificatorio)
 1. #121 _LAC team_ (Clasificatorio)
 1. #121 _bitwise_ (Clasificatorio)
+1. #121 _Flagship_ (Clasificatorio)
+1. #121 _the xtreme programmers_ (Clasificatorio)
 1. #121 _javalimos_ (Clasificatorio)
 1. #121 _quetzal_ (Clasificatorio)
-1. #121 _the xtreme programmers_ (Clasificatorio)
 
 ### 2018-2019
 
@@ -98,10 +98,10 @@
 
 ### 2022-2023
 
-1. #382 _BugGuys_ (Clasificatorio)
-1. #382 _MojarrasUniversitarias_ (Clasificatorio)
 1. #382 _UVRangers_ (Clasificatorio)
 1. #382 _UVengers_ (Clasificatorio)
+1. #382 _BugGuys_ (Clasificatorio)
+1. #382 _MojarrasUniversitarias_ (Clasificatorio)
 
 ### 2024-2025
 

@@ -3,11 +3,11 @@
 ## Mejores 10 equipos
 
 1. _The Expendables_ resolvió 3 problemas y obtuvo el lugar #39 (76%) en The 2011 Mexico & Central America Regional Contest
-1. _CyberRams1_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
-1. _c0derz_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
 1. _The Expendables_ resolvió 2 problemas y obtuvo el lugar #66 (67%) en The 2010 Mexico & Central America Regional Contest
 1. _Los aprendices_ resolvió 2 problemas y obtuvo el lugar #76 (62%) en The 2010 Mexico & Central America Regional Contest
-1. _iTIC Tekito_ resolvió 0 problemas y obtuvo el lugar #101 (40%) en The 2008 Mexico & Central America Contest
+1. _c0derz_ resolvió 0 problemas y obtuvo el lugar #121 (51%) en Gran Premio de Mexico & Centroamerica
+1. _CyberRams1_ resolvió 0 problemas y obtuvo el lugar #121 (30%) en Gran Premio de Mexico & Centroamerica
+1. _iTIC Tekito_ resolvió 0 problemas y obtuvo el lugar #101 (23%) en The 2008 Mexico & Central America Contest
 
 ## Participaciones
 
@@ -36,8 +36,8 @@
 
 ### 2016-2017
 
-1. #121 (#33 de ITESM) _CyberRams1_ (Clasificatorio)
 1. #121 (#33 de ITESM) _c0derz_ (Clasificatorio)
+1. #121 (#33 de ITESM) _CyberRams1_ (Clasificatorio)
 
 
 

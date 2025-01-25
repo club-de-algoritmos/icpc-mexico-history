@@ -2,10 +2,10 @@
 
 ## Mejores 10 equipos
 
-1. _AjoloteTeam_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _Axolote 1_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
-1. _Axolote 2_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
-1. _Axolote 3_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
+1. _Axolote 1_ resolvió 0 problemas y obtuvo el lugar #482 (49%) en The 2024 ICPC Gran Premio de Mexico
+1. _Axolote 2_ resolvió 0 problemas y obtuvo el lugar #482 (49%) en The 2024 ICPC Gran Premio de Mexico
+1. _Axolote 3_ resolvió 0 problemas y obtuvo el lugar #482 (49%) en The 2024 ICPC Gran Premio de Mexico
+1. _AjoloteTeam_ resolvió 0 problemas y obtuvo el lugar #382 (20%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 

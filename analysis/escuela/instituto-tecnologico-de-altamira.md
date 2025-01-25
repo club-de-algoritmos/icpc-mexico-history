@@ -4,7 +4,7 @@
 
 1. _TCP_ resolvió 2 problemas y obtuvo el lugar #235 (82%) en Gran Premio de Mexico 2019
 1. _Si no gano me reprueban_ resolvió 1 problemas y obtuvo el lugar #301 (77%) en Gran Premio de Mexico 2019
-1. _Potros_ resolvió 0 problemas y obtuvo el lugar #395 (48%) en Gran Premio de Mexico 2018
+1. _Potros_ resolvió 0 problemas y obtuvo el lugar #395 (5%) en Gran Premio de Mexico 2018
 
 ## Participaciones
 

@@ -4,14 +4,14 @@
 
 1. _STDIO.H_ resolvió 1 problemas y obtuvo el lugar #312 (76%) en Gran Premio de Mexico 2019
 1. _Los Teslas_ resolvió 1 problemas y obtuvo el lugar #336 (74%) en Gran Premio de Mexico 2019
-1. _Basura Galáctica_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Don Julio´s 70_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Los Wasauski_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _X-Force_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _In Code We Trust_ resolvió 1 problemas y obtuvo el lugar #304 (55%) en Gran Premio de Mexico & Centroamerica 2017
+1. _In Code We Trust_ resolvió 1 problemas y obtuvo el lugar #304 (54%) en Gran Premio de Mexico & Centroamerica 2017
 1. _zapofreeks_ resolvió 1 problemas y obtuvo el lugar #340 (50%) en Gran Premio de Mexico & Centroamerica 2017
-1. _Los LuGlaeS_ resolvió 1 problemas y obtuvo el lugar #385 (43%) en Gran Premio de Mexico & Centroamerica 2017
-1. _SID_ resolvió 0 problemas y obtuvo el lugar #405 (40%) en Gran Premio de Mexico & Centroamerica 2017
+1. _Los LuGlaeS_ resolvió 1 problemas y obtuvo el lugar #385 (44%) en Gran Premio de Mexico & Centroamerica 2017
+1. _X-Force_ obtuvo el lugar #382 (43%) en Gran Premio de Mexico 2019
+1. _SID_ resolvió 0 problemas y obtuvo el lugar #405 (41%) en Gran Premio de Mexico & Centroamerica 2017
+1. _Los Wasauski_ obtuvo el lugar #382 (38%) en Gran Premio de Mexico 2019
+1. _Basura Galáctica_ obtuvo el lugar #382 (31%) en Gran Premio de Mexico 2019
+1. _Don Julio´s 70_ obtuvo el lugar #382 (3%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 
@@ -34,10 +34,10 @@
 
 1. #312 (#69 de TecNM) _STDIO.H_ (Clasificatorio)
 1. #336 (#78 de TecNM) _Los Teslas_ (Clasificatorio)
+1. #382 (#100 de TecNM) _X-Force_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Los Wasauski_ (Clasificatorio)
 1. #382 (#100 de TecNM) _Basura Galáctica_ (Clasificatorio)
 1. #382 (#100 de TecNM) _Don Julio´s 70_ (Clasificatorio)
-1. #382 (#100 de TecNM) _Los Wasauski_ (Clasificatorio)
-1. #382 (#100 de TecNM) _X-Force_ (Clasificatorio)
 
 
 

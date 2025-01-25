@@ -48,8 +48,8 @@
 ### 2003-2004
 
 1. #5 _ITAM_ (Regional)
-1. #41 _DAEMONS_ (Regional)
 1. #41 _Rave IT_ (Regional)
+1. #41 _DAEMONS_ (Regional)
 
 ### 2004-2005
 
@@ -96,8 +96,8 @@
 ### 2014-2015
 
 1. #4 _Los románticos_ (Regional)
-1. #1 _Los Románticos_ (Clasificatorio)
 1. #26 _Lords Llama de la Ciencia_ (Regional)
+1. #1 _Los Románticos_ (Clasificatorio)
 1. #42 _RH+_ (Clasificatorio)
 
 ### 2015-2016

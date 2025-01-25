@@ -2,9 +2,9 @@
 
 ## Mejores 10 equipos
 
-1. _Me canso ganso_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _La Secta_ resolvió 0 problemas y obtuvo el lugar #405 (40%) en Gran Premio de Mexico & Centroamerica 2017
-1. _Los Sistematicos_ resolvió 0 problemas y obtuvo el lugar #405 (40%) en Gran Premio de Mexico & Centroamerica 2017
+1. _Me canso ganso_ obtuvo el lugar #382 (46%) en Gran Premio de Mexico 2019
+1. _La Secta_ resolvió 0 problemas y obtuvo el lugar #405 (31%) en Gran Premio de Mexico & Centroamerica 2017
+1. _Los Sistematicos_ resolvió 0 problemas y obtuvo el lugar #405 (14%) en Gran Premio de Mexico & Centroamerica 2017
 
 ## Participaciones
 

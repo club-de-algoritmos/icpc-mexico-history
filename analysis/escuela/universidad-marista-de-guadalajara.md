@@ -4,14 +4,14 @@
 
 1. _CodeGirls_ resolvió 2 problemas y obtuvo el lugar #400 (67%) en The 2024 ICPC Gran Premio de Mexico
 1. _CodeCraft_ resolvió 2 problemas y obtuvo el lugar #405 (67%) en The 2024 ICPC Gran Premio de Mexico
-1. _Rubberduckers_ resolvió 2 problemas y obtuvo el lugar #418 (66%) en The 2024 ICPC Gran Premio de Mexico
-1. _TriloBytes_ resolvió 2 problemas y obtuvo el lugar #421 (66%) en The 2024 ICPC Gran Premio de Mexico
-1. _Gechok _ resolvió 1 problemas y obtuvo el lugar #456 (63%) en The 2024 ICPC Gran Premio de Mexico
-1. _UMG.2.1++_ resolvió 4 problemas y obtuvo el lugar #191 (58%) en The 2023 ICPC Gran Premio de Mexico
+1. _Rubberduckers_ resolvió 2 problemas y obtuvo el lugar #418 (65%) en The 2024 ICPC Gran Premio de Mexico
+1. _TriloBytes_ resolvió 2 problemas y obtuvo el lugar #421 (65%) en The 2024 ICPC Gran Premio de Mexico
+1. _Gechok _ resolvió 1 problemas y obtuvo el lugar #456 (62%) en The 2024 ICPC Gran Premio de Mexico
+1. _Lasalle 2_ resolvió 1 problemas y obtuvo el lugar #69 (60%) en The 2005 ACM Mexico and Central America Programming Contest
+1. _UMG.2.1++_ resolvió 4 problemas y obtuvo el lugar #191 (57%) en The 2023 ICPC Gran Premio de Mexico
 1. _Marista Three_ resolvió 2 problemas y obtuvo el lugar #93 (54%) en The 2010 Mexico & Central America Regional Contest
-1. _UMG++_ resolvió 0 problemas y obtuvo el lugar #226 (53%) en The 2021 ICPC Gran Premio de Mexico
-1. _Lasalle 2_ resolvió 1 problemas y obtuvo el lugar #69 (51%) en The 2005 ACM Mexico and Central America Programming Contest
 1. _LasalleGRC_ resolvió 1 problemas y obtuvo el lugar #60 (47%) en The 2004 ACM Mexico and Central America Programming Contest
+1. _LasalleDDE_ resolvió 1 problemas y obtuvo el lugar #63 (45%) en The 2004 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

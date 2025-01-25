@@ -13,9 +13,9 @@
 1. _NO-NAME_ resolvió 4 problemas y obtuvo el lugar #3 (98%) en The 2004 ACM Mexico and Central America Programming Contest
 1. _TamalesDeMole_ resolvió 3 problemas y obtuvo el lugar #63 (95%) en The 2024 ICPC Mexico Finals
 1. _UDLAP4-NoName_ resolvió 2 problemas y obtuvo el lugar #12 (88%) en The 2002 ACM Mexico and Central America Programming Contest
-1. _UDLAP2-IO-PROMPT_ resolvió 2 problemas y obtuvo el lugar #21 (86%) en The 2005 ACM Mexico and Central America Programming Contest
+1. _UDLAP2-IO-PROMPT_ resolvió 2 problemas y obtuvo el lugar #21 (87%) en The 2005 ACM Mexico and Central America Programming Contest
+1. _UDLAP5-EOF_ resolvió 2 problemas y obtuvo el lugar #29 (82%) en The 2005 ACM Mexico and Central America Programming Contest
 1. _Beta Version_ resolvió 3 problemas y obtuvo el lugar #26 (80%) en The 2006 ACM Mexico and Central America Programming Contest
-1. _UDLAP5-EOF_ resolvió 2 problemas y obtuvo el lugar #29 (80%) en The 2005 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

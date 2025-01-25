@@ -5,13 +5,13 @@
 1. _last_generation_itesz_ resolvió 4 problemas y obtuvo el lugar #14 (92%) en The 2012 Mexico & Central America Regional Contest
 1. _ITESZ01_ resolvió 2 problemas y obtuvo el lugar #35 (79%) en The 2012 Mexico & Central America Regional Contest
 1. _ITESZ01_ resolvió 3 problemas y obtuvo el lugar #43 (79%) en The 2010 Mexico & Central America Regional Contest
-1. _ITESZ01_ resolvió 2 problemas y obtuvo el lugar #40 (76%) en The 2011 Mexico & Central America Regional Contest
+1. _ITESZ01_ resolvió 2 problemas y obtuvo el lugar #40 (75%) en The 2011 Mexico & Central America Regional Contest
 1. _ITESZ01_ resolvió 2 problemas y obtuvo el lugar #46 (72%) en The 2009 Mexico & Central America Contest
 1. _Chinguetas_ resolvió 3 problemas y obtuvo el lugar #211 (70%) en Gran Premio de Mexico 2018
-1. _4Mims_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _TecnoZorros_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _Zorros Tec Zamora_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _itesz_5toA_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _afk_ resolvió 2 problemas y obtuvo el lugar #300 (59%) en Gran Premio de Mexico 2018
+1. _ITESZ02_ resolvió 2 problemas y obtuvo el lugar #84 (58%) en The 2010 Mexico & Central America Regional Contest
+1. _ITESZ03_ resolvió 2 problemas y obtuvo el lugar #90 (55%) en The 2010 Mexico & Central America Regional Contest
+1. _Monkey Error_ resolvió 1 problemas y obtuvo el lugar #81 (54%) en The 2013 Mexico & Central America Regional Contest
 
 ## Participaciones
 
@@ -76,9 +76,9 @@
 
 ### 2022-2023
 
-1. #382 (#83 de TecNM) _4Mims_ (Clasificatorio)
 1. #382 (#83 de TecNM) _TecnoZorros_ (Clasificatorio)
 1. #382 (#83 de TecNM) _Zorros Tec Zamora_ (Clasificatorio)
+1. #382 (#83 de TecNM) _4Mims_ (Clasificatorio)
 1. #382 (#83 de TecNM) _itesz_5toA_ (Clasificatorio)
 
 

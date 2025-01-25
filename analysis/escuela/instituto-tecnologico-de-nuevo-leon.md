@@ -7,11 +7,11 @@
 1. _Nahuales_ resolvió 0 problemas y obtuvo el lugar #113 (91%) en The 2024 ICPC Mexico Finals
 1. _0xBests_ resolvió 0 problemas y obtuvo el lugar #50 (90%) en The 2021 ICPC Mexico Finals
 1. _A verdad me engañe_ resolvió 5 problemas y obtuvo el lugar #129 (90%) en Gran Premio de Mexico 2019
-1. _DeltaHBC_ resolvió 6 problemas y obtuvo el lugar #164 (87%) en The 2024 ICPC Gran Premio de Mexico
+1. _DeltaHBC_ resolvió 6 problemas y obtuvo el lugar #164 (84%) en The 2024 ICPC Gran Premio de Mexico
 1. _silumgar_ resolvió 2 problemas y obtuvo el lugar #63 (81%) en The 2015 ACM-ICPC Mexico and Central America Finals
-1. _Los cadetes de Konoha_ resolvió 3 problemas y obtuvo el lugar #224 (79%) en The 2022 ICPC Gran Premio de Mexico
-1. _silumgar_ resolvió 4 problemas y obtuvo el lugar #145 (78%) en Gran Premio de Mexico & Centroamerica 2017
+1. _Los cadetes de Konoha_ resolvió 3 problemas y obtuvo el lugar #224 (78%) en The 2022 ICPC Gran Premio de Mexico
 1. _Chip’n Dale +1_ resolvió 3 problemas y obtuvo el lugar #231 (78%) en The 2022 ICPC Gran Premio de Mexico
+1. _Los Mavericks_ resolvió 3 problemas y obtuvo el lugar #234 (77%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -99,8 +99,8 @@
 1. #62 (#23 de TecNM) _The Javengers_ (Regional)
 1. #71 (#28 de TecNM) _Los Pollos Hermanos_ (Regional)
 1. #107 (#43 de TecNM) _CopiaConflictiva_ (Regional)
-1. #134 (#55 de TecNM) _Némesis_ (Regional)
 1. #134 (#55 de TecNM) _Storm_ (Regional)
+1. #134 (#55 de TecNM) _Némesis_ (Regional)
 
 ### 2013-2014
 
@@ -122,14 +122,14 @@
 
 ### 2016-2017
 
-1. #121 (#22 de TecNM) _#FuerzaJuanga_ (Clasificatorio)
+1. #121 (#22 de TecNM) _silumgar_ (Clasificatorio)
 1. #121 (#22 de TecNM) _ANtRAX_ (Clasificatorio)
+1. #121 (#22 de TecNM) _Testigos de Teemo_ (Clasificatorio)
+1. #121 (#22 de TecNM) _#FuerzaJuanga_ (Clasificatorio)
 1. #121 (#22 de TecNM) _CrowSys_ (Clasificatorio)
+1. #121 (#22 de TecNM) _TriForce+1-1_ (Clasificatorio)
 1. #121 (#22 de TecNM) _Pichones_ (Clasificatorio)
 1. #121 (#22 de TecNM) _Snow Revenant_ (Clasificatorio)
-1. #121 (#22 de TecNM) _Testigos de Teemo_ (Clasificatorio)
-1. #121 (#22 de TecNM) _TriForce+1-1_ (Clasificatorio)
-1. #121 (#22 de TecNM) _silumgar_ (Clasificatorio)
 
 ### 2017-2018
 
@@ -157,9 +157,9 @@
 1. #363 (#89 de TecNM) _Critical Infamous_ (Clasificatorio)
 1. #365 (#90 de TecNM) _Los Huracanes del Teclado_ (Clasificatorio)
 1. #376 (#98 de TecNM) _Software Libre_ (Clasificatorio)
+1. #382 (#100 de TecNM) _O.M. END GAME_ (Clasificatorio)
 1. #382 (#100 de TecNM) _80 En Vectorial_ (Clasificatorio)
 1. #382 (#100 de TecNM) _Alone Ravens_ (Clasificatorio)
-1. #382 (#100 de TecNM) _O.M. END GAME_ (Clasificatorio)
 
 ### 2020-2021
 
@@ -172,9 +172,9 @@
 
 1. #50 (#6 de TecNM) _0xBests_ (Regional)
 1. #212 (#32 de TecNM) _The Changes_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Megabytes_ (Clasificatorio)
 1. #226 (#37 de TecNM) _Chargers_ (Clasificatorio)
 1. #226 (#37 de TecNM) _Error404_ (Clasificatorio)
-1. #226 (#37 de TecNM) _Megabytes_ (Clasificatorio)
 
 ### 2022-2023
 
@@ -187,10 +187,10 @@
 1. #366 (#72 de TecNM) _NÑ_ (Clasificatorio)
 1. #373 (#76 de TecNM) _R2D2_ (Clasificatorio)
 1. #375 (#78 de TecNM) _Las minions_ (Clasificatorio)
+1. #382 (#83 de TecNM) _The Ravens Logics_ (Clasificatorio)
+1. #382 (#83 de TecNM) _StringDEA_ (Clasificatorio)
 1. #382 (#83 de TecNM) _Coders in progress_ (Clasificatorio)
 1. #382 (#83 de TecNM) _Los Chicharrines_ (Clasificatorio)
-1. #382 (#83 de TecNM) _StringDEA_ (Clasificatorio)
-1. #382 (#83 de TecNM) _The Ravens Logics_ (Clasificatorio)
 
 ### 2023-2024
 
@@ -209,9 +209,9 @@
 1. #407 (#88 de TecNM) _Cyberpicañas_ (Clasificatorio)
 1. #441 (#95 de TecNM) _Coders in Progress_ (Clasificatorio)
 1. #482 (#114 de TecNM) _GXRunners_ (Clasificatorio)
-1. #482 (#114 de TecNM) _ProTec_ (Clasificatorio)
 1. #482 (#114 de TecNM) _PrograMecanicos_ (Clasificatorio)
 1. #482 (#114 de TecNM) _Tsurus_ (Clasificatorio)
+1. #482 (#114 de TecNM) _ProTec_ (Clasificatorio)
 
 
 

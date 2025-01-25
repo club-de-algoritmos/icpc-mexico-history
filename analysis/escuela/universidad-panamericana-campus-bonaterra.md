@@ -91,13 +91,13 @@
 ### 2015-2016
 
 1. #8 _Lla++_ (Regional)
-1. #30 _BRP_ (Clasificatorio)
 1. #30 _dic.h_ (Regional)
+1. #30 _BRP_ (Clasificatorio)
 1. #35 _Los Greñuditos_ (Clasificatorio)
 1. #98 _JEM_ (Clasificatorio)
 1. #108 _#include<RIK.h>_ (Clasificatorio)
-1. #108 _Los indecisos_ (Clasificatorio)
 1. #108 _SEH++_ (Clasificatorio)
+1. #108 _Los indecisos_ (Clasificatorio)
 
 ### 2016-2017
 
@@ -106,9 +106,9 @@
 1. #21 _BRP_ (Clasificatorio)
 1. #26 _dic.h_ (Clasificatorio)
 1. #70 _MJM_ (Clasificatorio)
-1. #121 _Expendables_ (Clasificatorio)
 1. #121 _SEE++_ (Clasificatorio)
 1. #121 _U.P. NES_ (Clasificatorio)
+1. #121 _Expendables_ (Clasificatorio)
 
 ### 2017-2018
 

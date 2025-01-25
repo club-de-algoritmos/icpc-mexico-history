@@ -2,8 +2,8 @@
 
 ## Mejores 10 equipos
 
-1. _Escuadron Alpha-Lobo_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _Wozk_ resolvió 0 problemas y obtuvo el lugar #351 (50%) en Gran Premio de Mexico 2020
+1. _Escuadron Alpha-Lobo_ resolvió 0 problemas y obtuvo el lugar #382 (44%) en The 2022 ICPC Gran Premio de Mexico
+1. _Wozk_ resolvió 0 problemas y obtuvo el lugar #351 (39%) en Gran Premio de Mexico 2020
 
 ## Participaciones
 

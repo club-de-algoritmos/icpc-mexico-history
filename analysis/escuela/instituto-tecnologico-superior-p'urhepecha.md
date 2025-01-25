@@ -2,15 +2,15 @@
 
 ## Mejores 10 equipos
 
-1. _keri_1_ resolvió 0 problemas y obtuvo el lugar #351 (50%) en Gran Premio de Mexico 2020
-1. _keri_2_ resolvió 0 problemas y obtuvo el lugar #351 (50%) en Gran Premio de Mexico 2020
-1. _CRUX_ resolvió 0 problemas y obtuvo el lugar #95 (46%) en The 2013 Mexico & Central America Regional Contest
-1. _Kaus_ resolvió 0 problemas y obtuvo el lugar #95 (46%) en The 2013 Mexico & Central America Regional Contest
-1. _POLARIS_ resolvió 0 problemas y obtuvo el lugar #95 (46%) en The 2013 Mexico & Central America Regional Contest
-1. _Antrax_ resolvió 0 problemas y obtuvo el lugar #104 (36%) en The 2011 Mexico & Central America Regional Contest
-1. _Back Track_ resolvió 0 problemas y obtuvo el lugar #104 (36%) en The 2011 Mexico & Central America Regional Contest
-1. _alfa_ resolvió 0 problemas y obtuvo el lugar #134 (18%) en The 2012 Mexico & Central America Regional Contest
-1. _beta_ resolvió 0 problemas y obtuvo el lugar #134 (18%) en The 2012 Mexico & Central America Regional Contest
+1. _Kaus_ resolvió 0 problemas y obtuvo el lugar #95 (35%) en The 2013 Mexico & Central America Regional Contest
+1. _POLARIS_ resolvió 0 problemas y obtuvo el lugar #95 (27%) en The 2013 Mexico & Central America Regional Contest
+1. _keri_1_ resolvió 0 problemas y obtuvo el lugar #351 (22%) en Gran Premio de Mexico 2020
+1. _keri_2_ resolvió 0 problemas y obtuvo el lugar #351 (12%) en Gran Premio de Mexico 2020
+1. _Back Track_ resolvió 0 problemas y obtuvo el lugar #104 (11%) en The 2011 Mexico & Central America Regional Contest
+1. _beta_ resolvió 0 problemas y obtuvo el lugar #134 (6%) en The 2012 Mexico & Central America Regional Contest
+1. _CRUX_ resolvió 0 problemas y obtuvo el lugar #95 (1%) en The 2013 Mexico & Central America Regional Contest
+1. _alfa_ resolvió 0 problemas y obtuvo el lugar #134 (1%) en The 2012 Mexico & Central America Regional Contest
+1. _Antrax_ resolvió 0 problemas y obtuvo el lugar #104 (0%) en The 2011 Mexico & Central America Regional Contest
 
 ## Participaciones
 
@@ -26,19 +26,19 @@
 
 ### 2011-2012
 
-1. #104 (#35 de TecNM) _Antrax_ (Regional)
 1. #104 (#35 de TecNM) _Back Track_ (Regional)
+1. #104 (#35 de TecNM) _Antrax_ (Regional)
 
 ### 2012-2013
 
-1. #134 (#55 de TecNM) _alfa_ (Regional)
 1. #134 (#55 de TecNM) _beta_ (Regional)
+1. #134 (#55 de TecNM) _alfa_ (Regional)
 
 ### 2013-2014
 
-1. #95 (#24 de TecNM) _CRUX_ (Regional)
 1. #95 (#24 de TecNM) _Kaus_ (Regional)
 1. #95 (#24 de TecNM) _POLARIS_ (Regional)
+1. #95 (#24 de TecNM) _CRUX_ (Regional)
 
 ### 2020-2021
 

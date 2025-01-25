@@ -2,7 +2,7 @@
 
 ## Mejores 10 equipos
 
-1. _AM JAI_ resolvió 0 problemas y obtuvo el lugar #107 (66%) en Gran Premio de Mexico & Centroamerica
+1. _AM JAI_ resolvió 0 problemas y obtuvo el lugar #107 (61%) en Gran Premio de Mexico & Centroamerica
 
 ## Participaciones
 

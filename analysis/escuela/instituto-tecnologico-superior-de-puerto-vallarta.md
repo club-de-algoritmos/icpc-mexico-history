@@ -2,12 +2,12 @@
 
 ## Mejores 10 equipos
 
-1. _Equipo Dinamita_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Undefined_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _ALL IS WELL_ resolvió 0 problemas y obtuvo el lugar #405 (40%) en Gran Premio de Mexico & Centroamerica 2017
-1. _DROP TABLE_ resolvió 0 problemas y obtuvo el lugar #405 (40%) en Gran Premio de Mexico & Centroamerica 2017
-1. _HxC_ resolvió 0 problemas y obtuvo el lugar #116 (29%) en The 2009 Mexico & Central America Contest
 1. _Relámpago 9_ resolvió 0 problemas y obtuvo el lugar #116 (29%) en The 2009 Mexico & Central America Contest
+1. _HxC_ resolvió 0 problemas y obtuvo el lugar #116 (25%) en The 2009 Mexico & Central America Contest
+1. _ALL IS WELL_ resolvió 0 problemas y obtuvo el lugar #405 (17%) en Gran Premio de Mexico & Centroamerica 2017
+1. _Undefined_ obtuvo el lugar #382 (13%) en Gran Premio de Mexico 2019
+1. _Equipo Dinamita_ obtuvo el lugar #382 (2%) en Gran Premio de Mexico 2019
+1. _DROP TABLE_ resolvió 0 problemas y obtuvo el lugar #405 (2%) en Gran Premio de Mexico & Centroamerica 2017
 
 ## Participaciones
 
@@ -22,8 +22,8 @@
 
 ### 2009-2010
 
-1. #116 (#34 de TecNM) _HxC_ (Regional)
 1. #116 (#34 de TecNM) _Relámpago 9_ (Regional)
+1. #116 (#34 de TecNM) _HxC_ (Regional)
 
 ### 2017-2018
 
@@ -32,8 +32,8 @@
 
 ### 2019-2020
 
-1. #382 (#100 de TecNM) _Equipo Dinamita_ (Clasificatorio)
 1. #382 (#100 de TecNM) _Undefined_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Equipo Dinamita_ (Clasificatorio)
 
 
 

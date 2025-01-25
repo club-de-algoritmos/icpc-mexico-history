@@ -3,15 +3,15 @@
 ## Mejores 10 equipos
 
 1. _Tlacuaches del arroyo_ resolvió 1 problemas y obtuvo el lugar #100 (92%) en The 2024 ICPC Mexico Finals
-1. _BPITS_ resolvió 7 problemas y obtuvo el lugar #135 (89%) en The 2024 ICPC Gran Premio de Mexico
-1. _static void_ resolvió 7 problemas y obtuvo el lugar #144 (88%) en The 2024 ICPC Gran Premio de Mexico
+1. _BPITS_ resolvió 7 problemas y obtuvo el lugar #135 (86%) en The 2024 ICPC Gran Premio de Mexico
+1. _static void_ resolvió 7 problemas y obtuvo el lugar #144 (86%) en The 2024 ICPC Gran Premio de Mexico
 1. _Burros Pardos_ resolvió 2 problemas y obtuvo el lugar #18 (85%) en The 2004 ACM Mexico and Central America Programming Contest
 1. _QubITS_ resolvió 4 problemas y obtuvo el lugar #190 (85%) en Gran Premio de Mexico 2019
-1. _Blujs_ resolvió 3 problemas y obtuvo el lugar #211 (84%) en Gran Premio de Mexico 2019
-1. _BLUJS_ resolvió 6 problemas y obtuvo el lugar #109 (82%) en Gran Premio de Mexico 2018
-1. _Crustáceos_ resolvió 4 problemas y obtuvo el lugar #224 (82%) en The 2024 ICPC Gran Premio de Mexico
+1. _Blujs_ resolvió 3 problemas y obtuvo el lugar #211 (83%) en Gran Premio de Mexico 2019
+1. _BLUJS_ resolvió 6 problemas y obtuvo el lugar #109 (81%) en Gran Premio de Mexico 2018
 1. _QubITSn't_ resolvió 2 problemas y obtuvo el lugar #249 (81%) en Gran Premio de Mexico 2019
-1. _QUBIT_ resolvió 4 problemas y obtuvo el lugar #148 (78%) en Gran Premio de Mexico 2018
+1. _Crustáceos_ resolvió 4 problemas y obtuvo el lugar #224 (80%) en The 2024 ICPC Gran Premio de Mexico
+1. _QUBIT_ resolvió 4 problemas y obtuvo el lugar #148 (77%) en Gran Premio de Mexico 2018
 
 ## Participaciones
 
@@ -58,14 +58,14 @@
 
 1. #55 (#8 de TecNM) _Burritos-1_ (Regional)
 1. #87 (#23 de TecNM) _Burritos-3_ (Regional)
-1. #101 (#29 de TecNM) _Burritos-4_ (Regional)
 1. #101 (#29 de TecNM) _burritos-2_ (Regional)
+1. #101 (#29 de TecNM) _Burritos-4_ (Regional)
 
 ### 2009-2010
 
 1. #98 (#27 de TecNM) _burros Pardos 3_ (Regional)
-1. #116 (#34 de TecNM) _burritos pardos 1_ (Regional)
 1. #116 (#34 de TecNM) _burros pardos 2_ (Regional)
+1. #116 (#34 de TecNM) _burritos pardos 1_ (Regional)
 
 ### 2010-2011
 
@@ -88,9 +88,9 @@
 ### 2013-2014
 
 1. #95 (#24 de TecNM) _Burros_ (Regional)
+1. #95 (#24 de TecNM) _Sistecmas_ (Regional)
 1. #95 (#24 de TecNM) _Codebreakers_ (Regional)
 1. #95 (#24 de TecNM) _JoYaJa_ (Regional)
-1. #95 (#24 de TecNM) _Sistecmas_ (Regional)
 
 ### 2018-2019
 

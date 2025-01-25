@@ -11,7 +11,7 @@
 1. _ITCCM_ resolvió 4 problemas y obtuvo el lugar #12 (93%) en The 2009 Mexico & Central America Contest
 1. _LTMCCM_ resolvió 2 problemas y obtuvo el lugar #83 (93%) en The 2024 ICPC Mexico Finals
 1. _The Screens_ resolvió 1 problemas y obtuvo el lugar #60 (91%) en The 2017 ACM-ICPC Mexico and Central America Finals
-1. _Elite Penguin Force_ resolvió 6 problemas y obtuvo el lugar #120 (91%) en Gran Premio de Mexico 2019
+1. _Elite Penguin Force_ resolvió 6 problemas y obtuvo el lugar #120 (90%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 
@@ -111,9 +111,9 @@
 1. #83 (#15 de ITESM) _LTMCCM_ (Regional)
 1. #462 (#67 de ITESM) _Runtime Rebels_ (Clasificatorio)
 1. #480 (#68 de ITESM) _Borregos IDM - 2024_ (Clasificatorio)
+1. #482 (#69 de ITESM) _PayloadersCCM_ (Clasificatorio)
 1. #482 (#69 de ITESM) _Borregos 200_ (Clasificatorio)
 1. #482 (#69 de ITESM) _Logarithmus_ (Clasificatorio)
-1. #482 (#69 de ITESM) _PayloadersCCM_ (Clasificatorio)
 
 
 

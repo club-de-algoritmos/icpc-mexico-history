@@ -2,10 +2,10 @@
 
 ## Mejores 10 equipos
 
-1. _Konosuba_ resolvió 0 problemas y obtuvo el lugar #226 (53%) en The 2021 ICPC Gran Premio de Mexico
-1. _SDB_ resolvió 0 problemas y obtuvo el lugar #226 (53%) en The 2021 ICPC Gran Premio de Mexico
-1. _Softeam_ resolvió 0 problemas y obtuvo el lugar #226 (53%) en The 2021 ICPC Gran Premio de Mexico
-1. _CLAsoft_ resolvió 0 problemas y obtuvo el lugar #351 (50%) en Gran Premio de Mexico 2020
+1. _Konosuba_ resolvió 0 problemas y obtuvo el lugar #226 (46%) en The 2021 ICPC Gran Premio de Mexico
+1. _SDB_ resolvió 0 problemas y obtuvo el lugar #226 (45%) en The 2021 ICPC Gran Premio de Mexico
+1. _Softeam_ resolvió 0 problemas y obtuvo el lugar #226 (45%) en The 2021 ICPC Gran Premio de Mexico
+1. _CLAsoft_ resolvió 0 problemas y obtuvo el lugar #351 (37%) en Gran Premio de Mexico 2020
 
 ## Participaciones
 

@@ -2,11 +2,11 @@
 
 ## Mejores 10 equipos
 
-1. _Browlet_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _Impostores_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _Los Pixis_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _Umizoomi_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _Union_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Browlet_ resolvió 0 problemas y obtuvo el lugar #382 (36%) en The 2022 ICPC Gran Premio de Mexico
+1. _Impostores_ resolvió 0 problemas y obtuvo el lugar #382 (36%) en The 2022 ICPC Gran Premio de Mexico
+1. _Los Pixis_ resolvió 0 problemas y obtuvo el lugar #382 (36%) en The 2022 ICPC Gran Premio de Mexico
+1. _Umizoomi_ resolvió 0 problemas y obtuvo el lugar #382 (36%) en The 2022 ICPC Gran Premio de Mexico
+1. _Union_ resolvió 0 problemas y obtuvo el lugar #382 (36%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 

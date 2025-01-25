@@ -4,14 +4,14 @@
 
 1. _Equis V.2.0_ resolvió 2 problemas y obtuvo el lugar #25 (79%) en The 2004 ACM Mexico and Central America Programming Contest
 1. _senorbac_ resolvió 1 problemas y obtuvo el lugar #22 (77%) en The 2002 ACM Mexico and Central America Programming Contest
-1. _swordfish_ resolvió 0 problemas y obtuvo el lugar #27 (72%) en The 2002 ACM Mexico and Central America Programming Contest
 1. _Equis Ver. 3.0_ resolvió 2 problemas y obtuvo el lugar #40 (69%) en The 2006 ACM Mexico and Central America Programming Contest
-1. _EDEDNO_ resolvió 0 problemas y obtuvo el lugar #41 (62%) en The 2003 ACM Mexico and Central America Programming Contest
-1. _EQUIS_ resolvió 0 problemas y obtuvo el lugar #41 (62%) en The 2003 ACM Mexico and Central America Programming Contest
-1. _RAIDERS_ resolvió 0 problemas y obtuvo el lugar #41 (62%) en The 2003 ACM Mexico and Central America Programming Contest
-1. _EQUIS v.4.0_ resolvió 0 problemas y obtuvo el lugar #61 (59%) en The 2007 ACM Mexico and Central America Programming Contest
-1. _UNITEC 2_ resolvió 0 problemas y obtuvo el lugar #61 (59%) en The 2007 ACM Mexico and Central America Programming Contest
-1. _Trial Core_ resolvió 0 problemas y obtuvo el lugar #85 (33%) en The 2006 ACM Mexico and Central America Programming Contest
+1. _swordfish_ resolvió 0 problemas y obtuvo el lugar #27 (68%) en The 2002 ACM Mexico and Central America Programming Contest
+1. _RAIDERS_ resolvió 0 problemas y obtuvo el lugar #41 (60%) en The 2003 ACM Mexico and Central America Programming Contest
+1. _EDEDNO_ resolvió 0 problemas y obtuvo el lugar #41 (59%) en The 2003 ACM Mexico and Central America Programming Contest
+1. _EQUIS v.4.0_ resolvió 0 problemas y obtuvo el lugar #61 (15%) en The 2007 ACM Mexico and Central America Programming Contest
+1. _UNITEC 2_ resolvió 0 problemas y obtuvo el lugar #61 (14%) en The 2007 ACM Mexico and Central America Programming Contest
+1. _Trial Core_ resolvió 0 problemas y obtuvo el lugar #85 (6%) en The 2006 ACM Mexico and Central America Programming Contest
+1. _EQUIS_ resolvió 0 problemas y obtuvo el lugar #41 (4%) en The 2003 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 
@@ -33,9 +33,9 @@
 
 ### 2003-2004
 
+1. #41 _RAIDERS_ (Regional)
 1. #41 _EDEDNO_ (Regional)
 1. #41 _EQUIS_ (Regional)
-1. #41 _RAIDERS_ (Regional)
 
 ### 2004-2005
 

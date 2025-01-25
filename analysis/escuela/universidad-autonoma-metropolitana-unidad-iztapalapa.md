@@ -3,8 +3,8 @@
 ## Mejores 10 equipos
 
 1. _progrUAMers (Empacadores de Soriana)_ resolvió 2 problemas y obtuvo el lugar #77 (94%) en The 2024 ICPC Mexico Finals
-1. _progrUAMers (Komodo3000)_ resolvió 2 problemas y obtuvo el lugar #342 (72%) en The 2024 ICPC Gran Premio de Mexico
-1. _progrUAMers (Empacadores de Soriana Reloaded)_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
+1. _progrUAMers (Komodo3000)_ resolvió 2 problemas y obtuvo el lugar #342 (71%) en The 2024 ICPC Gran Premio de Mexico
+1. _progrUAMers (Empacadores de Soriana Reloaded)_ resolvió 0 problemas y obtuvo el lugar #482 (45%) en The 2024 ICPC Gran Premio de Mexico
 
 ## Participaciones
 

@@ -2,14 +2,14 @@
 
 ## Mejores 10 equipos
 
-1. _Mugiwaras_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Servidores de la nación_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _Venados de Tizimín_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _Bug busters_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
-1. _DESENSAMBLADORES_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
-1. _Ensambladores_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
-1. _Syntax Error_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
-1. _m1ch1nf0rmatic0s_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
+1. _Servidores de la nación_ resolvió 0 problemas y obtuvo el lugar #382 (39%) en The 2022 ICPC Gran Premio de Mexico
+1. _DESENSAMBLADORES_ resolvió 0 problemas y obtuvo el lugar #482 (28%) en The 2024 ICPC Gran Premio de Mexico
+1. _Ensambladores_ resolvió 0 problemas y obtuvo el lugar #482 (27%) en The 2024 ICPC Gran Premio de Mexico
+1. _Syntax Error_ resolvió 0 problemas y obtuvo el lugar #482 (27%) en The 2024 ICPC Gran Premio de Mexico
+1. _Bug busters_ resolvió 0 problemas y obtuvo el lugar #482 (22%) en The 2024 ICPC Gran Premio de Mexico
+1. _Venados de Tizimín_ resolvió 0 problemas y obtuvo el lugar #382 (21%) en The 2022 ICPC Gran Premio de Mexico
+1. _Mugiwaras_ obtuvo el lugar #382 (11%) en Gran Premio de Mexico 2019
+1. _m1ch1nf0rmatic0s_ resolvió 0 problemas y obtuvo el lugar #482 (6%) en The 2024 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -33,10 +33,10 @@
 
 ### 2024-2025
 
-1. #482 (#114 de TecNM) _Bug busters_ (Clasificatorio)
 1. #482 (#114 de TecNM) _DESENSAMBLADORES_ (Clasificatorio)
 1. #482 (#114 de TecNM) _Ensambladores_ (Clasificatorio)
 1. #482 (#114 de TecNM) _Syntax Error_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Bug busters_ (Clasificatorio)
 1. #482 (#114 de TecNM) _m1ch1nf0rmatic0s_ (Clasificatorio)
 
 

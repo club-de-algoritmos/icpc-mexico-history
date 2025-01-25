@@ -3,15 +3,15 @@
 ## Mejores 10 equipos
 
 1. _Iberoleon_ resolvió 1 problemas y obtuvo el lugar #54 (79%) en The 2014 ACM-ICPC Mexico and Central America Finals
-1. _INSLeon_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
-1. _Ibero_leon_1_ resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
-1. _Ibero_leon_2_ resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
 1. _Ibero Leon Equipo 1_ resolvió 2 problemas y obtuvo el lugar #302 (59%) en Gran Premio de Mexico 2018
-1. _Ibero Leon Equipo 2_ resolvió 2 problemas y obtuvo el lugar #309 (59%) en Gran Premio de Mexico 2018
-1. _Ibero Leon Equipo 3_ resolvió 0 problemas y obtuvo el lugar #394 (48%) en Gran Premio de Mexico 2018
-1. _Ibero Leon Equipo 4_ resolvió 0 problemas y obtuvo el lugar #394 (48%) en Gran Premio de Mexico 2018
-1. _Ibero Leon Equipo 5_ resolvió 0 problemas y obtuvo el lugar #394 (48%) en Gran Premio de Mexico 2018
-1. _Ibero Leon Equipo 6_ resolvió 0 problemas y obtuvo el lugar #394 (48%) en Gran Premio de Mexico 2018
+1. _Ibero Leon Equipo 2_ resolvió 2 problemas y obtuvo el lugar #309 (58%) en Gran Premio de Mexico 2018
+1. _Ibero Leon Equipo 3_ resolvió 0 problemas y obtuvo el lugar #394 (38%) en Gran Premio de Mexico 2018
+1. _Ibero Leon Equipo 4_ resolvió 0 problemas y obtuvo el lugar #394 (38%) en Gran Premio de Mexico 2018
+1. _Ibero Leon Equipo 5_ resolvió 0 problemas y obtuvo el lugar #394 (37%) en Gran Premio de Mexico 2018
+1. _Ibero Leon Equipo 6_ resolvió 0 problemas y obtuvo el lugar #394 (37%) en Gran Premio de Mexico 2018
+1. _INSLeon_ resolvió 0 problemas y obtuvo el lugar #121 (34%) en Gran Premio de Mexico & Centroamerica
+1. _ibero leon_ resolvió 0 problemas y obtuvo el lugar #95 (28%) en The 2013 Mexico & Central America Regional Contest
+1. _ISC 2 Ibero León_ resolvió 0 problemas y obtuvo el lugar #104 (26%) en The 2011 Mexico & Central America Regional Contest
 
 ## Participaciones
 

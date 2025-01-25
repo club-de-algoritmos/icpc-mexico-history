@@ -10,7 +10,7 @@
 1. _#include <uaz>_ resolvió 1 problemas y obtuvo el lugar #41 (96%) en The 2022 ICPC Mexico Finals
 1. _Balloon thieves_ resolvió 3 problemas y obtuvo el lugar #46 (96%) en The 2024 ICPC Mexico Finals
 1. _PuerkaSquad_ resolvió 3 problemas y obtuvo el lugar #48 (96%) en The 2024 ICPC Mexico Finals
-1. _Sudo Programmers_ resolvió 9 problemas y obtuvo el lugar #67 (94%) en The 2022 ICPC Gran Premio de Mexico
+1. _Sudo Programmers_ resolvió 9 problemas y obtuvo el lugar #67 (93%) en The 2022 ICPC Gran Premio de Mexico
 1. _El Bueno, el Malo y el Feo_ resolvió 5 problemas y obtuvo el lugar #87 (93%) en Gran Premio de Mexico 2019
 
 ## Participaciones
@@ -83,35 +83,35 @@
 1. #182 _FUJIT-SOFT_ (Clasificatorio)
 1. #186 _BSoft_ (Clasificatorio)
 1. #199 _Los Guerreros Bry-Ju**_ (Clasificatorio)
-1. #204 _IronCode_ (Clasificatorio)
-1. #204 _Los Novatos_ (Clasificatorio)
 1. #204 _Reclaimers**_ (Clasificatorio)
+1. #204 _Los Novatos_ (Clasificatorio)
+1. #204 _IronCode_ (Clasificatorio)
 
 ### 2015-2016
 
 1. #53 _Winter Wolves_ (Regional)
-1. #108 _C--_ (Clasificatorio)
+1. #108 _SourceCode_ (Clasificatorio)
 1. #108 _Elite_ (Clasificatorio)
 1. #108 _FGZ_ (Clasificatorio)
-1. #108 _IBC_ (Clasificatorio)
 1. #108 _SOftWar_ (Clasificatorio)
-1. #108 _SourceCode_ (Clasificatorio)
+1. #108 _IBC_ (Clasificatorio)
+1. #108 _C--_ (Clasificatorio)
 
 ### 2016-2017
 
 1. #40 _SourceCode_ (Regional)
 1. #50 _Cnoobs_ (Regional)
-1. #121 _Cobrish Omega_ (Clasificatorio)
-1. #121 _GGLyonMx_ (Clasificatorio)
-1. #121 _Golden Ratio_ (Clasificatorio)
-1. #121 _Los Galacticos_ (Clasificatorio)
 1. #121 _Los Lucas_ (Clasificatorio)
-1. #121 _Los Snorlax_ (Clasificatorio)
-1. #121 _Only Inhuman_ (Clasificatorio)
+1. #121 _Cobrish Omega_ (Clasificatorio)
+1. #121 _Golden Ratio_ (Clasificatorio)
 1. #121 _OnlyOne_ (Clasificatorio)
 1. #121 _Proyecto FIC_ (Clasificatorio)
+1. #121 _Los Snorlax_ (Clasificatorio)
+1. #121 _Los Galacticos_ (Clasificatorio)
+1. #121 _GGLyonMx_ (Clasificatorio)
 1. #121 _Puerkitos_ (Clasificatorio)
 1. #121 _TeamCobres_ (Clasificatorio)
+1. #121 _Only Inhuman_ (Clasificatorio)
 
 ### 2017-2018
 
@@ -166,19 +166,19 @@
 1. #330 _Nunpy_ (Clasificatorio)
 1. #353 _SoftUAZ_ (Clasificatorio)
 1. #371 _The Monitors_ (Clasificatorio)
-1. #382 _3CoDe_ (Clasificatorio)
-1. #382 _C++sters_ (Clasificatorio)
-1. #382 _Hello world!_ (Clasificatorio)
-1. #382 _LF.Freacks_ (Clasificatorio)
-1. #382 _Latitud_ (Clasificatorio)
-1. #382 _Los Colorados_ (Clasificatorio)
-1. #382 _Noob _ (Clasificatorio)
-1. #382 _Pain++_ (Clasificatorio)
-1. #382 _SN_ (Clasificatorio)
 1. #382 _Team Fame_ (Clasificatorio)
 1. #382 _Tonche's_ (Clasificatorio)
-1. #382 _Tuner Team!_ (Clasificatorio)
+1. #382 _C++sters_ (Clasificatorio)
+1. #382 _Pain++_ (Clasificatorio)
+1. #382 _SN_ (Clasificatorio)
+1. #382 _Noob _ (Clasificatorio)
+1. #382 _Los Colorados_ (Clasificatorio)
 1. #382 _VDR_ (Clasificatorio)
+1. #382 _3CoDe_ (Clasificatorio)
+1. #382 _Latitud_ (Clasificatorio)
+1. #382 _LF.Freacks_ (Clasificatorio)
+1. #382 _Tuner Team!_ (Clasificatorio)
+1. #382 _Hello world!_ (Clasificatorio)
 
 ### 2020-2021
 
@@ -199,12 +199,12 @@
 1. #265 _Flama_ (Clasificatorio)
 1. #298 _null _ (Clasificatorio)
 1. #327 _Vacilón_ (Clasificatorio)
-1. #351 _Escuadrón lobo_ (Clasificatorio)
+1. #351 _Tecno Nahuales_ (Clasificatorio)
+1. #351 _Team Rocket_ (Clasificatorio)
 1. #351 _Snoware_ (Clasificatorio)
 1. #351 _Team Foráneos_ (Clasificatorio)
-1. #351 _Team Rocket_ (Clasificatorio)
-1. #351 _Tecno Nahuales_ (Clasificatorio)
 1. #351 _Virtual reality_ (Clasificatorio)
+1. #351 _Escuadrón lobo_ (Clasificatorio)
 
 ### 2021-2022
 
@@ -224,8 +224,8 @@
 1. #204 _Hanami-gumi_ (Clasificatorio)
 1. #213 _Las Chicas SuperPoderosas_ (Clasificatorio)
 1. #226 _Echo Sigma_ (Clasificatorio)
-1. #226 _LOS MEM_ (Clasificatorio)
 1. #226 _[Sin nombre]_ (Clasificatorio)
+1. #226 _LOS MEM_ (Clasificatorio)
 
 ### 2022-2023
 
@@ -250,10 +250,10 @@
 1. #321 _Sin idea_ (Clasificatorio)
 1. #324 _Power Rangers Megaforce_ (Clasificatorio)
 1. #365 _The Voids_ (Clasificatorio)
-1. #382 _BitUnlockers427_ (Clasificatorio)
+1. #382 _RifZac2_ (Clasificatorio)
 1. #382 _Doppio-CiJey_ (Clasificatorio)
 1. #382 _Null_ (Clasificatorio)
-1. #382 _RifZac2_ (Clasificatorio)
+1. #382 _BitUnlockers427_ (Clasificatorio)
 
 ### 2023-2024
 
@@ -280,12 +280,12 @@
 1. #417 _JAJAHAHA_ (Clasificatorio)
 1. #437 _CPUSS_ (Clasificatorio)
 1. #442 _Umizumi_ (Clasificatorio)
-1. #482 _DDE.cpp_ (Clasificatorio)
-1. #482 _Exidis 2.0_ (Clasificatorio)
 1. #482 _Los Elegantes de Debian Reloaded_ (Clasificatorio)
-1. #482 _MTM_ (Clasificatorio)
 1. #482 _PuerkaSquadReloaded_ (Clasificatorio)
+1. #482 _Exidis 2.0_ (Clasificatorio)
 1. #482 _XSquad_ (Clasificatorio)
+1. #482 _MTM_ (Clasificatorio)
+1. #482 _DDE.cpp_ (Clasificatorio)
 
 
 

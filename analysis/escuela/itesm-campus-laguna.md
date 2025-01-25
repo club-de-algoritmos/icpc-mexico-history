@@ -2,16 +2,16 @@
 
 ## Mejores 10 equipos
 
-1. _Drink Team_ resolvió 2 problemas y obtuvo el lugar #15 (82%) en The 2001 ACM Mexico and Central America Programming Contest
+1. _Drink Team_ resolvió 2 problemas y obtuvo el lugar #15 (84%) en The 2001 ACM Mexico and Central America Programming Contest
 1. _Laguna 3_ resolvió 2 problemas y obtuvo el lugar #42 (75%) en The 2009 Mexico & Central America Contest
 1. _Drink Team_ resolvió 1 problemas y obtuvo el lugar #29 (73%) en The 2003 ACM Mexico and Central America Programming Contest
 1. _PMR 4000_ resolvió 1 problemas y obtuvo el lugar #53 (65%) en The 2007 ACM Mexico and Central America Programming Contest
-1. _Web-ones_ resolvió 0 problemas y obtuvo el lugar #41 (62%) en The 2003 ACM Mexico and Central America Programming Contest
-1. _COF_ resolvió 0 problemas y obtuvo el lugar #61 (59%) en The 2007 ACM Mexico and Central America Programming Contest
-1. _Los intensos_ resolvió 0 problemas y obtuvo el lugar #61 (59%) en The 2007 ACM Mexico and Central America Programming Contest
-1. _Javalio_ resolvió 1 problemas y obtuvo el lugar #58 (54%) en The 2006 ACM Mexico and Central America Programming Contest
-1. _LPT_ resolvió 1 problemas y obtuvo el lugar #60 (53%) en The 2006 ACM Mexico and Central America Programming Contest
+1. _Javalio_ resolvió 1 problemas y obtuvo el lugar #58 (55%) en The 2006 ACM Mexico and Central America Programming Contest
+1. _LPT_ resolvió 1 problemas y obtuvo el lugar #60 (54%) en The 2006 ACM Mexico and Central America Programming Contest
 1. _Laguna 1_ resolvió 1 problemas y obtuvo el lugar #77 (53%) en The 2009 Mexico & Central America Contest
+1. _GameOver Laguna_ resolvió 1 problemas y obtuvo el lugar #137 (31%) en The 2010 Mexico & Central America Regional Contest
+1. _COF_ resolvió 0 problemas y obtuvo el lugar #61 (30%) en The 2007 ACM Mexico and Central America Programming Contest
+1. _Los intensos_ resolvió 0 problemas y obtuvo el lugar #61 (29%) en The 2007 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 
@@ -41,8 +41,8 @@
 
 1. #58 (#19 de ITESM) _Javalio_ (Regional)
 1. #60 (#20 de ITESM) _LPT_ (Regional)
-1. #85 (#27 de ITESM) _Los Looney''s_ (Regional)
 1. #85 (#27 de ITESM) _noName=" ";_ (Regional)
+1. #85 (#27 de ITESM) _Los Looney''s_ (Regional)
 
 ### 2007-2008
 

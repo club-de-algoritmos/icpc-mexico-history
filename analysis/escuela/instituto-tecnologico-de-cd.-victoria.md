@@ -3,8 +3,8 @@
 ## Mejores 10 equipos
 
 1. _Bash_ resolvió 1 problemas y obtuvo el lugar #94 (45%) en The 2008 Mexico & Central America Contest
-1. _TeamGeist_ resolvió 0 problemas y obtuvo el lugar #101 (40%) en The 2008 Mexico & Central America Contest
-1. _stratovarius_ resolvió 0 problemas y obtuvo el lugar #90 (21%) en The 2004 ACM Mexico and Central America Programming Contest
+1. _TeamGeist_ resolvió 0 problemas y obtuvo el lugar #101 (23%) en The 2008 Mexico & Central America Contest
+1. _stratovarius_ resolvió 0 problemas y obtuvo el lugar #90 (3%) en The 2004 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

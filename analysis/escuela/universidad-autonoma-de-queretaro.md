@@ -4,14 +4,14 @@
 
 1. _The Best Skynet_ resolvió 2 problemas y obtuvo el lugar #38 (97%) en The 2019 ICPC Mexico Finals
 1. _fast and fourier_ resolvió 3 problemas y obtuvo el lugar #48 (94%) en The 2018 ICPC Mexico and Central America Finals
-1. _Beat bit_ resolvió 2 problemas y obtuvo el lugar #52 (93%) en The 2017 ACM-ICPC Mexico and Central America Finals
-1. _Triforce.h_ resolvió 8 problemas y obtuvo el lugar #77 (88%) en Gran Premio de Mexico & Centroamerica 2017
+1. _Beat bit_ resolvió 2 problemas y obtuvo el lugar #52 (92%) en The 2017 ACM-ICPC Mexico and Central America Finals
 1. _CACHARPAS_ resolvió 2 problemas y obtuvo el lugar #20 (87%) en The 2007 ACM Mexico and Central America Programming Contest
-1. _Skynet_ resolvió 9 problemas y obtuvo el lugar #83 (86%) en Gran Premio de Mexico 2018
-1. _XYZ_ resolvió 6 problemas y obtuvo el lugar #104 (83%) en Gran Premio de Mexico 2018
+1. _Skynet_ resolvió 9 problemas y obtuvo el lugar #83 (84%) en Gran Premio de Mexico 2018
+1. _Triforce.h_ resolvió 8 problemas y obtuvo el lugar #77 (83%) en Gran Premio de Mexico & Centroamerica 2017
+1. _XYZ_ resolvió 6 problemas y obtuvo el lugar #104 (82%) en Gran Premio de Mexico 2018
 1. _Troyanos UAQ_ resolvió 2 problemas y obtuvo el lugar #288 (78%) en Gran Premio de Mexico 2019
-1. _7071_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
-1. _Engix_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
+1. _Tequilas Team_ resolvió 2 problemas y obtuvo el lugar #56 (72%) en The 2010 Mexico & Central America Regional Contest
+1. _Mezcal del Sotol_ resolvió 0 problemas y obtuvo el lugar #121 (72%) en Gran Premio de Mexico & Centroamerica
 
 ## Participaciones
 
@@ -76,11 +76,11 @@
 
 ### 2016-2017
 
-1. #121 _7071_ (Clasificatorio)
-1. #121 _Engix_ (Clasificatorio)
 1. #121 _Mezcal del Sotol_ (Clasificatorio)
-1. #121 _Vimps_ (Clasificatorio)
 1. #121 _XYZ_ (Clasificatorio)
+1. #121 _7071_ (Clasificatorio)
+1. #121 _Vimps_ (Clasificatorio)
+1. #121 _Engix_ (Clasificatorio)
 
 ### 2017-2018
 
@@ -103,16 +103,16 @@
 
 ### 2024-2025
 
-1. #482 _CT-501_ (Clasificatorio)
-1. #482 _CodigoEnigma_ (Clasificatorio)
 1. #482 _Exceso_de_Fe_ (Clasificatorio)
-1. #482 _MarcoAurelios_ (Clasificatorio)
 1. #482 _Marco_Aurelios-mk2_ (Clasificatorio)
 1. #482 _Mugiwara_ (Clasificatorio)
+1. #482 _CodigoEnigma_ (Clasificatorio)
 1. #482 _Mugiwaras_ (Clasificatorio)
 1. #482 _Thetroyans_ (Clasificatorio)
 1. #482 _TroyanTunes_ (Clasificatorio)
 1. #482 _UAQuibus_ (Clasificatorio)
+1. #482 _CT-501_ (Clasificatorio)
+1. #482 _MarcoAurelios_ (Clasificatorio)
 
 
 

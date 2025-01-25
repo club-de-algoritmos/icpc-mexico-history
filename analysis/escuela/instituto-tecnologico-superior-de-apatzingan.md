@@ -2,16 +2,16 @@
 
 ## Mejores 10 equipos
 
-1. _NISC_ resolvió 3 problemas y obtuvo el lugar #35 (79%) en The 2011 Mexico & Central America Regional Contest
+1. _NISC_ resolvió 3 problemas y obtuvo el lugar #35 (78%) en The 2011 Mexico & Central America Regional Contest
 1. _java knights_ resolvió 1 problemas y obtuvo el lugar #43 (76%) en The 2013 Mexico & Central America Regional Contest
-1. _Anthem ITSA_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Ctos ITSA_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _ISC TEAM_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Informáticos01_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Informáticos02_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Los Fieles_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Los Judas_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Los Judas ITSA_ resolvió 0 problemas y obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _SIMPUS YGGDRASIL_ resolvió 2 problemas y obtuvo el lugar #53 (68%) en The 2012 Mexico & Central America Regional Contest
+1. _SIMPUS_ITSA_ resolvió 2 problemas y obtuvo el lugar #58 (64%) en The 2011 Mexico & Central America Regional Contest
+1. _CódigoX_ resolvió 0 problemas y obtuvo el lugar #382 (60%) en The 2022 ICPC Gran Premio de Mexico
+1. _LOS DISCÍPULOS DE ANA_ resolvió 0 problemas y obtuvo el lugar #382 (60%) en The 2022 ICPC Gran Premio de Mexico
+1. _Triple Punto Muerto_ resolvió 0 problemas y obtuvo el lugar #382 (60%) en The 2022 ICPC Gran Premio de Mexico
+1. _JavaCoders_ resolvió 0 problemas y obtuvo el lugar #382 (59%) en The 2022 ICPC Gran Premio de Mexico
+1. _Los mayas_ resolvió 2 problemas y obtuvo el lugar #289 (56%) en Gran Premio de Mexico & Centroamerica 2017
+1. _Los yerenas_ resolvió 0 problemas y obtuvo el lugar #108 (55%) en Gran Premio de Mexico & Centroamerica
 
 ## Participaciones
 
@@ -59,15 +59,15 @@
 ### 2013-2014
 
 1. #43 (#4 de TecNM) _java knights_ (Regional)
+1. #95 (#24 de TecNM) _minions_ (Regional)
 1. #95 (#24 de TecNM) _Mugiwara_ (Regional)
 1. #95 (#24 de TecNM) _los bastardos_ (Regional)
-1. #95 (#24 de TecNM) _minions_ (Regional)
 
 ### 2015-2016
 
-1. #108 (#28 de TecNM) _ANONYMOUS_ (Clasificatorio)
-1. #108 (#28 de TecNM) _Los Bastardos_ (Clasificatorio)
 1. #108 (#28 de TecNM) _Los yerenas_ (Clasificatorio)
+1. #108 (#28 de TecNM) _Los Bastardos_ (Clasificatorio)
+1. #108 (#28 de TecNM) _ANONYMOUS_ (Clasificatorio)
 
 ### 2017-2018
 
@@ -76,31 +76,31 @@
 
 ### 2019-2020
 
-1. #382 (#100 de TecNM) _Anthem ITSA_ (Clasificatorio)
-1. #382 (#100 de TecNM) _Ctos ITSA_ (Clasificatorio)
 1. #382 (#100 de TecNM) _ISC TEAM_ (Clasificatorio)
+1. #382 (#100 de TecNM) _MexiCode_ (Clasificatorio)
+1. #382 (#100 de TecNM) _The Ruby`s Python_ (Clasificatorio)
 1. #382 (#100 de TecNM) _Informáticos01_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Team Gordito_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Ctos ITSA_ (Clasificatorio)
 1. #382 (#100 de TecNM) _Informáticos02_ (Clasificatorio)
 1. #382 (#100 de TecNM) _Los Fieles_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Anthem ITSA_ (Clasificatorio)
 1. #382 (#100 de TecNM) _Los Judas_ (Clasificatorio)
 1. #382 (#100 de TecNM) _Los Judas ITSA_ (Clasificatorio)
-1. #382 (#100 de TecNM) _MexiCode_ (Clasificatorio)
-1. #382 (#100 de TecNM) _Team Gordito_ (Clasificatorio)
 1. #382 (#100 de TecNM) _Team Gorditos ITSA_ (Clasificatorio)
-1. #382 (#100 de TecNM) _The Ruby`s Python_ (Clasificatorio)
 
 ### 2022-2023
 
-1. #382 (#83 de TecNM) _ADISA_ (Clasificatorio)
-1. #382 (#83 de TecNM) _Ciber Cuiniques_ (Clasificatorio)
 1. #382 (#83 de TecNM) _CódigoX_ (Clasificatorio)
-1. #382 (#83 de TecNM) _JavaCoders_ (Clasificatorio)
 1. #382 (#83 de TecNM) _LOS DISCÍPULOS DE ANA_ (Clasificatorio)
-1. #382 (#83 de TecNM) _Lithium++_ (Clasificatorio)
-1. #382 (#83 de TecNM) _Los paganos del norte_ (Clasificatorio)
-1. #382 (#83 de TecNM) _OREO_ (Clasificatorio)
 1. #382 (#83 de TecNM) _Triple Punto Muerto_ (Clasificatorio)
+1. #382 (#83 de TecNM) _JavaCoders_ (Clasificatorio)
 1. #382 (#83 de TecNM) _pseudocuinique_ (Clasificatorio)
+1. #382 (#83 de TecNM) _ADISA_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Lithium++_ (Clasificatorio)
+1. #382 (#83 de TecNM) _OREO_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Los paganos del norte_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Ciber Cuiniques_ (Clasificatorio)
 
 ### 2024-2025
 

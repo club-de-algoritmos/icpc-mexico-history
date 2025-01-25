@@ -9,7 +9,7 @@
 1. _Campus Mazatlán_ resolvió 2 problemas y obtuvo el lugar #7 (93%) en The 2002 ACM Mexico and Central America Programming Contest
 1. _Sapphire_ resolvió 3 problemas y obtuvo el lugar #11 (93%) en The 2005 ACM Mexico and Central America Programming Contest
 1. _MTY2_ resolvió 3 problemas y obtuvo el lugar #11 (91%) en The 2004 ACM Mexico and Central America Programming Contest
-1. _MTY03_ resolvió 3 problemas y obtuvo el lugar #16 (89%) en The 2005 ACM Mexico and Central America Programming Contest
+1. _MTY03_ resolvió 3 problemas y obtuvo el lugar #16 (90%) en The 2005 ACM Mexico and Central America Programming Contest
 1. _MTY02_ resolvió 3 problemas y obtuvo el lugar #18 (88%) en The 2005 ACM Mexico and Central America Programming Contest
 1. _ITESM CEM_ resolvió 2 problemas y obtuvo el lugar #19 (88%) en The 2007 ACM Mexico and Central America Programming Contest
 
@@ -41,9 +41,9 @@
 1. #13 (#5 de ITESM) _HMJ21_ (Regional)
 1. #21 (#8 de ITESM) _YHS20_ (Regional)
 1. #24 (#9 de ITESM) _Let it C_ (Regional)
-1. #27 (#10 de ITESM) _COD22_ (Regional)
-1. #27 (#10 de ITESM) _Knights EC_ (Regional)
 1. #27 (#10 de ITESM) _drink team_ (Regional)
+1. #27 (#10 de ITESM) _Knights EC_ (Regional)
+1. #27 (#10 de ITESM) _COD22_ (Regional)
 
 ### 2003-2004
 
@@ -80,21 +80,21 @@
 1. #36 (#9 de ITESM) _Balls of Fire_ (Regional)
 1. #50 (#13 de ITESM) _Carlit-OS_ (Regional)
 1. #55 (#16 de ITESM) _Borregos PACK_ (Regional)
-1. #85 (#27 de ITESM) _Hijos de Efren_ (Regional)
 1. #85 (#27 de ITESM) _ITESM Mazatlán_ (Regional)
-1. #85 (#27 de ITESM) _ITESM ZAC 1_ (Regional)
 1. #85 (#27 de ITESM) _Los Mazatlecos_ (Regional)
+1. #85 (#27 de ITESM) _Hijos de Efren_ (Regional)
 1. #85 (#27 de ITESM) _Punishers_ (Regional)
+1. #85 (#27 de ITESM) _ITESM ZAC 1_ (Regional)
 
 ### 2007-2008
 
 1. #6 (#1 de ITESM) _los punteros_ (Regional)
 1. #19 (#6 de ITESM) _ITESM CEM_ (Regional)
 1. #35 (#9 de ITESM) _Objeto.metodo()_ (Regional)
-1. #61 (#19 de ITESM) _3-108_ (Regional)
-1. #61 (#19 de ITESM) _FORZA ITIC 1_ (Regional)
 1. #61 (#19 de ITESM) _Pascaleros_ (Regional)
 1. #61 (#19 de ITESM) _Top Coder_ (Regional)
+1. #61 (#19 de ITESM) _3-108_ (Regional)
+1. #61 (#19 de ITESM) _FORZA ITIC 1_ (Regional)
 
 
 

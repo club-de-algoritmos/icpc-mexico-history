@@ -2,9 +2,9 @@
 
 ## Mejores 10 equipos
 
-1. _ITSLL_ resolvió 0 problemas y obtuvo el lugar #85 (33%) en The 2006 ACM Mexico and Central America Programming Contest
-1. _ITSLL 1_ resolvió 0 problemas y obtuvo el lugar #85 (33%) en The 2006 ACM Mexico and Central America Programming Contest
-1. _Informaticos_ resolvió 0 problemas y obtuvo el lugar #90 (21%) en The 2004 ACM Mexico and Central America Programming Contest
+1. _ITSLL_ resolvió 0 problemas y obtuvo el lugar #85 (29%) en The 2006 ACM Mexico and Central America Programming Contest
+1. _ITSLL 1_ resolvió 0 problemas y obtuvo el lugar #85 (28%) en The 2006 ACM Mexico and Central America Programming Contest
+1. _Informaticos_ resolvió 0 problemas y obtuvo el lugar #90 (17%) en The 2004 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 

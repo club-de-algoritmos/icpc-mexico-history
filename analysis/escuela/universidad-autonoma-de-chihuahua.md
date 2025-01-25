@@ -11,7 +11,7 @@
 1. _PatodaLaVida_ resolvió 3 problemas y obtuvo el lugar #26 (95%) en The 2021 ICPC Mexico Finals
 1. _QuesadillasLlevanQueso_ resolvió 8 problemas y obtuvo el lugar #76 (94%) en Gran Premio de Mexico 2019
 1. _Cruz Azul_ resolvió 8 problemas y obtuvo el lugar #79 (92%) en The 2022 ICPC Gran Premio de Mexico
-1. _GlobalProgramming_ resolvió 6 problemas y obtuvo el lugar #97 (91%) en The 2022 ICPC Gran Premio de Mexico
+1. _Wajakos_ resolvió 0 problemas y obtuvo el lugar #50 (90%) en The 2021 ICPC Mexico Finals
 
 ## Participaciones
 

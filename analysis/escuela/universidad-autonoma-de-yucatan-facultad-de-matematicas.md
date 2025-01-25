@@ -3,7 +3,7 @@
 ## Mejores 10 equipos
 
 1. _Aj Compleja_ resolvió 5 problemas y obtuvo el lugar #174 (86%) en Gran Premio de Mexico 2019
-1. _koders_ resolvió 0 problemas y obtuvo el lugar #351 (50%) en Gran Premio de Mexico 2020
+1. _koders_ resolvió 0 problemas y obtuvo el lugar #351 (48%) en Gran Premio de Mexico 2020
 1. _NullPointer_ resolvió 2 problemas y obtuvo el lugar #326 (28%) en The 2023 ICPC Gran Premio de Mexico
 
 ## Participaciones

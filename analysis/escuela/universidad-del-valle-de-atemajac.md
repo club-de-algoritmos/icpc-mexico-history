@@ -2,16 +2,16 @@
 
 ## Mejores 10 equipos
 
-1. _univa3_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
 1. _Los Babasónicos_ resolvió 2 problemas y obtuvo el lugar #44 (66%) en The 2006 ACM Mexico and Central America Programming Contest
-1. _univa1_ resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
-1. _univa2_ resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
-1. _univa3_ resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
-1. _univa4_ resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
-1. _univa5_ resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
-1. _Univa1_ resolvió 1 problemas y obtuvo el lugar #166 (65%) en The 2021 ICPC Gran Premio de Mexico
-1. _Ocelotes Bélicos_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _Univa2_ resolvió 1 problemas y obtuvo el lugar #65 (63%) en The 2013 Mexico & Central America Regional Contest
+1. _Univa1_ resolvió 1 problemas y obtuvo el lugar #166 (66%) en The 2021 ICPC Gran Premio de Mexico
+1. _Univa2_ resolvió 1 problemas y obtuvo el lugar #65 (64%) en The 2013 Mexico & Central America Regional Contest
+1. _Univa2_ resolvió 1 problemas y obtuvo el lugar #309 (53%) en Gran Premio de Mexico & Centroamerica 2017
+1. _univa1_ resolvió 0 problemas y obtuvo el lugar #108 (47%) en Gran Premio de Mexico & Centroamerica
+1. _Contraste_ resolvió 1 problemas y obtuvo el lugar #70 (46%) en The 2006 ACM Mexico and Central America Programming Contest
+1. _univa2_ resolvió 0 problemas y obtuvo el lugar #108 (46%) en Gran Premio de Mexico & Centroamerica
+1. _sukal_ resolvió 1 problemas y obtuvo el lugar #98 (42%) en The 2008 Mexico & Central America Contest
+1. _univa5_ resolvió 0 problemas y obtuvo el lugar #108 (41%) en Gran Premio de Mexico & Centroamerica
+1. _Ocelotes Bélicos_ resolvió 0 problemas y obtuvo el lugar #382 (39%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -67,9 +67,9 @@
 
 1. #108 _univa1_ (Clasificatorio)
 1. #108 _univa2_ (Clasificatorio)
+1. #108 _univa5_ (Clasificatorio)
 1. #108 _univa3_ (Clasificatorio)
 1. #108 _univa4_ (Clasificatorio)
-1. #108 _univa5_ (Clasificatorio)
 
 ### 2016-2017
 

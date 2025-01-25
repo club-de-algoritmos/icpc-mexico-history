@@ -2,16 +2,16 @@
 
 ## Mejores 10 equipos
 
-1. _GIGASHARK_ resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
-1. _TUX_ resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
-1. _Codigo Muerto_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
-1. _Zacahuil_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
-1. _IO EXCEPTION_ resolvió 0 problemas y obtuvo el lugar #61 (59%) en The 2007 ACM Mexico and Central America Programming Contest
-1. _SHARK_ resolvió 0 problemas y obtuvo el lugar #95 (46%) en The 2013 Mexico & Central America Regional Contest
-1. _JAVALINUX_ resolvió 0 problemas y obtuvo el lugar #405 (40%) en Gran Premio de Mexico & Centroamerica 2017
+1. _IO EXCEPTION_ resolvió 0 problemas y obtuvo el lugar #61 (56%) en The 2007 ACM Mexico and Central America Programming Contest
+1. _Codigo Muerto_ resolvió 0 problemas y obtuvo el lugar #482 (56%) en The 2024 ICPC Gran Premio de Mexico
+1. _Zacahuil_ resolvió 0 problemas y obtuvo el lugar #482 (56%) en The 2024 ICPC Gran Premio de Mexico
 1. _Giga Shark_ resolvió 2 problemas y obtuvo el lugar #135 (39%) en Mexico and Central America Finals - Programming Battle
+1. _JAVALINUX_ resolvió 0 problemas y obtuvo el lugar #405 (38%) en Gran Premio de Mexico & Centroamerica 2017
 1. _working_ resolvió 2 problemas y obtuvo el lugar #104 (36%) en The 2012 Mexico & Central America Regional Contest
-1. _HINAGA_ resolvió 0 problemas y obtuvo el lugar #104 (36%) en The 2011 Mexico & Central America Regional Contest
+1. _HINAGA_ resolvió 0 problemas y obtuvo el lugar #104 (31%) en The 2011 Mexico & Central America Regional Contest
+1. _s-black_ resolvió 1 problemas y obtuvo el lugar #128 (22%) en The 2012 Mexico & Central America Regional Contest
+1. _SIMULADORES_ resolvió 0 problemas y obtuvo el lugar #156 (21%) en The 2010 Mexico & Central America Regional Contest
+1. _TUX_ resolvió 0 problemas y obtuvo el lugar #108 (14%) en Gran Premio de Mexico & Centroamerica
 
 ## Participaciones
 
@@ -36,8 +36,8 @@
 
 ### 2010-2011
 
-1. #156 (#48 de TecNM) _HIMAGA_ (Regional)
 1. #156 (#48 de TecNM) _SIMULADORES_ (Regional)
+1. #156 (#48 de TecNM) _HIMAGA_ (Regional)
 
 ### 2011-2012
 
@@ -58,8 +58,8 @@
 
 ### 2015-2016
 
-1. #108 (#28 de TecNM) _GIGASHARK_ (Clasificatorio)
 1. #108 (#28 de TecNM) _TUX_ (Clasificatorio)
+1. #108 (#28 de TecNM) _GIGASHARK_ (Clasificatorio)
 
 ### 2017-2018
 

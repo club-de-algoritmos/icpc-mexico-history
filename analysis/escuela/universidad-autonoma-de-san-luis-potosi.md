@@ -62,10 +62,10 @@
 1. #326 _FC Biome´s_ (Clasificatorio)
 1. #328 _Suzanahorias_ (Clasificatorio)
 1. #373 _Screenprint_ (Clasificatorio)
-1. #382 _Cheatcodes+_ (Clasificatorio)
-1. #382 _Infocompas_ (Clasificatorio)
-1. #382 _Los Lord Llama de la Ciencia_ (Clasificatorio)
 1. #382 _Omega Q-Bits_ (Clasificatorio)
+1. #382 _Los Lord Llama de la Ciencia_ (Clasificatorio)
+1. #382 _Infocompas_ (Clasificatorio)
+1. #382 _Cheatcodes+_ (Clasificatorio)
 
 ### 2020-2021
 
@@ -80,9 +80,9 @@
 1. #289 _timeForce_ (Clasificatorio)
 1. #305 _Code compilers_ (Clasificatorio)
 1. #351 _Equipo alfa buena maravilla onda dinamita escuadrón lobo_ (Clasificatorio)
-1. #351 _GAG_ (Clasificatorio)
 1. #351 _Los nahuales masacuatos adictos al código_ (Clasificatorio)
 1. #351 _SmartDucks_ (Clasificatorio)
+1. #351 _GAG_ (Clasificatorio)
 
 ### 2021-2022
 
@@ -90,8 +90,8 @@
 1. #127 _NaN_ (Clasificatorio)
 1. #181 _Nopers_ (Clasificatorio)
 1. #206 _NameNotFoundException_ (Clasificatorio)
-1. #226 _Los Pixis_ (Clasificatorio)
 1. #226 _timeForce_ (Clasificatorio)
+1. #226 _Los Pixis_ (Clasificatorio)
 
 ### 2022-2023
 

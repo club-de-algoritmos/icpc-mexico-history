@@ -4,8 +4,8 @@
 
 1. _Lobos_ resolvió 1 problemas y obtuvo el lugar #59 (61%) en The 2007 ACM Mexico and Central America Programming Contest
 1. _Los Lobos UIA _ resolvió 1 problemas y obtuvo el lugar #66 (61%) en The 2008 Mexico & Central America Contest
-1. _Lobos_ resolvió 1 problemas y obtuvo el lugar #63 (50%) en The 2006 ACM Mexico and Central America Programming Contest
-1. _Rock N' Coders_ resolvió 0 problemas y obtuvo el lugar #156 (22%) en The 2010 Mexico & Central America Regional Contest
+1. _Lobos_ resolvió 1 problemas y obtuvo el lugar #63 (51%) en The 2006 ACM Mexico and Central America Programming Contest
+1. _Rock N' Coders_ resolvió 0 problemas y obtuvo el lugar #156 (14%) en The 2010 Mexico & Central America Regional Contest
 
 ## Participaciones
 

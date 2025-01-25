@@ -5,7 +5,7 @@
 1. _Internship plis_ resolvió 4 problemas y obtuvo el lugar #28 (98%) en The 2024 ICPC Mexico Finals
 1. _Juniors_ resolvió 3 problemas y obtuvo el lugar #35 (92%) en The 2023 ICPC Mexico Finals
 1. _NetRunners_ resolvió 1 problemas y obtuvo el lugar #93 (92%) en The 2024 ICPC Mexico Finals
-1. _Juniors_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Juniors_ resolvió 0 problemas y obtuvo el lugar #382 (11%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 

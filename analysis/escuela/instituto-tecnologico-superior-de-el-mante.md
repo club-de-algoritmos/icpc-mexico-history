@@ -4,12 +4,12 @@
 
 1. _CKT_ resolvió 5 problemas y obtuvo el lugar #128 (90%) en Gran Premio de Mexico 2019
 1. _3.1416T*_ resolvió 5 problemas y obtuvo el lugar #141 (89%) en Gran Premio de Mexico 2019
-1. _Dinamita2_ resolvió 3 problemas y obtuvo el lugar #199 (85%) en Gran Premio de Mexico 2019
+1. _Dinamita2_ resolvió 3 problemas y obtuvo el lugar #199 (84%) en Gran Premio de Mexico 2019
 1. _Los Ansiosos_ resolvió 3 problemas y obtuvo el lugar #213 (83%) en Gran Premio de Mexico 2019
 1. _Constelacion_ resolvió 3 problemas y obtuvo el lugar #215 (83%) en Gran Premio de Mexico 2019
 1. _Triforce_ resolvió 2 problemas y obtuvo el lugar #59 (82%) en The 2015 ACM-ICPC Mexico and Central America Finals
 1. _Segmentation Fault_ resolvió 8 problemas y obtuvo el lugar #141 (80%) en Gran Premio de Mexico 2020
-1. _Los Padrinos_ resolvió 2 problemas y obtuvo el lugar #276 (79%) en Gran Premio de Mexico 2019
+1. _Los Padrinos_ resolvió 2 problemas y obtuvo el lugar #276 (78%) en Gran Premio de Mexico 2019
 1. _RAL Machine_ resolvió 1 problemas y obtuvo el lugar #74 (77%) en The 2015 ACM-ICPC Mexico and Central America Finals
 1. _Black Mens_ resolvió 2 problemas y obtuvo el lugar #292 (77%) en Gran Premio de Mexico 2019
 
@@ -34,25 +34,25 @@
 ### 2013-2014
 
 1. #95 (#24 de TecNM) _!Java_ (Regional)
+1. #95 (#24 de TecNM) _Skynett_ (Regional)
 1. #95 (#24 de TecNM) _FreeCode_ (Regional)
 1. #95 (#24 de TecNM) _Full-Time Programmers_ (Regional)
-1. #95 (#24 de TecNM) _Skynett_ (Regional)
 
 ### 2015-2016
 
 1. #59 (#10 de TecNM) _Triforce_ (Regional)
 1. #74 (#14 de TecNM) _RAL Machine_ (Regional)
-1. #108 (#28 de TecNM) _Control Machete_ (Clasificatorio)
 1. #108 (#28 de TecNM) _Wolfies_ (Clasificatorio)
 1. #108 (#28 de TecNM) _shield_ (Clasificatorio)
+1. #108 (#28 de TecNM) _Control Machete_ (Clasificatorio)
 
 ### 2016-2017
 
+1. #121 (#22 de TecNM) _Zurdok_ (Clasificatorio)
+1. #121 (#22 de TecNM) _Reach_ (Clasificatorio)
 1. #121 (#22 de TecNM) _Hope_ (Clasificatorio)
 1. #121 (#22 de TecNM) _Los Osados_ (Clasificatorio)
 1. #121 (#22 de TecNM) _Programmers Squad_ (Clasificatorio)
-1. #121 (#22 de TecNM) _Reach_ (Clasificatorio)
-1. #121 (#22 de TecNM) _Zurdok_ (Clasificatorio)
 
 ### 2017-2018
 
@@ -62,18 +62,18 @@
 
 ### 2018-2019
 
-1. #395 (#160 de TecNM) _CKT_ (Clasificatorio)
 1. #395 (#160 de TecNM) _Dinamita_ (Clasificatorio)
-1. #395 (#160 de TecNM) _Fenix Inc_ (Clasificatorio)
 1. #395 (#160 de TecNM) _Hyperloop_ (Clasificatorio)
 1. #395 (#160 de TecNM) _ITSM_ (Clasificatorio)
-1. #395 (#160 de TecNM) _Jak_ (Clasificatorio)
-1. #395 (#160 de TecNM) _MKL_ (Clasificatorio)
-1. #395 (#160 de TecNM) _Quack squad_ (Clasificatorio)
-1. #395 (#160 de TecNM) _Stranger_ (Clasificatorio)
 1. #395 (#160 de TecNM) _Suggar Babies_ (Clasificatorio)
+1. #395 (#160 de TecNM) _Jak_ (Clasificatorio)
+1. #395 (#160 de TecNM) _Fenix Inc_ (Clasificatorio)
 1. #395 (#160 de TecNM) _Tempis Style_ (Clasificatorio)
 1. #395 (#160 de TecNM) _X-Force_ (Clasificatorio)
+1. #395 (#160 de TecNM) _Stranger_ (Clasificatorio)
+1. #395 (#160 de TecNM) _CKT_ (Clasificatorio)
+1. #395 (#160 de TecNM) _Quack squad_ (Clasificatorio)
+1. #395 (#160 de TecNM) _MKL_ (Clasificatorio)
 
 ### 2019-2020
 
@@ -86,19 +86,19 @@
 1. #292 (#59 de TecNM) _Black Mens_ (Clasificatorio)
 1. #345 (#81 de TecNM) _Vicabe_ (Clasificatorio)
 1. #374 (#96 de TecNM) _ Los Kabos_ (Clasificatorio)
-1. #382 (#100 de TecNM) _Cheetos_ (Clasificatorio)
-1. #382 (#100 de TecNM) _Comando Cloud_ (Clasificatorio)
-1. #382 (#100 de TecNM) _GreedyBoys_ (Clasificatorio)
-1. #382 (#100 de TecNM) _Los tres siniestros_ (Clasificatorio)
 1. #382 (#100 de TecNM) _Mumfort_ (Clasificatorio)
-1. #382 (#100 de TecNM) _Please try again_ (Clasificatorio)
-1. #382 (#100 de TecNM) _START: DASH!!_ (Clasificatorio)
-1. #382 (#100 de TecNM) _Sidgirls_ (Clasificatorio)
-1. #382 (#100 de TecNM) _Team Rocket_ (Clasificatorio)
-1. #382 (#100 de TecNM) _TekMate_ (Clasificatorio)
-1. #382 (#100 de TecNM) _The Best Programmers_ (Clasificatorio)
-1. #382 (#100 de TecNM) _The Chioss_ (Clasificatorio)
 1. #382 (#100 de TecNM) _Tontos inteligentes _ (Clasificatorio)
+1. #382 (#100 de TecNM) _Comando Cloud_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Los tres siniestros_ (Clasificatorio)
+1. #382 (#100 de TecNM) _TekMate_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Cheetos_ (Clasificatorio)
+1. #382 (#100 de TecNM) _GreedyBoys_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Sidgirls_ (Clasificatorio)
+1. #382 (#100 de TecNM) _The Chioss_ (Clasificatorio)
+1. #382 (#100 de TecNM) _START: DASH!!_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Team Rocket_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Please try again_ (Clasificatorio)
+1. #382 (#100 de TecNM) _The Best Programmers_ (Clasificatorio)
 
 ### 2020-2021
 
@@ -109,15 +109,15 @@
 1. #318 (#51 de TecNM) _Duo picafresa_ (Clasificatorio)
 1. #323 (#52 de TecNM) _ITSM Impact_ (Clasificatorio)
 1. #342 (#59 de TecNM) _VADhir_ (Clasificatorio)
+1. #351 (#65 de TecNM) _The Ruices_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Engene_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Romasaci_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Trinity Audosus_ (Clasificatorio)
 1. #351 (#65 de TecNM) _CYA_ (Clasificatorio)
 1. #351 (#65 de TecNM) _Chems_ (Clasificatorio)
-1. #351 (#65 de TecNM) _Engene_ (Clasificatorio)
-1. #351 (#65 de TecNM) _International Elite_ (Clasificatorio)
-1. #351 (#65 de TecNM) _Romasaci_ (Clasificatorio)
-1. #351 (#65 de TecNM) _Team Mancos_ (Clasificatorio)
 1. #351 (#65 de TecNM) _Tecdevs_ (Clasificatorio)
-1. #351 (#65 de TecNM) _The Ruices_ (Clasificatorio)
-1. #351 (#65 de TecNM) _Trinity Audosus_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Team Mancos_ (Clasificatorio)
+1. #351 (#65 de TecNM) _International Elite_ (Clasificatorio)
 
 ### 2021-2022
 
@@ -128,28 +128,28 @@
 1. #199 (#27 de TecNM) _Cheetos Flaming Hot_ (Clasificatorio)
 1. #207 (#29 de TecNM) _ITSM Euphoria_ (Clasificatorio)
 1. #210 (#30 de TecNM) _Grandchilds Sad_ (Clasificatorio)
-1. #226 (#37 de TecNM) _Engine_ (Clasificatorio)
 1. #226 (#37 de TecNM) _Onda Software_ (Clasificatorio)
 1. #226 (#37 de TecNM) _Pushisquad_ (Clasificatorio)
 1. #226 (#37 de TecNM) _RAD_ (Clasificatorio)
 1. #226 (#37 de TecNM) _Trinity Audacious_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Engine_ (Clasificatorio)
 
 ### 2022-2023
 
 1. #263 (#48 de TecNM) _Los tilines_ (Clasificatorio)
 1. #360 (#71 de TecNM) _The switch_ (Clasificatorio)
 1. #370 (#74 de TecNM) _Onda Software 2.0_ (Clasificatorio)
-1. #382 (#83 de TecNM) _Abandona2_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Malvaviscos_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Los Fibonacci_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Index out of bounds_ (Clasificatorio)
+1. #382 (#83 de TecNM) _TilinesSUS_ (Clasificatorio)
 1. #382 (#83 de TecNM) _Cococoat Team_ (Clasificatorio)
 1. #382 (#83 de TecNM) _DinoTec_ (Clasificatorio)
 1. #382 (#83 de TecNM) _Engene_ (Clasificatorio)
 1. #382 (#83 de TecNM) _Equipo Pushi_ (Clasificatorio)
 1. #382 (#83 de TecNM) _Equipo Rivera_ (Clasificatorio)
 1. #382 (#83 de TecNM) _Flaming Hot_ (Clasificatorio)
-1. #382 (#83 de TecNM) _Index out of bounds_ (Clasificatorio)
-1. #382 (#83 de TecNM) _Los Fibonacci_ (Clasificatorio)
-1. #382 (#83 de TecNM) _Malvaviscos_ (Clasificatorio)
-1. #382 (#83 de TecNM) _TilinesSUS_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Abandona2_ (Clasificatorio)
 
 ### 2023-2024
 

@@ -2,16 +2,16 @@
 
 ## Mejores 10 equipos
 
-1. _TecMorelia2_ resolvió 2 problemas y obtuvo el lugar #18 (90%) en The 2013 Mexico & Central America Regional Contest
+1. _TecMorelia2_ resolvió 2 problemas y obtuvo el lugar #18 (91%) en The 2013 Mexico & Central America Regional Contest
 1. _ITM-3_ resolvió 3 problemas y obtuvo el lugar #20 (88%) en The 2011 Mexico & Central America Regional Contest
 1. _Tec Morelia 1_ resolvió 2 problemas y obtuvo el lugar #46 (72%) en The 2012 Mexico & Central America Regional Contest
-1. _Bichotas_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _Lucas 21:16_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _Pony Code_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _PyJava++_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _Ticsitos_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _pony force_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _ITM - Tec Morelia 2_ resolvió 2 problemas y obtuvo el lugar #63 (62%) en The 2012 Mexico & Central America Regional Contest
+1. _VISUAL DIM_ resolvió 3 problemas y obtuvo el lugar #273 (61%) en Gran Premio de Mexico 2020
+1. _ITM-2_ resolvió 2 problemas y obtuvo el lugar #64 (60%) en The 2011 Mexico & Central America Regional Contest
+1. _Fail_ resolvió 1 problemas y obtuvo el lugar #67 (59%) en The 2009 Mexico & Central America Contest
+1. _Bichotas_ resolvió 0 problemas y obtuvo el lugar #382 (59%) en The 2022 ICPC Gran Premio de Mexico
+1. _Lucas 21:16_ resolvió 0 problemas y obtuvo el lugar #382 (59%) en The 2022 ICPC Gran Premio de Mexico
+1. _Ticsitos_ resolvió 0 problemas y obtuvo el lugar #382 (59%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -61,16 +61,16 @@
 ### 2020-2021
 
 1. #273 (#32 de TecNM) _VISUAL DIM_ (Clasificatorio)
-1. #351 (#65 de TecNM) _Brenefer_ (Clasificatorio)
 1. #351 (#65 de TecNM) _Bugueadores_ (Clasificatorio)
 1. #351 (#65 de TecNM) _CADURI_ (Clasificatorio)
-1. #351 (#65 de TecNM) _Inscrixd_ (Clasificatorio)
-1. #351 (#65 de TecNM) _JavaTrue_ (Clasificatorio)
-1. #351 (#65 de TecNM) _PonyCode_ (Clasificatorio)
-1. #351 (#65 de TecNM) _Proprogrammers_ (Clasificatorio)
 1. #351 (#65 de TecNM) _ROCKET_ (Clasificatorio)
 1. #351 (#65 de TecNM) _THORTAS_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Proprogrammers_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Inscrixd_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Brenefer_ (Clasificatorio)
 1. #351 (#65 de TecNM) _TecForce_ (Clasificatorio)
+1. #351 (#65 de TecNM) _JavaTrue_ (Clasificatorio)
+1. #351 (#65 de TecNM) _PonyCode_ (Clasificatorio)
 
 ### 2021-2022
 
@@ -81,16 +81,16 @@
 
 1. #382 (#83 de TecNM) _Bichotas_ (Clasificatorio)
 1. #382 (#83 de TecNM) _Lucas 21:16_ (Clasificatorio)
-1. #382 (#83 de TecNM) _Pony Code_ (Clasificatorio)
-1. #382 (#83 de TecNM) _PyJava++_ (Clasificatorio)
 1. #382 (#83 de TecNM) _Ticsitos_ (Clasificatorio)
 1. #382 (#83 de TecNM) _pony force_ (Clasificatorio)
+1. #382 (#83 de TecNM) _PyJava++_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Pony Code_ (Clasificatorio)
 
 ### 2024-2025
 
 1. #482 (#114 de TecNM) _CodeByPixel_ (Clasificatorio)
-1. #482 (#114 de TecNM) _Full Snack Developers_ (Clasificatorio)
 1. #482 (#114 de TecNM) _PonysCodeCrafters_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Full Snack Developers_ (Clasificatorio)
 
 
 

@@ -4,14 +4,14 @@
 
 1. _Mapache 3_ resolvió 1 problemas y obtuvo el lugar #16 (84%) en The 2002 ACM Mexico and Central America Programming Contest
 1. _Programadores lógicos en fase de aprendizaje 1_ resolvió 2 problemas y obtuvo el lugar #242 (81%) en Gran Premio de Mexico 2019
-1. _TESLA_ITZ_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
 1. _Programadores lógicos en fase de aprendizaje 2_ resolvió 1 problemas y obtuvo el lugar #319 (75%) en Gran Premio de Mexico 2019
-1. _Mapache 1_ resolvió 0 problemas y obtuvo el lugar #27 (72%) en The 2002 ACM Mexico and Central America Programming Contest
-1. _Mapache 2_ resolvió 0 problemas y obtuvo el lugar #27 (72%) en The 2002 ACM Mexico and Central America Programming Contest
-1. _A.M. Turing ITZ_ resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
-1. _Jhon McCarthy ITZ_ resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
-1. _Raccoons_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _TecCode_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
+1. _Mapaches2_ resolvió 1 problemas y obtuvo el lugar #30 (65%) en The 2001 ACM Mexico and Central America Programming Contest
+1. _Daemons_ resolvió 1 problemas y obtuvo el lugar #62 (65%) en The 2005 ACM Mexico and Central America Programming Contest
+1. _TeslaITZ_ resolvió 2 problemas y obtuvo el lugar #296 (60%) en Gran Premio de Mexico 2018
+1. _TecCode_ resolvió 0 problemas y obtuvo el lugar #382 (57%) en The 2022 ICPC Gran Premio de Mexico
+1. _HUNTERS_ resolvió 1 problemas y obtuvo el lugar #333 (56%) en Gran Premio de Mexico 2018
+1. _Raccoons_ resolvió 0 problemas y obtuvo el lugar #382 (51%) en The 2022 ICPC Gran Premio de Mexico
+1. _Mapache 1_ resolvió 0 problemas y obtuvo el lugar #27 (48%) en The 2002 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 
@@ -45,19 +45,19 @@
 
 ### 2003-2004
 
-1. #41 (#10 de TecNM) _Mapache1_ (Regional)
-1. #41 (#10 de TecNM) _Mapache2_ (Regional)
-1. #41 (#10 de TecNM) _Mapache3_ (Regional)
 1. #41 (#10 de TecNM) _Mapache4_ (Regional)
 1. #41 (#10 de TecNM) _Mapache5_ (Regional)
+1. #41 (#10 de TecNM) _Mapache1_ (Regional)
 1. #41 (#10 de TecNM) _Mapache6_ (Regional)
+1. #41 (#10 de TecNM) _Mapache2_ (Regional)
+1. #41 (#10 de TecNM) _Mapache3_ (Regional)
 
 ### 2004-2005
 
 1. #64 (#14 de TecNM) _Fractales_ (Regional)
 1. #81 (#21 de TecNM) _Marco-Joel-Sergio_ (Regional)
-1. #90 (#25 de TecNM) _LOS TOPOS-ISC_ (Regional)
 1. #90 (#25 de TecNM) _Novatos Reload_ (Regional)
+1. #90 (#25 de TecNM) _LOS TOPOS-ISC_ (Regional)
 
 ### 2005-2006
 
@@ -90,8 +90,8 @@
 
 ### 2022-2023
 
-1. #382 (#83 de TecNM) _Raccoons_ (Clasificatorio)
 1. #382 (#83 de TecNM) _TecCode_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Raccoons_ (Clasificatorio)
 
 
 

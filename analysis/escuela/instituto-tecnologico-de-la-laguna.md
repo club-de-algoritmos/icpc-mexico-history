@@ -7,11 +7,11 @@
 1. _Syntax Terror_ resolvió 1 problemas y obtuvo el lugar #98 (92%) en The 2024 ICPC Mexico Finals
 1. _ITLN_ resolvió 7 problemas y obtuvo el lugar #101 (92%) en Gran Premio de Mexico 2019
 1. _EspantaBugs_ resolvió 2 problemas y obtuvo el lugar #42 (91%) en The 2023 ICPC Mexico Finals
-1. _Los Facilitadores_ resolvió 8 problemas y obtuvo el lugar #111 (91%) en The 2024 ICPC Gran Premio de Mexico
-1. _SPTeam_ resolvió 7 problemas y obtuvo el lugar #127 (90%) en The 2024 ICPC Gran Premio de Mexico
-1. _RQT_Recursivos_ resolvió 7 problemas y obtuvo el lugar #128 (90%) en The 2024 ICPC Gran Premio de Mexico
-1. _Who was in Paris??_ resolvió 7 problemas y obtuvo el lugar #145 (88%) en The 2024 ICPC Gran Premio de Mexico
-1. _Las chicas superprogramadoras_ resolvió 6 problemas y obtuvo el lugar #186 (85%) en The 2024 ICPC Gran Premio de Mexico
+1. _Los Facilitadores_ resolvió 8 problemas y obtuvo el lugar #111 (88%) en The 2024 ICPC Gran Premio de Mexico
+1. _SPTeam_ resolvió 7 problemas y obtuvo el lugar #127 (87%) en The 2024 ICPC Gran Premio de Mexico
+1. _RQT_Recursivos_ resolvió 7 problemas y obtuvo el lugar #128 (87%) en The 2024 ICPC Gran Premio de Mexico
+1. _Who was in Paris??_ resolvió 7 problemas y obtuvo el lugar #145 (86%) en The 2024 ICPC Gran Premio de Mexico
+1. _SPTeam_ resolvió 6 problemas y obtuvo el lugar #74 (83%) en The 2023 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -33,33 +33,33 @@
 
 ### 2001-2002
 
-1. #55 (#16 de TecNM) _GATOS_ (Regional)
-1. #55 (#16 de TecNM) _GATOS NEGROS 1_ (Regional)
-1. #55 (#16 de TecNM) _GATOS NEGROS 2_ (Regional)
-1. #55 (#16 de TecNM) _GATOS NEGROS 3_ (Regional)
 1. #55 (#16 de TecNM) _GATOS NEGROS 4_ (Regional)
 1. #55 (#16 de TecNM) _GATOS NEGROS 5_ (Regional)
+1. #55 (#16 de TecNM) _GATOS NEGROS 1_ (Regional)
+1. #55 (#16 de TecNM) _GATOS NEGROS 3_ (Regional)
+1. #55 (#16 de TecNM) _GATOS NEGROS 2_ (Regional)
+1. #55 (#16 de TecNM) _GATOS_ (Regional)
 
 ### 2002-2003
 
-1. #27 (#3 de TecNM) _Black Cats I_ (Regional)
-1. #27 (#3 de TecNM) _Black Cats II_ (Regional)
+1. #27 (#3 de TecNM) _TecLaguna - 1_ (Regional)
+1. #27 (#3 de TecNM) _TecLaguna - 2_ (Regional)
 1. #27 (#3 de TecNM) _Gatos Negros I_ (Regional)
 1. #27 (#3 de TecNM) _Gatos Negros II_ (Regional)
 1. #27 (#3 de TecNM) _Gatos Negros III_ (Regional)
 1. #27 (#3 de TecNM) _Gatos Negros IV_ (Regional)
 1. #27 (#3 de TecNM) _Gatos Negros V_ (Regional)
 1. #27 (#3 de TecNM) _Gatos Negros VI_ (Regional)
-1. #27 (#3 de TecNM) _ITL Black Cats_ (Regional)
-1. #27 (#3 de TecNM) _Los Ponedores del ITL # 13_ (Regional)
 1. #27 (#3 de TecNM) _Natas_ (Regional)
-1. #27 (#3 de TecNM) _TecLaguna - 1_ (Regional)
-1. #27 (#3 de TecNM) _TecLaguna - 2_ (Regional)
+1. #27 (#3 de TecNM) _Black Cats I_ (Regional)
+1. #27 (#3 de TecNM) _Black Cats II_ (Regional)
+1. #27 (#3 de TecNM) _Los Ponedores del ITL # 13_ (Regional)
+1. #27 (#3 de TecNM) _ITL Black Cats_ (Regional)
 
 ### 2013-2014
 
-1. #95 (#24 de TecNM) _Tec Laguna 1_ (Regional)
 1. #95 (#24 de TecNM) _Tec Laguna 2_ (Regional)
+1. #95 (#24 de TecNM) _Tec Laguna 1_ (Regional)
 
 ### 2014-2015
 
@@ -112,23 +112,23 @@
 1. #351 (#70 de TecNM) _Work Bots_ (Clasificatorio)
 1. #378 (#79 de TecNM) _Oswi Boys_ (Clasificatorio)
 1. #379 (#80 de TecNM) _Las Fuerzas del Mal_ (Clasificatorio)
-1. #382 (#83 de TecNM) _CODING PALS_ (Clasificatorio)
-1. #382 (#83 de TecNM) _Chepo++_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Monkey Devs_ (Clasificatorio)
 1. #382 (#83 de TecNM) _Developer Manager_ (Clasificatorio)
-1. #382 (#83 de TecNM) _Frida's Team_ (Clasificatorio)
 1. #382 (#83 de TecNM) _IDGAF_ (Clasificatorio)
-1. #382 (#83 de TecNM) _KbzaDbolo_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Master Codes_ (Clasificatorio)
+1. #382 (#83 de TecNM) _CODING PALS_ (Clasificatorio)
 1. #382 (#83 de TecNM) _LafCoding_ (Clasificatorio)
-1. #382 (#83 de TecNM) _Los Charlie Fest pt. 1, 2 y 3_ (Clasificatorio)
-1. #382 (#83 de TecNM) _Los Pinochos Quanticos_ (Clasificatorio)
 1. #382 (#83 de TecNM) _Los Testigos de Ciseña_ (Clasificatorio)
 1. #382 (#83 de TecNM) _Los Testigos de Oswi_ (Clasificatorio)
-1. #382 (#83 de TecNM) _Los Traga Bugs_ (Clasificatorio)
-1. #382 (#83 de TecNM) _Master Codes_ (Clasificatorio)
-1. #382 (#83 de TecNM) _Mnkys 404_ (Clasificatorio)
-1. #382 (#83 de TecNM) _Monkey Devs_ (Clasificatorio)
-1. #382 (#83 de TecNM) _TeamRocket_ (Clasificatorio)
 1. #382 (#83 de TecNM) _echo_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Frida's Team_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Los Pinochos Quanticos_ (Clasificatorio)
+1. #382 (#83 de TecNM) _TeamRocket_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Los Charlie Fest pt. 1, 2 y 3_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Los Traga Bugs_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Mnkys 404_ (Clasificatorio)
+1. #382 (#83 de TecNM) _KbzaDbolo_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Chepo++_ (Clasificatorio)
 
 ### 2023-2024
 
@@ -169,14 +169,14 @@
 1. #453 (#101 de TecNM) _bug blitzers _ (Clasificatorio)
 1. #464 (#106 de TecNM) _CharlieGPT_ (Clasificatorio)
 1. #471 (#109 de TecNM) _The Alphas_ (Clasificatorio)
-1. #482 (#114 de TecNM) _Algorítmicas_ (Clasificatorio)
-1. #482 (#114 de TecNM) _CMJ_ (Clasificatorio)
-1. #482 (#114 de TecNM) _Juan Venados_ (Clasificatorio)
-1. #482 (#114 de TecNM) _Los Pythones_ (Clasificatorio)
-1. #482 (#114 de TecNM) _MEC_ (Clasificatorio)
-1. #482 (#114 de TecNM) _Motify_ (Clasificatorio)
 1. #482 (#114 de TecNM) _Paradigma_ (Clasificatorio)
 1. #482 (#114 de TecNM) _ciPlusPlus_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Juan Venados_ (Clasificatorio)
+1. #482 (#114 de TecNM) _MEC_ (Clasificatorio)
+1. #482 (#114 de TecNM) _CMJ_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Los Pythones_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Motify_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Algorítmicas_ (Clasificatorio)
 
 
 

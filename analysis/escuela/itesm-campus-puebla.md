@@ -11,7 +11,7 @@
 1. _bool basaur_ resolvió 2 problemas y obtuvo el lugar #19 (97%) en The 2017 ACM-ICPC Mexico and Central America Finals
 1. _int ensos;_ resolvió 4 problemas y obtuvo el lugar #28 (97%) en The 2018 ICPC Mexico and Central America Finals
 1. _Clfies_ resolvió 4 problemas y obtuvo el lugar #15 (96%) en The 2015 ACM-ICPC Mexico and Central America Finals
-1. _NPCs_ resolvió 3 problemas y obtuvo el lugar #55 (96%) en The 2024 ICPC Mexico Finals
+1. _NPCs_ resolvió 3 problemas y obtuvo el lugar #55 (95%) en The 2024 ICPC Mexico Finals
 1. _Gekko_ resolvió 8 problemas y obtuvo el lugar #63 (95%) en Gran Premio de Mexico 2019
 
 ## Participaciones
@@ -49,8 +49,8 @@
 1. #52 (#18 de ITESM) _Unicoders_ (Regional)
 1. #94 (#27 de ITESM) _Los bien vestidos_ (Regional)
 1. #100 (#29 de ITESM) _Los3ReyesMagos_ (Regional)
-1. #156 (#35 de ITESM) _Aguilas_ (Regional)
 1. #156 (#35 de ITESM) _ICE_ (Regional)
+1. #156 (#35 de ITESM) _Aguilas_ (Regional)
 
 ### 2011-2012
 
@@ -130,8 +130,8 @@
 
 1. #136 (#24 de ITESM) _Programadioses_ (Clasificatorio)
 1. #188 (#39 de ITESM) _Océano Atlántico_ (Clasificatorio)
-1. #226 (#45 de ITESM) _Mexastech_ (Clasificatorio)
 1. #226 (#45 de ITESM) _Patos de Hule_ (Clasificatorio)
+1. #226 (#45 de ITESM) _Mexastech_ (Clasificatorio)
 
 ### 2022-2023
 
@@ -140,8 +140,8 @@
 1. #304 (#45 de ITESM) _Robotics.py_ (Clasificatorio)
 1. #364 (#54 de ITESM) _Ionicos_ (Clasificatorio)
 1. #382 (#55 de ITESM) _Ajolotes_ (Clasificatorio)
-1. #382 (#55 de ITESM) _MonkiTeam_ (Clasificatorio)
 1. #382 (#55 de ITESM) _Patos de Hule_ (Clasificatorio)
+1. #382 (#55 de ITESM) _MonkiTeam_ (Clasificatorio)
 1. #382 (#55 de ITESM) _TecByters.cpp_ (Clasificatorio)
 
 ### 2023-2024
@@ -158,8 +158,8 @@
 1. #218 (#36 de ITESM) _Array of Borregos_ (Clasificatorio)
 1. #270 (#42 de ITESM) _Fanyezoiel_ (Clasificatorio)
 1. #482 (#69 de ITESM) _DevsInDev_ (Clasificatorio)
-1. #482 (#69 de ITESM) _Permanganato de potasio_ (Clasificatorio)
 1. #482 (#69 de ITESM) _Roblos_ (Clasificatorio)
+1. #482 (#69 de ITESM) _Permanganato de potasio_ (Clasificatorio)
 1. #482 (#69 de ITESM) _W++_ (Clasificatorio)
 
 

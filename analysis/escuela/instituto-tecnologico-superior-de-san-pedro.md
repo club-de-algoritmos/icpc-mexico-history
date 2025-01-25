@@ -4,14 +4,14 @@
 
 1. _LAS 3 GEMAS DEL INFINITO_ resolvió 4 problemas y obtuvo el lugar #188 (85%) en Gran Premio de Mexico 2019
 1. _Jalapeños Developer Team_ resolvió 4 problemas y obtuvo el lugar #189 (85%) en Gran Premio de Mexico 2019
-1. _Zorros_ resolvió 4 problemas y obtuvo el lugar #143 (78%) en Gran Premio de Mexico & Centroamerica 2017
-1. _LAS INEVITABLES_ resolvió 2 problemas y obtuvo el lugar #289 (78%) en Gran Premio de Mexico 2019
-1. _Error 404_ resolvió 3 problemas y obtuvo el lugar #199 (70%) en Gran Premio de Mexico & Centroamerica 2017
-1. _Atletico San Pancho_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Los nuevos vengadores_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _innombrables_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Destroyers_ resolvió 3 problemas y obtuvo el lugar #224 (67%) en Gran Premio de Mexico & Centroamerica 2017
+1. _LAS INEVITABLES_ resolvió 2 problemas y obtuvo el lugar #289 (77%) en Gran Premio de Mexico 2019
+1. _Zorros_ resolvió 4 problemas y obtuvo el lugar #143 (75%) en Gran Premio de Mexico & Centroamerica 2017
+1. _Error 404_ resolvió 3 problemas y obtuvo el lugar #199 (68%) en Gran Premio de Mexico & Centroamerica 2017
 1. _Java-Lieron_ resolvió 2 problemas y obtuvo el lugar #240 (67%) en Gran Premio de Mexico 2018
+1. _Survivor_Team_ resolvió 2 problemas y obtuvo el lugar #241 (66%) en Gran Premio de Mexico 2018
+1. _Destroyers_ resolvió 3 problemas y obtuvo el lugar #224 (65%) en Gran Premio de Mexico & Centroamerica 2017
+1. _ZORROS_ resolvió 2 problemas y obtuvo el lugar #254 (65%) en Gran Premio de Mexico 2018
+1. _Los nuevos vengadores_ obtuvo el lugar #382 (49%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 
@@ -35,14 +35,14 @@
 1. #143 (#22 de TecNM) _Zorros_ (Clasificatorio)
 1. #199 (#37 de TecNM) _Error 404_ (Clasificatorio)
 1. #224 (#44 de TecNM) _Destroyers_ (Clasificatorio)
-1. #405 (#97 de TecNM) _Delfines_ (Clasificatorio)
 1. #405 (#97 de TecNM) _Engineers_ (Clasificatorio)
-1. #405 (#97 de TecNM) _Los Javeros_ (Clasificatorio)
 1. #405 (#97 de TecNM) _Los Softwareños_ (Clasificatorio)
-1. #405 (#97 de TecNM) _Luchana´s Team_ (Clasificatorio)
+1. #405 (#97 de TecNM) _Delfines_ (Clasificatorio)
 1. #405 (#97 de TecNM) _System SRL_ (Clasificatorio)
-1. #405 (#97 de TecNM) _TeraByts_ (Clasificatorio)
+1. #405 (#97 de TecNM) _Los Javeros_ (Clasificatorio)
 1. #405 (#97 de TecNM) _The Engineers Crazy_ (Clasificatorio)
+1. #405 (#97 de TecNM) _Luchana´s Team_ (Clasificatorio)
+1. #405 (#97 de TecNM) _TeraByts_ (Clasificatorio)
 
 ### 2018-2019
 
@@ -58,9 +58,9 @@
 1. #188 (#25 de TecNM) _LAS 3 GEMAS DEL INFINITO_ (Clasificatorio)
 1. #189 (#26 de TecNM) _Jalapeños Developer Team_ (Clasificatorio)
 1. #289 (#58 de TecNM) _LAS INEVITABLES_ (Clasificatorio)
-1. #382 (#100 de TecNM) _Atletico San Pancho_ (Clasificatorio)
 1. #382 (#100 de TecNM) _Los nuevos vengadores_ (Clasificatorio)
 1. #382 (#100 de TecNM) _innombrables_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Atletico San Pancho_ (Clasificatorio)
 
 
 

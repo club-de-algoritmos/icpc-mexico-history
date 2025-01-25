@@ -2,9 +2,9 @@
 
 ## Mejores 10 equipos
 
-1. _NapKings_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _epabbcomprechispitas_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Los Spartans_ resolvió 0 problemas y obtuvo el lugar #405 (40%) en Gran Premio de Mexico & Centroamerica 2017
+1. _epabbcomprechispitas_ obtuvo el lugar #382 (57%) en Gran Premio de Mexico 2019
+1. _NapKings_ obtuvo el lugar #382 (41%) en Gran Premio de Mexico 2019
+1. _Los Spartans_ resolvió 0 problemas y obtuvo el lugar #405 (26%) en Gran Premio de Mexico & Centroamerica 2017
 
 ## Participaciones
 
@@ -22,8 +22,8 @@
 
 ### 2019-2020
 
-1. #382 (#100 de TecNM) _NapKings_ (Clasificatorio)
 1. #382 (#100 de TecNM) _epabbcomprechispitas_ (Clasificatorio)
+1. #382 (#100 de TecNM) _NapKings_ (Clasificatorio)
 
 
 

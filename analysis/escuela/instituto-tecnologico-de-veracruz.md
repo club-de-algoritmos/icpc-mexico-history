@@ -5,13 +5,13 @@
 1. _FastFingers lml_ resolvió 4 problemas y obtuvo el lugar #13 (98%) en The 2016 ACM-ICPC Mexico and Central America Finals
 1. _Warriors Z_ resolvió 2 problemas y obtuvo el lugar #28 (96%) en The 2017 ACM-ICPC Mexico and Central America Finals
 1. _Code4Life_ resolvió 3 problemas y obtuvo el lugar #36 (96%) en The 2018 ICPC Mexico and Central America Finals
-1. _fe++_ resolvió 6 problemas y obtuvo el lugar #44 (96%) en The 2022 ICPC Gran Premio de Mexico
-1. _Eternity_ resolvió 2 problemas y obtuvo el lugar #38 (95%) en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _Eternity_ resolvió 2 problemas y obtuvo el lugar #38 (94%) en The 2017 ACM-ICPC Mexico and Central America Finals
 1. _<CodeBreakers/>_ resolvió 2 problemas y obtuvo el lugar #43 (94%) en The 2020 ICPC Mexico Finals
-1. _ItverPower_ resolvió 2 problemas y obtuvo el lugar #80 (94%) en The 2024 ICPC Mexico Finals
-1. _Programmers Crew_ resolvió 12 problemas y obtuvo el lugar #48 (91%) en Gran Premio de Mexico & Centroamerica
+1. _fe++_ resolvió 6 problemas y obtuvo el lugar #44 (94%) en The 2022 ICPC Gran Premio de Mexico
+1. _ItverPower_ resolvió 2 problemas y obtuvo el lugar #80 (93%) en The 2024 ICPC Mexico Finals
 1. _FastFingers lml_ resolvió 3 problemas y obtuvo el lugar #34 (90%) en The 2015 ACM-ICPC Mexico and Central America Finals
 1. _HeavyMachineGun_ resolvió 2 problemas y obtuvo el lugar #52 (90%) en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _Warriors LEL_ resolvió 3 problemas y obtuvo el lugar #39 (88%) en The 2015 ACM-ICPC Mexico and Central America Finals
 
 ## Participaciones
 
@@ -66,13 +66,13 @@
 ### 2016-2017
 
 1. #13 (#1 de TecNM) _FastFingers lml_ (Regional)
-1. #48 (#5 de TecNM) _Programmers Crew_ (Clasificatorio)
 1. #52 (#9 de TecNM) _HeavyMachineGun_ (Regional)
+1. #48 (#5 de TecNM) _Programmers Crew_ (Clasificatorio)
 1. #56 (#6 de TecNM) _Warriors LEL_ (Clasificatorio)
 1. #108 (#20 de TecNM) _RookieCode_ (Clasificatorio)
+1. #121 (#22 de TecNM) _SlowFingers_ (Clasificatorio)
 1. #121 (#22 de TecNM) _BasicTeam_ (Clasificatorio)
 1. #121 (#22 de TecNM) _Fullmetal Alchemist_ (Clasificatorio)
-1. #121 (#22 de TecNM) _SlowFingers_ (Clasificatorio)
 
 ### 2017-2018
 
@@ -100,9 +100,9 @@
 1. #322 (#74 de TecNM) _ANONYMUS_ (Clasificatorio)
 1. #338 (#79 de TecNM) _Lobos Galacticos_ (Clasificatorio)
 1. #362 (#88 de TecNM) _Abstract Team_ (Clasificatorio)
-1. #382 (#100 de TecNM) _C-TEC_ (Clasificatorio)
 1. #382 (#100 de TecNM) _D.E.C.O.D.E.R.S_ (Clasificatorio)
 1. #382 (#100 de TecNM) _Team Ultimate_ (Clasificatorio)
+1. #382 (#100 de TecNM) _C-TEC_ (Clasificatorio)
 
 ### 2020-2021
 
@@ -113,20 +113,20 @@
 
 ### 2021-2022
 
-1. #226 (#37 de TecNM) _5 Tacos x 10 pesos_ (Clasificatorio)
-1. #226 (#37 de TecNM) _AzteCoders_ (Clasificatorio)
-1. #226 (#37 de TecNM) _Las vacas de Jalisco_ (Clasificatorio)
 1. #226 (#37 de TecNM) _Pollos in Pantuflas_ (Clasificatorio)
+1. #226 (#37 de TecNM) _AzteCoders_ (Clasificatorio)
+1. #226 (#37 de TecNM) _5 Tacos x 10 pesos_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Las vacas de Jalisco_ (Clasificatorio)
 
 ### 2022-2023
 
 1. #44 (#5 de TecNM) _fe++_ (Clasificatorio)
 1. #137 (#23 de TecNM) _Programadores Noob_ (Clasificatorio)
-1. #382 (#83 de TecNM) _Alfa Wolf Team_ (Clasificatorio)
-1. #382 (#83 de TecNM) _Enchiladas de Yakult_ (Clasificatorio)
-1. #382 (#83 de TecNM) _Javarianos_ (Clasificatorio)
 1. #382 (#83 de TecNM) _Los Seguidores de Karely_ (Clasificatorio)
 1. #382 (#83 de TecNM) _ProgramamosConLosPies_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Javarianos_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Enchiladas de Yakult_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Alfa Wolf Team_ (Clasificatorio)
 
 ### 2023-2024
 

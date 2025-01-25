@@ -2,8 +2,8 @@
 
 ## Mejores 10 equipos
 
-1. _Team-Capi_ resolvió 1 problemas y obtuvo el lugar #354 (73%) en Gran Premio de Mexico 2019
-1. _Alydev_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
+1. _Team-Capi_ resolvió 1 problemas y obtuvo el lugar #354 (72%) en Gran Premio de Mexico 2019
+1. _Alydev_ resolvió 0 problemas y obtuvo el lugar #482 (11%) en The 2024 ICPC Gran Premio de Mexico
 
 ## Participaciones
 

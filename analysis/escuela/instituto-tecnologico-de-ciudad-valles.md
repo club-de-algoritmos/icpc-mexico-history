@@ -2,16 +2,16 @@
 
 ## Mejores 10 equipos
 
-1. _IMG.png_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _Mapachitos_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _WhiteCode_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _saludaMundos_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
-1. _Astros_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
-1. _Code Busters_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
-1. _Code.jar_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
-1. _Coding Parrots_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
-1. _Pythoneers_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
-1. _nodes_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
+1. _WhiteCode_ resolvió 0 problemas y obtuvo el lugar #382 (56%) en The 2022 ICPC Gran Premio de Mexico
+1. _nodes_ resolvió 0 problemas y obtuvo el lugar #482 (54%) en The 2024 ICPC Gran Premio de Mexico
+1. _saludaMundos_ resolvió 0 problemas y obtuvo el lugar #382 (50%) en The 2022 ICPC Gran Premio de Mexico
+1. _IMG.png_ resolvió 0 problemas y obtuvo el lugar #382 (49%) en The 2022 ICPC Gran Premio de Mexico
+1. _Mapachitos_ resolvió 0 problemas y obtuvo el lugar #382 (49%) en The 2022 ICPC Gran Premio de Mexico
+1. _Code.jar_ resolvió 0 problemas y obtuvo el lugar #482 (27%) en The 2024 ICPC Gran Premio de Mexico
+1. _Coding Parrots_ resolvió 0 problemas y obtuvo el lugar #482 (27%) en The 2024 ICPC Gran Premio de Mexico
+1. _Code Busters_ resolvió 0 problemas y obtuvo el lugar #482 (26%) en The 2024 ICPC Gran Premio de Mexico
+1. _Astros_ resolvió 0 problemas y obtuvo el lugar #482 (21%) en The 2024 ICPC Gran Premio de Mexico
+1. _Pythoneers_ resolvió 0 problemas y obtuvo el lugar #482 (20%) en The 2024 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -30,19 +30,19 @@
 
 ### 2022-2023
 
-1. #382 (#83 de TecNM) _IMG.png_ (Clasificatorio)
-1. #382 (#83 de TecNM) _Mapachitos_ (Clasificatorio)
 1. #382 (#83 de TecNM) _WhiteCode_ (Clasificatorio)
 1. #382 (#83 de TecNM) _saludaMundos_ (Clasificatorio)
+1. #382 (#83 de TecNM) _IMG.png_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Mapachitos_ (Clasificatorio)
 
 ### 2024-2025
 
-1. #482 (#114 de TecNM) _Astros_ (Clasificatorio)
-1. #482 (#114 de TecNM) _Code Busters_ (Clasificatorio)
+1. #482 (#114 de TecNM) _nodes_ (Clasificatorio)
 1. #482 (#114 de TecNM) _Code.jar_ (Clasificatorio)
 1. #482 (#114 de TecNM) _Coding Parrots_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Code Busters_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Astros_ (Clasificatorio)
 1. #482 (#114 de TecNM) _Pythoneers_ (Clasificatorio)
-1. #482 (#114 de TecNM) _nodes_ (Clasificatorio)
 
 
 

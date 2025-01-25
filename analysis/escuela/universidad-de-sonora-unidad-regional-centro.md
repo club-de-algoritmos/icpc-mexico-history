@@ -2,7 +2,7 @@
 
 ## Mejores 10 equipos
 
-1. _Code Bonanzal_ resolvió 0 problemas y obtuvo el lugar #226 (53%) en The 2021 ICPC Gran Premio de Mexico
+1. _Code Bonanzal_ resolvió 0 problemas y obtuvo el lugar #226 (25%) en The 2021 ICPC Gran Premio de Mexico
 
 ## Participaciones
 

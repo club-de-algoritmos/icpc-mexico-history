@@ -6,10 +6,10 @@
 1. _FTW_ resolvió 3 problemas y obtuvo el lugar #18 (91%) en The 2010 Mexico & Central America Regional Contest
 1. _Alpha_ resolvió 2 problemas y obtuvo el lugar #53 (68%) en The 2009 Mexico & Central America Contest
 1. _Epsilon_ resolvió 1 problemas y obtuvo el lugar #101 (38%) en The 2009 Mexico & Central America Contest
-1. _protrolls_ resolvió 0 problemas y obtuvo el lugar #104 (36%) en The 2011 Mexico & Central America Regional Contest
-1. _Omicron_ resolvió 0 problemas y obtuvo el lugar #116 (29%) en The 2009 Mexico & Central America Contest
 1. _Zergs_ resolvió 1 problemas y obtuvo el lugar #147 (26%) en The 2010 Mexico & Central America Regional Contest
-1. _Protos_ resolvió 0 problemas y obtuvo el lugar #156 (22%) en The 2010 Mexico & Central America Regional Contest
+1. _Protos_ resolvió 0 problemas y obtuvo el lugar #156 (19%) en The 2010 Mexico & Central America Regional Contest
+1. _Omicron_ resolvió 0 problemas y obtuvo el lugar #116 (6%) en The 2009 Mexico & Central America Contest
+1. _protrolls_ resolvió 0 problemas y obtuvo el lugar #104 (2%) en The 2011 Mexico & Central America Regional Contest
 
 ## Participaciones
 

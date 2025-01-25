@@ -60,8 +60,8 @@
 
 1. #76 _MACoides_ (Regional)
 1. #113 _Leperianos_ (Regional)
-1. #116 _PumasOO_ (Regional)
 1. #116 _SisteMAC_ (Regional)
+1. #116 _PumasOO_ (Regional)
 
 ### 2010-2011
 

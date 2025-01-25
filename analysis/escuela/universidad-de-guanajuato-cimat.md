@@ -221,8 +221,8 @@
 1. #1 _OWO_ (Regional)
     - Avanzó a la final mundial y resolvió 4 problemas obtuviendo el lugar #52 (64%) en The 48th Annual World Finals of the International Collegiate Programming Contest
 1. #2 _La última y nos vamos_ (Regional)
-1. #14 _Mathgic_ (Clasificatorio)
 1. #16 _cin>>nombre;_ (Regional)
+1. #14 _Mathgic_ (Clasificatorio)
 1. #27 _JoJoJo's_ (Clasificatorio)
 
 ### 2024-2025
@@ -234,8 +234,8 @@
 1. #85 _Código al fallo_ (Clasificatorio)
 1. #119 _ItIsLimitless_ (Clasificatorio)
 1. #249 _Ley de Murphy_ (Clasificatorio)
-1. #482 _Los épsilon negativos_ (Clasificatorio)
 1. #482 _Mathgic__ (Clasificatorio)
+1. #482 _Los épsilon negativos_ (Clasificatorio)
 
 
 

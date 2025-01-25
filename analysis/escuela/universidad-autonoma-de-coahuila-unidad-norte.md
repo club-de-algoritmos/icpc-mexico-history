@@ -2,16 +2,16 @@
 
 ## Mejores 10 equipos
 
-1. _Code Breakers_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _DJM_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Los Potatoes 7.0_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _Izipizi_ resolvió 2 problemas y obtuvo el lugar #236 (67%) en Gran Premio de Mexico 2018
-1. _Code Breaker_ resolvió 3 problemas y obtuvo el lugar #225 (66%) en Gran Premio de Mexico & Centroamerica 2017
 1. _Puzzles_ resolvió 2 problemas y obtuvo el lugar #252 (65%) en Gran Premio de Mexico 2018
-1. _Puzzles_ resolvió 2 problemas y obtuvo el lugar #247 (63%) en Gran Premio de Mexico & Centroamerica 2017
+1. _Code Breaker_ resolvió 3 problemas y obtuvo el lugar #225 (64%) en Gran Premio de Mexico & Centroamerica 2017
+1. _Puzzles_ resolvió 2 problemas y obtuvo el lugar #247 (61%) en Gran Premio de Mexico & Centroamerica 2017
+1. _DJM_ obtuvo el lugar #382 (61%) en Gran Premio de Mexico 2019
 1. _Los potatoes 2.0_ resolvió 1 problemas y obtuvo el lugar #353 (53%) en Gran Premio de Mexico 2018
-1. _Izipisi_ resolvió 1 problemas y obtuvo el lugar #400 (41%) en Gran Premio de Mexico & Centroamerica 2017
-1. _BlueLine_ resolvió 0 problemas y obtuvo el lugar #405 (40%) en Gran Premio de Mexico & Centroamerica 2017
+1. _Los Potatoes 7.0_ obtuvo el lugar #382 (52%) en Gran Premio de Mexico 2019
+1. _Code Breakers_ obtuvo el lugar #382 (45%) en Gran Premio de Mexico 2019
+1. _Izipisi_ resolvió 1 problemas y obtuvo el lugar #400 (43%) en Gran Premio de Mexico & Centroamerica 2017
+1. _RedLine_ resolvió 0 problemas y obtuvo el lugar #405 (41%) en Gran Premio de Mexico & Centroamerica 2017
 
 ## Participaciones
 
@@ -29,8 +29,8 @@
 1. #225 _Code Breaker_ (Clasificatorio)
 1. #247 _Puzzles_ (Clasificatorio)
 1. #400 _Izipisi_ (Clasificatorio)
-1. #405 _BlueLine_ (Clasificatorio)
 1. #405 _RedLine_ (Clasificatorio)
+1. #405 _BlueLine_ (Clasificatorio)
 
 ### 2018-2019
 
@@ -40,9 +40,9 @@
 
 ### 2019-2020
 
-1. #382 _Code Breakers_ (Clasificatorio)
 1. #382 _DJM_ (Clasificatorio)
 1. #382 _Los Potatoes 7.0_ (Clasificatorio)
+1. #382 _Code Breakers_ (Clasificatorio)
 
 
 

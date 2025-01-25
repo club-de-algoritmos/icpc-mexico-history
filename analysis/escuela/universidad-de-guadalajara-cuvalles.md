@@ -2,16 +2,16 @@
 
 ## Mejores 10 equipos
 
-1. _La Tribu_ resolvió 6 problemas y obtuvo el lugar #82 (94%) en Gran Premio de Mexico 2019
+1. _La Tribu_ resolvió 6 problemas y obtuvo el lugar #82 (93%) en Gran Premio de Mexico 2019
 1. _La Tribu_ resolvió 2 problemas y obtuvo el lugar #66 (92%) en The 2018 ICPC Mexico and Central America Finals
 1. _Los Gaussianos_ resolvió 1 problemas y obtuvo el lugar #99 (92%) en The 2024 ICPC Mexico Finals
-1. _Cuvalles_ resolvió 6 problemas y obtuvo el lugar #104 (90%) en The 2022 ICPC Gran Premio de Mexico
-1. _Valles.py_ resolvió 5 problemas y obtuvo el lugar #130 (88%) en The 2022 ICPC Gran Premio de Mexico
+1. _Cuvalles_ resolvió 6 problemas y obtuvo el lugar #104 (89%) en The 2022 ICPC Gran Premio de Mexico
 1. _Connectia_ resolvió 4 problemas y obtuvo el lugar #156 (88%) en Gran Premio de Mexico 2019
-1. _Programamistas_ resolvió 5 problemas y obtuvo el lugar #138 (87%) en The 2022 ICPC Gran Premio de Mexico
-1. _valles.py_ resolvió 6 problemas y obtuvo el lugar #184 (85%) en The 2024 ICPC Gran Premio de Mexico
+1. _Valles.py_ resolvió 5 problemas y obtuvo el lugar #130 (87%) en The 2022 ICPC Gran Premio de Mexico
+1. _Programamistas_ resolvió 5 problemas y obtuvo el lugar #138 (86%) en The 2022 ICPC Gran Premio de Mexico
 1. _Team Warriors_ resolvió 3 problemas y obtuvo el lugar #203 (84%) en Gran Premio de Mexico 2019
-1. _Alpha & Omega_ resolvió 3 problemas y obtuvo el lugar #155 (77%) en Gran Premio de Mexico 2018
+1. _valles.py_ resolvió 6 problemas y obtuvo el lugar #184 (83%) en The 2024 ICPC Gran Premio de Mexico
+1. _Alpha & Omega_ resolvió 3 problemas y obtuvo el lugar #155 (76%) en Gran Premio de Mexico 2018
 
 ## Participaciones
 
@@ -39,9 +39,9 @@
 
 ### 2008-2009
 
-1. #101 _Gomora_ (Regional)
-1. #101 _Los Trabajosos_ (Regional)
 1. #101 _UMI_ (Regional)
+1. #101 _Los Trabajosos_ (Regional)
+1. #101 _Gomora_ (Regional)
 1. #101 _VTS_ (Regional)
 
 ### 2009-2010
@@ -60,9 +60,9 @@
 ### 2017-2018
 
 1. #393 _La tribu_ (Clasificatorio)
-1. #405 _CHINO´S TEAM_ (Clasificatorio)
-1. #405 _SEGA_ (Clasificatorio)
 1. #405 _SOMOS LOS LLOLLOS XD_ (Clasificatorio)
+1. #405 _SEGA_ (Clasificatorio)
+1. #405 _CHINO´S TEAM_ (Clasificatorio)
 
 ### 2018-2019
 

@@ -11,8 +11,8 @@
 1. _Carlit-OS_ resolvió 4 problemas y obtuvo el lugar #10 (95%) en The 2008 Mexico & Central America Contest
 1. _Tec GDL 10_ resolvió 3 problemas y obtuvo el lugar #34 (95%) en The 2020 ICPC Mexico Finals
 1. _Galácticos 1_ resolvió 8 problemas y obtuvo el lugar #71 (94%) en Gran Premio de Mexico 2019
-1. _Los Hamsters enviados de Dios del Antiguo Testamento_ resolvió 10 problemas y obtuvo el lugar #75 (94%) en The 2024 ICPC Gran Premio de Mexico
 1. _Acrux Exclamation_ resolvió 4 problemas y obtuvo el lugar #10 (93%) en The 2006 ACM Mexico and Central America Programming Contest
+1. _McTrio_ resolvió 3 problemas y obtuvo el lugar #11 (93%) en The 2007 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 
@@ -50,8 +50,8 @@
 ### 2002-2003
 
 1. #10 (#4 de ITESM) _Aleph_ (Regional)
-1. #27 (#10 de ITESM) _Lambda_ (Regional)
 1. #27 (#10 de ITESM) _Rookies_ (Regional)
+1. #27 (#10 de ITESM) _Lambda_ (Regional)
 
 ### 2003-2004
 
@@ -82,18 +82,18 @@
 1. #40 (#11 de ITESM) _LOL_ (Regional)
 1. #47 (#13 de ITESM) _F@st Code_ (Regional)
 1. #49 (#15 de ITESM) _Fatal Error_ (Regional)
-1. #61 (#19 de ITESM) _Bunkers_ (Regional)
-1. #61 (#19 de ITESM) _Coleopteros_ (Regional)
-1. #61 (#19 de ITESM) _Corvus Albus_ (Regional)
-1. #61 (#19 de ITESM) _Drunk Team_ (Regional)
-1. #61 (#19 de ITESM) _ENCA_ (Regional)
-1. #61 (#19 de ITESM) _Electric Six_ (Regional)
-1. #61 (#19 de ITESM) _Fenix_ (Regional)
-1. #61 (#19 de ITESM) _Los cubanos_ (Regional)
 1. #61 (#19 de ITESM) _Revolucionarios_ (Regional)
 1. #61 (#19 de ITESM) _Salamandra_ (Regional)
-1. #61 (#19 de ITESM) _Tecuciztecatl_ (Regional)
+1. #61 (#19 de ITESM) _Coleopteros_ (Regional)
+1. #61 (#19 de ITESM) _Corvus Albus_ (Regional)
+1. #61 (#19 de ITESM) _Fenix_ (Regional)
+1. #61 (#19 de ITESM) _Drunk Team_ (Regional)
+1. #61 (#19 de ITESM) _ENCA_ (Regional)
+1. #61 (#19 de ITESM) _Bunkers_ (Regional)
+1. #61 (#19 de ITESM) _Electric Six_ (Regional)
 1. #61 (#19 de ITESM) _VL-2000_ (Regional)
+1. #61 (#19 de ITESM) _Los cubanos_ (Regional)
+1. #61 (#19 de ITESM) _Tecuciztecatl_ (Regional)
 
 ### 2008-2009
 
@@ -125,12 +125,12 @@
 
 ### 2015-2016
 
-1. #108 (#26 de ITESM) _Algoritmia_ (Clasificatorio)
-1. #108 (#26 de ITESM) _DMA_ (Clasificatorio)
-1. #108 (#26 de ITESM) _Develobabes_ (Clasificatorio)
 1. #108 (#26 de ITESM) _Los Sukulen_ (Clasificatorio)
-1. #108 (#26 de ITESM) _NextGen_ (Clasificatorio)
 1. #108 (#26 de ITESM) _Pythonlovers_ (Clasificatorio)
+1. #108 (#26 de ITESM) _Algoritmia_ (Clasificatorio)
+1. #108 (#26 de ITESM) _Develobabes_ (Clasificatorio)
+1. #108 (#26 de ITESM) _NextGen_ (Clasificatorio)
+1. #108 (#26 de ITESM) _DMA_ (Clasificatorio)
 
 ### 2017-2018
 
@@ -184,9 +184,9 @@
 1. #18 (#1 de ITESM) _Tsurus Tuneados_ (Regional)
 1. #174 (#17 de ITESM) _Java lieron_ (Clasificatorio)
 1. #382 (#55 de ITESM) _Bubble sorters_ (Clasificatorio)
+1. #382 (#55 de ITESM) _Maraca_ (Clasificatorio)
 1. #382 (#55 de ITESM) _Chiles Poblanos Poblanos_ (Clasificatorio)
 1. #382 (#55 de ITESM) _Edgerunners_ (Clasificatorio)
-1. #382 (#55 de ITESM) _Maraca_ (Clasificatorio)
 1. #382 (#55 de ITESM) _Pozole de Oompa Loompas_ (Clasificatorio)
 1. #382 (#55 de ITESM) _SJF_ (Clasificatorio)
 

@@ -3,15 +3,15 @@
 ## Mejores 10 equipos
 
 1. _Esquisofrenia_ resolvió 3 problemas y obtuvo el lugar #10 (94%) en The 2007 ACM Mexico and Central America Programming Contest
+1. _ITSZ_ resolvió 2 problemas y obtuvo el lugar #27 (83%) en The 2005 ACM Mexico and Central America Programming Contest
 1. _Lobocoders_ resolvió 2 problemas y obtuvo el lugar #227 (82%) en Gran Premio de Mexico 2019
-1. _ITSZ_ resolvió 2 problemas y obtuvo el lugar #27 (81%) en The 2005 ACM Mexico and Central America Programming Contest
 1. _LOBOS III_ resolvió 3 problemas y obtuvo el lugar #42 (79%) en The 2010 Mexico & Central America Regional Contest
 1. _Jimmy Team_ resolvió 1 problemas y obtuvo el lugar #33 (78%) en The 2007 ACM Mexico and Central America Programming Contest
 1. _Aristogatos_ resolvió 1 problemas y obtuvo el lugar #297 (77%) en Gran Premio de Mexico 2019
-1. _DDOS_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
-1. _TECZAPOPAN V. 2.2_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
-1. _MMLOBOS_ resolvió 3 problemas y obtuvo el lugar #164 (75%) en Gran Premio de Mexico & Centroamerica 2017
+1. _MMLOBOS_ resolvió 3 problemas y obtuvo el lugar #164 (72%) en Gran Premio de Mexico & Centroamerica 2017
 1. _Esquizofrenia_ resolvió 2 problemas y obtuvo el lugar #51 (69%) en The 2009 Mexico & Central America Contest
+1. _TECZAPOPAN_ resolvió 1 problemas y obtuvo el lugar #56 (69%) en The 2005 ACM Mexico and Central America Programming Contest
+1. _Los Rojos_ resolvió 2 problemas y obtuvo el lugar #58 (66%) en The 2008 Mexico & Central America Contest
 
 ## Participaciones
 
@@ -100,10 +100,10 @@
 
 ### 2015-2016
 
-1. #108 (#28 de TecNM) _DOS_ (Clasificatorio)
 1. #108 (#28 de TecNM) _Java plox_ (Clasificatorio)
-1. #108 (#28 de TecNM) _Lobeznos_ (Clasificatorio)
 1. #108 (#28 de TecNM) _MadTeam_ (Clasificatorio)
+1. #108 (#28 de TecNM) _DOS_ (Clasificatorio)
+1. #108 (#28 de TecNM) _Lobeznos_ (Clasificatorio)
 
 ### 2016-2017
 

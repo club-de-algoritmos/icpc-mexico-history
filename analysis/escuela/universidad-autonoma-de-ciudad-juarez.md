@@ -7,11 +7,11 @@
 1. _Lalonchera_ resolvió 3 problemas y obtuvo el lugar #66 (95%) en The 2024 ICPC Mexico Finals
 1. _Codesnatchers_ resolvió 3 problemas y obtuvo el lugar #75 (94%) en The 2024 ICPC Mexico Finals
 1. _AlgoTeam_ resolvió 1 problemas y obtuvo el lugar #40 (92%) en The 2021 ICPC Mexico Finals
-1. _Ctrl alt del_ resolvió 5 problemas y obtuvo el lugar #160 (85%) en The 2022 ICPC Gran Premio de Mexico
-1. _Hard Coders_ resolvió 10 problemas y obtuvo el lugar #113 (84%) en Gran Premio de Mexico 2020
+1. _Ctrl alt del_ resolvió 5 problemas y obtuvo el lugar #160 (84%) en The 2022 ICPC Gran Premio de Mexico
+1. _Hard Coders_ resolvió 10 problemas y obtuvo el lugar #113 (83%) en Gran Premio de Mexico 2020
 1. _WINDIIT_ resolvió 5 problemas y obtuvo el lugar #190 (73%) en Gran Premio de Mexico 2020
-1. _Absolut_ resolvió 2 problemas y obtuvo el lugar #332 (73%) en The 2024 ICPC Gran Premio de Mexico
 1. _Rajas con Queso_ resolvió 2 problemas y obtuvo el lugar #296 (72%) en The 2022 ICPC Gran Premio de Mexico
+1. _Absolut_ resolvió 2 problemas y obtuvo el lugar #332 (72%) en The 2024 ICPC Gran Premio de Mexico
 
 ## Participaciones
 

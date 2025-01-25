@@ -4,11 +4,11 @@
 
 1. _Ysotechx_ resolvió 1 problemas y obtuvo el lugar #97 (92%) en The 2024 ICPC Mexico Finals
 1. _Los Otros_ resolvió 3 problemas y obtuvo el lugar #12 (90%) en The 2004 ACM Mexico and Central America Programming Contest
-1. _ALT + F4_ resolvió 6 problemas y obtuvo el lugar #109 (90%) en The 2022 ICPC Gran Premio de Mexico
-1. _Alt-F4_ resolvió 5 problemas y obtuvo el lugar #87 (81%) en The 2023 ICPC Gran Premio de Mexico
+1. _ALT + F4_ resolvió 6 problemas y obtuvo el lugar #109 (89%) en The 2022 ICPC Gran Premio de Mexico
+1. _Alt-F4_ resolvió 5 problemas y obtuvo el lugar #87 (80%) en The 2023 ICPC Gran Premio de Mexico
 1. _ALT + F4_ resolvió 3 problemas y obtuvo el lugar #95 (80%) en The 2021 ICPC Gran Premio de Mexico
 1. _Espartanos_ resolvió 2 problemas y obtuvo el lugar #255 (80%) en Gran Premio de Mexico 2019
-1. _Spacetacular_ resolvió 5 problemas y obtuvo el lugar #178 (75%) en Gran Premio de Mexico 2020
+1. _Spacetacular_ resolvió 5 problemas y obtuvo el lugar #178 (74%) en Gran Premio de Mexico 2020
 1. _MultiData_ resolvió 2 problemas y obtuvo el lugar #338 (72%) en The 2024 ICPC Gran Premio de Mexico
 1. _Venados07_ resolvió 1 problemas y obtuvo el lugar #44 (71%) en The 2007 ACM Mexico and Central America Programming Contest
 1. _UnKnOuN_ resolvió 2 problemas y obtuvo el lugar #350 (71%) en The 2024 ICPC Gran Premio de Mexico
@@ -65,11 +65,11 @@
 ### 2019-2020
 
 1. #255 (#47 de TecNM) _Espartanos_ (Clasificatorio)
-1. #382 (#100 de TecNM) _ALT+F4_ (Clasificatorio)
-1. #382 (#100 de TecNM) _Codigo de Rehuso_ (Clasificatorio)
-1. #382 (#100 de TecNM) _DE COMPUTO 3.0_ (Clasificatorio)
 1. #382 (#100 de TecNM) _Fenixoft_ (Clasificatorio)
 1. #382 (#100 de TecNM) _Helljumpers [maruchan]_ (Clasificatorio)
+1. #382 (#100 de TecNM) _DE COMPUTO 3.0_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Codigo de Rehuso_ (Clasificatorio)
+1. #382 (#100 de TecNM) _ALT+F4_ (Clasificatorio)
 
 ### 2020-2021
 
@@ -100,8 +100,8 @@
 1. #97 (#16 de TecNM) _Ysotechx_ (Regional)
 1. #338 (#71 de TecNM) _MultiData_ (Clasificatorio)
 1. #350 (#75 de TecNM) _UnKnOuN_ (Clasificatorio)
-1. #482 (#114 de TecNM) _Robotinos_ (Clasificatorio)
 1. #482 (#114 de TecNM) _TechBreak_ (Clasificatorio)
+1. #482 (#114 de TecNM) _Robotinos_ (Clasificatorio)
 
 
 

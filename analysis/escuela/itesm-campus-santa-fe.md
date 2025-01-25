@@ -8,10 +8,10 @@
 1. _Cod3r5_ resolvió 2 problemas y obtuvo el lugar #81 (93%) en The 2024 ICPC Mexico Finals
 1. _C Plas Plas_ resolvió 1 problemas y obtuvo el lugar #90 (93%) en The 2024 ICPC Mexico Finals
 1. _The Brewskis_ resolvió 2 problemas y obtuvo el lugar #54 (90%) en The 2016 ACM-ICPC Mexico and Central America Finals
-1. _Assassin Bugs_ resolvió 9 problemas y obtuvo el lugar #67 (89%) en Gran Premio de Mexico & Centroamerica 2017
-1. _ITCrew_ resolvió 8 problemas y obtuvo el lugar #79 (88%) en Gran Premio de Mexico & Centroamerica 2017
 1. _C-nadores_ resolvió 4 problemas y obtuvo el lugar #181 (86%) en Gran Premio de Mexico 2019
-1. _C-nadores_ resolvió 6 problemas y obtuvo el lugar #102 (83%) en Gran Premio de Mexico 2018
+1. _Assassin Bugs_ resolvió 9 problemas y obtuvo el lugar #67 (84%) en Gran Premio de Mexico & Centroamerica 2017
+1. _ITCrew_ resolvió 8 problemas y obtuvo el lugar #79 (83%) en Gran Premio de Mexico & Centroamerica 2017
+1. _C-nadores_ resolvió 6 problemas y obtuvo el lugar #102 (82%) en Gran Premio de Mexico 2018
 
 ## Participaciones
 

@@ -11,9 +11,9 @@
 1. _Ludus +500_ resolvió 4 problemas y obtuvo el lugar #29 (98%) en The 2024 ICPC Mexico Finals
 1. _JRA_ resolvió 5 problemas y obtuvo el lugar #9 (97%) en The 2014 ACM-ICPC Mexico and Central America Finals
 1. _Sieve of Ludus_ resolvió 4 problemas y obtuvo el lugar #13 (97%) en The 2023 ICPC Mexico Finals
-1. _ADO++_ resolvió 9 problemas y obtuvo el lugar #59 (95%) en The 2024 ICPC Gran Premio de Mexico
 1. _AC2++_ resolvió 3 problemas y obtuvo el lugar #30 (94%) en The 2023 ICPC Mexico Finals
 1. _Combo Deluxe_ resolvió 2 problemas y obtuvo el lugar #76 (94%) en The 2024 ICPC Mexico Finals
+1. _Three Bits_ resolvió 4 problemas y obtuvo el lugar #12 (93%) en The 2012 Mexico & Central America Regional Contest
 
 ## Participaciones
 
@@ -83,14 +83,14 @@
 1. #54 (#7 de TecNM) _Los Cansados_ (Clasificatorio)
 1. #90 (#16 de TecNM) _Los simuladores_ (Clasificatorio)
 1. #153 (#38 de TecNM) _Mighty Morphin 335_ (Clasificatorio)
-1. #204 (#57 de TecNM) _Equipo Rocket_ (Clasificatorio)
 1. #204 (#57 de TecNM) _JDK_ (Clasificatorio)
+1. #204 (#57 de TecNM) _Equipo Rocket_ (Clasificatorio)
 
 ### 2015-2016
 
 1. #108 (#28 de TecNM) _Bonum faciunt_ (Clasificatorio)
-1. #108 (#28 de TecNM) _EPN Y LOS 43?_ (Clasificatorio)
 1. #108 (#28 de TecNM) _Exception_ (Clasificatorio)
+1. #108 (#28 de TecNM) _EPN Y LOS 43?_ (Clasificatorio)
 1. #108 (#28 de TecNM) _Qbits_ (Clasificatorio)
 
 ### 2021-2022
@@ -135,8 +135,8 @@
 
 1. #15 (#2 de TecNM) _BRO... CSM_ (Regional)
 1. #29 (#5 de TecNM) _Ludus +500_ (Regional)
-1. #59 (#10 de TecNM) _ADO++_ (Clasificatorio)
 1. #76 (#12 de TecNM) _Combo Deluxe_ (Regional)
+1. #59 (#10 de TecNM) _ADO++_ (Clasificatorio)
 1. #137 (#23 de TecNM) _EAGLES_ (Clasificatorio)
 1. #196 (#36 de TecNM) _KRV_ (Clasificatorio)
 1. #250 (#52 de TecNM) _Hasbulla Lovers Official Fans Club_ (Clasificatorio)

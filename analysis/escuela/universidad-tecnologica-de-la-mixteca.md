@@ -156,12 +156,12 @@
 1. #253 _LGM_ (Clasificatorio)
 1. #260 _LUMIB_17_ (Clasificatorio)
 1. #284 _DATAFORSKER_ (Clasificatorio)
-1. #382 _AA Team_ (Clasificatorio)
-1. #382 _GAMMA_ (Clasificatorio)
-1. #382 _Gaema_ (Clasificatorio)
-1. #382 _REN_ (Clasificatorio)
-1. #382 _Tiranos_ (Clasificatorio)
 1. #382 _difain_ (Clasificatorio)
+1. #382 _GAMMA_ (Clasificatorio)
+1. #382 _AA Team_ (Clasificatorio)
+1. #382 _REN_ (Clasificatorio)
+1. #382 _Gaema_ (Clasificatorio)
+1. #382 _Tiranos_ (Clasificatorio)
 
 ### 2020-2021
 

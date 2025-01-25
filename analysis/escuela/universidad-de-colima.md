@@ -2,11 +2,11 @@
 
 ## Mejores 10 equipos
 
-1. _G3_ resolvió 0 problemas y obtuvo el lugar #382 (64%) en The 2022 ICPC Gran Premio de Mexico
 1. _ACM amo_ resolvió 4 problemas y obtuvo el lugar #268 (62%) en Gran Premio de Mexico 2020
-1. _UCOL FIME ICI 01_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
-1. _UCOL FIME ICI 02_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
-1. _Dumas_ resolvió 0 problemas y obtuvo el lugar #395 (48%) en Gran Premio de Mexico 2018
+1. _UCOL FIME ICI 01_ resolvió 0 problemas y obtuvo el lugar #482 (45%) en The 2024 ICPC Gran Premio de Mexico
+1. _UCOL FIME ICI 02_ resolvió 0 problemas y obtuvo el lugar #482 (44%) en The 2024 ICPC Gran Premio de Mexico
+1. _G3_ resolvió 0 problemas y obtuvo el lugar #382 (30%) en The 2022 ICPC Gran Premio de Mexico
+1. _Dumas_ resolvió 0 problemas y obtuvo el lugar #395 (2%) en Gran Premio de Mexico 2018
 
 ## Participaciones
 

@@ -3,15 +3,15 @@
 ## Mejores 10 equipos
 
 1. _Base16_ resolvió 3 problemas y obtuvo el lugar #51 (94%) en The 2018 ICPC Mexico and Central America Finals
-1. _Guerreros del Sol_ resolvió 7 problemas y obtuvo el lugar #89 (92%) en The 2022 ICPC Gran Premio de Mexico
+1. _Guerreros del Sol_ resolvió 7 problemas y obtuvo el lugar #89 (91%) en The 2022 ICPC Gran Premio de Mexico
 1. _Bug Busters_ resolvió 1 problemas y obtuvo el lugar #111 (91%) en The 2024 ICPC Mexico Finals
 1. _Base16_ resolvió 5 problemas y obtuvo el lugar #130 (90%) en Gran Premio de Mexico 2019
-1. _base16_ resolvió 10 problemas y obtuvo el lugar #79 (89%) en Gran Premio de Mexico 2020
-1. _Innombrables_ resolvió 4 problemas y obtuvo el lugar #184 (86%) en Gran Premio de Mexico 2019
+1. _base16_ resolvió 10 problemas y obtuvo el lugar #79 (88%) en Gran Premio de Mexico 2020
+1. _Innombrables_ resolvió 4 problemas y obtuvo el lugar #184 (85%) en Gran Premio de Mexico 2019
 1. _Eabel_ resolvió 3 problemas y obtuvo el lugar #207 (84%) en Gran Premio de Mexico 2019
-1. _Base16_ resolvió 4 problemas y obtuvo el lugar #131 (80%) en Gran Premio de Mexico & Centroamerica 2017
 1. _charmander;_ resolvió 2 problemas y obtuvo el lugar #281 (78%) en Gran Premio de Mexico 2019
 1. _char mander_ resolvió 6 problemas y obtuvo el lugar #160 (77%) en Gran Premio de Mexico 2020
+1. _Dinamita_ resolvió 2 problemas y obtuvo el lugar #294 (77%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 
@@ -34,8 +34,8 @@
 
 ### 2011-2012
 
-1. #104 (#35 de TecNM) _Delfines_ (Regional)
 1. #104 (#35 de TecNM) _Tiburones_ (Regional)
+1. #104 (#35 de TecNM) _Delfines_ (Regional)
 
 ### 2012-2013
 
@@ -45,22 +45,22 @@
 
 ### 2013-2014
 
-1. #95 (#24 de TecNM) _Error 404 Programmers NF_ (Regional)
-1. #95 (#24 de TecNM) _KUINIKES_ (Regional)
 1. #95 (#24 de TecNM) _Recyclers Coders_ (Regional)
+1. #95 (#24 de TecNM) _KUINIKES_ (Regional)
+1. #95 (#24 de TecNM) _Error 404 Programmers NF_ (Regional)
 
 ### 2017-2018
 
 1. #131 (#19 de TecNM) _Base16_ (Clasificatorio)
 1. #298 (#65 de TecNM) _itlac4_ (Clasificatorio)
 1. #403 (#96 de TecNM) _ITLAC2_ (Clasificatorio)
-1. #405 (#97 de TecNM) _EABEL_ (Clasificatorio)
-1. #405 (#97 de TecNM) _Error404_ (Clasificatorio)
-1. #405 (#97 de TecNM) _ITLAC5_ (Clasificatorio)
 1. #405 (#97 de TecNM) _ITLAC6_ (Clasificatorio)
+1. #405 (#97 de TecNM) _EABEL_ (Clasificatorio)
 1. #405 (#97 de TecNM) _Impunity_ (Clasificatorio)
-1. #405 (#97 de TecNM) _The Fast_ (Clasificatorio)
 1. #405 (#97 de TecNM) _amc_ (Clasificatorio)
+1. #405 (#97 de TecNM) _ITLAC5_ (Clasificatorio)
+1. #405 (#97 de TecNM) _The Fast_ (Clasificatorio)
+1. #405 (#97 de TecNM) _Error404_ (Clasificatorio)
 
 ### 2018-2019
 
@@ -103,10 +103,10 @@
 
 1. #156 (#17 de TecNM) _KND: Los chicos sin barrio_ (Clasificatorio)
 1. #226 (#37 de TecNM) _ITLAC3_ (Clasificatorio)
-1. #226 (#37 de TecNM) _Javalimos 2.0_ (Clasificatorio)
 1. #226 (#37 de TecNM) _Los Electro_ (Clasificatorio)
-1. #226 (#37 de TecNM) _Los renegados del ITLAC_ (Clasificatorio)
 1. #226 (#37 de TecNM) _char mander_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Javalimos 2.0_ (Clasificatorio)
+1. #226 (#37 de TecNM) _Los renegados del ITLAC_ (Clasificatorio)
 
 ### 2022-2023
 
@@ -114,18 +114,18 @@
 1. #277 (#51 de TecNM) _char mander_ (Clasificatorio)
 1. #333 (#66 de TecNM) _SyntaxError_ (Clasificatorio)
 1. #381 (#82 de TecNM) _Los Terreneitors_ (Clasificatorio)
-1. #382 (#83 de TecNM) _Alguien del equipo está estrenido_ (Clasificatorio)
-1. #382 (#83 de TecNM) _Aquors_ (Clasificatorio)
-1. #382 (#83 de TecNM) _BAJIVY_CA_ (Clasificatorio)
-1. #382 (#83 de TecNM) _BLINKS_ (Clasificatorio)
-1. #382 (#83 de TecNM) _Black flag_ (Clasificatorio)
-1. #382 (#83 de TecNM) _Cocodrilos_ (Clasificatorio)
-1. #382 (#83 de TecNM) _INCOGNITOS_ (Clasificatorio)
-1. #382 (#83 de TecNM) _Las Lolis_ (Clasificatorio)
-1. #382 (#83 de TecNM) _Los más chetados del condado_ (Clasificatorio)
 1. #382 (#83 de TecNM) _Magda&Friends_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Black flag_ (Clasificatorio)
+1. #382 (#83 de TecNM) _BLINKS_ (Clasificatorio)
+1. #382 (#83 de TecNM) _BAJIVY_CA_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Cocodrilos_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Aquors_ (Clasificatorio)
+1. #382 (#83 de TecNM) _INCOGNITOS_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Alguien del equipo está estrenido_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Los más chetados del condado_ (Clasificatorio)
 1. #382 (#83 de TecNM) _Punto y Coma_ (Clasificatorio)
 1. #382 (#83 de TecNM) _TeamL&S_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Las Lolis_ (Clasificatorio)
 
 ### 2023-2024
 

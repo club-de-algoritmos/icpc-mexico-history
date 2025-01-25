@@ -2,16 +2,16 @@
 
 ## Mejores 10 equipos
 
-1. _Tics1_ resolvió 4 problemas y obtuvo el lugar #233 (81%) en The 2024 ICPC Gran Premio de Mexico
-1. _Script Squad_ resolvió 4 problemas y obtuvo el lugar #282 (77%) en The 2024 ICPC Gran Premio de Mexico
-1. _The-Masters_ resolvió 2 problemas y obtuvo el lugar #352 (71%) en The 2024 ICPC Gran Premio de Mexico
-1. _Tics4_ resolvió 4 problemas y obtuvo el lugar #365 (70%) en The 2024 ICPC Gran Premio de Mexico
-1. _404: FILE_NOT_FOUND_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Binario 101_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _CHADIGA_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _JEDAYA_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _Las tres mosqueteras_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _MAJIRO_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Tics1_ resolvió 4 problemas y obtuvo el lugar #233 (80%) en The 2024 ICPC Gran Premio de Mexico
+1. _Script Squad_ resolvió 4 problemas y obtuvo el lugar #282 (76%) en The 2024 ICPC Gran Premio de Mexico
+1. _The-Masters_ resolvió 2 problemas y obtuvo el lugar #352 (70%) en The 2024 ICPC Gran Premio de Mexico
+1. _Tics4_ resolvió 4 problemas y obtuvo el lugar #365 (69%) en The 2024 ICPC Gran Premio de Mexico
+1. _Binario 101_ obtuvo el lugar #382 (67%) en Gran Premio de Mexico 2019
+1. _servobot 466_ resolvió 1 problemas y obtuvo el lugar #458 (62%) en The 2024 ICPC Gran Premio de Mexico
+1. _Tics2_ resolvió 1 problemas y obtuvo el lugar #459 (62%) en The 2024 ICPC Gran Premio de Mexico
+1. _CHADIGA_ obtuvo el lugar #382 (61%) en Gran Premio de Mexico 2019
+1. _Tics3_ resolvió 1 problemas y obtuvo el lugar #470 (61%) en The 2024 ICPC Gran Premio de Mexico
+1. _MAJIRO_ obtuvo el lugar #382 (54%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 
@@ -42,21 +42,21 @@
 
 ### 2019-2020
 
-1. #382 (#100 de TecNM) _404: FILE_NOT_FOUND_ (Clasificatorio)
 1. #382 (#100 de TecNM) _Binario 101_ (Clasificatorio)
 1. #382 (#100 de TecNM) _CHADIGA_ (Clasificatorio)
-1. #382 (#100 de TecNM) _JEDAYA_ (Clasificatorio)
-1. #382 (#100 de TecNM) _Las tres mosqueteras_ (Clasificatorio)
 1. #382 (#100 de TecNM) _MAJIRO_ (Clasificatorio)
-1. #382 (#100 de TecNM) _PENDIENTEv2.1_ (Clasificatorio)
+1. #382 (#100 de TecNM) _404: FILE_NOT_FOUND_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Las tres mosqueteras_ (Clasificatorio)
 1. #382 (#100 de TecNM) _TICS_SIA_ (Clasificatorio)
+1. #382 (#100 de TecNM) _JEDAYA_ (Clasificatorio)
+1. #382 (#100 de TecNM) _PENDIENTEv2.1_ (Clasificatorio)
 
 ### 2020-2021
 
-1. #351 (#65 de TecNM) _Cunas++_ (Clasificatorio)
 1. #351 (#65 de TecNM) _Raros de TICS_ (Clasificatorio)
-1. #351 (#65 de TecNM) _The Lunaan_ (Clasificatorio)
 1. #351 (#65 de TecNM) _UZON_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Cunas++_ (Clasificatorio)
+1. #351 (#65 de TecNM) _The Lunaan_ (Clasificatorio)
 
 ### 2021-2022
 
@@ -66,11 +66,11 @@
 ### 2022-2023
 
 1. #382 (#83 de TecNM) _256_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Los pollos hermanos_ (Clasificatorio)
 1. #382 (#83 de TecNM) _Los Discipulos de Abraham_ (Clasificatorio)
 1. #382 (#83 de TecNM) _Los LLL_ (Clasificatorio)
-1. #382 (#83 de TecNM) _Los pollos hermanos_ (Clasificatorio)
-1. #382 (#83 de TecNM) _Ntek_ (Clasificatorio)
 1. #382 (#83 de TecNM) _TODO_ (Clasificatorio)
+1. #382 (#83 de TecNM) _Ntek_ (Clasificatorio)
 
 ### 2023-2024
 
@@ -85,8 +85,8 @@
 1. #458 (#102 de TecNM) _servobot 466_ (Clasificatorio)
 1. #459 (#103 de TecNM) _Tics2_ (Clasificatorio)
 1. #470 (#108 de TecNM) _Tics3_ (Clasificatorio)
-1. #482 (#114 de TecNM) _TICS08_ (Clasificatorio)
 1. #482 (#114 de TecNM) _Tics5_ (Clasificatorio)
+1. #482 (#114 de TecNM) _TICS08_ (Clasificatorio)
 1. #482 (#114 de TecNM) _huy_ (Clasificatorio)
 
 

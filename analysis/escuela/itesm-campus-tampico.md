@@ -6,10 +6,10 @@
 1. _Tokki Team_ resolvió 1 problemas y obtuvo el lugar #352 (73%) en Gran Premio de Mexico 2019
 1. _AcusticArtisans_ resolvió 1 problemas y obtuvo el lugar #381 (70%) en Gran Premio de Mexico 2019
 1. _LAST ITICS_ resolvió 2 problemas y obtuvo el lugar #308 (59%) en Gran Premio de Mexico 2018
-1. _BootsTooBig_ resolvió 0 problemas y obtuvo el lugar #395 (48%) en Gran Premio de Mexico 2018
-1. _HERO_ resolvió 0 problemas y obtuvo el lugar #395 (48%) en Gran Premio de Mexico 2018
-1. _Los Arath_ resolvió 0 problemas y obtuvo el lugar #395 (48%) en Gran Premio de Mexico 2018
-1. _Noside Code_ resolvió 0 problemas y obtuvo el lugar #395 (48%) en Gran Premio de Mexico 2018
+1. _BootsTooBig_ resolvió 0 problemas y obtuvo el lugar #395 (19%) en Gran Premio de Mexico 2018
+1. _HERO_ resolvió 0 problemas y obtuvo el lugar #395 (5%) en Gran Premio de Mexico 2018
+1. _Los Arath_ resolvió 0 problemas y obtuvo el lugar #395 (5%) en Gran Premio de Mexico 2018
+1. _Noside Code_ resolvió 0 problemas y obtuvo el lugar #395 (0%) en Gran Premio de Mexico 2018
 
 ## Participaciones
 

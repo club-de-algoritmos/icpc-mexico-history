@@ -8,9 +8,9 @@
 1. _Compitiendo desde los Separos_ resolvió 2 problemas y obtuvo el lugar #89 (93%) en The 2024 ICPC Mexico Finals
 1. _Los pininos_ resolvió 1 problemas y obtuvo el lugar #42 (92%) en The 2021 ICPC Mexico Finals
 1. _Void guys_ resolvió 1 problemas y obtuvo el lugar #43 (92%) en The 2021 ICPC Mexico Finals
-1. _BFFs(Brute Force Friends)<3_ resolvió 7 problemas y obtuvo el lugar #83 (92%) en The 2022 ICPC Gran Premio de Mexico
+1. _BFFs(Brute Force Friends)<3_ resolvió 7 problemas y obtuvo el lugar #83 (91%) en The 2022 ICPC Gran Premio de Mexico
 1. _Nahuales del Mictlán_ resolvió 1 problemas y obtuvo el lugar #53 (88%) en The 2023 ICPC Mexico Finals
-1. _MME++.py_ resolvió 3 problemas y obtuvo el lugar #76 (84%) en The 2021 ICPC Gran Premio de Mexico
+1. _MME++.py_ resolvió 3 problemas y obtuvo el lugar #76 (83%) en The 2021 ICPC Gran Premio de Mexico
 1. _BFFs (Brute Force Friends) < 3_ resolvió 3 problemas y obtuvo el lugar #90 (81%) en The 2021 ICPC Gran Premio de Mexico
 
 ## Participaciones

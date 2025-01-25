@@ -2,10 +2,10 @@
 
 ## Mejores 10 equipos
 
-1. _PumasDS_ resolvió 5 problemas y obtuvo el lugar #43 (96%) en The 2022 ICPC Gran Premio de Mexico
 1. _PumasDS_ resolvió 2 problemas y obtuvo el lugar #29 (94%) en The 2021 ICPC Mexico Finals
-1. _PumasDS_ resolvió 11 problemas y obtuvo el lugar #98 (86%) en Gran Premio de Mexico 2020
-1. _i++_ resolvió 10 problemas y obtuvo el lugar #105 (85%) en Gran Premio de Mexico 2020
+1. _PumasDS_ resolvió 5 problemas y obtuvo el lugar #43 (94%) en The 2022 ICPC Gran Premio de Mexico
+1. _PumasDS_ resolvió 11 problemas y obtuvo el lugar #98 (85%) en Gran Premio de Mexico 2020
+1. _i++_ resolvió 10 problemas y obtuvo el lugar #105 (84%) en Gran Premio de Mexico 2020
 1. _Backpropagated Poets_ resolvió 2 problemas y obtuvo el lugar #114 (76%) en The 2021 ICPC Gran Premio de Mexico
 
 ## Participaciones

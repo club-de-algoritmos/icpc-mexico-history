@@ -106,9 +106,9 @@
 1. #226 _LHM_ (Clasificatorio)
 1. #240 _Green team_ (Clasificatorio)
 1. #248 _leones_code(p,a,d)_ (Clasificatorio)
+1. #482 _Team Overflow 2_ (Clasificatorio)
 1. #482 _EABMODEL__ (Clasificatorio)
 1. #482 _Leones_code(p,a,d)_ (Clasificatorio)
-1. #482 _Team Overflow 2_ (Clasificatorio)
 
 
 

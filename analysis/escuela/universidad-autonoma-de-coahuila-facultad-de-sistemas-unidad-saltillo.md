@@ -3,15 +3,15 @@
 ## Mejores 10 equipos
 
 1. _The bugs_ resolvió 3 problemas y obtuvo el lugar #18 (93%) en The 2014 ACM-ICPC Mexico and Central America Finals
-1. _Los Choquistas_ resolvió 3 problemas y obtuvo el lugar #35 (79%) en Mexico and Central America Finals - Programming Battle
-1. _Majos_ resolvió 3 problemas y obtuvo el lugar #38 (78%) en Mexico and Central America Finals - Programming Battle
-1. _IceCream_ resolvió 0 problemas y obtuvo el lugar #121 (76%) en Gran Premio de Mexico & Centroamerica
-1. _azul_ resolvió 3 problemas y obtuvo el lugar #218 (67%) en Gran Premio de Mexico & Centroamerica 2017
-1. _Math Kids_ resolvió 0 problemas y obtuvo el lugar #108 (66%) en Gran Premio de Mexico & Centroamerica
+1. _Los Choquistas_ resolvió 3 problemas y obtuvo el lugar #35 (72%) en Mexico and Central America Finals - Programming Battle
+1. _Majos_ resolvió 3 problemas y obtuvo el lugar #38 (71%) en Mexico and Central America Finals - Programming Battle
+1. _azul_ resolvió 3 problemas y obtuvo el lugar #218 (65%) en Gran Premio de Mexico & Centroamerica 2017
+1. _IceCream_ resolvió 0 problemas y obtuvo el lugar #121 (56%) en Gran Premio de Mexico & Centroamerica
+1. _Math Kids_ resolvió 0 problemas y obtuvo el lugar #108 (55%) en Gran Premio de Mexico & Centroamerica
 1. _FS - 148.212.19.18_ resolvió 2 problemas y obtuvo el lugar #98 (51%) en The 2010 Mexico & Central America Regional Contest
-1. _Verde_ resolvió 1 problemas y obtuvo el lugar #383 (43%) en Gran Premio de Mexico & Centroamerica 2017
+1. _Verde_ resolvió 1 problemas y obtuvo el lugar #383 (44%) en Gran Premio de Mexico & Centroamerica 2017
 1. _FS - Rootkits_ resolvió 1 problemas y obtuvo el lugar #142 (29%) en The 2010 Mexico & Central America Regional Contest
-1. _FS - E-link_ resolvió 0 problemas y obtuvo el lugar #156 (22%) en The 2010 Mexico & Central America Regional Contest
+1. _FS - E-link_ resolvió 0 problemas y obtuvo el lugar #156 (14%) en The 2010 Mexico & Central America Regional Contest
 
 ## Participaciones
 

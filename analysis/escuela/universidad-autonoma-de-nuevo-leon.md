@@ -63,8 +63,8 @@
 ### 2003-2004
 
 1. #3 _Los Irmos_ (Regional)
-1. #41 _Noname00_ (Regional)
 1. #41 _Y donde esta el suplente?_ (Regional)
+1. #41 _Noname00_ (Regional)
 
 ### 2004-2005
 
@@ -97,8 +97,8 @@
 
 ### 2009-2010
 
-1. #116 _Javax_ (Regional)
 1. #116 _NetSOFt_ (Regional)
+1. #116 _Javax_ (Regional)
 
 ### 2010-2011
 
@@ -110,8 +110,8 @@
 1. #8 _SOS_ (Regional)
 1. #27 _NibbleSOFt_ (Regional)
 1. #30 _NPCs_ (Regional)
-1. #104 _Ascii Bit_ (Regional)
 1. #104 _Rebel Alliance_ (Regional)
+1. #104 _Ascii Bit_ (Regional)
 
 ### 2012-2013
 
@@ -163,9 +163,9 @@
 1. #240 _Los Herederos de Solís_ (Clasificatorio)
 1. #300 _Grizzlies_ (Clasificatorio)
 1. #335 _Syntax Error_ (Clasificatorio)
+1. #382 _MMA_ (Clasificatorio)
 1. #382 _Ayuwoscript_ (Clasificatorio)
 1. #382 _Emu Nerds_ (Clasificatorio)
-1. #382 _MMA_ (Clasificatorio)
 1. #382 _Team Emperador_ (Clasificatorio)
 
 ### 2020-2021
@@ -192,10 +192,10 @@
 1. #138 _Etas_ (Clasificatorio)
 1. #226 _Bit Signs_ (Clasificatorio)
 1. #226 _C Power_ (Clasificatorio)
-1. #226 _Cheems_ (Clasificatorio)
 1. #226 _JOD_ (Clasificatorio)
 1. #226 _Los Wookies de Slytherin_ (Clasificatorio)
 1. #226 _Team Emperador_ (Clasificatorio)
+1. #226 _Cheems_ (Clasificatorio)
 
 ### 2022-2023
 
@@ -217,11 +217,11 @@
 1. #353 _FastCode_ (Clasificatorio)
 1. #357 _Estresados Check_ (Clasificatorio)
 1. #368 _Bisontes FCFM_ (Clasificatorio)
-1. #382 _C+MATH_ (Clasificatorio)
-1. #382 _Las superpoderosas_ (Clasificatorio)
-1. #382 _Lechuzas bebés_ (Clasificatorio)
 1. #382 _Los saraperos_ (Clasificatorio)
+1. #382 _C+MATH_ (Clasificatorio)
 1. #382 _The coders_ (Clasificatorio)
+1. #382 _Lechuzas bebés_ (Clasificatorio)
+1. #382 _Las superpoderosas_ (Clasificatorio)
 
 ### 2023-2024
 
@@ -266,8 +266,8 @@
 1. #474 _AWA.py_ (Clasificatorio)
 1. #475 _CODE 5-3_ (Clasificatorio)
 1. #482 _3HDD_ (Clasificatorio)
-1. #482 _Axioma.exe_ (Clasificatorio)
 1. #482 _Kappa_ (Clasificatorio)
+1. #482 _Axioma.exe_ (Clasificatorio)
 1. #482 _LCCMonkeys_ (Clasificatorio)
 
 

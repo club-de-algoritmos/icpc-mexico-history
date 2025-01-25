@@ -4,14 +4,14 @@
 
 1. _Ti-Tanis_ resolvió 1 problemas y obtuvo el lugar #51 (96%) en The 2019 ICPC Mexico Finals
 1. _SYSTEM 32_ resolvió 5 problemas y obtuvo el lugar #89 (93%) en Gran Premio de Mexico 2019
-1. _Taurina_ resolvió 3 problemas y obtuvo el lugar #160 (88%) en Gran Premio de Mexico 2019
+1. _Taurina_ resolvió 3 problemas y obtuvo el lugar #160 (87%) en Gran Premio de Mexico 2019
 1. _LOS VIGILANTES_ resolvió 3 problemas y obtuvo el lugar #161 (87%) en Gran Premio de Mexico 2019
-1. _Ustedes_ resolvió 7 problemas y obtuvo el lugar #91 (86%) en Gran Premio de Mexico & Centroamerica 2017
-1. _Titanes_ resolvió 8 problemas y obtuvo el lugar #94 (84%) en Gran Premio de Mexico 2018
-1. _Ustedes_ resolvió 7 problemas y obtuvo el lugar #100 (84%) en Gran Premio de Mexico 2018
+1. _Titanes_ resolvió 8 problemas y obtuvo el lugar #94 (83%) en Gran Premio de Mexico 2018
+1. _Ustedes_ resolvió 7 problemas y obtuvo el lugar #100 (82%) en Gran Premio de Mexico 2018
 1. _Kachibombos ++_ resolvió 3 problemas y obtuvo el lugar #33 (81%) en The 2008 Mexico & Central America Contest
-1. _ESCUADRON LOBO_ resolvió 5 problemas y obtuvo el lugar #127 (81%) en Gran Premio de Mexico & Centroamerica 2017
+1. _Ustedes_ resolvió 7 problemas y obtuvo el lugar #91 (81%) en Gran Premio de Mexico & Centroamerica 2017
 1. _GORDITOS Y BONITOS_ resolvió 2 problemas y obtuvo el lugar #259 (80%) en Gran Premio de Mexico 2019
+1. _ESCUADRON LOBO_ resolvió 5 problemas y obtuvo el lugar #127 (77%) en Gran Premio de Mexico & Centroamerica 2017
 
 ## Participaciones
 
@@ -82,24 +82,24 @@
 1. #161 (#22 de TecNM) _LOS VIGILANTES_ (Clasificatorio)
 1. #259 (#48 de TecNM) _GORDITOS Y BONITOS_ (Clasificatorio)
 1. #343 (#80 de TecNM) _Noobmaster69_ (Clasificatorio)
-1. #382 (#100 de TecNM) _AFterByte_ (Clasificatorio)
-1. #382 (#100 de TecNM) _Delta_ (Clasificatorio)
-1. #382 (#100 de TecNM) _Int_ensos_ (Clasificatorio)
 1. #382 (#100 de TecNM) _JODT_ (Clasificatorio)
-1. #382 (#100 de TecNM) _JavAdictos_ (Clasificatorio)
-1. #382 (#100 de TecNM) _Los pollitos_ (Clasificatorio)
-1. #382 (#100 de TecNM) _Nameless Solution_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Delta_ (Clasificatorio)
 1. #382 (#100 de TecNM) _OmegaITCG_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Int_ensos_ (Clasificatorio)
+1. #382 (#100 de TecNM) _AFterByte_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Los pollitos_ (Clasificatorio)
+1. #382 (#100 de TecNM) _JavAdictos_ (Clasificatorio)
 1. #382 (#100 de TecNM) _TeamSinManos_ (Clasificatorio)
+1. #382 (#100 de TecNM) _Nameless Solution_ (Clasificatorio)
 
 ### 2020-2021
 
 1. #296 (#38 de TecNM) _Gavilanes ITCG_ (Clasificatorio)
 1. #351 (#65 de TecNM) _Afterbyte_ (Clasificatorio)
-1. #351 (#65 de TecNM) _Lions Team_ (Clasificatorio)
 1. #351 (#65 de TecNM) _Los Lunas_ (Clasificatorio)
-1. #351 (#65 de TecNM) _The sensationalboys_ (Clasificatorio)
 1. #351 (#65 de TecNM) _Ti-tanis_ (Clasificatorio)
+1. #351 (#65 de TecNM) _The sensationalboys_ (Clasificatorio)
+1. #351 (#65 de TecNM) _Lions Team_ (Clasificatorio)
 
 
 

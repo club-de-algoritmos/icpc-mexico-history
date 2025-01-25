@@ -2,7 +2,7 @@
 
 ## Mejores 10 equipos
 
-1. _Nueva Era _ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
+1. _Nueva Era _ obtuvo el lugar #382 (9%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 

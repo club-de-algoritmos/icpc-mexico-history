@@ -2,9 +2,9 @@
 
 ## Mejores 10 equipos
 
-1. _Camaleones_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
-1. _ISCTESH_ resolvió 0 problemas y obtuvo el lugar #482 (61%) en The 2024 ICPC Gran Premio de Mexico
+1. _ISCTESH_ resolvió 0 problemas y obtuvo el lugar #482 (52%) en The 2024 ICPC Gran Premio de Mexico
 1. _Develop-TESH_ resolvió 1 problemas y obtuvo el lugar #369 (51%) en Gran Premio de Mexico 2018
+1. _Camaleones_ obtuvo el lugar #382 (36%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 

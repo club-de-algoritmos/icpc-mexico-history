@@ -86,8 +86,8 @@
 
 1. #2 _PumOMM_ (Regional)
 1. #20 _Pumas+_ (Regional)
-1. #47 _B.I.O.S_ (Clasificatorio)
 1. #54 _Chicas Superpoderosas_ (Regional)
+1. #47 _B.I.O.S_ (Clasificatorio)
 1. #54 _Predators_ (Clasificatorio)
 1. #99 _#include <victory.h>_ (Clasificatorio)
 1. #102 _Quarantined Code_ (Clasificatorio)
@@ -111,8 +111,8 @@
 1. #123 _Valhalla_ (Clasificatorio)
 1. #160 _Los DEVastadores_ (Clasificatorio)
 1. #217 _Arcadian dream_ (Clasificatorio)
-1. #226 _DJL-001_ (Clasificatorio)
 1. #226 _Predators_ (Clasificatorio)
+1. #226 _DJL-001_ (Clasificatorio)
 
 ### 2022-2023
 
@@ -131,11 +131,11 @@
 1. #344 _Caos_ (Clasificatorio)
 1. #358 _Los alusines_ (Clasificatorio)
 1. #361 _the last dance++_ (Clasificatorio)
+1. #382 _Predators_ (Clasificatorio)
 1. #382 _Belicoders_ (Clasificatorio)
+1. #382 _Uijolen_ (Clasificatorio)
 1. #382 _DameGugul_ (Clasificatorio)
 1. #382 _Equipo7 next gen_ (Clasificatorio)
-1. #382 _Predators_ (Clasificatorio)
-1. #382 _Uijolen_ (Clasificatorio)
 
 ### 2023-2024
 
@@ -155,8 +155,8 @@
 1. #385 _TBA_ (Clasificatorio)
 1. #401 _bravebytes_ (Clasificatorio)
 1. #403 _Tilines FC_ (Clasificatorio)
-1. #482 _Faltos de internship: El siguiente año es el bueno_ (Clasificatorio)
 1. #482 _PMA_ (Clasificatorio)
+1. #482 _Faltos de internship: El siguiente año es el bueno_ (Clasificatorio)
 
 
 

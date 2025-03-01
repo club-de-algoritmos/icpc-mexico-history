@@ -4,7 +4,7 @@
 
 1. _A verdad me engañe_ resolvió 3 problemas y obtuvo el lugar #39 (95%) en The 2020 ICPC Mexico Finals
 1. _OxBests_ resolvió 1 problemas y obtuvo el lugar #55 (95%) en The 2022 ICPC Mexico Finals
-1. _Nahuales_ resolvió 0 problemas y obtuvo el lugar #113 (91%) en The 2024 ICPC Mexico Finals
+1. _Nahuales_ resolvió 0 problemas y obtuvo el lugar #114 (91%) en The 2024 ICPC Mexico Finals
 1. _0xBests_ resolvió 0 problemas y obtuvo el lugar #50 (90%) en The 2021 ICPC Mexico Finals
 1. _A verdad me engañe_ resolvió 5 problemas y obtuvo el lugar #129 (90%) en Gran Premio de Mexico 2019
 1. _DeltaHBC_ resolvió 6 problemas y obtuvo el lugar #164 (84%) en The 2024 ICPC Gran Premio de Mexico
@@ -204,7 +204,7 @@
 
 ### 2024-2025
 
-1. #113 (#22 de TecNM) _Nahuales_ (Regional)
+1. #114 (#21 de TecNM) _Nahuales_ (Regional)
 1. #164 (#31 de TecNM) _DeltaHBC_ (Clasificatorio)
 1. #407 (#88 de TecNM) _Cyberpicañas_ (Clasificatorio)
 1. #441 (#95 de TecNM) _Coders in Progress_ (Clasificatorio)

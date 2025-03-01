@@ -2,7 +2,7 @@
 
 ## Mejores 10 equipos
 
-1. _Tectruchas_ resolvió 4 problemas y obtuvo el lugar #11 (99%) en The 2024 ICPC Mexico Finals
+1. _Tectruchas_ resolvió 0 problemas y obtuvo el lugar #114 (91%) en The 2024 ICPC Mexico Finals
 1. _Programadores Junior_ obtuvo el lugar #382 (66%) en Gran Premio de Mexico 2019
 1. _Katsin_ resolvió 1 problemas y obtuvo el lugar #461 (62%) en The 2024 ICPC Gran Premio de Mexico
 1. _PASIÓN INFORMÁTICA_ obtuvo el lugar #382 (51%) en Gran Premio de Mexico 2019
@@ -37,7 +37,7 @@
 
 ### 2024-2025
 
-1. #11 (#1 de TecNM) _Tectruchas_ (Regional)
+1. #114 (#21 de TecNM) _Tectruchas_ (Regional)
 1. #461 (#105 de TecNM) _Katsin_ (Clasificatorio)
 
 

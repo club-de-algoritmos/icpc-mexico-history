@@ -146,8 +146,8 @@
 
 ### 2024-2025
 
-1. #68 (#9 de TecNM) _Usurpadores_ (Regional)
-1. #98 (#17 de TecNM) _Syntax Terror_ (Regional)
+1. #68 (#8 de TecNM) _Usurpadores_ (Regional)
+1. #98 (#16 de TecNM) _Syntax Terror_ (Regional)
 1. #111 (#14 de TecNM) _Los Facilitadores_ (Clasificatorio)
 1. #127 (#19 de TecNM) _SPTeam_ (Clasificatorio)
 1. #128 (#20 de TecNM) _RQT_Recursivos_ (Clasificatorio)

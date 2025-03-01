@@ -2,7 +2,7 @@
 
 ## Mejores 10 equipos
 
-1. _Umizoomi_ resolvió 0 problemas y obtuvo el lugar #113 (91%) en The 2024 ICPC Mexico Finals
+1. _Umizoomi_ resolvió 0 problemas y obtuvo el lugar #114 (91%) en The 2024 ICPC Mexico Finals
 1. _Pandilla_ resolvió 5 problemas y obtuvo el lugar #145 (88%) en Gran Premio de Mexico 2019
 1. _Cytma_ resolvió 2 problemas y obtuvo el lugar #233 (82%) en Gran Premio de Mexico 2019
 1. _Rino_ resolvió 5 problemas y obtuvo el lugar #221 (81%) en The 2024 ICPC Gran Premio de Mexico
@@ -72,7 +72,7 @@
 
 ### 2024-2025
 
-1. #113 (#22 de TecNM) _Umizoomi_ (Regional)
+1. #114 (#21 de TecNM) _Umizoomi_ (Regional)
 1. #221 (#42 de TecNM) _Rino_ (Clasificatorio)
 1. #227 (#44 de TecNM) _Codeboys_ (Clasificatorio)
 1. #482 (#114 de TecNM) _Lupita's Coding Team_ (Clasificatorio)

@@ -64,7 +64,7 @@
 
 ### 2024-2025
 
-1. #96 (#15 de TecNM) _Nameless.cpp_ (Regional)
+1. #96 (#14 de TecNM) _Nameless.cpp_ (Regional)
 1. #158 (#30 de TecNM) _Peaky Blinders_ (Clasificatorio)
 1. #310 (#62 de TecNM) _3 Bits_ (Clasificatorio)
 1. #331 (#69 de TecNM) _XiaomiLovers_ (Clasificatorio)

@@ -285,10 +285,10 @@
 
 ### 2024-2025
 
-1. #26 (#3 de TecNM) _Los EspinosOS_ (Regional)
-1. #51 (#6 de TecNM) _DAJ_ (Regional)
-1. #53 (#7 de TecNM) _Como_ (Regional)
-1. #64 (#8 de TecNM) _404 not found_ (Regional)
+1. #26 (#2 de TecNM) _Los EspinosOS_ (Regional)
+1. #51 (#5 de TecNM) _DAJ_ (Regional)
+1. #53 (#6 de TecNM) _Como_ (Regional)
+1. #64 (#7 de TecNM) _404 not found_ (Regional)
 1. #53 (#7 de TecNM) _ITsurus_ (Clasificatorio)
 1. #120 (#15 de TecNM) _AnythingButWA_ (Clasificatorio)
 1. #124 (#17 de TecNM) _WAOUS TEAM_ (Clasificatorio)

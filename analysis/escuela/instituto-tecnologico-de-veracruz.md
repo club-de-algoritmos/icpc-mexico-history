@@ -8,7 +8,7 @@
 1. _Eternity_ resolvió 2 problemas y obtuvo el lugar #38 (94%) en The 2017 ACM-ICPC Mexico and Central America Finals
 1. _<CodeBreakers/>_ resolvió 2 problemas y obtuvo el lugar #43 (94%) en The 2020 ICPC Mexico Finals
 1. _fe++_ resolvió 6 problemas y obtuvo el lugar #44 (94%) en The 2022 ICPC Gran Premio de Mexico
-1. _ItverPower_ resolvió 2 problemas y obtuvo el lugar #80 (93%) en The 2024 ICPC Mexico Finals
+1. _ItverPower_ resolvió 2 problemas y obtuvo el lugar #80 (94%) en The 2024 ICPC Mexico Finals
 1. _FastFingers lml_ resolvió 3 problemas y obtuvo el lugar #34 (90%) en The 2015 ACM-ICPC Mexico and Central America Finals
 1. _HeavyMachineGun_ resolvió 2 problemas y obtuvo el lugar #52 (90%) en The 2016 ACM-ICPC Mexico and Central America Finals
 1. _Warriors LEL_ resolvió 3 problemas y obtuvo el lugar #39 (88%) en The 2015 ACM-ICPC Mexico and Central America Finals
@@ -138,7 +138,7 @@
 
 ### 2024-2025
 
-1. #80 (#13 de TecNM) _ItverPower_ (Regional)
+1. #80 (#12 de TecNM) _ItverPower_ (Regional)
 1. #482 (#114 de TecNM) _Jar8s_ (Clasificatorio)
 
 

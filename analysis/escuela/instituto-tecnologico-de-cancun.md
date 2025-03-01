@@ -51,8 +51,8 @@
 
 ### 2024-2025
 
-1. #72 (#11 de TecNM) _Tucanes1_ (Regional)
-1. #108 (#20 de TecNM) _TucanesCancun_ (Regional)
+1. #72 (#10 de TecNM) _Tucanes1_ (Regional)
+1. #108 (#19 de TecNM) _TucanesCancun_ (Regional)
 1. #147 (#27 de TecNM) _Tucanes2_ (Clasificatorio)
 1. #231 (#46 de TecNM) _Tucampeón_ (Clasificatorio)
 1. #236 (#48 de TecNM) _Tucancitos_ (Clasificatorio)

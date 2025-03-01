@@ -122,7 +122,7 @@
 
 ### 2024-2025
 
-1. #102 (#19 de TecNM) _zorros.asm_ (Regional)
+1. #102 (#18 de TecNM) _zorros.asm_ (Regional)
 1. #482 (#114 de TecNM) _CD_ (Clasificatorio)
 1. #482 (#114 de TecNM) _cachirules_ (Clasificatorio)
 1. #482 (#114 de TecNM) _Team IA MUNDY_ (Clasificatorio)

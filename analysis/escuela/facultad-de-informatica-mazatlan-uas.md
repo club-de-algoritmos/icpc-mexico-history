@@ -2,7 +2,7 @@
 
 ## Mejores 10 equipos
 
-1. _Los Monos Bichis_ resolvió 3 problemas y obtuvo el lugar #67 (94%) en The 2024 ICPC Mexico Finals
+1. _Los Monos Bichis_ resolvió 3 problemas y obtuvo el lugar #67 (95%) en The 2024 ICPC Mexico Finals
 1. _Los Monos Bichis_ resolvió 5 problemas y obtuvo el lugar #112 (75%) en The 2023 ICPC Gran Premio de Mexico
 1. _FIMAZ_ resolvió 2 problemas y obtuvo el lugar #267 (75%) en The 2022 ICPC Gran Premio de Mexico
 1. _Los Monitos_ resolvió 3 problemas y obtuvo el lugar #312 (73%) en The 2024 ICPC Gran Premio de Mexico

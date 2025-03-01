@@ -3,7 +3,7 @@
 ## Mejores 10 equipos
 
 1. _Pinky_Pie_ resolvió 3 problemas y obtuvo el lugar #28 (92%) en The 2015 ACM-ICPC Mexico and Central America Finals
-1. _Chilaquiles en salsa verde_ resolvió 1 problemas y obtuvo el lugar #104 (91%) en The 2024 ICPC Mexico Finals
+1. _Chilaquiles en salsa verde_ resolvió 1 problemas y obtuvo el lugar #104 (92%) en The 2024 ICPC Mexico Finals
 1. _JAVAlimos_ resolvió 5 problemas y obtuvo el lugar #140 (89%) en Gran Premio de Mexico 2019
 1. _Origins_ resolvió 5 problemas y obtuvo el lugar #143 (89%) en Gran Premio de Mexico 2019
 1. _Shiny_ resolvió 4 problemas y obtuvo el lugar #149 (88%) en Gran Premio de Mexico 2019

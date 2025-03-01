@@ -11,7 +11,7 @@
 1. _bool basaur_ resolvió 2 problemas y obtuvo el lugar #19 (97%) en The 2017 ACM-ICPC Mexico and Central America Finals
 1. _int ensos;_ resolvió 4 problemas y obtuvo el lugar #28 (97%) en The 2018 ICPC Mexico and Central America Finals
 1. _Clfies_ resolvió 4 problemas y obtuvo el lugar #15 (96%) en The 2015 ACM-ICPC Mexico and Central America Finals
-1. _NPCs_ resolvió 3 problemas y obtuvo el lugar #55 (95%) en The 2024 ICPC Mexico Finals
+1. _NPCs_ resolvió 3 problemas y obtuvo el lugar #55 (96%) en The 2024 ICPC Mexico Finals
 1. _Gekko_ resolvió 8 problemas y obtuvo el lugar #63 (95%) en Gran Premio de Mexico 2019
 
 ## Participaciones
@@ -152,7 +152,7 @@
 ### 2024-2025
 
 1. #55 (#10 de ITESM) _NPCs_ (Regional)
-1. #118 (#20 de ITESM) _Teorema del Grafo Euleriano_ (Regional)
+1. #119 (#20 de ITESM) _Teorema del Grafo Euleriano_ (Regional)
 1. #130 (#23 de ITESM) _DoSattack_ (Clasificatorio)
 1. #132 (#25 de ITESM) _Cheddarini_ (Clasificatorio)
 1. #218 (#36 de ITESM) _Array of Borregos_ (Clasificatorio)

@@ -28,8 +28,8 @@
 
 ### 2024-2025
 
-1. #28 (#4 de TecNM) _Internship plis_ (Regional)
-1. #93 (#14 de TecNM) _NetRunners_ (Regional)
+1. #28 (#3 de TecNM) _Internship plis_ (Regional)
+1. #93 (#13 de TecNM) _NetRunners_ (Regional)
 
 
 

@@ -12,7 +12,7 @@
 1. _JRA_ resolvió 5 problemas y obtuvo el lugar #9 (97%) en The 2014 ACM-ICPC Mexico and Central America Finals
 1. _Sieve of Ludus_ resolvió 4 problemas y obtuvo el lugar #13 (97%) en The 2023 ICPC Mexico Finals
 1. _AC2++_ resolvió 3 problemas y obtuvo el lugar #30 (94%) en The 2023 ICPC Mexico Finals
-1. _Combo Deluxe_ resolvió 2 problemas y obtuvo el lugar #76 (94%) en The 2024 ICPC Mexico Finals
+1. _Combo Deluxe_ resolvió 3 problemas y obtuvo el lugar #76 (94%) en The 2024 ICPC Mexico Finals
 1. _Three Bits_ resolvió 4 problemas y obtuvo el lugar #12 (93%) en The 2012 Mexico & Central America Regional Contest
 
 ## Participaciones
@@ -133,9 +133,9 @@
 
 ### 2024-2025
 
-1. #15 (#2 de TecNM) _BRO... CSM_ (Regional)
-1. #29 (#5 de TecNM) _Ludus +500_ (Regional)
-1. #76 (#12 de TecNM) _Combo Deluxe_ (Regional)
+1. #15 (#1 de TecNM) _BRO... CSM_ (Regional)
+1. #29 (#4 de TecNM) _Ludus +500_ (Regional)
+1. #76 (#11 de TecNM) _Combo Deluxe_ (Regional)
 1. #59 (#10 de TecNM) _ADO++_ (Clasificatorio)
 1. #137 (#23 de TecNM) _EAGLES_ (Clasificatorio)
 1. #196 (#36 de TecNM) _KRV_ (Clasificatorio)

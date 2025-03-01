@@ -345,7 +345,7 @@
 1. #23 _Nos robamos a Miguel_ (Regional)
 1. #39 _Taquitos de pastor_ (Clasificatorio)
 1. #50 _Los pusuas_ (Clasificatorio)
-1. #114 _Chilaquiles con Pollo Masters_ (Regional)
+1. #115 _Chilaquiles con Pollo Masters_ (Regional)
 1. #71 _C--_ (Clasificatorio)
 1. #92 _The creators_ (Clasificatorio)
 1. #93 _HEArt of AC_ (Clasificatorio)

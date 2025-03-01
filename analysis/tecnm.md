@@ -229,11 +229,11 @@ The ICPC World Finals Invitational Contest
 
 ### 2024-2025
 
-1. #11 _Tectruchas_ ([INSTITUTO TECNOLÓGICO SUPERIOR DE ZACAPOAXTLA](escuela/instituto-tecnologico-superior-de-zacapoaxtla)) (Regional)
 1. #15 _BRO... CSM_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Regional)
 1. #26 _Los EspinosOS_ ([Instituto Tecnológico Superior del Sur de Guanajuato](escuela/instituto-tecnologico-superior-del-sur-de-guanajuato)) (Regional)
 1. #28 _Internship plis_ ([Instituto Tecnológico de Zacatepec](escuela/instituto-tecnologico-de-zacatepec)) (Regional)
 1. #29 _Ludus +500_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Regional)
+1. #51 _DAJ_ ([Instituto Tecnológico Superior del Sur de Guanajuato](escuela/instituto-tecnologico-superior-del-sur-de-guanajuato)) (Regional)
 
 
 

@@ -3,8 +3,8 @@
 ## Mejores 10 equipos
 
 1. _Chamba Seekers_ resolvió 4 problemas y obtuvo el lugar #11 (99%) en The 2024 ICPC Mexico Finals
+1. _Papás de Chamba Seekers_ resolvió 4 problemas y obtuvo el lugar #19 (99%) en The 2024 ICPC Mexico Finals
 1. _Solanitos_ resolvió 4 problemas y obtuvo el lugar #11 (98%) en The 2023 ICPC Mexico Finals
-1. _Papás de Chamba Seekers_ resolvió 4 problemas y obtuvo el lugar #19 (98%) en The 2024 ICPC Mexico Finals
 1. _Los Chicos Superpoderosos_ resolvió 2 problemas y obtuvo el lugar #33 (97%) en The 2022 ICPC Mexico Finals
 1. _NoC++_ resolvió 1 problemas y obtuvo el lugar #42 (96%) en The 2022 ICPC Mexico Finals
 1. _Quesabirria Flamin'Hot_ resolvió 4 problemas y obtuvo el lugar #22 (95%) en The 2023 ICPC Mexico Finals

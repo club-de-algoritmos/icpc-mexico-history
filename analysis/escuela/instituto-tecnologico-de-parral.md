@@ -97,7 +97,7 @@
 
 ### 2024-2025
 
-1. #97 (#16 de TecNM) _Ysotechx_ (Regional)
+1. #97 (#15 de TecNM) _Ysotechx_ (Regional)
 1. #338 (#71 de TecNM) _MultiData_ (Clasificatorio)
 1. #350 (#75 de TecNM) _UnKnOuN_ (Clasificatorio)
 1. #482 (#114 de TecNM) _TechBreak_ (Clasificatorio)

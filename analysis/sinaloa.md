@@ -244,10 +244,10 @@
 
 ### 2024-2025
 
-1. #15 (#2 de TecNM) _BRO... CSM_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Regional)
-1. #29 (#5 de TecNM) _Ludus +500_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Regional)
+1. #15 (#1 de TecNM) _BRO... CSM_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Regional)
+1. #29 (#4 de TecNM) _Ludus +500_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Regional)
 1. #67 _Los Monos Bichis_ ([Facultad de Informática Mazatlán UAS](escuela/facultad-de-informatica-mazatlan-uas)) (Regional)
-1. #76 (#12 de TecNM) _Combo Deluxe_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Regional)
+1. #76 (#11 de TecNM) _Combo Deluxe_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Regional)
 1. #59 (#10 de TecNM) _ADO++_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
 1. #137 (#23 de TecNM) _EAGLES_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
 1. #196 (#36 de TecNM) _KRV_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)

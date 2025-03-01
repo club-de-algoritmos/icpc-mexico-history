@@ -106,7 +106,7 @@
 
 ### 2024-2025
 
-1. #100 (#18 de TecNM) _Tlacuaches del arroyo_ (Regional)
+1. #100 (#17 de TecNM) _Tlacuaches del arroyo_ (Regional)
 1. #135 (#22 de TecNM) _BPITS_ (Clasificatorio)
 1. #144 (#25 de TecNM) _static void_ (Clasificatorio)
 1. #224 (#43 de TecNM) _Crustáceos_ (Clasificatorio)

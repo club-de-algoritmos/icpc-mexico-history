@@ -133,7 +133,7 @@
 
 ### 2024-2025
 
-1. #111 (#21 de TecNM) _Bug Busters_ (Regional)
+1. #111 (#20 de TecNM) _Bug Busters_ (Regional)
 1. #482 (#114 de TecNM) _Beepro_ (Clasificatorio)
 1. #482 (#114 de TecNM) _ChavaScript_ (Clasificatorio)
 

@@ -2,7 +2,7 @@
 
 ## Mejores 10 equipos
 
-1. _¿Quién es el main?_ resolvió 0 problemas y obtuvo el lugar #113 (91%) en The 2024 ICPC Mexico Finals
+1. _¿Quién es el main?_ resolvió 1 problemas y obtuvo el lugar #113 (91%) en The 2024 ICPC Mexico Finals
 1. _Tifosi_ resolvió 2 problemas y obtuvo el lugar #359 (70%) en The 2024 ICPC Gran Premio de Mexico
 1. _Los Programadoruskis_ obtuvo el lugar #382 (56%) en Gran Premio de Mexico 2019
 1. _Los Bytes_ resolvió 0 problemas y obtuvo el lugar #394 (34%) en Gran Premio de Mexico 2018

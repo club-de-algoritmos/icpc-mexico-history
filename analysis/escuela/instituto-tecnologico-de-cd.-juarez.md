@@ -64,7 +64,7 @@
 
 ### 2024-2025
 
-1. #71 (#10 de TecNM) _Ella programa sola_ (Regional)
+1. #71 (#9 de TecNM) _Ella programa sola_ (Regional)
 1. #290 (#57 de TecNM) _Structured Papeadas Language_ (Clasificatorio)
 1. #337 (#70 de TecNM) _Los triggers del norte_ (Clasificatorio)
 

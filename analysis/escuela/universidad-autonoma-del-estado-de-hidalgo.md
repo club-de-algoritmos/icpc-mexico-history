@@ -2,7 +2,7 @@
 
 ## Mejores 10 equipos
 
-1. _A poco sí muy AC?_ resolvió 3 problemas y obtuvo el lugar #43 (96%) en The 2024 ICPC Mexico Finals
+1. _A poco sí muy AC?_ resolvió 4 problemas y obtuvo el lugar #43 (97%) en The 2024 ICPC Mexico Finals
 1. _CRIGED.PY_ resolvió 1 problemas y obtuvo el lugar #47 (96%) en The 2022 ICPC Mexico Finals
 1. _CRIGED.PY_ resolvió 3 problemas y obtuvo el lugar #28 (94%) en The 2023 ICPC Mexico Finals
 1. _Dos tequilas y un mojito_ resolvió 2 problemas y obtuvo el lugar #84 (93%) en The 2024 ICPC Mexico Finals

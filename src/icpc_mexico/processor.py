@@ -166,6 +166,11 @@ def get_schools(contests: List[FinishedContest]) -> List[School]:
             country=MEXICO,
         ),
         School(
+            name='Facultad de Ingenieria - Universidad Nacional Autónoma de México',
+            alt_names=['Facultad de Ingenieria-Universidad Nacional Autónoma de México'],
+            country=MEXICO,
+        ),
+        School(
             name='Escuela Preparatoria 5 Universidad de Guadalajara',
             is_eligible=False,
             country=MEXICO,

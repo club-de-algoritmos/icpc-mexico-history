@@ -2,6 +2,7 @@
 
 ## Mejores 10 equipos
 
+1. _Testigos de Germán_ resolvió 6 problemas y obtuvo el lugar #4 (99%) en The 2025 ICPC Mexico Finals
 1. _Hololive_ resolvió 3 problemas y obtuvo el lugar #22 (98%) en The 2022 ICPC Mexico Finals
 1. _Team Impala_ resolvió 4 problemas y obtuvo el lugar #24 (98%) en The 2024 ICPC Mexico Finals
 1. _Software Chasers_ resolvió 2 problemas y obtuvo el lugar #38 (97%) en The 2022 ICPC Mexico Finals
@@ -11,7 +12,6 @@
 1. _DrimTimICP_ resolvió 1 problemas y obtuvo el lugar #51 (93%) en The 2020 ICPC Mexico Finals
 1. _Takodachis_ resolvió 2 problemas y obtuvo el lugar #37 (92%) en The 2023 ICPC Mexico Finals
 1. _AlfaBuenaMaravillaOndaDinamitaEscuadrónLobo_ resolvió 0 problemas y obtuvo el lugar #50 (90%) en The 2021 ICPC Mexico Finals
-1. _EzpcLemonEzQuizi_ resolvió 6 problemas y obtuvo el lugar #96 (90%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **9** | **62** | **62** |
+| **Total** | **0** | **1** | **11** | **72** | **72** |
 | [2017-2018](#2017-2018) | 0 | 0 | 0 | 2 | 2 |
 | [2018-2019](#2018-2019) | 0 | 0 | 0 | 4 | 4 |
 | [2019-2020](#2019-2020) | 0 | 0 | 0 | 2 | 2 |
@@ -28,6 +28,7 @@
 | [2022-2023](#2022-2023) | 0 | 0 | 2 | 13 | 13 |
 | [2023-2024](#2023-2024) | 0 | 0 | 2 | 17 | 17 |
 | [2024-2025](#2024-2025) | 0 | 0 | 2 | 12 | 12 |
+| [2025-2026](#2025-2026) | 0 | 1 | 2 | 10 | 10 |
 
 ### 2017-2018
 
@@ -114,6 +115,19 @@
 1. #321 _Java lioestesemestre_ (Clasificatorio)
 1. #326 _Pescadores del puerto_ (Clasificatorio)
 1. #430 _Joshiditos_ (Clasificatorio)
+
+### 2025-2026
+
+1. #4 _Testigos de Germán_ (Regional)
+1. #65 _Time Limit Exceeded_ (Regional)
+1. #107 _Team Impala_ (Clasificatorio)
+1. #217 _Los Debuffers_ (Clasificatorio)
+1. #287 _Los 3 Locos_ (Clasificatorio)
+1. #333 _Caballeros del Código_ (Clasificatorio)
+1. #400 _Python_Es_ (Clasificatorio)
+1. #419 _0xDEADBEEF_ (Clasificatorio)
+1. #454 _Tocadores de Teclados_ (Clasificatorio)
+1. #518 _Chalanes.cpp_ (Clasificatorio)
 
 
 

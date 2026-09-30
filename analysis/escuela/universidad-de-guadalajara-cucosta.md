@@ -8,10 +8,10 @@
 1. _Favorite Worst Nightmare_ resolvió 6 problemas y obtuvo el lugar #169 (84%) en The 2024 ICPC Gran Premio de Mexico
 1. _COSTA8_ resolvió 3 problemas y obtuvo el lugar #202 (84%) en Gran Premio de Mexico 2019
 1. _Ya nos vamos_ resolvió 3 problemas y obtuvo el lugar #205 (84%) en Gran Premio de Mexico 2019
+1. _CATORCE?_ resolvió 2 problemas y obtuvo el lugar #91 (83%) en The 2025 ICPC Mexico Finals
 1. _COSTA7_ resolvió 2 problemas y obtuvo el lugar #225 (82%) en Gran Premio de Mexico 2019
 1. _COSTA10_ resolvió 2 problemas y obtuvo el lugar #244 (81%) en Gran Premio de Mexico 2019
 1. _Ronaldinho Soccer_ resolvió 3 problemas y obtuvo el lugar #241 (79%) en The 2024 ICPC Gran Premio de Mexico
-1. _Three Leg Boys_ resolvió 2 problemas y obtuvo el lugar #339 (72%) en The 2024 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **2** | **38** | **38** |
+| **Total** | **0** | **0** | **3** | **46** | **46** |
 | [2017-2018](#2017-2018) | 0 | 0 | 0 | 4 | 4 |
 | [2018-2019](#2018-2019) | 0 | 0 | 1 | 6 | 6 |
 | [2019-2020](#2019-2020) | 0 | 0 | 0 | 6 | 6 |
@@ -28,6 +28,7 @@
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 4 | 4 |
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 5 | 5 |
 | [2024-2025](#2024-2025) | 0 | 0 | 1 | 7 | 7 |
+| [2025-2026](#2025-2026) | 0 | 0 | 1 | 8 | 8 |
 
 ### 2017-2018
 
@@ -90,6 +91,17 @@
 1. #339 _Three Leg Boys_ (Clasificatorio)
 1. #466 _Los Telematicos_ (Clasificatorio)
 1. #482 _Apolo 11_ (Clasificatorio)
+
+### 2025-2026
+
+1. #91 _CATORCE?_ (Regional)
+1. #272 _LOS AJOLOCOS_ (Clasificatorio)
+1. #301 _JAIBAS SÓNICAS_ (Clasificatorio)
+1. #326 _M.H.M._ (Clasificatorio)
+1. #341 _GG NO TM_ (Clasificatorio)
+1. #392 _TACOS DE SAL_ (Clasificatorio)
+1. #397 _HOLA_MUNDO("PRINT");_ (Clasificatorio)
+1. #431 _TORTAS FLAMING HOT+_ (Clasificatorio)
 
 
 

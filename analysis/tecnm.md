@@ -235,13 +235,21 @@ The ICPC World Finals Invitational Contest
 1. #29 _Ludus +500_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Regional)
 1. #51 _DAJ_ ([Instituto Tecnológico Superior del Sur de Guanajuato](escuela/instituto-tecnologico-superior-del-sur-de-guanajuato)) (Regional)
 
+### 2025-2026
+
+1. #9 _BRO™_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Regional)
+1. #19 _Full-Time Plis_ ([Instituto Tecnológico de Zacatepec](escuela/instituto-tecnologico-de-zacatepec)) (Regional)
+1. #29 _KRVADO+=T_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Regional)
+1. #45 _gatOS_ ([Instituto Tecnologico de la Laguna](escuela/instituto-tecnologico-de-la-laguna)) (Regional)
+1. #47 _Three boys one cookie_ ([Instituto Tecnológico Superior del Sur de Guanajuato](escuela/instituto-tecnologico-superior-del-sur-de-guanajuato)) (Regional)
+
 
 
 # Participaciones
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos | Escuelas |
 | --- | --- | --- | --- | --- | --- | --- |
-| **Total** | **6** | **0** | **764** | **3245** | **3904** | **191** |
+| **Total** | **6** | **0** | **796** | **3378** | **4038** | **191** |
 | [2000-2001](#2000-2001) | 1 | 0 | 0 | 0 | 1 | 1 |
 | [2001-2002](#2001-2002) | 1 | 0 | 29 | 0 | 29 | 12 |
 | [2002-2003](#2002-2003) | 0 | 0 | 29 | 0 | 29 | 9 |
@@ -267,6 +275,7 @@ The ICPC World Finals Invitational Contest
 | [2022-2023](#2022-2023) | 0 | 0 | 6 | 647 | 647 | 98 |
 | [2023-2024](#2023-2024) | 0 | 0 | 10 | 133 | 133 | 28 |
 | [2024-2025](#2024-2025) | 0 | 0 | 23 | 593 | 593 | 71 |
+| [2025-2026](#2025-2026) | 0 | 0 | 32 | 133 | 134 | 25 |
 
 # Ranking de escuelas
 
@@ -274,63 +283,68 @@ The ICPC World Finals Invitational Contest
 
 | # | Escuela | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Total |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [Instituto Tecnológico Superior del Sur de Guanajuato](escuela/instituto-tecnologico-superior-del-sur-de-guanajuato) | 1 | 0 | 18 | 135 | 135 |
-| 2 | [Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan) | 0 | 0 | 7 | 41 | 41 |
-| 3 | [Instituto Tecnologico de la Laguna](escuela/instituto-tecnologico-de-la-laguna) | 0 | 0 | 4 | 79 | 79 |
-| 4 | [Instituto Tecnologico de Nuevo Leon](escuela/instituto-tecnologico-de-nuevo-leon) | 0 | 0 | 4 | 44 | 44 |
-| 5 | [Instituto Tecnológico de Veracruz](escuela/instituto-tecnologico-de-veracruz) | 0 | 0 | 3 | 33 | 33 |
-| 6 | [Instituto Tecnológico de Zacatepec](escuela/instituto-tecnologico-de-zacatepec) | 0 | 0 | 3 | 4 | 4 |
-| 7 | [Instituto Tecnológico Superior de Guanajuato](escuela/instituto-tecnologico-superior-de-guanajuato) | 0 | 0 | 2 | 42 | 42 |
-| 8 | [Instituto Tecnológico de Cancún](escuela/instituto-tecnologico-de-cancun) | 0 | 0 | 2 | 27 | 27 |
-| 9 | [Instituto Tecnológico de Querétaro](escuela/instituto-tecnologico-de-queretaro) | 0 | 0 | 2 | 13 | 13 |
-| 10 | [Instituto Tecnológico de Lázaro Cárdenas](escuela/instituto-tecnologico-de-lazaro-cardenas) | 0 | 0 | 1 | 38 | 38 |
-| 11 | [Instituto Tecnologico Superior de Purisima del Rincon](escuela/instituto-tecnologico-superior-de-purisima-del-rincon) | 0 | 0 | 1 | 33 | 33 |
-| 12 | [Instituto Tecnológico de Parral](escuela/instituto-tecnologico-de-parral) | 0 | 0 | 1 | 23 | 23 |
-| 13 | [Instituto Tecnologico de Cd. Juarez](escuela/instituto-tecnologico-de-cd.-juarez) | 0 | 0 | 1 | 23 | 23 |
-| 14 | [Instituto Tecnológico de Ciudad Guzmán](escuela/instituto-tecnologico-de-ciudad-guzman) | 0 | 0 | 1 | 21 | 21 |
-| 15 | [Instituto Tecnologico Superior Zacatecas Norte](escuela/instituto-tecnologico-superior-zacatecas-norte) | 0 | 0 | 1 | 20 | 20 |
-| 16 | [INSTITUTO TECNOLÓGICO SUPERIOR DE ZACAPOAXTLA](escuela/instituto-tecnologico-superior-de-zacapoaxtla) | 0 | 0 | 1 | 11 | 11 |
-| 17 | [Instituto Tecnológico de Saltillo](escuela/instituto-tecnologico-de-saltillo) | 0 | 0 | 1 | 8 | 8 |
-| 18 | [Instituto Tecnologico Superior de Los Reyes](escuela/instituto-tecnologico-superior-de-los-reyes) | 0 | 0 | 1 | 4 | 4 |
-| 19 | [Instituto Tecnológico de Ciudad Juárez](escuela/instituto-tecnologico-de-ciudad-juarez) | 0 | 0 | 1 | 3 | 3 |
+| 1 | [Instituto Tecnológico Superior del Sur de Guanajuato](escuela/instituto-tecnologico-superior-del-sur-de-guanajuato) | 0 | 0 | 19 | 118 | 118 |
+| 2 | [Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan) | 0 | 0 | 12 | 54 | 54 |
+| 3 | [Instituto Tecnologico de la Laguna](escuela/instituto-tecnologico-de-la-laguna) | 0 | 0 | 8 | 105 | 105 |
+| 4 | [Instituto Tecnologico de Nuevo Leon](escuela/instituto-tecnologico-de-nuevo-leon) | 0 | 0 | 5 | 46 | 46 |
+| 5 | [Instituto Tecnológico de Zacatepec](escuela/instituto-tecnologico-de-zacatepec) | 0 | 0 | 5 | 7 | 7 |
+| 6 | [Instituto Tecnológico de Veracruz](escuela/instituto-tecnologico-de-veracruz) | 0 | 0 | 4 | 23 | 23 |
+| 7 | [Instituto Tecnológico de Querétaro](escuela/instituto-tecnologico-de-queretaro) | 0 | 0 | 4 | 11 | 11 |
+| 8 | [Instituto Tecnológico de Cancún](escuela/instituto-tecnologico-de-cancun) | 0 | 0 | 3 | 36 | 36 |
+| 9 | [Instituto Tecnologico Superior de Purisima del Rincon](escuela/instituto-tecnologico-superior-de-purisima-del-rincon) | 0 | 0 | 2 | 35 | 35 |
+| 10 | [Instituto Tecnológico de Lázaro Cárdenas](escuela/instituto-tecnologico-de-lazaro-cardenas) | 0 | 0 | 2 | 34 | 34 |
+| 11 | [Instituto Tecnológico Superior de Salvatierra](escuela/instituto-tecnologico-superior-de-salvatierra) | 0 | 0 | 2 | 31 | 31 |
+| 12 | [Instituto Tecnologico Superior Zacatecas Norte](escuela/instituto-tecnologico-superior-zacatecas-norte) | 0 | 0 | 2 | 18 | 18 |
+| 13 | [Instituto Tecnologico de Cd. Juarez](escuela/instituto-tecnologico-de-cd.-juarez) | 0 | 0 | 2 | 15 | 15 |
+| 14 | [Instituto Tecnológico de Saltillo](escuela/instituto-tecnologico-de-saltillo) | 0 | 0 | 2 | 11 | 11 |
+| 15 | [Instituto Tecnológico Superior de Guanajuato](escuela/instituto-tecnologico-superior-de-guanajuato) | 0 | 0 | 1 | 34 | 34 |
+| 16 | [Instituto Tecnologico de Morelia](escuela/instituto-tecnologico-de-morelia) | 0 | 0 | 1 | 24 | 24 |
+| 17 | [Instituto Tecnológico Superior de Calkiní](escuela/instituto-tecnologico-superior-de-calkini) | 0 | 0 | 1 | 22 | 22 |
+| 18 | [Instituto Tecnologico Superior de Santiago Papasquiaro](escuela/instituto-tecnologico-superior-de-santiago-papasquiaro) | 0 | 0 | 1 | 20 | 20 |
+| 19 | [Instituto Tecnologico de Celaya](escuela/instituto-tecnologico-de-celaya) | 0 | 0 | 1 | 19 | 19 |
+| 20 | [Instituto Tecnológico de Parral](escuela/instituto-tecnologico-de-parral) | 0 | 0 | 1 | 18 | 18 |
+| 21 | [Tecnológico Nacional de México , Instituto Tecnológico de León](escuela/tecnologico-nacional-de-mexico-,-instituto-tecnologico-de-leon) | 0 | 0 | 1 | 16 | 16 |
+| 22 | [Instituto Tecnológico de Comitán](escuela/instituto-tecnologico-de-comitan) | 0 | 0 | 1 | 8 | 9 |
+| 23 | [Instituto Tecnológico de Ciudad Juárez](escuela/instituto-tecnologico-de-ciudad-juarez) | 0 | 0 | 1 | 4 | 4 |
+| 24 | [INSTITUTO TECNOLÓGICO SUPERIOR DE ZACAPOAXTLA](escuela/instituto-tecnologico-superior-de-zacapoaxtla) | 0 | 0 | 1 | 4 | 4 |
 
 ## Histórico
 
 | # | Escuela | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Total |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [Instituto Tecnológico de Ciudad Madero](escuela/instituto-tecnologico-de-ciudad-madero) | 2 | 0 | 34 | 56 | 89 |
-| 2 | [Instituto Tecnológico Superior del Sur de Guanajuato](escuela/instituto-tecnologico-superior-del-sur-de-guanajuato) | 2 | 0 | 33 | 211 | 219 |
-| 3 | [Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan) | 2 | 0 | 22 | 51 | 65 |
-| 4 | [Instituto Tecnologico de Nuevo Leon](escuela/instituto-tecnologico-de-nuevo-leon) | 0 | 0 | 38 | 71 | 104 |
+| 1 | [Instituto Tecnológico Superior del Sur de Guanajuato](escuela/instituto-tecnologico-superior-del-sur-de-guanajuato) | 2 | 0 | 36 | 222 | 230 |
+| 2 | [Instituto Tecnológico de Ciudad Madero](escuela/instituto-tecnologico-de-ciudad-madero) | 2 | 0 | 34 | 56 | 89 |
+| 3 | [Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan) | 2 | 0 | 27 | 64 | 78 |
+| 4 | [Instituto Tecnologico de Nuevo Leon](escuela/instituto-tecnologico-de-nuevo-leon) | 0 | 0 | 39 | 80 | 113 |
 | 5 | [Instituto Tecnológico Superior de Irapuato](escuela/instituto-tecnologico-superior-de-irapuato) | 0 | 0 | 32 | 10 | 42 |
-| 6 | [Instituto Tecnológico de Saltillo](escuela/instituto-tecnologico-de-saltillo) | 0 | 0 | 29 | 11 | 39 |
-| 7 | [Instituto Tecnologico Superior de Los Reyes](escuela/instituto-tecnologico-superior-de-los-reyes) | 0 | 0 | 27 | 13 | 31 |
-| 8 | [Instituto Tecnologico de la Laguna](escuela/instituto-tecnologico-de-la-laguna) | 0 | 0 | 26 | 96 | 117 |
-| 9 | [Instituto Tecnologico Superior de Lerdo](escuela/instituto-tecnologico-superior-de-lerdo) | 0 | 0 | 26 | 92 | 116 |
-| 10 | [Instituto Tecnológico de Querétaro](escuela/instituto-tecnologico-de-queretaro) | 0 | 0 | 26 | 18 | 42 |
+| 6 | [Instituto Tecnologico de la Laguna](escuela/instituto-tecnologico-de-la-laguna) | 0 | 0 | 30 | 128 | 149 |
+| 7 | [Instituto Tecnológico de Saltillo](escuela/instituto-tecnologico-de-saltillo) | 0 | 0 | 30 | 17 | 45 |
+| 8 | [Instituto Tecnológico de Querétaro](escuela/instituto-tecnologico-de-queretaro) | 0 | 0 | 28 | 22 | 46 |
+| 9 | [Instituto Tecnologico Superior de Los Reyes](escuela/instituto-tecnologico-superior-de-los-reyes) | 0 | 0 | 27 | 13 | 31 |
+| 10 | [Instituto Tecnologico Superior de Lerdo](escuela/instituto-tecnologico-superior-de-lerdo) | 0 | 0 | 26 | 97 | 121 |
 | 11 | [Instituto Tecnólogico Superior de Zapopan](escuela/instituto-tecnologico-superior-de-zapopan) | 0 | 0 | 25 | 17 | 42 |
 | 12 | [Instituto Tecnológico Superior de Poza Rica](escuela/instituto-tecnologico-superior-de-poza-rica) | 0 | 0 | 23 | 25 | 45 |
 | 13 | [Instituto Tecnologico Superior de Ciudad Hidalgo](escuela/instituto-tecnologico-superior-de-ciudad-hidalgo) | 0 | 0 | 22 | 76 | 95 |
 | 14 | [Instituto Tecnologico de Durango](escuela/instituto-tecnologico-de-durango) | 0 | 0 | 20 | 1 | 21 |
 | 15 | [Instituto Tecnologico de Mexicali](escuela/instituto-tecnologico-de-mexicali) | 0 | 0 | 19 | 14 | 33 |
-| 16 | [Instituto  Tecnológico de Estudios Superiores de Zamora](escuela/instituto-tecnologico-de-estudios-superiores-de-zamora) | 0 | 0 | 18 | 6 | 24 |
-| 17 | [Instituto Tecnológico de Ciudad Victoria](escuela/instituto-tecnologico-de-ciudad-victoria) | 0 | 0 | 18 | 0 | 18 |
-| 18 | [Instituto Tecnológico Superior de Calkiní](escuela/instituto-tecnologico-superior-de-calkini) | 0 | 0 | 17 | 35 | 50 |
-| 19 | [INSTITUTO TECNOLOGICO SUPERIOR DE APATZINGÁN](escuela/instituto-tecnologico-superior-de-apatzingan) | 0 | 0 | 17 | 30 | 47 |
-| 20 | [Instituto Tecnológico de Veracruz](escuela/instituto-tecnologico-de-veracruz) | 0 | 0 | 16 | 59 | 64 |
-| 21 | [Instituto Tecnologico de Celaya](escuela/instituto-tecnologico-de-celaya) | 0 | 0 | 16 | 19 | 35 |
+| 16 | [Instituto Tecnológico Superior de Calkiní](escuela/instituto-tecnologico-superior-de-calkini) | 0 | 0 | 18 | 37 | 52 |
+| 17 | [Instituto  Tecnológico de Estudios Superiores de Zamora](escuela/instituto-tecnologico-de-estudios-superiores-de-zamora) | 0 | 0 | 18 | 6 | 24 |
+| 18 | [Instituto Tecnológico de Ciudad Victoria](escuela/instituto-tecnologico-de-ciudad-victoria) | 0 | 0 | 18 | 0 | 18 |
+| 19 | [Instituto Tecnológico de Veracruz](escuela/instituto-tecnologico-de-veracruz) | 0 | 0 | 17 | 60 | 65 |
+| 20 | [INSTITUTO TECNOLOGICO SUPERIOR DE APATZINGÁN](escuela/instituto-tecnologico-superior-de-apatzingan) | 0 | 0 | 17 | 30 | 47 |
+| 21 | [Instituto Tecnologico de Celaya](escuela/instituto-tecnologico-de-celaya) | 0 | 0 | 17 | 25 | 41 |
 | 22 | [Instituto Tecnológico de Zacatecas](escuela/instituto-tecnologico-de-zacatecas) | 0 | 0 | 16 | 12 | 28 |
 | 23 | [INSTITUTO TECNOLOGICO SUPERIOR DE PANUCO](escuela/instituto-tecnologico-superior-de-panuco) | 0 | 0 | 15 | 7 | 22 |
-| 24 | [Instituto Tecnológico Superior de Uruapan](escuela/instituto-tecnologico-superior-de-uruapan) | 0 | 0 | 13 | 58 | 71 |
-| 25 | [Instituto Tecnologico de Morelia](escuela/instituto-tecnologico-de-morelia) | 0 | 0 | 13 | 22 | 35 |
-| 26 | [Instituto Tecnologico Superior de Santiago Papasquiaro](escuela/instituto-tecnologico-superior-de-santiago-papasquiaro) | 0 | 0 | 12 | 37 | 49 |
+| 24 | [Instituto Tecnologico de Morelia](escuela/instituto-tecnologico-de-morelia) | 0 | 0 | 14 | 24 | 37 |
+| 25 | [Instituto Tecnológico Superior de Uruapan](escuela/instituto-tecnologico-superior-de-uruapan) | 0 | 0 | 13 | 58 | 71 |
+| 26 | [Instituto Tecnologico Superior de Santiago Papasquiaro](escuela/instituto-tecnologico-superior-de-santiago-papasquiaro) | 0 | 0 | 13 | 39 | 51 |
 | 27 | [Instituto Tecnológico Superior de Tacámbaro](escuela/instituto-tecnologico-superior-de-tacambaro) | 0 | 0 | 12 | 26 | 38 |
 | 28 | [INSTITUTO TECNOLOGICO DE CUAUTLA](escuela/instituto-tecnologico-de-cuautla) | 0 | 0 | 12 | 20 | 32 |
 | 29 | [Instituto Tecnologico Superior de Fresnillo](escuela/instituto-tecnologico-superior-de-fresnillo) | 0 | 0 | 12 | 6 | 18 |
-| 30 | [Instituto Tecnológico Superior de Pátzcuaro](escuela/instituto-tecnologico-superior-de-patzcuaro) | 0 | 0 | 11 | 44 | 55 |
-| 31 | [Instituto Tecnológico de Lázaro Cárdenas](escuela/instituto-tecnologico-de-lazaro-cardenas) | 0 | 0 | 10 | 64 | 72 |
+| 30 | [Instituto Tecnológico de Lázaro Cárdenas](escuela/instituto-tecnologico-de-lazaro-cardenas) | 0 | 0 | 11 | 69 | 77 |
+| 31 | [Instituto Tecnológico Superior de Pátzcuaro](escuela/instituto-tecnologico-superior-de-patzcuaro) | 0 | 0 | 11 | 44 | 55 |
 | 32 | [Instituto Tecnológico Superior de Guanajuato](escuela/instituto-tecnologico-superior-de-guanajuato) | 0 | 0 | 9 | 61 | 61 |
-| 33 | [Instituto Tecnológico de Parral](escuela/instituto-tecnologico-de-parral) | 0 | 0 | 8 | 23 | 30 |
+| 33 | [Instituto Tecnológico de Parral](escuela/instituto-tecnologico-de-parral) | 0 | 0 | 8 | 24 | 31 |
 | 34 | [Instituto Tecnologico Superior de Loreto](escuela/instituto-tecnologico-superior-de-loreto) | 0 | 0 | 8 | 8 | 16 |
 | 35 | [Instituto Tecnológico de Zitácuaro](escuela/instituto-tecnologico-de-zitacuaro) | 0 | 0 | 8 | 4 | 12 |
 | 36 | [Instituto Tecnologico Superior de Tantoyuca](escuela/instituto-tecnologico-superior-de-tantoyuca) | 0 | 0 | 7 | 6 | 13 |
@@ -339,40 +353,42 @@ The ICPC World Finals Invitational Contest
 | 39 | [Instituto Tecnológico de Ciudad Guzmán](escuela/instituto-tecnologico-de-ciudad-guzman) | 0 | 0 | 6 | 35 | 40 |
 | 40 | [Instituto Tecnológico Superior de El Grullo](escuela/instituto-tecnologico-superior-de-el-grullo) | 0 | 0 | 6 | 21 | 26 |
 | 41 | [Instituto Tecnologico Superior Sombrerete Zacatecas Occidente](escuela/instituto-tecnologico-superior-sombrerete-zacatecas-occidente) | 0 | 0 | 5 | 11 | 16 |
-| 42 | [Instituto Tecnológico Superior de Puruándiro](escuela/instituto-tecnologico-superior-de-puruandiro) | 0 | 0 | 4 | 1 | 5 |
-| 43 | [Instituto Tecnologico Superior de Álamo Temapache](escuela/instituto-tecnologico-superior-de-alamo-temapache) | 0 | 0 | 3 | 13 | 16 |
-| 44 | [Instituto Tecnologico de Matamoros](escuela/instituto-tecnologico-de-matamoros) | 0 | 0 | 3 | 12 | 15 |
-| 45 | [Instituto Tecnologico de Agua Prieta](escuela/instituto-tecnologico-de-agua-prieta) | 0 | 0 | 3 | 5 | 8 |
-| 46 | [Instituto Tecnológico de Zacatepec](escuela/instituto-tecnologico-de-zacatepec) | 0 | 0 | 3 | 4 | 4 |
-| 47 | [Instituto Tecnológico de Tuxtepec](escuela/instituto-tecnologico-de-tuxtepec) | 0 | 0 | 3 | 1 | 4 |
-| 48 | [Instituto Tecnológico Superior de la Región de los Llanos](escuela/instituto-tecnologico-superior-de-la-region-de-los-llanos) | 0 | 0 | 3 | 0 | 3 |
-| 49 | [Instituto Tecnologico de Villahermosa](escuela/instituto-tecnologico-de-villahermosa) | 0 | 0 | 3 | 0 | 3 |
-| 50 | [Instituto Tecnologico de Cd. Victoria](escuela/instituto-tecnologico-de-cd.-victoria) | 0 | 0 | 3 | 0 | 3 |
-| 51 | [Instituto Tecnologico Superior de Coalcoman](escuela/instituto-tecnologico-superior-de-coalcoman) | 0 | 0 | 3 | 0 | 3 |
-| 52 | [Tecnológico Nacional de México , Instituto Tecnológico de León](escuela/tecnologico-nacional-de-mexico-,-instituto-tecnologico-de-leon) | 0 | 0 | 2 | 42 | 42 |
-| 53 | [Instituto Tecnológico de Cancún](escuela/instituto-tecnologico-de-cancun) | 0 | 0 | 2 | 27 | 27 |
-| 54 | [Instituto Tecnologico Superior de Chapala](escuela/instituto-tecnologico-superior-de-chapala) | 0 | 0 | 2 | 7 | 9 |
-| 55 | [Instituto Tecnológico Superior de Puerto Vallarta](escuela/instituto-tecnologico-superior-de-puerto-vallarta) | 0 | 0 | 2 | 4 | 6 |
-| 56 | [Instituto Tecnologico Superior de Lagos de Moreno](escuela/instituto-tecnologico-superior-de-lagos-de-moreno) | 0 | 0 | 2 | 4 | 6 |
-| 57 | [Instituto Tecnologico Superior de Centla](escuela/instituto-tecnologico-superior-de-centla) | 0 | 0 | 2 | 1 | 3 |
-| 58 | [Instituto Tecnologico De Villa La Venta](escuela/instituto-tecnologico-de-villa-la-venta) | 0 | 0 | 2 | 1 | 3 |
-| 59 | [Instituto Tecnológico del Valle del Guadiana](escuela/instituto-tecnologico-del-valle-del-guadiana) | 0 | 0 | 2 | 0 | 2 |
-| 60 | [Instituto Tecnologico Superior de Purisima del Rincon](escuela/instituto-tecnologico-superior-de-purisima-del-rincon) | 0 | 0 | 1 | 33 | 33 |
-| 61 | [Instituto Tecnologico Superior Zacatecas Norte](escuela/instituto-tecnologico-superior-zacatecas-norte) | 0 | 0 | 1 | 32 | 32 |
-| 62 | [Instituto Tecnologico de Cd. Juarez](escuela/instituto-tecnologico-de-cd.-juarez) | 0 | 0 | 1 | 23 | 23 |
-| 63 | [Instituto Tecnológico Superior de Comalcalco](escuela/instituto-tecnologico-superior-de-comalcalco) | 0 | 0 | 1 | 20 | 21 |
-| 64 | [Instituto Tecnológico De Pachuca](escuela/instituto-tecnologico-de-pachuca) | 0 | 0 | 1 | 18 | 19 |
-| 65 | [INSTITUTO TECNOLÓGICO SUPERIOR DE ZACAPOAXTLA](escuela/instituto-tecnologico-superior-de-zacapoaxtla) | 0 | 0 | 1 | 11 | 11 |
-| 66 | [Instituto Tecnológico de Aguascalientes](escuela/instituto-tecnologico-de-aguascalientes) | 0 | 0 | 1 | 7 | 8 |
-| 67 | [Instituto Tecnologico Superior de Arandas](escuela/instituto-tecnologico-superior-de-arandas) | 0 | 0 | 1 | 5 | 6 |
-| 68 | [Instituto Tecnológico de Ciudad Juárez](escuela/instituto-tecnologico-de-ciudad-juarez) | 0 | 0 | 1 | 3 | 3 |
-| 69 | [Instituto Tecnológico de Minatitlan](escuela/instituto-tecnologico-de-minatitlan) | 0 | 0 | 1 | 1 | 2 |
-| 70 | [Instituto Tecnológico Superior de Villa La Venta](escuela/instituto-tecnologico-superior-de-villa-la-venta) | 0 | 0 | 1 | 1 | 2 |
-| 71 | [Instituto Tecnologico Superior de Xalapa](escuela/instituto-tecnologico-superior-de-xalapa) | 0 | 0 | 1 | 1 | 2 |
-| 72 | [Instituto Tecnológico de Las Américas](escuela/instituto-tecnologico-de-las-americas) | 0 | 0 | 1 | 0 | 1 |
-| 73 | [Instituto Tecnológico Superior de Irapuato Campus Purísima del Rincon](escuela/instituto-tecnologico-superior-de-irapuato-campus-purisima-del-rincon) | 0 | 0 | 1 | 0 | 1 |
-| 74 | [Instituto Tecnologico de Tuxtla Gutierrez](escuela/instituto-tecnologico-de-tuxtla-gutierrez) | 0 | 0 | 1 | 0 | 1 |
-| 75 | [Instituto Tecnologico Superior de Tierra Blanca](escuela/instituto-tecnologico-superior-de-tierra-blanca) | 0 | 0 | 1 | 0 | 1 |
-| 76 | [Instituto Tecnologico Forestal No 1](escuela/instituto-tecnologico-forestal-no-1) | 0 | 0 | 1 | 0 | 1 |
+| 42 | [Instituto Tecnológico de Zacatepec](escuela/instituto-tecnologico-de-zacatepec) | 0 | 0 | 5 | 7 | 7 |
+| 43 | [Instituto Tecnológico Superior de Puruándiro](escuela/instituto-tecnologico-superior-de-puruandiro) | 0 | 0 | 4 | 1 | 5 |
+| 44 | [Tecnológico Nacional de México , Instituto Tecnológico de León](escuela/tecnologico-nacional-de-mexico-,-instituto-tecnologico-de-leon) | 0 | 0 | 3 | 43 | 43 |
+| 45 | [Instituto Tecnológico de Cancún](escuela/instituto-tecnologico-de-cancun) | 0 | 0 | 3 | 36 | 36 |
+| 46 | [Instituto Tecnologico Superior de Álamo Temapache](escuela/instituto-tecnologico-superior-de-alamo-temapache) | 0 | 0 | 3 | 13 | 16 |
+| 47 | [Instituto Tecnologico de Matamoros](escuela/instituto-tecnologico-de-matamoros) | 0 | 0 | 3 | 12 | 15 |
+| 48 | [Instituto Tecnologico de Agua Prieta](escuela/instituto-tecnologico-de-agua-prieta) | 0 | 0 | 3 | 5 | 8 |
+| 49 | [Instituto Tecnológico de Tuxtepec](escuela/instituto-tecnologico-de-tuxtepec) | 0 | 0 | 3 | 1 | 4 |
+| 50 | [Instituto Tecnológico Superior de la Región de los Llanos](escuela/instituto-tecnologico-superior-de-la-region-de-los-llanos) | 0 | 0 | 3 | 0 | 3 |
+| 51 | [Instituto Tecnologico de Villahermosa](escuela/instituto-tecnologico-de-villahermosa) | 0 | 0 | 3 | 0 | 3 |
+| 52 | [Instituto Tecnologico de Cd. Victoria](escuela/instituto-tecnologico-de-cd.-victoria) | 0 | 0 | 3 | 0 | 3 |
+| 53 | [Instituto Tecnologico Superior de Coalcoman](escuela/instituto-tecnologico-superior-de-coalcoman) | 0 | 0 | 3 | 0 | 3 |
+| 54 | [Instituto Tecnológico Superior de Salvatierra](escuela/instituto-tecnologico-superior-de-salvatierra) | 0 | 0 | 2 | 44 | 44 |
+| 55 | [Instituto Tecnologico Superior de Purisima del Rincon](escuela/instituto-tecnologico-superior-de-purisima-del-rincon) | 0 | 0 | 2 | 37 | 37 |
+| 56 | [Instituto Tecnologico Superior Zacatecas Norte](escuela/instituto-tecnologico-superior-zacatecas-norte) | 0 | 0 | 2 | 35 | 35 |
+| 57 | [Instituto Tecnologico de Cd. Juarez](escuela/instituto-tecnologico-de-cd.-juarez) | 0 | 0 | 2 | 24 | 24 |
+| 58 | [Instituto Tecnologico Superior de Chapala](escuela/instituto-tecnologico-superior-de-chapala) | 0 | 0 | 2 | 7 | 9 |
+| 59 | [Instituto Tecnológico Superior de Puerto Vallarta](escuela/instituto-tecnologico-superior-de-puerto-vallarta) | 0 | 0 | 2 | 4 | 6 |
+| 60 | [Instituto Tecnologico Superior de Lagos de Moreno](escuela/instituto-tecnologico-superior-de-lagos-de-moreno) | 0 | 0 | 2 | 4 | 6 |
+| 61 | [Instituto Tecnologico Superior de Centla](escuela/instituto-tecnologico-superior-de-centla) | 0 | 0 | 2 | 1 | 3 |
+| 62 | [Instituto Tecnologico De Villa La Venta](escuela/instituto-tecnologico-de-villa-la-venta) | 0 | 0 | 2 | 1 | 3 |
+| 63 | [Instituto Tecnológico del Valle del Guadiana](escuela/instituto-tecnologico-del-valle-del-guadiana) | 0 | 0 | 2 | 0 | 2 |
+| 64 | [Instituto Tecnológico Superior de Comalcalco](escuela/instituto-tecnologico-superior-de-comalcalco) | 0 | 0 | 1 | 20 | 21 |
+| 65 | [Instituto Tecnológico De Pachuca](escuela/instituto-tecnologico-de-pachuca) | 0 | 0 | 1 | 18 | 19 |
+| 66 | [INSTITUTO TECNOLÓGICO SUPERIOR DE ZACAPOAXTLA](escuela/instituto-tecnologico-superior-de-zacapoaxtla) | 0 | 0 | 1 | 13 | 13 |
+| 67 | [Instituto Tecnológico de Comitán](escuela/instituto-tecnologico-de-comitan) | 0 | 0 | 1 | 10 | 11 |
+| 68 | [Instituto Tecnológico de Aguascalientes](escuela/instituto-tecnologico-de-aguascalientes) | 0 | 0 | 1 | 7 | 8 |
+| 69 | [Instituto Tecnologico Superior de Arandas](escuela/instituto-tecnologico-superior-de-arandas) | 0 | 0 | 1 | 5 | 6 |
+| 70 | [Instituto Tecnológico de Ciudad Juárez](escuela/instituto-tecnologico-de-ciudad-juarez) | 0 | 0 | 1 | 4 | 4 |
+| 71 | [Instituto Tecnológico de Minatitlan](escuela/instituto-tecnologico-de-minatitlan) | 0 | 0 | 1 | 1 | 2 |
+| 72 | [Instituto Tecnológico Superior de Villa La Venta](escuela/instituto-tecnologico-superior-de-villa-la-venta) | 0 | 0 | 1 | 1 | 2 |
+| 73 | [Instituto Tecnologico Superior de Xalapa](escuela/instituto-tecnologico-superior-de-xalapa) | 0 | 0 | 1 | 1 | 2 |
+| 74 | [Instituto Tecnológico de Las Américas](escuela/instituto-tecnologico-de-las-americas) | 0 | 0 | 1 | 0 | 1 |
+| 75 | [Instituto Tecnológico Superior de Irapuato Campus Purísima del Rincon](escuela/instituto-tecnologico-superior-de-irapuato-campus-purisima-del-rincon) | 0 | 0 | 1 | 0 | 1 |
+| 76 | [Instituto Tecnologico de Tuxtla Gutierrez](escuela/instituto-tecnologico-de-tuxtla-gutierrez) | 0 | 0 | 1 | 0 | 1 |
+| 77 | [Instituto Tecnologico Superior de Tierra Blanca](escuela/instituto-tecnologico-superior-de-tierra-blanca) | 0 | 0 | 1 | 0 | 1 |
+| 78 | [Instituto Tecnologico Forestal No 1](escuela/instituto-tecnologico-forestal-no-1) | 0 | 0 | 1 | 0 | 1 |
 
 

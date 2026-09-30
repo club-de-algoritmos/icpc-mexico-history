@@ -21,7 +21,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **2** | **0** | **39** | **23** | **59** |
+| **Total** | **2** | **0** | **41** | **36** | **72** |
 | [2002-2003](#2002-2003) | 0 | 0 | 2 | 0 | 2 |
 | [2003-2004](#2003-2004) | 0 | 0 | 5 | 0 | 5 |
 | [2004-2005](#2004-2005) | 1 | 0 | 3 | 0 | 3 |
@@ -41,6 +41,7 @@
 | [2020-2021](#2020-2021) | 0 | 0 | 0 | 2 | 2 |
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 1 | 1 |
 | [2024-2025](#2024-2025) | 0 | 0 | 2 | 8 | 8 |
+| [2025-2026](#2025-2026) | 0 | 0 | 2 | 13 | 13 |
 
 ### 2002-2003
 
@@ -159,6 +160,22 @@
 1. #432 _Java-limos_ (Clasificatorio)
 1. #482 _Noditos_ (Clasificatorio)
 1. #482 _ctrl_shift_ (Clasificatorio)
+
+### 2025-2026
+
+1. #116 _McIntosh Coders_ (Regional)
+1. #133 _Matemágicos_ (Regional)
+1. #134 _binary_sech()_ (Clasificatorio)
+1. #148 _Familia Medina_ (Clasificatorio)
+1. #150 _BitsNBytes_ (Clasificatorio)
+1. #189 _Linuxeros_ (Clasificatorio)
+1. #198 _gatito include_ (Clasificatorio)
+1. #220 _Mixiote Team_ (Clasificatorio)
+1. #252 _Compilados ;)_ (Clasificatorio)
+1. #257 _Combination_cards_ (Clasificatorio)
+1. #356 _Nadaqueverientos_ (Clasificatorio)
+1. #403 _Noditos_ (Clasificatorio)
+1. #511 _CommitAndForget_ (Clasificatorio)
 
 
 

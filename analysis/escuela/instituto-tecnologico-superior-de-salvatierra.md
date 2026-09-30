@@ -3,15 +3,15 @@
 ## Mejores 10 equipos
 
 1. _Tics1_ resolvió 4 problemas y obtuvo el lugar #233 (80%) en The 2024 ICPC Gran Premio de Mexico
+1. _Script-Squad_ resolvió 0 problemas y obtuvo el lugar #132 (76%) en The 2025 ICPC Mexico Finals
 1. _Script Squad_ resolvió 4 problemas y obtuvo el lugar #282 (76%) en The 2024 ICPC Gran Premio de Mexico
+1. _pipipi_ resolvió 2 problemas y obtuvo el lugar #133 (74%) en The 2025 ICPC Mexico Finals
 1. _The-Masters_ resolvió 2 problemas y obtuvo el lugar #352 (70%) en The 2024 ICPC Gran Premio de Mexico
 1. _Tics4_ resolvió 4 problemas y obtuvo el lugar #365 (69%) en The 2024 ICPC Gran Premio de Mexico
 1. _Binario 101_ obtuvo el lugar #382 (67%) en Gran Premio de Mexico 2019
 1. _servobot 466_ resolvió 1 problemas y obtuvo el lugar #458 (62%) en The 2024 ICPC Gran Premio de Mexico
 1. _Tics2_ resolvió 1 problemas y obtuvo el lugar #459 (62%) en The 2024 ICPC Gran Premio de Mexico
 1. _CHADIGA_ obtuvo el lugar #382 (61%) en Gran Premio de Mexico 2019
-1. _Tics3_ resolvió 1 problemas y obtuvo el lugar #470 (61%) en The 2024 ICPC Gran Premio de Mexico
-1. _MAJIRO_ obtuvo el lugar #382 (54%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **0** | **36** | **36** |
+| **Total** | **0** | **0** | **2** | **44** | **44** |
 | [2014-2015](#2014-2015) | 0 | 0 | 0 | 4 | 4 |
 | [2017-2018](#2017-2018) | 0 | 0 | 0 | 1 | 1 |
 | [2019-2020](#2019-2020) | 0 | 0 | 0 | 8 | 8 |
@@ -28,6 +28,7 @@
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 6 | 6 |
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 1 | 1 |
 | [2024-2025](#2024-2025) | 0 | 0 | 0 | 10 | 10 |
+| [2025-2026](#2025-2026) | 0 | 0 | 2 | 8 | 8 |
 
 ### 2014-2015
 
@@ -88,6 +89,17 @@
 1. #482 (#114 de TecNM) _Tics5_ (Clasificatorio)
 1. #482 (#114 de TecNM) _TICS08_ (Clasificatorio)
 1. #482 (#114 de TecNM) _huy_ (Clasificatorio)
+
+### 2025-2026
+
+1. #132 (#30 de TecNM) _Script-Squad_ (Regional)
+1. #133 (#32 de TecNM) _pipipi_ (Regional)
+1. #322 (#66 de TecNM) _Los Quemaditos_ (Clasificatorio)
+1. #429 (#99 de TecNM) _Aphoreus_ (Clasificatorio)
+1. #485 (#115 de TecNM) _"Dinamita"_ (Clasificatorio)
+1. #486 (#116 de TecNM) _Las chicas y el CR_ (Clasificatorio)
+1. #494 (#121 de TecNM) _Los trifasicos_ (Clasificatorio)
+1. #497 (#123 de TecNM) _Los charales del norte_ (Clasificatorio)
 
 
 

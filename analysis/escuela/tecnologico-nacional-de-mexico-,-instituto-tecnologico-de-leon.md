@@ -4,6 +4,7 @@
 
 1. _ITL-1_ resolvió 2 problemas y obtuvo el lugar #43 (87%) en The 2015 ACM-ICPC Mexico and Central America Finals
 1. _ITLeón_1_ resolvió 2 problemas y obtuvo el lugar #70 (86%) en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _simBIOSis_ resolvió 2 problemas y obtuvo el lugar #97 (82%) en The 2025 ICPC Mexico Finals
 1. _VIPOC SYC_ resolvió 6 problemas y obtuvo el lugar #169 (76%) en Gran Premio de Mexico 2020
 1. _8bit_ resolvió 6 problemas y obtuvo el lugar #172 (75%) en Gran Premio de Mexico 2020
 1. _Elk Cloner_ resolvió 0 problemas y obtuvo el lugar #121 (70%) en Gran Premio de Mexico & Centroamerica
@@ -11,7 +12,6 @@
 1. _8bit_ resolvió 1 problemas y obtuvo el lugar #153 (69%) en The 2021 ICPC Gran Premio de Mexico
 1. _Ases_ resolvió 1 problemas y obtuvo el lugar #317 (55%) en Gran Premio de Mexico 2020
 1. _Black Panter_ resolvió 1 problemas y obtuvo el lugar #355 (53%) en Gran Premio de Mexico 2018
-1. _Las Teemos_ resolvió 2 problemas y obtuvo el lugar #110 (49%) en Mexico and Central America Finals - Programming Battle
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **2** | **42** | **42** |
+| **Total** | **0** | **0** | **3** | **43** | **43** |
 | [2014-2015](#2014-2015) | 0 | 0 | 0 | 3 | 3 |
 | [2015-2016](#2015-2016) | 0 | 0 | 1 | 3 | 3 |
 | [2016-2017](#2016-2017) | 0 | 0 | 1 | 8 | 8 |
@@ -30,6 +30,7 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 3 | 3 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 2 | 2 |
 | [2024-2025](#2024-2025) | 0 | 0 | 0 | 5 | 5 |
+| [2025-2026](#2025-2026) | 0 | 0 | 1 | 1 | 1 |
 
 ### 2014-2015
 
@@ -102,6 +103,10 @@
 1. #482 (#114 de TecNM) _Logic Lords ITL_ (Clasificatorio)
 1. #482 (#114 de TecNM) _Sentai_ (Clasificatorio)
 1. #482 (#114 de TecNM) _simBIOSis_ (Clasificatorio)
+
+### 2025-2026
+
+1. #97 (#15 de TecNM) _simBIOSis_ (Regional)
 
 
 

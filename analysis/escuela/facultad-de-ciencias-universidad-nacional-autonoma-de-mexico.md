@@ -10,12 +10,12 @@
     - Avanzó a la final mundial y resolvió 3 problemas y obtuvo el lugar #57 (58%) en 41st Annual World Finals of the ACM International Collegiate Programming Contest
 1. _pu+os_ resolvió 6 problemas y obtuvo el lugar #4 (100%) en The 2019 ICPC Mexico Finals
     - Avanzó a la final mundial y resolvió 3 problemas y obtuvo el lugar #47 (16%) en The ICPC World Finals Invitational Contest
-1. _PumOMM_ resolvió 10 problemas y obtuvo el lugar #2 (100%) en The 2020 ICPC Mexico Finals
 1. _Rocky IV_ resolvió 5 problemas y obtuvo el lugar #3 (100%) en The 2024 ICPC Mexico Finals
+1. _PumOMM_ resolvió 10 problemas y obtuvo el lugar #2 (100%) en The 2020 ICPC Mexico Finals
 1. _pu++_ resolvió 5 problemas y obtuvo el lugar #5 (99%) en The 2015 ACM-ICPC Mexico and Central America Finals
 1. _Peso Puma_ resolvió 5 problemas y obtuvo el lugar #6 (99%) en The 2023 ICPC Mexico Finals
+1. _Conejito Malo ICPC: ZYN miedo al éxito_ resolvió 6 problemas y obtuvo el lugar #8 (99%) en The 2025 ICPC Mexico Finals
 1. _UNAM Amada_ resolvió 7 problemas y obtuvo el lugar #9 (99%) en The 2018 ICPC Mexico and Central America Finals
-1. _Pumas+_ resolvió 4 problemas y obtuvo el lugar #15 (99%) en The 2019 ICPC Mexico Finals
 
 ## Participaciones
 
@@ -23,7 +23,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **4** | **0** | **24** | **85** | **85** |
+| **Total** | **4** | **1** | **29** | **93** | **93** |
 | [2014-2015](#2014-2015) | 0 | 0 | 1 | 1 | 1 |
 | [2015-2016](#2015-2016) | 0 | 0 | 2 | 2 | 2 |
 | [2016-2017](#2016-2017) | 1 | 0 | 1 | 2 | 2 |
@@ -34,7 +34,8 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 2 | 11 | 11 |
 | [2022-2023](#2022-2023) | 1 | 0 | 2 | 19 | 19 |
 | [2023-2024](#2023-2024) | 0 | 0 | 3 | 5 | 5 |
-| [2024-2025](#2024-2025) | 0 | 0 | 4 | 10 | 10 |
+| [2024-2025](#2024-2025) | 0 | 1 | 4 | 10 | 10 |
+| [2025-2026](#2025-2026) | 0 | 0 | 5 | 8 | 8 |
 
 ### 2014-2015
 
@@ -157,6 +158,17 @@
 1. #403 _Tilines FC_ (Clasificatorio)
 1. #482 _PMA_ (Clasificatorio)
 1. #482 _Faltos de internship: El siguiente año es el bueno_ (Clasificatorio)
+
+### 2025-2026
+
+1. #8 _Conejito Malo ICPC: ZYN miedo al éxito_ (Regional)
+1. #23 _Por dios que difícil_ (Regional)
+1. #53 _Brigada Fantasma_ (Regional)
+1. #86 _Momazos FC_ (Regional)
+1. #95 _Gatos Naranjosos_ (Regional)
+1. #81 _Oaxackers_ (Clasificatorio)
+1. #118 _no batallo pa subirlas batallo pa subir a verde en cf_ (Clasificatorio)
+1. #425 _Tuxgüinitos_ (Clasificatorio)
 
 
 

@@ -12,8 +12,8 @@
 1. _cagUAA++_ resolvió 4 problemas y obtuvo el lugar #15 (98%) en The 2020 ICPC Mexico Finals
 1. _Gallos_ resolvió 3 problemas y obtuvo el lugar #25 (98%) en The 2022 ICPC Mexico Finals
 1. _Los testigos de Aarón_ resolvió 3 problemas y obtuvo el lugar #32 (98%) en The 2019 ICPC Mexico Finals
+1. _Kung Fu Panda 2_ resolvió 4 problemas y obtuvo el lugar #18 (97%) en The 2025 ICPC Mexico Finals
 1. _nac-OS_ resolvió 2 problemas y obtuvo el lugar #21 (97%) en The 2017 ACM-ICPC Mexico and Central America Finals
-1. _WA de WAccepted_ resolvió 4 problemas y obtuvo el lugar #24 (97%) en The 2018 ICPC Mexico and Central America Finals
 
 ## Participaciones
 
@@ -21,7 +21,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **2** | **0** | **42** | **97** | **122** |
+| **Total** | **2** | **0** | **44** | **105** | **130** |
 | [2005-2006](#2005-2006) | 0 | 0 | 1 | 0 | 1 |
 | [2009-2010](#2009-2010) | 0 | 0 | 3 | 0 | 3 |
 | [2010-2011](#2010-2011) | 0 | 0 | 3 | 0 | 3 |
@@ -39,6 +39,7 @@
 | [2022-2023](#2022-2023) | 0 | 0 | 1 | 7 | 7 |
 | [2023-2024](#2023-2024) | 0 | 0 | 1 | 3 | 3 |
 | [2024-2025](#2024-2025) | 0 | 0 | 2 | 8 | 8 |
+| [2025-2026](#2025-2026) | 0 | 0 | 2 | 8 | 8 |
 
 ### 2005-2006
 
@@ -214,6 +215,17 @@
 1. #482 _Null&Void_ (Clasificatorio)
 1. #482 _Roosters_ (Clasificatorio)
 1. #482 _Montoalrey_ (Clasificatorio)
+
+### 2025-2026
+
+1. #18 _Kung Fu Panda 2_ (Regional)
+1. #66 _Paleteros de Tingüindín_ (Regional)
+1. #243 _DEVuélveme a mi chica_ (Clasificatorio)
+1. #262 _πcos(OS)_ (Clasificatorio)
+1. #284 _include<gallos>_ (Clasificatorio)
+1. #303 _PATH_ (Clasificatorio)
+1. #459 _**puntero apunta puntero_ (Clasificatorio)
+1. #519 _OppenheimerGallosUAA_ (Clasificatorio)
 
 
 

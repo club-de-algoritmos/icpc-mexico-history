@@ -19,12 +19,13 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **0** | **19** | **19** |
+| **Total** | **0** | **0** | **0** | **21** | **21** |
 | [2019-2020](#2019-2020) | 0 | 0 | 0 | 4 | 4 |
 | [2020-2021](#2020-2021) | 0 | 0 | 0 | 5 | 5 |
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 1 | 1 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 6 | 6 |
 | [2024-2025](#2024-2025) | 0 | 0 | 0 | 3 | 3 |
+| [2025-2026](#2025-2026) | 0 | 0 | 0 | 2 | 2 |
 
 ### 2019-2020
 
@@ -59,6 +60,11 @@
 1. #482 (#114 de TecNM) _Tremboboys_ (Clasificatorio)
 1. #482 (#114 de TecNM) _CodeZen_ (Clasificatorio)
 1. #482 (#114 de TecNM) _Team_notFound_ (Clasificatorio)
+
+### 2025-2026
+
+1. #476 (#112 de TecNM) _CodeZen _ (Clasificatorio)
+1. #490 (#118 de TecNM) _ITCC 2_ (Clasificatorio)
 
 
 

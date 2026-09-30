@@ -20,7 +20,7 @@
     - Avanzó a la final mundial y resolvió 0 problemas y obtuvo el lugar #68 (7%) en The 2004 ACM Programming Contest World Finals
 1. _Locos_ resolvió 7 problemas y obtuvo el lugar #2 (100%) en The 2014 ACM-ICPC Mexico and Central America Finals
     - Avanzó a la final mundial y resolvió 1 problemas y obtuvo el lugar #121 (6%) en 39th Annual World Finals of the ACM International Collegiate Programming Contest
-1. _We put the D in DP_ resolvió 6 problemas y obtuvo el lugar #5 (100%) en The 2019 ICPC Mexico Finals
+1. _Sindicato de Taxistas Calakmul (PD 500 usd y agregamos tu nombre)_ resolvió 7 problemas y obtuvo el lugar #2 (100%) en The 2025 ICPC Mexico Finals
 
 ## Participaciones
 
@@ -28,7 +28,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **10** | **0** | **99** | **329** | **393** |
+| **Total** | **10** | **1** | **104** | **348** | **412** |
 | [1997-1998](#1997-1998) | 1 | 0 | 0 | 0 | 1 |
 | [1998-1999](#1998-1999) | 1 | 0 | 0 | 0 | 1 |
 | [2000-2001](#2000-2001) | 1 | 0 | 0 | 0 | 1 |
@@ -54,6 +54,7 @@
 | [2022-2023](#2022-2023) | 0 | 0 | 2 | 32 | 32 |
 | [2023-2024](#2023-2024) | 0 | 0 | 3 | 29 | 29 |
 | [2024-2025](#2024-2025) | 0 | 0 | 7 | 33 | 33 |
+| [2025-2026](#2025-2026) | 0 | 1 | 5 | 19 | 19 |
 
 ### 1997-1998
 
@@ -532,6 +533,28 @@
 1. #482 (#69 de ITESM) _Runtime Terror_ (Clasificatorio)
 1. #482 (#69 de ITESM) _SWMG feat. Algorithm Assassins_ (Clasificatorio)
 1. #482 (#69 de ITESM) _PRIME TEAM_ (Clasificatorio)
+
+### 2025-2026
+
+1. #2 (#1 de ITESM) _Sindicato de Taxistas Calakmul (PD 500 usd y agregamos tu nombre)_ (Regional)
+1. #10 (#2 de ITESM) _Data Divas_ (Regional)
+1. #12 (#3 de ITESM) _Cookie Clickers_ (Regional)
+1. #75 (#10 de ITESM) _rbrgs.cpp_ (Regional)
+1. #100 (#13 de ITESM) _Fibonacci Fairies_ (Regional)
+1. #54 (#7 de ITESM) _Patos_Con_Sombrero_ (Clasificatorio)
+1. #57 (#9 de ITESM) _Club Penguin_ (Clasificatorio)
+1. #104 (#14 de ITESM) _TRITONEROS_ (Clasificatorio)
+1. #112 (#16 de ITESM) _La matraca traca traca_ (Clasificatorio)
+1. #147 (#17 de ITESM) _Mascotas Maravilla_ (Clasificatorio)
+1. #182 (#20 de ITESM) _(:v)3_ (Clasificatorio)
+1. #269 (#27 de ITESM) _Revolucion Ruta 301_ (Clasificatorio)
+1. #280 (#31 de ITESM) _SCRIPTUM_ (Clasificatorio)
+1. #393 (#41 de ITESM) _Null_ (Clasificatorio)
+1. #408 (#45 de ITESM) _O(n! log n!)_ (Clasificatorio)
+1. #418 (#48 de ITESM) _Torre de camarones_ (Clasificatorio)
+1. #440 (#52 de ITESM) _icpc girlies!!!_ (Clasificatorio)
+1. #513 (#57 de ITESM) _Science Based Programming_ (Clasificatorio)
+1. #521 (#58 de ITESM) _Equipo_ (Clasificatorio)
 
 
 

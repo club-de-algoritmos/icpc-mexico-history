@@ -7,11 +7,11 @@
 1. _Cytma_ resolvió 2 problemas y obtuvo el lugar #233 (82%) en Gran Premio de Mexico 2019
 1. _Rino_ resolvió 5 problemas y obtuvo el lugar #221 (81%) en The 2024 ICPC Gran Premio de Mexico
 1. _Codeboys_ resolvió 4 problemas y obtuvo el lugar #227 (80%) en The 2024 ICPC Gran Premio de Mexico
+1. _Umizoomi_ resolvió 2 problemas y obtuvo el lugar #121 (78%) en The 2025 ICPC Mexico Finals
 1. _Coyotes Guerreros_ resolvió 2 problemas y obtuvo el lugar #278 (78%) en Gran Premio de Mexico 2019
 1. _Coyote13_ resolvió 5 problemas y obtuvo el lugar #126 (77%) en Gran Premio de Mexico & Centroamerica 2017
 1. _Coyote 14_ resolvió 4 problemas y obtuvo el lugar #154 (76%) en Gran Premio de Mexico 2018
 1. _Los PROgramadores_ resolvió 6 problemas y obtuvo el lugar #174 (75%) en Gran Premio de Mexico 2020
-1. _Irresponsables_ resolvió 1 problemas y obtuvo el lugar #316 (75%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **1** | **32** | **32** |
+| **Total** | **0** | **0** | **2** | **35** | **35** |
 | [2016-2017](#2016-2017) | 0 | 0 | 0 | 3 | 3 |
 | [2017-2018](#2017-2018) | 0 | 0 | 0 | 3 | 3 |
 | [2018-2019](#2018-2019) | 0 | 0 | 0 | 6 | 6 |
@@ -27,6 +27,7 @@
 | [2020-2021](#2020-2021) | 0 | 0 | 0 | 5 | 5 |
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 2 | 2 |
 | [2024-2025](#2024-2025) | 0 | 0 | 1 | 8 | 8 |
+| [2025-2026](#2025-2026) | 0 | 0 | 1 | 3 | 3 |
 
 ### 2016-2017
 
@@ -80,6 +81,12 @@
 1. #482 (#114 de TecNM) _Los Reyes del Norte_ (Clasificatorio)
 1. #482 (#114 de TecNM) _Los Panchos_ (Clasificatorio)
 1. #482 (#114 de TecNM) _Los Tres Huastecos_ (Clasificatorio)
+
+### 2025-2026
+
+1. #121 (#24 de TecNM) _Umizoomi_ (Regional)
+1. #263 (#55 de TecNM) _Code Rangers_ (Clasificatorio)
+1. #477 (#113 de TecNM) _CodeNoobs_ (Clasificatorio)
 
 
 

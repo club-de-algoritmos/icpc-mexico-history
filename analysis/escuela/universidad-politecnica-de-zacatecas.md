@@ -3,14 +3,15 @@
 ## Mejores 10 equipos
 
 1. _¿Quién es el main?_ resolvió 1 problemas y obtuvo el lugar #113 (91%) en The 2024 ICPC Mexico Finals
+1. _Nomás Venimos a Estorbar_ resolvió 2 problemas y obtuvo el lugar #64 (88%) en The 2025 ICPC Mexico Finals
 1. _Tifosi_ resolvió 2 problemas y obtuvo el lugar #359 (70%) en The 2024 ICPC Gran Premio de Mexico
 1. _Los Programadoruskis_ obtuvo el lugar #382 (56%) en Gran Premio de Mexico 2019
 1. _Los Bytes_ resolvió 0 problemas y obtuvo el lugar #394 (34%) en Gran Premio de Mexico 2018
 1. _RiEdAl.H_ resolvió 0 problemas y obtuvo el lugar #101 (30%) en The 2008 Mexico & Central America Contest
 1. _IngCode_ resolvió 0 problemas y obtuvo el lugar #351 (25%) en Gran Premio de Mexico 2020
 1. _AlCEMY.C_ resolvió 0 problemas y obtuvo el lugar #101 (24%) en The 2008 Mexico & Central America Contest
+1. _Shadows of Frijoles_ resolvió 2 problemas y obtuvo el lugar #442 (16%) en The 2025 ICPC Gran Premio de Mexico
 1. _Coders4Life_ resolvió 0 problemas y obtuvo el lugar #61 (12%) en The 2007 ACM Mexico and Central America Programming Contest
-1. _Capa 8 Runtime Error_ resolvió 0 problemas y obtuvo el lugar #419 (8%) en The 2023 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -18,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **4** | **6** | **9** |
+| **Total** | **0** | **0** | **5** | **8** | **11** |
 | [2007-2008](#2007-2008) | 0 | 0 | 1 | 0 | 1 |
 | [2008-2009](#2008-2009) | 0 | 0 | 2 | 0 | 2 |
 | [2018-2019](#2018-2019) | 0 | 0 | 0 | 1 | 1 |
@@ -26,6 +27,7 @@
 | [2020-2021](#2020-2021) | 0 | 0 | 0 | 1 | 1 |
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 1 | 1 |
 | [2024-2025](#2024-2025) | 0 | 0 | 1 | 2 | 2 |
+| [2025-2026](#2025-2026) | 0 | 0 | 1 | 2 | 2 |
 
 ### 2007-2008
 
@@ -56,6 +58,11 @@
 
 1. #113 _¿Quién es el main?_ (Regional)
 1. #359 _Tifosi_ (Clasificatorio)
+
+### 2025-2026
+
+1. #64 _Nomás Venimos a Estorbar_ (Regional)
+1. #442 _Shadows of Frijoles_ (Clasificatorio)
 
 
 

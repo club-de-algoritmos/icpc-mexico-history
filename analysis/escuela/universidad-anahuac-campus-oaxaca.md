@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **14** | **40** | **41** |
+| **Total** | **0** | **0** | **16** | **45** | **46** |
 | [2012-2013](#2012-2013) | 0 | 0 | 1 | 0 | 1 |
 | [2014-2015](#2014-2015) | 0 | 0 | 1 | 2 | 2 |
 | [2015-2016](#2015-2016) | 0 | 0 | 1 | 1 | 1 |
@@ -32,6 +32,7 @@
 | [2022-2023](#2022-2023) | 0 | 0 | 1 | 4 | 4 |
 | [2023-2024](#2023-2024) | 0 | 0 | 1 | 4 | 4 |
 | [2024-2025](#2024-2025) | 0 | 0 | 2 | 8 | 8 |
+| [2025-2026](#2025-2026) | 0 | 0 | 2 | 5 | 5 |
 
 ### 2012-2013
 
@@ -109,6 +110,14 @@
 1. #482 _Team Overflow 2_ (Clasificatorio)
 1. #482 _EABMODEL__ (Clasificatorio)
 1. #482 _Leones_code(p,a,d)_ (Clasificatorio)
+
+### 2025-2026
+
+1. #93 _LeonesUAO_ (Regional)
+1. #109 _Pointer patrol_ (Regional)
+1. #170 _leones_code(p a d)_ (Clasificatorio)
+1. #344 _Quesillitos Team_ (Clasificatorio)
+1. #363 _Dream team_ (Clasificatorio)
 
 
 

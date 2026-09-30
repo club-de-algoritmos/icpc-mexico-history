@@ -4,6 +4,7 @@
 
 1. _Pinky_Pie_ resolvió 3 problemas y obtuvo el lugar #28 (92%) en The 2015 ACM-ICPC Mexico and Central America Finals
 1. _Chilaquiles en salsa verde_ resolvió 1 problemas y obtuvo el lugar #104 (92%) en The 2024 ICPC Mexico Finals
+1. _Tralaleritos_ resolvió 2 problemas y obtuvo el lugar #62 (89%) en The 2025 ICPC Mexico Finals
 1. _JAVAlimos_ resolvió 5 problemas y obtuvo el lugar #140 (89%) en Gran Premio de Mexico 2019
 1. _Origins_ resolvió 5 problemas y obtuvo el lugar #143 (89%) en Gran Premio de Mexico 2019
 1. _Shiny_ resolvió 4 problemas y obtuvo el lugar #149 (88%) en Gran Premio de Mexico 2019
@@ -11,7 +12,6 @@
 1. _AmI-UbiCom_ resolvió 2 problemas y obtuvo el lugar #79 (85%) en The 2016 ACM-ICPC Mexico and Central America Finals
 1. _AmIUbiCom-Rojo_ resolvió 8 problemas y obtuvo el lugar #78 (83%) en Gran Premio de Mexico & Centroamerica 2017
 1. _Ami-UbiCom_ resolvió 1 problemas y obtuvo el lugar #45 (82%) en The 2014 ACM-ICPC Mexico and Central America Finals
-1. _Tiburoncin U AH! AH!_ resolvió 3 problemas y obtuvo el lugar #187 (82%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **20** | **90** | **105** |
+| **Total** | **0** | **0** | **22** | **93** | **108** |
 | [2001-2002](#2001-2002) | 0 | 0 | 3 | 0 | 3 |
 | [2005-2006](#2005-2006) | 0 | 0 | 1 | 0 | 1 |
 | [2006-2007](#2006-2007) | 0 | 0 | 1 | 0 | 1 |
@@ -34,6 +34,7 @@
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 6 | 6 |
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 2 | 2 |
 | [2024-2025](#2024-2025) | 0 | 0 | 1 | 6 | 6 |
+| [2025-2026](#2025-2026) | 0 | 0 | 2 | 3 | 3 |
 
 ### 2001-2002
 
@@ -181,6 +182,12 @@
 1. #451 _GitGut_ (Clasificatorio)
 1. #476 _Syntax Sorcerers_ (Clasificatorio)
 1. #482 _Chilaquiles en Salsa Verde_ (Clasificatorio)
+
+### 2025-2026
+
+1. #62 _Tralaleritos_ (Regional)
+1. #119 _Miramar Racoons_ (Regional)
+1. #130 _Chavirianos_ (Clasificatorio)
 
 
 

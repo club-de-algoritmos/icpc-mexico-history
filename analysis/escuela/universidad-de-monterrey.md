@@ -8,10 +8,10 @@
 1. _Racoode_ resolvió 3 problemas y obtuvo el lugar #50 (96%) en The 2024 ICPC Mexico Finals
 1. _Troyanos_ resolvió 3 problemas y obtuvo el lugar #10 (92%) en The 2004 ACM Mexico and Central America Programming Contest
 1. _The Chosen O(n)es_ resolvió 1 problemas y obtuvo el lugar #46 (90%) en The 2023 ICPC Mexico Finals
+1. _Familia Gallegos 5: Old Man Gallegos_ resolvió 2 problemas y obtuvo el lugar #56 (90%) en The 2025 ICPC Mexico Finals
 1. _Serendipia_ resolvió 6 problemas y obtuvo el lugar #113 (89%) en The 2022 ICPC Gran Premio de Mexico
 1. _UDEM1_ resolvió 2 problemas y obtuvo el lugar #20 (88%) en The 2005 ACM Mexico and Central America Programming Contest
 1. _Nth time's the charm_ resolvió 8 problemas y obtuvo el lugar #104 (88%) en The 2024 ICPC Gran Premio de Mexico
-1. _Mavericks_ resolvió 7 problemas y obtuvo el lugar #142 (86%) en The 2024 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **15** | **60** | **70** |
+| **Total** | **0** | **0** | **17** | **77** | **87** |
 | [2002-2003](#2002-2003) | 0 | 0 | 2 | 0 | 2 |
 | [2003-2004](#2003-2004) | 0 | 0 | 2 | 0 | 2 |
 | [2004-2005](#2004-2005) | 0 | 0 | 1 | 0 | 1 |
@@ -34,6 +34,7 @@
 | [2022-2023](#2022-2023) | 0 | 0 | 2 | 9 | 9 |
 | [2023-2024](#2023-2024) | 0 | 0 | 1 | 7 | 7 |
 | [2024-2025](#2024-2025) | 0 | 0 | 2 | 10 | 10 |
+| [2025-2026](#2025-2026) | 0 | 0 | 2 | 17 | 17 |
 
 ### 2002-2003
 
@@ -146,6 +147,26 @@
 1. #189 _Hasbullas_ (Clasificatorio)
 1. #243 _Peperators_ (Clasificatorio)
 1. #300 _Pixel Perfect_ (Clasificatorio)
+
+### 2025-2026
+
+1. #56 _Familia Gallegos 5: Old Man Gallegos_ (Regional)
+1. #85 _Three Note Oddity_ (Regional)
+1. #123 _LalinComeHome_ (Clasificatorio)
+1. #295 _Code Merchants_ (Clasificatorio)
+1. #300 _Hackforce_ (Clasificatorio)
+1. #318 _Draivel_ (Clasificatorio)
+1. #327 _Puro BogoSort y Fe_ (Clasificatorio)
+1. #402 _Black Mamba_ (Clasificatorio)
+1. #405 _Patitos_ (Clasificatorio)
+1. #412 _girls.exe_ (Clasificatorio)
+1. #421 _The Assemblers_ (Clasificatorio)
+1. #427 _Las greedy_ (Clasificatorio)
+1. #437 _Las tres mosqueteras_ (Clasificatorio)
+1. #455 _Mavericks_ (Clasificatorio)
+1. #464 _Los Scouts_ (Clasificatorio)
+1. #466 _Segmentation fault_ (Clasificatorio)
+1. #517 _Nesquick_ (Clasificatorio)
 
 
 

@@ -6,12 +6,12 @@
 1. _zorros.asm_ resolvió 1 problemas y obtuvo el lugar #102 (92%) en The 2024 ICPC Mexico Finals
 1. _Haka ITQ_ resolvió 3 problemas y obtuvo el lugar #20 (88%) en The 2009 Mexico & Central America Contest
 1. _Haka - ITQ_ resolvió 3 problemas y obtuvo el lugar #38 (81%) en The 2010 Mexico & Central America Regional Contest
+1. _ariel camacho y los plebes del rancho_ resolvió 2 problemas y obtuvo el lugar #115 (79%) en The 2025 ICPC Mexico Finals
 1. _Haka_ resolvió 2 problemas y obtuvo el lugar #42 (76%) en The 2008 Mexico & Central America Contest
+1. _dba_users_ resolvió 1 problemas y obtuvo el lugar #131 (76%) en The 2025 ICPC Mexico Finals
 1. _Black Fox Army_ resolvió 1 problemas y obtuvo el lugar #38 (75%) en The 2007 ACM Mexico and Central America Programming Contest
 1. _R00T_ resolvió 4 problemas y obtuvo el lugar #201 (71%) en Gran Premio de Mexico 2018
 1. _Zorros Blanco_ resolvió 2 problemas y obtuvo el lugar #36 (69%) en The 2004 ACM Mexico and Central America Programming Contest
-1. _MAlAndros_ resolvió 2 problemas y obtuvo el lugar #59 (64%) en The 2009 Mexico & Central America Contest
-1. _Los 3 reyes magos_ resolvió 1 problemas y obtuvo el lugar #190 (62%) en The 2021 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **26** | **18** | **42** |
+| **Total** | **0** | **0** | **28** | **22** | **46** |
 | [2001-2002](#2001-2002) | 0 | 0 | 3 | 0 | 3 |
 | [2003-2004](#2003-2004) | 0 | 0 | 1 | 0 | 1 |
 | [2004-2005](#2004-2005) | 0 | 0 | 4 | 0 | 4 |
@@ -36,6 +36,7 @@
 | [2020-2021](#2020-2021) | 0 | 0 | 1 | 1 | 1 |
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 2 | 2 |
 | [2024-2025](#2024-2025) | 0 | 0 | 1 | 4 | 4 |
+| [2025-2026](#2025-2026) | 0 | 0 | 2 | 4 | 4 |
 
 ### 2001-2002
 
@@ -126,6 +127,13 @@
 1. #482 (#114 de TecNM) _CD_ (Clasificatorio)
 1. #482 (#114 de TecNM) _cachirules_ (Clasificatorio)
 1. #482 (#114 de TecNM) _Team IA MUNDY_ (Clasificatorio)
+
+### 2025-2026
+
+1. #115 (#21 de TecNM) _ariel camacho y los plebes del rancho_ (Regional)
+1. #131 (#29 de TecNM) _dba_users_ (Regional)
+1. #247 (#51 de TecNM) _Programadores de Papantla_ (Clasificatorio)
+1. #358 (#79 de TecNM) _Lambda Stack_ (Clasificatorio)
 
 
 

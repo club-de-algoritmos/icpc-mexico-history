@@ -2,6 +2,7 @@
 
 ## Mejores 10 equipos
 
+1. _Commit & Conquer_ resolvió 2 problemas y obtuvo el lugar #124 (77%) en The 2025 ICPC Mexico Finals
 1. _ACM amo_ resolvió 4 problemas y obtuvo el lugar #268 (62%) en Gran Premio de Mexico 2020
 1. _UCOL FIME ICI 01_ resolvió 0 problemas y obtuvo el lugar #482 (45%) en The 2024 ICPC Gran Premio de Mexico
 1. _UCOL FIME ICI 02_ resolvió 0 problemas y obtuvo el lugar #482 (44%) en The 2024 ICPC Gran Premio de Mexico
@@ -14,11 +15,12 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **0** | **5** | **5** |
+| **Total** | **0** | **0** | **1** | **5** | **6** |
 | [2018-2019](#2018-2019) | 0 | 0 | 0 | 1 | 1 |
 | [2020-2021](#2020-2021) | 0 | 0 | 0 | 1 | 1 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 1 | 1 |
 | [2024-2025](#2024-2025) | 0 | 0 | 0 | 2 | 2 |
+| [2025-2026](#2025-2026) | 0 | 0 | 1 | 0 | 1 |
 
 ### 2018-2019
 
@@ -36,6 +38,10 @@
 
 1. #482 _UCOL FIME ICI 01_ (Clasificatorio)
 1. #482 _UCOL FIME ICI 02_ (Clasificatorio)
+
+### 2025-2026
+
+1. #124 _Commit & Conquer_ (Regional)
 
 
 

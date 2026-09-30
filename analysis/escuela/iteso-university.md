@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **1** | **62** | **782** | **832** |
+| **Total** | **0** | **1** | **66** | **789** | **839** |
 | [2002-2003](#2002-2003) | 0 | 0 | 5 | 0 | 5 |
 | [2003-2004](#2003-2004) | 0 | 0 | 3 | 0 | 3 |
 | [2004-2005](#2004-2005) | 0 | 0 | 3 | 0 | 3 |
@@ -40,6 +40,7 @@
 | [2022-2023](#2022-2023) | 0 | 0 | 3 | 9 | 11 |
 | [2023-2024](#2023-2024) | 0 | 1 | 0 | 5 | 5 |
 | [2024-2025](#2024-2025) | 0 | 0 | 2 | 93 | 93 |
+| [2025-2026](#2025-2026) | 0 | 0 | 4 | 7 | 7 |
 
 ### 2002-2003
 
@@ -932,6 +933,16 @@
 1. #482 _Otros Datos_ (Clasificatorio)
 1. #482 _Red Squadron Masters_ (Clasificatorio)
 1. #482 _Ingeniebrios - MTLA_ (Clasificatorio)
+
+### 2025-2026
+
+1. #31 _Las ratas de Sareli_ (Regional)
+1. #55 _Byte Me!_ (Regional)
+1. #80 _public class Nombre{  private String name;  Public static void main(String args[]){  Funcion_que_imprime_el_nombre_del_equipo(); }  Public static int Funcion_que_imprime_el_nombre_del_equipo(){  system.out.println("Nombre"); return 0;  }   }_ (Regional)
+1. #103 _Secretarios_ (Regional)
+1. #206 _Ingenieros Mediocres_ (Clasificatorio)
+1. #312 _Main Branch_ (Clasificatorio)
+1. #336 _Papá Pelón_ (Clasificatorio)
 
 
 

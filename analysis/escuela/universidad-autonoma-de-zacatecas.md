@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **31** | **183** | **198** |
+| **Total** | **0** | **0** | **34** | **189** | **204** |
 | [2004-2005](#2004-2005) | 0 | 0 | 3 | 0 | 3 |
 | [2005-2006](#2005-2006) | 0 | 0 | 3 | 0 | 3 |
 | [2006-2007](#2006-2007) | 0 | 0 | 1 | 0 | 1 |
@@ -37,6 +37,7 @@
 | [2022-2023](#2022-2023) | 0 | 0 | 2 | 25 | 25 |
 | [2023-2024](#2023-2024) | 0 | 0 | 1 | 8 | 8 |
 | [2024-2025](#2024-2025) | 0 | 0 | 2 | 18 | 18 |
+| [2025-2026](#2025-2026) | 0 | 0 | 3 | 6 | 6 |
 
 ### 2004-2005
 
@@ -286,6 +287,15 @@
 1. #482 _XSquad_ (Clasificatorio)
 1. #482 _MTM_ (Clasificatorio)
 1. #482 _DDE.cpp_ (Clasificatorio)
+
+### 2025-2026
+
+1. #57 _Hijos DP (Dynamic Programming)_ (Regional)
+1. #68 _Huitlacoche_ (Regional)
+1. #110 _CMonKeys_ (Regional)
+1. #143 _ Binary 011s =＾● ⋏ ●＾=_ (Clasificatorio)
+1. #330 _Los Compiladores_ (Clasificatorio)
+1. #367 _InvalidUsername_ (Clasificatorio)
 
 
 

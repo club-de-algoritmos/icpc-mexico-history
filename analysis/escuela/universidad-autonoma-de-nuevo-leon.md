@@ -22,7 +22,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **3** | **0** | **58** | **107** | **147** |
+| **Total** | **3** | **0** | **61** | **129** | **170** |
 | [2001-2002](#2001-2002) | 0 | 0 | 3 | 0 | 3 |
 | [2002-2003](#2002-2003) | 0 | 0 | 3 | 0 | 3 |
 | [2003-2004](#2003-2004) | 0 | 0 | 3 | 0 | 3 |
@@ -47,6 +47,7 @@
 | [2022-2023](#2022-2023) | 0 | 0 | 2 | 23 | 23 |
 | [2023-2024](#2023-2024) | 0 | 0 | 2 | 14 | 14 |
 | [2024-2025](#2024-2025) | 0 | 0 | 2 | 27 | 27 |
+| [2025-2026](#2025-2026) | 0 | 0 | 3 | 22 | 23 |
 
 ### 2001-2002
 
@@ -269,6 +270,32 @@
 1. #482 _Kappa_ (Clasificatorio)
 1. #482 _Axioma.exe_ (Clasificatorio)
 1. #482 _LCCMonkeys_ (Clasificatorio)
+
+### 2025-2026
+
+1. #26 _No te preocupes mención honorífica también es buen resultado_ (Regional)
+1. #30 _Weakest WA enjoyers_ (Regional)
+1. #72 _Las Hormigas_ (Regional)
+1. #129 _Puro gpt_ (Clasificatorio)
+1. #160 _AsiNomasQuedo.cpp_ (Clasificatorio)
+1. #162 _NULL_ (Clasificatorio)
+1. #213 _AIK Program_ (Clasificatorio)
+1. #232 _Bisontes_ (Clasificatorio)
+1. #270 _JAM64_ (Clasificatorio)
+1. #308 _HDD doesn't respond_ (Clasificatorio)
+1. #317 _BCM_ (Clasificatorio)
+1. #319 _Los Proxies_ (Clasificatorio)
+1. #360 _Las Chicas superpoderosas_ (Clasificatorio)
+1. #377 _LOS AVISPORROS_ (Clasificatorio)
+1. #423 _Los objetos_ (Clasificatorio)
+1. #432 _Index_ (Clasificatorio)
+1. #433 _Lobas_ (Clasificatorio)
+1. #435 _JYTHON_ (Clasificatorio)
+1. #446 _Vibe coders_ (Clasificatorio)
+1. #473 _Alfabuenaonda_ (Clasificatorio)
+1. #509 _MAGNOLIA CREW_ (Clasificatorio)
+1. #514 _Los LCC_ (Clasificatorio)
+1. #529 _The debuggers_ (Clasificatorio)
 
 
 

@@ -10,8 +10,8 @@
 1. _Prietos en aprietos_ resolvió 0 problemas y obtuvo el lugar #482 (44%) en The 2024 ICPC Gran Premio de Mexico
 1. _UPCODERS_ resolvió 0 problemas y obtuvo el lugar #482 (44%) en The 2024 ICPC Gran Premio de Mexico
 1. _Code Void_ resolvió 2 problemas y obtuvo el lugar #292 (35%) en The 2023 ICPC Gran Premio de Mexico
+1. _Abyss Watchers_ resolvió 3 problemas y obtuvo el lugar #348 (33%) en The 2025 ICPC Gran Premio de Mexico
 1. _Javalies 1_ resolvió 0 problemas y obtuvo el lugar #108 (32%) en Gran Premio de Mexico & Centroamerica
-1. _Bit By Bit_ resolvió 0 problemas y obtuvo el lugar #382 (24%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -19,12 +19,13 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **1** | **12** | **13** |
+| **Total** | **0** | **0** | **1** | **15** | **16** |
 | [2013-2014](#2013-2014) | 0 | 0 | 1 | 0 | 1 |
 | [2015-2016](#2015-2016) | 0 | 0 | 0 | 2 | 2 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 2 | 2 |
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 3 | 3 |
 | [2024-2025](#2024-2025) | 0 | 0 | 0 | 5 | 5 |
+| [2025-2026](#2025-2026) | 0 | 0 | 0 | 3 | 3 |
 
 ### 2013-2014
 
@@ -53,6 +54,12 @@
 1. #482 _LOS TRES CIEGOS_ (Clasificatorio)
 1. #482 _Prietos en aprietos_ (Clasificatorio)
 1. #482 _UPCODERS_ (Clasificatorio)
+
+### 2025-2026
+
+1. #348 _Abyss Watchers_ (Clasificatorio)
+1. #451 _ITIanos_ (Clasificatorio)
+1. #470 _CodeUP_ (Clasificatorio)
 
 
 

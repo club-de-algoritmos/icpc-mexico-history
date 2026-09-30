@@ -8,10 +8,10 @@
 1. _BrUwUs_ resolvió 3 problemas y obtuvo el lugar #35 (95%) en The 2020 ICPC Mexico Finals
 1. _make sandwich_ resolvió 3 problemas y obtuvo el lugar #30 (94%) en The 2016 ACM-ICPC Mexico and Central America Finals
 1. _M3_ resolvió 3 problemas y obtuvo el lugar #32 (94%) en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _Los 3Debuggers_ resolvió 3 problemas y obtuvo el lugar #35 (94%) en The 2025 ICPC Mexico Finals
 1. _ITCCM_ resolvió 4 problemas y obtuvo el lugar #12 (93%) en The 2009 Mexico & Central America Contest
 1. _LTMCCM_ resolvió 2 problemas y obtuvo el lugar #83 (93%) en The 2024 ICPC Mexico Finals
 1. _The Screens_ resolvió 1 problemas y obtuvo el lugar #60 (91%) en The 2017 ACM-ICPC Mexico and Central America Finals
-1. _Elite Penguin Force_ resolvió 6 problemas y obtuvo el lugar #120 (90%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **20** | **31** | **42** |
+| **Total** | **0** | **0** | **22** | **38** | **49** |
 | [2009-2010](#2009-2010) | 0 | 0 | 3 | 0 | 3 |
 | [2010-2011](#2010-2011) | 0 | 0 | 3 | 0 | 3 |
 | [2011-2012](#2011-2012) | 0 | 0 | 3 | 0 | 3 |
@@ -33,6 +33,7 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 1 | 1 |
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 2 | 2 |
 | [2024-2025](#2024-2025) | 0 | 0 | 2 | 7 | 7 |
+| [2025-2026](#2025-2026) | 0 | 0 | 2 | 7 | 7 |
 
 ### 2009-2010
 
@@ -114,6 +115,16 @@
 1. #482 (#69 de ITESM) _PayloadersCCM_ (Clasificatorio)
 1. #482 (#69 de ITESM) _Borregos 200_ (Clasificatorio)
 1. #482 (#69 de ITESM) _Logarithmus_ (Clasificatorio)
+
+### 2025-2026
+
+1. #35 (#5 de ITESM) _Los 3Debuggers_ (Regional)
+1. #112 (#15 de ITESM) _Payloaders CCM_ (Regional)
+1. #207 (#23 de ITESM) _TwoFors_ (Clasificatorio)
+1. #406 (#43 de ITESM) _Codex9642_ (Clasificatorio)
+1. #424 (#49 de ITESM) _While True: Win()_ (Clasificatorio)
+1. #428 (#50 de ITESM) _Bombordino_ (Clasificatorio)
+1. #468 (#55 de ITESM) _Gauss-Jordan_ (Clasificatorio)
 
 
 

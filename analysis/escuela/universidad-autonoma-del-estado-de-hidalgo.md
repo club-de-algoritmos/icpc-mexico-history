@@ -4,14 +4,14 @@
 
 1. _A poco sí muy AC?_ resolvió 4 problemas y obtuvo el lugar #43 (97%) en The 2024 ICPC Mexico Finals
 1. _CRIGED.PY_ resolvió 1 problemas y obtuvo el lugar #47 (96%) en The 2022 ICPC Mexico Finals
+1. _Heavenly Capybaras Eat Empanadas_ resolvió 3 problemas y obtuvo el lugar #28 (95%) en The 2025 ICPC Mexico Finals
 1. _CRIGED.PY_ resolvió 3 problemas y obtuvo el lugar #28 (94%) en The 2023 ICPC Mexico Finals
+1. _La Espiroqueta de la Chafaldrana_ resolvió 3 problemas y obtuvo el lugar #40 (93%) en The 2025 ICPC Mexico Finals
 1. _Dos tequilas y un mojito_ resolvió 2 problemas y obtuvo el lugar #84 (93%) en The 2024 ICPC Mexico Finals
 1. _Los shabOS_ resolvió 1 problemas y obtuvo el lugar #91 (93%) en The 2024 ICPC Mexico Finals
+1. _Dos tequilas y un mojito_ resolvió 2 problemas y obtuvo el lugar #52 (91%) en The 2025 ICPC Mexico Finals
 1. _CTRL2_ resolvió 5 problemas y obtuvo el lugar #132 (87%) en The 2022 ICPC Gran Premio de Mexico
 1. _Chat GNA_ resolvió 6 problemas y obtuvo el lugar #160 (85%) en The 2024 ICPC Gran Premio de Mexico
-1. _Byte the Dust_ resolvió 6 problemas y obtuvo el lugar #188 (83%) en The 2024 ICPC Gran Premio de Mexico
-1. _Mavericks_ resolvió 3 problemas y obtuvo el lugar #204 (80%) en The 2022 ICPC Gran Premio de Mexico
-1. _Código a Vapor_ resolvió 3 problemas y obtuvo el lugar #219 (79%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -19,13 +19,14 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **5** | **35** | **35** |
+| **Total** | **0** | **0** | **8** | **50** | **50** |
 | [2014-2015](#2014-2015) | 0 | 0 | 0 | 1 | 1 |
 | [2015-2016](#2015-2016) | 0 | 0 | 0 | 1 | 1 |
 | [2017-2018](#2017-2018) | 0 | 0 | 0 | 1 | 1 |
 | [2022-2023](#2022-2023) | 0 | 0 | 1 | 4 | 4 |
 | [2023-2024](#2023-2024) | 0 | 0 | 1 | 13 | 13 |
 | [2024-2025](#2024-2025) | 0 | 0 | 3 | 15 | 15 |
+| [2025-2026](#2025-2026) | 0 | 0 | 3 | 15 | 15 |
 
 ### 2014-2015
 
@@ -79,6 +80,24 @@
 1. #482 _Byte Squad_ (Clasificatorio)
 1. #482 _Bellakitos pop_ (Clasificatorio)
 1. #482 _Beer Code_ (Clasificatorio)
+
+### 2025-2026
+
+1. #28 _Heavenly Capybaras Eat Empanadas_ (Regional)
+1. #40 _La Espiroqueta de la Chafaldrana_ (Regional)
+1. #52 _Dos tequilas y un mojito_ (Regional)
+1. #119 _AC por Remontada_ (Clasificatorio)
+1. #141 _Por si las flies_ (Clasificatorio)
+1. #214 _Llamen a Dios_ (Clasificatorio)
+1. #230 _ESLODEMENOS_ (Clasificatorio)
+1. #246 _TryCatchUs_ (Clasificatorio)
+1. #254 _Tralalero Tralala_ (Clasificatorio)
+1. #273 _Punto y coma_ (Clasificatorio)
+1. #294 _Paste en bolillo_ (Clasificatorio)
+1. #309 _TLE (tres lindas excepciones)_ (Clasificatorio)
+1. #438 _BBOTES_ (Clasificatorio)
+1. #445 _bot_team123_ (Clasificatorio)
+1. #452 _Ajolotes Esqueléticos_ (Clasificatorio)
 
 
 

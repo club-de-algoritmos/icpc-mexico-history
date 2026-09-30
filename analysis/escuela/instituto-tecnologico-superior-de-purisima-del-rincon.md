@@ -3,6 +3,7 @@
 ## Mejores 10 equipos
 
 1. _Nameless.cpp_ resolvió 1 problemas y obtuvo el lugar #96 (92%) en The 2024 ICPC Mexico Finals
+1. _Nameless Exception_ resolvió 2 problemas y obtuvo el lugar #67 (88%) en The 2025 ICPC Mexico Finals
 1. _Peaky Blinders_ resolvió 6 problemas y obtuvo el lugar #158 (85%) en The 2024 ICPC Gran Premio de Mexico
 1. _3 Bits_ resolvió 3 problemas y obtuvo el lugar #310 (74%) en The 2024 ICPC Gran Premio de Mexico
 1. _Nameless.jar_ resolvió 5 problemas y obtuvo el lugar #118 (73%) en The 2023 ICPC Gran Premio de Mexico
@@ -11,7 +12,6 @@
 1. _Alpha Coders_ resolvió 0 problemas y obtuvo el lugar #482 (59%) en The 2024 ICPC Gran Premio de Mexico
 1. _Como sea xD_ resolvió 0 problemas y obtuvo el lugar #482 (59%) en The 2024 ICPC Gran Premio de Mexico
 1. _Black Wolf_ resolvió 4 problemas y obtuvo el lugar #188 (58%) en The 2023 ICPC Gran Premio de Mexico
-1. _3 Bits_ resolvió 3 problemas y obtuvo el lugar #218 (51%) en The 2023 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -19,13 +19,14 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **1** | **33** | **33** |
+| **Total** | **0** | **0** | **2** | **37** | **37** |
 | [2019-2020](#2019-2020) | 0 | 0 | 0 | 2 | 2 |
 | [2020-2021](#2020-2021) | 0 | 0 | 0 | 7 | 7 |
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 1 | 1 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 5 | 5 |
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 5 | 5 |
 | [2024-2025](#2024-2025) | 0 | 0 | 1 | 13 | 13 |
+| [2025-2026](#2025-2026) | 0 | 0 | 1 | 4 | 4 |
 
 ### 2019-2020
 
@@ -77,6 +78,13 @@
 1. #482 (#114 de TecNM) _Nova_ (Clasificatorio)
 1. #482 (#114 de TecNM) _Shogun Syntax Ninjas_ (Clasificatorio)
 1. #482 (#114 de TecNM) _Código locura_ (Clasificatorio)
+
+### 2025-2026
+
+1. #67 (#11 de TecNM) _Nameless Exception_ (Regional)
+1. #340 (#72 de TecNM) _The querubines++_ (Clasificatorio)
+1. #411 (#93 de TecNM) _Trojan.exe_ (Clasificatorio)
+1. #500 (#125 de TecNM) _Error 404 ITSPR_ (Clasificatorio)
 
 
 

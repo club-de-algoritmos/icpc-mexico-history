@@ -11,11 +11,11 @@
 1. _U de G ACM Problem Solvers_ resolvió 6 problemas y obtuvo el lugar #1 (100%) en The 2007 ACM Mexico and Central America Programming Contest
     - Avanzó a la final mundial y resolvió 2 problemas y obtuvo el lugar #65 (35%) en The 2008 ACM Programming Contest World Finals
 1. _Motomomis_ resolvió 5 problemas y obtuvo el lugar #5 (100%) en The 2024 ICPC Mexico Finals
+1. _Find(Nim Mo);_ resolvió 6 problemas y obtuvo el lugar #6 (99%) en The 2025 ICPC Mexico Finals
 1. _Ma+aLeones7000_ resolvió 4 problemas y obtuvo el lugar #10 (99%) en The 2022 ICPC Mexico Finals
 1. _Leones(0,0,0);_ resolvió 4 problemas y obtuvo el lugar #17 (99%) en The 2019 ICPC Mexico Finals
 1. _DeltaWing_ resolvió 5 problemas y obtuvo el lugar #10 (98%) en The 2023 ICPC Mexico Finals
 1. _The Empire Strikes Back_ resolvió 4 problemas y obtuvo el lugar #14 (98%) en The 2020 ICPC Mexico Finals
-1. _Los Mismísimos Carajillos_ resolvió 4 problemas y obtuvo el lugar #17 (98%) en The 2022 ICPC Mexico Finals
 
 ## Participaciones
 
@@ -23,7 +23,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **4** | **0** | **77** | **181** | **234** |
+| **Total** | **4** | **2** | **82** | **200** | **254** |
 | [2002-2003](#2002-2003) | 0 | 0 | 2 | 0 | 2 |
 | [2003-2004](#2003-2004) | 0 | 0 | 5 | 0 | 5 |
 | [2004-2005](#2004-2005) | 0 | 0 | 8 | 0 | 8 |
@@ -46,7 +46,8 @@
 | [2021-2022](#2021-2022) | 1 | 0 | 3 | 7 | 7 |
 | [2022-2023](#2022-2023) | 1 | 0 | 5 | 26 | 26 |
 | [2023-2024](#2023-2024) | 0 | 0 | 3 | 19 | 19 |
-| [2024-2025](#2024-2025) | 0 | 0 | 3 | 39 | 39 |
+| [2024-2025](#2024-2025) | 0 | 1 | 3 | 39 | 39 |
+| [2025-2026](#2025-2026) | 0 | 1 | 5 | 19 | 20 |
 
 ### 2002-2003
 
@@ -354,6 +355,29 @@
 1. #482 _Not BBC_ (Clasificatorio)
 1. #482 _SkibidiPapus_ (Clasificatorio)
 1. #482 _Codigos Tumbados_ (Clasificatorio)
+
+### 2025-2026
+
+1. #6 _Find(Nim Mo);_ (Regional)
+1. #42 _Paletería la Michoacana_ (Regional)
+1. #79 _Adictos al Div 4_ (Regional)
+1. #99 _f(tenten)_ (Regional)
+1. #129 _CUCEI Extreme_ (Regional)
+1. #113 _");Drop table equipos;--_ (Clasificatorio)
+1. #169 _SyntaxSquad_ (Clasificatorio)
+1. #175 _Cross Edge_ (Clasificatorio)
+1. #176 _Bombardiros Crocodilos_ (Clasificatorio)
+1. #177 _Faith Limit Exceeded_ (Clasificatorio)
+1. #202 _Compuchidos_ (Clasificatorio)
+1. #208 _DebugMe!_ (Clasificatorio)
+1. #218 _AlphaCentaury_ (Clasificatorio)
+1. #285 _Los deudores de conocimiento_ (Clasificatorio)
+1. #304 _Cmascafe_ (Clasificatorio)
+1. #379 _Equipo Alfa Buena Maravilla Onda Dinamita Escuadron Lobo_ (Clasificatorio)
+1. #417 _il vento d'oro_ (Clasificatorio)
+1. #508 _Programa puercos_ (Clasificatorio)
+1. #524 _Compilaton Error AhhMoment_ (Clasificatorio)
+1. #525 _iLabTDI_ (Clasificatorio)
 
 
 

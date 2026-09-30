@@ -9,9 +9,9 @@
 1. _Linx Celaya_ resolvió 8 problemas y obtuvo el lugar #65 (86%) en Gran Premio de Mexico 2018
 1. _Bits_ resolvió 5 problemas y obtuvo el lugar #145 (86%) en The 2022 ICPC Gran Premio de Mexico
 1. _bichos_ resolvió 2 problemas y obtuvo el lugar #16 (82%) en The 2001 ACM Mexico and Central America Programming Contest
+1. _LinxBits_ resolvió 2 problemas y obtuvo el lugar #101 (81%) en The 2025 ICPC Mexico Finals
 1. _FrameWork 3.0_ resolvió 5 problemas y obtuvo el lugar #106 (76%) en The 2023 ICPC Gran Premio de Mexico
 1. _MachoSoft_ resolvió 1 problemas y obtuvo el lugar #23 (73%) en The 2001 ACM Mexico and Central America Programming Contest
-1. _omegaUp-ITC_ resolvió 5 problemas y obtuvo el lugar #274 (58%) en Gran Premio de Mexico & Centroamerica 2017
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **16** | **19** | **35** |
+| **Total** | **0** | **0** | **17** | **25** | **41** |
 | [2001-2002](#2001-2002) | 0 | 0 | 2 | 0 | 2 |
 | [2003-2004](#2003-2004) | 0 | 0 | 2 | 0 | 2 |
 | [2004-2005](#2004-2005) | 0 | 0 | 2 | 0 | 2 |
@@ -33,6 +33,7 @@
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 6 | 6 |
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 5 | 5 |
 | [2024-2025](#2024-2025) | 0 | 0 | 0 | 1 | 1 |
+| [2025-2026](#2025-2026) | 0 | 0 | 1 | 6 | 6 |
 
 ### 2001-2002
 
@@ -107,6 +108,15 @@
 ### 2024-2025
 
 1. #482 (#114 de TecNM) _Lamda_ (Clasificatorio)
+
+### 2025-2026
+
+1. #101 (#17 de TecNM) _LinxBits_ (Regional)
+1. #187 (#35 de TecNM) _Horchata_ (Clasificatorio)
+1. #227 (#47 de TecNM) _MiniCharalitos_ (Clasificatorio)
+1. #345 (#74 de TecNM) _chatGPLinxs_ (Clasificatorio)
+1. #376 (#86 de TecNM) _Symphonica_ (Clasificatorio)
+1. #444 (#101 de TecNM) _Mosqueros_ (Clasificatorio)
 
 
 

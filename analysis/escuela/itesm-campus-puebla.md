@@ -20,7 +20,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **1** | **0** | **24** | **67** | **79** |
+| **Total** | **1** | **0** | **27** | **76** | **88** |
 | [2008-2009](#2008-2009) | 0 | 0 | 3 | 0 | 3 |
 | [2010-2011](#2010-2011) | 0 | 0 | 6 | 0 | 6 |
 | [2011-2012](#2011-2012) | 1 | 0 | 2 | 0 | 2 |
@@ -36,6 +36,7 @@
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 8 | 8 |
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 2 | 2 |
 | [2024-2025](#2024-2025) | 0 | 0 | 2 | 10 | 10 |
+| [2025-2026](#2025-2026) | 0 | 0 | 3 | 9 | 9 |
 
 ### 2008-2009
 
@@ -161,6 +162,18 @@
 1. #482 (#69 de ITESM) _Roblos_ (Clasificatorio)
 1. #482 (#69 de ITESM) _Permanganato de potasio_ (Clasificatorio)
 1. #482 (#69 de ITESM) _W++_ (Clasificatorio)
+
+### 2025-2026
+
+1. #41 (#7 de ITESM) _Permanganato de Potasio_ (Regional)
+1. #43 (#8 de ITESM) _DDoSAttack_ (Regional)
+1. #107 (#14 de ITESM) _NPCs_ (Regional)
+1. #203 (#22 de ITESM) _Kairos_ (Clasificatorio)
+1. #241 (#24 de ITESM) _SharkByte_ (Clasificatorio)
+1. #276 (#29 de ITESM) _Cheddarini_ (Clasificatorio)
+1. #346 (#38 de ITESM) _infinite_loops_ (Clasificatorio)
+1. #387 (#40 de ITESM) _DevsInDev_ (Clasificatorio)
+1. #443 (#53 de ITESM) _Chilaquiles ++_ (Clasificatorio)
 
 
 

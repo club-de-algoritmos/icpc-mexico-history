@@ -64,3 +64,9 @@ year,date,type,url_id,name,id,comments
 2023,2024-09-15,world,World-Finals-2024,The 48th Annual World Finals of the International Collegiate Programming Contest,7445,
 2024,2024-04-20,gran_premio,mcapgp-2025,The 2024 ICPC Gran Premio de Mexico,8956,
 2024,2024-11-08,regional,Mexico-2025,The 2024 ICPC Mexico Finals,8953,
+2024,2025-03-12,championship,Latin-America-Champ-2025,The 2025 ICPC Latin America Championship,8940,
+2024,2025-08-31,world,World-Finals-2025,49th Annual World Finals of the International Collegiate Programming Contest,8732,
+2025,2025-04-24,gran_premio,mcapgp-2026,The 2025 ICPC Gran Premio de Mexico,9410,
+2025,2025-11-07,regional,Mexico-2026,The 2025 ICPC Mexico Finals,9409,
+2025,2026-03-04,championship,Latin-America-Champ-2026,The 2026 ICPC Latin America Championship,9400,
+2025,TBD,world,World-Finals-2026,50th Annual World Finals of the International Collegiate Programming Contest,9150,TBD

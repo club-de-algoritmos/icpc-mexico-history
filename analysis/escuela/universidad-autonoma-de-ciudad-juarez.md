@@ -8,10 +8,10 @@
 1. _Codesnatchers_ resolvió 3 problemas y obtuvo el lugar #75 (94%) en The 2024 ICPC Mexico Finals
 1. _AlgoTeam_ resolvió 1 problemas y obtuvo el lugar #40 (92%) en The 2021 ICPC Mexico Finals
 1. _Ctrl alt del_ resolvió 5 problemas y obtuvo el lugar #160 (84%) en The 2022 ICPC Gran Premio de Mexico
+1. _Código endiablado_ resolvió 2 problemas y obtuvo el lugar #92 (83%) en The 2025 ICPC Mexico Finals
 1. _Hard Coders_ resolvió 10 problemas y obtuvo el lugar #113 (83%) en Gran Premio de Mexico 2020
+1. _Codesnatchers_ resolvió 2 problemas y obtuvo el lugar #105 (81%) en The 2025 ICPC Mexico Finals
 1. _WINDIIT_ resolvió 5 problemas y obtuvo el lugar #190 (73%) en Gran Premio de Mexico 2020
-1. _Rajas con Queso_ resolvió 2 problemas y obtuvo el lugar #296 (72%) en The 2022 ICPC Gran Premio de Mexico
-1. _Absolut_ resolvió 2 problemas y obtuvo el lugar #332 (72%) en The 2024 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **5** | **20** | **20** |
+| **Total** | **0** | **0** | **7** | **22** | **22** |
 | [2018-2019](#2018-2019) | 0 | 0 | 0 | 2 | 2 |
 | [2019-2020](#2019-2020) | 0 | 0 | 0 | 1 | 1 |
 | [2020-2021](#2020-2021) | 0 | 0 | 0 | 4 | 4 |
@@ -27,6 +27,7 @@
 | [2022-2023](#2022-2023) | 0 | 0 | 1 | 5 | 5 |
 | [2023-2024](#2023-2024) | 0 | 0 | 1 | 3 | 3 |
 | [2024-2025](#2024-2025) | 0 | 0 | 2 | 4 | 4 |
+| [2025-2026](#2025-2026) | 0 | 0 | 2 | 2 | 2 |
 
 ### 2018-2019
 
@@ -68,6 +69,11 @@
 1. #75 _Codesnatchers_ (Regional)
 1. #332 _Absolut_ (Clasificatorio)
 1. #482 _los nobara_ (Clasificatorio)
+
+### 2025-2026
+
+1. #92 _Código endiablado_ (Regional)
+1. #105 _Codesnatchers_ (Regional)
 
 
 

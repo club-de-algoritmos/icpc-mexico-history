@@ -8,10 +8,10 @@
 1. _Compitiendo desde los Separos_ resolvió 2 problemas y obtuvo el lugar #89 (93%) en The 2024 ICPC Mexico Finals
 1. _Los pininos_ resolvió 1 problemas y obtuvo el lugar #42 (92%) en The 2021 ICPC Mexico Finals
 1. _Void guys_ resolvió 1 problemas y obtuvo el lugar #43 (92%) en The 2021 ICPC Mexico Finals
+1. _Súbelo!!!, se compila en el Juez (Los originales)_ resolvió 2 problemas y obtuvo el lugar #48 (91%) en The 2025 ICPC Mexico Finals
 1. _BFFs(Brute Force Friends)<3_ resolvió 7 problemas y obtuvo el lugar #83 (91%) en The 2022 ICPC Gran Premio de Mexico
 1. _Nahuales del Mictlán_ resolvió 1 problemas y obtuvo el lugar #53 (88%) en The 2023 ICPC Mexico Finals
 1. _MME++.py_ resolvió 3 problemas y obtuvo el lugar #76 (83%) en The 2021 ICPC Gran Premio de Mexico
-1. _BFFs (Brute Force Friends) < 3_ resolvió 3 problemas y obtuvo el lugar #90 (81%) en The 2021 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -19,12 +19,13 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **7** | **23** | **23** |
+| **Total** | **0** | **0** | **8** | **34** | **34** |
 | [2020-2021](#2020-2021) | 0 | 0 | 2 | 3 | 3 |
 | [2021-2022](#2021-2022) | 0 | 0 | 2 | 6 | 6 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 3 | 3 |
 | [2023-2024](#2023-2024) | 0 | 0 | 1 | 4 | 4 |
 | [2024-2025](#2024-2025) | 0 | 0 | 2 | 7 | 7 |
+| [2025-2026](#2025-2026) | 0 | 0 | 1 | 11 | 11 |
 
 ### 2020-2021
 
@@ -63,6 +64,20 @@
 1. #348 _Tlayudas gentrificadas_ (Clasificatorio)
 1. #380 _Las ++Malotas_ (Clasificatorio)
 1. #389 _Un verdadero hombre no insulta a López Obrador_ (Clasificatorio)
+
+### 2025-2026
+
+1. #48 _Súbelo!!!, se compila en el Juez (Los originales)_ (Regional)
+1. #181 _Tlayudas El Güero_ (Clasificatorio)
+1. #184 _Compitiendo desde los separos_ (Clasificatorio)
+1. #239 _LadyBoys UwU_ (Clasificatorio)
+1. #256 _0xFFFFFF Eyed Peas_ (Clasificatorio)
+1. #302 _Galois' Power_ (Clasificatorio)
+1. #305 _Mañana si vienen los buenos_ (Clasificatorio)
+1. #321 _Los Migueles_ (Clasificatorio)
+1. #362 _Gain Eagers_ (Clasificatorio)
+1. #522 _Chiles Poblanos Con Pibil_ (Clasificatorio)
+1. #523 _Café Cargado_ (Clasificatorio)
 
 
 

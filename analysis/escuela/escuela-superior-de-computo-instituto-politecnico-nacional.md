@@ -18,7 +18,7 @@
     - Avanzó a la final mundial y resolvió 3 problemas y obtuvo el lugar #96 (25%) en 39th Annual World Finals of the ACM International Collegiate Programming Contest
 1. _Escoders_ resolvió 5 problemas y obtuvo el lugar #1 (100%) en The 2012 Mexico & Central America Regional Contest
     - Avanzó a la final mundial y resolvió 1 problemas y obtuvo el lugar #94 (21%) en 37th Annual World Finals of the ACM International Collegiate Programming Contest
-1. _Enchiladas con patas_ resolvió 6 problemas y obtuvo el lugar #1 (100%) en The 2024 ICPC Mexico Finals
+1. _hmmmmmmmmm?_ resolvió 6 problemas y obtuvo el lugar #5 (99%) en The 2025 ICPC Mexico Finals
 1. _No se nos ocurrio un nombre_ resolvió 6 problemas y obtuvo el lugar #2 (100%) en The 2024 ICPC Mexico Finals
 
 ## Participaciones
@@ -27,7 +27,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **8** | **0** | **73** | **203** | **238** |
+| **Total** | **8** | **3** | **79** | **224** | **259** |
 | [2001-2002](#2001-2002) | 0 | 0 | 2 | 0 | 2 |
 | [2002-2003](#2002-2003) | 0 | 0 | 2 | 0 | 2 |
 | [2003-2004](#2003-2004) | 0 | 0 | 1 | 0 | 1 |
@@ -50,7 +50,8 @@
 | [2021-2022](#2021-2022) | 1 | 0 | 5 | 11 | 12 |
 | [2022-2023](#2022-2023) | 1 | 0 | 5 | 27 | 27 |
 | [2023-2024](#2023-2024) | 0 | 0 | 3 | 28 | 28 |
-| [2024-2025](#2024-2025) | 0 | 0 | 5 | 27 | 27 |
+| [2024-2025](#2024-2025) | 0 | 2 | 5 | 27 | 27 |
+| [2025-2026](#2025-2026) | 0 | 1 | 6 | 21 | 21 |
 
 ### 2001-2002
 
@@ -339,8 +340,8 @@
 
 ### 2024-2025
 
-1. #1 _Enchiladas con patas_ (Regional)
 1. #2 _No se nos ocurrio un nombre_ (Regional)
+1. #1 _Enchiladas con patas_ (Regional)
 1. #9 _Testigos de Galois_ (Regional)
 1. #23 _Nos robamos a Miguel_ (Regional)
 1. #39 _Taquitos de pastor_ (Clasificatorio)
@@ -366,6 +367,30 @@
 1. #408 _tilines_ (Clasificatorio)
 1. #482 _DP (DosdePastor)_ (Clasificatorio)
 1. #482 _Wacales_ (Clasificatorio)
+
+### 2025-2026
+
+1. #5 _hmmmmmmmmm?_ (Regional)
+1. #11 _Los vengadores de Galois_ (Regional)
+1. #34 _Code for a Dream and Debug the Life_ (Regional)
+1. #36 _Tijuana Liga Emeequis (TLE) _ (Regional)
+1. #39 _Chimpancini Bananini_ (Regional)
+1. #61 _O(A²+V)_ (Regional)
+1. #94 _Ajolotetos_ (Clasificatorio)
+1. #96 _Equipo dedos_ (Clasificatorio)
+1. #121 _Picafresas: La Revancha_ (Clasificatorio)
+1. #142 _una linea a la vez_ (Clasificatorio)
+1. #185 _Martes de Tacos _ (Clasificatorio)
+1. #205 _Black Flash_ (Clasificatorio)
+1. #237 _exit(1)_ (Clasificatorio)
+1. #271 _Casi Compila_ (Clasificatorio)
+1. #298 _Moras Azules _ (Clasificatorio)
+1. #313 _Códigos Tumbados _ (Clasificatorio)
+1. #342 _Return1_ (Clasificatorio)
+1. #366 _Las Ardillas del Son _ (Clasificatorio)
+1. #434 _Anémonas Anónimas_ (Clasificatorio)
+1. #456 _LHDC_ (Clasificatorio)
+1. #507 _Brain Limit Exceeded_ (Clasificatorio)
 
 
 

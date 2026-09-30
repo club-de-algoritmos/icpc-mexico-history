@@ -346,11 +346,27 @@
     "is_eligible": true
   },
   {
+    "name": "Facultad de Estudios Superiores Cuautitlán - UNAM",
+    "alt_names": [],
+    "community": null,
+    "country": "mexico",
+    "state": null,
+    "is_eligible": true
+  },
+  {
     "name": "Facultad de Informática Mazatlán UAS",
     "alt_names": [],
     "community": null,
     "country": "mexico",
     "state": "sinaloa",
+    "is_eligible": true
+  },
+  {
+    "name": "Facultad de Ingenieria - Universidad Nacional Autónoma de México",
+    "alt_names": [],
+    "community": null,
+    "country": "mexico",
+    "state": null,
     "is_eligible": true
   },
   {
@@ -2453,6 +2469,14 @@
     "is_eligible": true
   },
   {
+    "name": "Universidad Anáhuac México",
+    "alt_names": [],
+    "community": null,
+    "country": "mexico",
+    "state": null,
+    "is_eligible": true
+  },
+  {
     "name": "Universidad Anáhuac Querétaro",
     "alt_names": [],
     "community": null,
@@ -3242,6 +3266,14 @@
     "is_eligible": true
   },
   {
+    "name": "Universidad Interamericana para el Desarrollo Campus Guadalajara",
+    "alt_names": [],
+    "community": null,
+    "country": "mexico",
+    "state": null,
+    "is_eligible": true
+  },
+  {
     "name": "Universidad Interamericana para el Desarrollo, Sede Saltillo",
     "alt_names": [],
     "community": null,
@@ -3475,6 +3507,14 @@
   },
   {
     "name": "Universidad Politécnica de Quintana Roo",
+    "alt_names": [],
+    "community": null,
+    "country": "mexico",
+    "state": null,
+    "is_eligible": true
+  },
+  {
+    "name": "Universidad Politécnica de San Luis Potosi",
     "alt_names": [],
     "community": null,
     "country": "mexico",

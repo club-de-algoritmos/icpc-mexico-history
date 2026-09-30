@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **26** | **92** | **116** |
+| **Total** | **0** | **0** | **26** | **97** | **121** |
 | [2005-2006](#2005-2006) | 0 | 0 | 3 | 0 | 3 |
 | [2007-2008](#2007-2008) | 0 | 0 | 3 | 0 | 3 |
 | [2008-2009](#2008-2009) | 0 | 0 | 3 | 0 | 3 |
@@ -39,6 +39,7 @@
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 13 | 13 |
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 7 | 7 |
 | [2024-2025](#2024-2025) | 0 | 0 | 0 | 19 | 19 |
+| [2025-2026](#2025-2026) | 0 | 0 | 0 | 5 | 5 |
 
 ### 2005-2006
 
@@ -212,6 +213,14 @@
 1. #481 (#113 de TecNM) _Flecha_ (Clasificatorio)
 1. #482 (#114 de TecNM) _The Paragonsitos_ (Clasificatorio)
 1. #482 (#114 de TecNM) _ALGAmigos_ (Clasificatorio)
+
+### 2025-2026
+
+1. #370 (#83 de TecNM) _Los Tec-nocrátas_ (Clasificatorio)
+1. #383 (#88 de TecNM) _CodeTec_ (Clasificatorio)
+1. #449 (#102 de TecNM) _Code Masters_ (Clasificatorio)
+1. #472 (#110 de TecNM) _Pragma_ (Clasificatorio)
+1. #495 (#122 de TecNM) _Strix_ (Clasificatorio)
 
 
 

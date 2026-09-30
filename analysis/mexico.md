@@ -239,7 +239,7 @@ The 48th Annual World Finals of the International Collegiate Programming Contest
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos | Escuelas |
 | --- | --- | --- | --- | --- | --- | --- |
-| **Total** | **76** | **18** | **2567** | **8085** | **9864** | **387** |
+| **Total** | **76** | **18** | **2567** | **8085** | **9864** | **386** |
 | [1996-1997](#1996-1997) | 1 | 0 | 0 | 0 | 1 | 1 |
 | [1997-1998](#1997-1998) | 1 | 0 | 0 | 0 | 1 | 1 |
 | [1998-1999](#1998-1999) | 3 | 0 | 0 | 0 | 3 | 3 |
@@ -288,8 +288,8 @@ The 48th Annual World Finals of the International Collegiate Programming Contest
 | 9 | [Universidad Autónoma de Yucatán](escuela/universidad-autonoma-de-yucatan) | 1 | 1 | 10 | 50 | 50 |
 | 10 | [Universidad Autónoma de Nuevo Leon](escuela/universidad-autonoma-de-nuevo-leon) | 1 | 0 | 13 | 108 | 109 |
 | 11 | [Universidad Panamericana Campus Guadalajara](escuela/universidad-panamericana-campus-guadalajara) | 0 | 1 | 11 | 64 | 64 |
-| 12 | [ITESO University](escuela/iteso-university) | 0 | 1 | 9 | 121 | 123 |
-| 13 | [Facultad de Ingenieria - Universidad Nacional Autónoma de México](escuela/facultad-de-ingenieria-universidad-nacional-autonoma-de-mexico) | 0 | 1 | 4 | 17 | 17 |
+| 12 | [Facultad de Ingenieria - Universidad Nacional Autónoma de México](escuela/facultad-de-ingenieria-universidad-nacional-autonoma-de-mexico) | 0 | 1 | 11 | 51 | 51 |
+| 13 | [ITESO University](escuela/iteso-university) | 0 | 1 | 9 | 121 | 123 |
 
 ### Histórico
 
@@ -319,7 +319,7 @@ The 48th Annual World Finals of the International Collegiate Programming Contest
 | 22 | [Universidad Juárez Autónoma de Tabasco](escuela/universidad-juarez-autonoma-de-tabasco) | 1 | 0 | 0 | 0 | 1 |
 | 23 | [ITESO University](escuela/iteso-university) | 0 | 1 | 66 | 789 | 839 |
 | 24 | [Universidad Panamericana Campus Guadalajara](escuela/universidad-panamericana-campus-guadalajara) | 0 | 1 | 11 | 72 | 72 |
-| 25 | [Facultad de Ingenieria - Universidad Nacional Autónoma de México](escuela/facultad-de-ingenieria-universidad-nacional-autonoma-de-mexico) | 0 | 1 | 4 | 17 | 17 |
+| 25 | [Facultad de Ingenieria - Universidad Nacional Autónoma de México](escuela/facultad-de-ingenieria-universidad-nacional-autonoma-de-mexico) | 0 | 1 | 11 | 51 | 51 |
 
 
 

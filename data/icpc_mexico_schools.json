@@ -363,15 +363,9 @@
   },
   {
     "name": "Facultad de Ingenieria - Universidad Nacional Autónoma de México",
-    "alt_names": [],
-    "community": null,
-    "country": "mexico",
-    "state": null,
-    "is_eligible": true
-  },
-  {
-    "name": "Facultad de Ingenieria-Universidad Nacional Autónoma de México",
-    "alt_names": [],
+    "alt_names": [
+      "Facultad de Ingenieria-Universidad Nacional Autónoma de México"
+    ],
     "community": null,
     "country": "mexico",
     "state": null,

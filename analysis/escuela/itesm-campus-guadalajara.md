@@ -9,10 +9,10 @@
 1. _Keyboard Warriors_ resolvió 4 problemas y obtuvo el lugar #27 (98%) en The 2024 ICPC Mexico Finals
 1. _Borregos(0,0,0);_ resolvió 4 problemas y obtuvo el lugar #30 (98%) en The 2024 ICPC Mexico Finals
 1. _Carlit-OS_ resolvió 4 problemas y obtuvo el lugar #10 (95%) en The 2008 Mexico & Central America Contest
+1. _Me puse bien treap cuando fui al puntero_ resolvió 3 problemas y obtuvo el lugar #27 (95%) en The 2025 ICPC Mexico Finals
 1. _Tec GDL 10_ resolvió 3 problemas y obtuvo el lugar #34 (95%) en The 2020 ICPC Mexico Finals
 1. _Galácticos 1_ resolvió 8 problemas y obtuvo el lugar #71 (94%) en Gran Premio de Mexico 2019
 1. _Acrux Exclamation_ resolvió 4 problemas y obtuvo el lugar #10 (93%) en The 2006 ACM Mexico and Central America Programming Contest
-1. _McTrio_ resolvió 3 problemas y obtuvo el lugar #11 (93%) en The 2007 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 
@@ -20,7 +20,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **1** | **1** | **51** | **61** | **102** |
+| **Total** | **1** | **1** | **53** | **63** | **104** |
 | [2001-2002](#2001-2002) | 0 | 0 | 1 | 0 | 1 |
 | [2002-2003](#2002-2003) | 0 | 0 | 3 | 0 | 3 |
 | [2003-2004](#2003-2004) | 0 | 0 | 1 | 0 | 1 |
@@ -42,6 +42,7 @@
 | [2022-2023](#2022-2023) | 0 | 0 | 1 | 8 | 8 |
 | [2023-2024](#2023-2024) | 1 | 1 | 3 | 5 | 5 |
 | [2024-2025](#2024-2025) | 0 | 0 | 2 | 7 | 7 |
+| [2025-2026](#2025-2026) | 0 | 0 | 2 | 2 | 2 |
 
 ### 2001-2002
 
@@ -208,6 +209,11 @@
 1. #283 (#45 de ITESM) _Changos articos en c# menor_ (Clasificatorio)
 1. #303 (#49 de ITESM) _Triángulo agudo_ (Clasificatorio)
 1. #482 (#69 de ITESM) _Qué triste fue decirnos adiós Cuando nos adorábamos más Hasta la golondrina emigró Presagiando el final Qué triste luce todo sin ti Los mares de las playas se van Se tiñen los colores de gris Hoy todo es soledad No sé si vuelva a verte después_ (Clasificatorio)
+
+### 2025-2026
+
+1. #27 (#4 de ITESM) _Me puse bien treap cuando fui al puntero_ (Regional)
+1. #71 (#9 de ITESM) _Datashots_ (Regional)
 
 
 

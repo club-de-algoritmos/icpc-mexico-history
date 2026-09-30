@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **12** | **35** | **35** |
+| **Total** | **0** | **0** | **14** | **42** | **42** |
 | [2017-2018](#2017-2018) | 0 | 0 | 1 | 3 | 3 |
 | [2018-2019](#2018-2019) | 0 | 0 | 2 | 3 | 3 |
 | [2019-2020](#2019-2020) | 0 | 0 | 3 | 7 | 7 |
@@ -28,6 +28,7 @@
 | [2022-2023](#2022-2023) | 0 | 0 | 1 | 6 | 6 |
 | [2023-2024](#2023-2024) | 0 | 0 | 1 | 4 | 4 |
 | [2024-2025](#2024-2025) | 0 | 0 | 2 | 4 | 4 |
+| [2025-2026](#2025-2026) | 0 | 0 | 2 | 7 | 7 |
 
 ### 2017-2018
 
@@ -87,6 +88,16 @@
 1. #92 _Khe_ (Regional)
 1. #134 _SkyCoders_ (Clasificatorio)
 1. #482 _C dospuntos_ (Clasificatorio)
+
+### 2025-2026
+
+1. #73 _SkyCoders_ (Regional)
+1. #89 _Bowser Bytes_ (Regional)
+1. #216 _codigóticos_ (Clasificatorio)
+1. #221 _Fork-it_ (Clasificatorio)
+1. #249 _Chiquitics_ (Clasificatorio)
+1. #274 _RAMonas_ (Clasificatorio)
+1. #296 _Danaran_ (Clasificatorio)
 
 
 

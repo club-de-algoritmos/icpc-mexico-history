@@ -6,12 +6,12 @@
 1. _!nullptr_ resolvió 4 problemas y obtuvo el lugar #18 (99%) en The 2024 ICPC Mexico Finals
 1. _!nullptr_ resolvió 4 problemas y obtuvo el lugar #13 (98%) en The 2020 ICPC Mexico Finals
 1. _¿Qué?_ resolvió 3 problemas y obtuvo el lugar #33 (98%) en The 2019 ICPC Mexico Finals
+1. _Rodrigo ya salte del equipo POR FAVOR_ resolvió 4 problemas y obtuvo el lugar #17 (97%) en The 2025 ICPC Mexico Finals
 1. _!nullptr_ resolvió 2 problemas y obtuvo el lugar #34 (97%) en The 2022 ICPC Mexico Finals
+1. _camel_case_ resolvió 4 problemas y obtuvo el lugar #21 (96%) en The 2025 ICPC Mexico Finals
 1. _camel_case_ resolvió 3 problemas y obtuvo el lugar #45 (96%) en The 2024 ICPC Mexico Finals
 1. _Opilimpicos_ resolvió 1 problemas y obtuvo el lugar #47 (96%) en The 2019 ICPC Mexico Finals
 1. _!nullptr_ resolvió 4 problemas y obtuvo el lugar #23 (95%) en The 2023 ICPC Mexico Finals
-1. _Equipo_ resolvió 3 problemas y obtuvo el lugar #45 (95%) en The 2018 ICPC Mexico and Central America Finals
-1. _js++_ resolvió 1 problemas y obtuvo el lugar #53 (95%) en The 2022 ICPC Mexico Finals
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **14** | **95** | **97** |
+| **Total** | **0** | **0** | **17** | **116** | **118** |
 | [2002-2003](#2002-2003) | 0 | 0 | 1 | 0 | 1 |
 | [2012-2013](#2012-2013) | 0 | 0 | 1 | 0 | 1 |
 | [2018-2019](#2018-2019) | 0 | 0 | 1 | 4 | 4 |
@@ -29,6 +29,7 @@
 | [2022-2023](#2022-2023) | 0 | 0 | 2 | 17 | 17 |
 | [2023-2024](#2023-2024) | 0 | 0 | 2 | 21 | 21 |
 | [2024-2025](#2024-2025) | 0 | 0 | 3 | 14 | 14 |
+| [2025-2026](#2025-2026) | 0 | 0 | 3 | 21 | 21 |
 
 ### 2002-2003
 
@@ -153,6 +154,30 @@
 1. #414 _Paps_ (Clasificatorio)
 1. #482 _Kernel panic_ (Clasificatorio)
 1. #482 _Vodka Juniors_ (Clasificatorio)
+
+### 2025-2026
+
+1. #17 _Rodrigo ya salte del equipo POR FAVOR_ (Regional)
+1. #21 _camel_case_ (Regional)
+1. #104 _MothSteppers_ (Regional)
+1. #111 _Excel_ (Clasificatorio)
+1. #144 _Enchiladas Hidrocalidas_ (Clasificatorio)
+1. #173 _Los mugiwara_ (Clasificatorio)
+1. #174 _Byte sin binarios_ (Clasificatorio)
+1. #178 _weyNoCompila_ (Clasificatorio)
+1. #224 _Los recursivos (De materias)_ (Clasificatorio)
+1. #234 _El jaswer_ (Clasificatorio)
+1. #245 _Orden factorial ❗❗_ (Clasificatorio)
+1. #347 _Vaquitas galácticas-2_ (Clasificatorio)
+1. #351 _The sentinels_ (Clasificatorio)
+1. #384 _HackaPros_ (Clasificatorio)
+1. #439 _Supernova_ (Clasificatorio)
+1. #441 _Qubits_ (Clasificatorio)
+1. #458 _Lorem ipsum dolor sit amet consectetur adipiscing elit. Phasellus blandit euismod orci eget dignissim. Maecenas cursus ex metus eu pretium nibh dapibus in. Sed sed eros et odio convallis finibus. Proin rhoncus feugiat massa sed faucibus massa consequat_ (Clasificatorio)
+1. #484 _pipepus_ (Clasificatorio)
+1. #487 _Multiplexores sin buffer_ (Clasificatorio)
+1. #491 _1000101_ (Clasificatorio)
+1. #504 _Los CloverFlow_ (Clasificatorio)
 
 
 

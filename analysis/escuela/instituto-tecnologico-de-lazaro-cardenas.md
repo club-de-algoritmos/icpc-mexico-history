@@ -10,8 +10,8 @@
 1. _Innombrables_ resolvió 4 problemas y obtuvo el lugar #184 (85%) en Gran Premio de Mexico 2019
 1. _Eabel_ resolvió 3 problemas y obtuvo el lugar #207 (84%) en Gran Premio de Mexico 2019
 1. _charmander;_ resolvió 2 problemas y obtuvo el lugar #281 (78%) en Gran Premio de Mexico 2019
+1. _Runtime Error es mi segundo nombre_ resolvió 2 problemas y obtuvo el lugar #127 (77%) en The 2025 ICPC Mexico Finals
 1. _char mander_ resolvió 6 problemas y obtuvo el lugar #160 (77%) en Gran Premio de Mexico 2020
-1. _Dinamita_ resolvió 2 problemas y obtuvo el lugar #294 (77%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **10** | **64** | **72** |
+| **Total** | **0** | **0** | **11** | **69** | **77** |
 | [2011-2012](#2011-2012) | 0 | 0 | 2 | 0 | 2 |
 | [2012-2013](#2012-2013) | 0 | 0 | 3 | 0 | 3 |
 | [2013-2014](#2013-2014) | 0 | 0 | 3 | 0 | 3 |
@@ -31,6 +31,7 @@
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 16 | 16 |
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 1 | 1 |
 | [2024-2025](#2024-2025) | 0 | 0 | 1 | 3 | 3 |
+| [2025-2026](#2025-2026) | 0 | 0 | 1 | 5 | 5 |
 
 ### 2011-2012
 
@@ -136,6 +137,14 @@
 1. #111 (#20 de TecNM) _Bug Busters_ (Regional)
 1. #482 (#114 de TecNM) _Beepro_ (Clasificatorio)
 1. #482 (#114 de TecNM) _ChavaScript_ (Clasificatorio)
+
+### 2025-2026
+
+1. #127 (#27 de TecNM) _Runtime Error es mi segundo nombre_ (Regional)
+1. #183 (#34 de TecNM) _The Prime Numbers_ (Clasificatorio)
+1. #283 (#60 de TecNM) _ITLAC1_ (Clasificatorio)
+1. #373 (#85 de TecNM) _;DROP TABLE team;---_ (Clasificatorio)
+1. #502 (#126 de TecNM) _Chavascript_ (Clasificatorio)
 
 
 

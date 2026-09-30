@@ -21,7 +21,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **2** | **0** | **70** | **40** | **100** |
+| **Total** | **2** | **0** | **71** | **46** | **106** |
 | [2001-2002](#2001-2002) | 0 | 0 | 4 | 0 | 4 |
 | [2002-2003](#2002-2003) | 0 | 0 | 1 | 0 | 1 |
 | [2004-2005](#2004-2005) | 0 | 0 | 2 | 0 | 2 |
@@ -41,6 +41,7 @@
 | [2019-2020](#2019-2020) | 0 | 0 | 1 | 5 | 5 |
 | [2020-2021](#2020-2021) | 0 | 0 | 0 | 2 | 2 |
 | [2024-2025](#2024-2025) | 0 | 0 | 2 | 7 | 7 |
+| [2025-2026](#2025-2026) | 0 | 0 | 1 | 6 | 6 |
 
 ### 2001-2002
 
@@ -200,6 +201,15 @@
 1. #411 (#65 de ITESM) _Skull kids_ (Clasificatorio)
 1. #420 (#66 de ITESM) _BLUE BLUE_ (Clasificatorio)
 1. #482 (#69 de ITESM) _Sin nombre_ (Clasificatorio)
+
+### 2025-2026
+
+1. #38 (#6 de ITESM) _The Strings_ (Regional)
+1. #275 (#28 de ITESM) _#opentoWork_ (Clasificatorio)
+1. #291 (#33 de ITESM) _LlegaronLasPipshas_ (Clasificatorio)
+1. #323 (#37 de ITESM) _3F capys_ (Clasificatorio)
+1. #410 (#46 de ITESM) _MAA Algorithm_ (Clasificatorio)
+1. #436 (#51 de ITESM) _The O(n!) homies_ (Clasificatorio)
 
 
 

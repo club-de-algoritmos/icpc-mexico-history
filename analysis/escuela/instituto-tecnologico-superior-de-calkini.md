@@ -9,9 +9,9 @@
 1. _alt+F4_ resolvió 2 problemas y obtuvo el lugar #286 (78%) en Gran Premio de Mexico 2019
 1. _4luX1t0s_ resolvió 2 problemas y obtuvo el lugar #38 (77%) en The 2012 Mexico & Central America Regional Contest
 1. _Hashtable_ resolvió 1 problemas y obtuvo el lugar #57 (77%) en The 2014 ACM-ICPC Mexico and Central America Finals
+1. _NewMonos_ resolvió 2 problemas y obtuvo el lugar #125 (77%) en The 2025 ICPC Mexico Finals
 1. _DeepMaze_ resolvió 2 problemas y obtuvo el lugar #235 (77%) en The 2022 ICPC Gran Premio de Mexico
 1. _Lira coders_ resolvió 2 problemas y obtuvo el lugar #236 (77%) en The 2022 ICPC Gran Premio de Mexico
-1. _01MrRobot_ resolvió 4 problemas y obtuvo el lugar #236 (66%) en Gran Premio de Mexico 2020
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **17** | **35** | **50** |
+| **Total** | **0** | **0** | **18** | **37** | **52** |
 | [2005-2006](#2005-2006) | 0 | 0 | 1 | 0 | 1 |
 | [2006-2007](#2006-2007) | 0 | 0 | 1 | 0 | 1 |
 | [2007-2008](#2007-2008) | 0 | 0 | 1 | 0 | 1 |
@@ -40,6 +40,7 @@
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 4 | 4 |
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 5 | 5 |
 | [2024-2025](#2024-2025) | 0 | 0 | 0 | 5 | 5 |
+| [2025-2026](#2025-2026) | 0 | 0 | 1 | 2 | 2 |
 
 ### 2005-2006
 
@@ -150,6 +151,11 @@
 1. #482 (#114 de TecNM) _DeepMaze_ (Clasificatorio)
 1. #482 (#114 de TecNM) _WorkCode_ (Clasificatorio)
 1. #482 (#114 de TecNM) _Los_Irvins_ (Clasificatorio)
+
+### 2025-2026
+
+1. #125 (#26 de TecNM) _NewMonos_ (Regional)
+1. #426 (#98 de TecNM) _the racoons_ (Clasificatorio)
 
 
 

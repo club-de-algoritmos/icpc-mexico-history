@@ -21,7 +21,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **2** | **0** | **30** | **106** | **121** |
+| **Total** | **2** | **0** | **32** | **117** | **132** |
 | [1998-1999](#1998-1999) | 1 | 0 | 0 | 0 | 1 |
 | [1999-2000](#1999-2000) | 1 | 0 | 0 | 0 | 1 |
 | [2001-2002](#2001-2002) | 0 | 0 | 3 | 0 | 3 |
@@ -41,6 +41,7 @@
 | [2022-2023](#2022-2023) | 0 | 0 | 1 | 14 | 14 |
 | [2023-2024](#2023-2024) | 0 | 0 | 1 | 13 | 13 |
 | [2024-2025](#2024-2025) | 0 | 0 | 2 | 19 | 19 |
+| [2025-2026](#2025-2026) | 0 | 0 | 2 | 11 | 11 |
 
 ### 1998-1999
 
@@ -221,6 +222,20 @@
 1. #395 (#63 de ITESM) _pi two dos_ (Clasificatorio)
 1. #482 (#69 de ITESM) _Erdos-Szekeres Enjoyers_ (Clasificatorio)
 1. #482 (#69 de ITESM) _Binary Tree _ (Clasificatorio)
+
+### 2025-2026
+
+1. #77 (#11 de ITESM) _KOQForces_ (Regional)
+1. #94 (#12 de ITESM) _Rascals Do Not Know the Fibo Sequence (WA)_ (Regional)
+1. #190 (#21 de ITESM) _Holy C++_ (Clasificatorio)
+1. #242 (#25 de ITESM) _SCRUM Masters_ (Clasificatorio)
+1. #279 (#30 de ITESM) _404: No Team Name Found_ (Clasificatorio)
+1. #281 (#32 de ITESM) _UTF-8_ (Clasificatorio)
+1. #310 (#34 de ITESM) _Tec.rs_ (Clasificatorio)
+1. #315 (#35 de ITESM) _Soul's Circus_ (Clasificatorio)
+1. #320 (#36 de ITESM) _CódigosTumbados_ (Clasificatorio)
+1. #398 (#42 de ITESM) _RunTime Error_ (Clasificatorio)
+1. #496 (#56 de ITESM) _40T F0UND_ (Clasificatorio)
 
 
 

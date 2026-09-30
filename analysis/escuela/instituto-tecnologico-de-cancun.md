@@ -8,10 +8,10 @@
 1. _Tucampeón_ resolvió 4 problemas y obtuvo el lugar #231 (80%) en The 2024 ICPC Gran Premio de Mexico
 1. _Tucancitos_ resolvió 4 problemas y obtuvo el lugar #236 (79%) en The 2024 ICPC Gran Premio de Mexico
 1. _Papirrines_ resolvió 6 problemas y obtuvo el lugar #246 (79%) en The 2024 ICPC Gran Premio de Mexico
+1. _Ucanes_ resolvió 2 problemas y obtuvo el lugar #118 (78%) en The 2025 ICPC Mexico Finals
 1. _Cachorros_ resolvió 2 problemas y obtuvo el lugar #390 (68%) en The 2024 ICPC Gran Premio de Mexico
 1. _JavaMonos_ resolvió 1 problemas y obtuvo el lugar #443 (63%) en The 2024 ICPC Gran Premio de Mexico
 1. _EquipoITC_ resolvió 1 problemas y obtuvo el lugar #472 (61%) en The 2024 ICPC Gran Premio de Mexico
-1. _Tucanes_ resolvió 2 problemas y obtuvo el lugar #285 (59%) en Gran Premio de Mexico 2020
 
 ## Participaciones
 
@@ -19,12 +19,13 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **2** | **27** | **27** |
+| **Total** | **0** | **0** | **3** | **36** | **36** |
 | [2020-2021](#2020-2021) | 0 | 0 | 0 | 1 | 1 |
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 1 | 1 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 7 | 7 |
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 2 | 2 |
 | [2024-2025](#2024-2025) | 0 | 0 | 2 | 16 | 16 |
+| [2025-2026](#2025-2026) | 0 | 0 | 1 | 9 | 9 |
 
 ### 2020-2021
 
@@ -67,6 +68,18 @@
 1. #482 (#114 de TecNM) _Tucan-ITC_ (Clasificatorio)
 1. #482 (#114 de TecNM) _ITCancunTeam_ (Clasificatorio)
 1. #482 (#114 de TecNM) _La alegria_ (Clasificatorio)
+
+### 2025-2026
+
+1. #118 (#22 de TecNM) _Ucanes_ (Regional)
+1. #306 (#64 de TecNM) _Tucanes_ (Clasificatorio)
+1. #355 (#78 de TecNM) _Tucanes2_ (Clasificatorio)
+1. #385 (#89 de TecNM) _Stich_ (Clasificatorio)
+1. #404 (#91 de TecNM) _FedoraITC_ (Clasificatorio)
+1. #450 (#103 de TecNM) _Joyosit_ (Clasificatorio)
+1. #462 (#106 de TecNM) _EquipoChido_ (Clasificatorio)
+1. #488 (#117 de TecNM) _TucaEvent_ (Clasificatorio)
+1. #503 (#127 de TecNM) _Tucancun_ (Clasificatorio)
 
 
 

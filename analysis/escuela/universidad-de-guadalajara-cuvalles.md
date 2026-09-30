@@ -9,9 +9,9 @@
 1. _Connectia_ resolvió 4 problemas y obtuvo el lugar #156 (88%) en Gran Premio de Mexico 2019
 1. _Valles.py_ resolvió 5 problemas y obtuvo el lugar #130 (87%) en The 2022 ICPC Gran Premio de Mexico
 1. _Programamistas_ resolvió 5 problemas y obtuvo el lugar #138 (86%) en The 2022 ICPC Gran Premio de Mexico
+1. _Ingenieros de Redstone_ resolvió 2 problemas y obtuvo el lugar #84 (85%) en The 2025 ICPC Mexico Finals
 1. _Team Warriors_ resolvió 3 problemas y obtuvo el lugar #203 (84%) en Gran Premio de Mexico 2019
 1. _valles.py_ resolvió 6 problemas y obtuvo el lugar #184 (83%) en The 2024 ICPC Gran Premio de Mexico
-1. _Alpha & Omega_ resolvió 3 problemas y obtuvo el lugar #155 (76%) en Gran Premio de Mexico 2018
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **11** | **29** | **38** |
+| **Total** | **0** | **0** | **12** | **31** | **40** |
 | [2007-2008](#2007-2008) | 0 | 0 | 1 | 0 | 1 |
 | [2008-2009](#2008-2009) | 0 | 0 | 4 | 0 | 4 |
 | [2009-2010](#2009-2010) | 0 | 0 | 2 | 0 | 2 |
@@ -32,6 +32,7 @@
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 3 | 3 |
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 2 | 2 |
 | [2024-2025](#2024-2025) | 0 | 0 | 1 | 4 | 4 |
+| [2025-2026](#2025-2026) | 0 | 0 | 1 | 2 | 2 |
 
 ### 2007-2008
 
@@ -106,6 +107,11 @@
 1. #184 _valles.py_ (Clasificatorio)
 1. #298 _programamistas_ (Clasificatorio)
 1. #482 _Programamistas_ (Clasificatorio)
+
+### 2025-2026
+
+1. #84 _Ingenieros de Redstone_ (Regional)
+1. #331 _Bolita de KK_ (Clasificatorio)
 
 
 

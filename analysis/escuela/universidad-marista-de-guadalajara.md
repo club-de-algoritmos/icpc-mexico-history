@@ -2,6 +2,7 @@
 
 ## Mejores 10 equipos
 
+1. _TriloBytes_ resolvió 5 problemas y obtuvo el lugar #72 (73%) en The 2025 ICPC Gran Premio de Mexico
 1. _CodeGirls_ resolvió 2 problemas y obtuvo el lugar #400 (67%) en The 2024 ICPC Gran Premio de Mexico
 1. _CodeCraft_ resolvió 2 problemas y obtuvo el lugar #405 (67%) en The 2024 ICPC Gran Premio de Mexico
 1. _Rubberduckers_ resolvió 2 problemas y obtuvo el lugar #418 (65%) en The 2024 ICPC Gran Premio de Mexico
@@ -11,7 +12,6 @@
 1. _UMG.2.1++_ resolvió 4 problemas y obtuvo el lugar #191 (57%) en The 2023 ICPC Gran Premio de Mexico
 1. _Marista Three_ resolvió 2 problemas y obtuvo el lugar #93 (54%) en The 2010 Mexico & Central America Regional Contest
 1. _LasalleGRC_ resolvió 1 problemas y obtuvo el lugar #60 (47%) en The 2004 ACM Mexico and Central America Programming Contest
-1. _LasalleDDE_ resolvió 1 problemas y obtuvo el lugar #63 (45%) en The 2004 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **12** | **16** | **28** |
+| **Total** | **0** | **0** | **12** | **19** | **31** |
 | [2004-2005](#2004-2005) | 0 | 0 | 4 | 0 | 4 |
 | [2005-2006](#2005-2006) | 0 | 0 | 2 | 0 | 2 |
 | [2010-2011](#2010-2011) | 0 | 0 | 2 | 0 | 2 |
@@ -30,6 +30,7 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 1 | 1 |
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 4 | 4 |
 | [2024-2025](#2024-2025) | 0 | 0 | 0 | 5 | 5 |
+| [2025-2026](#2025-2026) | 0 | 0 | 0 | 3 | 3 |
 
 ### 2004-2005
 
@@ -88,6 +89,12 @@
 1. #418 _Rubberduckers_ (Clasificatorio)
 1. #421 _TriloBytes_ (Clasificatorio)
 1. #456 _Gechok _ (Clasificatorio)
+
+### 2025-2026
+
+1. #72 _TriloBytes_ (Clasificatorio)
+1. #381 _ByteMe_ (Clasificatorio)
+1. #382 _Aprendiendo Machín_ (Clasificatorio)
 
 
 

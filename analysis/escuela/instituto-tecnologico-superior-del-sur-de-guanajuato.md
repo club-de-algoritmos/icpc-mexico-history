@@ -21,7 +21,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **2** | **0** | **33** | **211** | **219** |
+| **Total** | **2** | **0** | **36** | **222** | **230** |
 | [2010-2011](#2010-2011) | 0 | 0 | 3 | 0 | 3 |
 | [2011-2012](#2011-2012) | 0 | 0 | 1 | 0 | 1 |
 | [2012-2013](#2012-2013) | 0 | 0 | 2 | 0 | 2 |
@@ -37,6 +37,7 @@
 | [2022-2023](#2022-2023) | 0 | 0 | 3 | 29 | 29 |
 | [2023-2024](#2023-2024) | 0 | 0 | 4 | 20 | 20 |
 | [2024-2025](#2024-2025) | 0 | 0 | 4 | 18 | 18 |
+| [2025-2026](#2025-2026) | 0 | 0 | 3 | 11 | 11 |
 
 ### 2010-2011
 
@@ -303,6 +304,20 @@
 1. #482 (#114 de TecNM) _Los ABC_ (Clasificatorio)
 1. #482 (#114 de TecNM) _Cagua++_ (Clasificatorio)
 1. #482 (#114 de TecNM) _vbrd's azu?itos_ (Clasificatorio)
+
+### 2025-2026
+
+1. #47 (#5 de TecNM) _Three boys one cookie_ (Regional)
+1. #50 (#7 de TecNM) _The Erizos_ (Regional)
+1. #63 (#10 de TecNM) _La Familia Waos_ (Regional)
+1. #84 (#19 de TecNM) _Los fokines del ITSUR_ (Clasificatorio)
+1. #108 (#21 de TecNM) _Imagina un Accepted..  imagina dos_ (Clasificatorio)
+1. #131 (#24 de TecNM) _¿Se imaginan qué un equipo de última hora clasifique a la nacional?_ (Clasificatorio)
+1. #133 (#25 de TecNM) _Marsupiales Binarios_ (Clasificatorio)
+1. #172 (#33 de TecNM) _TralalerotralalaPorcodioeporcoAllah C++_ (Clasificatorio)
+1. #209 (#39 de TecNM) _99%Error_ (Clasificatorio)
+1. #225 (#46 de TecNM) _Ratazos_ (Clasificatorio)
+1. #286 (#61 de TecNM) _ZinTec Ney-X_ (Clasificatorio)
 
 
 

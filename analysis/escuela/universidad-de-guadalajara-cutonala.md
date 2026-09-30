@@ -8,10 +8,10 @@
 1. _JoV_ resolvió 1 problemas y obtuvo el lugar #112 (91%) en The 2024 ICPC Mexico Finals
 1. _Tonaltecas_ resolvió 2 problemas y obtuvo el lugar #234 (82%) en Gran Premio de Mexico 2019
 1. _MauBrunGer_ resolvió 4 problemas y obtuvo el lugar #232 (80%) en The 2024 ICPC Gran Premio de Mexico
+1. _PrograCut_ resolvió 2 problemas y obtuvo el lugar #128 (76%) en The 2025 ICPC Mexico Finals
 1. _Create_ resolvió 4 problemas y obtuvo el lugar #293 (75%) en The 2024 ICPC Gran Premio de Mexico
 1. _Se desbloquean celulares a domicilio_ resolvió 2 problemas y obtuvo el lugar #278 (73%) en The 2022 ICPC Gran Premio de Mexico
 1. _Los Caudillos_ resolvió 2 problemas y obtuvo el lugar #280 (73%) en The 2022 ICPC Gran Premio de Mexico
-1. _Cenaduría Doña Chuy_ resolvió 2 problemas y obtuvo el lugar #282 (73%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **4** | **52** | **52** |
+| **Total** | **0** | **0** | **5** | **64** | **64** |
 | [2016-2017](#2016-2017) | 0 | 0 | 0 | 4 | 4 |
 | [2017-2018](#2017-2018) | 0 | 0 | 0 | 4 | 4 |
 | [2018-2019](#2018-2019) | 0 | 0 | 1 | 5 | 5 |
@@ -28,6 +28,7 @@
 | [2022-2023](#2022-2023) | 0 | 0 | 1 | 8 | 8 |
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 10 | 10 |
 | [2024-2025](#2024-2025) | 0 | 0 | 1 | 13 | 13 |
+| [2025-2026](#2025-2026) | 0 | 0 | 1 | 12 | 12 |
 
 ### 2016-2017
 
@@ -104,6 +105,21 @@
 1. #482 _La Arrolladora Banda el Python_ (Clasificatorio)
 1. #482 _SkibidiMewing_ (Clasificatorio)
 1. #482 _NETTE_ (Clasificatorio)
+
+### 2025-2026
+
+1. #128 _PrograCut_ (Regional)
+1. #278 _Los Geraneos_ (Clasificatorio)
+1. #369 _code_ (Clasificatorio)
+1. #372 _Los Hijos del Sucio Dan_ (Clasificatorio)
+1. #374 _Fennekin_ (Clasificatorio)
+1. #378 _The Big Ones_ (Clasificatorio)
+1. #386 _inges hdp_ (Clasificatorio)
+1. #389 _Team Silenci0_ (Clasificatorio)
+1. #391 _Red Tails_ (Clasificatorio)
+1. #395 _EAJ_ (Clasificatorio)
+1. #396 _Papois1_ (Clasificatorio)
+1. #401 _Campechanos_ (Clasificatorio)
 
 
 

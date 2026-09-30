@@ -15,7 +15,7 @@
 1. _UDLAP4-NoName_ resolvió 2 problemas y obtuvo el lugar #12 (88%) en The 2002 ACM Mexico and Central America Programming Contest
 1. _UDLAP2-IO-PROMPT_ resolvió 2 problemas y obtuvo el lugar #21 (87%) en The 2005 ACM Mexico and Central America Programming Contest
 1. _UDLAP5-EOF_ resolvió 2 problemas y obtuvo el lugar #29 (82%) en The 2005 ACM Mexico and Central America Programming Contest
-1. _Beta Version_ resolvió 3 problemas y obtuvo el lugar #26 (80%) en The 2006 ACM Mexico and Central America Programming Contest
+1. _Tacos de datos con salsa verde por favor_ resolvió 2 problemas y obtuvo el lugar #96 (82%) en The 2025 ICPC Mexico Finals
 
 ## Participaciones
 
@@ -23,7 +23,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **4** | **0** | **24** | **1** | **26** |
+| **Total** | **4** | **0** | **25** | **4** | **29** |
 | [1998-1999](#1998-1999) | 1 | 0 | 0 | 0 | 1 |
 | [1999-2000](#1999-2000) | 1 | 0 | 0 | 0 | 1 |
 | [2001-2002](#2001-2002) | 0 | 0 | 3 | 0 | 3 |
@@ -33,6 +33,7 @@
 | [2005-2006](#2005-2006) | 0 | 0 | 7 | 0 | 7 |
 | [2006-2007](#2006-2007) | 0 | 0 | 1 | 0 | 1 |
 | [2024-2025](#2024-2025) | 0 | 0 | 1 | 1 | 1 |
+| [2025-2026](#2025-2026) | 0 | 0 | 1 | 3 | 3 |
 
 ### 1998-1999
 
@@ -90,6 +91,12 @@
 ### 2024-2025
 
 1. #63 _TamalesDeMole_ (Regional)
+
+### 2025-2026
+
+1. #96 _Tacos de datos con salsa verde por favor_ (Regional)
+1. #236 _Pistones Perfectos_ (Clasificatorio)
+1. #388 _Lamda_ (Clasificatorio)
 
 
 

@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **4** | **36** | **36** |
+| **Total** | **0** | **0** | **4** | **38** | **38** |
 | [2014-2015](#2014-2015) | 0 | 0 | 0 | 4 | 4 |
 | [2017-2018](#2017-2018) | 0 | 0 | 0 | 2 | 2 |
 | [2018-2019](#2018-2019) | 0 | 0 | 2 | 5 | 5 |
@@ -28,6 +28,7 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 4 | 4 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 1 | 1 |
 | [2024-2025](#2024-2025) | 0 | 0 | 1 | 3 | 3 |
+| [2025-2026](#2025-2026) | 0 | 0 | 0 | 2 | 2 |
 
 ### 2014-2015
 
@@ -88,6 +89,11 @@
 1. #105 _Merequetenge_ (Regional)
 1. #482 _NVidiosos_ (Clasificatorio)
 1. #482 _Cocolisos_ (Clasificatorio)
+
+### 2025-2026
+
+1. #299 _Si no ganamos corren a mi hermano_ (Clasificatorio)
+1. #483 _Se dice torta_ (Clasificatorio)
 
 
 

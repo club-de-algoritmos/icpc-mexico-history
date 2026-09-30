@@ -11,7 +11,7 @@
 1. _silumgar_ resolvió 2 problemas y obtuvo el lugar #63 (81%) en The 2015 ACM-ICPC Mexico and Central America Finals
 1. _Los cadetes de Konoha_ resolvió 3 problemas y obtuvo el lugar #224 (78%) en The 2022 ICPC Gran Premio de Mexico
 1. _Chip’n Dale +1_ resolvió 3 problemas y obtuvo el lugar #231 (78%) en The 2022 ICPC Gran Premio de Mexico
-1. _Los Mavericks_ resolvió 3 problemas y obtuvo el lugar #234 (77%) en The 2022 ICPC Gran Premio de Mexico
+1. _Bombeados_ resolvió 2 problemas y obtuvo el lugar #122 (77%) en The 2025 ICPC Mexico Finals
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **38** | **71** | **104** |
+| **Total** | **0** | **0** | **39** | **80** | **113** |
 | [2001-2002](#2001-2002) | 0 | 0 | 2 | 0 | 2 |
 | [2002-2003](#2002-2003) | 0 | 0 | 2 | 0 | 2 |
 | [2004-2005](#2004-2005) | 0 | 0 | 1 | 0 | 1 |
@@ -42,6 +42,7 @@
 | [2022-2023](#2022-2023) | 0 | 0 | 1 | 13 | 13 |
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 7 | 7 |
 | [2024-2025](#2024-2025) | 0 | 0 | 1 | 8 | 8 |
+| [2025-2026](#2025-2026) | 0 | 0 | 1 | 9 | 9 |
 
 ### 2001-2002
 
@@ -212,6 +213,18 @@
 1. #482 (#114 de TecNM) _PrograMecanicos_ (Clasificatorio)
 1. #482 (#114 de TecNM) _Tsurus_ (Clasificatorio)
 1. #482 (#114 de TecNM) _ProTec_ (Clasificatorio)
+
+### 2025-2026
+
+1. #122 (#25 de TecNM) _Bombeados_ (Regional)
+1. #215 (#42 de TecNM) _ProTec_ (Clasificatorio)
+1. #354 (#77 de TecNM) _F1TECH_ (Clasificatorio)
+1. #359 (#80 de TecNM) _UnTercio_ (Clasificatorio)
+1. #364 (#81 de TecNM) _CtrlZ_ (Clasificatorio)
+1. #415 (#95 de TecNM) _DeltaHBC_ (Clasificatorio)
+1. #420 (#96 de TecNM) _Bug Busters_ (Clasificatorio)
+1. #479 (#114 de TecNM) _Fugitivos del Código_ (Clasificatorio)
+1. #492 (#119 de TecNM) _Los Tarara_ (Clasificatorio)
 
 
 

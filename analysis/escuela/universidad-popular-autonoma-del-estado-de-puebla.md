@@ -11,7 +11,7 @@
 1. _Hakunas_ resolvió 2 problemas y obtuvo el lugar #51 (90%) en The 2016 ACM-ICPC Mexico and Central America Finals
 1. _3 de asada_ resolvió 5 problemas y obtuvo el lugar #115 (88%) en The 2022 ICPC Gran Premio de Mexico
 1. _<bits/team.h>_ resolvió 5 problemas y obtuvo el lugar #118 (88%) en The 2022 ICPC Gran Premio de Mexico
-1. _Nous_ resolvió 6 problemas y obtuvo el lugar #70 (84%) en The 2023 ICPC Gran Premio de Mexico
+1. _The Hunt_ resolvió 2 problemas y obtuvo el lugar #70 (87%) en The 2025 ICPC Mexico Finals
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **11** | **45** | **50** |
+| **Total** | **0** | **0** | **13** | **57** | **62** |
 | [2006-2007](#2006-2007) | 0 | 0 | 1 | 0 | 1 |
 | [2007-2008](#2007-2008) | 0 | 0 | 2 | 0 | 2 |
 | [2008-2009](#2008-2009) | 0 | 0 | 2 | 0 | 2 |
@@ -33,6 +33,7 @@
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 5 | 5 |
 | [2023-2024](#2023-2024) | 0 | 0 | 1 | 7 | 7 |
 | [2024-2025](#2024-2025) | 0 | 0 | 3 | 10 | 10 |
+| [2025-2026](#2025-2026) | 0 | 0 | 2 | 12 | 12 |
 
 ### 2006-2007
 
@@ -122,6 +123,21 @@
 1. #235 _Trifuerza_ (Clasificatorio)
 1. #260 _Transformers_ (Clasificatorio)
 1. #425 _Epic_bytes_ (Clasificatorio)
+
+### 2025-2026
+
+1. #70 _The Hunt_ (Regional)
+1. #74 _<bits/team.h>_ (Regional)
+1. #163 _Codependientes_ (Clasificatorio)
+1. #192 _Aguila's Bytes_ (Clasificatorio)
+1. #211 _Truchas Salvajes _ (Clasificatorio)
+1. #248 _Transformers_ (Clasificatorio)
+1. #290 _Michitech_ (Clasificatorio)
+1. #316 _Alt+35 1_ (Clasificatorio)
+1. #334 _#include <gatitos.h>_ (Clasificatorio)
+1. #335 _TriFuerza_ (Clasificatorio)
+1. #361 _404 Girls Not Found_ (Clasificatorio)
+1. #489 _Sintaxis Error Team_ (Clasificatorio)
 
 
 

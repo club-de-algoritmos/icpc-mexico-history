@@ -10,13 +10,14 @@
     - Avanzó a la final mundial y resolvió 2 problemas y obtuvo el lugar #45 (64%) en 38th Annual World Finals of the ACM International Collegiate Programming Contest
 1. _UPsolving_ resolvió 6 problemas y obtuvo el lugar #8 (99%) en The 2019 ICPC Mexico Finals
     - Avanzó a la final mundial y obtuvo el lugar #47 (61%) en 44th Annual World Finals of the International Collegiate Programming Contest
+1. _UPgraded_ resolvió 5 problemas y obtuvo el lugar #4 (100%) en The 2024 ICPC Mexico Finals
+    - Avanzó a la final mundial y resolvió 2 problemas y obtuvo el lugar #66 (53%) en 49th Annual World Finals of the International Collegiate Programming Contest
 1. _AEI_ resolvió 5 problemas y obtuvo el lugar #2 (99%) en The 2012 Mexico & Central America Regional Contest
     - Avanzó a la final mundial y resolvió 2 problemas y obtuvo el lugar #76 (36%) en 37th Annual World Finals of the ACM International Collegiate Programming Contest
+1. _Igloo Zone_ resolvió 7 problemas y obtuvo el lugar #3 (100%) en The 2025 ICPC Mexico Finals
 1. _ArkanianPhoenix_ resolvió 2 problemas y obtuvo el lugar #40 (91%) en The 2023 ICPC Mexico Finals
-1. _UPgraded_ resolvió 5 problemas y obtuvo el lugar #4 (100%) en The 2024 ICPC Mexico Finals
 1. _UPsolving_ resolvió 7 problemas y obtuvo el lugar #5 (100%) en The 2018 ICPC Mexico and Central America Finals
 1. _Chicos_Percebe_ resolvió 5 problemas y obtuvo el lugar #6 (100%) en The 2022 ICPC Mexico Finals
-1. _ICPCrikos_ resolvió 4 problemas y obtuvo el lugar #6 (99%) en The 2021 ICPC Mexico Finals
 
 ## Participaciones
 
@@ -24,7 +25,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **5** | **1** | **39** | **102** | **115** |
+| **Total** | **6** | **3** | **42** | **110** | **123** |
 | [2007-2008](#2007-2008) | 0 | 0 | 1 | 0 | 1 |
 | [2008-2009](#2008-2009) | 0 | 0 | 2 | 0 | 2 |
 | [2009-2010](#2009-2010) | 0 | 0 | 1 | 0 | 1 |
@@ -42,7 +43,8 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 3 | 10 | 10 |
 | [2022-2023](#2022-2023) | 1 | 0 | 3 | 14 | 14 |
 | [2023-2024](#2023-2024) | 0 | 1 | 4 | 14 | 14 |
-| [2024-2025](#2024-2025) | 0 | 0 | 2 | 12 | 12 |
+| [2024-2025](#2024-2025) | 1 | 1 | 2 | 12 | 12 |
+| [2025-2026](#2025-2026) | 0 | 1 | 3 | 8 | 8 |
 
 ### 2007-2008
 
@@ -206,6 +208,7 @@
 ### 2024-2025
 
 1. #4 _UPgraded_ (Regional)
+    - Avanzó a la final mundial y resolvió 2 problemas obtuviendo el lugar #66 (53%) en 49th Annual World Finals of the International Collegiate Programming Contest
 1. #8 _UPsolving_ (Regional)
 1. #16 _Legion501_ (Clasificatorio)
 1. #47 _ISeePC_ (Clasificatorio)
@@ -217,6 +220,17 @@
 1. #393 _Natahaters_ (Clasificatorio)
 1. #434 _Natalovers_ (Clasificatorio)
 1. #482 _Neptune Team_ (Clasificatorio)
+
+### 2025-2026
+
+1. #3 _Igloo Zone_ (Regional)
+1. #25 _Fernanda y los icpcerdos_ (Regional)
+1. #58 _MLE (Marquina Limit Exceeded)_ (Regional)
+1. #73 _Infinite Loopers_ (Clasificatorio)
+1. #91 _regroUPed_ (Clasificatorio)
+1. #95 _ICPCeros_ (Clasificatorio)
+1. #138 _BruteForce_ (Clasificatorio)
+1. #191 _temp_ (Clasificatorio)
 
 
 

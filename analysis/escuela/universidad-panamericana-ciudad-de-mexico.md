@@ -3,15 +3,15 @@
 ## Mejores 10 equipos
 
 1. _Mixcoac_ resolvió 3 problemas y obtuvo el lugar #60 (95%) en The 2024 ICPC Mexico Finals
+1. _7-UP_ resolvió 2 problemas y obtuvo el lugar #46 (92%) en The 2025 ICPC Mexico Finals
 1. _UPMX2_ resolvió 2 problemas y obtuvo el lugar #17 (81%) en The 2001 ACM Mexico and Central America Programming Contest
 1. _A* Rules_ resolvió 2 problemas y obtuvo el lugar #23 (80%) en The 2004 ACM Mexico and Central America Programming Contest
+1. _UPMAT_ resolvió 2 problemas y obtuvo el lugar #117 (78%) en The 2025 ICPC Mexico Finals
 1. _yamerito_ resolvió 1 problemas y obtuvo el lugar #25 (74%) en The 2002 ACM Mexico and Central America Programming Contest
 1. _ACM's Guild_ resolvió 2 problemas y obtuvo el lugar #37 (71%) en The 2006 ACM Mexico and Central America Programming Contest
 1. _Courage_ resolvió 1 problemas y obtuvo el lugar #67 (62%) en The 2005 ACM Mexico and Central America Programming Contest
 1. _Camarelos Corp._ resolvió 1 problemas y obtuvo el lugar #71 (60%) en The 2005 ACM Mexico and Central America Programming Contest
 1. _UPMX1_ resolvió 1 problemas y obtuvo el lugar #45 (48%) en The 2001 ACM Mexico and Central America Programming Contest
-1. _Quantum_ resolvió 1 problemas y obtuvo el lugar #83 (28%) en The 2004 ACM Mexico and Central America Programming Contest
-1. _NEUTRINOS_ resolvió 0 problemas y obtuvo el lugar #27 (7%) en The 2002 ACM Mexico and Central America Programming Contest
 
 ## Participaciones
 
@@ -19,13 +19,14 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **11** | **1** | **11** |
+| **Total** | **0** | **0** | **13** | **3** | **13** |
 | [2001-2002](#2001-2002) | 0 | 0 | 2 | 0 | 2 |
 | [2002-2003](#2002-2003) | 0 | 0 | 2 | 0 | 2 |
 | [2004-2005](#2004-2005) | 0 | 0 | 2 | 0 | 2 |
 | [2005-2006](#2005-2006) | 0 | 0 | 2 | 0 | 2 |
 | [2006-2007](#2006-2007) | 0 | 0 | 2 | 0 | 2 |
 | [2024-2025](#2024-2025) | 0 | 0 | 1 | 1 | 1 |
+| [2025-2026](#2025-2026) | 0 | 0 | 2 | 2 | 2 |
 
 ### 2001-2002
 
@@ -55,6 +56,11 @@
 ### 2024-2025
 
 1. #60 _Mixcoac_ (Regional)
+
+### 2025-2026
+
+1. #46 _7-UP_ (Regional)
+1. #117 _UPMAT_ (Regional)
 
 
 

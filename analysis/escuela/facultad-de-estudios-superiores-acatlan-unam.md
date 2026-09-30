@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **29** | **54** | **64** |
+| **Total** | **0** | **0** | **31** | **61** | **71** |
 | [2007-2008](#2007-2008) | 0 | 0 | 1 | 0 | 1 |
 | [2011-2012](#2011-2012) | 0 | 0 | 3 | 0 | 3 |
 | [2012-2013](#2012-2013) | 0 | 0 | 2 | 0 | 2 |
@@ -35,6 +35,7 @@
 | [2022-2023](#2022-2023) | 0 | 0 | 1 | 8 | 8 |
 | [2023-2024](#2023-2024) | 0 | 0 | 1 | 4 | 4 |
 | [2024-2025](#2024-2025) | 0 | 0 | 1 | 4 | 4 |
+| [2025-2026](#2025-2026) | 0 | 0 | 2 | 7 | 7 |
 
 ### 2007-2008
 
@@ -144,6 +145,16 @@
 1. #207 _Sin_Nombre_ (Clasificatorio)
 1. #228 _MAC-Queens_ (Clasificatorio)
 1. #482 _CtrlCastle_ (Clasificatorio)
+
+### 2025-2026
+
+1. #78 _PrograMacDores_ (Regional)
+1. #83 _MatrizCeleste_ (Regional)
+1. #168 _Migraine in My Code_ (Clasificatorio)
+1. #231 _MacSteelers_ (Clasificatorio)
+1. #260 _Brain Not Found_ (Clasificatorio)
+1. #288 _MACarthy fanboys_ (Clasificatorio)
+1. #516 _Los Primos_ (Clasificatorio)
 
 
 

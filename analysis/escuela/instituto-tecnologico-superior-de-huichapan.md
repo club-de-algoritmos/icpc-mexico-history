@@ -19,12 +19,13 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **0** | **119** | **119** |
+| **Total** | **0** | **0** | **0** | **120** | **120** |
 | [2019-2020](#2019-2020) | 0 | 0 | 0 | 15 | 15 |
 | [2020-2021](#2020-2021) | 0 | 0 | 0 | 7 | 7 |
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 6 | 6 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 41 | 41 |
 | [2024-2025](#2024-2025) | 0 | 0 | 0 | 50 | 50 |
+| [2026-2027](#2026-2027) | 0 | 0 | 0 | 1 | 1 |
 
 ### 2019-2020
 
@@ -159,6 +160,10 @@
 1. #482 (#114 de TecNM) _Huevito con Catsup_ (Clasificatorio)
 1. #482 (#114 de TecNM) _Wishle_ (Clasificatorio)
 1. #482 (#114 de TecNM) _LOS JAVEROS_ (Clasificatorio)
+
+### 2026-2027
+
+1. #510 (#111 de TecNM) _Code Storm_ (Clasificatorio)
 
 
 

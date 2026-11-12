@@ -10,8 +10,8 @@
 1. _Void guys_ resolvió 1 problemas y obtuvo el lugar #43 (92%) en The 2021 ICPC Mexico Finals
 1. _Súbelo!!!, se compila en el Juez (Los originales)_ resolvió 2 problemas y obtuvo el lugar #48 (91%) en The 2025 ICPC Mexico Finals
 1. _BFFs(Brute Force Friends)<3_ resolvió 7 problemas y obtuvo el lugar #83 (91%) en The 2022 ICPC Gran Premio de Mexico
+1. _Encontramos a Zarate..._ resolvió 3 problemas y obtuvo el lugar #60 (90%) en The 2026 ICPC Mexico Finals
 1. _Nahuales del Mictlán_ resolvió 1 problemas y obtuvo el lugar #53 (88%) en The 2023 ICPC Mexico Finals
-1. _MME++.py_ resolvió 3 problemas y obtuvo el lugar #76 (83%) en The 2021 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -19,13 +19,14 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **8** | **34** | **34** |
+| **Total** | **0** | **0** | **9** | **39** | **39** |
 | [2020-2021](#2020-2021) | 0 | 0 | 2 | 3 | 3 |
 | [2021-2022](#2021-2022) | 0 | 0 | 2 | 6 | 6 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 3 | 3 |
 | [2023-2024](#2023-2024) | 0 | 0 | 1 | 4 | 4 |
 | [2024-2025](#2024-2025) | 0 | 0 | 2 | 7 | 7 |
 | [2025-2026](#2025-2026) | 0 | 0 | 1 | 11 | 11 |
+| [2026-2027](#2026-2027) | 0 | 0 | 1 | 5 | 5 |
 
 ### 2020-2021
 
@@ -78,6 +79,14 @@
 1. #362 _Gain Eagers_ (Clasificatorio)
 1. #522 _Chiles Poblanos Con Pibil_ (Clasificatorio)
 1. #523 _Café Cargado_ (Clasificatorio)
+
+### 2026-2027
+
+1. #60 _Encontramos a Zarate..._ (Regional)
+1. #131 _Se nos perdió Zarate..._ (Clasificatorio)
+1. #423 _Cuaterniones_ (Clasificatorio)
+1. #441 _No era Greedy_ (Clasificatorio)
+1. #462 _Lotus_ (Clasificatorio)
 
 
 

@@ -7,11 +7,11 @@
 1. _Bug Busters_ resolvió 1 problemas y obtuvo el lugar #111 (91%) en The 2024 ICPC Mexico Finals
 1. _Base16_ resolvió 5 problemas y obtuvo el lugar #130 (90%) en Gran Premio de Mexico 2019
 1. _base16_ resolvió 10 problemas y obtuvo el lugar #79 (88%) en Gran Premio de Mexico 2020
+1. _No se, eso no me sirve_ resolvió 3 problemas y obtuvo el lugar #84 (87%) en The 2026 ICPC Mexico Finals
 1. _Innombrables_ resolvió 4 problemas y obtuvo el lugar #184 (85%) en Gran Premio de Mexico 2019
 1. _Eabel_ resolvió 3 problemas y obtuvo el lugar #207 (84%) en Gran Premio de Mexico 2019
+1. _'); UPDATE Resultados SET Lugar = 1; --_ resolvió 10 problemas y obtuvo el lugar #102 (81%) en The 2026 ICPC Gran Premio de Mexico
 1. _charmander;_ resolvió 2 problemas y obtuvo el lugar #281 (78%) en Gran Premio de Mexico 2019
-1. _Runtime Error es mi segundo nombre_ resolvió 2 problemas y obtuvo el lugar #127 (77%) en The 2025 ICPC Mexico Finals
-1. _char mander_ resolvió 6 problemas y obtuvo el lugar #160 (77%) en Gran Premio de Mexico 2020
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **11** | **69** | **77** |
+| **Total** | **0** | **0** | **12** | **74** | **83** |
 | [2011-2012](#2011-2012) | 0 | 0 | 2 | 0 | 2 |
 | [2012-2013](#2012-2013) | 0 | 0 | 3 | 0 | 3 |
 | [2013-2014](#2013-2014) | 0 | 0 | 3 | 0 | 3 |
@@ -32,6 +32,7 @@
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 1 | 1 |
 | [2024-2025](#2024-2025) | 0 | 0 | 1 | 3 | 3 |
 | [2025-2026](#2025-2026) | 0 | 0 | 1 | 5 | 5 |
+| [2026-2027](#2026-2027) | 0 | 0 | 1 | 5 | 6 |
 
 ### 2011-2012
 
@@ -145,6 +146,15 @@
 1. #283 (#60 de TecNM) _ITLAC1_ (Clasificatorio)
 1. #373 (#85 de TecNM) _;DROP TABLE team;---_ (Clasificatorio)
 1. #502 (#126 de TecNM) _Chavascript_ (Clasificatorio)
+
+### 2026-2027
+
+1. #84 (#13 de TecNM) _No se, eso no me sirve_ (Regional)
+1. #102 (#22 de TecNM) _'); UPDATE Resultados SET Lugar = 1; --_ (Clasificatorio)
+1. #191 (#40 de TecNM) _Los numeros primos_ (Clasificatorio)
+1. #312 (#67 de TecNM) _Chiqui-coders_ (Clasificatorio)
+1. #472 (#102 de TecNM) _Las galletas_ (Clasificatorio)
+1. #510 (#111 de TecNM) _sudo setoolkit1233_ (Clasificatorio)
 
 
 

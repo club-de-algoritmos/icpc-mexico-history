@@ -21,7 +21,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **2** | **0** | **71** | **46** | **106** |
+| **Total** | **2** | **0** | **72** | **50** | **110** |
 | [2001-2002](#2001-2002) | 0 | 0 | 4 | 0 | 4 |
 | [2002-2003](#2002-2003) | 0 | 0 | 1 | 0 | 1 |
 | [2004-2005](#2004-2005) | 0 | 0 | 2 | 0 | 2 |
@@ -42,6 +42,7 @@
 | [2020-2021](#2020-2021) | 0 | 0 | 0 | 2 | 2 |
 | [2024-2025](#2024-2025) | 0 | 0 | 2 | 7 | 7 |
 | [2025-2026](#2025-2026) | 0 | 0 | 1 | 6 | 6 |
+| [2026-2027](#2026-2027) | 0 | 0 | 1 | 4 | 4 |
 
 ### 2001-2002
 
@@ -210,6 +211,13 @@
 1. #323 (#37 de ITESM) _3F capys_ (Clasificatorio)
 1. #410 (#46 de ITESM) _MAA Algorithm_ (Clasificatorio)
 1. #436 (#51 de ITESM) _The O(n!) homies_ (Clasificatorio)
+
+### 2026-2027
+
+1. #62 (#12 de ITESM) _De ultimo momento_ (Regional)
+1. #186 (#24 de ITESM) _BlueKeys_ (Clasificatorio)
+1. #360 (#48 de ITESM) _Dream team_ (Clasificatorio)
+1. #436 (#55 de ITESM) _StackStorm_ (Clasificatorio)
 
 
 

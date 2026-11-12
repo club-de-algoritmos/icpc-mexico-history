@@ -7,6 +7,7 @@
 1. _Los Templarios_ resolvió 1 problemas y obtuvo el lugar #55 (52%) en The 2004 ACM Mexico and Central America Programming Contest
 1. _Los Falcons_ resolvió 1 problemas y obtuvo el lugar #59 (48%) en The 2004 ACM Mexico and Central America Programming Contest
 1. _ITESM Leon_ resolvió 1 problemas y obtuvo el lugar #53 (39%) en The 2001 ACM Mexico and Central America Programming Contest
+1. _Ninja Code Force_ resolvió 2 problemas y obtuvo el lugar #451 (26%) en The 2026 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -14,10 +15,11 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **5** | **0** | **5** |
+| **Total** | **0** | **0** | **5** | **1** | **6** |
 | [2001-2002](#2001-2002) | 0 | 0 | 1 | 0 | 1 |
 | [2003-2004](#2003-2004) | 0 | 0 | 1 | 0 | 1 |
 | [2004-2005](#2004-2005) | 0 | 0 | 3 | 0 | 3 |
+| [2026-2027](#2026-2027) | 0 | 0 | 0 | 1 | 1 |
 
 ### 2001-2002
 
@@ -32,6 +34,10 @@
 1. #53 (#10 de ITESM) _Cranberries_ (Regional)
 1. #55 (#11 de ITESM) _Los Templarios_ (Regional)
 1. #59 (#12 de ITESM) _Los Falcons_ (Regional)
+
+### 2026-2027
+
+1. #451 (#56 de ITESM) _Ninja Code Force_ (Clasificatorio)
 
 
 

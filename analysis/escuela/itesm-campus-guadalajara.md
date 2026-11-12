@@ -4,6 +4,7 @@
 
 1. _Borregos Salvajes_ resolvió 6 problemas y obtuvo el lugar #3 (100%) en The 2023 ICPC Mexico Finals
     - Avanzó a la final mundial y resolvió 1 problemas y obtuvo el lugar #52 (64%) en The 48th Annual World Finals of the International Collegiate Programming Contest
+1. _Hijos del Puntero_ resolvió 7 problemas y obtuvo el lugar #14 (98%) en The 2026 ICPC Mexico Finals
 1. _Tsurus Tuneados_ resolvió 3 problemas y obtuvo el lugar #18 (98%) en The 2022 ICPC Mexico Finals
 1. _ViralBugSyndrome.exe_ resolvió 4 problemas y obtuvo el lugar #20 (98%) en The 2018 ICPC Mexico and Central America Finals
 1. _Keyboard Warriors_ resolvió 4 problemas y obtuvo el lugar #27 (98%) en The 2024 ICPC Mexico Finals
@@ -11,8 +12,7 @@
 1. _Carlit-OS_ resolvió 4 problemas y obtuvo el lugar #10 (95%) en The 2008 Mexico & Central America Contest
 1. _Me puse bien treap cuando fui al puntero_ resolvió 3 problemas y obtuvo el lugar #27 (95%) en The 2025 ICPC Mexico Finals
 1. _Tec GDL 10_ resolvió 3 problemas y obtuvo el lugar #34 (95%) en The 2020 ICPC Mexico Finals
-1. _Galácticos 1_ resolvió 8 problemas y obtuvo el lugar #71 (94%) en Gran Premio de Mexico 2019
-1. _Acrux Exclamation_ resolvió 4 problemas y obtuvo el lugar #10 (93%) en The 2006 ACM Mexico and Central America Programming Contest
+1. _The algorithms are talking_ resolvió 5 problemas y obtuvo el lugar #35 (94%) en The 2026 ICPC Mexico Finals
 
 ## Participaciones
 
@@ -20,7 +20,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **1** | **1** | **53** | **63** | **104** |
+| **Total** | **1** | **1** | **55** | **68** | **109** |
 | [2001-2002](#2001-2002) | 0 | 0 | 1 | 0 | 1 |
 | [2002-2003](#2002-2003) | 0 | 0 | 3 | 0 | 3 |
 | [2003-2004](#2003-2004) | 0 | 0 | 1 | 0 | 1 |
@@ -43,6 +43,7 @@
 | [2023-2024](#2023-2024) | 1 | 1 | 3 | 5 | 5 |
 | [2024-2025](#2024-2025) | 0 | 0 | 2 | 7 | 7 |
 | [2025-2026](#2025-2026) | 0 | 0 | 2 | 2 | 2 |
+| [2026-2027](#2026-2027) | 0 | 0 | 2 | 5 | 5 |
 
 ### 2001-2002
 
@@ -214,6 +215,14 @@
 
 1. #27 (#4 de ITESM) _Me puse bien treap cuando fui al puntero_ (Regional)
 1. #71 (#9 de ITESM) _Datashots_ (Regional)
+
+### 2026-2027
+
+1. #14 (#2 de ITESM) _Hijos del Puntero_ (Regional)
+1. #35 (#7 de ITESM) _The algorithms are talking_ (Regional)
+1. #71 (#11 de ITESM) _LanievepintalamontañahoyNohayhuellasqueseguirEnlasoledad,unreinoYlareinaviveenmíElvientorugeYhaytormentaenmiinteriorUnatempestadQuedemísalióLoquehayenti,nodejesverBuenachica,túsiempredebesserNohasdeabrirtucorazónPuesyaseabrióLibresoy,libresoy_ (Clasificatorio)
+1. #369 (#49 de ITESM) _Poke1_ (Clasificatorio)
+1. #510 (#61 de ITESM) _Teorema de Noether_ (Clasificatorio)
 
 
 

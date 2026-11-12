@@ -28,7 +28,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **10** | **1** | **104** | **348** | **412** |
+| **Total** | **10** | **1** | **110** | **379** | **443** |
 | [1997-1998](#1997-1998) | 1 | 0 | 0 | 0 | 1 |
 | [1998-1999](#1998-1999) | 1 | 0 | 0 | 0 | 1 |
 | [2000-2001](#2000-2001) | 1 | 0 | 0 | 0 | 1 |
@@ -55,6 +55,7 @@
 | [2023-2024](#2023-2024) | 0 | 0 | 3 | 29 | 29 |
 | [2024-2025](#2024-2025) | 0 | 0 | 7 | 33 | 33 |
 | [2025-2026](#2025-2026) | 0 | 1 | 5 | 19 | 19 |
+| [2026-2027](#2026-2027) | 0 | 0 | 6 | 31 | 31 |
 
 ### 1997-1998
 
@@ -555,6 +556,40 @@
 1. #440 (#52 de ITESM) _icpc girlies!!!_ (Clasificatorio)
 1. #513 (#57 de ITESM) _Science Based Programming_ (Clasificatorio)
 1. #521 (#58 de ITESM) _Equipo_ (Clasificatorio)
+
+### 2026-2027
+
+1. #4 (#1 de ITESM) _Academia de Pilotaje Aerostático Manuel Doblado (Clases Privadas de Anatomía y Género $100/hr + 529993244386)_ (Regional)
+1. #20 (#3 de ITESM) _Data Divas_ (Regional)
+1. #21 (#4 de ITESM) _ATCSUSMS (Alianza)_ (Regional)
+1. #30 (#6 de ITESM) _Gigante Noble_ (Regional)
+1. #39 (#8 de ITESM) _Nao Nao_ (Regional)
+1. #55 (#11 de ITESM) _Sopes_ (Regional)
+1. #92 (#12 de ITESM) _Chirigüillos de Tamaulipas_ (Clasificatorio)
+1. #98 (#13 de ITESM) _Bellakos_ (Clasificatorio)
+1. #103 (#14 de ITESM) _solvers++_ (Clasificatorio)
+1. #117 (#15 de ITESM) _" "_ (Clasificatorio)
+1. #126 (#17 de ITESM) _UnregisteredHypercam2_ (Clasificatorio)
+1. #141 (#18 de ITESM) _TripleT_ (Clasificatorio)
+1. #160 (#21 de ITESM) _Tacos Orinoco_ (Clasificatorio)
+1. #180 (#23 de ITESM) _hermanos brothers_ (Clasificatorio)
+1. #230 (#27 de ITESM) _TPS DATA_ (Clasificatorio)
+1. #277 (#32 de ITESM) _(:v)3_ (Clasificatorio)
+1. #279 (#33 de ITESM) _internal pointer_ (Clasificatorio)
+1. #302 (#37 de ITESM) _Revolucion Ruta 302_ (Clasificatorio)
+1. #333 (#42 de ITESM) _borreguitos.cpp_ (Clasificatorio)
+1. #336 (#43 de ITESM) _KerangKecil_ (Clasificatorio)
+1. #338 (#44 de ITESM) _IZPZ_ (Clasificatorio)
+1. #341 (#46 de ITESM) _Papi Claude_ (Clasificatorio)
+1. #467 (#57 de ITESM) _Cultivatec_ (Clasificatorio)
+1. #498 (#60 de ITESM) _Hackstreet Girls_ (Clasificatorio)
+1. #510 (#61 de ITESM) _Bugbusters_ (Clasificatorio)
+1. #510 (#61 de ITESM) _CabritasFC_ (Clasificatorio)
+1. #510 (#61 de ITESM) _coahuilaceratops_ (Clasificatorio)
+1. #510 (#61 de ITESM) _JUEGUIPIBES_ (Clasificatorio)
+1. #510 (#61 de ITESM) _PapusPros_ (Clasificatorio)
+1. #510 (#61 de ITESM) _null pointers_ (Clasificatorio)
+1. #510 (#61 de ITESM) _Rollback_ (Clasificatorio)
 
 
 

@@ -10,8 +10,8 @@
 1. _M@C'nificas _ resolvió 2 problemas y obtuvo el lugar #39 (96%) en The 2022 ICPC Mexico Finals
 1. _Burst Programming_ resolvió 2 problemas y obtuvo el lugar #10 (95%) en The 2013 Mexico & Central America Regional Contest
 1. _turing incompleto_ resolvió 2 problemas y obtuvo el lugar #31 (95%) en The 2017 ACM-ICPC Mexico and Central America Finals
+1. _Gatitas Tapabaños Nacatlán--_ resolvió 5 problemas y obtuvo el lugar #33 (95%) en The 2026 ICPC Mexico Finals
 1. _Lavanda Norteña_ resolvió 3 problemas y obtuvo el lugar #33 (95%) en The 2020 ICPC Mexico Finals
-1. _BEANERS_ resolvió 8 problemas y obtuvo el lugar #51 (95%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **31** | **61** | **71** |
+| **Total** | **0** | **0** | **32** | **66** | **76** |
 | [2007-2008](#2007-2008) | 0 | 0 | 1 | 0 | 1 |
 | [2011-2012](#2011-2012) | 0 | 0 | 3 | 0 | 3 |
 | [2012-2013](#2012-2013) | 0 | 0 | 2 | 0 | 2 |
@@ -36,6 +36,7 @@
 | [2023-2024](#2023-2024) | 0 | 0 | 1 | 4 | 4 |
 | [2024-2025](#2024-2025) | 0 | 0 | 1 | 4 | 4 |
 | [2025-2026](#2025-2026) | 0 | 0 | 2 | 7 | 7 |
+| [2026-2027](#2026-2027) | 0 | 0 | 1 | 5 | 5 |
 
 ### 2007-2008
 
@@ -155,6 +156,14 @@
 1. #260 _Brain Not Found_ (Clasificatorio)
 1. #288 _MACarthy fanboys_ (Clasificatorio)
 1. #516 _Los Primos_ (Clasificatorio)
+
+### 2026-2027
+
+1. #33 _Gatitas Tapabaños Nacatlán--_ (Regional)
+1. #135 _Buenas tardes_ (Clasificatorio)
+1. #238 _My python in SQLazo _ (Clasificatorio)
+1. #324 _Los Primos_ (Clasificatorio)
+1. #325 _CodeDogs_ (Clasificatorio)
 
 
 

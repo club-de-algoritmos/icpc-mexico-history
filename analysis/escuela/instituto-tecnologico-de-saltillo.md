@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **30** | **17** | **45** |
+| **Total** | **0** | **0** | **30** | **21** | **49** |
 | [2003-2004](#2003-2004) | 0 | 0 | 2 | 0 | 2 |
 | [2004-2005](#2004-2005) | 0 | 0 | 2 | 0 | 2 |
 | [2005-2006](#2005-2006) | 0 | 0 | 2 | 0 | 2 |
@@ -34,6 +34,7 @@
 | [2019-2020](#2019-2020) | 0 | 0 | 0 | 3 | 3 |
 | [2024-2025](#2024-2025) | 0 | 0 | 1 | 5 | 5 |
 | [2025-2026](#2025-2026) | 0 | 0 | 1 | 6 | 6 |
+| [2026-2027](#2026-2027) | 0 | 0 | 0 | 4 | 4 |
 
 ### 2003-2004
 
@@ -121,6 +122,13 @@
 1. #325 (#68 de TecNM) _SMP_ (Clasificatorio)
 1. #409 (#92 de TecNM) _Insanos [2]_ (Clasificatorio)
 1. #463 (#107 de TecNM) _SWL[3]_ (Clasificatorio)
+
+### 2026-2027
+
+1. #305 (#65 de TecNM) _Trikitrakatelas_ (Clasificatorio)
+1. #382 (#83 de TecNM) _DAEDLU_ (Clasificatorio)
+1. #510 (#111 de TecNM) _Devs May Code_ (Clasificatorio)
+1. #510 (#111 de TecNM) _FEIMGA_ (Clasificatorio)
 
 
 

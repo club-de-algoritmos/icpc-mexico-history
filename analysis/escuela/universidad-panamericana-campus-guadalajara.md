@@ -3,6 +3,7 @@
 ## Mejores 10 equipos
 
 1. _Testigos de Germán_ resolvió 6 problemas y obtuvo el lugar #4 (99%) en The 2025 ICPC Mexico Finals
+1. _Prisioneros de Alcatraz_ resolvió 8 problemas y obtuvo el lugar #3 (100%) en The 2026 ICPC Mexico Finals
 1. _Hololive_ resolvió 3 problemas y obtuvo el lugar #22 (98%) en The 2022 ICPC Mexico Finals
 1. _Team Impala_ resolvió 4 problemas y obtuvo el lugar #24 (98%) en The 2024 ICPC Mexico Finals
 1. _Software Chasers_ resolvió 2 problemas y obtuvo el lugar #38 (97%) en The 2022 ICPC Mexico Finals
@@ -11,7 +12,6 @@
 1. _Testigos de DuPort_ resolvió 3 problemas y obtuvo el lugar #73 (94%) en The 2024 ICPC Mexico Finals
 1. _DrimTimICP_ resolvió 1 problemas y obtuvo el lugar #51 (93%) en The 2020 ICPC Mexico Finals
 1. _Takodachis_ resolvió 2 problemas y obtuvo el lugar #37 (92%) en The 2023 ICPC Mexico Finals
-1. _AlfaBuenaMaravillaOndaDinamitaEscuadrónLobo_ resolvió 0 problemas y obtuvo el lugar #50 (90%) en The 2021 ICPC Mexico Finals
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **1** | **11** | **72** | **72** |
+| **Total** | **0** | **1** | **12** | **86** | **86** |
 | [2017-2018](#2017-2018) | 0 | 0 | 0 | 2 | 2 |
 | [2018-2019](#2018-2019) | 0 | 0 | 0 | 4 | 4 |
 | [2019-2020](#2019-2020) | 0 | 0 | 0 | 2 | 2 |
@@ -29,6 +29,7 @@
 | [2023-2024](#2023-2024) | 0 | 0 | 2 | 17 | 17 |
 | [2024-2025](#2024-2025) | 0 | 0 | 2 | 12 | 12 |
 | [2025-2026](#2025-2026) | 0 | 1 | 2 | 10 | 10 |
+| [2026-2027](#2026-2027) | 0 | 0 | 1 | 14 | 14 |
 
 ### 2017-2018
 
@@ -128,6 +129,23 @@
 1. #419 _0xDEADBEEF_ (Clasificatorio)
 1. #454 _Tocadores de Teclados_ (Clasificatorio)
 1. #518 _Chalanes.cpp_ (Clasificatorio)
+
+### 2026-2027
+
+1. #3 _Prisioneros de Alcatraz_ (Regional)
+1. #109 _Teorema del mono infinito_ (Clasificatorio)
+1. #163 _Árbol_ (Clasificatorio)
+1. #202 _Chocomilk en bolsa_ (Clasificatorio)
+1. #299 _chalanes.cpp_ (Clasificatorio)
+1. #316 _Masa madre_ (Clasificatorio)
+1. #337 _La magia de la amistad_ (Clasificatorio)
+1. #376 _Sigma_ (Clasificatorio)
+1. #380 _EFN Remix_ (Clasificatorio)
+1. #386 _AlphaTherians_ (Clasificatorio)
+1. #401 _El jajas, el yoker, y el wai sou sirius _ (Clasificatorio)
+1. #437 _Fórmula General_ (Clasificatorio)
+1. #494 _Monos_ (Clasificatorio)
+1. #501 _Las chicas superpoderosas y Toño_ (Clasificatorio)
 
 
 

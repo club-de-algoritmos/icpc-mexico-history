@@ -4,14 +4,14 @@
 
 1. _TecMorelia2_ resolvió 2 problemas y obtuvo el lugar #18 (91%) en The 2013 Mexico & Central America Regional Contest
 1. _ITM-3_ resolvió 3 problemas y obtuvo el lugar #20 (88%) en The 2011 Mexico & Central America Regional Contest
+1. _Ctr C++_ resolvió 10 problemas y obtuvo el lugar #51 (85%) en The 2026 ICPC Gran Premio de Mexico
 1. _Full Snack Developers_ resolvió 2 problemas y obtuvo el lugar #106 (80%) en The 2025 ICPC Mexico Finals
 1. _Tec Morelia 1_ resolvió 2 problemas y obtuvo el lugar #46 (72%) en The 2012 Mexico & Central America Regional Contest
+1. _Full Snack Developers_ resolvió 8 problemas y obtuvo el lugar #158 (72%) en The 2026 ICPC Gran Premio de Mexico
+1. _Morenitos Sandía Pambicoin_ resolvió 8 problemas y obtuvo el lugar #167 (71%) en The 2026 ICPC Gran Premio de Mexico
+1. _Flippers_ resolvió 6 problemas y obtuvo el lugar #221 (63%) en The 2026 ICPC Gran Premio de Mexico
 1. _ITM - Tec Morelia 2_ resolvió 2 problemas y obtuvo el lugar #63 (62%) en The 2012 Mexico & Central America Regional Contest
 1. _VISUAL DIM_ resolvió 3 problemas y obtuvo el lugar #273 (61%) en Gran Premio de Mexico 2020
-1. _ITM-2_ resolvió 2 problemas y obtuvo el lugar #64 (60%) en The 2011 Mexico & Central America Regional Contest
-1. _Fail_ resolvió 1 problemas y obtuvo el lugar #67 (59%) en The 2009 Mexico & Central America Contest
-1. _Bichotas_ resolvió 0 problemas y obtuvo el lugar #382 (59%) en The 2022 ICPC Gran Premio de Mexico
-1. _Lucas 21:16_ resolvió 0 problemas y obtuvo el lugar #382 (59%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **14** | **24** | **37** |
+| **Total** | **0** | **0** | **14** | **30** | **43** |
 | [2009-2010](#2009-2010) | 0 | 0 | 2 | 0 | 2 |
 | [2010-2011](#2010-2011) | 0 | 0 | 3 | 0 | 3 |
 | [2011-2012](#2011-2012) | 0 | 0 | 3 | 0 | 3 |
@@ -30,6 +30,7 @@
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 6 | 6 |
 | [2024-2025](#2024-2025) | 0 | 0 | 0 | 3 | 3 |
 | [2025-2026](#2025-2026) | 0 | 0 | 1 | 2 | 2 |
+| [2026-2027](#2026-2027) | 0 | 0 | 0 | 6 | 6 |
 
 ### 2009-2010
 
@@ -97,6 +98,15 @@
 
 1. #106 (#18 de TecNM) _Full Snack Developers_ (Regional)
 1. #475 (#111 de TecNM) _CtrlAltWin_ (Clasificatorio)
+
+### 2026-2027
+
+1. #51 (#9 de TecNM) _Ctr C++_ (Clasificatorio)
+1. #158 (#30 de TecNM) _Full Snack Developers_ (Clasificatorio)
+1. #167 (#35 de TecNM) _Morenitos Sandía Pambicoin_ (Clasificatorio)
+1. #221 (#48 de TecNM) _Flippers_ (Clasificatorio)
+1. #348 (#73 de TecNM) _CoderSec_ (Clasificatorio)
+1. #371 (#81 de TecNM) _Testigos de Ruth_ (Clasificatorio)
 
 
 

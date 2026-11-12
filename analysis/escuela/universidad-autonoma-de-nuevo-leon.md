@@ -8,13 +8,13 @@
     - Avanzó a la final mundial y resolvió 3 problemas y obtuvo el lugar #57 (58%) en 41st Annual World Finals of the ACM International Collegiate Programming Contest
 1. _TriAda_ resolvió 5 problemas y obtuvo el lugar #4 (99%) en The 2021 ICPC Mexico Finals
     - Avanzó a la final mundial y resolvió 2 problemas y obtuvo el lugar #62 (50%) en 46th Annual World Finals of the International Collegiate Programming Contest
+1. _No te preocupes, mención honorífica también es buen resultado_ resolvió 8 problemas y obtuvo el lugar #10 (99%) en The 2026 ICPC Mexico Finals
 1. _TriAda_ resolvió 5 problemas y obtuvo el lugar #10 (99%) en The 2020 ICPC Mexico Finals
 1. _ACE_ resolvió 4 problemas y obtuvo el lugar #11 (99%) en The 2022 ICPC Mexico Finals
 1. _nu1l_ resolvió 4 problemas y obtuvo el lugar #15 (99%) en The 2022 ICPC Mexico Finals
 1. _TriAda_ resolvió 4 problemas y obtuvo el lugar #19 (99%) en The 2019 ICPC Mexico Finals
 1. _Los Irmos_ resolvió 3 problemas y obtuvo el lugar #3 (98%) en The 2003 ACM Mexico and Central America Programming Contest
 1. _Los Irmos_ resolvió 2 problemas y obtuvo el lugar #3 (98%) en The 2002 ACM Mexico and Central America Programming Contest
-1. _Tigres.cpp_ resolvió 4 problemas y obtuvo el lugar #20 (98%) en The 2024 ICPC Mexico Finals
 
 ## Participaciones
 
@@ -22,7 +22,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **3** | **0** | **61** | **129** | **170** |
+| **Total** | **3** | **0** | **63** | **153** | **194** |
 | [2001-2002](#2001-2002) | 0 | 0 | 3 | 0 | 3 |
 | [2002-2003](#2002-2003) | 0 | 0 | 3 | 0 | 3 |
 | [2003-2004](#2003-2004) | 0 | 0 | 3 | 0 | 3 |
@@ -48,6 +48,7 @@
 | [2023-2024](#2023-2024) | 0 | 0 | 2 | 14 | 14 |
 | [2024-2025](#2024-2025) | 0 | 0 | 2 | 27 | 27 |
 | [2025-2026](#2025-2026) | 0 | 0 | 3 | 22 | 23 |
+| [2026-2027](#2026-2027) | 0 | 0 | 2 | 24 | 24 |
 
 ### 2001-2002
 
@@ -296,6 +297,33 @@
 1. #509 _MAGNOLIA CREW_ (Clasificatorio)
 1. #514 _Los LCC_ (Clasificatorio)
 1. #529 _The debuggers_ (Clasificatorio)
+
+### 2026-2027
+
+1. #10 _No te preocupes, mención honorífica también es buen resultado_ (Regional)
+1. #68 _los tilines_ (Regional)
+1. #91 _Las Hormigas_ (Clasificatorio)
+1. #269 _Umizoomi _ (Clasificatorio)
+1. #272 _Logoritims_ (Clasificatorio)
+1. #282 _$AD BOYZ 4 LIFE_ (Clasificatorio)
+1. #286 _Cucharita_ (Clasificatorio)
+1. #307 _Pedacitos_ (Clasificatorio)
+1. #322 _codingpibbles_ (Clasificatorio)
+1. #361 _CocosLisos_ (Clasificatorio)
+1. #373 _BD_Cult_ (Clasificatorio)
+1. #406 _ZENIT_ (Clasificatorio)
+1. #421 _CoffeeBreak()_ (Clasificatorio)
+1. #460 _GreedyMinds_ (Clasificatorio)
+1. #475 _Akira_ (Clasificatorio)
+1. #479 _Team IDK_ (Clasificatorio)
+1. #483 _Hackstreet Boys_ (Clasificatorio)
+1. #486 _Los abejorros_ (Clasificatorio)
+1. #497 _Cabras_ (Clasificatorio)
+1. #503 _Mosquet3ros_ (Clasificatorio)
+1. #508 _Yakesa_ (Clasificatorio)
+1. #510 _EQUIPO 2.0_ (Clasificatorio)
+1. #510 _Los Pollos Hermanos_ (Clasificatorio)
+1. #510 _Rar_ (Clasificatorio)
 
 
 

@@ -27,7 +27,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **8** | **3** | **66** | **81** | **111** |
+| **Total** | **8** | **3** | **69** | **90** | **120** |
 | [2001-2002](#2001-2002) | 0 | 0 | 2 | 0 | 2 |
 | [2002-2003](#2002-2003) | 1 | 0 | 3 | 0 | 3 |
 | [2003-2004](#2003-2004) | 0 | 0 | 3 | 0 | 3 |
@@ -53,6 +53,7 @@
 | [2023-2024](#2023-2024) | 1 | 2 | 3 | 5 | 5 |
 | [2024-2025](#2024-2025) | 0 | 1 | 3 | 9 | 9 |
 | [2025-2026](#2025-2026) | 0 | 0 | 3 | 7 | 7 |
+| [2026-2027](#2026-2027) | 0 | 0 | 3 | 9 | 9 |
 
 ### 2001-2002
 
@@ -247,6 +248,18 @@
 1. #268 _Piripituflauticos_ (Clasificatorio)
 1. #368 _Los Bryans_ (Clasificatorio)
 1. #394 _Dorian Samanuel Aguilera Garsa_ (Clasificatorio)
+
+### 2026-2027
+
+1. #2 _Soy malo y eso es bueno, yo jamás seré bueno y eso no es malo_ (Regional)
+1. #7 _LCAxiom_ (Regional)
+1. #18 _Mäthgic Crüe_ (Regional)
+1. #18 _Cocon1_ (Clasificatorio)
+1. #68 _Caza Mathgics (espera el unfreeze, Mike)_ (Clasificatorio)
+1. #137 _Li Chao Team_ (Clasificatorio)
+1. #170 _JotaAGe_ (Clasificatorio)
+1. #227 _smiling_friends.cpp_ (Clasificatorio)
+1. #276 _QuackiRikos Inc._ (Clasificatorio)
 
 
 

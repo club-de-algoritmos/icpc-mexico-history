@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **14** | **42** | **42** |
+| **Total** | **0** | **0** | **14** | **50** | **50** |
 | [2017-2018](#2017-2018) | 0 | 0 | 1 | 3 | 3 |
 | [2018-2019](#2018-2019) | 0 | 0 | 2 | 3 | 3 |
 | [2019-2020](#2019-2020) | 0 | 0 | 3 | 7 | 7 |
@@ -29,6 +29,7 @@
 | [2023-2024](#2023-2024) | 0 | 0 | 1 | 4 | 4 |
 | [2024-2025](#2024-2025) | 0 | 0 | 2 | 4 | 4 |
 | [2025-2026](#2025-2026) | 0 | 0 | 2 | 7 | 7 |
+| [2026-2027](#2026-2027) | 0 | 0 | 0 | 8 | 8 |
 
 ### 2017-2018
 
@@ -98,6 +99,17 @@
 1. #249 _Chiquitics_ (Clasificatorio)
 1. #274 _RAMonas_ (Clasificatorio)
 1. #296 _Danaran_ (Clasificatorio)
+
+### 2026-2027
+
+1. #5 _Y con esto, terminamos la carrera_ (Clasificatorio)
+1. #116 _Skycoders_ (Clasificatorio)
+1. #171 _Patitas EnVinagre.exe_ (Clasificatorio)
+1. #197 _Holodomor_ (Clasificatorio)
+1. #199 _achuSaludGracias_ (Clasificatorio)
+1. #229 _Supernenas_ (Clasificatorio)
+1. #250 _Cortisol takes all_ (Clasificatorio)
+1. #357 _Heelna_ (Clasificatorio)
 
 
 

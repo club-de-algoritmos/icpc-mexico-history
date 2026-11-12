@@ -10,8 +10,8 @@
 1. _#include <uaz>_ resolvió 1 problemas y obtuvo el lugar #41 (96%) en The 2022 ICPC Mexico Finals
 1. _Balloon thieves_ resolvió 3 problemas y obtuvo el lugar #46 (96%) en The 2024 ICPC Mexico Finals
 1. _PuerkaSquad_ resolvió 3 problemas y obtuvo el lugar #48 (96%) en The 2024 ICPC Mexico Finals
+1. _Nahuales_ resolvió 4 problemas y obtuvo el lugar #46 (93%) en The 2026 ICPC Mexico Finals
 1. _Sudo Programmers_ resolvió 9 problemas y obtuvo el lugar #67 (93%) en The 2022 ICPC Gran Premio de Mexico
-1. _El Bueno, el Malo y el Feo_ resolvió 5 problemas y obtuvo el lugar #87 (93%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **34** | **189** | **204** |
+| **Total** | **0** | **0** | **35** | **202** | **217** |
 | [2004-2005](#2004-2005) | 0 | 0 | 3 | 0 | 3 |
 | [2005-2006](#2005-2006) | 0 | 0 | 3 | 0 | 3 |
 | [2006-2007](#2006-2007) | 0 | 0 | 1 | 0 | 1 |
@@ -38,6 +38,7 @@
 | [2023-2024](#2023-2024) | 0 | 0 | 1 | 8 | 8 |
 | [2024-2025](#2024-2025) | 0 | 0 | 2 | 18 | 18 |
 | [2025-2026](#2025-2026) | 0 | 0 | 3 | 6 | 6 |
+| [2026-2027](#2026-2027) | 0 | 0 | 1 | 13 | 13 |
 
 ### 2004-2005
 
@@ -296,6 +297,22 @@
 1. #143 _ Binary 011s =＾● ⋏ ●＾=_ (Clasificatorio)
 1. #330 _Los Compiladores_ (Clasificatorio)
 1. #367 _InvalidUsername_ (Clasificatorio)
+
+### 2026-2027
+
+1. #46 _Nahuales_ (Regional)
+1. #112 _Kernelitos_ (Clasificatorio)
+1. #152 _Binary 011s =＾● ⋏ ●＾=_ (Clasificatorio)
+1. #159 _YourQueueIsMyPriority_ (Clasificatorio)
+1. #320 _C+tecas_ (Clasificatorio)
+1. #429 _Puro caché_ (Clasificatorio)
+1. #433 _ChilaquilesVerdes_ (Clasificatorio)
+1. #446 _Plan C_ (Clasificatorio)
+1. #453 _Caos computacional_ (Clasificatorio)
+1. #464 _Patitos SA de CV_ (Clasificatorio)
+1. #477 _Osiris_ (Clasificatorio)
+1. #491 _Los Greedy_ (Clasificatorio)
+1. #510 _Costco guys_ (Clasificatorio)
 
 
 

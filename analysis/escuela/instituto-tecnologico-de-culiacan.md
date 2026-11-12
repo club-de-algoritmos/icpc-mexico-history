@@ -6,14 +6,14 @@
     - Avanzó a la final mundial y resolvió 3 problemas y obtuvo el lugar #49 (52%) en 33rd Annual World Finals of the ACM International Collegiate Programming Contest
 1. _ITC Turing Machines_ resolvió 5 problemas y obtuvo el lugar #3 (99%) en The 2007 ACM Mexico and Central America Programming Contest
     - Avanzó a la final mundial y resolvió 0 problemas y obtuvo el lugar #90 (10%) en The 2008 ACM Programming Contest World Finals
+1. _Los guerreros más fuertes de wkoder_ resolvió 8 problemas y obtuvo el lugar #8 (99%) en The 2026 ICPC Mexico Finals
 1. _BRO™_ resolvió 6 problemas y obtuvo el lugar #9 (99%) en The 2025 ICPC Mexico Finals
 1. _Ludus G++_ resolvió 4 problemas y obtuvo el lugar #14 (99%) en The 2022 ICPC Mexico Finals
 1. _BRO... CSM_ resolvió 4 problemas y obtuvo el lugar #15 (99%) en The 2024 ICPC Mexico Finals
 1. _Ludus +500_ resolvió 4 problemas y obtuvo el lugar #29 (98%) en The 2024 ICPC Mexico Finals
 1. _JRA_ resolvió 5 problemas y obtuvo el lugar #9 (97%) en The 2014 ACM-ICPC Mexico and Central America Finals
 1. _Sieve of Ludus_ resolvió 4 problemas y obtuvo el lugar #13 (97%) en The 2023 ICPC Mexico Finals
-1. _KRVADO+=T_ resolvió 3 problemas y obtuvo el lugar #29 (95%) en The 2025 ICPC Mexico Finals
-1. _AC2++_ resolvió 3 problemas y obtuvo el lugar #30 (94%) en The 2023 ICPC Mexico Finals
+1. _AD-HOCK_ resolvió 7 problemas y obtuvo el lugar #17 (97%) en The 2026 ICPC Mexico Finals
 
 ## Participaciones
 
@@ -21,7 +21,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **2** | **0** | **27** | **64** | **78** |
+| **Total** | **2** | **0** | **29** | **70** | **84** |
 | [2006-2007](#2006-2007) | 0 | 0 | 1 | 0 | 1 |
 | [2007-2008](#2007-2008) | 1 | 0 | 1 | 0 | 1 |
 | [2008-2009](#2008-2009) | 1 | 0 | 3 | 0 | 3 |
@@ -37,6 +37,7 @@
 | [2023-2024](#2023-2024) | 0 | 0 | 2 | 12 | 12 |
 | [2024-2025](#2024-2025) | 0 | 0 | 3 | 12 | 12 |
 | [2025-2026](#2025-2026) | 0 | 0 | 5 | 13 | 13 |
+| [2026-2027](#2026-2027) | 0 | 0 | 2 | 6 | 6 |
 
 ### 2006-2007
 
@@ -162,6 +163,15 @@
 1. #332 (#70 de TecNM) _Macaquinhos_ (Clasificatorio)
 1. #457 (#104 de TecNM) _donkeys_ (Clasificatorio)
 1. #527 (#133 de TecNM) _Salchipapas_ (Clasificatorio)
+
+### 2026-2027
+
+1. #8 (#1 de TecNM) _Los guerreros más fuertes de wkoder_ (Regional)
+1. #17 (#2 de TecNM) _AD-HOCK_ (Regional)
+1. #290 (#60 de TecNM) _bool comprensionLectora=false;_ (Clasificatorio)
+1. #346 (#72 de TecNM) _UKN_ (Clasificatorio)
+1. #394 (#88 de TecNM) _Mecates_ (Clasificatorio)
+1. #405 (#90 de TecNM) _KRV_ (Clasificatorio)
 
 
 

@@ -27,7 +27,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **8** | **3** | **79** | **224** | **259** |
+| **Total** | **8** | **3** | **86** | **252** | **288** |
 | [2001-2002](#2001-2002) | 0 | 0 | 2 | 0 | 2 |
 | [2002-2003](#2002-2003) | 0 | 0 | 2 | 0 | 2 |
 | [2003-2004](#2003-2004) | 0 | 0 | 1 | 0 | 1 |
@@ -52,6 +52,7 @@
 | [2023-2024](#2023-2024) | 0 | 0 | 3 | 28 | 28 |
 | [2024-2025](#2024-2025) | 0 | 2 | 5 | 27 | 27 |
 | [2025-2026](#2025-2026) | 0 | 1 | 6 | 21 | 21 |
+| [2026-2027](#2026-2027) | 0 | 0 | 7 | 28 | 29 |
 
 ### 2001-2002
 
@@ -391,6 +392,38 @@
 1. #434 _Anémonas Anónimas_ (Clasificatorio)
 1. #456 _LHDC_ (Clasificatorio)
 1. #507 _Brain Limit Exceeded_ (Clasificatorio)
+
+### 2026-2027
+
+1. #1 _ Domain Expansion "Abraham échate un hint"_ (Regional)
+1. #16 _Las Chivas de Milito_ (Regional)
+1. #31 _Chat. Aviéntate un nombre bien tuneadísimo y de paso la solución del F, con papas para llevar._ (Regional)
+1. #37 _CpLovers2:elRegreso_ (Regional)
+1. #50 _Silencio, empezaron mis frutinovelas_ (Regional)
+1. #67 _Chispas_ (Regional)
+1. #82 _Galois volverá en Avengers Doomsday_ (Regional)
+1. #66 _Estamos Perdidas_ (Clasificatorio)
+1. #78 _Requiem_ (Clasificatorio)
+1. #80 _Ajolotetos_ (Clasificatorio)
+1. #100 _3 randoms hacen lo suyo y se van_ (Clasificatorio)
+1. #127 _3^3_ (Clasificatorio)
+1. #172 _Tacos de llanto y estrés_ (Clasificatorio)
+1. #183 _BubbleSpammerEnjoyers_ (Clasificatorio)
+1. #206 _Compilación a último minuto _ (Clasificatorio)
+1. #212 _Testigos de Ávila_ (Clasificatorio)
+1. #232 _TLE y pa casa_ (Clasificatorio)
+1. #275 _Dr. Simi_ (Clasificatorio)
+1. #284 _VoidCoders_ (Clasificatorio)
+1. #301 _basiquitos_ (Clasificatorio)
+1. #343 _Bazinga_ (Clasificatorio)
+1. #390 _UMAzing IRyStocrats of Hallownest 67_ (Clasificatorio)
+1. #402 _Alergicos al AC_ (Clasificatorio)
+1. #413 _Claude Mythos_ (Clasificatorio)
+1. #415 _Dinamita_ (Clasificatorio)
+1. #427 _Los escombritos_ (Clasificatorio)
+1. #452 _Imposibles De Ayudar_ (Clasificatorio)
+1. #455 _TORTASPATYY _ (Clasificatorio)
+1. #510 _Hacemos esto por FOMO _ (Clasificatorio)
 
 
 

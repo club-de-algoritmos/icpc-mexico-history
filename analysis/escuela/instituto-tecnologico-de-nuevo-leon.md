@@ -7,11 +7,11 @@
 1. _Nahuales_ resolvió 0 problemas y obtuvo el lugar #114 (91%) en The 2024 ICPC Mexico Finals
 1. _0xBests_ resolvió 0 problemas y obtuvo el lugar #50 (90%) en The 2021 ICPC Mexico Finals
 1. _A verdad me engañe_ resolvió 5 problemas y obtuvo el lugar #129 (90%) en Gran Premio de Mexico 2019
+1. _Bombeados_ resolvió 0 problemas y obtuvo el lugar #74 (88%) en The 2026 ICPC Mexico Finals
 1. _DeltaHBC_ resolvió 6 problemas y obtuvo el lugar #164 (84%) en The 2024 ICPC Gran Premio de Mexico
 1. _silumgar_ resolvió 2 problemas y obtuvo el lugar #63 (81%) en The 2015 ACM-ICPC Mexico and Central America Finals
 1. _Los cadetes de Konoha_ resolvió 3 problemas y obtuvo el lugar #224 (78%) en The 2022 ICPC Gran Premio de Mexico
 1. _Chip’n Dale +1_ resolvió 3 problemas y obtuvo el lugar #231 (78%) en The 2022 ICPC Gran Premio de Mexico
-1. _Bombeados_ resolvió 2 problemas y obtuvo el lugar #122 (77%) en The 2025 ICPC Mexico Finals
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **39** | **80** | **113** |
+| **Total** | **0** | **0** | **40** | **85** | **118** |
 | [2001-2002](#2001-2002) | 0 | 0 | 2 | 0 | 2 |
 | [2002-2003](#2002-2003) | 0 | 0 | 2 | 0 | 2 |
 | [2004-2005](#2004-2005) | 0 | 0 | 1 | 0 | 1 |
@@ -43,6 +43,7 @@
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 7 | 7 |
 | [2024-2025](#2024-2025) | 0 | 0 | 1 | 8 | 8 |
 | [2025-2026](#2025-2026) | 0 | 0 | 1 | 9 | 9 |
+| [2026-2027](#2026-2027) | 0 | 0 | 1 | 5 | 5 |
 
 ### 2001-2002
 
@@ -225,6 +226,14 @@
 1. #420 (#96 de TecNM) _Bug Busters_ (Clasificatorio)
 1. #479 (#114 de TecNM) _Fugitivos del Código_ (Clasificatorio)
 1. #492 (#119 de TecNM) _Los Tarara_ (Clasificatorio)
+
+### 2026-2027
+
+1. #74 (#11 de TecNM) _Bombeados_ (Regional)
+1. #258 (#54 de TecNM) _F1TECH_ (Clasificatorio)
+1. #297 (#64 de TecNM) _EpsilonDelta_ (Clasificatorio)
+1. #419 (#92 de TecNM) _BitsBandits_ (Clasificatorio)
+1. #496 (#109 de TecNM) _ByteMe_ (Clasificatorio)
 
 
 

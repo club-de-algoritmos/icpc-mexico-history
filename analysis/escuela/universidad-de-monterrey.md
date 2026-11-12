@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **17** | **77** | **87** |
+| **Total** | **0** | **0** | **17** | **82** | **92** |
 | [2002-2003](#2002-2003) | 0 | 0 | 2 | 0 | 2 |
 | [2003-2004](#2003-2004) | 0 | 0 | 2 | 0 | 2 |
 | [2004-2005](#2004-2005) | 0 | 0 | 1 | 0 | 1 |
@@ -35,6 +35,7 @@
 | [2023-2024](#2023-2024) | 0 | 0 | 1 | 7 | 7 |
 | [2024-2025](#2024-2025) | 0 | 0 | 2 | 10 | 10 |
 | [2025-2026](#2025-2026) | 0 | 0 | 2 | 17 | 17 |
+| [2026-2027](#2026-2027) | 0 | 0 | 0 | 5 | 5 |
 
 ### 2002-2003
 
@@ -167,6 +168,14 @@
 1. #464 _Los Scouts_ (Clasificatorio)
 1. #466 _Segmentation fault_ (Clasificatorio)
 1. #517 _Nesquick_ (Clasificatorio)
+
+### 2026-2027
+
+1. #111 _Tostadas Siberia_ (Clasificatorio)
+1. #396 _Team 1_ (Clasificatorio)
+1. #481 _Draivel_ (Clasificatorio)
+1. #510 _Team 10_ (Clasificatorio)
+1. #510 _VOID_ (Clasificatorio)
 
 
 

@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **16** | **45** | **46** |
+| **Total** | **0** | **0** | **17** | **50** | **51** |
 | [2012-2013](#2012-2013) | 0 | 0 | 1 | 0 | 1 |
 | [2014-2015](#2014-2015) | 0 | 0 | 1 | 2 | 2 |
 | [2015-2016](#2015-2016) | 0 | 0 | 1 | 1 | 1 |
@@ -33,6 +33,7 @@
 | [2023-2024](#2023-2024) | 0 | 0 | 1 | 4 | 4 |
 | [2024-2025](#2024-2025) | 0 | 0 | 2 | 8 | 8 |
 | [2025-2026](#2025-2026) | 0 | 0 | 2 | 5 | 5 |
+| [2026-2027](#2026-2027) | 0 | 0 | 1 | 5 | 5 |
 
 ### 2012-2013
 
@@ -118,6 +119,14 @@
 1. #170 _leones_code(p a d)_ (Clasificatorio)
 1. #344 _Quesillitos Team_ (Clasificatorio)
 1. #363 _Dream team_ (Clasificatorio)
+
+### 2026-2027
+
+1. #73 _LED_ (Regional)
+1. #256 _Leones_Code_ (Clasificatorio)
+1. #266 _Los L293D_ (Clasificatorio)
+1. #374 _Layer 8_ (Clasificatorio)
+1. #412 _ Jurassic Parse_ (Clasificatorio)
 
 
 

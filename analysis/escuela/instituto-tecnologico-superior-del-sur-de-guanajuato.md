@@ -21,7 +21,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **2** | **0** | **36** | **222** | **230** |
+| **Total** | **2** | **0** | **39** | **234** | **242** |
 | [2010-2011](#2010-2011) | 0 | 0 | 3 | 0 | 3 |
 | [2011-2012](#2011-2012) | 0 | 0 | 1 | 0 | 1 |
 | [2012-2013](#2012-2013) | 0 | 0 | 2 | 0 | 2 |
@@ -38,6 +38,7 @@
 | [2023-2024](#2023-2024) | 0 | 0 | 4 | 20 | 20 |
 | [2024-2025](#2024-2025) | 0 | 0 | 4 | 18 | 18 |
 | [2025-2026](#2025-2026) | 0 | 0 | 3 | 11 | 11 |
+| [2026-2027](#2026-2027) | 0 | 0 | 3 | 12 | 12 |
 
 ### 2010-2011
 
@@ -318,6 +319,21 @@
 1. #209 (#39 de TecNM) _99%Error_ (Clasificatorio)
 1. #225 (#46 de TecNM) _Ratazos_ (Clasificatorio)
 1. #286 (#61 de TecNM) _ZinTec Ney-X_ (Clasificatorio)
+
+### 2026-2027
+
+1. #34 (#3 de TecNM) _The Most Wanted F1_ (Regional)
+1. #45 (#4 de TecNM) _The Erizos_ (Regional)
+1. #53 (#6 de TecNM) _Waosetines_ (Regional)
+1. #87 (#16 de TecNM) _Los Karnales pulpo_ (Clasificatorio)
+1. #94 (#19 de TecNM) _Perdoname SAMY_ (Clasificatorio)
+1. #129 (#24 de TecNM) _Si quieres, a mi no se me ocurre nada_ (Clasificatorio)
+1. #138 (#27 de TecNM) _Nombre del equipo. Evitar usar doble sentido o groserías, discriminación y ese tipo de cosas._ (Clasificatorio)
+1. #189 (#39 de TecNM) _camelotCase_ (Clasificatorio)
+1. #239 (#52 de TecNM) _Cuturrul_ (Clasificatorio)
+1. #262 (#55 de TecNM) _The_Papus_ (Clasificatorio)
+1. #425 (#94 de TecNM) _Furry lovers_ (Clasificatorio)
+1. #510 (#111 de TecNM) _LAS CHICAS SUPER PROGRAMADORAS_ (Clasificatorio)
 
 
 

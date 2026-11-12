@@ -13,9 +13,9 @@
 1. _Rocky IV_ resolvió 5 problemas y obtuvo el lugar #3 (100%) en The 2024 ICPC Mexico Finals
 1. _PumOMM_ resolvió 10 problemas y obtuvo el lugar #2 (100%) en The 2020 ICPC Mexico Finals
 1. _pu++_ resolvió 5 problemas y obtuvo el lugar #5 (99%) en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _Oasis_ resolvió 8 problemas y obtuvo el lugar #6 (99%) en The 2026 ICPC Mexico Finals
 1. _Peso Puma_ resolvió 5 problemas y obtuvo el lugar #6 (99%) en The 2023 ICPC Mexico Finals
 1. _Conejito Malo ICPC: ZYN miedo al éxito_ resolvió 6 problemas y obtuvo el lugar #8 (99%) en The 2025 ICPC Mexico Finals
-1. _UNAM Amada_ resolvió 7 problemas y obtuvo el lugar #9 (99%) en The 2018 ICPC Mexico and Central America Finals
 
 ## Participaciones
 
@@ -23,7 +23,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **4** | **1** | **29** | **93** | **93** |
+| **Total** | **4** | **1** | **33** | **109** | **109** |
 | [2014-2015](#2014-2015) | 0 | 0 | 1 | 1 | 1 |
 | [2015-2016](#2015-2016) | 0 | 0 | 2 | 2 | 2 |
 | [2016-2017](#2016-2017) | 1 | 0 | 1 | 2 | 2 |
@@ -36,6 +36,7 @@
 | [2023-2024](#2023-2024) | 0 | 0 | 3 | 5 | 5 |
 | [2024-2025](#2024-2025) | 0 | 1 | 4 | 10 | 10 |
 | [2025-2026](#2025-2026) | 0 | 0 | 5 | 8 | 8 |
+| [2026-2027](#2026-2027) | 0 | 0 | 4 | 16 | 16 |
 
 ### 2014-2015
 
@@ -169,6 +170,25 @@
 1. #81 _Oaxackers_ (Clasificatorio)
 1. #118 _no batallo pa subirlas batallo pa subir a verde en cf_ (Clasificatorio)
 1. #425 _Tuxgüinitos_ (Clasificatorio)
+
+### 2026-2027
+
+1. #6 _Oasis_ (Regional)
+1. #19 _Claude Opus 4.6_ (Regional)
+1. #49 _Gatos Naranjosos_ (Regional)
+1. #51 _acuantoelmamutdeapeso_ (Regional)
+1. #58 _Nos equivocamos de olimpiada_ (Clasificatorio)
+1. #113 _CPUAC_ (Clasificatorio)
+1. #124 _MLA_ (Clasificatorio)
+1. #211 _ChilaquilesDivorciadosConPollo_ (Clasificatorio)
+1. #280 _Ciencias NP_ (Clasificatorio)
+1. #300 _Kernel Panic_ (Clasificatorio)
+1. #334 _Gatitos Explosivos_ (Clasificatorio)
+1. #438 _Pumamaniaticos_ (Clasificatorio)
+1. #510 _Arielados_ (Clasificatorio)
+1. #510 _ICPCausas_ (Clasificatorio)
+1. #510 _RecursionSquad_ (Clasificatorio)
+1. #510 _SIAFI_ (Clasificatorio)
 
 
 

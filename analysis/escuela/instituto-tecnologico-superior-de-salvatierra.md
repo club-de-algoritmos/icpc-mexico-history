@@ -2,6 +2,8 @@
 
 ## Mejores 10 equipos
 
+1. _Querubínes_ resolvió 6 problemas y obtuvo el lugar #42 (86%) en The 2026 ICPC Gran Premio de Mexico
+1. _pipipi 2.0_ resolvió 11 problemas y obtuvo el lugar #96 (81%) en The 2026 ICPC Gran Premio de Mexico
 1. _Tics1_ resolvió 4 problemas y obtuvo el lugar #233 (80%) en The 2024 ICPC Gran Premio de Mexico
 1. _Script-Squad_ resolvió 0 problemas y obtuvo el lugar #132 (76%) en The 2025 ICPC Mexico Finals
 1. _Script Squad_ resolvió 4 problemas y obtuvo el lugar #282 (76%) en The 2024 ICPC Gran Premio de Mexico
@@ -10,8 +12,6 @@
 1. _Tics4_ resolvió 4 problemas y obtuvo el lugar #365 (69%) en The 2024 ICPC Gran Premio de Mexico
 1. _Binario 101_ obtuvo el lugar #382 (67%) en Gran Premio de Mexico 2019
 1. _servobot 466_ resolvió 1 problemas y obtuvo el lugar #458 (62%) en The 2024 ICPC Gran Premio de Mexico
-1. _Tics2_ resolvió 1 problemas y obtuvo el lugar #459 (62%) en The 2024 ICPC Gran Premio de Mexico
-1. _CHADIGA_ obtuvo el lugar #382 (61%) en Gran Premio de Mexico 2019
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **2** | **44** | **44** |
+| **Total** | **0** | **0** | **2** | **55** | **55** |
 | [2014-2015](#2014-2015) | 0 | 0 | 0 | 4 | 4 |
 | [2017-2018](#2017-2018) | 0 | 0 | 0 | 1 | 1 |
 | [2019-2020](#2019-2020) | 0 | 0 | 0 | 8 | 8 |
@@ -29,6 +29,7 @@
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 1 | 1 |
 | [2024-2025](#2024-2025) | 0 | 0 | 0 | 10 | 10 |
 | [2025-2026](#2025-2026) | 0 | 0 | 2 | 8 | 8 |
+| [2026-2027](#2026-2027) | 0 | 0 | 0 | 11 | 11 |
 
 ### 2014-2015
 
@@ -100,6 +101,20 @@
 1. #486 (#116 de TecNM) _Las chicas y el CR_ (Clasificatorio)
 1. #494 (#121 de TecNM) _Los trifasicos_ (Clasificatorio)
 1. #497 (#123 de TecNM) _Los charales del norte_ (Clasificatorio)
+
+### 2026-2027
+
+1. #42 (#5 de TecNM) _Querubínes_ (Clasificatorio)
+1. #96 (#21 de TecNM) _pipipi 2.0_ (Clasificatorio)
+1. #251 (#53 de TecNM) _Dos Pros y Un Null_ (Clasificatorio)
+1. #384 (#84 de TecNM) _Los charales del norte_ (Clasificatorio)
+1. #424 (#93 de TecNM) _Los caballeros_ (Clasificatorio)
+1. #435 (#96 de TecNM) _Los Quemaditos_ (Clasificatorio)
+1. #488 (#105 de TecNM) _Programadores-RH_ (Clasificatorio)
+1. #492 (#106 de TecNM) _Big Nose Team_ (Clasificatorio)
+1. #510 (#111 de TecNM) _Dream Team _ (Clasificatorio)
+1. #510 (#111 de TecNM) _Los Finales_ (Clasificatorio)
+1. #510 (#111 de TecNM) _MISAMO_ (Clasificatorio)
 
 
 

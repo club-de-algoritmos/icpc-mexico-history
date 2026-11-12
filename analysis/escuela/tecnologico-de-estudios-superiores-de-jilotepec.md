@@ -10,8 +10,8 @@
 1. _Los Bradleys_ resolvió 0 problemas y obtuvo el lugar #482 (22%) en The 2024 ICPC Gran Premio de Mexico
 1. _Littles tic's_ resolvió 0 problemas y obtuvo el lugar #482 (19%) en The 2024 ICPC Gran Premio de Mexico
 1. _Los Inges_ resolvió 0 problemas y obtuvo el lugar #482 (19%) en The 2024 ICPC Gran Premio de Mexico
+1. _DUCKS_ resolvió 0 problemas y obtuvo el lugar #510 (12%) en The 2026 ICPC Gran Premio de Mexico
 1. _The Gammers_ resolvió 0 problemas y obtuvo el lugar #482 (10%) en The 2024 ICPC Gran Premio de Mexico
-1. _CHELSEA TICS_ resolvió 0 problemas y obtuvo el lugar #482 (7%) en The 2024 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -19,9 +19,10 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **0** | **16** | **16** |
+| **Total** | **0** | **0** | **0** | **19** | **19** |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 4 | 4 |
 | [2024-2025](#2024-2025) | 0 | 0 | 0 | 12 | 12 |
+| [2026-2027](#2026-2027) | 0 | 0 | 0 | 3 | 3 |
 
 ### 2022-2023
 
@@ -44,6 +45,12 @@
 1. #482 _DUCKS_ (Clasificatorio)
 1. #482 _MegaByte_ (Clasificatorio)
 1. #482 _tres en apuros_ (Clasificatorio)
+
+### 2026-2027
+
+1. #510 _DUCKS_ (Clasificatorio)
+1. #510 _Los Inges_ (Clasificatorio)
+1. #510 _Bits_ (Clasificatorio)
 
 
 

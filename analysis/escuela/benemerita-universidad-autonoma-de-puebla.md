@@ -21,7 +21,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **2** | **0** | **41** | **36** | **72** |
+| **Total** | **2** | **0** | **41** | **54** | **90** |
 | [2002-2003](#2002-2003) | 0 | 0 | 2 | 0 | 2 |
 | [2003-2004](#2003-2004) | 0 | 0 | 5 | 0 | 5 |
 | [2004-2005](#2004-2005) | 1 | 0 | 3 | 0 | 3 |
@@ -42,6 +42,7 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 1 | 1 |
 | [2024-2025](#2024-2025) | 0 | 0 | 2 | 8 | 8 |
 | [2025-2026](#2025-2026) | 0 | 0 | 2 | 13 | 13 |
+| [2026-2027](#2026-2027) | 0 | 0 | 0 | 18 | 18 |
 
 ### 2002-2003
 
@@ -176,6 +177,27 @@
 1. #356 _Nadaqueverientos_ (Clasificatorio)
 1. #403 _Noditos_ (Clasificatorio)
 1. #511 _CommitAndForget_ (Clasificatorio)
+
+### 2026-2027
+
+1. #149 _segmentationFault :(_ (Clasificatorio)
+1. #154 _Bits&Bytes_ (Clasificatorio)
+1. #173 _Tilines Insanos_ (Clasificatorio)
+1. #174 _BFS (Boys Freaking Sexys)_ (Clasificatorio)
+1. #196 _Los 3B_ (Clasificatorio)
+1. #219 _Linuxeros_ (Clasificatorio)
+1. #243 _Mixiote Team_ (Clasificatorio)
+1. #245 _Mango con Tajín_ (Clasificatorio)
+1. #260 _CuboLobitos_ (Clasificatorio)
+1. #335 _	Balloon Boys_ (Clasificatorio)
+1. #349 _gatito include_ (Clasificatorio)
+1. #391 _Look-What-You-Made-Me-Code_ (Clasificatorio)
+1. #418 _Zero Devs_ (Clasificatorio)
+1. #420 _Los NyE_ (Clasificatorio)
+1. #449 _Dinastia_ (Clasificatorio)
+1. #502 _Pink pony club_ (Clasificatorio)
+1. #506 _CodeStorm_ (Clasificatorio)
+1. #510 _Lagrangiano_ (Clasificatorio)
 
 
 

@@ -4,15 +4,15 @@
 
 1. _Gauss N´ Roses_ resolvió 5 problemas y obtuvo el lugar #6 (100%) en The 2024 ICPC Mexico Finals
     - Avanzó a la final mundial y resolvió 4 problemas y obtuvo el lugar #66 (53%) en 49th Annual World Finals of the International Collegiate Programming Contest
+1. _Gauss N' Roses_ resolvió 8 problemas y obtuvo el lugar #9 (99%) en The 2026 ICPC Mexico Finals
+1. _PEScapitalista_ resolvió 8 problemas y obtuvo el lugar #11 (98%) en The 2026 ICPC Mexico Finals
 1. _Gauss N’ Roses_ resolvió 4 problemas y obtuvo el lugar #12 (98%) en The 2023 ICPC Mexico Finals
 1. _Gauss N' Roses_ resolvió 5 problemas y obtuvo el lugar #13 (98%) en The 2025 ICPC Mexico Finals
+1. _Tuntunsitos_ resolvió 7 problemas y obtuvo el lugar #15 (98%) en The 2026 ICPC Mexico Finals
 1. _Coding Horror_ resolvió 3 problemas y obtuvo el lugar #17 (98%) en The 2017 ACM-ICPC Mexico and Central America Finals
 1. _Gauss N' Roses_ resolvió 2 problemas y obtuvo el lugar #32 (97%) en The 2022 ICPC Mexico Finals
 1. _3 de Lechón con Cascarita_ resolvió 4 problemas y obtuvo el lugar #34 (97%) en The 2024 ICPC Mexico Finals
 1. _Puerto Seco_ resolvió 4 problemas y obtuvo el lugar #22 (96%) en The 2025 ICPC Mexico Finals
-1. _Gleichseitiges_ resolvió 3 problemas y obtuvo el lugar #22 (96%) en The 2016 ACM-ICPC Mexico and Central America Finals
-1. _Salbutes con frijol_ resolvió 3 problemas y obtuvo el lugar #62 (95%) en The 2024 ICPC Mexico Finals
-1. _dp[los]_ resolvió 3 problemas y obtuvo el lugar #32 (94%) en The 2025 ICPC Mexico Finals
 
 ## Participaciones
 
@@ -20,7 +20,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **1** | **1** | **25** | **90** | **98** |
+| **Total** | **1** | **1** | **30** | **107** | **115** |
 | [2001-2002](#2001-2002) | 0 | 0 | 1 | 0 | 1 |
 | [2002-2003](#2002-2003) | 0 | 0 | 2 | 0 | 2 |
 | [2004-2005](#2004-2005) | 0 | 0 | 1 | 0 | 1 |
@@ -39,6 +39,7 @@
 | [2023-2024](#2023-2024) | 0 | 0 | 1 | 4 | 4 |
 | [2024-2025](#2024-2025) | 1 | 1 | 3 | 21 | 21 |
 | [2025-2026](#2025-2026) | 0 | 0 | 5 | 19 | 19 |
+| [2026-2027](#2026-2027) | 0 | 0 | 5 | 17 | 17 |
 
 ### 2001-2002
 
@@ -192,6 +193,26 @@
 1. #480 _Circe_ (Clasificatorio)
 1. #499 _Pollos Recocidos_ (Clasificatorio)
 1. #505 _DevOps Ninjas_ (Clasificatorio)
+
+### 2026-2027
+
+1. #9 _Gauss N' Roses_ (Regional)
+1. #11 _PEScapitalista_ (Regional)
+1. #15 _Tuntunsitos_ (Regional)
+1. #27 _M for Matrix_ (Regional)
+1. #83 _V for Vector_ (Regional)
+1. #62 _Error 67_ (Clasificatorio)
+1. #70 _Salbutes con frijol_ (Clasificatorio)
+1. #185 _No Puedes Porque Soy La Condesa_ (Clasificatorio)
+1. #193 _Chilaquiles con javaica_ (Clasificatorio)
+1. #222 _StarCode Crusaders_ (Clasificatorio)
+1. #265 _<Arc/Cypher>_ (Clasificatorio)
+1. #288 _Los 800_ (Clasificatorio)
+1. #347 _Patrulla 01010001_ (Clasificatorio)
+1. #395 _Three too little pointers_ (Clasificatorio)
+1. #417 _Meowls_ (Clasificatorio)
+1. #474 _Hackstreet Bots_ (Clasificatorio)
+1. #510 _Hood Code Department_ (Clasificatorio)
 
 
 

@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **2** | **35** | **35** |
+| **Total** | **0** | **0** | **2** | **38** | **38** |
 | [2016-2017](#2016-2017) | 0 | 0 | 0 | 3 | 3 |
 | [2017-2018](#2017-2018) | 0 | 0 | 0 | 3 | 3 |
 | [2018-2019](#2018-2019) | 0 | 0 | 0 | 6 | 6 |
@@ -28,6 +28,7 @@
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 2 | 2 |
 | [2024-2025](#2024-2025) | 0 | 0 | 1 | 8 | 8 |
 | [2025-2026](#2025-2026) | 0 | 0 | 1 | 3 | 3 |
+| [2026-2027](#2026-2027) | 0 | 0 | 0 | 3 | 3 |
 
 ### 2016-2017
 
@@ -87,6 +88,12 @@
 1. #121 (#24 de TecNM) _Umizoomi_ (Regional)
 1. #263 (#55 de TecNM) _Code Rangers_ (Clasificatorio)
 1. #477 (#113 de TecNM) _CodeNoobs_ (Clasificatorio)
+
+### 2026-2027
+
+1. #343 (#71 de TecNM) _Code Rangers Remake_ (Clasificatorio)
+1. #353 (#76 de TecNM) _Yaretzi y su Esencia_ (Clasificatorio)
+1. #367 (#79 de TecNM) _The Voids_ (Clasificatorio)
 
 
 

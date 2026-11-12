@@ -6,6 +6,7 @@
     - Avanzó a la final mundial y resolvió 3 problemas y obtuvo el lugar #49 (52%) en 33rd Annual World Finals of the ACM International Collegiate Programming Contest
 1. _ITC Turing Machines_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) resolvió 5 problemas y obtuvo el lugar #3 (99%) en The 2007 ACM Mexico and Central America Programming Contest
     - Avanzó a la final mundial y resolvió 0 problemas y obtuvo el lugar #90 (10%) en The 2008 ACM Programming Contest World Finals
+1. _Los guerreros más fuertes de wkoder_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) resolvió 8 problemas y obtuvo el lugar #8 (99%) en The 2026 ICPC Mexico Finals
 1. _BRO™_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) resolvió 6 problemas y obtuvo el lugar #9 (99%) en The 2025 ICPC Mexico Finals
 1. _Ludus G++_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) resolvió 4 problemas y obtuvo el lugar #14 (99%) en The 2022 ICPC Mexico Finals
 1. _BRO... CSM_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) resolvió 4 problemas y obtuvo el lugar #15 (99%) en The 2024 ICPC Mexico Finals
@@ -13,7 +14,6 @@
 1. _Ludus +500_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) resolvió 4 problemas y obtuvo el lugar #29 (98%) en The 2024 ICPC Mexico Finals
 1. _los punteros_ ([ITESM Campus Mazatlán](escuela/itesm-campus-mazatlan)) resolvió 4 problemas y obtuvo el lugar #6 (97%) en The 2007 ACM Mexico and Central America Programming Contest
 1. _JRA_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) resolvió 5 problemas y obtuvo el lugar #9 (97%) en The 2014 ACM-ICPC Mexico and Central America Finals
-1. _Sieve of Ludus_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) resolvió 4 problemas y obtuvo el lugar #13 (97%) en The 2023 ICPC Mexico Finals
 
 ## Participaciones
 
@@ -21,7 +21,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos | Escuelas |
 | --- | --- | --- | --- | --- | --- | --- |
-| **Total** | **2** | **0** | **80** | **95** | **160** | **8** |
+| **Total** | **2** | **0** | **83** | **102** | **167** | **8** |
 | [2001-2002](#2001-2002) | 0 | 0 | 4 | 0 | 4 | 1 |
 | [2002-2003](#2002-2003) | 0 | 0 | 7 | 0 | 7 | 1 |
 | [2003-2004](#2003-2004) | 0 | 0 | 6 | 0 | 6 | 1 |
@@ -47,6 +47,7 @@
 | [2023-2024](#2023-2024) | 0 | 0 | 2 | 18 | 18 | 3 |
 | [2024-2025](#2024-2025) | 0 | 0 | 4 | 16 | 16 | 3 |
 | [2025-2026](#2025-2026) | 0 | 0 | 6 | 14 | 14 | 2 |
+| [2026-2027](#2026-2027) | 0 | 0 | 3 | 7 | 7 | 2 |
 
 ### 2001-2002
 
@@ -279,6 +280,16 @@
 1. #457 (#104 de TecNM) _donkeys_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
 1. #527 (#133 de TecNM) _Salchipapas_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
 
+### 2026-2027
+
+1. #8 (#1 de TecNM) _Los guerreros más fuertes de wkoder_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Regional)
+1. #17 (#2 de TecNM) _AD-HOCK_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Regional)
+1. #41 _Los Monos Bichis_ ([Facultad de Informática Mazatlán UAS](escuela/facultad-de-informatica-mazatlan-uas)) (Regional)
+1. #290 (#60 de TecNM) _bool comprensionLectora=false;_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
+1. #346 (#72 de TecNM) _UKN_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
+1. #394 (#88 de TecNM) _Mecates_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
+1. #405 (#90 de TecNM) _KRV_ ([Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan)) (Clasificatorio)
+
 
 ## Ranking de escuelas
 
@@ -286,8 +297,8 @@
 
 | # | Escuela | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Total |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan) | 0 | 0 | 12 | 54 | 54 |
-| 2 | [Facultad de Informática Mazatlán UAS](escuela/facultad-de-informatica-mazatlan-uas) | 0 | 0 | 2 | 6 | 6 |
+| 1 | [Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan) | 0 | 0 | 14 | 60 | 60 |
+| 2 | [Facultad de Informática Mazatlán UAS](escuela/facultad-de-informatica-mazatlan-uas) | 0 | 0 | 3 | 7 | 7 |
 | 3 | [Universidad Autónoma de Sinaloa](escuela/universidad-autonoma-de-sinaloa) | 0 | 0 | 0 | 9 | 9 |
 | 4 | [Universidad Autónoma de Occidente](escuela/universidad-autonoma-de-occidente) | 0 | 0 | 0 | 1 | 1 |
 | 5 | [Instituto Tecnológico de Mazatlán](escuela/instituto-tecnologico-de-mazatlan) | 0 | 0 | 0 | 1 | 1 |
@@ -296,10 +307,10 @@
 
 | # | Escuela | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Total |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan) | 2 | 0 | 27 | 64 | 78 |
+| 1 | [Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan) | 2 | 0 | 29 | 70 | 84 |
 | 2 | [ITESM Campus Mazatlán](escuela/itesm-campus-mazatlan) | 0 | 0 | 47 | 0 | 47 |
 | 3 | [Universidad Politecnica de Sinaloa](escuela/universidad-politecnica-de-sinaloa) | 0 | 0 | 4 | 0 | 4 |
-| 4 | [Facultad de Informática Mazatlán UAS](escuela/facultad-de-informatica-mazatlan-uas) | 0 | 0 | 2 | 6 | 6 |
+| 4 | [Facultad de Informática Mazatlán UAS](escuela/facultad-de-informatica-mazatlan-uas) | 0 | 0 | 3 | 7 | 7 |
 | 5 | [Universidad Autónoma de Sinaloa](escuela/universidad-autonoma-de-sinaloa) | 0 | 0 | 0 | 20 | 20 |
 | 6 | [Universidad de Occidente, Unidad Culiacán](escuela/universidad-de-occidente,-unidad-culiacan) | 0 | 0 | 0 | 2 | 2 |
 | 7 | [Universidad Autónoma de Occidente](escuela/universidad-autonoma-de-occidente) | 0 | 0 | 0 | 2 | 2 |

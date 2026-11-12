@@ -6,7 +6,9 @@
 1. _Full-Time Plis_ resolvió 4 problemas y obtuvo el lugar #19 (97%) en The 2025 ICPC Mexico Finals
 1. _Juniors_ resolvió 3 problemas y obtuvo el lugar #35 (92%) en The 2023 ICPC Mexico Finals
 1. _NetRunners_ resolvió 1 problemas y obtuvo el lugar #93 (92%) en The 2024 ICPC Mexico Finals
+1. _DBC++_ resolvió 1 problemas y obtuvo el lugar #72 (89%) en The 2026 ICPC Mexico Finals
 1. _Big O(AAI)_ resolvió 2 problemas y obtuvo el lugar #108 (80%) en The 2025 ICPC Mexico Finals
+1. _Big O (AAI)_ resolvió 7 problemas y obtuvo el lugar #188 (68%) en The 2026 ICPC Gran Premio de Mexico
 1. _One McJob pls_ resolvió 6 problemas y obtuvo el lugar #277 (46%) en The 2025 ICPC Gran Premio de Mexico
 1. _Juniors_ resolvió 0 problemas y obtuvo el lugar #382 (11%) en The 2022 ICPC Gran Premio de Mexico
 
@@ -16,11 +18,12 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **5** | **7** | **7** |
+| **Total** | **0** | **0** | **6** | **9** | **9** |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 1 | 1 |
 | [2023-2024](#2023-2024) | 0 | 0 | 1 | 1 | 1 |
 | [2024-2025](#2024-2025) | 0 | 0 | 2 | 2 | 2 |
 | [2025-2026](#2025-2026) | 0 | 0 | 2 | 3 | 3 |
+| [2026-2027](#2026-2027) | 0 | 0 | 1 | 2 | 2 |
 
 ### 2022-2023
 
@@ -40,6 +43,11 @@
 1. #19 (#2 de TecNM) _Full-Time Plis_ (Regional)
 1. #108 (#19 de TecNM) _Big O(AAI)_ (Regional)
 1. #277 (#58 de TecNM) _One McJob pls_ (Clasificatorio)
+
+### 2026-2027
+
+1. #72 (#10 de TecNM) _DBC++_ (Regional)
+1. #188 (#38 de TecNM) _Big O (AAI)_ (Clasificatorio)
 
 
 

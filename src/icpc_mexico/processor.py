@@ -59,13 +59,17 @@ def _clean_up_teams(team_results: List[TeamResult], contest: Contest) -> List[Te
     if not contest.is_manual:
         # Check ranks
         prev_team = None
+        tied_count = 0  # Number of consecutive teams sharing the previous team's rank
         for idx, team in enumerate(sorted_teams):
             expected_rank = idx + 1
             # Allow a rank offset of up to 5 places as that's how it is :(
-            if team.rank != expected_rank and not (prev_team.rank <= team.rank <= prev_team.rank + 5):
+            # The offset counts from the first rank after the group of teams tied with the previous team.
+            if team.rank != expected_rank and not (
+                    prev_team.rank <= team.rank <= prev_team.rank + tied_count + 5):
                 print(f'Previous team: {prev_team}')
                 print(f'Team: {team}')
                 raise ProcessingError(f'Unexpected rank for team {team.name}: {team.rank}, expected {expected_rank}')
+            tied_count = tied_count + 1 if prev_team and prev_team.rank == team.rank else 1
             prev_team = team
 
     return sorted_teams

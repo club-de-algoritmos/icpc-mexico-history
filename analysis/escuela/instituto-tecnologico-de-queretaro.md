@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **28** | **22** | **46** |
+| **Total** | **0** | **0** | **28** | **24** | **48** |
 | [2001-2002](#2001-2002) | 0 | 0 | 3 | 0 | 3 |
 | [2003-2004](#2003-2004) | 0 | 0 | 1 | 0 | 1 |
 | [2004-2005](#2004-2005) | 0 | 0 | 4 | 0 | 4 |
@@ -37,6 +37,7 @@
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 2 | 2 |
 | [2024-2025](#2024-2025) | 0 | 0 | 1 | 4 | 4 |
 | [2025-2026](#2025-2026) | 0 | 0 | 2 | 4 | 4 |
+| [2026-2027](#2026-2027) | 0 | 0 | 0 | 2 | 2 |
 
 ### 2001-2002
 
@@ -134,6 +135,11 @@
 1. #131 (#29 de TecNM) _dba_users_ (Regional)
 1. #247 (#51 de TecNM) _Programadores de Papantla_ (Clasificatorio)
 1. #358 (#79 de TecNM) _Lambda Stack_ (Clasificatorio)
+
+### 2026-2027
+
+1. #198 (#43 de TecNM) _Pull-over_ (Clasificatorio)
+1. #214 (#46 de TecNM) _system("pause")_ (Clasificatorio)
 
 
 

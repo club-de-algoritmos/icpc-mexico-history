@@ -9,9 +9,9 @@
 1. _Rodrigo ya salte del equipo POR FAVOR_ resolvió 4 problemas y obtuvo el lugar #17 (97%) en The 2025 ICPC Mexico Finals
 1. _!nullptr_ resolvió 2 problemas y obtuvo el lugar #34 (97%) en The 2022 ICPC Mexico Finals
 1. _camel_case_ resolvió 4 problemas y obtuvo el lugar #21 (96%) en The 2025 ICPC Mexico Finals
+1. _Tacos de Schnauzer_ resolvió 6 problemas y obtuvo el lugar #23 (96%) en The 2026 ICPC Mexico Finals
 1. _camel_case_ resolvió 3 problemas y obtuvo el lugar #45 (96%) en The 2024 ICPC Mexico Finals
 1. _Opilimpicos_ resolvió 1 problemas y obtuvo el lugar #47 (96%) en The 2019 ICPC Mexico Finals
-1. _!nullptr_ resolvió 4 problemas y obtuvo el lugar #23 (95%) en The 2023 ICPC Mexico Finals
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **17** | **116** | **118** |
+| **Total** | **0** | **0** | **19** | **136** | **138** |
 | [2002-2003](#2002-2003) | 0 | 0 | 1 | 0 | 1 |
 | [2012-2013](#2012-2013) | 0 | 0 | 1 | 0 | 1 |
 | [2018-2019](#2018-2019) | 0 | 0 | 1 | 4 | 4 |
@@ -30,6 +30,7 @@
 | [2023-2024](#2023-2024) | 0 | 0 | 2 | 21 | 21 |
 | [2024-2025](#2024-2025) | 0 | 0 | 3 | 14 | 14 |
 | [2025-2026](#2025-2026) | 0 | 0 | 3 | 21 | 21 |
+| [2026-2027](#2026-2027) | 0 | 0 | 2 | 20 | 20 |
 
 ### 2002-2003
 
@@ -178,6 +179,29 @@
 1. #487 _Multiplexores sin buffer_ (Clasificatorio)
 1. #491 _1000101_ (Clasificatorio)
 1. #504 _Los CloverFlow_ (Clasificatorio)
+
+### 2026-2027
+
+1. #23 _Tacos de Schnauzer_ (Regional)
+1. #36 _Opilimpicos_ (Regional)
+1. #101 _Append-ISI's_ (Clasificatorio)
+1. #120 _Off by one_ (Clasificatorio)
+1. #128 _Ximena hazme caso_ (Clasificatorio)
+1. #175 _EXCELente_ (Clasificatorio)
+1. #184 _fsociety_ (Clasificatorio)
+1. #237 _!Orden Factorial!_ (Clasificatorio)
+1. #249 _Therians_ (Clasificatorio)
+1. #259 _Tux Force_ (Clasificatorio)
+1. #285 _MothSteppers_ (Clasificatorio)
+1. #287 _codePosition_ (Clasificatorio)
+1. #329 _Byte me_ (Clasificatorio)
+1. #381 _Las tres mosqueteras_ (Clasificatorio)
+1. #408 _MoiYLosMoyetes_ (Clasificatorio)
+1. #430 _STL (Sacamos Time Limit)_ (Clasificatorio)
+1. #445 _Cadena y los otros_ (Clasificatorio)
+1. #469 _Venimos Por el Punto_ (Clasificatorio)
+1. #510 _Saquen a Dani_ (Clasificatorio)
+1. #510 _Team Shaw_ (Clasificatorio)
 
 
 

@@ -19,11 +19,12 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **0** | **11** | **11** |
+| **Total** | **0** | **0** | **0** | **14** | **14** |
 | [2019-2020](#2019-2020) | 0 | 0 | 0 | 3 | 3 |
 | [2020-2021](#2020-2021) | 0 | 0 | 0 | 2 | 2 |
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 2 | 2 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 4 | 4 |
+| [2026-2027](#2026-2027) | 0 | 0 | 0 | 3 | 3 |
 
 ### 2019-2020
 
@@ -47,6 +48,12 @@
 1. #382 (#83 de TecNM) _Pixeles_ (Clasificatorio)
 1. #382 (#83 de TecNM) _Ticsianos 1.0_ (Clasificatorio)
 1. #382 (#83 de TecNM) _Titanes 3.0_ (Clasificatorio)
+
+### 2026-2027
+
+1. #510 (#111 de TecNM) _Master chips 1.0_ (Clasificatorio)
+1. #510 (#111 de TecNM) _TecnoLovers_ (Clasificatorio)
+1. #510 (#111 de TecNM) _Triple Code_ (Clasificatorio)
 
 
 

@@ -3,6 +3,7 @@
 ## Mejores 10 equipos
 
 1. _Compilando..._ resolvió 2 problemas y obtuvo el lugar #66 (87%) en The 2016 ACM-ICPC Mexico and Central America Finals
+1. _Balam_ resolvió 0 problemas y obtuvo el lugar #86 (87%) en The 2026 ICPC Mexico Finals
 1. _HashTable_ resolvió 3 problemas y obtuvo el lugar #28 (83%) en The 2012 Mexico & Central America Regional Contest
 1. _IOException_ resolvió 3 problemas y obtuvo el lugar #219 (83%) en Gran Premio de Mexico 2019
 1. _DeepMaze_ resolvió 5 problemas y obtuvo el lugar #91 (79%) en The 2023 ICPC Gran Premio de Mexico
@@ -11,7 +12,6 @@
 1. _Hashtable_ resolvió 1 problemas y obtuvo el lugar #57 (77%) en The 2014 ACM-ICPC Mexico and Central America Finals
 1. _NewMonos_ resolvió 2 problemas y obtuvo el lugar #125 (77%) en The 2025 ICPC Mexico Finals
 1. _DeepMaze_ resolvió 2 problemas y obtuvo el lugar #235 (77%) en The 2022 ICPC Gran Premio de Mexico
-1. _Lira coders_ resolvió 2 problemas y obtuvo el lugar #236 (77%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **18** | **37** | **52** |
+| **Total** | **0** | **0** | **19** | **43** | **58** |
 | [2005-2006](#2005-2006) | 0 | 0 | 1 | 0 | 1 |
 | [2006-2007](#2006-2007) | 0 | 0 | 1 | 0 | 1 |
 | [2007-2008](#2007-2008) | 0 | 0 | 1 | 0 | 1 |
@@ -41,6 +41,7 @@
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 5 | 5 |
 | [2024-2025](#2024-2025) | 0 | 0 | 0 | 5 | 5 |
 | [2025-2026](#2025-2026) | 0 | 0 | 1 | 2 | 2 |
+| [2026-2027](#2026-2027) | 0 | 0 | 1 | 6 | 6 |
 
 ### 2005-2006
 
@@ -156,6 +157,15 @@
 
 1. #125 (#26 de TecNM) _NewMonos_ (Regional)
 1. #426 (#98 de TecNM) _the racoons_ (Clasificatorio)
+
+### 2026-2027
+
+1. #86 (#14 de TecNM) _Balam_ (Regional)
+1. #292 (#62 de TecNM) _Code Kraken_ (Clasificatorio)
+1. #309 (#66 de TecNM) _Bee coders_ (Clasificatorio)
+1. #352 (#75 de TecNM) _Cobras code_ (Clasificatorio)
+1. #370 (#80 de TecNM) _The Racoons_ (Clasificatorio)
+1. #443 (#98 de TecNM) _Antomic_ (Clasificatorio)
 
 
 

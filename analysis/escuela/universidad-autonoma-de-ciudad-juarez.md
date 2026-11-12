@@ -11,7 +11,7 @@
 1. _Código endiablado_ resolvió 2 problemas y obtuvo el lugar #92 (83%) en The 2025 ICPC Mexico Finals
 1. _Hard Coders_ resolvió 10 problemas y obtuvo el lugar #113 (83%) en Gran Premio de Mexico 2020
 1. _Codesnatchers_ resolvió 2 problemas y obtuvo el lugar #105 (81%) en The 2025 ICPC Mexico Finals
-1. _WINDIIT_ resolvió 5 problemas y obtuvo el lugar #190 (73%) en Gran Premio de Mexico 2020
+1. _Second to penalty_ resolvió 10 problemas y obtuvo el lugar #106 (80%) en The 2026 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **7** | **22** | **22** |
+| **Total** | **0** | **0** | **7** | **25** | **25** |
 | [2018-2019](#2018-2019) | 0 | 0 | 0 | 2 | 2 |
 | [2019-2020](#2019-2020) | 0 | 0 | 0 | 1 | 1 |
 | [2020-2021](#2020-2021) | 0 | 0 | 0 | 4 | 4 |
@@ -28,6 +28,7 @@
 | [2023-2024](#2023-2024) | 0 | 0 | 1 | 3 | 3 |
 | [2024-2025](#2024-2025) | 0 | 0 | 2 | 4 | 4 |
 | [2025-2026](#2025-2026) | 0 | 0 | 2 | 2 | 2 |
+| [2026-2027](#2026-2027) | 0 | 0 | 0 | 3 | 3 |
 
 ### 2018-2019
 
@@ -74,6 +75,12 @@
 
 1. #92 _Código endiablado_ (Regional)
 1. #105 _Codesnatchers_ (Regional)
+
+### 2026-2027
+
+1. #106 _Second to penalty_ (Clasificatorio)
+1. #318 _jua_ (Clasificatorio)
+1. #363 _BDP_ (Clasificatorio)
 
 
 

@@ -9,9 +9,9 @@
 1. _make sandwich_ resolvió 3 problemas y obtuvo el lugar #30 (94%) en The 2016 ACM-ICPC Mexico and Central America Finals
 1. _M3_ resolvió 3 problemas y obtuvo el lugar #32 (94%) en The 2016 ACM-ICPC Mexico and Central America Finals
 1. _Los 3Debuggers_ resolvió 3 problemas y obtuvo el lugar #35 (94%) en The 2025 ICPC Mexico Finals
+1. _Labubus vs Ternurines II_ resolvió 4 problemas y obtuvo el lugar #40 (94%) en The 2026 ICPC Mexico Finals
 1. _ITCCM_ resolvió 4 problemas y obtuvo el lugar #12 (93%) en The 2009 Mexico & Central America Contest
 1. _LTMCCM_ resolvió 2 problemas y obtuvo el lugar #83 (93%) en The 2024 ICPC Mexico Finals
-1. _The Screens_ resolvió 1 problemas y obtuvo el lugar #60 (91%) en The 2017 ACM-ICPC Mexico and Central America Finals
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **22** | **38** | **49** |
+| **Total** | **0** | **0** | **23** | **44** | **55** |
 | [2009-2010](#2009-2010) | 0 | 0 | 3 | 0 | 3 |
 | [2010-2011](#2010-2011) | 0 | 0 | 3 | 0 | 3 |
 | [2011-2012](#2011-2012) | 0 | 0 | 3 | 0 | 3 |
@@ -34,6 +34,7 @@
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 2 | 2 |
 | [2024-2025](#2024-2025) | 0 | 0 | 2 | 7 | 7 |
 | [2025-2026](#2025-2026) | 0 | 0 | 2 | 7 | 7 |
+| [2026-2027](#2026-2027) | 0 | 0 | 1 | 6 | 6 |
 
 ### 2009-2010
 
@@ -125,6 +126,15 @@
 1. #424 (#49 de ITESM) _While True: Win()_ (Clasificatorio)
 1. #428 (#50 de ITESM) _Bombordino_ (Clasificatorio)
 1. #468 (#55 de ITESM) _Gauss-Jordan_ (Clasificatorio)
+
+### 2026-2027
+
+1. #40 (#9 de ITESM) _Labubus vs Ternurines II_ (Regional)
+1. #203 (#25 de ITESM) _Snack Overflow_ (Clasificatorio)
+1. #376 (#50 de ITESM) _long long long_ (Clasificatorio)
+1. #482 (#58 de ITESM) _dinamita_ (Clasificatorio)
+1. #485 (#59 de ITESM) _Drimtim Patapim_ (Clasificatorio)
+1. #510 (#61 de ITESM) _The algorithms 67_ (Clasificatorio)
 
 
 

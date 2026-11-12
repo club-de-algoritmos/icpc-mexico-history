@@ -21,7 +21,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **2** | **0** | **44** | **105** | **130** |
+| **Total** | **2** | **0** | **46** | **113** | **138** |
 | [2005-2006](#2005-2006) | 0 | 0 | 1 | 0 | 1 |
 | [2009-2010](#2009-2010) | 0 | 0 | 3 | 0 | 3 |
 | [2010-2011](#2010-2011) | 0 | 0 | 3 | 0 | 3 |
@@ -40,6 +40,7 @@
 | [2023-2024](#2023-2024) | 0 | 0 | 1 | 3 | 3 |
 | [2024-2025](#2024-2025) | 0 | 0 | 2 | 8 | 8 |
 | [2025-2026](#2025-2026) | 0 | 0 | 2 | 8 | 8 |
+| [2026-2027](#2026-2027) | 0 | 0 | 2 | 8 | 8 |
 
 ### 2005-2006
 
@@ -226,6 +227,17 @@
 1. #303 _PATH_ (Clasificatorio)
 1. #459 _**puntero apunta puntero_ (Clasificatorio)
 1. #519 _OppenheimerGallosUAA_ (Clasificatorio)
+
+### 2026-2027
+
+1. #44 _Se Alejan Cositas_ (Regional)
+1. #70 _PATH_ (Regional)
+1. #74 _Uaaxaqueños_ (Clasificatorio)
+1. #118 _DPresión Dinámica_ (Clasificatorio)
+1. #181 _#include<gallos>_ (Clasificatorio)
+1. #190 _pow(Alejandro, 3);_ (Clasificatorio)
+1. #248 _APA_7_ (Clasificatorio)
+1. #483 _Izzi Tv_ (Clasificatorio)
 
 
 

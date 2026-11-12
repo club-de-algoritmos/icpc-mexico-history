@@ -3,6 +3,7 @@
 ## Mejores 10 equipos
 
 1. _Fogoneros_ resolvió 3 problemas y obtuvo el lugar #9 (95%) en The 2007 ACM Mexico and Central America Programming Contest
+1. _Conademy_ resolvió 0 problemas y obtuvo el lugar #87 (87%) en The 2026 ICPC Mexico Finals
 1. _UPIITA-2_ resolvió 2 problemas y obtuvo el lugar #26 (84%) en The 2005 ACM Mexico and Central America Programming Contest
 1. _UPIITA-II_ resolvió 2 problemas y obtuvo el lugar #39 (70%) en The 2006 ACM Mexico and Central America Programming Contest
 1. _UPIITA-I_ resolvió 2 problemas y obtuvo el lugar #45 (65%) en The 2006 ACM Mexico and Central America Programming Contest
@@ -18,12 +19,13 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **9** | **0** | **9** |
+| **Total** | **0** | **0** | **10** | **0** | **10** |
 | [2004-2005](#2004-2005) | 0 | 0 | 1 | 0 | 1 |
 | [2005-2006](#2005-2006) | 0 | 0 | 2 | 0 | 2 |
 | [2006-2007](#2006-2007) | 0 | 0 | 2 | 0 | 2 |
 | [2007-2008](#2007-2008) | 0 | 0 | 2 | 0 | 2 |
 | [2008-2009](#2008-2009) | 0 | 0 | 2 | 0 | 2 |
+| [2026-2027](#2026-2027) | 0 | 0 | 1 | 0 | 1 |
 
 ### 2004-2005
 
@@ -48,6 +50,10 @@
 
 1. #73 _Fogoneros_ (Regional)
 1. #101 _BatizChicos_ (Regional)
+
+### 2026-2027
+
+1. #87 _Conademy_ (Regional)
 
 
 

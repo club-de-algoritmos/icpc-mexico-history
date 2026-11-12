@@ -23,7 +23,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **4** | **0** | **25** | **4** | **29** |
+| **Total** | **4** | **0** | **25** | **6** | **31** |
 | [1998-1999](#1998-1999) | 1 | 0 | 0 | 0 | 1 |
 | [1999-2000](#1999-2000) | 1 | 0 | 0 | 0 | 1 |
 | [2001-2002](#2001-2002) | 0 | 0 | 3 | 0 | 3 |
@@ -34,6 +34,7 @@
 | [2006-2007](#2006-2007) | 0 | 0 | 1 | 0 | 1 |
 | [2024-2025](#2024-2025) | 0 | 0 | 1 | 1 | 1 |
 | [2025-2026](#2025-2026) | 0 | 0 | 1 | 3 | 3 |
+| [2026-2027](#2026-2027) | 0 | 0 | 0 | 2 | 2 |
 
 ### 1998-1999
 
@@ -97,6 +98,11 @@
 1. #96 _Tacos de datos con salsa verde por favor_ (Regional)
 1. #236 _Pistones Perfectos_ (Clasificatorio)
 1. #388 _Lamda_ (Clasificatorio)
+
+### 2026-2027
+
+1. #144 _Vamos con nada (en pijama)_ (Clasificatorio)
+1. #500 _Pistones perfectos_ (Clasificatorio)
 
 
 

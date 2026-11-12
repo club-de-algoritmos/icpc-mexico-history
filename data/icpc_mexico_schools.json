@@ -202,6 +202,14 @@
     "is_eligible": true
   },
   {
+    "name": "CETYS Universidad Campus Mexicali",
+    "alt_names": [],
+    "community": null,
+    "country": "mexico",
+    "state": null,
+    "is_eligible": true
+  },
+  {
     "name": "CIICAP - Universidad Autonoma del Estado de Morelos",
     "alt_names": [],
     "community": null,
@@ -1933,6 +1941,14 @@
     "is_eligible": true
   },
   {
+    "name": "Intituto Tecnologico de Lázaro Cárdenas",
+    "alt_names": [],
+    "community": null,
+    "country": "mexico",
+    "state": null,
+    "is_eligible": true
+  },
+  {
     "name": "IPN Juan de Dios Batiz Paredes",
     "alt_names": [],
     "community": null,
@@ -2687,6 +2703,14 @@
     "is_eligible": true
   },
   {
+    "name": "Universidad Autónoma de Yucatán, Facultad de Ingeniería",
+    "alt_names": [],
+    "community": null,
+    "country": "mexico",
+    "state": null,
+    "is_eligible": true
+  },
+  {
     "name": "Universidad Autónoma de Zacatecas",
     "alt_names": [],
     "community": null,
@@ -3292,6 +3316,14 @@
     "is_eligible": true
   },
   {
+    "name": "Universidad La Salle Mexico",
+    "alt_names": [],
+    "community": null,
+    "country": "mexico",
+    "state": null,
+    "is_eligible": true
+  },
+  {
     "name": "Universidad La Salle Oaxaca",
     "alt_names": [],
     "community": null,
@@ -3752,6 +3784,14 @@
     "alt_names": [],
     "community": null,
     "country": "jamaica",
+    "state": null,
+    "is_eligible": true
+  },
+  {
+    "name": "Univesidad Autonoma de Yucatán",
+    "alt_names": [],
+    "community": null,
+    "country": "mexico",
     "state": null,
     "is_eligible": true
   },

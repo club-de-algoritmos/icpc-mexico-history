@@ -19,12 +19,13 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **0** | **17** | **17** |
+| **Total** | **0** | **0** | **0** | **18** | **18** |
 | [2020-2021](#2020-2021) | 0 | 0 | 0 | 2 | 2 |
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 1 | 1 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 1 | 1 |
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 1 | 1 |
 | [2024-2025](#2024-2025) | 0 | 0 | 0 | 12 | 12 |
+| [2026-2027](#2026-2027) | 0 | 0 | 0 | 1 | 1 |
 
 ### 2020-2021
 
@@ -57,6 +58,10 @@
 1. #482 (#114 de TecNM) _Tech Visionaries_ (Clasificatorio)
 1. #482 (#114 de TecNM) _Blog Masters_ (Clasificatorio)
 1. #482 (#114 de TecNM) _Syntax_Error_ (Clasificatorio)
+
+### 2026-2027
+
+1. #480 (#104 de TecNM) _Tripapeadores Vol. 2_ (Clasificatorio)
 
 
 

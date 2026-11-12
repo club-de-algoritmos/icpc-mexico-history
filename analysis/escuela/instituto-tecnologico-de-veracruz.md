@@ -11,7 +11,7 @@
 1. _ItverPower_ resolvió 2 problemas y obtuvo el lugar #80 (94%) en The 2024 ICPC Mexico Finals
 1. _FastFingers lml_ resolvió 3 problemas y obtuvo el lugar #34 (90%) en The 2015 ACM-ICPC Mexico and Central America Finals
 1. _HeavyMachineGun_ resolvió 2 problemas y obtuvo el lugar #52 (90%) en The 2016 ACM-ICPC Mexico and Central America Finals
-1. _Warriors LEL_ resolvió 3 problemas y obtuvo el lugar #39 (88%) en The 2015 ACM-ICPC Mexico and Central America Finals
+1. _Nuestro ultimo WA_ resolvió 2 problemas y obtuvo el lugar #65 (90%) en The 2026 ICPC Mexico Finals
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **17** | **60** | **65** |
+| **Total** | **0** | **0** | **18** | **61** | **66** |
 | [2006-2007](#2006-2007) | 0 | 0 | 1 | 0 | 1 |
 | [2012-2013](#2012-2013) | 0 | 0 | 2 | 0 | 2 |
 | [2013-2014](#2013-2014) | 0 | 0 | 2 | 0 | 2 |
@@ -35,6 +35,7 @@
 | [2023-2024](#2023-2024) | 0 | 0 | 1 | 5 | 5 |
 | [2024-2025](#2024-2025) | 0 | 0 | 1 | 2 | 2 |
 | [2025-2026](#2025-2026) | 0 | 0 | 1 | 1 | 1 |
+| [2026-2027](#2026-2027) | 0 | 0 | 1 | 1 | 1 |
 
 ### 2006-2007
 
@@ -145,6 +146,10 @@
 ### 2025-2026
 
 1. #87 (#13 de TecNM) _No te preocupes Karen nosotros carreamos_ (Regional)
+
+### 2026-2027
+
+1. #65 (#9 de TecNM) _Nuestro ultimo WA_ (Regional)
 
 
 

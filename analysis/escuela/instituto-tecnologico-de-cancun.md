@@ -4,14 +4,14 @@
 
 1. _Tucanes1_ resolvió 3 problemas y obtuvo el lugar #72 (94%) en The 2024 ICPC Mexico Finals
 1. _TucanesCancun_ resolvió 1 problemas y obtuvo el lugar #108 (91%) en The 2024 ICPC Mexico Finals
+1. _@ucanes_ resolvió 3 problemas y obtuvo el lugar #61 (90%) en The 2026 ICPC Mexico Finals
+1. _SGN Hash Coders_ resolvió 2 problemas y obtuvo el lugar #64 (90%) en The 2026 ICPC Mexico Finals
 1. _Tucanes2_ resolvió 7 problemas y obtuvo el lugar #147 (86%) en The 2024 ICPC Gran Premio de Mexico
+1. _coffe Three_ resolvió 4 problemas y obtuvo el lugar #73 (84%) en The 2026 ICPC Gran Premio de Mexico
+1. _TuKantun_ resolvió 11 problemas y obtuvo el lugar #95 (82%) en The 2026 ICPC Gran Premio de Mexico
 1. _Tucampeón_ resolvió 4 problemas y obtuvo el lugar #231 (80%) en The 2024 ICPC Gran Premio de Mexico
 1. _Tucancitos_ resolvió 4 problemas y obtuvo el lugar #236 (79%) en The 2024 ICPC Gran Premio de Mexico
 1. _Papirrines_ resolvió 6 problemas y obtuvo el lugar #246 (79%) en The 2024 ICPC Gran Premio de Mexico
-1. _Ucanes_ resolvió 2 problemas y obtuvo el lugar #118 (78%) en The 2025 ICPC Mexico Finals
-1. _Cachorros_ resolvió 2 problemas y obtuvo el lugar #390 (68%) en The 2024 ICPC Gran Premio de Mexico
-1. _JavaMonos_ resolvió 1 problemas y obtuvo el lugar #443 (63%) en The 2024 ICPC Gran Premio de Mexico
-1. _EquipoITC_ resolvió 1 problemas y obtuvo el lugar #472 (61%) en The 2024 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -19,13 +19,14 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **3** | **36** | **36** |
+| **Total** | **0** | **0** | **5** | **47** | **47** |
 | [2020-2021](#2020-2021) | 0 | 0 | 0 | 1 | 1 |
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 1 | 1 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 7 | 7 |
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 2 | 2 |
 | [2024-2025](#2024-2025) | 0 | 0 | 2 | 16 | 16 |
 | [2025-2026](#2025-2026) | 0 | 0 | 1 | 9 | 9 |
+| [2026-2027](#2026-2027) | 0 | 0 | 2 | 11 | 11 |
 
 ### 2020-2021
 
@@ -80,6 +81,20 @@
 1. #462 (#106 de TecNM) _EquipoChido_ (Clasificatorio)
 1. #488 (#117 de TecNM) _TucaEvent_ (Clasificatorio)
 1. #503 (#127 de TecNM) _Tucancun_ (Clasificatorio)
+
+### 2026-2027
+
+1. #61 (#7 de TecNM) _@ucanes_ (Regional)
+1. #64 (#8 de TecNM) _SGN Hash Coders_ (Regional)
+1. #73 (#12 de TecNM) _coffe Three_ (Clasificatorio)
+1. #95 (#20 de TecNM) _TuKantun_ (Clasificatorio)
+1. #351 (#74 de TecNM) _Triple_T_Sahur_ (Clasificatorio)
+1. #359 (#77 de TecNM) _CodeTucanes_ (Clasificatorio)
+1. #392 (#86 de TecNM) _Ensambladores de la capa 8_ (Clasificatorio)
+1. #393 (#87 de TecNM) _La capa 8_ (Clasificatorio)
+1. #434 (#95 de TecNM) _KinKong_ (Clasificatorio)
+1. #473 (#103 de TecNM) _The bosses_ (Clasificatorio)
+1. #493 (#107 de TecNM) _Papaya's Coding_ (Clasificatorio)
 
 
 

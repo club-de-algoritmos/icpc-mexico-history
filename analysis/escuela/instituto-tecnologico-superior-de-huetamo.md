@@ -19,11 +19,12 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **0** | **30** | **30** |
+| **Total** | **0** | **0** | **0** | **35** | **35** |
 | [2019-2020](#2019-2020) | 0 | 0 | 0 | 11 | 11 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 9 | 9 |
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 6 | 6 |
 | [2024-2025](#2024-2025) | 0 | 0 | 0 | 4 | 4 |
+| [2026-2027](#2026-2027) | 0 | 0 | 0 | 5 | 5 |
 
 ### 2019-2020
 
@@ -66,6 +67,14 @@
 1. #482 (#114 de TecNM) _ITSH Jonin-A1_ (Clasificatorio)
 1. #482 (#114 de TecNM) _ITSH Jonin-A2_ (Clasificatorio)
 1. #482 (#114 de TecNM) _ITSH Novatrix_ (Clasificatorio)
+
+### 2026-2027
+
+1. #510 (#111 de TecNM) _BeligumiSports_ (Clasificatorio)
+1. #510 (#111 de TecNM) _BugBros_ (Clasificatorio)
+1. #510 (#111 de TecNM) _El Ultimo JavaLimo++_ (Clasificatorio)
+1. #510 (#111 de TecNM) _Los Wachitos_ (Clasificatorio)
+1. #510 (#111 de TecNM) _Team Ajuchitlan_ (Clasificatorio)
 
 
 

@@ -25,7 +25,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **6** | **3** | **42** | **110** | **123** |
+| **Total** | **6** | **3** | **46** | **122** | **136** |
 | [2007-2008](#2007-2008) | 0 | 0 | 1 | 0 | 1 |
 | [2008-2009](#2008-2009) | 0 | 0 | 2 | 0 | 2 |
 | [2009-2010](#2009-2010) | 0 | 0 | 1 | 0 | 1 |
@@ -45,6 +45,7 @@
 | [2023-2024](#2023-2024) | 0 | 1 | 4 | 14 | 14 |
 | [2024-2025](#2024-2025) | 1 | 1 | 2 | 12 | 12 |
 | [2025-2026](#2025-2026) | 0 | 1 | 3 | 8 | 8 |
+| [2026-2027](#2026-2027) | 0 | 0 | 4 | 12 | 13 |
 
 ### 2007-2008
 
@@ -231,6 +232,22 @@
 1. #95 _ICPCeros_ (Clasificatorio)
 1. #138 _BruteForce_ (Clasificatorio)
 1. #191 _temp_ (Clasificatorio)
+
+### 2026-2027
+
+1. #5 _The good, the bad and the ugly_ (Regional)
+1. #28 _Equipo Rosa (los muchachitos)_ (Regional)
+1. #32 _while(!AC);_ (Regional)
+1. #56 _Kiwues!_ (Regional)
+1. #85 _Arroz con leche, me quiero matar_ (Clasificatorio)
+1. #89 _temp++_ (Clasificatorio)
+1. #123 _Zumitos_ (Clasificatorio)
+1. #146 _Claudeholics _ (Clasificatorio)
+1. #213 _DreamTeam++_ (Clasificatorio)
+1. #246 _Segment Treemendo_ (Clasificatorio)
+1. #254 _If(we == FAIL) try again_ (Clasificatorio)
+1. #368 _Chat, danos un nombre para ICPC_ (Clasificatorio)
+1. #422 _David el Pro XD_ (Clasificatorio)
 
 
 

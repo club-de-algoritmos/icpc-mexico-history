@@ -3,6 +3,7 @@
 ## Mejores 10 equipos
 
 1. _A poco sí muy AC?_ resolvió 4 problemas y obtuvo el lugar #43 (97%) en The 2024 ICPC Mexico Finals
+1. _CapyBaby's_ resolvió 6 problemas y obtuvo el lugar #24 (96%) en The 2026 ICPC Mexico Finals
 1. _CRIGED.PY_ resolvió 1 problemas y obtuvo el lugar #47 (96%) en The 2022 ICPC Mexico Finals
 1. _Heavenly Capybaras Eat Empanadas_ resolvió 3 problemas y obtuvo el lugar #28 (95%) en The 2025 ICPC Mexico Finals
 1. _CRIGED.PY_ resolvió 3 problemas y obtuvo el lugar #28 (94%) en The 2023 ICPC Mexico Finals
@@ -10,8 +11,7 @@
 1. _Dos tequilas y un mojito_ resolvió 2 problemas y obtuvo el lugar #84 (93%) en The 2024 ICPC Mexico Finals
 1. _Los shabOS_ resolvió 1 problemas y obtuvo el lugar #91 (93%) en The 2024 ICPC Mexico Finals
 1. _Dos tequilas y un mojito_ resolvió 2 problemas y obtuvo el lugar #52 (91%) en The 2025 ICPC Mexico Finals
-1. _CTRL2_ resolvió 5 problemas y obtuvo el lugar #132 (87%) en The 2022 ICPC Gran Premio de Mexico
-1. _Chat GNA_ resolvió 6 problemas y obtuvo el lugar #160 (85%) en The 2024 ICPC Gran Premio de Mexico
+1. _Dos de anca de rana y un agua de guayaba_ resolvió 3 problemas y obtuvo el lugar #58 (91%) en The 2026 ICPC Mexico Finals
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **8** | **50** | **50** |
+| **Total** | **0** | **0** | **10** | **69** | **69** |
 | [2014-2015](#2014-2015) | 0 | 0 | 0 | 1 | 1 |
 | [2015-2016](#2015-2016) | 0 | 0 | 0 | 1 | 1 |
 | [2017-2018](#2017-2018) | 0 | 0 | 0 | 1 | 1 |
@@ -27,6 +27,7 @@
 | [2023-2024](#2023-2024) | 0 | 0 | 1 | 13 | 13 |
 | [2024-2025](#2024-2025) | 0 | 0 | 3 | 15 | 15 |
 | [2025-2026](#2025-2026) | 0 | 0 | 3 | 15 | 15 |
+| [2026-2027](#2026-2027) | 0 | 0 | 2 | 19 | 19 |
 
 ### 2014-2015
 
@@ -98,6 +99,28 @@
 1. #438 _BBOTES_ (Clasificatorio)
 1. #445 _bot_team123_ (Clasificatorio)
 1. #452 _Ajolotes Esqueléticos_ (Clasificatorio)
+
+### 2026-2027
+
+1. #24 _CapyBaby's_ (Regional)
+1. #58 _Dos de anca de rana y un agua de guayaba_ (Regional)
+1. #105 _Dos tequilas y un mojito_ (Clasificatorio)
+1. #110 _Nightcore_ (Clasificatorio)
+1. #145 _Mínimo, Común y Múltiplo_ (Clasificatorio)
+1. #179 _Prófugos del conocimiento_ (Clasificatorio)
+1. #218 _Secunenas_ (Clasificatorio)
+1. #236 _yorelelejijuAC_ (Clasificatorio)
+1. #310 _Paste en bolillo_ (Clasificatorio)
+1. #315 _Barbacoa first search_ (Clasificatorio)
+1. #327 _CowsayCode_ (Clasificatorio)
+1. #358 _Nexus Code_ (Clasificatorio)
+1. #364 _FiveNightsAtBug_ (Clasificatorio)
+1. #365 _Chuknorrys está con nosotros!_ (Clasificatorio)
+1. #372 _CO_2_ (Clasificatorio)
+1. #389 _Ajolotes esqueléticos_ (Clasificatorio)
+1. #439 _AVA_ (Clasificatorio)
+1. #486 _Compis-ladores_ (Clasificatorio)
+1. #510 _LainV2_ (Clasificatorio)
 
 
 

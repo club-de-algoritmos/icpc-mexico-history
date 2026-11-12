@@ -21,7 +21,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **2** | **0** | **32** | **117** | **132** |
+| **Total** | **2** | **0** | **33** | **129** | **144** |
 | [1998-1999](#1998-1999) | 1 | 0 | 0 | 0 | 1 |
 | [1999-2000](#1999-2000) | 1 | 0 | 0 | 0 | 1 |
 | [2001-2002](#2001-2002) | 0 | 0 | 3 | 0 | 3 |
@@ -42,6 +42,7 @@
 | [2023-2024](#2023-2024) | 0 | 0 | 1 | 13 | 13 |
 | [2024-2025](#2024-2025) | 0 | 0 | 2 | 19 | 19 |
 | [2025-2026](#2025-2026) | 0 | 0 | 2 | 11 | 11 |
+| [2026-2027](#2026-2027) | 0 | 0 | 1 | 12 | 12 |
 
 ### 1998-1999
 
@@ -236,6 +237,21 @@
 1. #320 (#36 de ITESM) _CódigosTumbados_ (Clasificatorio)
 1. #398 (#42 de ITESM) _RunTime Error_ (Clasificatorio)
 1. #496 (#56 de ITESM) _40T F0UND_ (Clasificatorio)
+
+### 2026-2027
+
+1. #66 (#13 de ITESM) _Rascals Last AC_ (Regional)
+1. #226 (#26 de ITESM) _Team_Opus4.6_ (Clasificatorio)
+1. #247 (#28 de ITESM) _Hope Overflow_ (Clasificatorio)
+1. #252 (#29 de ITESM) _International Coding Papupros Corporation_ (Clasificatorio)
+1. #253 (#30 de ITESM) _MicrobiOS_ (Clasificatorio)
+1. #255 (#31 de ITESM) _Banda El Limón_ (Clasificatorio)
+1. #298 (#36 de ITESM) _Holy C++_ (Clasificatorio)
+1. #304 (#38 de ITESM) _Vibecoders_ (Clasificatorio)
+1. #355 (#47 de ITESM) _BitWarden_ (Clasificatorio)
+1. #397 (#52 de ITESM) _@iTEC_ (Clasificatorio)
+1. #399 (#53 de ITESM) _Code Collective Crusaders_ (Clasificatorio)
+1. #428 (#54 de ITESM) _Incodeables_ (Clasificatorio)
 
 
 

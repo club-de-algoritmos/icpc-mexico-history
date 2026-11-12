@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **1** | **66** | **789** | **839** |
+| **Total** | **0** | **1** | **67** | **824** | **875** |
 | [2002-2003](#2002-2003) | 0 | 0 | 5 | 0 | 5 |
 | [2003-2004](#2003-2004) | 0 | 0 | 3 | 0 | 3 |
 | [2004-2005](#2004-2005) | 0 | 0 | 3 | 0 | 3 |
@@ -41,6 +41,7 @@
 | [2023-2024](#2023-2024) | 0 | 1 | 0 | 5 | 5 |
 | [2024-2025](#2024-2025) | 0 | 0 | 2 | 93 | 93 |
 | [2025-2026](#2025-2026) | 0 | 0 | 4 | 7 | 7 |
+| [2026-2027](#2026-2027) | 0 | 0 | 1 | 35 | 36 |
 
 ### 2002-2003
 
@@ -943,6 +944,45 @@
 1. #206 _Ingenieros Mediocres_ (Clasificatorio)
 1. #312 _Main Branch_ (Clasificatorio)
 1. #336 _Papá Pelón_ (Clasificatorio)
+
+### 2026-2027
+
+1. #85 _IT ConvexKicks_ (Regional)
+1. #75 _Byte Me!_ (Clasificatorio)
+1. #108 _Kick's sidekicks_ (Clasificatorio)
+1. #132 _IT(ESO)_ (Clasificatorio)
+1. #134 _Mayates_ (Clasificatorio)
+1. #147 _Papa Pelon_ (Clasificatorio)
+1. #200 _Tlacuaches Convexos_ (Clasificatorio)
+1. #244 _Los Kamikazes_ (Clasificatorio)
+1. #296 _Chipes le va al América_ (Clasificatorio)
+1. #411 _Encapuchados_ (Clasificatorio)
+1. #416 _Compound logic_ (Clasificatorio)
+1. #505 _los perro salchipulpos 36_ (Clasificatorio)
+1. #510 _3Gigas de RAM LCAG_ (Clasificatorio)
+1. #510 _BioTecnologos_ (Clasificatorio)
+1. #510 _Cubículo 108 LCAG_ (Clasificatorio)
+1. #510 _ERCB Junie Lovers_ (Clasificatorio)
+1. #510 _ERCB Los Perickos Pythones_ (Clasificatorio)
+1. #510 _ERCB Myxobytes_ (Clasificatorio)
+1. #510 _ERCB Progra Merma_ (Clasificatorio)
+1. #510 _Hueco4life LCAG_ (Clasificatorio)
+1. #510 _Ingenenas__ (Clasificatorio)
+1. #510 _Ingeniggers_ (Clasificatorio)
+1. #510 _JPAM DA Elektrónicos_ (Clasificatorio)
+1. #510 _Las 3 ternuritas mortales_ (Clasificatorio)
+1. #510 _LASG_Alt_FK_Python_ (Clasificatorio)
+1. #510 _Left Outer Join_ (Clasificatorio)
+1. #510 _Los maestros del código_ (Clasificatorio)
+1. #510 _Los nanos_ (Clasificatorio)
+1. #510 _Los perros + Paolo LCAG_ (Clasificatorio)
+1. #510 _Los umpalumpas LCAG_ (Clasificatorio)
+1. #510 _Messi's_ (Clasificatorio)
+1. #510 _No name LCAG_ (Clasificatorio)
+1. #510 _Real Spiders Squad LCAG_ (Clasificatorio)
+1. #510 _The Ingeniebros_ (Clasificatorio)
+1. #510 _The lebugskis_ (Clasificatorio)
+1. #510 _Tiguan 4x4 LCAG_ (Clasificatorio)
 
 
 

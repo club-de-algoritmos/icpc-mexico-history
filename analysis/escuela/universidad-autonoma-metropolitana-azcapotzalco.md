@@ -5,13 +5,13 @@
 1. _++UAM_ resolvió 4 problemas y obtuvo el lugar #19 (98%) en The 2018 ICPC Mexico and Central America Finals
 1. _++UAM_ resolvió 3 problemas y obtuvo el lugar #26 (98%) en The 2019 ICPC Mexico Finals
 1. _UAM Azcapotzalco XX_ resolvió 3 problemas y obtuvo el lugar #5 (97%) en The 2011 Mexico & Central America Regional Contest
+1. _Seal++_ resolvió 6 problemas y obtuvo el lugar #22 (97%) en The 2026 ICPC Mexico Finals
 1. _Kemonitos_ resolvió 4 problemas y obtuvo el lugar #33 (97%) en The 2024 ICPC Mexico Finals
 1. _La mejor remontada_ resolvió 4 problemas y obtuvo el lugar #21 (96%) en The 2023 ICPC Mexico Finals
 1. _Los Lobos Solitarios_ resolvió 1 problemas y obtuvo el lugar #48 (96%) en The 2022 ICPC Mexico Finals
 1. _UAM Azcapotzalco 2016 II_ resolvió 3 problemas y obtuvo el lugar #24 (95%) en The 2016 ACM-ICPC Mexico and Central America Finals
 1. _malloc(2*sizeof(Hector) + sizeof(Gaby))_ resolvió 3 problemas y obtuvo el lugar #33 (94%) en The 2025 ICPC Mexico Finals
 1. _UAM-A 2017-1_ resolvió 2 problemas y obtuvo el lugar #42 (94%) en The 2017 ACM-ICPC Mexico and Central America Finals
-1. _UAMitosPlusPlus_ resolvió 2 problemas y obtuvo el lugar #45 (94%) en The 2020 ICPC Mexico Finals
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **43** | **34** | **62** |
+| **Total** | **0** | **0** | **44** | **35** | **63** |
 | [2004-2005](#2004-2005) | 0 | 0 | 2 | 0 | 2 |
 | [2005-2006](#2005-2006) | 0 | 0 | 2 | 0 | 2 |
 | [2006-2007](#2006-2007) | 0 | 0 | 3 | 0 | 3 |
@@ -41,6 +41,7 @@
 | [2023-2024](#2023-2024) | 0 | 0 | 1 | 2 | 2 |
 | [2024-2025](#2024-2025) | 0 | 0 | 1 | 3 | 3 |
 | [2025-2026](#2025-2026) | 0 | 0 | 2 | 3 | 3 |
+| [2026-2027](#2026-2027) | 0 | 0 | 1 | 1 | 1 |
 
 ### 2004-2005
 
@@ -166,6 +167,10 @@
 1. #33 _malloc(2*sizeof(Hector) + sizeof(Gaby))_ (Regional)
 1. #82 _#include <uwu>_ (Regional)
 1. #140 _PawCode_ (Clasificatorio)
+
+### 2026-2027
+
+1. #22 _Seal++_ (Regional)
 
 
 

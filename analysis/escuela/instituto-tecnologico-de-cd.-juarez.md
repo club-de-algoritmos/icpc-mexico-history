@@ -3,15 +3,15 @@
 ## Mejores 10 equipos
 
 1. _Ella programa sola_ resolvió 3 problemas y obtuvo el lugar #71 (94%) en The 2024 ICPC Mexico Finals
+1. _burritos pensionados_ resolvió 12 problemas y obtuvo el lugar #82 (83%) en The 2026 ICPC Gran Premio de Mexico
 1. _TecnoTeam_ resolvió 4 problemas y obtuvo el lugar #178 (83%) en The 2022 ICPC Gran Premio de Mexico
 1. _Ya llegaron las py.pshas_ resolvió 2 problemas y obtuvo el lugar #120 (78%) en The 2025 ICPC Mexico Finals
 1. _Structured Papeadas Language_ resolvió 4 problemas y obtuvo el lugar #290 (75%) en The 2024 ICPC Gran Premio de Mexico
+1. _Los SixSeven_ resolvió 8 problemas y obtuvo el lugar #161 (72%) en The 2026 ICPC Gran Premio de Mexico
 1. _Los triggers del norte_ resolvió 2 problemas y obtuvo el lugar #337 (72%) en The 2024 ICPC Gran Premio de Mexico
 1. _NERV_ obtuvo el lugar #382 (69%) en Gran Premio de Mexico 2019
 1. _SUMARI_ obtuvo el lugar #382 (63%) en Gran Premio de Mexico 2019
 1. _Astoreth_ obtuvo el lugar #382 (62%) en Gran Premio de Mexico 2019
-1. _2+1_ obtuvo el lugar #382 (60%) en Gran Premio de Mexico 2019
-1. _ITCJC2_ resolvió 0 problemas y obtuvo el lugar #226 (41%) en The 2021 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **2** | **24** | **24** |
+| **Total** | **0** | **0** | **2** | **26** | **26** |
 | [2019-2020](#2019-2020) | 0 | 0 | 0 | 9 | 9 |
 | [2020-2021](#2020-2021) | 0 | 0 | 0 | 1 | 1 |
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 1 | 1 |
@@ -27,6 +27,7 @@
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 1 | 1 |
 | [2024-2025](#2024-2025) | 0 | 0 | 1 | 3 | 3 |
 | [2025-2026](#2025-2026) | 0 | 0 | 1 | 1 | 1 |
+| [2026-2027](#2026-2027) | 0 | 0 | 0 | 2 | 2 |
 
 ### 2019-2020
 
@@ -72,6 +73,11 @@
 ### 2025-2026
 
 1. #120 (#23 de TecNM) _Ya llegaron las py.pshas_ (Regional)
+
+### 2026-2027
+
+1. #82 (#15 de TecNM) _burritos pensionados_ (Clasificatorio)
+1. #161 (#31 de TecNM) _Los SixSeven_ (Clasificatorio)
 
 
 

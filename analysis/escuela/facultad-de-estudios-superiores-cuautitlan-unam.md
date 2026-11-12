@@ -2,6 +2,7 @@
 
 ## Mejores 10 equipos
 
+1. _Stem fesc_ resolvió 4 problemas y obtuvo el lugar #261 (56%) en The 2026 ICPC Gran Premio de Mexico
 1. _vacas vaqueras_ resolvió 4 problemas y obtuvo el lugar #314 (39%) en The 2025 ICPC Gran Premio de Mexico
 1. _Los Infopapus FC_ resolvió 2 problemas y obtuvo el lugar #474 (10%) en The 2025 ICPC Gran Premio de Mexico
 
@@ -11,13 +12,18 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **0** | **2** | **2** |
+| **Total** | **0** | **0** | **0** | **3** | **3** |
 | [2025-2026](#2025-2026) | 0 | 0 | 0 | 2 | 2 |
+| [2026-2027](#2026-2027) | 0 | 0 | 0 | 1 | 1 |
 
 ### 2025-2026
 
 1. #314 _vacas vaqueras_ (Clasificatorio)
 1. #474 _Los Infopapus FC_ (Clasificatorio)
+
+### 2026-2027
+
+1. #261 _Stem fesc_ (Clasificatorio)
 
 
 

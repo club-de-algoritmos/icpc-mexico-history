@@ -2,16 +2,16 @@
 
 ## Mejores 10 equipos
 
+1. _Ciscos_ resolvió 0 problemas y obtuvo el lugar #74 (88%) en The 2026 ICPC Mexico Finals
 1. _Linces_ resolvió 2 problemas y obtuvo el lugar #34 (80%) en The 2012 Mexico & Central America Regional Contest
 1. _Lentes de código_ resolvió 1 problemas y obtuvo el lugar #130 (76%) en The 2025 ICPC Mexico Finals
 1. _ITSSP_ resolvió 3 problemas y obtuvo el lugar #35 (72%) en Mexico and Central America Finals - Programming Battle
 1. _Linces_ resolvió 1 problemas y obtuvo el lugar #53 (71%) en The 2013 Mexico & Central America Regional Contest
+1. _Jomeles_ resolvió 8 problemas y obtuvo el lugar #166 (71%) en The 2026 ICPC Gran Premio de Mexico
 1. _Kroywen_ obtuvo el lugar #382 (70%) en Gran Premio de Mexico 2019
 1. _LINCES_ resolvió 2 problemas y obtuvo el lugar #68 (66%) en The 2010 Mexico & Central America Regional Contest
 1. _LinceCoders_ resolvió 1 problemas y obtuvo el lugar #460 (62%) en The 2024 ICPC Gran Premio de Mexico
 1. _La Hermandad Oscura_ resolvió 7 problemas y obtuvo el lugar #194 (60%) en The 2025 ICPC Gran Premio de Mexico
-1. _MSV_ resolvió 4 problemas y obtuvo el lugar #183 (59%) en The 2023 ICPC Gran Premio de Mexico
-1. _OverClock_ resolvió 4 problemas y obtuvo el lugar #186 (58%) en The 2023 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **13** | **39** | **51** |
+| **Total** | **0** | **0** | **14** | **44** | **56** |
 | [2004-2005](#2004-2005) | 0 | 0 | 4 | 0 | 4 |
 | [2005-2006](#2005-2006) | 0 | 0 | 2 | 0 | 2 |
 | [2006-2007](#2006-2007) | 0 | 0 | 1 | 0 | 1 |
@@ -35,6 +35,7 @@
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 3 | 3 |
 | [2024-2025](#2024-2025) | 0 | 0 | 0 | 6 | 6 |
 | [2025-2026](#2025-2026) | 0 | 0 | 1 | 2 | 2 |
+| [2026-2027](#2026-2027) | 0 | 0 | 1 | 5 | 5 |
 
 ### 2004-2005
 
@@ -131,6 +132,14 @@
 
 1. #130 (#28 de TecNM) _Lentes de código_ (Regional)
 1. #194 (#36 de TecNM) _La Hermandad Oscura_ (Clasificatorio)
+
+### 2026-2027
+
+1. #74 (#11 de TecNM) _Ciscos_ (Regional)
+1. #166 (#34 de TecNM) _Jomeles_ (Clasificatorio)
+1. #273 (#58 de TecNM) _Lentes de código_ (Clasificatorio)
+1. #293 (#63 de TecNM) _Los Sixternas_ (Clasificatorio)
+1. #454 (#100 de TecNM) _Los Rafas_ (Clasificatorio)
 
 
 

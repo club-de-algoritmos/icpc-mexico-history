@@ -2,6 +2,7 @@
 
 ## Mejores 10 equipos
 
+1. _ChevonetaFC_ resolvió 0 problemas y obtuvo el lugar #88 (86%) en The 2026 ICPC Mexico Finals
 1. _Trivial ITESCO_ resolvió 6 problemas y obtuvo el lugar #157 (77%) en Gran Premio de Mexico 2020
 1. _Siriusmx_ obtuvo el lugar #382 (66%) en Gran Premio de Mexico 2019
 1. _Progra-Masters_ obtuvo el lugar #382 (57%) en Gran Premio de Mexico 2019
@@ -11,7 +12,6 @@
 1. _TESLA_ obtuvo el lugar #382 (55%) en Gran Premio de Mexico 2019
 1. _Team Atom_ obtuvo el lugar #382 (55%) en Gran Premio de Mexico 2019
 1. _AleSay_ resolvió 0 problemas y obtuvo el lugar #382 (48%) en The 2022 ICPC Gran Premio de Mexico
-1. _DAJ_ resolvió 0 problemas y obtuvo el lugar #382 (48%) en The 2022 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -19,13 +19,14 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **0** | **65** | **65** |
+| **Total** | **0** | **0** | **1** | **65** | **66** |
 | [2019-2020](#2019-2020) | 0 | 0 | 0 | 27 | 27 |
 | [2020-2021](#2020-2021) | 0 | 0 | 0 | 6 | 6 |
 | [2021-2022](#2021-2022) | 0 | 0 | 0 | 1 | 1 |
 | [2022-2023](#2022-2023) | 0 | 0 | 0 | 24 | 24 |
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 6 | 6 |
 | [2024-2025](#2024-2025) | 0 | 0 | 0 | 1 | 1 |
+| [2026-2027](#2026-2027) | 0 | 0 | 1 | 0 | 1 |
 
 ### 2019-2020
 
@@ -109,6 +110,10 @@
 ### 2024-2025
 
 1. #482 (#114 de TecNM) _Monos Chinos_ (Clasificatorio)
+
+### 2026-2027
+
+1. #88 (#15 de TecNM) _ChevonetaFC_ (Regional)
 
 
 

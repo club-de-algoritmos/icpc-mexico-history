@@ -12,7 +12,7 @@
 1. _int ensos;_ resolvió 4 problemas y obtuvo el lugar #28 (97%) en The 2018 ICPC Mexico and Central America Finals
 1. _Clfies_ resolvió 4 problemas y obtuvo el lugar #15 (96%) en The 2015 ACM-ICPC Mexico and Central America Finals
 1. _NPCs_ resolvió 3 problemas y obtuvo el lugar #55 (96%) en The 2024 ICPC Mexico Finals
-1. _Gekko_ resolvió 8 problemas y obtuvo el lugar #63 (95%) en Gran Premio de Mexico 2019
+1. _Los Ratones_ resolvió 5 problemas y obtuvo el lugar #29 (95%) en The 2026 ICPC Mexico Finals
 
 ## Participaciones
 
@@ -20,7 +20,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **1** | **0** | **27** | **76** | **88** |
+| **Total** | **1** | **0** | **29** | **87** | **99** |
 | [2008-2009](#2008-2009) | 0 | 0 | 3 | 0 | 3 |
 | [2010-2011](#2010-2011) | 0 | 0 | 6 | 0 | 6 |
 | [2011-2012](#2011-2012) | 1 | 0 | 2 | 0 | 2 |
@@ -37,6 +37,7 @@
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 2 | 2 |
 | [2024-2025](#2024-2025) | 0 | 0 | 2 | 10 | 10 |
 | [2025-2026](#2025-2026) | 0 | 0 | 3 | 9 | 9 |
+| [2026-2027](#2026-2027) | 0 | 0 | 2 | 11 | 11 |
 
 ### 2008-2009
 
@@ -174,6 +175,20 @@
 1. #346 (#38 de ITESM) _infinite_loops_ (Clasificatorio)
 1. #387 (#40 de ITESM) _DevsInDev_ (Clasificatorio)
 1. #443 (#53 de ITESM) _Chilaquiles ++_ (Clasificatorio)
+
+### 2026-2027
+
+1. #29 (#5 de ITESM) _Los Ratones_ (Regional)
+1. #43 (#10 de ITESM) _NPCs_ (Regional)
+1. #119 (#16 de ITESM) _Kairos_ (Clasificatorio)
+1. #148 (#20 de ITESM) _Andatti_ (Clasificatorio)
+1. #289 (#34 de ITESM) _tripi tropis_ (Clasificatorio)
+1. #294 (#35 de ITESM) _SharkByte_ (Clasificatorio)
+1. #306 (#39 de ITESM) _Los TestCases_ (Clasificatorio)
+1. #330 (#41 de ITESM) _Code Malone_ (Clasificatorio)
+1. #339 (#45 de ITESM) _Larp Larp Larp Sahurs_ (Clasificatorio)
+1. #510 (#61 de ITESM) _icpcnes_ (Clasificatorio)
+1. #510 (#61 de ITESM) _Legión 501_ (Clasificatorio)
 
 
 

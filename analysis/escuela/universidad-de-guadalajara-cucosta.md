@@ -3,15 +3,15 @@
 ## Mejores 10 equipos
 
 1. _Los gato fino_ resolvió 2 problemas y obtuvo el lugar #82 (93%) en The 2024 ICPC Mexico Finals
+1. _LEO - BLACKWALL_ resolvió 3 problemas y obtuvo el lugar #59 (91%) en The 2026 ICPC Mexico Finals
 1. _COSTA4_ resolvió 1 problemas y obtuvo el lugar #80 (91%) en The 2018 ICPC Mexico and Central America Finals
+1. _Los Testigos de la Mediocridad_ resolvió 0 problemas y obtuvo el lugar #74 (88%) en The 2026 ICPC Mexico Finals
 1. _Sex Lovers_ resolvió 7 problemas y obtuvo el lugar #148 (85%) en The 2024 ICPC Gran Premio de Mexico
 1. _Favorite Worst Nightmare_ resolvió 6 problemas y obtuvo el lugar #169 (84%) en The 2024 ICPC Gran Premio de Mexico
 1. _COSTA8_ resolvió 3 problemas y obtuvo el lugar #202 (84%) en Gran Premio de Mexico 2019
 1. _Ya nos vamos_ resolvió 3 problemas y obtuvo el lugar #205 (84%) en Gran Premio de Mexico 2019
 1. _CATORCE?_ resolvió 2 problemas y obtuvo el lugar #91 (83%) en The 2025 ICPC Mexico Finals
 1. _COSTA7_ resolvió 2 problemas y obtuvo el lugar #225 (82%) en Gran Premio de Mexico 2019
-1. _COSTA10_ resolvió 2 problemas y obtuvo el lugar #244 (81%) en Gran Premio de Mexico 2019
-1. _Ronaldinho Soccer_ resolvió 3 problemas y obtuvo el lugar #241 (79%) en The 2024 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **3** | **46** | **46** |
+| **Total** | **0** | **0** | **5** | **50** | **50** |
 | [2017-2018](#2017-2018) | 0 | 0 | 0 | 4 | 4 |
 | [2018-2019](#2018-2019) | 0 | 0 | 1 | 6 | 6 |
 | [2019-2020](#2019-2020) | 0 | 0 | 0 | 6 | 6 |
@@ -29,6 +29,7 @@
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 5 | 5 |
 | [2024-2025](#2024-2025) | 0 | 0 | 1 | 7 | 7 |
 | [2025-2026](#2025-2026) | 0 | 0 | 1 | 8 | 8 |
+| [2026-2027](#2026-2027) | 0 | 0 | 2 | 4 | 4 |
 
 ### 2017-2018
 
@@ -102,6 +103,13 @@
 1. #392 _TACOS DE SAL_ (Clasificatorio)
 1. #397 _HOLA_MUNDO("PRINT");_ (Clasificatorio)
 1. #431 _TORTAS FLAMING HOT+_ (Clasificatorio)
+
+### 2026-2027
+
+1. #59 _LEO - BLACKWALL_ (Regional)
+1. #74 _Los Testigos de la Mediocridad_ (Regional)
+1. #311 _Los codistas_ (Clasificatorio)
+1. #463 _Funciona en Mi Máquina_ (Clasificatorio)
 
 
 

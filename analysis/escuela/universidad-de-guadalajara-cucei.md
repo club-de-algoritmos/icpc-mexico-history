@@ -15,7 +15,7 @@
 1. _Ma+aLeones7000_ resolvió 4 problemas y obtuvo el lugar #10 (99%) en The 2022 ICPC Mexico Finals
 1. _Leones(0,0,0);_ resolvió 4 problemas y obtuvo el lugar #17 (99%) en The 2019 ICPC Mexico Finals
 1. _DeltaWing_ resolvió 5 problemas y obtuvo el lugar #10 (98%) en The 2023 ICPC Mexico Finals
-1. _The Empire Strikes Back_ resolvió 4 problemas y obtuvo el lugar #14 (98%) en The 2020 ICPC Mexico Finals
+1. _Adrián quería que nos pusiéramos un nombre largo por alguna razón, y como no decidimos cuál nombre era el mejor, intentamos pedirle al chatcito que nos generara una lista de nombres más atractivos para ICPC. Estos fueron los nombres que nos sugir_ resolvió 8 problemas y obtuvo el lugar #13 (98%) en The 2026 ICPC Mexico Finals
 
 ## Participaciones
 
@@ -23,7 +23,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **4** | **2** | **82** | **200** | **254** |
+| **Total** | **4** | **2** | **85** | **219** | **273** |
 | [2002-2003](#2002-2003) | 0 | 0 | 2 | 0 | 2 |
 | [2003-2004](#2003-2004) | 0 | 0 | 5 | 0 | 5 |
 | [2004-2005](#2004-2005) | 0 | 0 | 8 | 0 | 8 |
@@ -48,6 +48,7 @@
 | [2023-2024](#2023-2024) | 0 | 0 | 3 | 19 | 19 |
 | [2024-2025](#2024-2025) | 0 | 1 | 3 | 39 | 39 |
 | [2025-2026](#2025-2026) | 0 | 1 | 5 | 19 | 20 |
+| [2026-2027](#2026-2027) | 0 | 0 | 3 | 19 | 19 |
 
 ### 2002-2003
 
@@ -378,6 +379,28 @@
 1. #508 _Programa puercos_ (Clasificatorio)
 1. #524 _Compilaton Error AhhMoment_ (Clasificatorio)
 1. #525 _iLabTDI_ (Clasificatorio)
+
+### 2026-2027
+
+1. #13 _Adrián quería que nos pusiéramos un nombre largo por alguna razón, y como no decidimos cuál nombre era el mejor, intentamos pedirle al chatcito que nos generara una lista de nombres más atractivos para ICPC. Estos fueron los nombres que nos sugir_ (Regional)
+1. #38 _Paletería la Michoacana_ (Regional)
+1. #63 _Tha land of big(O)oo_ (Regional)
+1. #107 _Pi, Pi, Pi, Pino La Anguila_ (Clasificatorio)
+1. #114 _");Drop table equipos;--_ (Clasificatorio)
+1. #125 _4 Ostras Voladoras_ (Clasificatorio)
+1. #151 _Pollitos armados_ (Clasificatorio)
+1. #194 _Faith Limit Exceeded_ (Clasificatorio)
+1. #228 _SyntaxError_ (Clasificatorio)
+1. #241 _La última y se nos va Dan_ (Clasificatorio)
+1. #242 _"Java > Python "_ (Clasificatorio)
+1. #281 _BuenoLoIntentamos_ (Clasificatorio)
+1. #308 _MasterCodes_117_ (Clasificatorio)
+1. #331 _ DEC 404_ (Clasificatorio)
+1. #400 _Los pelones_ (Clasificatorio)
+1. #425 _PyTrix_ (Clasificatorio)
+1. #476 _IDKWIA_ (Clasificatorio)
+1. #510 _Mugiwaras_ (Clasificatorio)
+1. #510 _Pino Espino Espinoza_ (Clasificatorio)
 
 
 

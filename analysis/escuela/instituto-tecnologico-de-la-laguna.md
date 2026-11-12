@@ -5,13 +5,13 @@
 1. _EspantaBugs_ resolvió 2 problemas y obtuvo el lugar #37 (97%) en The 2022 ICPC Mexico Finals
 1. _Usurpadores_ resolvió 3 problemas y obtuvo el lugar #68 (94%) en The 2024 ICPC Mexico Finals
 1. _gatOS_ resolvió 2 problemas y obtuvo el lugar #45 (92%) en The 2025 ICPC Mexico Finals
+1. _Yo, yo pedo y el SAT (mis peores enemigos)_ resolvió 4 problemas y obtuvo el lugar #48 (92%) en The 2026 ICPC Mexico Finals
 1. _Syntax Terror_ resolvió 1 problemas y obtuvo el lugar #98 (92%) en The 2024 ICPC Mexico Finals
 1. _ITLN_ resolvió 7 problemas y obtuvo el lugar #101 (92%) en Gran Premio de Mexico 2019
 1. _EspantaBugs_ resolvió 2 problemas y obtuvo el lugar #42 (91%) en The 2023 ICPC Mexico Finals
 1. _Tutores Legales de Miguel Garza_ resolvió 2 problemas y obtuvo el lugar #59 (89%) en The 2025 ICPC Mexico Finals
 1. _Los Facilitadores_ resolvió 8 problemas y obtuvo el lugar #111 (88%) en The 2024 ICPC Gran Premio de Mexico
 1. _SPTeam_ resolvió 7 problemas y obtuvo el lugar #127 (87%) en The 2024 ICPC Gran Premio de Mexico
-1. _RQT_Recursivos_ resolvió 7 problemas y obtuvo el lugar #128 (87%) en The 2024 ICPC Gran Premio de Mexico
 
 ## Participaciones
 
@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **30** | **128** | **149** |
+| **Total** | **0** | **0** | **31** | **159** | **180** |
 | [2001-2002](#2001-2002) | 0 | 0 | 6 | 0 | 6 |
 | [2002-2003](#2002-2003) | 0 | 0 | 13 | 0 | 13 |
 | [2013-2014](#2013-2014) | 0 | 0 | 2 | 0 | 2 |
@@ -31,6 +31,7 @@
 | [2023-2024](#2023-2024) | 0 | 0 | 1 | 11 | 11 |
 | [2024-2025](#2024-2025) | 0 | 0 | 2 | 31 | 31 |
 | [2025-2026](#2025-2026) | 0 | 0 | 4 | 32 | 32 |
+| [2026-2027](#2026-2027) | 0 | 0 | 1 | 31 | 31 |
 
 ### 2001-2002
 
@@ -213,6 +214,40 @@
 1. #515 (#130 de TecNM) _Prietos en Aprietos_ (Clasificatorio)
 1. #520 (#131 de TecNM) _void_ (Clasificatorio)
 1. #526 (#132 de TecNM) _Los Tribaleros_ (Clasificatorio)
+
+### 2026-2027
+
+1. #48 (#5 de TecNM) _Yo, yo pedo y el SAT (mis peores enemigos)_ (Regional)
+1. #81 (#14 de TecNM) _La Torre de Babel_ (Clasificatorio)
+1. #88 (#17 de TecNM) _gatOS XP_ (Clasificatorio)
+1. #115 (#23 de TecNM) _Discipulos de Ciseña Again_ (Clasificatorio)
+1. #133 (#25 de TecNM) _gatitas_negras.cpp_ (Clasificatorio)
+1. #176 (#36 de TecNM) _Sixsevencitos_ (Clasificatorio)
+1. #191 (#40 de TecNM) _Dev3lopers_ (Clasificatorio)
+1. #195 (#42 de TecNM) _Dormilones Div. 2_ (Clasificatorio)
+1. #201 (#44 de TecNM) _Dormilones Div. 1_ (Clasificatorio)
+1. #209 (#45 de TecNM) _Javalimos_ (Clasificatorio)
+1. #216 (#47 de TecNM) _Maria no se quiso unir al equipo pero Gera si_ (Clasificatorio)
+1. #223 (#49 de TecNM) _Los Oswaldinos_ (Clasificatorio)
+1. #224 (#50 de TecNM) _Syntax Error: Too Many Migueles_ (Clasificatorio)
+1. #225 (#51 de TecNM) _Los 3 brutales_ (Clasificatorio)
+1. #268 (#56 de TecNM) _Not Found 404: LLR_ (Clasificatorio)
+1. #270 (#57 de TecNM) _Null-Pointers_ (Clasificatorio)
+1. #313 (#68 de TecNM) _Code Piece _ (Clasificatorio)
+1. #314 (#69 de TecNM) _Femvoids_ (Clasificatorio)
+1. #323 (#70 de TecNM) _Cebolla tomate y chile_ (Clasificatorio)
+1. #362 (#78 de TecNM) _ChinOs_ (Clasificatorio)
+1. #379 (#82 de TecNM) _C Más o Menos_ (Clasificatorio)
+1. #385 (#85 de TecNM) _Dormilones Div. 3_ (Clasificatorio)
+1. #404 (#89 de TecNM) _GineCodigos_ (Clasificatorio)
+1. #414 (#91 de TecNM) _Burritos de C (Recalentados)_ (Clasificatorio)
+1. #440 (#97 de TecNM) _Call of Coding_ (Clasificatorio)
+1. #458 (#101 de TecNM) _CMMP_ (Clasificatorio)
+1. #495 (#108 de TecNM) _MEC_ (Clasificatorio)
+1. #499 (#110 de TecNM) _Cadetes_ (Clasificatorio)
+1. #510 (#111 de TecNM) _Black Panthers_ (Clasificatorio)
+1. #510 (#111 de TecNM) _Notenemosunnombredeequipo_ (Clasificatorio)
+1. #510 (#111 de TecNM) _Tutores Legales de Harold Vazquez_ (Clasificatorio)
 
 
 

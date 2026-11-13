@@ -257,7 +257,7 @@ The ICPC World Finals Invitational Contest
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos | Escuelas |
 | --- | --- | --- | --- | --- | --- | --- |
-| **Total** | **6** | **0** | **811** | **3514** | **4176** | **191** |
+| **Total** | **6** | **0** | **811** | **3515** | **4177** | **191** |
 | [2000-2001](#2000-2001) | 1 | 0 | 0 | 0 | 1 | 1 |
 | [2001-2002](#2001-2002) | 1 | 0 | 29 | 0 | 29 | 12 |
 | [2002-2003](#2002-2003) | 0 | 0 | 29 | 0 | 29 | 9 |
@@ -284,7 +284,7 @@ The ICPC World Finals Invitational Contest
 | [2023-2024](#2023-2024) | 0 | 0 | 10 | 133 | 133 | 28 |
 | [2024-2025](#2024-2025) | 0 | 0 | 23 | 593 | 593 | 71 |
 | [2025-2026](#2025-2026) | 0 | 0 | 32 | 133 | 134 | 25 |
-| [2026-2027](#2026-2027) | 0 | 0 | 15 | 136 | 138 | 28 |
+| [2026-2027](#2026-2027) | 0 | 0 | 15 | 137 | 139 | 28 |
 
 # Ranking de escuelas
 
@@ -300,7 +300,7 @@ The ICPC World Finals Invitational Contest
 | 6 | [Instituto Tecnológico de Cancún](escuela/instituto-tecnologico-de-cancun) | 0 | 0 | 5 | 47 | 47 |
 | 7 | [Instituto Tecnológico de Veracruz](escuela/instituto-tecnologico-de-veracruz) | 0 | 0 | 5 | 24 | 24 |
 | 8 | [Instituto Tecnológico de Querétaro](escuela/instituto-tecnologico-de-queretaro) | 0 | 0 | 4 | 13 | 13 |
-| 9 | [Instituto Tecnológico de Lázaro Cárdenas](escuela/instituto-tecnologico-de-lazaro-cardenas) | 0 | 0 | 3 | 39 | 40 |
+| 9 | [Instituto Tecnológico de Lázaro Cárdenas](escuela/instituto-tecnologico-de-lazaro-cardenas) | 0 | 0 | 3 | 40 | 41 |
 | 10 | [Instituto Tecnológico Superior de Salvatierra](escuela/instituto-tecnologico-superior-de-salvatierra) | 0 | 0 | 2 | 42 | 42 |
 | 11 | [Instituto Tecnologico Superior de Purisima del Rincon](escuela/instituto-tecnologico-superior-de-purisima-del-rincon) | 0 | 0 | 2 | 35 | 35 |
 | 12 | [Instituto Tecnológico Superior de Calkiní](escuela/instituto-tecnologico-superior-de-calkini) | 0 | 0 | 2 | 28 | 28 |
@@ -348,7 +348,7 @@ The ICPC World Finals Invitational Contest
 | 24 | [Instituto Tecnologico Superior de Santiago Papasquiaro](escuela/instituto-tecnologico-superior-de-santiago-papasquiaro) | 0 | 0 | 14 | 44 | 56 |
 | 25 | [Instituto Tecnologico de Morelia](escuela/instituto-tecnologico-de-morelia) | 0 | 0 | 14 | 30 | 43 |
 | 26 | [Instituto Tecnológico Superior de Uruapan](escuela/instituto-tecnologico-superior-de-uruapan) | 0 | 0 | 13 | 62 | 75 |
-| 27 | [Instituto Tecnológico de Lázaro Cárdenas](escuela/instituto-tecnologico-de-lazaro-cardenas) | 0 | 0 | 12 | 74 | 83 |
+| 27 | [Instituto Tecnológico de Lázaro Cárdenas](escuela/instituto-tecnologico-de-lazaro-cardenas) | 0 | 0 | 12 | 75 | 84 |
 | 28 | [Instituto Tecnológico Superior de Tacámbaro](escuela/instituto-tecnologico-superior-de-tacambaro) | 0 | 0 | 12 | 26 | 38 |
 | 29 | [INSTITUTO TECNOLOGICO DE CUAUTLA](escuela/instituto-tecnologico-de-cuautla) | 0 | 0 | 12 | 20 | 32 |
 | 30 | [Instituto Tecnologico Superior de Fresnillo](escuela/instituto-tecnologico-superior-de-fresnillo) | 0 | 0 | 12 | 6 | 18 |

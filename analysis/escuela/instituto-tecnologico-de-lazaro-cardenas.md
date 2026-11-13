@@ -19,7 +19,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **12** | **74** | **83** |
+| **Total** | **0** | **0** | **12** | **75** | **84** |
 | [2011-2012](#2011-2012) | 0 | 0 | 2 | 0 | 2 |
 | [2012-2013](#2012-2013) | 0 | 0 | 3 | 0 | 3 |
 | [2013-2014](#2013-2014) | 0 | 0 | 3 | 0 | 3 |
@@ -32,7 +32,7 @@
 | [2023-2024](#2023-2024) | 0 | 0 | 0 | 1 | 1 |
 | [2024-2025](#2024-2025) | 0 | 0 | 1 | 3 | 3 |
 | [2025-2026](#2025-2026) | 0 | 0 | 1 | 5 | 5 |
-| [2026-2027](#2026-2027) | 0 | 0 | 1 | 5 | 6 |
+| [2026-2027](#2026-2027) | 0 | 0 | 1 | 6 | 7 |
 
 ### 2011-2012
 
@@ -154,6 +154,7 @@
 1. #191 (#40 de TecNM) _Los numeros primos_ (Clasificatorio)
 1. #312 (#67 de TecNM) _Chiqui-coders_ (Clasificatorio)
 1. #472 (#102 de TecNM) _Las galletas_ (Clasificatorio)
+1. #510 (#111 de TecNM) _CodeSisters_ (Clasificatorio)
 1. #510 (#111 de TecNM) _sudo setoolkit1233_ (Clasificatorio)
 
 

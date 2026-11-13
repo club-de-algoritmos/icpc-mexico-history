@@ -195,15 +195,9 @@
   },
   {
     "name": "CETYS Universidad",
-    "alt_names": [],
-    "community": null,
-    "country": "mexico",
-    "state": null,
-    "is_eligible": true
-  },
-  {
-    "name": "CETYS Universidad Campus Mexicali",
-    "alt_names": [],
+    "alt_names": [
+      "CETYS Universidad Campus Mexicali"
+    ],
     "community": null,
     "country": "mexico",
     "state": null,
@@ -1152,7 +1146,9 @@
   },
   {
     "name": "Instituto Tecnológico de Lázaro Cárdenas",
-    "alt_names": [],
+    "alt_names": [
+      "Intituto Tecnologico de Lázaro Cárdenas"
+    ],
     "community": "Tecnologico Nacional de Mexico",
     "country": "mexico",
     "state": null,
@@ -1941,14 +1937,6 @@
     "is_eligible": true
   },
   {
-    "name": "Intituto Tecnologico de Lázaro Cárdenas",
-    "alt_names": [],
-    "community": null,
-    "country": "mexico",
-    "state": null,
-    "is_eligible": true
-  },
-  {
     "name": "IPN Juan de Dios Batiz Paredes",
     "alt_names": [],
     "community": null,
@@ -2688,7 +2676,9 @@
   },
   {
     "name": "Universidad Autónoma de Yucatán",
-    "alt_names": [],
+    "alt_names": [
+      "Univesidad Autonoma de Yucatán"
+    ],
     "community": null,
     "country": "mexico",
     "state": null,
@@ -3784,14 +3774,6 @@
     "alt_names": [],
     "community": null,
     "country": "jamaica",
-    "state": null,
-    "is_eligible": true
-  },
-  {
-    "name": "Univesidad Autonoma de Yucatán",
-    "alt_names": [],
-    "community": null,
-    "country": "mexico",
     "state": null,
     "is_eligible": true
   },

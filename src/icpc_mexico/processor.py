@@ -170,6 +170,23 @@ def get_schools(contests: List[FinishedContest]) -> List[School]:
             country=MEXICO,
         ),
         School(
+            name='CETYS Universidad',
+            alt_names=['CETYS Universidad Campus Mexicali'],
+            country=MEXICO,
+        ),
+        School(
+            name='Instituto Tecnológico de Lázaro Cárdenas',
+            alt_names=['Intituto Tecnologico de Lázaro Cárdenas'],
+            community=SchoolCommunity.TECNM,
+            country=MEXICO,
+        ),
+        School(
+            name='Universidad Autónoma de Yucatán',
+            alt_names=['Univesidad Autonoma de Yucatán'],
+            country=MEXICO,
+        ),
+
+        School(
             name='Facultad de Ingenieria - Universidad Nacional Autónoma de México',
             alt_names=['Facultad de Ingenieria-Universidad Nacional Autónoma de México'],
             country=MEXICO,

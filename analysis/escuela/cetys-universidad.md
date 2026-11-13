@@ -4,14 +4,14 @@
 
 1. _Cuahutémoc_ resolvió 3 problemas y obtuvo el lugar #30 (98%) en The 2019 ICPC Mexico Finals
 1. _Cuauhtemoc_ resolvió 2 problemas y obtuvo el lugar #54 (94%) en The 2018 ICPC Mexico and Central America Finals
+1. _papeadores de dp_ resolvió 4 problemas y obtuvo el lugar #52 (92%) en The 2026 ICPC Mexico Finals
 1. _ABP_ resolvió 3 problemas y obtuvo el lugar #214 (83%) en Gran Premio de Mexico 2019
 1. _Hello, ICE_ resolvió 5 problemas y obtuvo el lugar #140 (78%) en Gran Premio de Mexico 2018
+1. _keep on dreaming, Chomski!_ resolvió 9 problemas y obtuvo el lugar #130 (76%) en The 2026 ICPC Gran Premio de Mexico
 1. _Vampiritos y duendes_ resolvió 6 problemas y obtuvo el lugar #210 (64%) en The 2026 ICPC Gran Premio de Mexico
 1. _U7_ resolvió 2 problemas y obtuvo el lugar #273 (63%) en Gran Premio de Mexico 2018
 1. _Legotaco_ resolvió 4 problemas y obtuvo el lugar #267 (62%) en Gran Premio de Mexico 2020
 1. _Team Skype ft. Chema_ resolvió 2 problemas y obtuvo el lugar #305 (59%) en Gran Premio de Mexico 2018
-1. _Subarus _ resolvió 6 problemas y obtuvo el lugar #226 (55%) en The 2025 ICPC Gran Premio de Mexico
-1. _Developerros_ resolvió 0 problemas y obtuvo el lugar #121 (53%) en Gran Premio de Mexico & Centroamerica
 
 ## Participaciones
 
@@ -19,13 +19,13 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **0** | **0** | **2** | **17** | **17** |
+| **Total** | **0** | **0** | **3** | **21** | **21** |
 | [2016-2017](#2016-2017) | 0 | 0 | 0 | 2 | 2 |
 | [2018-2019](#2018-2019) | 0 | 0 | 1 | 5 | 5 |
 | [2019-2020](#2019-2020) | 0 | 0 | 1 | 2 | 2 |
 | [2020-2021](#2020-2021) | 0 | 0 | 0 | 1 | 1 |
 | [2025-2026](#2025-2026) | 0 | 0 | 0 | 4 | 4 |
-| [2026-2027](#2026-2027) | 0 | 0 | 0 | 3 | 3 |
+| [2026-2027](#2026-2027) | 0 | 0 | 1 | 7 | 7 |
 
 ### 2016-2017
 
@@ -58,8 +58,12 @@
 
 ### 2026-2027
 
+1. #52 _papeadores de dp_ (Regional)
+1. #130 _keep on dreaming, Chomski!_ (Clasificatorio)
 1. #210 _Vampiritos y duendes_ (Clasificatorio)
 1. #342 _Triple t_ (Clasificatorio)
+1. #378 _M12_ (Clasificatorio)
+1. #488 _Bomba Yucateca_ (Clasificatorio)
 1. #510 _Maneayorkinos_ (Clasificatorio)
 
 

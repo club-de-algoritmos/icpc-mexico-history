@@ -2683,7 +2683,8 @@
   {
     "name": "Universidad Autónoma de Yucatán",
     "alt_names": [
-      "Univesidad Autonoma de Yucatán"
+      "Univesidad Autonoma de Yucatán",
+      "Universidad Autónoma de Yucatán, Facultad de Ingeniería"
     ],
     "community": null,
     "country": "mexico",
@@ -2692,14 +2693,6 @@
   },
   {
     "name": "Universidad Autónoma de Yucatán Campus Tizimín",
-    "alt_names": [],
-    "community": null,
-    "country": "mexico",
-    "state": null,
-    "is_eligible": true
-  },
-  {
-    "name": "Universidad Autónoma de Yucatán, Facultad de Ingeniería",
     "alt_names": [],
     "community": null,
     "country": "mexico",

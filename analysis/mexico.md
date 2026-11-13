@@ -239,7 +239,7 @@ The 48th Annual World Finals of the International Collegiate Programming Contest
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos | Escuelas |
 | --- | --- | --- | --- | --- | --- | --- |
-| **Total** | **76** | **18** | **2651** | **8695** | **10480** | **388** |
+| **Total** | **76** | **18** | **2651** | **8695** | **10480** | **387** |
 | [1996-1997](#1996-1997) | 1 | 0 | 0 | 0 | 1 | 1 |
 | [1997-1998](#1997-1998) | 1 | 0 | 0 | 0 | 1 | 1 |
 | [1998-1999](#1998-1999) | 3 | 0 | 0 | 0 | 3 | 3 |
@@ -270,7 +270,7 @@ The 48th Annual World Finals of the International Collegiate Programming Contest
 | [2023-2024](#2023-2024) | 2 | 5 | 55 | 450 | 450 | 74 |
 | [2024-2025](#2024-2025) | 2 | 7 | 120 | 1182 | 1182 | 134 |
 | [2025-2026](#2025-2026) | 0 | 6 | 136 | 529 | 535 | 84 |
-| [2026-2027](#2026-2027) | 0 | 0 | 84 | 610 | 616 | 91 |
+| [2026-2027](#2026-2027) | 0 | 0 | 84 | 610 | 616 | 90 |
 
 ## Ranking de escuelas
 
@@ -285,7 +285,7 @@ The 48th Annual World Finals of the International Collegiate Programming Contest
 | 5 | [Instituto Tecnológico Autónomo de México](escuela/instituto-tecnologico-autonomo-de-mexico) | 2 | 0 | 7 | 16 | 16 |
 | 6 | [ITESM Campus Monterrey](escuela/itesm-campus-monterrey) | 1 | 1 | 30 | 232 | 232 |
 | 7 | [Facultad de Ciencias-Universidad Nacional Autónoma de México](escuela/facultad-de-ciencias-universidad-nacional-autonoma-de-mexico) | 1 | 1 | 23 | 84 | 84 |
-| 8 | [Universidad Autónoma de Yucatán](escuela/universidad-autonoma-de-yucatan) | 1 | 1 | 15 | 68 | 68 |
+| 8 | [Universidad Autónoma de Yucatán](escuela/universidad-autonoma-de-yucatan) | 1 | 1 | 15 | 69 | 69 |
 | 9 | [ITESM Campus Guadalajara](escuela/itesm-campus-guadalajara) | 1 | 1 | 13 | 51 | 51 |
 | 10 | [Universidad Autónoma de Nuevo Leon](escuela/universidad-autonoma-de-nuevo-leon) | 1 | 0 | 15 | 132 | 133 |
 | 11 | [Facultad de Ingenieria - Universidad Nacional Autónoma de México](escuela/facultad-de-ingenieria-universidad-nacional-autonoma-de-mexico) | 0 | 1 | 15 | 76 | 76 |
@@ -314,7 +314,7 @@ The 48th Annual World Finals of the International Collegiate Programming Contest
 | 16 | [ITESM Campus Estado de Mexico](escuela/itesm-campus-estado-de-mexico) | 2 | 0 | 33 | 129 | 144 |
 | 17 | [Instituto Tecnológico de Culiacán](escuela/instituto-tecnologico-de-culiacan) | 2 | 0 | 29 | 70 | 84 |
 | 18 | [ITESM Campus Guadalajara](escuela/itesm-campus-guadalajara) | 1 | 1 | 55 | 68 | 109 |
-| 19 | [Universidad Autónoma de Yucatán](escuela/universidad-autonoma-de-yucatan) | 1 | 1 | 30 | 108 | 116 |
+| 19 | [Universidad Autónoma de Yucatán](escuela/universidad-autonoma-de-yucatan) | 1 | 1 | 30 | 109 | 117 |
 | 20 | [Universidad Autónoma de Tlaxcala](escuela/universidad-autonoma-de-tlaxcala) | 1 | 0 | 35 | 41 | 76 |
 | 21 | [ITESM Campus Puebla](escuela/itesm-campus-puebla) | 1 | 0 | 29 | 87 | 99 |
 | 22 | [Universidad Juárez Autónoma de Tabasco](escuela/universidad-juarez-autonoma-de-tabasco) | 1 | 0 | 0 | 0 | 1 |

@@ -20,7 +20,7 @@
 
 | Temporada | Finales mundiales | Campeonatos | Regionales | Clasificatorios | Equipos |
 | --- | --- | --- | --- | --- | --- |
-| **Total** | **1** | **1** | **30** | **108** | **116** |
+| **Total** | **1** | **1** | **30** | **109** | **117** |
 | [2001-2002](#2001-2002) | 0 | 0 | 1 | 0 | 1 |
 | [2002-2003](#2002-2003) | 0 | 0 | 2 | 0 | 2 |
 | [2004-2005](#2004-2005) | 0 | 0 | 1 | 0 | 1 |
@@ -39,7 +39,7 @@
 | [2023-2024](#2023-2024) | 0 | 0 | 1 | 4 | 4 |
 | [2024-2025](#2024-2025) | 1 | 1 | 3 | 21 | 21 |
 | [2025-2026](#2025-2026) | 0 | 0 | 5 | 19 | 19 |
-| [2026-2027](#2026-2027) | 0 | 0 | 5 | 18 | 18 |
+| [2026-2027](#2026-2027) | 0 | 0 | 5 | 19 | 19 |
 
 ### 2001-2002
 
@@ -203,6 +203,7 @@
 1. #83 _V for Vector_ (Regional)
 1. #62 _Error 67_ (Clasificatorio)
 1. #70 _Salbutes con frijol_ (Clasificatorio)
+1. #72 _IFbonaccis_ (Clasificatorio)
 1. #142 _FizzBuzz_ (Clasificatorio)
 1. #185 _No Puedes Porque Soy La Condesa_ (Clasificatorio)
 1. #193 _Chilaquiles con javaica_ (Clasificatorio)

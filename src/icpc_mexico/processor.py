@@ -170,8 +170,8 @@ def get_schools(contests: List[FinishedContest]) -> List[School]:
             country=MEXICO,
         ),
         School(
-            name='CETYS Universidad',
-            alt_names=['CETYS Universidad Campus Mexicali'],
+            name='Universidad La Salle, México',
+            alt_names=['Universidad La Salle Mexico', 'Universidad de La Salle'],
             country=MEXICO,
         ),
         School(

@@ -182,7 +182,7 @@ def get_schools(contests: List[FinishedContest]) -> List[School]:
         ),
         School(
             name='Universidad Autónoma de Yucatán',
-            alt_names=['Univesidad Autonoma de Yucatán', 'Universidad Autónoma de Yucatán, Facultad de Ingeniería'],
+            alt_names=['Univesidad Autonoma de Yucatán'],
             country=MEXICO,
         ),
 
